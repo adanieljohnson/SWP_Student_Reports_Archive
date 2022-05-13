@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 15:23:20
+Author of this lab report is: Std_lfoGde59
+ID: R_6hXWgCHkgebVMit
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Significance of Calcium in Generating Action Potential in Lithobates sphenocephalus Neuromuscular system
+
+Abstract:
+Extracellular calcium ions play a large role in creating action potential in neuromuscular systems. This experiment uses legs from the southern leopard frog, Lithobates sphenocephalus, to observe whether calcium blocker decreases the strength of action potential, tested with electrical stimulation. It was hypothesized that the greatest responses of the control groups with no blocker would be larger than those of the experimental groups. Each of 3 legs were stimulated before and after injection of the calcium blocker. The data reveals no general trend in whether the calcium blocker decreased the strength of the action potential in each frog leg. Results from trial 1 and 2 showed a larger twitch response in control groups, but the third trial showed a greater response with the blocker. Data from the first and second trial supported the initial hypothesis, however the paired t-test showed a p-value of 0.44, revealing the data did not show a statistically significant relationship between calcium blockers and muscular action potential. Further experimentation would test the significance of the role of calcium in twitch generation against other ions or neurotransmitters in the neuromuscular junction, also using more trials to reveal larger patterns in the data.
+
+Introduction:
+Calcium plays an integral role in signaling movement from neuron to muscle tissue. Calcium concentrations are low in the neuron, so flow of this ion into the cell, which is triggered by depolarization down the axon, crosses and shifts the large concentration gradient. In synaptic transmission, calcium must flow into the presynaptic terminus to signal the release of neurotransmitter to the post synaptic terminus. This neurotransmitter – in this case, acetylcholine – acts as an inhibitory signal that binds to acetylcholine receptors on the muscles’ post synaptic terminus. Acetylcholine reception opens AChR channels, causing sodium ions to rush into the muscle and potassium to flow out. This movement of ions triggers depolarization, allowing action potential in the muscle [Ross: 2018]. Furthermore, calcium is important for promoting the production of action potential in an organism’s muscular system. A study observing the effects of calcium on skeletal-muscular systems found that high concentrations of calcium blocker can affect twitch contraction though many believe calcium influx is of little importance to twitch production [Godfraind: 1986]. This raises the question to whether the addition of calcium blockers has a significant effect on the action potential in a muscle. This experiment tests the effects of calcium on the sciatic nerve twitch response of a Lithobates sphenocephalus leg using a calcium blocker injected into the surrounding muscle. Action potential strength is measured by twitch strength of the sciatic nerve, measured with a pulse simulator. It is hypothesized that the greatest twitch responses of the control groups will be larger than those of the experimental groups with the calcium blocker. This would support the importance of the role of calcium in twitch generation; blocking calcium entry would limit the action potential of the muscle, resulting in weaker responses. 
+
+Materials and Methods:
+In this experiment 3 frog legs were carefully dissected, removing the skin and specifically exposing the sciatic nerve. The first leg was connected to the FT-302 force transducer with the sciatic nerve of one leg laid on the transducer. Twitch strength was recorded with stimulation at 0 V, 3.0 V, and 5.0 V by the magnitude of the pulse on the computer program. Each twitch strength was recorded based on maximum magnitude of the visual pulse, as shown on the program in volts. Next, 0.2 mL of calcium blocker was injected into the gastrocnemius muscle of the same leg. The blocker was left to sit in the leg for 8 minutes before stimulated again; the tension of the frog leg after 8 minutes was adjusted accordingly. For the experimental data, the sciatic nerve response was recorded at 0 V, 0.5 V, 1.0 V, 3.0 V, and 5.0 V after injection of calcium blocker. This process was repeated for the other two legs, resulting in three trials with a control and experimental group for each leg. The maximum twitch strength for each group was used in a one tailed paired T-test to test significance of the data with an alpha value of 0.05. 
+
+Results:
+Data from Figure 1 displays the highest twitch strength of the sciatic nerve with a range of 3 V to 5 V of applied electric stimulation. The experimental group represents the Lithobates sphenocephalus legs after injection of calcium blocker. Data from Leg 1 shows a control response of 1.4 V, which is significantly higher than the experimental response of 0.074 V. The control response is also significantly higher than all other responses recorded across trials. Trial 2 also shows greater pulse strength of the control than the experimental group, 0.054 V and 0.022 V respectively. However, trial 2 shows a less extreme difference between its control and experimental group. Trials 1 and 2 show a trend of weaker twitch responses with calcium blocker, however, leg 3 shows a greater response in the experimental group. With a control response of 0.246 V, the experimental response strengthens to 0.315 V. The differences of pulse strength between control and experimental groups did not prove to be statistically significant (t-stat = 0.96, df = 2, P = 0.44).  
+
+Discussion:
+The experimental findings reveal no consistent pattern in the data. Though the higher twitch strengths of the control groups in trials 1 and 2 support the initial hypothesis, variation in pulse strengths reveal uncertainty in the significance of the data. For instance, leg 1 shows a significantly higher response than all others, possibly from human error when adjusting the tension of the leg to the force transducer. Without using data from this trial, trial 2 and 3 showed responses much closer in proximity of voltage, but still showing no general trend. Trial 2 shows a greater response in the control group than the experimental group, suggesting that the calcium blocker decreased the action potential in the sciatic nerve. However, because trial 3 showed a greater response in the experimental leg, other factors in the individual legs may have contributed to the responses recorded. A study conducted to observe the effects of calcium blockers on nonvascular tissues found that intracellular calcium levels may be higher than anticipated because contractions were still produced by acetylcholine in a calcium-free solution [Godfraind: 1986]. This finding suggests that extracellular calcium movement into the muscle is not as essential to twitch production as anticipated. In addition, the P-value revealed no significance within the data. This means that there was no apparent relationship between the twitch strength and the addition of calcium blocker. This conclusion draws the question as to what aspect of signal transduction in the neuromuscular junction plays the largest role in promoting action potential in the muscle. Further experimentation could test the twitch strength of legs bathed in higher calcium concentrated solutions and calcium free solutions to test the significance of the role of calcium in twitch generation. Though trial 2 is representative of the hypothesized data, the other trials reveal the importance of repetition in an experiment. With many more trials, general trends may have been revealed and there may have been less variation overall. 
+
+Literature Cited:
+1.	Ross, Miriam-Ashley. “Intracellular Communication.” Comparative Physiology 114. Wake Forest University. Winston-Salem, October 1, 2018.
+2.	Theophile Godfraind, Robert Miller, Maurice Wibo. Calcium Antagonism and Calcium Entry Blockade. Page 341. October 30, 2018. &lt; &lt;http://pharmrev.aspetjournals.org/content/pharmrev/38/4/321.full.pdf&gt;&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-12+at+9.24.26+PM.png&Size=85869&Type=image%2Fpng&F=F_1IT148gtsFGdA92
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Greatest twitch strength of Lithobates sphenocephalus leg from various voltage stimulations*************************************************************************
+
+
+

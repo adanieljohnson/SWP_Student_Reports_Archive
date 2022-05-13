@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-11 20:22:05
+Author of this lab report is: Std_rib6eIIt
+ID: R_3fq8k3w8UD8pKHZ
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The decreased twitch amplitude of frog legs injected with lanthanum chloride
+
+Abstract:
+The presence of calcium is essential in the signaling of muscle contraction in organisms. Specifically, the release of calcium into the sarcoplasm prompts the formation of myosin-actin crossbridges, which allow for the muscle fibers to shorten. Here we observe the effect that lanthanum chloride, a calcium blocker, has on the intensity of the gastrocnemius muscle twitch in a frog. We hypothesized that after injecting this calcium blocker into the frog leg, the intensity of the muscle contraction would be lowered. To test this, we tested three separate frog legs, each being their own control and then re-tested after the lanthanum chloride injection. Our data did not show a significant difference between the amplitudes of the control and the amplitudes of the experimental in each of the frog legs, but there was an overall consistency of lower-amplitude muscle twitches in each of the legs after the treatment. Therefore, our hypothesis was not statistically supported. However, this finding is beneficial because the trends observed showed evidence against an organism’s exposure to any chemical that may block calcium in their body due to the risk of reduced contraction response or potential paralysis.  
+
+Introduction:
+In the neuromuscular system of organisms, the cells communicate via a stimulus-response process which takes place in milliseconds. In order to study the intricacies of this system through experimentation, it is most practical to use the frog as a model organism rather than directly testing this process on humans. The gastrocnemius muscle and sciatic nerve of the frog leg are beneficial in the lab due to their biological resemblance of the human neuromuscular system and the way in which their cells communicate. In this type of cell signaling, action potentials to travel down axons, become depolarized, and acetylcholine binds to its receptor on the muscle fiber. This opens the sodium channels, which causes action potentials to spread throughout the fiber, calcium ions activate the muscle fiber contractile mechanism, movement of the myosin causes myofibers to shorten, and reuptake of the calcium ions allow muscle fibers to relax. Focusing on calcium specifically, the release of calcium in the sarcoplasm from the sarcoplasmic reticulum triggers the binding of myosin to actin. The globular heads of myosin attach to the actin, and after the inorganic phosphate is released, the power stroke occurs. This allows the myosin head to change conformation, shortening the length of the sarcomere, therefore contracting the muscle fibers [Johnson:2016]. Lanthanum chloride is a chemical that replaces calcium ions at receptor sites on muscle fibers, which inhibits the mobility of calcium in essential binding sites involved in muscle contraction [Weiss:1969]. Due to the fact that calcium is so integral in the initiation of muscle contraction, we hypothesize that injecting lanthanum chloride into the gastrocnemius muscle of the frog will hinder the intensity of the muscle contraction, which would be depicted by a lower amplitude. 
+
+Materials and Methods:
+Three separate frog legs were placed on three separate trays. The gastrocnemius muscle and sciatic nerve of each was exposed and the tissues were kept moist with frog ringer solution. The gastrocnemius muscle of each frog leg was raised to a 90-degree angle and tethered to a force transducer to allow for observation of the muscle twitch. The sciatic nerve of the first frog leg was draped over an electrode. A series of voltage stimuli were applied to the nerve and the amplitudes of the muscle twitches was recorded; this data was used as the control for the first frog leg. Then the same frog was injected with 2 milliliters of lanthanum chloride and we waited 5-10 minutes before further experimentation. The same series of voltage stimuli were applied to the nerve and the amplitudes of the injected muscle twitches were recorded. These steps were repeated with the two remaining frog legs. A t-test was used to compare the twitch amplitudes of the control muscle twitch and the experimental muscle twitch in each frog leg. 
+
+Results:
+There is an overall trend of higher twitch amplitude in the control group for each frog leg relative to the experimental group for each frog leg (Figure 1). The mean twitch amplitude for the control group is 1.05 V and the mean twitch amplitude for the experimental group is 0.72 V. The standard deviation for the control group is 0.224 and the standard deviation for the experimental group is 0.334 (Figure 1). The result of the one-tailed t test is that the twitch amplitude of the control group is not statistically significantly different than that of the experimental group (t-stat= 1.408, df= 4, P= 0.116). 
+
+Discussion:
+Upon completion of this experiment, it was determined that our hypothesis was not statistically supported. There was no observed significant difference between the twitch amplitudes of the control group and experimental group of each frog leg, despite the differences between the twitch amplitudes observed in the collected data (Figure 1). One important reason why this hypothesis is not statistically supported is the small sample size used to compare each frog leg at the same stimulus. Without putting as much emphasis on the statistical results, the results of the data, as displayed in Figure 1, of this experiment make sense. By blocking the opening of voltage-gated calcium channels, the calcium is unable to be released into the sarcoplasm from the sarcoplasmic reticulum. With this reduction of calcium ions in the sarcoplasm, myosin-actin crossbridges are not as easily formed [Johnson:2016]. This results in the contraction of muscle being less intense due to the fact that there are not enough calcium ions in supply to contract every muscle fiber in the gastrocnemius muscle under these conditions due to the decreased mobility of calcium ions [Weiss:1969]. Defective formation of myosin-actin crossbridges leads to decreased performance of the muscle and this general muscular weakness may result in muscular atrophy and paralysis, making it difficult for the organism to carry out necessary functions for survival [Bradley:2018]. Therefore, the broader implications of this experiment are to provide evidence of the importance of calcium in the diet of any organism that relies on neuromuscular efficiency for survival and to address how necessary it is that any such organism avoid contact with chemicals that may block calcium in the neuromuscular signaling process. 
+
+Literature Cited:
+Bradley, WG., et al. 2018. Muscle Disease. Encylcopedia Brittanica, Inc. 
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 19-34. 
+Weiss, GB., Goodman, FR. 1969. Effects of lanthanum on contraction, calcium distribution and Ca45 movements in intestinal smooth muscle. The Journal of pharmacology and experimental therapeutics. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chart+report+2.png&Size=57385&Type=image%2Fpng&F=F_2E0Izq1bP7mj9Wp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The recorded muscle twitch amplitudes of each frog leg without the injection (control) and with the injection of lanthanum chloride (experimental). The amplitudes are recorded in volts and the data recorded in this table corresponds to a voltage stimulus of 1.0 V. The error bars included in this figure represent the standard deviations of twitch amplitudes of each group. *************************************************************************
+
+
+

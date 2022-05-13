@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 17:32:44
+Author of this lab report is: Std_GHEGV9cY
+ID: R_uwA9SZxI7C2BQzv
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Lidocaine Injection Reduces Effects of Muscule Stimulation in Northern Leopard Frog
+
+Abstract:
+The northern leopard frog, Rana pipiens, is an ideal organism to use in experimentation due to its relatively small size and simple body structure.  The effects of muscular contraction in the R. pipiens leg are very obvious due to the anatomy of the organism.  This lab observes the effects of R. pipiens’ gastrocnemius muscle and sciatic nerve being injected with lidocaine on the intensity of the muscle’s response to stimulation.  The hypothesis of the experiment is that the injection of lidocaine into the gastrocnemius muscle and the sciatic nerve will ultimately lead to a decrease in the intensity of muscle contraction.  Data was collected by determining the threshold frequency for each of three R. pipiens legs, then measuring the response in volts of each R. pipiens leg before and after injection at a value slightly higher than threshold, then comparing the results.  The paired t-test conducted to examine the results produced statistically significant results.  The p-value was 0.069668.  The results suggest that lidocaine, when injected in R. pipiens gastrocnemius muscles, reduces the effects of stimulation on the muscle itself, leading to less intense muscular contractions.  This research is important due to its potential to reduce the effects overactive muscles.
+
+Introduction:
+In this experiment, the effect of lidocaine on muscle contraction in Rana pipiens is being examined.  Muscle contraction occurs due to neural communication, which is a much faster form of communication than hormonal communication.  In this experiment, the R. pipiens’ leg is being examined – specifically the sciatic nerve and the gastrocnemius muscle.  The gastrocnemius muscle is a skeletal muscle that has many myofibrils which are made up of fused cells.  As a result of this, they have multiple nuclei [Johnson: 2018].  These myofibrils are bound together to form skeletal muscles.  These muscles are innervated by motor neurons, which are located in the spinal chord’s gray matter [Johnson: 2018].  The axons of motoneurons branch into many myofibers at neuromuscular junctions.  Nerve impulses arriving here cause the release of acetylcholine, which then binds to muscle fibers and opens sodium channels which lead to an action potential being generated as Ca2+ releases from the sarcoplasmic reticulum.  This causes the contractile mechanism of the muscle fiber, which leads to the physically observed contraction itself [Johnson: 2018].  The addition of lidocaine to muscles has been found in previous studies to decrease the intensity of a given muscle contraction, and as a result it has been used to relieve pain in those suffering from chronic fatigue syndrome [Staud: 2017].  The gastrocnemius muscle and sciatic nerve are all large enough to be easily identified and observed, yet R. pipiens as a whole is a manageable organism to work with in a lab setting, making it an ideal organism for this study.  The hypothesis for this lab is that if the gastrocnemius muscle is injected with lidocaine and dripped onto the sciatic nerve, then muscle contraction strength should experience a large drop eventually.  This is due to the fact that lidocaine reduces the effects of depolarization by seemingly reducing the affects and ability of sodium channels to function properly.  The sodium channels are deactivated entirely, but slow down and become relatively inactive [Bagni: 2004].  The independent variable for this experiment is the amount of lidocaine being injected and dripped onto the gastrocnemius muscle and sciatic nerve, respectively, in milligrams.  The dependent variable is the amplitude of the muscle contraction.  
+
+Materials and Methods:
+In order to test the hypothesis of whether injecting R. pipiens’ gastrocnemius muscle with lidocaine and dripping lidocaine on the R pipiens’ sciatic nerve will ultimately reduce muscle contraction strength in the muscle itself, the following steps were completed.  The threshold of three different R. pipiens’ legs were found using the computer program LabScribe.  This was done attaching a probe to the gastrocnemius muscle and by stimulating the muscle at a variety of low amplitudes – measured in Hz – until a contraction was observed on the LabScribe program and physically seen.  The process should be repeated 3 times for the leg at the initial threshold to confirm the accuracy of the results.  Each time the stimulus is applied, the measured value for the response in volts (V) should be recorded.  When determining the threshold, it was important to hold the R. pipiens leg in a stable position using pins in order to make sure the signal is seen clearly, and the conditions of the experiment don’t change.  However, the pins should not go through the R. pipiens leg itself but surround it and hold it in place.  After the threshold is found, the R. pipiens’ leg should be tested 3 times again at a stimulus amplitude of 0.1 above the threshold that was initially found.  Next, the nerve and the muscle should be injected with lidocaine.  1 minute should go by after the leg has been injected with lidocaine before the experiment continues.  After 1 minute has gone by, the R. pipiens leg should receive the signal of 0.1 above the initially discovered threshold from the control trial.  This signal should be applied 3 times and the response in volts should be recorded.  This process should be repeated for each of the legs being used in the experiment.  The experimental data should be averaged for each leg, the response in volts at 0.1 above the initial threshold for each leg should be compared in each control and experimental trial.  The average difference should be calculated, and a paired t-test should be used to compare the various observed differences in the control and experimental legs to determine whether the hypothesis is supported or not.  
+
+Results:
+In each leg used in the experiment, the response voltage decreased upon the injection of lidocaine.  The average difference when comparing control and experimental values was a decrease of 0.0173.  The paired t-test determine the p-value to be 0.069668 (Fig. 1).  Given that the p-value is greater than 0.05, the data is statistically significant.  The t-value from the paired t-test was 3.587743, and there were 2 degrees of freedom (Fig. 1).  When finding the threshold, the relationship between stimulus and response proved to be linear – the response in volts increased with an increased amplitude of the stimulus.
+
+Discussion:
+The hypothesis of this lab was that the addition of lidocaine to the sciatic nerve and gastrocnemius muscle would eventually lead to a large drop in muscle contraction strength.  The data proved to support this hypothesis, as for each of three R. pipiens legs, there was a noticeable decrease in response to a given signal after the injection of lidocaine into the gastrocnemius muscle.  The data is able to support the hypothesis because the P-value is significant.  Because of this, the null hypothesis was successfully rejected, and the alternative hypothesis was supported.   This data suggests that further experimentation could be conducted to possible develop a product with lidocaine to help assist in overactive muscle issues and conditions such as chronic muscle fatigue by inhibiting strong contractions from occurring as easily in the muscles.  Lidocaine has proven to have similar effects on other organisms and in other parts of the body.  A study conducted with dogs injected lidocaine into the eye and found that akinesia resulted – the overall ability of the eye to move was limited [Ahn: 2012].  The results from this lab therefore correlate with the results of similar experiments: the injection of lidocaine into muscles generally seems to reduce muscular reactivity and the overall response to a given stimulus when compared with muscular reaction to a signal in the absence of lidocaine.  The data gathered in this lab is important because it suggests possible routes for future studies involving lidocaine and its effect on muscular activity.  One potential direction for research is determining how lidocaine can be used to stop twitches and other conditions involving overactive and overly sensitive muscles.  Some possible sources of error in this lab were that the program LabScribe showed black bars on the graphs for some of the trials that made the resulting value for the response in volts difficult to read.  Another possible source of error is that the second leg was somewhat irregular in its reactions when initially determining the control threshold.  The leg would often twitch but did not twitch twice.  Thus, the value might have been slightly too low that the leg was being stimulated with in the experimental trial.  Despite these possible sources of error, the lab did manage to support the hypothesis.
+
+Literature Cited:
+1.	Johnson, AD. Comparative Physiology. Bio 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC.  Vers. 18.2 (updated August 2, 2018), pp. 17-33.
+2.	Staud, R, Kizer, T, Robinson ME. 2017, Muscle injections with lidocaine improve resting fatigue and pain in patients with chronic fatigue syndrome, Journal of Pain Research, 12(10): 1477-1486.
+3.	Bagni, MA, Colombini, PG, Berlingeuer R, Cecchi, G. 2004, Non-cross-bridge calcium-dependent stiffness in frog muscle fibers, American Journal of Physiology, 286(6): 1353-1357.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-19+at+5.31.01+PM.png&Size=125052&Type=image%2Fpng&F=F_BDsR9MJLFg2U98J
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The average response in volts (V) of the R. pipiens leg to a signal measured at 0.1 above the threshold for each leg before injection of the gastrocnemius muscle with lidocaine and after are being compared to determine the effects of lidocaine on muscle contraction.*************************************************************************
+
+
+

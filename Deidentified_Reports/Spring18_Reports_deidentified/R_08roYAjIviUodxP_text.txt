@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-03-12 22:07:35
+Author of this lab report is: Std_l0nXQsSf 
+ID: R_08roYAjIviUodxP
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The Effect of the Concentration of Juvenile Hormone on the Weight of the Manduca Sexta 
+
+Abstract:
+The tobacco hornworm, Manduca sexta (M. sexta), member of the Lepidoptera order transitions into a moth in adulthood following four distinct stages; egg to larva to pupa to adult. In the larval stage the M. sexta displays five instar stages. Juvenile hormone (JH) is released continuously by the corpora allata and regulates the nature of the insect’s molt as well as its growth duration. We hypothesize that juvenile hormone also plays a role in regulating the body size, in terms of its weight, of the insect as well. We predict that the M. sexta larvae given Precor through their diet will undergo a change in body size as they reach adulthood in that they will maintain a body weight that is lower than the caterpillars not given any additional juvenile hormone. Through feeding the M. sexta larvae Precor, an imitator of juvenile hormone, we saw to increase the juvenile hormone concentration present in the larvae as they molted into adults. However, our hypothesis was rejected in that although the M. sexta caterpillars which were treated with Precor had a lower weight the obtained p-value concluded that no significant difference between the weights existed. 
+
+
+Introduction:
+The Manduca sexta (M. sexta), also known as the tobacco hornworm, which belongs to the Order Lepidoptera, has an average holometabolous life cycle of 39 to 48 days. In a holometabolous life cycle the insect experiences four distinct stages in which it starts as an egg/embryo and through a process called molting, in which the M. sexta sheds its cuticle, the egg grows into a larva. The larval stage consists of five growth periods in between molts called instars. It is in the final instar in which the M. sexta prepares for metamorphosis into an adult moth. Molting is triggered through appropriate stimulation in which the prothoracicotropic hormone (PTTH) is diffused into a prothoracic gland which causes the gland to secrete ecdysone which then when it comes in contact with target tissues stimulates molting. The concentration of juvenile hormone, produced mainly by the corpus allatum, has effect on the decision on what the insect become whether what to be larva, pupa, or adult i.e the type of molt. The M. sexta metamorphic transition is stimulated by the disappearance of juvenile hormone which results in the secretion of PTTH thus inducing the wandering stage [Browder & D’Amico & Nijhout: 2001]. The effect of juvenile hormone on the type of molt is related to the caterpillar weight in that its presence affects the growth duration of the caterpillar thus influencing its weight. We predict that by increasing the concentration of juvenile hormone present in the M. sexta when its in the larva stage which will prevent the insect from molting will result in a lower weight because its growth duration is being manipulated.
+
+
+Materials and Methods:
+Select eight Manduca sexta caterpillars in the larva stage who have not passed the commitment pulse, separate them into two groups (four in each group) one group being the treatment group and the other being the control group. Grab four container and with a notecard divide the container in half. On each side of the notecard label which group they belong to as well as numbering them. Before placing each caterpillar in its corresponding container weight them and record their initial weight. Weigh 10 grams of the provided food for each of the caterpillars. For the control group, with a pipet add 10 drops of distilled water into the food and mix. For the treatment group, with a pipet add 10 drops of Precor (which stimulates an increase in juvenile hormone) and mix. Place the caterpillars in their corresponding container and then place all of the containers in an incubator. For the next week, the food of the caterpillar has to be changed daily to allow the caterpillars to feed on it  and when changing the food record their weight of that day as well. Once the weight data has been collected for the week, do a two sample t-test to see the variance of the two means for which are able to make conclusions based on the difference obtained.
+
+
+Results:
+Through Figure 1, one is able to see that treatment 3 responded alike those in the control group in which treatment 3’s average weight of 5.395 exceeded the average of the control group which was 5.212 grams. Treatment 2 averaged a weight of 1.243 grams as it experienced a loss of weight throughout the week as also greatly differed from the rest of the group as its weight placed it below the group’s average weight of 3.116 grams. On day 3, the weights of the caterpillars belonging to separate groups start differing. 
+T-statistic: 2.113482 
+Degree of freedom: 6
+ P-value: 0.078463
+
+
+Discussion:
+Our hypothesis was rejected; although the weight of the treatment group which averaged to be 3.112 grams was lower than the control group which averaged a weight of 5.212 grams we calculated a P-value of 0.078463 which concluded that the data is insufficient enough to be accepted. For the M. sexta, as well as other insects, growth occurs before metamorphosis which means that the final size of the larva determines the size of the adult [Riddiford: 2011]. The process of metamorphosis is controlled by juvenile hormone. We predicted that an increase in the concentration of juvenile hormone present to the insect in its larva stage would result in an overall decrease to the insect’s weight in comparison to a caterpillar who is not given any addition juvenile hormone. Increasing the concentration of juvenile hormone at the larval stage results in the caterpillar not being able to molt into the next stage which we believed would result in a decrease it its weight. However, the P-value showed that no correlation could be attained. We believe that because it was in the larval stage for a longer period of time it allowed for the caterpillar to continue consuming the amount of food it needed to survive but not so much that it would push the caterpillar to its critical weight. Which is why the treatment group had an average weight that was below that of the control but did not differ greatly from it. Treatment 3 responded to its diet as if it was one in the control group in that its final weigh was close to 12 grams. The increase in weight can be attested to the failure to properly mix the food given to the caterpillar in that if the caterpillar is does not ingest the Precor it will continue to molt. Treatment 2 weight drastically differs from the rest of the treatment weights, however, it is something that would have been expected with the increase of juvenile hormone in the caterpillar’s diet.
+
+
+Literature Cited:
+Browder, M.H., L.J. D’Amico, and H.F. Nijhout. “The Role of Low Levels of Juvenile Hormone Esterase in the Metamorphosis of Manduca Sexta.” Journal of Insect Science 1 (October 16, 2001). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC355895/.
+
+
+
+Riddiford, L. M. “WHEN IS WEIGHT CRITICAL?” Journal of Experimental Biology 214, no. 10 (May 15, 2011): 1613–15. https://doi.org/10.1242/jeb.049098.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-12+at+10.06.43+PM.png&Size=159031&Type=image%2Fpng&F=F_ba4jYJPjPdlJyrb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure. 1. Line graph showing the growth the M. sexta experienced for the week it was consuming either a food containing Percor, which intimates juvenile hormone, (treatment group) or consuming regular food (control group).
+
+
+*************************************************************************

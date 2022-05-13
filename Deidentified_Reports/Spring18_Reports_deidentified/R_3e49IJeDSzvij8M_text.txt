@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-28 18:18:36
+Author of this lab report is: Std_fnj7hrqJ
+ID: R_3e49IJeDSzvij8M
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effects of Increased Calcium Presence on Neuromuscular Junction in the Gastrocnemius Muscle of Rana pipiens
+
+Abstract:
+Positive calcium ions flowing from action potential in neuromuscular junction are responsible for contraction of vertebrate and invertebrate muscles. This experiment tested the significance of increased calcium ion presence in the gastrocnemius muscle of leopard frogs (Rana pipiens) by comparing thresholds (V) in calcium-induced and uninduced legs. The prediction was that the legs tested with higher calcium levels would lead to higher threshold. Overall, the data was faulty and spotty, probably due to experimental procedure error.The two-sample t-test ran against the data gave a p-value of 0.239, which was not significant enough to accept the hypothesis.  
+
+
+Introduction:
+Neuromuscular control in vertebrates is controlled in part by the neuromuscular junction, the synapse between motor neurons and myofibers such as actin and myosin. To create an impulse that will hop from muscle to muscle, a reaction must be jump started. In the neuromuscular system, this reaction is jump started by the release of acetylcholine (ACh) as a result of a stimulus (such as a prick of the finger). The binding of ACh to the postsynaptic myofiber releases an action potential that then releases a source of positively charged calcium ions (Ca+). This calcium release is what signals for contraction. With this in mind, the importance of calcium was tested in this experiment to see if in influx of calcium would change the voltage at which threshold (maximum contraction) could be reached. The experiment utilized the legs of leopard frogs (Rana pipiens), as the different muscles in this species are easy to see and manipulate [Hirabayashi: 1970]. Specifically, because of its visibility and size, the gastrocnemius muscle in the frog legs was chosen to be manipulated and injected with a calcium supplement. It was predicted that higher concentrations of calcium would lead to higher threshold than in tests run with regular calcium concentrations. 
+
+
+Materials and Methods:
+Three frog legs were used in the experiment, each to be tested with and without the calcium supplement. Each of the legs was skinned and then wet with frog Ringer’s solution. The thigh muscles were then separated, so that the sciatic nerve could be unattached. One at a time, the legs were carefully tied vertically to a stand, with a knob being used to tighten the apparatus. Pins were used to keep the legs steady on the dissection pad. Two wires were attached to the leg, which was then connected to a laptop with LabScribe. Starting at 0.1V, the legs were shocked with an electric current, and the frequency was recorded until threshold was reached. This process was repeated with an injection of calcium, and then completely repeated with the other two legs. A 2-sample t-test was ran against the control (non-calcium) and experimental (calcium supplement) legs to determine if the presence of increased calcium is indeed significant to threshold levels. 
+
+
+Results:
+There was not much correlation between higher calcium levels in the Rana pipiens legs than in the legs with regular calcium levels. The second leg, when tested on control, had a noticeably higher threshold (0.126V) in comparison to the next highest voltage, the controlled first leg (0.44V). A two-sample t-test was run on the thresholds for the control and experimental legs. The t-value was found to be 1.383, while the p-value was found to be a rather insignificant 0.239. 
+
+
+Discussion:
+The results of the threshold for calcium induced and uninduced legs of Rana pipiens were rather inaccurate, perhaps due to poor experimental method- the injection of calcium into the legs was particularly spotty, with possibly not the same amount of liquid reaching the sciatic nerve or even fully the gastrocnemius muscle. This is easily seen in the high variance of threshold (maximum: .126V; minimum: 0.016V). The p-value of 0.239 was not significant enough to support the hypothesis stating that the calcium-induced frog legs would show higher levels of threshold; the hypothesis was rejected. Further studies could explore the effects of higher levels of calcium in different species (although neuromuscular manipulation on most vertebrates is difficult to attain ethically) [Birnbaum: 1997]. Another study could explore Rana pipiens again, but using different parts of the specimens’ bodies, such as the spinal cord [Bizzi 1995], and the same experiment testing the gastrocnemius muscle in Rana pipiens could be repeated with better scientific procedure. Such studies could help further knowledge in neuromuscular junction and its processes. 
+
+
+Literature Cited:
+Birnbaum Y, Hale S, Kloner R. Reduction of Myocardial Infarct Size by Partial Reduction of Blood Supply Combined With Rapid Stimulation of the Gastrocnemius Muscle in the Rabbit. American Heart Association. Accessed March 28, 2018. 
+
+Bizzia E, Giszter S, Loeb E, Mussa-Ivaldi F, Saltiel P.  Modular organization of motor behavior in the frog's spinal cord. Trends in Neurosciences. Accessed March 28, 2018. 
+
+Hirabayashi T, Hayashi Y. Studies on muscle differentiation/I. Isolation and purification of structural proteins from leg muscles of the frog, Rana nigromaculata.The Japanese Society of Developmental Biologists. Accessed March 28, 2018. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=goodgraph.png&Size=34459&Type=image%2Fpng&F=F_2z8drqrgo0yDhoK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig 1. Threshold Variances in Calcium Induced (Experimental) and Uninduced (Control) Legs of Rana pipiens
+
+
+*************************************************************************

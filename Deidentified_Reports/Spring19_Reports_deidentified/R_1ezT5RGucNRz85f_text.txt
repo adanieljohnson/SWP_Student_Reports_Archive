@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-09 20:58:03
+Author of this lab report is: Std_Z01PCNed
+ID: R_1ezT5RGucNRz85f
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Increased Chloroplast Activity at Cold to Moderate Temperatures in Spinacia oleracea
+
+Abstract:
+In order to better understand how different temperatures impact chloroplast activity in Spinacia oleracea, we recorded the absorbances of samples containing chloroplasts and DCIP over a thirty minute period. We hypothesize that there will be a statistically significant difference in chloroplast activity between the samples exposed to room temperature and the samples exposed to other temperatures, with the samples exposed to room temperature showing more chloroplast activity. In order to test this we collected enriched chloroplasts samples from spinach leaves, divided them into four groups of three, and exposed each groups to a different temperature over a thirty minute period. Using the average recorded absorbances, we calculated a percent change in chloroplasts activity for each group. Using a one way ANOVA test we got a p value of 3.45* 10^-8, which shows a statistically significant difference in chloroplast activity between the various temperature groups. We observed a trend of increased chloroplast activity in the samples exposed to room temperature in comparison to those at other temperatures. This trend occurred because exposure to temperatures outside of the crop’s ideal range alter the structure of the chloroplasts. 
+
+Introduction:
+In plants ATP is synthesized in the thylakoid membrane of the chloroplasts, where electrons in an antenna complex are excited by light rays. In photosystem II, Q accepts the excited electrons and passes them on to a series of electron transporters, which pump protons into the thylakoid space creating an electochemical gradient. An ATP synthase uses this gradient to bring protons back across the thylakoid membrane and synthesize ATP, which is used for energy by the cell. Chloroplasts activity is known to be affected by various external factors. In his study on factors that affect chloroplasts activity in cotton plants, Kenneth Fry identified light intensity, light duration, pH buffer presence, and temperature as external factors that can have an effect on chloroplast activity [Fry: 1970]. Moreover, the effect that temperature has on chloroplast activity varies from plant to plant. One can observe how specific factors influence chloroplast activity by using the hill reaction, in which DCIP is reduced as it accepts the excited electrons. In order to better understand how different temperatures impact chloroplast activity in Spinacia oleracea, we decided to record the absorbances of samples containing chloroplasts and DCIP over a thirty minute period. We hypothesize that there will be a statistically significant difference in chloroplast activity between the samples exposed to room temperature and those exposed to 4°C, 40°C, and 55°C, with the samples exposed to room temperature showing more chloroplast activity. 
+
+
+Materials and Methods:
+In order to test how differing temperatures affect chloroplast activity in spinach leaves, we first collected enriched chloroplast samples. We started by grinding spinach leafs with 10 ml of 400 mM sucrose in Tricine buffer (grinding buffer) until they became a thick paste. After adding  an additional 10 ml of grinding buffer and straining it through three layers of cheesecloth, we centrifuged the paste at 200 x G  for 3 minutes at 4°C. We then isolated the supernatant and centrifuged it at 1,000 x G for 10 minutes at 4°C. Next, we removed the supernatant in order to isolate the pellet that was solidified at the bottom of the tube. Finally, we added 20 ml of grinding buffer to the pellet in order to suspend it in solution. We started the chloroplast activity assay by numbering 13 test tubes “blank” and “1-12”. We added 8 mL of water, 2 mL of reaction buffer, and 100 microliters of enriched chloroplasts to the “blank”. In tubes 1-12 we added 6 mL of water, 2 mL of DCIP, 2 mL of reaction buffer, and 100 microliters of enriched chloroplasts. We then recorded our baseline measurements (0 minutes) for each of the samples. Next, we placed samples 1-3 in ice water (4°C), samples 4-6 in room temperature water (23°C), samples 7-9 in 40°C water, and samples 10-12 in 55°C water. The absorbances were recorded on ten minute intervals for a duration of thirty minutes and calculated the percent change for each sample. Finally, a one way ANOVA test was used to determine if there was a statistically significant difference in chloroplast activity between any of the temperature groups.
+
+
+Results:
+The one way ANOVA test results were as follows: df= 33 and p= 3.45* 10^-8. Based off of the one way ANOVA test we can conclude that there is a statistically significant difference in chloroplast activity between the various temperature groups. The Tukey-Kramer test showed some significance and some insignificance when comparing the average chloroplast activity of the temperature groups during the duration of the assay. Selective data from the Tukey-Kramer test includes the following: 22°C at 20 minutes compared to 40°C at 20 minutes was found to be significant difference, 22°C at 20 minutes compared to 55°C at 20 minutes was found to be significant difference, 4°C at 20 minutes compared to 22°C at 20 minutes was found to be not significant difference, 40°C at 20 minutes compared to 50°C at 20 minutes was found to be not significant difference. It is important to note that we did not include the percent change for sample 1 (ice water) at 20 minutes and tube 4 (room temperature) at 30 minutes. These percent changes differed greatly from the other data in their respective groups, so they greatly increased the standard deviation for the group and were determined to be outliers. We observed a clear trend in chloroplast activity between the different temperature groups (figures 1 and 2). Samples 7-12, which were exposed to 40°C or 55°C water, showed almost no chloroplast activity throughout the assay (figures 1 and 2). The samples exposed to room temperature tended to have a greater level of chloroplast activity than that of the other groups. When we excluded the outliers from the data set the average percent change in chloroplast activity of the room temperature samples was higher than the other samples at 10 minutes and 20 minutes, but it was found to be lower than that of ice water at 30 minutes (figure 1). When we included the outliers in the data set we found the room temperature samples to have the highest average chloroplast activity for the duration of the assay (figure 2).
+
+
+Discussion:
+Based on the results of our one way ANOVA test, we can conclude that there is a statistically significant difference between the chloroplast activity levels in Spinacia oleracea at varying temperatures. We observed a larger average percent change in chloroplast activity at room temperature than at other temperatures, with the exception of at 30 minutes. This is because different temperatures have different effects on chloroplasts. According to a similar study conducted on barley chloroplasts, temperatures that are either too high or too low for the crop cause the inhibition of biogenesis [Smille: 1978]. Every plant has a temperature range that is ideal for its growth, and the plant generally exhibits the highest chloroplast activity within this range. In addition, temperatures that are not optimal for the crop resulted in chloroplasts with abnormal properties and structure. These changes in structure included the formation of abnormally large grana and disoriented lamellar systems [Smille: 1978]. The results from this study make it apparent that abnormal temperatures can denature chloroplasts and render them inactive. While this was not directly tested in our experiment, the research study conducted by Smille shows that the denaturation of the chloroplasts is what likely led to our results. We observed a very small amount of chloroplast activity at 40°C and 55°C because the high temperatures caused the chloroplast to become damaged. The heat destroyed the chloroplasts and rendered them unable to reduce DCIP. We observed a slightly lower level of chloroplast activity at 55°C than we did at 40°C, because the increased temperature should have cooked a higher percentage of the chloroplasts. Moreover, it makes sense that the chloroplast activity at 4°C was greater than at 40°C and 55°C, but still less than at room temperature (with the exception of at 30 minutes). According to the United States Department of Agriculture, spinach is best suited to grow at a temperature range of roughly 45-75°F [Sinkel: 2014], or roughly 8-24°C. We observed the trend of the highest chloroplast activity at room temperature followed by 4°C (except at 30 minutes), because the chloroplasts that are found in spinach leaves are best suited to operate at cold to moderate temperatures. The results from our Tukey-Kramer test show that at 20 minutes there was no significant difference in chloroplast activity between the 4°C and room temperature samples or between the 40°C and 55°C samples, but the 4°C and 22°C sample both had a statistically significant difference compared to both the 40°C and 55°C samples. These results are due to the fact that spinach is by nature a crop that thrives in colder to moderate temperatures [Sinkel: 2014]. Therefore, it makes sense that there was a significant difference between the activities of chloroplasts exposed to temperatures within or just outside of the the crop’s ideal temperature range compared to those well outside the range. We also observed the most color change in the samples exposed to room temperature, which indicates that more of the DCIP was reduced in the samples at room temperature than in the other samples. The trend we observed is further supported by a study conducted by Siddhartha Dutta, which examined the role of temperature stress on chloroplast activity in peas. According to the study, heat and chill stressed plants exhibited decreased gene expression of certain components of the TOC, TIC, and stromal Hsp93 complexes, which led to impaired binding, reduced protein import, and downregulation of photosynthesis in chloroplasts [Dutta: 2009]. Moreover, temperature stressed chloroplasts exhibited change in their structure, which in turn affected their activity level. The next logical step for this experiment would be to increase the sample size. We only had three sample in each of the four temperature groups, which resulted in a high degree of variation within each group. Increasing the sample size would greatly reduce the variation that was present within each temperature group and give us results that more accurately represent the effects of temperature on Spinacia oleracea chloroplast activity. An additional logical step that could be taken with this experiment would be to test how different temperatures impact chloroplast activity in plants other than spinach. 
+
+
+Literature Cited:
+Dutta S, Mohanty S, Tripathy, B. 2009. Role of temperature stress on chloroplast biogenesis and protein import in pea. Plant Physiology. 1050–1061.
+
+Fry KE. 1970. Some factors affecting the Hill reaction activity in cotton chloroplasts. Plant Physiology. 465–469.
+
+Sinkel, D. United States Department of Agriculture. Accessed March 25, 2019. &lt;https://nifa.usda.gov/sites/default/files/resource/Spinach%20Good%20Agricultural%20Practices%20508.pdf&gt;
+
+Smillie RM, Critchley C, Bain JM, Nott R. 1978. Effect of growth temperature on chloroplast structure and activity in barley. Plant Physiology. 191–196.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=unnamed.png&Size=24220&Type=image%2Fpng&F=F_yJQQMvJPxsQvtTj
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=unnamed-1.png&Size=21759&Type=image%2Fpng&F=F_2VKlAaQJp1ZKNkQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average percent change in chloroplast activity for each temperature group at each ten minute interval. The graph excludes the data points that were determined to be outliers (sample 1 at 20 minutes and sample 4 at 30 minutes).
+
+Figure 2. Average percent change in chloroplast activity for each temperature group at each ten minute interval. The graph includes the data points that were determined to be outliers (sample 1 at 20 minutes and sample 4 at 30 minutes).
+*************************************************************************
+
+
+

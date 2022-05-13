@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-09-26 16:20:29
+Author of this lab report is: Std_nMeFgCON
+ID: R_24zTAGBY9ppT0mg
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The Effect of JH Hormone on the Physiological Development of Manduca sexta Caterpillars
+
+Abstract:
+Insect physiological development is mainly determined by three types of hormones. In this experiment, we examine how increasing the concentration of Juvenile hormone may affect the metamorphosis of Manduca sexta, the subject of this experiment that have short life cycle and easily observed physiological changes. 12 drop of JH hormone is mixed into the daily diet of the caterpillars and we use two sample t-test to determine whether the data of change in weight of the experimental group is statistically significant when compared with control group. We hypothesize that if we keep Juvenile hormones to be high through the whole life cycle of Manduca sexta caterpillars, they cannot turn into pupa but enter into supernumerary larval instars. In the later process, the deficiency of the experiment and future direction are discussed.
+
+Introduction:
+Insect physiological development is mainly determined by hormonal signaling. Studies have shown that insect molting and metamorphosis are controlled by prothoracicotropic or Brain hormone(PTTH or BH), ecdysterone(20E) and juvenile hormone(JH), especially with 20E orchestrating the molting process and JH determining the nature of the molt [Riddiford: 2003]. Normally, it takes 39 to 48 days for a Manduca sexta larva, the subject specie in this experiment, to turn into an adult. Through the whole process, JH hormone remains high but after the 4th larva stage, it drops significantly; ecdysteroids temporarily raise at this point, but it decreases dramatically after then. When it comes to the 5th larva stage, both the JH hormone and ecdysteroids remain low at the beginning, but there is a sudden increase of ecdysteriods, which can be referred as commitment pulse that signaling the caterpillar that it is ready for transformation [Johnson: 2016]. Referring to this alternation between ecdysteriods and JH hormone, we tend to consider what will happen if we artificially influence the process of JH hormone and ecdysteriods production. A similar study was done by Tunaz [2004], which demonstrate that IGR can be successful in controlling the population of pests because its role as the substance that either block or over-activate processes regulated by JHs, ecdysteroids, and other insect hormones. In our experiment, we mainly focus on JH hormones. We hypothesize that if we keep Juvenile hormone to be high through the whole life cycle of Manduca sexta caterpillars, their physiological development will be modified: they cannot turn into pupa but enter into supernumerary larval instars.
+
+Materials and Methods:
+We selected eight Manduca sexta caterpillars and divided them into two groups. Each caterpillar was placed in a separate container and was fed with one of the two diets. Four of them, which served as control group, received 10g diet with 12 drops of water; while another four of them, which served as experiment group, received 10g diet with 12 drops of JH hormone. We then kept all of them in the same incubator with controlled temperature and day light. We recorded the initial weight of those caterpillars and kept tracking their change of weight and the stages of their life cycle. The experiment last 15 days. 
+We calculated the weight differences between the first and the last day of each caterpillar and found out the average weight differences of both the control group and the experimental group. A two-sample t-test was used to analyze the data to determine whether there is significant difference in changes of weight between control group and experimental group.
+
+
+Results:
+The average weight difference of the control group is 0.2925g with standard deviation 0.3378g, and the experimental group 1.525g with standard deviation 2.6401 (Fig.1). We used a two-sample t-test and found out the mean of weight of caterpillars in the experimental group is not significantly different from that of caterpillars in the control group (t-stat = 0.9261, df = 6, p = 0.3901). According to our actual observation, after 15 days of experiment, we could clearly see that nearly all the caterpillars in the control group have successfully turned into pupa, but the caterpillars in the experimental group remain in the larva stage and their size is significantly larger than the pupa in the control group. Also, we noticed that caterpillars in both the groups have gained weight during the first few days, but many of them tend to lost weight during the later process.
+
+Discussion:
+Our hypothesis that if we keep Juvenile hormones to be high through the whole life cycle of Manduca sexta caterpillars, they cannot turn into pupa but enter into supernumerary larval instars is not supported by our data. However, according to our observation, we think our hypothesis is not necessarily rejected because after the experiment, we found out that the caterpillars in the control group have successfully turned into pupa but none of the caterpillars in the experimental group turned into pupa and their size is extraordinarily large. Past studies have shown that Juvenile hormone serves as a role of inhibitor which can delay or prevent the onset of metamorphosis of tobacco hornworm larvae [Safranek: 1980]. Thus, since we add 12 drops of JH hormones in the diet of the experimental caterpillars, their JH hormones remain high throughout their whole life cycle so that they cannot turn into pupa as in the appearance of JH, pupally cannot commit the epidermis to pupal differentiation when it next sees a molting surge of ecdysteorid [Riddiford: 1978]. However, why our data is not corresponded to our observation of the physiological changes of the caterpillars? One possible explanation of our data is that we think the number of samples selected in our experiment is not enough to show the difference between the change of weight between caterpillars in the control group and the experimental group, so for the next experiment, we think about adding more samples to the experiment. Another reason may due to the accidental death of one of the caterpillars in the control group. As we selected our sample caterpillars, we neglect the health condition of the caterpillars. Thus, we think the death of the caterpillars in the control group may serve as an outlier that influence the overall trend of the data from the control group.
+Moreover, we also tried to explain why the caterpillars in both the control and experimental groups lost their weight. According to Riddiford [1990], the ecdysteroid coordinated molting process is independent to the presence or absence of JH, which means that the increasing of JH hormones level in our experiment does not influence the secretion of ecdysteoird. We tend to think that other hormones that participate in the physiological development or growth of the caterpillars, for example, ecdysone, can also function normally with the absence or presence of JH hormone. Studies have shown the ecdysone is important to body size control in insects as a pulse of ecdysone at the end of larval life can cause the larva to stop growing and feeding [Nihjout: 2006]. The phenomenon of losing weight may due to the influence of ecdysone. Thus, another direction of our future experiment is to find out the relationship between JH hormone and ecdysone. 
+
+
+Literature Cited:
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept.Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1,2016), pp. 11–12.
+
+Tunaz, H., &amp; Uygun, N. (2004). Insect Growth Regulators for Insect Pest Control.Turkish Journal Of Agriculture &amp; Forestry, 28(6), 377-387.
+
+Riddiford, L. M., Hiruma, K., Zhou, X., &amp; Nelson, C. A. (2003). Insights into the molecular basis of the hormonal control of molting and metamorphosis from manduca sexta and drosophila melanogaster. Insect Biochemistry and Molecular Biology, 33(12), 1327-1338. 10.1016/j.ibmb.2003.06.001
+
+Nijhout, HF, G. Davidowitz, and DA Roff. 2006. A Quantitative Analysis of the Mechanism That Controls Body Size in Manduca Sexta. Journal of Biology. 5: 16. 
+
+Safranek, Louis, Bronislaw Cymborowski, and Carroll M. Williams. 1980. Effects of Juvenile Hormone on Ecdysone-Dependent Development in the Tobacco Hornworm, Manduca Sexta. The Biological Bulletin. 158: 248–56.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=average+weight+difference+comparison.png&Size=7163&Type=image%2Fpng&F=F_1LjRewSAqz3G2ZH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average of weight difference of both the control group and the experimental group are compared*************************************************************************
+
+
+

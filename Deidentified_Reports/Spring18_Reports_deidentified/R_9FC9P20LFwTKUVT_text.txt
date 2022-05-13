@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-27 13:59:10
+Author of this lab report is: Std_0SLqeREH
+ID: R_9FC9P20LFwTKUVT
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: The Effect of Sunlight and Shade on the Root to Shoot ratios of Fagopyrum esculentum.
+
+Abstract:
+Plants grown in the sunlight will have a smaller root to shoot ratio than that of plants grown in the shade.  To find whether sunlight affects the root to shoot ratio of Fagopyrum esculentum, commonly known as buckwheat, two groups of the plant were planted and grown to be able to observe the root to shoot ratio.  A significant difference was found in the weight root to shoot ratios, but no significant difference was found in the length root to shoot ratios, with the sunlight having the smaller root to shoot ratio in both weight and length.
+
+Introduction:
+The root to shoot ratio is a measure that can tell how a plant has allocated its resources for new growth.  How would a plant allocate resources for new growth when grown in shade in comparison to the same species of plant grown in the sunlight?  The root to shoot ratio would be one way to determine if a plant changes the way it allocates resources when grown in the sunlight in comparison to the shade.  Recent research on the topic shows that plants grown in the shade increased resources to the shoot and leaf area in comparison to those grown in full sunlight [Stanton, Weeks, Dana, Mickelbart:2010].  Fagopyrum esculentum, commonly known as buckwheat, is the organism used in our research and is a good organism to test with because the organism grows quickly and has roots and shoots that can be easily measured.  The hypothesis we tested was that buckwheat grown in the sunlight would have a smaller root to shoot ratio, for both length and weight, than that of buckwheat grown in the shade.  Our purpose was to see if sunlight alone was sufficient to change the root to shoot ratio.  
+
+Materials and Methods:
+To perform our experiment, we first had to grow our buckwheat.  So that we avoided as many sources of error, we used the same soil for both the sunlight and the shade buckwheat; then we used 50 mL of Miracle grow to stimulate the growth of the plants.  From there, the two groups of plants, sunlight and shade, were moved to a greenhouse where the shade group was put under a sunlight filter and the sunlight group was placed in the open, this is how we created our independent variable.  After this we watered our plants every day, with no specific amount of water, to make sure they grew sufficiently.  
+Once our plants had grown, we took both groups out of the greenhouse to measure them.  We cleaned the soil from the plants and measured them as a whole and then by separating the root and shoots of each plant.  After this we performed a one tailed t-test to see if there was a statistical difference in the root to shoot ratio in shade plants and sunlight plants for both weight and length.
+
+
+Results:
+Our results showed that we have an average of 0.635538131 ± 0.222865943 for the root to shoot ratio for the sunlight length and an average of 0.671170034 ± 0.336708593 for the root to shoot ratio for the shade length.  Also, we found an average of 0.105272693 ± 0.043022373 for the root to shoot ratio for the sunlight weight and an average of 0.185246807 ± 0.079460415 for the root to shoot ratio for the shaded weight.  The trends we see in the data are that the shade averages for both the weight and length are higher than the sunlight averages, as shown in both figure 1 and figure 2.  However, our t-test indicates that there is no significant difference in the root to shoot length ratio (t-stat: 0.216155, df: 10, p: 0.416606).  Then for the root to shoot weight ratio, our t-test indicated that there was a significant difference between the sunlight weight root to shoot ratio and the shaded weight root to shoot ratio (t-stat: 2.167954, df: 10, p: 0.02768). 
+
+Discussion:
+Our results did support our hypothesis, in both weight and length root to shoot ratios.  The root to shoot ratios for sunlight grown plants were smaller than that of shade grown plants.  This contradicts the previous research on the subject, where it was found that the plants in the shade would have smaller roots and larger shoots and the sunlight grown plants would have larger roots and smaller shoots, the opposite of what we found [Stanton, Weeks, Dana, Mickelbart:2010].  Biologically, our results contradict the expected outcome; however, it is possible that the shaded plants grew larger for no explainable reason.  No sources of error are thought to be the cause of this result.  An alternative explanation could be that when we chose our six replicates from the two groups, we chose the outliers that would lead to this data, or we chose plants that didn’t grow completely for the sunlight group.  To figure out if this is true, we need to repeat the procedure again, this time with more replicates for both groups to help with outliers skewing the data, and to make sure we didn’t have any sources of error.  From this we could learn how plants in different environments allocate their resources for new growth, so that we could understand how plants are able to survive in their environments.  
+
+Literature Cited:
+Stanton KM, Weeks SS, Dana MN, Mickelbart MV. 2010. Light exposure and shade effects on growth, flowering, and leaf morphology of Spiraea alba Du Roi and Spiraea tomentosa L. HortScience. 45. 1912-1916.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figures+First+Lab.PNG&Size=33625&Type=image%2Fpng&F=F_a9o0JRsiCAqlcep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average R:S Ratio of Sunlight versus Shade Buckwheat for Length
+Figure 2. Average R:S Ratio of Sunlight versus Shade Buckwheat for Weight
+
+
+*************************************************************************

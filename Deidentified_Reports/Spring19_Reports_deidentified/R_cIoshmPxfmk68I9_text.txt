@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-03 21:30:02
+Author of this lab report is: Std_z69C6ynG
+ID: R_cIoshmPxfmk68I9
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effect of Sodium Channel Blockers on Electrical Stimulus Response in Frog Leg
+
+Abstract:
+Understanding the function of the neuromuscular system is essential for studying the reactive behavior that organisms have to internal and external stimuli. When the action potential reaches the end of a neuron and transitions to the muscle, a series of protein releases and ionic channel openings send the action potential to the muscle, causing contraction. We hypothesized that injecting sodium channel blocker into the muscle of a frog leg will result in little to no muscle contraction. This was tested with three frog legs that acted as their own control and experimental. We placed an electrode under the sciatic nerve until the threshold for muscle contraction was reached, and then repeated the test with 0.1 mL sodium channel blocker in the gastrocnemius muscle. We compared the average input voltage for the control and experimental group and found a p-value of 0.34, an insignificant result. This indicates that the addition of sodium channel blockers in the frog legs will not significantly alter the synapse in the neuromuscular junction and the hypothesis cannot be supported. It is important to constantly test our knowledge of the neuromuscular system because it is the functional unit for most living organisms to move and survive. 
+
+Introduction:
+The neuromuscular system is a complex junction of the nervous and muscular systems that allows organisms to respond to internal and external stimuli. The reaction time of the nervous system is in milliseconds, which allows for ideal modeling scenarios because the responses can be recorded and visualized quickly. In the neuromuscular junction where a nerve and a muscle connect, a synapse occurs when the action potential reaches the end of the neuron and passes the action potential to the muscle cell. Once the action potential reaches the motor axon of the nerve cell, calcium channels open which trigger the release of acetylcholine (Ach) proteins out of the neuron and into the synaptic cleft between the muscle and nerve. The Ach binds to acetylcholine receptors on the muscle cell which triggers sodium channels to open and continue the action potential in the muscle cell [Sadava: 2016]. In this experiment, we are testing the response of a frog’s (Rana pipiens) leg to an external stimulus from an electrode probe. The large, easily exposable sciatic nerve on a frog’s leg makes it the ideal model for the simulation. During an electrical stimulus, the external stimuli is sent directly through the nerve until it reaches the neuromuscular junction. This process occurs even when the frog is dead, because the initiation of the stimulus occurs electrically not internally from the brain of the organism [Cole: 1933] . In this experiment, we manipulated the synapse by injecting sodium channel blockers into the muscle of the frog leg. A sodium channel blocker is an example of a neuromuscular blocking drug, which is the type of drug used in anesthetic practice in medicine [Appiah-Ankam: 2004] . We hypothesized that if we inject sodium channel blocker into the gastrocnemius muscle of a frog leg, the action potential will be altered, resulting in little to no contraction of the muscle.
+
+Materials and Methods:
+We obtained three frog legs that acted as their own control and experiment. Each frog leg sample was prepared by peeling off the skin from the upper thigh down, exposing the muscles. Then we used a dissecting probe to gently separate the inner thigh muscle, exposing the large, white sciatic nerve. During this process, it was important to handle the nerve with caution, as damage to the surface or prolonged exposure to metal can tamper the results. We then isolated the gastrocnemius muscle by cutting it with scissors from the lower joint and attaching a string to the disconnected end. The other end of the string was tied to a suspended rod, which allowed for the muscle twitch to be easily visible. We placed an electrode with two thin metal prongs underneath the sciatic nerve, so stimulus would be directly applied onto the nerve. iWorx software was used to send an electrical simulation and record data. We increased the voltage by 0.1 V until the control threshold was reached. The iWorx software simulation was then repeated on the same frog, but with 0.1 mL of sodium channel blocker, 25 millimolar lidocaine, injected into the gastrocnemius muscle 3-5 minutes prior to the start of the simulation. The threshold from the second trial was noted as the experimental input threshold. The same process was repeated for the other two frogs. At the conclusion of the trail, statistical analysis was used in a paired t-test to compare the average input voltage of the experimental and control groups. This analysis determined statistical significance and could determine whether or not the hypothesis could be supported. 
+
+Results:
+As shown in Figure 1, the average input voltage of the control group was 0.20 V and the average input voltage for the experimental group was 0.43 V. The standard deviation for the control group was 3.40 E-17, and the experimental group was 0.321. Upon observation, the amplitude of the muscle contraction was smaller and at a higher input voltage in the experimental group compared to the control group. However, the statistical analysis showed a p-value of 0.34, which is not a significant result.
+
+
+Discussion:
+Although there appears to be a noticeable difference in the average input voltage between the two groups, the p-value indicates insignificant results. The difference in these two groups could be attributed to chance, and therefore we conclude that the hypothesis cannot be supported. Biologically, this indicates that the addition of sodium channel blockers in the frog legs will not significantly alter the synapse in the neuromuscular junction. Perhaps this occurs because the sodium channel blockers did not fully activate throughout the neuromuscular junctions, therefore leaving some open channels to continue the synapse. When the synapse reaches the muscle cell successfully, it will trigger the release of the DHP receptor from the ryanodine receptor, which allows calcium ions to release from the sarcoplasmic reticulum and onto troponin on the muscle fiber [Sadava: 2016]. Once the calcium binds to the troponin, myosin filaments attach to the actin and initiate a power stroke, which causes muscle movement. This is the visible muscle contraction we can see when the sodium channel blocker is not effective  [Sadava: 2016]. In our experimental group, since the sodium channel blockers did not fully activate, we were able to visually see the motion of muscle. Background literature supported our alternative hypothesis, emphasizing the need for further research. A next step in the study would be to increase the number of frog legs, so that the compiled averages are gathered from a larger data set and more accurately represent the trend of the two groups. Additionally, it would be beneficial to conduct the excitement with a variety of the amount of sodium channel blocker injected. Another experiment could compare the amplitude of the muscle contraction at the threshold instead of the input voltage at the threshold. This value would compare the severity of the contraction at threshold instead of what the threshold is itself. The results from this experiment show that it is important to constantly test our knowledge of the neuromuscular system. The neuromuscular system is the functional unit for most living organisms to move and survive. 
+
+Literature Cited:
+Journal Articles
+
+1.	Appiah-Ankam J, Hunter JM. 2004. Pharmacology of neuromuscular blocking drugs. Continuing Education in Anaesthesia Critical Care & Pain 4 (1): 2–7. 
+2.	 Cole KS. 1933. Electric conductance of biological systems. Cold Spring Harbor Symposia on Quantitative Biology 1: 107–16. 
+
+Books
+
+1.	Sadava DE. 2016. Life: The Science of Biology. Eleventh edition. Sunderland, MA: Sinauer Associates. 1099 pp.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-03+at+9.28.34+PM.png&Size=19842&Type=image%2Fpng&F=F_XSyRhyV76FFsquB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The average input voltage that it took for the frog leg to reach the threshold for muscle contraction. The control group experienced no changes and the experimental group has sodium channel blocker injected in the gastrocnemius muscle.*************************************************************************
+
+
+

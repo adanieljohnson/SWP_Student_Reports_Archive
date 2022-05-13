@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-11 14:57:32
+Author of this lab report is: Std_qWfrRw2L
+ID: R_24kKm34vpeZrZ6c
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: The Effect of Neomycin on PLC Inhibition and Related Cell Motility in Physarum polycephalum
+
+Abstract:
+The experiment was completed to answer the question of the effect of IP3 inhibition on cell motility in the Physarum polycephalum. The Physarum is a single cell, multinucleated organism that relies on chemotaxis senses to decide which way to travel. The cell is able to move using the circular oscillation in its ectoplasm, causing movement from the frontal region. This pathway is controlled by the PLC pathway that releases calcium into the frontal region. The hypothesis was that that in agar saturated with Neomycin, the Physarum will not be able to move towards the food, which is generally a positive chemotaxis for the Physarum.  The experiment was completed over a 24-hour period of time, with the Physarum in agar plates that were either water as a control, or soaked in Neomycin, a chemical shown to inhibit the IP3 mediated pathway. Pictures were taken before and after 24 to compare area traveled. It was found that there was a significant difference between the control and test plates, and that the hypothesis was supported. The experiment could have been improved by studying the cytoplasmic streaming in the cytoplasm using a phase microscope to further study to further study the effect of inhibition. Future studies would be revolving around testing the inhibition on cancer cells.
+
+Introduction:
+There are multiple signal pathways that most organisms rely on, including the Physarum polycephalum and humans, including the IP3 mediated pathway. Physarum polycephalum is commonly used as a model organism because while it is a single-celled organism, it is complex in its ability to move towards stimuli by simply causing a change in the velocity of fluid movement in certain regions [Alim et al.: 2017]. The effector enzyme in question for cell motility in Physarum is the phospholipase C (PLC) which cleaves a membrane phospholipid into two second messenger molecules, diaglycerol and IP3 [Seiler et al.: 1987]. The IP3 binds to a receptor on the smooth endoplasmic reticulum and opens a calcium-gated channel which creates a cascade of reactions which differ from cell to cell and species to species.
+In the Physarum, this pathway is important in cell motility. The PLC is crucial to the contractile oscillations that allow for forward movement. The frontal zone, which extends out of the thickened leading edge, is moved by the contracting and pushing of the ectoplasm, which is the hardened region found near the center of the cell. This movement relies largely on the IP3 allowing for calcium to flood the cell and cause oscillating movements [Matveeva: 2011]. The process is known as an ATP-dependent one because the PLC requires energy release to cleave the IP3 and have that second messenger travel and activate the release of the Calcium [Martin: 2013]. The Physarum relies heavily on the signaling pathways that react to external environment changes, like the ability to recognize and move towards positive stimuli. A strong positive stimulus often used in studies of Physarum is a food source [Costello: 2013].
+The question being focused on is the effect of IP3 inhibition on cell motility in Phasyrum. The lack of IP3 is shown to break down the leading edge so that the Physarum would not be able to move because oscillation depends on calcium being released using the phospholipase C pathway. Neomycin acts as an inhibitor for the PLC and IP3 pathway, and will be used in this experiment. Neomycin is used as an antibiotic and is known to inhibit the IP3 from causing a release of calcium in the intercellular stores [Prentkill: 1986]. We hypothesize that in agar saturated with Neomycin, the Physarum will not be able to cover the area needed to move towards a food source because of the inhibition of the Phospholipase C pathway.
+
+Materials and Methods:
+The agar plates in the experiment were prepared by 20X Neomycin being added to cover the water agar plates and were allowed to fully saturate the agar for 10 minutes. The experimenters measured 1cm around the outside of the agar plate and oat flakes were placed around the circle so that it was equidistant from the Physarum in the middle. A 1cm x1cm square of the Physarum was cut out of the stock plate provided and inserted into the center of the water agar plate for both the control and the test plates. To transfer to the plate a sterilized spatula was used, which was soaked in ethanol and then the excess ethanol was burned off using an alcohol lamp. Pictures were taken of the plates at the start of the experiment as well as a ruler to determine the scale in the ImageJ program being used to determine the amount of movement by calculating the change in the area covered on the plate by the Physarum’s potential movement. The plates were photographed again after at least 24 hours had elapsed to compare to the starting area. The data was analyzed using a paired t-test to determine significance of the data. Use Table 1 in the supplemental section as a guide to correctly setting up the agar plates.
+
+Results:
+The result for the control group when compared to itself in the start until approximately 24 hours after (Figure 1) showed significant change between the average area across the three plates (t=3.47, p=0.02). The result for the test group under the same measurement standards shows no growth in the average of the areas (Figure 2), and no significant difference in growth (t-stat=0, p=1). The percent change between the control and the test (Figure 3) was found to have a significant difference (t stat=23, p=.0018).
+
+Discussion:
+When looking at the results there is clearly a change in the area the Physarum covered in the test agar and in the control. The control agar showed normal chemotaxis because of its positive movement towards the food source, evidenced in Figure 1. The test, however, did have greatly inhibited movement and area growth in the Neomycin as shown in the results by its insignificant change after the 24-hour period and no percent change over the three plates (Figure 2). The hypothesis for this experiment was that the Neomycin would significantly inhibit the Physarum’s cell motility and ability to move towards the food, a normal positive chemotaxis for the species. Based off of the results found by the experiment, it can be said that the hypothesis was supported (Figure 3).
+There are possible alternative explanations for the findings in this experiment that can be equated to human error. One of the possible issues would be not correctly cleaning the spatula between each use. While it is not believed to have been an issue, if it were to have occurred there could have been contamination between the test plates to the control plate, effecting the cell motility. Since there was no evidence of inhibition in the control plates. It is also possible that the areas chosen from the stock plate of Physarum were not equally populated for all of the trials, meaning some Physarum would have a higher ability to create movement through oscillation than the others, but that is harder to control for in this type of experiment.
+After studying the results gathered, the next step with studying Physarum would be to compare the cytoplasmic flow using a phase microscope. In Alim’s study of movement in Physarum, part of their findings looked at the movement of the fluid through the network of tube-structures that appear to aid in growth of the cell as well as movement [Alim et al.: 2013]. It would aid in the understanding of the effect of Neomycin to look at the cytoplasmic flow and determine the steaming rate in the area that will be placed in the stock solution. This could then be compared to the streaming rate after the 24-hour period of incubation. This would aid in the support of the hypothesis that Neomycin effects the ability for calcium to help create the oscillation needed to move the fluids and grow in certain directions.
+Understanding the process through which cells migrate could be an important step in controlling cancer growth in the body. In human cells, there is a conserved method of movement in certain types of cells that relies on the same cyclic movement of fluid in the frontal region [Tsai: 2015]. This type of migration is found to also be activated in some cases using the PLC pathway for the release of Calcium from the endoplasmic reticulum. Cancer is understood as the uncontrolled growth of a mutated cell in the body, and its mortality rate spikes when it starts to become metastatic, invading other systems in the body. To be able to invade, the cells need to be able to move. Though Neomycin is an example of an inhibitor for IP3 pathways in liver cells, there are most likely types of chemicals that would act in a similar fashion to inhibit cell motility in certain types of cancer cells [Prentki: 1986]. A future study that would be beneficial would be to investigate other blockers of the IP3 and PLC pathways in cells that are from humans to see if they can locate one that would inhibit movement in a similar fashion. This knowledge could serve as a breakthrough in the field of cancer treatment for highly aggressive and potentially metastatic forms.
+
+Literature Cited:
+Alim, K., Amselem, G., Peaudecerf, F., Brenner, MP., Pringle, A. 2013. Random network peristalsis in Physarum polycephalum organizes fluid flows across an individual. Proc. Natl Acad. Sci. USA 110, 13 306–13 311. 
+
+De Lacy Costello, B., and Adamatzky, A. “Assessing the Chemotaxis Behavior of Physarum Polycephalum to a Range of Simple Volatile Organic Chemicals.” Communicative & Integrative Biology 6.5 (2013): e25030. PMC. Web. 11 Apr. 2018.
+
+Tsai, F., Kuo, G., Chang, S., and Tsai, P. 2015. “Ca2+ Signaling in Cytoskeletal Reorganization, Cell Migration, and Cancer Metastasis,” BioMed Research International, vol. 2015, Article ID 409245
+
+Martin TA, Ye L, Sanders AJ, et al. 2000-2013. Cancer Invasion and Metastasis: Molecular and Cellular Perspective. In: Madame Curie Bioscience Database [Internet]. Austin (TX): Landes Bioscience.
+
+Prentki, M, et al. “Neomycin: a Specific Drug to Study the Inositol-Phospholipid Signalling System?” FEBS Letters., U.S. National Library of Medicine, 3 Mar. 1986, www.ncbi.nlm.nih.gov/pubmed/3485059.
+
+Seiler, S., Arnold, A., Stanton, H. 1987. Inhibitors of inositol trisphosphate-induced Ca2+ release from isolated platelet membrane vesicles, Biochemical Pharmacology, Volume 36, Issue 20, Pages 3331-3337
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.44.59+PM.png&Size=112656&Type=image%2Fpng&F=F_3m3pWnDaB59BNyX
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.50.16+PM.png&Size=109884&Type=image%2Fpng&F=F_1fdxEdJGIHICHCa
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.50.44+PM.png&Size=111200&Type=image%2Fpng&F=F_126hDOKGCXdOHAs
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.51.04+PM.png&Size=128852&Type=image%2Fpng&F=F_2E5VvZkSgIikkWN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Included in the photos added
+
+*************************************************************************

@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-03-13 16:25:52
+Author of this lab report is: Std_Re0m7sLs
+ID: R_0jujsgPpjfC4qrj
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Effect of Precor on Development and Growth of Manduca Sexta Caterpillar Larvae
+
+Abstract:
+Over the course of one week, our group observed and analyzed the effect of a Juvenile Hormone mimic, Precor, on the development and growth of Manduca Sexta larvae. We predicted that if we added Precor to the diet of Manduca Sexta 4th instar larvae, the larvae's growth and development will stunt, and their health will deteriorate significantly. Each day, the 3 control larvae received 10 grams of food mixed with water, while the 3 treatment larvae received 10 grams of food mixed with Precor. We recorded their masses and physical observations each day. Overall, we could not analyze the effect of Precor on molting because none of the larvae molted. We did observe that Precor has negative side effects on development by looking at the weights and amount of food eaten. However, based off of the 2-Sample T-test we conducted, the difference in weights and amount of food eaten was not significant. Therefore, we cannot accept our null hypothesis that Precor will cause detrimental health effects on the Manduca Sexta larvae. 
+
+Introduction:
+In this experiment, we studied Manduca Sexta Larvae, more commonly known as tobacco hornworms. The Manduca Sexta caterpillars are cheap and easy to store and maintain. The life cycle of the Manduca Sexta ranges from 39 to 48 days. Manduca Sexta worms are an example holometabolous insects, meaning they have four major life stages - egg/embryo, larvae, pupa, and adult. The eggs are usually small and round. In the larval stage, which is what the caterpillars used here were in, the organisms are worm-like and soft. The pupa are in a cocoon-state, and undergo metamorphosis. This life-form change results in a moth-like organism in the adult stage. When the Manduca Sexta change from one life stage to the next, the must molt. This means they shed a cuticle layer in order to grow more. 
+The caterpillars spend about four days in the 4th instar stage, before moving on to the 5th instar stage. After the 5th instar, the organism molts to prepare for metamorphosis. This process is controlled by hormone-based and neuron-based signaling. In this experiment, we focused on the effects hormones have on the larval development, specifically Juvenile Hormone, although Brain Hormone and Ecdysone also have a role in molting. Juvenile Hormone, or JH, is known as an Insect Growth Regulator and acts as an inhibitor on the growth of organisms (Tunaz 2004). JH levels remain high up until the 5th instar. The drop in 5th instar is referred to as the commitment pulse and is what triggers the larvae to go through metamorphosis. Therefore, it would make sense that increased levels of Juvenile Hormone would prevent the larvae from moving through their life cycle. 
+We decided to test this concept by giving some larvae supplemental JH, while comparing them to larvae who receive a normal diet. If we add a JH mimic, Precor, to the diet of Manduca Sexta caterpillar, the larvae's growth and development will stunt and their health will deteriorate significantly.  
+
+
+Materials and Methods:
+First, we obtained six Manduca Sexta caterpillars in their 4th instar larval stage. The larvae were split into two groups, control or treatment, and initial weights and observations were made. The three control larvae were given about 10 grams of food, from "Great Lakes Manduca," with five drops, approximately 50  L, of water. The three treatment larvae were also given 10 grams of food, but instead of water, the food was mixed with 5 drops, approximately 50  L, of the JH mimic, Precor. The Precor hormone was diluted to a ratio of 4mL of Precor to 100mL of water. One pair of control and treatment larvae were placed in a circular container, equally divided by an index card. The top of the container had air holes for the larvae to be able to breathe. The containers were kept in a 27 C incubator throughout the week-long experiment, with the exception of when the larvae were being fed. 
+Each day for one week, a group member tended to the larvae. We weighed each caterpillar, as well as their leftover food from the previous day. After cleaning the container of any leftover food or defecation, and a new 10 grams of food, either with water or Precor, was provided. We made physical observations for each caterpillar, including their activity, any markings on their body, their color, and whether or not they had molted. 
+After feeding and observing for one week, we completed a 2-Sample T-test to analyze the data we gathered. 
+
+
+Results:
+Over the seven days of observations, the average masses for both the treatment and control groups increased. However, the weights for the control group increased at a greater rate, and at times the average control larvae weight was twice that of the treatment group. 
+All six larvae started with a bright green color and were active. By day 3, the activity and movement of the treatment group had significantly. On day 4, the control group caterpillars had developed white and black markings on their backs, while the treatment caterpillars lost some of their green color and had no markings. On day 6, the control group had each grown 6 small, black legs near their heads. These legs were white on the treatment group. By the end of the week, the treatment larvae's activity had decreased greatly and almost no movement was observed. 
+It is important to note that at some point between the feeding on day six and on day 7, caterpillar number 6, from the treatment group, ate through the barrier between it and caterpillar 3's space. We can assume number 6 ate some of number 3's food, as the percent of food eaten for number 3 that day was abnormally high, and that of number 6 was abnormally low. Additionally, on day 2, caterpillar 3 experienced trauma when being picked up for weighing. Although this did not seem to affect the larvae past day 3, it may have played into its weight or amount of food eaten. 
+We conducted a 2-sample t-test to determine if the difference in weight and amount of food eaten between the control and treatment group. The difference between the average masses each day for the control and treatment groups was not statistically significant (p=0.43). Similarly, the difference between the average amount of food eaten each day for the control and treatment groups was also not statistically significant (p=0.22). 
+
+
+Discussion:
+By comparing the physical observations made each day, it is clear that Precor had some negative effects on the treatment larvae. Normally, Manduca Sexta larvae show behavioral, morphological, and physiological changes as a result of the drop in Juvenile Hormone (Johnson, 2018). Because we provided supplemental Precor, which acted like JH, the commitment pulse most likely did not occur, or was delayed beyond when we kept the larvae. However, we cannot accept our null hypothesis that that Precor will cause detrimental health effects on the Manduca Sexta larvae. Although we did observe harmful effects on weight and amount of food eaten caused by the Precor, based on the 2-sample t-tests conducted, the differences between the control and treatment groups are not statistically significant. To be able to come to a conclusion, further experimentation would have to be conducted. Our data may not have been strong enough because of the environments the larvae were placed in and the length of our experiment. If given more time and resources, a second experiment conducted over a longer period of time, such as two weeks, where the larvae are placed in individual containers could perhaps show a direction causation between Precor and stunted development. 
+
+Literature Cited:
+Tunaz H, Uygun N. 2004. Insect Growth Regulators for Insect Pest Control. Turk. J. Agric. For. 28:377-387
+
+Johnson AD. Endocrine Control of Insect Life Cycles. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 5, 2018), pp. 12-13. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-13+at+4.24.41+PM.png&Size=250705&Type=image%2Fpng&F=F_bxvqf52XltpdUmF
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-13+at+4.24.47+PM.png&Size=167848&Type=image%2Fpng&F=F_80yJZfabSgBy45v
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-13+at+4.24.51+PM.png&Size=408082&Type=image%2Fpng&F=F_eFMnSf5HTqzYlZX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Difference in mass (grams) from Day 7 to Day 1 for each organism
+Figure 2. Average masses (grams) of the control and treatment caterpillars for each day
+Figure 3. Average percent of food eaten each day by the control and treatment larvae
+
+*************************************************************************

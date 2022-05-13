@@ -1,0 +1,86 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-07 18:00:15
+Author of this lab report is: Std_kGNQ4PQX
+ID: R_1E6CFbxD1NoRtDD
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The effect of different color of light on the electron transfer reaction of spinacia oleracea using DCIP as an electron acceptor
+
+Abstract:
+	The most important function of plant is to do photosynthesis as it is the only source of oxygen in the environment. The energy input for the reaction that produces oxygen, the electron transport chain, comes from the photon in the light. Natural light is white light which is composed of 7 different color of light and according to the action spectrum, under blue and red light there is the highest rate of photosynthesis while the green light has the lowest photosynthesis. So in our experiment we decided to test the rate of photosynthesis under white, green blue and red light using spinacia oleracea as the model organism. We hypothesize that under the same Watts of light, the rate of photosynthesis will be the most in red and blue light while the least for green light compare to white light. We use white light as a control group and run the experiment for 30 minutes for 3 trials under each color and did one tailed two sample t-test on the results, the results didn’t support the hypothesis as there are no significant difference between the rate of photosynthesis and due to the color of the electron carrier, blue light yield smaller result then expected. So under the same power of light, red and blue light doesn’t produce higher rate of photosynthesis compare to white light.
+
+
+
+Introduction:
+	Photosynthesis is a very important biological reaction which produces oxygen as a waste product in the light dependent reaction. The photons from the light excites the electrons in the chloroplast which take away an electron from water to compensate the lost of excited electron and produces oxygen. The light dependent reaction is the key of oxygen production and as the name suggested, it is dependent on light energy. The natural light is white light which is composed of light of different wavelength in the visible color spectrum from 350nm to 750nm and as the wavelength various, the color of the light varies which combines and become white light (K.McCREE 1970). According to the action spectrum, red light and blue light a4 450 and 650 nm has the most effective rate of photosynthesis (S.Balegh 1970) so we are curious about how does light with different wavelength affect the electron transfer reaction and how large is that difference compare to white light? 
+	Previous studies have been done regarding how does different color of light effect the electron transport reaction, but the experiments are done on crop plants and Carbon dioxide concentration is what they measure ((K.McCREE 1970), since carbon dioxide is only involved in the production of carbohydrates, the light independent reaction (JA Bassaham, 2003), our experiment is different in the way that we are testing the effect of light on the light dependent reaction on spinach leaves. In order to measure the rate of photosynthesis, we will measure the change in concentration of the reduced DCIP using Spec 20. DCIP is an electron acceptor which get reduced as the excited electron move across the electron transport chain (Karp 2008), the oxidation state has a blue color while the reduced state is colorless (Atkins 2006). As DCIP get reduced, there will be a change in the absorbance and the higher the lower the absorbance, the lighter the blue is and more electron is being excited hence a higher rate of electron transport reaction. White light is the natural light which spinach leave normally undergo electron transport reaction with, according to the action spectrum the most absorption happens at red and blue light, so we decide to investigate blue and red light. Green light is used because green light has the lowest photosynthesis rate on the action spectrum (S.Balegh 1970) so there should be very low photosynthetic reaction.
+	Spinach, Spinacia oleracea, is the model organism in this experiment for 3 reasons, it is cheap, the surface area of the leave is large with small veins and it has a dark green color which suggests that there are abundant number of chloroplasts (Benjamin 2009).
+	We hypothesis that under the same Watts of light bulb and the similar concentration of chloroplast, the solution under red and blue light will have the highest decrease in absorption, the decrease in absorption under white light is lower while there is no decrease in absorption under green light. And the Null hypothesis is that the decrease in absorption under different color of light are the same compare to white light. 
+
+
+Materials and Methods:
+	The veins were removed from 6 big spinach leave and leaves are being grinded in a mortal with 10ml of grinding buffer (400mM sucrose in Tricine buffer, pH8.0), another 10 ml of grinding buffer was being added before the grinded solution was being poured into a beaker through cheesecloth. The solution in the beaker was centrifuged in centrifugal tube A at 200G 1200rpm for 3 minutes under 4 degrees Celsius. The supernatant of tube A was poured into tube B and centrifuged again under 1000G 2800rpm for 10 minutes under 4 degrees Celsius. The pellet of tube B were saved while the supernatant was discarded, the pellet was re-suspended with 20ml of grinding buffer and the re-suspended solution was where the majority of chloroplast will be in.
+	Four dark box with socket were being set up with a lamp of different color inside, the color was white, green, blue and red, each light bulb had the same Watts of 8 W except for the white light with 9W. 13 test tubes were placed on a test tube rack and labeled red, white, blue and green, each group has 3 trials. Add 6ml of water and 2ml of reaction buffer (100mM phosphate at pH6.5) and 2ml of 130mM DCIP. In the blank tube, add 8ml of water and 2ml of reaction buffer. Set the spec 20 at 600nm, when the machine was ready, add 0.1ml of chloroplast from the re-suspended solution to each tube, mix, and blank the machine with the solution in blank tube. Pour the solution in test tube 1-12 into 12 cuvettes and put three cuvettes in one cuvette stand, measure the absorption of each cuvette and note down on the computer, put the cuvette stand with the cuvette inside into each light box, put a numbered paper under each cuvette so the number corresponds to the test tube. Take absorption every 10 minutes for 30 minutes. 
+	The white light was the control group and the other three colors were the experimental group, for every 10 minutes, the values of each experimental group were being compared to that of the white light group. The statistical test used here is a one tailed two sample t-test, for every 10 minutes, the mean absorbance of the 3 trials of the experimental groups (green, red, blue) are compared to that of the white group. The variance was obtained using the 3 absorbance of each group and the alpha value was 0.05 since it is a one-tailed test. We predicted that red and blue light is going to have a larger decrease in absorption (higher reaction rate) and green light is going to have a lower decrease in absorption (lower reaction rate) compare to white light, so the p test is one tailed.
+
+
+Results:
+          The blue color is disappearing under all four color of light, the white and red light condition had the lightest blue color while the blue group had the strongest blue color and green light is in the middle. For all four group, at the initial time, the absorbance is around 3.6, as the reaction time goes to 30 minutes, the red and white light decrease to 0.07, the green light decrease to 0.102 and the blue light decrease to 0.133. As shown in figure 1, the absorbance value over 30 minutes for all 4 groups are presented together as well as their error bar. 
+          The p test values for all 4 group in 30 minutes are listed below. At time 0, df=2 for all color, Red p=0.054, Green p=0.166, Blue p=0.398. At time 10, df=2, Red p= 0.180, Green p=0.025, Blue p=0.004. At time 20, df=2, Red p=0.364, Green p=0.049, Blue p=0.012. At time 30, df=2, Red p=0.248, Green p=0.092, Blue p= 0.025. 
+
+
+Discussion:
+	The hypothesis of this experiment that under the same Watts of light, the rate of photosynthesis would increase under blue and red light and decrease under green light compare to white light is not supported. As explained in the introduction, the light absorbance of DCIP is measured as DCIP is an electron acceptor which get reduced in the electron transport reaction and loss its blue color, the more the decrease in blue absorption, the higher the rate of photosynthesis.
+According to the graph1, the decrease in white light is the same as the decrease in red light as the error bar overlap with each other for all 4 values and the p value for all 4 data points is greater then 0.05 which indicates that there is no significant difference between the result between red and white light. The blue light, on the contrary, had the lowest level of decrease in absorption, after observation, we reasoned that the difference in the result and hypothesis is due to the color of DCIP. DCIP itself is a blue solution which will reflect the blue light to some extent (M. Johkan, 2012), this leads to lower light absorption of the chloroplast in the cuvette and hence decrease the reduction rate of DCIP and decrease the rate of photosynthesis. The green light also has a significant level of photosynthetic rate, according to research, chloroplast can absorb green light but to a lesser extend as they reflect the majority of them (M. Johkan, 2012), so green light can cause electron transport reaction but in a lower rate.
+	According to the p value, the blue light is the only group with significant difference p smaller then 0.05 at every time point, the green group has a p value greater then 0.05 at time 30 which indicates an insignificant difference. However, since we are doing a one tailed t test and we hypothesized that the decrease in blue will be larger then the decrease in white, the result doesn’t support the hypothesis because the value has less decrease compare to that of the white light, it is significantly different to the opposite direction. 
+	In conclusion, the null hypothesis that the decrease in absorption under different light would not be different then that of white light is accepted because there isn’t any significant difference between the green, red and white light at time point 30, the blue isn’t considered because due to the color of DCIP, the result isn’t accurate.
+	For this experiment, the color change of electron carrier is the easiest way to determine the rate of photosynthesis, however, the color of the electron carrier should be take into consideration when designing an experiment relating to color change. The Color of light should not be similar to the color of electron carrier. The result of this experiment indicates that there is no significant difference between white and red light, but the white light is higher in energy (9W) then red light (8W), for future research, it would be helpful to perform the reaction under light with the same energy. From the current data we got, white light, the natural light is one of  the light condition that spinach has the highest electron transfer rate.
+
+
+Literature Cited:
+1.K.J., McCREE.(2003) “The Action Spectrum, Absorptance and Quantum Yield of Photosynthesis in Crop Plants.” Agricultural Meteorology, Elsevier, 14 May 2003
+
+
+2.Balegh, S. E; Biddulph, O (1970). "The photosynthetic action spectrum of the bean plant". Plant Physiology. 46 (1): 1–5. PMC 396523
+
+3.Bassham JA (2003). "Mapping the carbon reduction cycle: a personal retrospective". Photosyn. Res. 76 (1–3): 35–52
+
+4. Karp, Gerald (2008). Cell and Molecular Biology (5th ed.). Hoboken, NJ: John Wiley & Sons. p. 194
+
+5.P. Atkins and J. de Paula Physical Chemistry (8th ed., W.H.Freeman 2006), p.281
+
+6. Biology 8th Edition Campbell & Reece. Benjamin Cummings (Pearson). 2009. pp. 582–92
+
+7.M., Johkan, (2011) et al. “Effect of Green Light Wavelength and Intensity on Photomorphogenesis and Photosynthesis in Lactuca Sativa.” Environmental and Experimental Botany, Elsevier, 16 Sept. 2011
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+6.23.13+PM.png&Size=110746&Type=image%2Fpng&F=F_10GgxcOAcJnQMtI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig.1 Absorption of DCIP under different color of light for 30 minutes. At time 0, df=2 for all color, Red p=0.054, Green p=0.166, Blue p=0.398. At time 10, df=2, Red p= 0.180, Green p=0.025, Blue p=0.004. At time 20, df=2, Red p=0.364, Green p=0.049, Blue p=0.012. At time 30, df=2, Red p=0.248, Green p=0.092, Blue p= 0.025. The error bar is 1 standard deviation from from the mean for all 4 groups. Standard deviation at time 0, red=0.01 blue=0.005 green=0.01 white=0.003. At time 10, red=0.015 blue=0.02 green=0.02 white=0.01. At time 20, red=0.013 blue=0.025 green=0.21 white=0.013. At time 30, red=0.012 blue=0.022 green=0.24 white=0.010.
+*************************************************************************
+
+
+

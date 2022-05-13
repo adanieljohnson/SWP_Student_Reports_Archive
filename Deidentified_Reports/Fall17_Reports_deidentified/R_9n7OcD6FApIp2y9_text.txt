@@ -1,0 +1,44 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-05 19:16:31
+Author of this lab report is: Std_0lXb2KOo
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Change in Specific Metabolic Rates of Procambarus sp. in Light and Dark
+
+Abstract:
+In this experiment, it we measured the difference in specific metabolic rates of Procambarus sp. in the dark versus in the light.  It was hypothesized that there would be a increase in the metabolic rates of the crayfish since we are using the American species.  Using a dissolved oxygen meter, we calculated the amount of dissolved in oxygen in the tanks initially and at 5, 10, 15, and 20 minutes.  After calculating a two-tailed paired t-test, the p-value equals .008181 which is less than the alpha value of .05 meaning the results were statistically significant.  The decrease in specific metabolic rate is caused by the crayfish being diurnal and they would need to hunt prey during the day where they would expend more energy than at night where they would simply be resting.  
+
+Introduction:
+In order to create energy, heterotrophs convert the carbon and oxygen of glucose into gas, CO2. therefore, the more energy a heterotrophic organism expends, the more o2 it will consume and the more CO2 it will release. These same reactions release high energy electrons which are used to convert ADP to ATP. The amount of CO2 released is directly proportional to the amount of energy expended.  Therefore, measuring the change in CO2 and O2 will show the change in an organism’s metabolic rate.  In this experiment, crayfish will be used due to their relative small size and calm disposition.  It is unknown the exact species of the crayfish but the genus is Procambarus sp.  American crayfish tend to be more active during the day than their European counterparts which would affect the metabolic rate of the crayfish when changing their environment from one of light to one of darkness [Musil et. al:2010].  If the species is nocturnal then there will be an increase in metabolic rate as this would be the time the crayfish would be hunting their pray; however, if the crayfish are diurnal then there will be a decrease in metabolic rate as this would be the time the crayfish are resting and not worrying about hunting their prey.  In this experiment, the American species of crayfish was used.  Due to the diurnal nature of American crayfish, there will be a decrease in the specific metabolic rate when the crayfish are placed into a dark environment.
+
+Materials and Methods:
+First obtain three crayfish.  Weigh the crayfish and place the crayfish into a mason jar that is filled with room temperature, 22 degrees Celsius, water to the brim.  After, let the crayfish rest in the jar for two minutes as this will allow time for the crayfish to have its metabolic rate return to its resting rate.  The transition from the crayfish’s tank to the mason jar could stress the crayfish resulting in a higher metabolic rate.  After, place the entire set-up in a room temperature water bath, ensuring the jar with the crayfish stays at 22 degrees Celsius.  Insert the dissolved oxygen probe into the top of the camber and record the baseline dissolved oxygen concentration.  Then, take dissolved oxygen concentration readings again at 5, 10, 15, and 20 minutes.  Pour the water in the jar into a graduated cylinder and record the volume.  Obtain a new jar with oxygenated room temperature water; however, cover this jar in aluminum foil in order to assure that no light will penetrate the jar during the readings.  Transfer the crayfish from the previous jar into the one with newly oxygenated water.  This will be the experimental group.  Insert the dissolved oxygen probe into the jar and take a baseline reading and then readings again at 5, 10, 15, and 20 minuets.  Repeat these steps with the next two crayfish.  Then calculate the specific metabolic rate for each crayfish in both the control and experimental set up by multiplying change in oxygen by volume of water and then divide this number by time multiplied by the weight of the crayfish.  After, calculate the average of the controls and the experimental and then calculate the standard deviations for each.  Finally, calculate a two-tailed p-test to determine if the values are statistically significant.  
+
+Results:
+The crayfish were initially reluctant to be taken out of their tanks and placed into the mason jars; however, the crayfish remained relatively calm when transferring from the control environment to the experimental environment.  There was a relative decrease in the metabolic rate in the specific metabolic rates of the experimental group.  The average specific metabolic rate of the experimental group is 5.59304 * 10^-4 +/- 4.3535 * 10^-4.  The average specific metabolic rate for the control group is 1.049534 * 10^-3 +/- 4.3378*10^-4.  The species of the crayfish used is Procambarus sp.  
+
+Discussion:
+Our hypothesis was supported because our p-value of .008181 is less than the alpha value of .05.  Additionally, we calculated a two-tailed paired t-test; the decrease in the average metabolic rate in experimental group, as shown in Figure 1, shows that these crayfish are probably diurnal or at least accustomed to a feeding schedule where they receive their food during the day.  The increased metabolic rate in the day is caused by the fact that these crayfish depend on locomotion and visibility in shallow waters [Seibel: 2007].  The sunlight penetrates easier in shallow waters allowing for shallow water predators to depend on light for their ability to hunt prey.  In a dark environment, it would be much more difficult for the crayfish to hunt their prey.  As a result, the crayfish have evolved to have a lower metabolic rate in the dark in order to save energy for when they will need it during the day time [Seibel: 2007].  In order to improve this experiment, a larger sample size of crayfish will need to be obtained due to the fact that only three were measured during this experiment.  Any one of the crayfish could have skewed the data.  Also, keeping the crayfish in the dark longer than 20 minutes will improve the experiment by showing how much the metabolic rates decrease in the dark. Since the twenty minutes in the dark was not a true photoperiod, a longer time will provide more accurate data to the crayfish’s metabolic rate in the dark.  It would be interesting to see if diurnal crayfish can adapt to a nocturnal environment, where they are fed during the night and if this would increase their specific metabolic rates.  This study would provide insight to how adaptable the crayfish are to a change in environment.
+
+Literature Cited:
+Seibel, B. A., & Drazen, J. C. (2007). The rate of metabolism in marine animals: environmental constraints, ecological demands and energetic opportunities. Philosophical Transactions of the Royal Society of London B: Biological Sciences, 362(1487), 2061-2078.
+
+Musil, M. A. R. T. I. N., Buřič, M. I. L. O. Š., Policar, T. O. M. Á. Š., Kouba, A. N. T. O. N. Í. N., & Kozák, P. A. V. E. L. (2010). Comparison of diurnal and nocturnal activity between noble crayfish (Astacus astacus) and spinycheek crayfish (Orconectes limosus). Freshwater Crayfish, 17, 189-193.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-12-05+at+7.15.07+PM.png&Size=209494&Type=image%2Fpng&F=F_78mhtp4ixC1m3Mp
+
+
+
+
+
+
+
+
+Figure Legends: 
+The average specific metabolic rate of the experimental group is 5.59304 * 10^-4 +/- 4.3535 * 10^-4.  The average specific metabolic rate for the control group is 1.049534 * 10^-3 +/- 4.3378*10^-4.  The species of the crayfish used is Procambarus sp.  The alpha value is .05 and the p-value is .008181
+
+*************************************************************************

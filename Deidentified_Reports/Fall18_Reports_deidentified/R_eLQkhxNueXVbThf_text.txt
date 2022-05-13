@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-01 18:33:53
+Author of this lab report is: Std_ZguLcTp9
+ID: R_eLQkhxNueXVbThf
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The effect of injecting Calcium ions to the gastrocnemius muscle of a frog leg on the strength of its contractions when the sciatic nerve is stimulated
+
+Abstract:
+Calcium ions play a prominent role in many biological processes in vertebrates including muscle contraction. Action potentials  allow Ca+2 to flow along its concentration gradient out of the sarcoplasmic reticulum and into the sarcoplasm where the ion binds to troponin, uncovering actin binding sites and initiating contraction. Consequently, tested the effect of activating voltage-gated calcium channels in the gastrocnemius muscle of a frog leg on the strength of its contractions when the sciatic nerve is stimulated. We speculated that activating voltage-gated calcium channels in the gastrocnemius muscle of the frog leg would result in stronger contractions when the sciatic nerve is stimulated. We were provided with two frog legs to measure their sciatic response when the sciatic nerve-gastrocnemius muscle complex is stimulated using a force transducer and myogram. Although the graph shows that there is an increase in amplitude of the contraction when calcium is injected to the gastrocnemius muscle, the paired t-test showed that these results were not significant. These results may not have been entirely accurate given the small sample size of only two frog legs. This conclusion is supported by a previous study in which caffeine was found to increase Ca+2 release.
+
+Introduction:
+When nerves work efficiently with muscles, they effectively allow organisms to sense and respond to the internal and external environments. Neuromuscular control — the unconscious trained response of a muscle to a signal regarding dynamic joint stability — involves a system that can respond within milliseconds, rather than responding in seconds to days as hormone-based systems do. Experiments testing the effects of stimuli on the neuromuscular system in animals have been carried out, and in one experiment tested on rabbits, researchers were able to correlate the twitch potentiation with the fraction of time during which the cell membrane is depolarized by the action potentials [Edman: 1976]. In our experiment, we will demonstrate some properties of neuromuscular control in the Lithobates pipiens frog. Our nerve-muscle complex of interest in frogs is the sciatic nerve and gastrocnemius muscle located in the legs of the frog. Calcium ions play a prominent role in many biological processes in vertebrates including muscle contraction. After acetylcholine crosses the neuromuscular junction and an action potential propagates along the motor endplate, the depolarization travels down transverse tubules to voltage-gated receptors on the sarcoplasmic reticulum (SR). The receptors sense the change in voltage brought about by the action potential and trigger a conformational change in the DHP-ryanodine receptor complex [Davies: 1963]. This change allows Ca+2 to flow along its concentration gradient out of the sarcoplasmic reticulum and into the sarcoplasm where the ion binds to troponin, uncovering actin binding sites and initiating contraction. Caffeine is a calcium-channel activator. Consequently, tested the effect of activating voltage-gated calcium channels in the gastrocnemius muscle of a frog leg on the strength of its contractions when the sciatic nerve is stimulated. We speculated that activating voltage-gated calcium channels in the gastrocnemius muscle of the frog leg would result in stronger contractions when the sciatic nerve is stimulated. In other words, the sciatic response would be greater than normal.
+
+Materials and Methods:
+We were provided with two frog legs in order to be able to test with more accuracy and reliability. We placed a leg in a dissecting pan, and grasped the skin at the top of the leg and pulled the skin down towards the foot with a pair of forceps. We then laid the skinned leg in the dissecting pan and moistened it with frog Ringer’s solution, a solution that consists of sodium chloride, potassium chloride, calcium chloride, and sodium bicarbonate. With dissecting probe, we gently separated the inner thigh muscles beginning at the upper end and extending to the knee in order to reveal the white sciatic nerve along with its accompanying muscles. We freed this nerve from its attaching connective tissue using a dissecting needle and forceps. We also separated the gastrocnemius muscle from the adjacent muscles. Then, using one meter of thread, we tied a double knot around the distal end of the muscle, suspending it upright relative to the remaining muscle. Following that, we pinned the remaining muscle down to prevent its movement during contraction. We tied the end of the string to the force transducer allowing a bit of leeway for contraction; the string not being completely taut. 
+                On each frog leg, we measured the sciatic response at the lowest amplitude that still gave strong contractions without any injections (control). Using a delta acquisition system, we recorded the baseline myogram from the force probe for five traces, with approximately one second between each stimulation to prevent summation from affecting the results. We recorded the average amplitudes of contraction for all five traces. We then injected 0.1 mL of 200 mM concentration of hi Calcium Ringer’s solution into the gastrocnemius muscle to activate voltage-gated calcium channels and measured the strength of the sciatic response at the same amplitude (frog 1 1.5 and frog 2 0.7). We recorded the myogram results for five traces of stimulation as done with the baseline measurement. The average amplitude for these five traces were recorded as well. A paired t-test was used to compare the averages recorded in the two conditions for any significant differences in the amplitudes of contraction between the control and treatment groups. Significance is defined as a p-value less than 0.05.
+
+
+Results:
+The results of the experiment are outlined in the figure above. In Figure 1, we can tell that there was a substantial increase in amplitude of contraction with the injection of calcium in each frog leg. As for the statistics, the paired t-test comparing the average amplitude of contraction produced by the gastrocnemius before and after treatment did not find a significant difference between the two groups (d.f. = 2, t-value = 3.124, p-value = 0.09; p &lt; 0.05), thus the null hypothesis could not be rejected.
+
+Discussion:
+Statistically, our hypothesis was not supported and therefore we must conclude that the caffeine-Ringer’s solution of 200 mM did not increase the amplitude of contraction in the gastrocnemius of Lithobates pipens significantly. However, the trend in the data, both graphically and while looking at the differences in the respective conditions’ means, suggest that these results may not have been entirely accurate given the small sample size of only two frog legs. One must also note that all two gastrocnemii of the experimental condition achieved tetany as seen both in their myograms, which displayed substantial baseline shifts, and in the recorded tetanic force values. In future studies, the sample size used should be increased to decrease the possibility of errors caused by tissue degradation over time spent in the open air from effecting the overall results. This conclusion is supported by a previous study in which caffeine was found to increase Ca+2 release and thus tension of contraction proportionally to the concentration of caffeine administrated [Olorunshola & Achie: 2011]. If tetanic contraction is facilitated by Ca+2 remaining in the sarcoplasm,--inducing continuous contraction by keeping the sarcomere short--then clearly calcium achieved that tetanic contraction in the experiment performed here given the myograms post-treatment and qualitative results. Further experimentation is needed, however, to definitively say—with statistical significance—whether caffeine was the cause and that Ca+2 was released in response to its injection.
+
+
+Literature Cited:
+1.Edman, K. A., and M. Jóhannsson. “The Contractile State of Rabbit Papillary Muscle in Relation to Stimulation Frequency.” The Journal of Physiology, vol. 254, no. 3, Jan. 1976, pp. 565–581.
+
+2.Davies, R. E. “A Molecular Theory of Muscle Contraction : Calcium-Dependent Contractions with Hydrogen Bond Formation Plus ATP-Dependent Extensions of Part of the Myosin-Actin Cross-Bridges.” Nature, vol. 199, no. 4898, Sept. 1963, pp. 1068–74. 
+
+3.Olorunshola, Kolawole Victor, and L. N. Achie. Caffeine Alters Skeletal Muscle Contraction by Opening of Calcium Ion Channels. 2011, p. 5.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-01+at+6.14.22+PM.png&Size=23603&Type=image%2Fpng&F=F_r0e4lOc7ZRPBrbz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The Average Amplitude of Contraction of each frog leg's gastrocnemius baseline versus calcium treatment. A bar graph displaying the trend seen in the data which was that the average amplitude in the caffeine condition was greater than that of the baseline. The Baseline/Control value is about 0.1V. The Caffeine/Experimental value is 41.682 g. Error bars represent standard deviation.*************************************************************************
+
+
+

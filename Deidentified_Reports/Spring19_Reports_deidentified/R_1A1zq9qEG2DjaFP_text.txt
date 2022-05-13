@@ -1,0 +1,75 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-24 18:09:40
+Author of this lab report is: Std_3upXHElf
+ID: R_1A1zq9qEG2DjaFP
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: No reported correlation between methoprene in Martin’s IGR and the mass of Manduca sexta
+
+Abstract:
+The Manduca sexta or Tobacco Hornworm, is commonly utilized to study hormones, such as juvenile hormone (JH) and ecdysterone, or 20E, that are responsible for insect molting. This study utilized Martin’s IGR, which contains methoprene, to examine the effects of JH on insect mass and lifestage. It was hypothesized that the addition of methoprene to the food of the experimental group would result in specimens with a larger reported mass and would additionally prevent the organisms from advancing into the pupa stage. Five drops of Martin’s IGR were added to the food of the experimental group, and the control group did not receive a hormone treatment. The p-value of this study was less than the designated significance value of 0.05; thus, this study did not reveal any correlation between the addition of methoprene and insect mass (t-stat = 0.2273, df = 6, P =0.4139 ). To further analyze the impact of methoprene on Manduca sexta mass, the organism could be exposed to methoprene and studied throughout its life cycle. 
+
+Introduction:
+This experiment utilizes Manduca sexta to examine the effects of specific hormones on insect mass and life stage. Manduca sexta was chosen as the experimental specimen because extensive prior research exists on the influence of endocrine hormones on the physiology of the Manduca sexta. Manduca sexta, commonly referred to as the Tobacco Hornworm, is indigenous to the southern United States [Villanueva: 1998]. Manduca sexta undergoes a holometabolous life cycle which consists of four life stages: egg, larvae, pupa, and adult [Johnson: 2018]. The process of entering a new life stage is referred to as molting, and is accompanied by a change in physiological  composition. Although there are only four main life stages, the Manduca sexta can experience multiple molts within the same life stage. For example, the larval stage is typically characterized by five instar stages in which the larvae experience a change in body composition; however, the larvae can go through more instar stages if hormone levels permit [Johnson: 2018]. Ecdysterone, or 20E, is a steroid hormone that is responsible for regulating the timing of molting in insects [Johnson: 2018]. Juvenile hormone, JH, normally suppresses the genes that are responsible for initiating adult development, and as a result is responsible for the type of molting that the insect goes through [Meyer: 2016]. To ensure optimal survival, the insect must be exposed to the specific levels of both 20E and JH at specific stages of its life. 
+
+During the fifth larval instar, the insect experiences a decline in levels of JH and a small rise in levels of 20E, that is referred to as the commitment pulse and is normally accompanied by a emergence of a beating dorsal heart, dorsal bars, and a distinct brown coloring [Johnson: 2018]. At this stage, low levels of JH signal the organism that it is time to begin adult development. Insect growth regulators (IGRs) are compounds that mimic naturally-occuring hormones responsible for insect growth and development [Tunaz: 2004]. Methoprene is an example of an IGR that mimics the effects of juvenile hormone [Nijhout: 2006]. Adding methoprene to a larva that has not experienced the commitment pulse could prevent the low JH levels associated with the commitment pulse, which would prevent the organism from reaching the pupa and adult life stages. As a result, the organism would never initiate pupa moltation, and would instead advance into additional instar stages. As a result, the organism would grow larger with each additional instar stage, resulting in a larger pre-pupal specimen than normal. This study aims to examine the effects of additional methoprene, and as a result, JH, on resulting larval mass.
+
+Manduca sexta larvae are defoliators, meaning they are pests that consume the foliage of plants, and roughly 90% of destructive Manduca larvae are in the fifth instar stage [Villanueva: 1998]. Decreasing the amount of available Manduca larvae could benefit crop production by limiting the amount of insect pests; thus, it is important to find a solution for Manduca sexta larval control. Although this IGR would not benefit agricultural production, as it would increase the amount of larvae, by conducting research on possible IGR’s, we will further understand hormone mechanisms that could lead to future insights in IGR usage. 
+
+In this experiment, the independent variable is the type of food the larva are fed (supplemented with Martin’s IGR or with only water) and the dependent variable is the mass in grams of each larvae. This study hypothesizes that if methoprene, which mimics juvenile hormone, is added to the organism, then the larvae will remain larvae and not pupate and will additionally go through multiple instar stages, resulting in a heavier specimen than the control group. 
+
+
+Materials and Methods:
+The study utilized eight Manduca sexta caterpillars that had not undergone the commitment pulse. To determine this, we picked caterpillars that did not have pulsing dorsal bars, which is an indicator of the commitment pulse. Two four-cell plastic containers were obtained, and two air holes were punched in each of the cells. A single caterpillar was then placed into each cell, and each cell of the container was then labeled by group (Control or Experimental) and the number of caterpillar (1- 4)  it was in that group. Each larvae was fed 10g of provided Manduca food. 0.25mL of Martin’s IGR, which contains methoprene, were added to every 10g of Manduca food that the experimental group received, while 0.25mL of distilled water were added to every 10g of Manduca food that the control group received. The Manduca containers were stored in an incubator to maintain optimal constant light and temperature conditions. Over a period of fourteen days, the Manduca sexta larva were massed every day, and 10g of food were given as the food was running low or had dried out. In addition, the masses were mainly collected around the same period of time each day to ensure that roughly the same amount of time passed between each measurement. 
+
+After collecting the masses of the larvae over fourteen days, the change in the final weight minus the initial weight was recorded. Due to inconsistencies in data, this group decided to use data from over a twelve day period rather than the initial fourteen day period. The average change in weight for each group (control and experimental) was recorded, and the standard deviation of the data was reported. This study utilized a one-tailed two-sample t-test method for statistical testing, which aims to compare the means of two groups. 
+
+
+Results:
+Both experimental and control groups appeared similar observationally. The heaviest reported mass was 18.23g and the smallest was 3.76, so there is extensive variation in reported masses. Additionally, two specimens in each group gained weight over the course of the experiment and remained green, while two specimens in each group reported low weight gains and demonstrated the brown coloring characteristic of the pupa stage. Overall, one group did not appear to be larger or healthier looking than the other group. Figure 1. shows the average masses of the control group and experimental group of this experiment. The average mass of the experimental group was 6.7875 ± 4.534, while the average mass of the control group was 5.94 ± 5.9184. For the results of this study to be deemed statistically significant, the calculated p-value should be less than 0.05. Because our p-value is larger than 0.05, the mean of the experimental group was not statistically different from that of the control group (t-stat = 0.2273, df = 6, P =0.4139 ). 
+
+Discussion:
+Based on the statistical results of this study, our hypothesis that the addition of a methoprene-containing IGR to Manduca food would result in an increased specimen mass was not supported. Our p-value was greater than our determined significance level of  0.05; thus, our results do not show a relationship between the use of methoprene and Manduca sexta specimen weight. It is important to note that that regular size of a Manduca sexta fifth-instar larvae is 11g, and our heaviest specimen massed at 18.23g, which is roughly a 60% larger body mass than normally reported [Nijhout, 2006]. This mass was recorded in the control group, which was not exposed to methoprene, so it is possible that major outliers could have altered the results of this study. In addition, if methoprene had an effect on increased insect mass, this heavy mass would have been reported in the experimental group, which was the group exposed to methoprene. The sample size of this experiment was relatively small (only eight specimens), and repeating the experiment with a larger sample size could reveal different results. Furthermore, it was impossible to determine for certain if methoprene had an effect on hindering pupa metamorphosis, as we could not definitively determine the instar stage of our larvae and on average, fifteen days can pass between the second instar stage and pupation and this study was conducted for only fourteen days; however, two specimens in each of the groups portrayed brown color representative of the pupal stage [Johnson; 2018]. Increasing the study period to include the entire Manduca sexta life-cycle (egg to adult) could reveal if methoprene has an effect on lengthening the amount of time that Manduca sexta spends as a larvae. This experiment did not contribute to further research on the implications of IGR hormone usage, and further investigation is required to determine more detail. 
+
+
+Literature Cited:
+1. Johnson AD. Comparative Physiology. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2. (updated August 2, 2018), pp. 6-14.
+
+2. Nijhout HF, Davidowitz G, Roff DA. 2006. A quantitative analysis of the mechanism that controls body size in Manduca sexta. Journal of Biology. 5:16. 
+
+3. Meyer, John R. 2016. Hormonal Control of Molting & Metamorphosis. Accessed February 10, 2019. &lt;https://projects.ncsu.edu/cals/course/ent425/library/tutorials/internal_anatomy/molting.html&gt;
+
+4. Tunaz H, Uygun N. 2004. Insect Growth Regulators for Insect Pest Control. Turk J. Agric. For. 28: 377-387
+
+5. Villanueva, R. 1998. Tobacco hornworm, Manduca sexta (Linnaeus), and tomato hornworm, Manduca quinquemaculata (Haworth), (Insecta: Lepidoptera: Sphingidae). University of Florida. Accessed February 10, 2019. &lt;https://www.maine.gov/dacf/php/gotpests/bugs/documents/hornworms-fla.pdf&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-24+at+5.59.26+PM.png&Size=64037&Type=image%2Fpng&F=F_1pQeS7OXPuUMf4f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average masses and standard deviations of the Manduca sexta study groups over a 12 day period. The experimental group was exposed to 0.25mL of Martin’s IGR, which contains methoprene, a synthetic juvenile hormone. The control group was given no extraneous hormone and received only 0.25mL distilled water. Average mass of experimental group is recorded as 6.7875 ± 4.534. Average mass of control group is recorded as 5.94 ± 5.9184. *************************************************************************
+
+
+

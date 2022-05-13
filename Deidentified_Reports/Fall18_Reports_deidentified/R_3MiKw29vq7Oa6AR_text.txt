@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 11:26:17
+Author of this lab report is: Std_rFPRLz0e
+ID: R_3MiKw29vq7Oa6AR
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Tetraethylammonium Chloride on Threshold for Action Potential in Rana pipens
+
+Abstract:
+The main objective of this experiment was to measure the amplitude of the threshold for action potentials delivered in the Gastrocnemius muscle through stimulation of the Sciatic Nerve of the Rana pipens species of frog. The Rana pipens is commonly known as the Northern Leopard Frog that is indigenous to Canada and North America. The Rana pipens species has a neuromuscular system similar to Humans which makes them good model organisms to study the Neuromuscular system.  Considering that  ion channels allow ions, like K+, in and out of the cell to change the membrane potential in order to send an action potential, we predicted that the blockage of the K+ channels due to tetraethylammonium chloride would increase the amplitude for threshold, measured by a force transducer, for action potentials to be fired in the gastrocnemius muscle. Our data was statistically insignificant, so we were not able to support or refute our hypothesis, nor were we able to reject the null hypothesis. It can be concluded that due to all of our legs presenting complications in measuring the amplitude of the threshold, it would benefit a future experiment to expand the number of legs used in order to discard data from legs with complications. 
+
+Introduction:
+Muscle contractions and practically all bodily functions are reliant on the muscular system in a series of contraction and relaxation. The series of contraction and relaxation is controlled by nerve cells which fire action potentials in order to propagate the electrical signal and control many muscle fibers and muscles as a result. Na+ and K+ ions are responsible for the propagation of these electrical signals as they change the electrochemical gradient which changes the membrane potential of the nerve cell from resting potential to assist in the propagation of the electrical signal between the Nodes of Ranvier on the axon of the nerve cell. The Na+ and K+ ions flow through their respective voltage gated and leaky channels in order to depolarize the nerve cell, which creates an action potential, and immediately after the nerve cell begins to repolarize and even sometimes hyperpolarize in order to achieve resting potential, which must be achieved in order to prepare for another action potential to be fired. The blockage of any ion channels in this system would prevent the nerve cell from depolarizing  and transmitting an action potential as normal. The biological question that comes to mind would be, what types of changes in ion channels’ functionality will warrant what types of effects on action potential propagation? The research article published by A.L. Kleinhaus explored a similar topic by studying a frog’s dorsal root ganglion cells, a frog’s neuromuscular junction and a squid’s stellate ganglion cells. From the experiment they concluded that all of them showed that Intracellular TEA prolonged the action potentials at an increased threshold in order to maintain the prolonged and gradual development of the depolarization of the cell. [Kleinhaus: 1975]. This begins to answer the biological question that reflects that the blockage of a K+ channel, due to Tetraethylammonium chloride (TEA), will increase the threshold for action potential due to the fact that the action potentials will be prolonged and gradual. We are asking this question because it is important to understand what effects changes in ion channels will have on the firing of action potentials down an axon. In this experiment we plan on using the Rana pipens species of frog in order to observe the effect of the blockage of K+ channels on the threshold for action potentials sent through the Sciatic nerve to stimulate the gastrocnemius muscle. The Rana pipens species is a great model organism to study this because the neuromuscular system of the Rana Pipens is similar to the neuromuscular system of most mammals to which this information can be applied. Based on the research literature by A.L. Kleinhaus and knowledge of how important the K+ channels are to the firing and propagation of action potentials, we expect that the treatment of the gastrocnemius muscle with 0.1mL tetraethylammonium chloride (TEA), the independent variable, will increase the threshold for action potentials, the dependent variable, to propagate throughout the muscle.  
+
+Materials and Methods:
+In this experiment, we selected three similarly sized Rana pipens frog legs and were responsible for degloving them, isolating the gastrocnemius muscle by cutting along the Achilles tendon and separating the thigh muscles in order to isolate the sciatic nerve. After this we were able to attach the gastrocnemius muscle by the Achilles tendon to a string on the force transducer and adjust the tension in order to record accurate Amplitude observations and apply Ringer’s solution to the legs. The sciatic nerve was then draped over the electrode which delivered the stimulus in order to stimulate the gastrocnemius muscle. The force transducer is then connected to the software LabScribe which was able to accurately predict the Amplitude of each stimuli delivered. For this experiment we were able to test the amplitude of the threshold (mV) by adjusting the voltage of the Stimuli (V) created by the force transducer. The threshold (mV) was determined for each leg prior to the gastrocnemius muscle being injected with 0.1mL of 100mM tetraethylammonium chloride (TEA). The legs were then given 5 minutes to relax and then the gastrocnemius muscle was then treated with 0.1mL of 100mM tetraethylammonium Chloride (TEA) and the threshold was then re-evaluated.  A paired t-test was used in order to analyze the data from this experiment. 
+
+Results:
+Upon observation, legs #1-#3 displayed twitching without being stimulated by the force transducer. Nevertheless, the first leg’s threshold decreased 0.0113mV after being treated with TEA. The second leg’s threshold decreased by 0.052mV after being treated with TEA. The third leg’s threshold increased by 0.333mV after being treated with TEA. The experimental results from leg #2 displayed the lowest amplitude for threshold of both the experimental and control groups.  The experimental results from leg #3 displayed the highest amplitude(mV) for threshold.  As seen in Figure 1, the average of the threshold of the group treated with TEA was not significantly lower than the average of the threshold before being treated with TEA (tstat= 0.896198 df=2 p=0.464722)
+
+
+Discussion:
+Based on our data, seen in Figure 1, after the treatment of the gastrocnemius muscle with TEA chloride, the threshold values decreased but due to our data being insignificant we cannot correlate that the TEA chloride is responsible for the decrease. Our data was not significant as revealed by the P value, which means that we cannot refute the null hypothesis and the treatment of the legs with TEA cannot be supported as the reason for the decrease in threshold.  While we cannot support that the TEA caused the decrease in threshold for action potential, the unstimulated muscle contraction of the legs could have contributed to the decrease in the threshold for action potential. Another biological reason that the threshold could have decreased could be that there is a possibility that the Sodium ions that are able to enter the cell are able to depolarize the cell so much that an action potential is able to be fired and the sodium ions can then also exit the cell in order to repolarize it, without a need for the potassium ions.  Due to the data not being statistically significant, we could not conclude that TEA was the cause of the decrease in the threshold however, the review by Kleinhaus was able to find significant results confirming that TEA does increase the threshold for action potentials. Kleinhaus described how the blockage of K+ channels increased the prolongation of the action potential which increased the threshold required for another action potential to be produced [Kleinhaus: 1974]. While this is what was expected to happen, the threshold in the experiment actually decreased but due to the data being insignificant we are not able to support that the blockage of the K+ channel caused a decrease in threshold for action potential. One way to improve this experiment would be to increase the number of frog legs to test in order to be able to reject any legs that presented complications with measuring threshold.
+
+Literature Cited:
+1. Kleinhaus, A.L. 1974. Calcium dependent action potentials produced in leech Retzius cells by tetraethylammonium chloride. The Journal of Physiology. 246: 351-369.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-12+at+8.15.05+PM.png&Size=33044&Type=image%2Fpng&F=F_BR4jhOJ8JR2L2gN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Tetraethylammonium chloride on the threshold for action potential in Rana pipens frog legs. Legs had observed abnormalities and complications with contracting without stimulation. Three Rana pipens gastrocnemius muscles were tested for threshold values before and after the gastrocnemius muscle was treated with  0.1mL 100mM of Tetraethylammonium chloride. Control Legs (Blue) before being treated with TEA Chloride had an average threshold value of 0.0343mV. Experimental Legs (Orange) following being treated with 0.1mL mM TEA Chloride had an average threshold value of 0.01743mV. Each bar is the mean of the three legs threshold values for both control and experimental groups; Error value for control was +/- 0.0196 mV. Error Value for experimental was +/- 0.01609mV.   *************************************************************************
+
+
+

@@ -1,0 +1,74 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-29 18:35:31
+Author of this lab report is: Std_kENLmPiY
+ID: R_1lfrMKhlTTBJrrm
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Inducing Gastrocnemius Muscle Paralysis through Tubocuranine Injection in Rana pipiens
+
+Abstract:
+Known for its application to the arrow heads of Native American tribes, Tubocurarine is a toxic alkaloid that can induce the relaxation of voluntary muscles. The main focus of this experiment was an exploration of Tubocurarine’s impact on the contractile response of the gastrocnemius muscle in Rana pipiens frog legs. Our group hypothesized that Tubocurarine injected into the muscle will lead to a complete inhibition of muscle contraction and produce a totally flat Myogram. To test this hypothesis, we proceeded to inject Tubocurarine into the gastrocnemius of three frog legs, and observed the amplitude of the individual muscles’ contraction after being stimulated with an electric pulse. Results were compared to a control group of legs that were stimulated with similar voltages, but without Tubocurarine. Obtained experimental data showed that Tubocurarine effectively produced extreme inhibitory differences in muscle contraction between the control and treatment groups. 
+
+
+Introduction:
+The contraction and relaxation of skeletal muscle tissue is one of the most complicated aspects of physiology. In order to contract a muscle, an action potential must be sent along a series of neurons stemming from the central nervous system (CNS), to be received by a muscle’s receptor. An action potential in the motor end of a neuron opens up voltage gated calcium channels, allowing calcium to come into the neuron and depolarize the terminal end. Vesicles containing acetylcholine bind to the membranes of the terminal end and acetylcholine is exocytosed into the synaptic cleft. The acetylcholine binds to the ligand gated sodium channels on the sarcomere, causing it to open. Sodium moves into the sarcomere, the basic unit of striated muscle tissue, from the extracellular matrix, causing the sarcomere to depolarize. The depolarization of the sarcomere causes the actin-myosin protein filaments within the sarcomere, to slide over one another and shorten the muscle. Once the contraction period of the muscle is finished, the acetylcholine is released from the ligand gated sodium channels and gets recycled by acetylcholinesterase. This molecule removes acetylcholine from the synapse and breaks the acetylcholine down into acetate and choline, which are then reabsorbed into the terminal end of the motor neuron to be used as new acetylcholine. For this experiment, we will be testing Tubocurarine’s effects on the gastrocnemius of a Rana pipiens, an easily isolatable and relatively large muscle. Since, historically, Tubocurarine “has been known to drastically decrease head lift and hand grip strength in human subjects,” we will be injecting Tubocurarine directly into the frog muscle, followed by the running of electrical current through the surgically exposed sciatic nerve to determine if the toxin will induce paralysis and inhibit the muscle from contracting (Johansen, 1964). We hypothesize that the injection of Tubocurarine directly into the frog gastrocnemius muscle will cause a significant inhibition of contraction amplitude. 
+
+
+Materials and Methods:
+Each group received three Rana pipiens frog legs, which had to be used in both the control and treatment group experiments. First, the legs were de-gloved to separate the skin from muscle. Throughout the experiment, the leg would be occasionally doused with Ringer’s frog solution (an analog to saline, an isotonic solution relative the frog’s body fluids) to keep the muscles and nerves from “drying out”. Next, the gastrocnemius was separated from the tibia at one end by cutting through the Achilles tendon. A string was then tied around the tendon so that the gastrocnemius could be suspended (tightly and upright) from a force transducer. Next, we exposed the sciatic nerve with the use of a scalpel near the hamstring and attached two electrodes, which would stimulate the nerve with an electrical current. For the control part of the experiment, nothing was administered to the muscles, and the sciatic nerve was stimulated with currents of 0.4, 0.5, and 0.6 volts. The amplitude of the muscles’ responses was then recorded in the form of myograms, the LabScribe iworks software enabling use to deduce the amplitude of individual contractions. For the treatment group, the muscles were injected (by syringe) with 0.5 mL of 1 mM Tubocurarine. Once again, a current of 0.4, 0.5, and 0.6 volts was run through the sciatic nerve to make the muscles contract. These responses were also recorded as a myograms and analyzed for individual amplitude values. 
+
+
+Results:
+
+The graph above presents a visual comparison in responses from the two groups. The treatment group had a significantly lower response strength than the control group. A 2 sample T-test was used to test for statistical significance for the 0.4 Amp values, using a 95% confidence interval. The p-value of the test was 0.054. Since this value is higher than 0.05, the null hypothesis was not rejected.  
+
+Other observations: 
+The results for the third frog leg appeared to be incorrect. When we ran the experiment, the values for both the treatment and control group were abnormally low in comparison to the other legs. Additionally, each time the muscle was stimulated, the response amplitude dropped. This led us to believe that there may have been an issue with the connection between the electrodes and the sciatic nerve. 
+
+
+Discussion:
+Tubocurarine’s mechanism of action is competition with ACh for binding to postsynaptic receptor sites in the neuro-muscular junction, as well as possible interference with the presynaptic release of ACh from motor nerve endings. Furthermore, Tubocurarine is already known to reduce the amplitude of neutrally evoked end-plate currents in rats (Gibb, 1984). With this information in mind, this experiment can be considered successful. If all treatment and control responses were grouped together for all stimuli, an average difference of 1.05 volts in contraction amplitude would result (the control group having the higher average responses). 
+Although the statistical test we ran showed that the results were technically not significant, the null hypothesis was not rejected by a value of only 0.004. This number is also most likely inaccurate due to the fact that a procedural error occurred with the third leg. There was an issue with the connection between the electrodes and the sciatic nerve. We believe this error to have affected our results, since the other two legs yielded vastly different myograms – the injection of Tubocurarine in the third leg completely inhibited the muscle’s response (0 Amp). It would be interesting to run another statistical test excluding our data for the third leg; however, it would not be viable to run such a test with only two data points for each group. For future experimentation, it would be beneficial to use a larger sample size. If this experiment were run with a larger sample size and without experimental error, then I believe the final results would support our initial hypothesis. 
+
+
+Literature Cited:
+1 Johansen, Sophus H., et al. “Effect of Tubocurarine on Respiratory and Nonrespiratory Muscle Power in Man.” Journal of Applied Physiology, vol. 19, no. 5, 1964, pp. 990–994., doi:10.1152/jappl.1964.19.5.990.
+
+2 Gibb, A J, and I G Marshall. “Pre-and Post-Junctional Effects of Tubocurarine and Other Nicotinic Antagonists during Repetitive Stimulation in the Rat.” The Journal of Physiology, vol. 351, no. 1, 1984, pp. 275–297.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+6.33.33+PM.png&Size=20366&Type=image%2Fpng&F=F_3Kqjq20BHvmM0ON
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+6.33.30+PM.png&Size=18525&Type=image%2Fpng&F=F_3PYsLBwST0nnpWx
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+6.04.31+PM.png&Size=21430&Type=image%2Fpng&F=F_1d79r1b9WAjWXn6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Average Response from Control Group.  
+
+Table 2. Average Response from Treatment Group. 
+
+Figure 1. Average Response Amplitude from Control and Treatment groups. 
+
+
+*************************************************************************

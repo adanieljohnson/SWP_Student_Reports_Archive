@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-05 16:37:48
+Author of this lab report is: Std_ZeWRaK4P
+ID: R_3lyK7vuHxCbsOcm
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of Caffeine on Muscle Twitches in the Gastrocnemius Muscle of Rana Pipiens 
+
+Abstract:
+Contraction of skeletal muscles occurs when a stimulus transcribes into a neural impulse and an action potential is fired. We will concentrate on the gastrocnemius muscle of a Rana Pipiens frog leg in this lab. After isolating the muscle, we will fire a voltage stimulus into the muscle and observe how much the muscle twitches. However, after finding a baseline for how much the muscle twitches at a certain voltage, we will inject caffeine into the muscle to see if it affects the amplitude of the muscle twitches. We predict that caffeine will cause the muscle to twitch at a higher amplitude than at a certain stimulus than it would when it was caffeine-free. Our results indicated that the amplitude of the twitches of the caffeinated muscle were not significantly higher than the muscle twitches of the non-caffeinated muscle (t = 1.05, p = .404, df = 2). This could have occured due to human error of not fully injecting the caffeine into the muscle .  
+
+
+Introduction:
+Skeletal muscles in vertebrates and nonvertebrates are made of thousands of myofibers. These muscles have motor neurons, which then branch out to neuromuscular junctions. Without neurons and the firing of action potentials, no animal would be able to respond to stimuli. When a stimulus is initiated on a muscle, an action potential is fired through the muscle’s motor neurons and a response is generated. However, certain chemicals, such as caffeine, can have an effect on the contraction of the muscle when it is injected into the muscle [Lopes et al, 1983]. Caffeine is a stimulant, so the muscle will be at a heightened state when the caffeine is injected. In this lab, we will isolate the gastrocnemius muscle in a Rana Pipiens frog leg and observe what happens to the muscle when it is stimulated. We will then inject caffeine into the frog legs and determine if there is an effect in the muscle twitch of the frog leg when it is stimulated. We predict that the muscle twitches of the frog leg will have a bigger amplitude when the caffeine is injected than the amplitude of the muscle twitches when the muscle has no added chemical. 
+
+
+Materials and Methods:
+We first obtained 3 frog legs. We skinned the legs, cut away the gastrocnemius muscle, and tied the achilles tendon on a string. The string attached to the tendon was then hung on a hook so the gastrocnemius muscle was perpendicular to the tray, and the string was pulled tight. We then attached the frog leg to Labscribe so we were able to find the amplitude of a muscle twitch in the frog leg. We attached the probes into the muscle with the red one on top. We first had to find the threshold of the action potential from a stimulus, so we shocked the muscle at multiple voltages until it twitched. We used this value as our threshold and used this value when we fired a stimulus. We first had to find a control, so we shocked the muscle 5 times and found the amplitude of the twitches. After this, we injected 0.1 mL of caffeine into the muscle and shocked the muscle 5 times. We found the amplitude of these twitches when a stimulus was initiated to the muscle. We repeated this for the other two frog legs. To see if there was a significant difference in twitch size between the control and caffeine twitches, we used a paired samples t-test. 
+
+
+Results:
+The amplitude of the caffeine twitches when the stimulus was initiated is not significantly larger than the control group (t = 1.05, p = .404, df = 2). However, the average amplitude of the twitches for each control group were lower than the amplitude of the twitches when the caffeine was injected (Figure 1). When the caffeine was injected, the muscle started to swell and harden and turned a yellow color. The amplitude of the twitches shot up immediately when the caffeine was injected, even though we had not yet stimulated the muscle. 
+
+
+Discussion:
+We determined that injecting caffeine into the gastrocnemius muscle in a Rana Pipiens frog leg does not increase the amplitude of the muscle twitch. From our results, we did not predict our hypothesis correctly. Based on the paired samples t-test, there is not a significant difference showing the amplitude of the muscle twitches of the caffeinated frog leg is larger than the amplitude of the twitches of frog legs without caffeine (t = 1.05, p = .404, df = 2). Our results could be skewed because the injection of caffeine on the second frog leg was not complete. When we injected the caffeine into the first and third frog legs, the muscle swelled right away and induced tetanus. This is due to an automatic influx of Ca2+. This caused an automatic increase in twitch amplitude. A study conducted in May of 1983 also concluded that caffeine has a direct effect on skeletal muscle contraction [Lopes et al, 1983]. The muscle was put under an extreme form of stimulus before we added stimulus to the muscle. Further, it was difficult for the muscle to create a response when we actively added a stimulus because the caffeine was already causing the muscle to contract. There could have been some error in our results due to the caffeine injection, especially in the second frog leg. The gastrocnemius muscle of the frog legs were small, so it could have been possible that while injecting, some did not make it in all the way. This could have caused an effect on the twitches of the muscle. For further study, I would want to inject a different chemical into the gastrocnemius muscle and determine how that chemical would affect the muscle twitches in the frog leg. 
+
+
+Literature Cited:
+Lopes, JM, et al. “Effect of Caffeine on Skeletal Muscle Function before and after Fatigue.” Journal of Applied Physiology: Respiratory, Environmental and Exercise Physiology., U.S. National Library of Medicine, May 1983
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+1.39.30+PM.png&Size=34674&Type=image%2Fpng&F=F_27mcptuw7tmRQdi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average height of the amplitudes of the twitches each frog leg had when a stimulus was fired. The caffeine group did not have significantly higher amplitudes of the twitches than the control group. The error bars show the standard deviation between the two groups. 
+*************************************************************************
+
+
+

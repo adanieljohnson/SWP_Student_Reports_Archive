@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-08 09:50:24
+Author of this lab report is: Std_3BCr4TOM
+ID: R_xAixaDLZGn9F8Ax
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Measuring Nerve and Muscle Activities Under the Effects of Caffeine in Rana pipens
+
+Abstract:
+In this experiment, the gastrocnemius of a Rana pipens was stimulated before and after an injection of caffeine. The hypothesis was that the injection of caffeine would cause a higher hreshold, thus increasing the strength of the muscle contraction due to an increase in the release of Ca2+ from the sarcoplasmic reticulum. To test this hypothesis, a myogram was created using computer software that sent a stimulus through the leg and thus recorded the muscle contraction and relaxation thresholds. Our results showed that the leg did in fact have a higher threshold, at the same frequncy stimulus, after a caffeine injection. This information is useful in observing the effects of caffeine on all organisms, not only Rana pipens.
+
+Introduction:
+The nervous system is a complex, yet rapid, response system to internal and external stimuli. A myogram can be used to measure the latent contraction and relaxation periods. In this experiment the gastrocnemius muscle will be isolated and observed using computer software to create a myogram showing the muscle threshold at a certain frequency. Our objective is to use this baseline to observe the basic function of muscle firing before and after an injection of caffeine to the muscle. Several studies show a an increase in sarcoplasmic release of Ca2+ is brought on by the presence of caffeine in the target muscle[Rosser: 2009]. This increase in Ca2+ then increases the strength of contraction. Therefore, our hypothesis is that caffeine will cause stronger muscle contractions as a result of a higher threshold. 
+
+Materials and Methods:
+First, 3 legs of a Rana pipens sample were obtained and prepared by removing the skin and isolating the gastrocnemius muscle and a portion of the achilles tendon. The leg was rigged with the achilled tendon raised by the force transducer and an electrode inserted into the gastrocnemius. The threshold stimulus was stimulated with single pulses of 0.5 V under constant duration and the myogram generated of model of the muscle twitch phases. Then, a 0.1 mL injection of 200 millimolar caffeine  was administered to the gastrocnemius while the myogram was recording, thus showing the effect of caffeine on a muscle in real time. This was repeated three times under contant voltage. This entire process was repeated on the 2 additional legs. A paired t-test was used to compare to examine the significance of the results.
+
+Results:
+In our experiment, we observed that prior to a caffeine injection, the average amplitude was 0.565 V. After the injection was administered it was 1.347 V. This is an increase of 0.767 with a standard deviation of 0.1785. We observed that there were more twitches in the gastrocnemius muscle without caffeine because of caffeine induced stiffness from the strength of contractions. The results of the paired t-test was a p value of 0.076, so the experiment has low evidence against the null hypothesis in favor of the alternative hypothesis. 
+
+Discussion:
+After conducting the experiment we can conclude that caffeine increased the voltage amplitude, which increases muscle tension. This causes a stronger action potential, resulting in a higher amplitude. There are more twitches in the muscle as well. Implications of this research are that increased muscel contractions can be stimulated with high levels of caffeine [Rosser:2009] . However, if we measured muscle fatigue, we would have seen faster fatigue in the caffeine injected muscles because caffeine causes a stronger contraction, but a muscle can not hold a strong contraction for as long. 
+
+Literature Cited:
+Rosser, J. I., Walsh, B., & Hogan, M. C. (2009). Effect of physiological levels of caffeine on Ca2+ handling and fatigue development in Xenopus isolated single myofibers. American journal of physiology. Regulatory, integrative and comparative physiology, 296(5), R1512-7.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-08+at+9.49.20+AM.png&Size=133325&Type=image%2Fpng&F=F_W2I5pyUuQMNsnEB
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-08+at+9.49.28+AM.png&Size=60856&Type=image%2Fpng&F=F_cO8072wrOdPoEkp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Table 1: Summary table of raw data concerning the difference in threshold before and after a caffeine injection. Figure 1: Difference in threshold response before and after caffeine injections
+*************************************************************************
+
+
+

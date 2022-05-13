@@ -1,0 +1,102 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-20 15:40:46
+Author of this lab report is: Std_6SPEz9W4
+ID: R_1ghci7MMwTy1DXF
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Effects of Sevine Solution on Frequencies at which Muscle Tetany is Achieved in Frog Muscle
+
+Abstract:
+Muscle contractions are initiated by a chain of events following the bonding of acetylcholine to the
+acetylcholine receptors in neuromuscular junctions. Following acetylcholine release
+acetylcholinesterase breaks down the acetylcholine in the receptors reverting them to how they
+were before being activated however when exposed to an acetylcholinesterase inhibitor this
+enzyme is not present to clear these junctions. It was hypothesized that a muscle injected with
+this inhibitor would show signs of fatigue at lower frequencies than muscle without the inhibitor.
+The observed effects were not significant and the hypothesis that muscle exposed to the ​inhibitor
+would have lower frequency levels at which it would achieve tetany was rejected.
+
+Introduction:
+Skeletal muscles, like the gastrocnemius frogs, are formed through strands consisting of bundles
+of myofibers which are multicellular fibers of muscle cells. These muscle cells act through
+stimulation of motor neuron which releases the chemical acetylcholine from synapses into the
+junction containing muscle cell membrane folded causing a high surface area. In this junction,​
+acetylcholine interacts with its receptor to open sodium channels before being eventually cleared
+by acetylcholinesterase. The opening of these sodium channels causes a depolarization within
+the muscle cell leading to a change in the cells DHP receptor which prevents Ca2+ ions from
+escaping the sarcoplasmic reticulum. As a result, once a depolarization occurs the chain of
+events leads to a release of Ca2+ into the muscle cell which directly leads to the initiation of
+muscle contractions. [Johnson: 2016] Sevine is an acetylcholinesterase inhibitor which prevents
+the clearing of acetylcholine receptor sites by greatly limiting the presence of the enzyme that
+breaks down acetylcholine. The corresponding reaction is a continued supply of Ca2+ in muscle
+cells leading to continued contraction. [Panenic: 1999] Due to this information we hypothesized
+that frog legs once exposed to sevine would exhibit a lower frequency threshold before achieving
+tetany.
+
+Materials and Methods:
+Three frog legs were dissected which consisted of removing the skin and exposing both the
+sciatic nerve, separating the gastrocnemius from the bone and severing the Achilles tendon. The
+base of the gastrocnemius was then tied to a piece of string and suspended from the
+electrophysiological recorder. The leg was pinned and finally,​ the electrode needles were placed
+below the sciatic nerve. The nerve was stimulated beginning with two Hz and then by
+progressively higher frequencies (2 Hz, 4 Hz, 5 Hz, 10 Hz, 25 Hz, 50 Hz) until tetany was
+reached. This was repeated three times, once for each leg. Each gastrocnemius was then
+injected with one mL of 2% sevine solution. The 1 mL was spread throughout the muscle in
+various injection sites. Each leg, once injected, was tested again following the same procedure as
+when untreated. A paired t-test was then performed for the data.
+
+Results:
+The results for all trials were consistent as leg one reached tetany at 50 Hz before sevine treatment and the remaining legs reached tetany at 25 Hz with and without sevine treatment (fig 1). Additionally, leg one when treated with 2% sevine solution reached tetany at 25 Hz. In accordance with the performed paired t-test,​ the results were insignificant. (df=2, t-stat=1, p value=0.4226) The first frog leg exhibited visible contractions for both the control and the treatment tests. The second and third legs failed to show strong visible contractions for their treatment test after having contracted normally for the control tests, however, they gave recording for the contractions that were exhibited.
+
+
+Discussion:
+Our hypothesis that frog legs treated with 2% sevine solution would reach tetany faster was
+rejected. Due to the paired t-test results,​ it was suggested that 2% sevine does not have a high
+correlation with lowering the frequency at which tetany is achieved in the gastrocnemius of frogs.
+This was suggested through the p-value of 0.42265. While sevine and other acetylcholinesterase
+inhibitors are known to be toxic in organisms as they lead to an excess of acetylcholine the short
+nature of the experiment means that should not have played a role in the lack diversity in results.
+[Panenic: 1999] The lack of diversity in results means that it may be beneficial if the experiment
+was recreated to use smaller increments of frequency and to perhaps bypass making many trials
+at low frequencies as the leg can only withstand a certain amount of simulations due to it being
+removed from its organism. Additionally, these smaller increments would allow for a researcher to
+differentiate between where tetany is achieved for each individual leg between the values of 10
+and 25 Hz where the frequency jumped occurred leading to tetany in nearly all subjects. Also if
+results were still not definitive the sevine concentration or the amount of solution injected could be
+increased to see if a result was visible then.
+
+Literature Cited:
+Robert Panenic, Victor Gisige, Phillip F. Gardiner. Fatigability of rat hindlimb muscles after acute
+irreversible acetylcholinesterase inhibition, 1999. Journal of Applied Physiology, Volume 87, pp.
+1455 to 1462.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FrogTetanygarph.png&Size=51614&Type=image%2Fpng&F=F_20OJRU1JVB3Mr9f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Effect of 2% sevine solution on the frequency at which tetany occurs in frog gastrocnemius. The bars indicate the frequency at which tetany occur for the trial mentioned at the bottom. Control refers to frog gastrocnemius’ initial test and treatment refers to sevine treated muscle. 
+*************************************************************************
+
+
+

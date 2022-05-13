@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-14 12:12:54
+Author of this lab report is: Std_lW3smN0i
+ID: R_1C15VYtqnS9Zslp
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The Disruptive Effect of Juvenile Hormone on the Growth and Development of Manduca Sexta Caterpillars
+
+Abstract:
+An abstract is a summary of your work that includes parts of each section of the paper. Even though it is a at the front of a report, the abstract should be the last part of the report that you write. You do not know what you need to summarize until the rest of the report has been written. In about 200 words or less, it should summarize the study's main objective(s), give the scientific name of the organism you studied, and state your hypothesis. It also will summarize the study's background, the methods, major results, and conclusions. You should not include references in your abstract.
+
+Introduction:
+Insect hormones, or mimics of them (Insect Growth Regulators), have been suggested to work as insecticides  in order to help regulate pests for agricultural and societal purposes [Pener: 2012]. The Manduca sexta is an insect in Order Lepidopten that is found to be a pest during adulthood [Bollenbacher: 1981].These insects go through a holometabolous life-cycle, meaning they go through major body reorganization during pupal metamorphosis that is organized into five larval instars separated by molting [Johnson:2016]. Molting is controlled by hormones [Gilbert: 1980]. The timing of molting is controlled by the hormone ecdysterone, while the type of molting is controlled by the Juvenile Hormone. At the fourth larval instar, levels of Juvenile Hormone is high, whereas at the fifth larval instar, this hormone level drops. Ths drop in the JH hormone is called the commitment pulse, which is accompanied by a slight rise in ecdysterone [Weeks: 1986]. By treating the food of manduca sexta with the IGR precor, we can delay the onset of the commitment pulse and prevent the caterpillar from undergoing pupal metamorphosis. If we keep the manduca sexta caterpillar from developing into an adult, then we can use precor as an insecticide. Therefore, we hypothesize that if we add precor to the food of Manduca sexta caterpillars, then we will delay the onset of the caterpillars’ commitment pulse because the precor will disrupt the caterpillar’s growth and development negatively.
+
+
+Materials and Methods:
+To test whether a mimic of the Juvenile Hormone, precor, would disrupt insect growth, we used 8 Manduca sexta caterpillars: 4 in the control group and 4 in the experimental group. We chose the Manduca sexta caterpillar because it is a model organism for testing hormone regulation. The 8 Manduca sexta caterpillars were separated into 8 separate plastic containers, each labelled 1 through 8 with 10 grams of food in each container. Caterpillars 1 through 4 were the control group, and caterpillars 5 through 8 were the experimental group. The initial weights of each caterpillar was recorded.The experimental group’s food was treated with 6 drops of precor, while the control group’s food was treated with 6 drops of deionized water. The caterpillars were kept in an incubator for 2 weeks to keep their environmental conditions controlled. Every day for 2 weeks we weighed and recorded the weights of each caterpillar to see if there was a significant difference in the weights of the experimental group versus the weights of the control group. To test for statistical significance, we averaged the differences of the experimental group’s final weights from their initial weight and then averaged the differences of the control group’s final weights from their initial weight, then calculated the standard deviation of each group’s average to find the variability of the data. We then used the Two Sample T test to find out if the data yielded a one tailed p value less than 0.05. We also calculated the rate of growth of each caterpillar over the 14 day period to have a visual representation of the experimental and control groups’ growth rates.
+
+
+Results:
+Precor, acting as juvenile hormone, did not significantly affect the growth of the caterpillars. The average difference in growth over a period of 14 days in the experimental group of 4 caterpillars was 9.91 g compared to the average difference in mass of the control group of 4 caterpillars at 12.50 g (Figure 1). While the experimental group shows less average growth than the control group, taking into account the standard deviation at 5.34 g for the experimental group and 1.86 g for the control group, the data does not yield significant results. When we plugged the values into the two sample t- test, the one-tailed p value is 0.20, which is greater than a p value of 0.05, therefore no significant difference is found. Figures 2 and 3 show visual depictions of the rates of growth of the control group versus the experimental group. The control group (Figure 2) shows a faster rate of growth and more overall growth than the experimental group (Figure 3).
+
+Discussion:
+We expected the precor would inhibit the growth of the experimental group of Manduca sexta caterpillars, demonstrated by the experimental group growing significantly less than the control group. While we did observe less growth in the experimental group (Figure 1), the difference in weight between the two groups was not statistically significant. Due to the lack of statistical significance we cannot be sure that the precor inhibited or disrupted growth and development of the caterpillars because the difference in weight could have been due to chance. In addition, we expected to see a slower growth rate of the experimental group compared to the rate of growth of the control group due to the ingestion of the precor [Gilbert: 1980]. When comparing the experimental rates of growth to the control rates of growth (Figure 2 compared to Figure 1), we do see a slower overall growth rate of the experimental group. This data suggests that the precor did disrupt the timing of molting of the Manduca sexta caterpillars.While we fail to support our hypothesis due to no statistically significant difference in data, the graphs display that the experimental group did show less growth than the control group (Figure 1; Figure 2). Our background research also supports our hypothesis in that that Manduca Sexta caterpillars’ development can be disrupted if treated with IGRs [Pener: 2012]. Therefore, our data might have not been statistically significant due to experimental errors or too small of a sample size. In conclusion, there is still a possibility that IGRs can be used as insecticides but may not be the most effective form of pest control for Manduca sexta caterpillars as well as other Lepidopten insects. Further research should include a larger sample size and a greater amount of precor in the experimental group’s food to generate greater systematic variance in the data.
+
+Literature Cited:
+Bollenbacher, Walter E., et al. “Ecdysteroid Titer during Larval-Pupal-Adult Development of the Tobacco Hornworm, Manduca Sexta.” General and Comparative Endocrinology, vol. 44, no. 3, July 1981, pp. 302–06. ScienceDirect, doi:10.1016/0016-6480(81)90005-8.Gilbert, L. I., et al. “Hormones Controlling Insect Metamorphosis.” Proceedings of the 1979 Laurentian Hormone Conference, edited by ROY O. Greep, vol. 36, Academic Press, 1980, pp. 401–49. ScienceDirect, doi:10.1016/B978-0-12-571136-4.50017-6.Johnson AD, Mallison S. 2016. Cell Structure. Biological Principals Laboratory Manuel. Dept. Biology, Wake Forest University, Winston- Salem, NC. Vers. 19.2 (updated July 8, 2019), pp. 5-15Pener, Meir Paul., and Tarlochan S. Dhadialla. “Chapter One - An Overview of Insect Growth Disruptors; Applied Aspects.” Advances in Insect Physiology, edited by Tarlochan S. Dhadialla, vol. 43, Academic Press, 2012, pp. 1–162. ScienceDirect, doi:10.1016/B978-0-12-391500-9.00001-2.Weeks, J. C., and J. W. Truman. “Hormonally Mediated Reprogramming of Muscles and Motoneurones during the Larval-Pupal Transformation of the Tobacco Hornworm, Manduca Sexta.” Journal of Experimental Biology, vol. 125, no. 1, Sept. 1986, pp. 1–13.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+1.jpg&Size=6982&Type=image%2Fjpeg&F=F_1jMWuvKAbwbbCQo
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+2.jpg&Size=10091&Type=image%2Fjpeg&F=F_1QoKvKxVF7iSfIZ
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+3.jpg&Size=8386&Type=image%2Fjpeg&F=F_3PSqR44ghXNQ4zP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Mean differences in weight of Manduca seat caterpillars treated with precor (experimental group, n=4) vs filtered water (control group, n=4). Error bars represent +/- one standard deviation. The mean of the control group was 12.5 +/- 1.86 and the mean of the control group was 9.9 +/- 5.34. 
+ Figure 2. Rate of growth of each control manduca sexta caterpillar (n=4) over 14 day period.
+Figure 3. Rate of growth of each experimental manduca sexta caterpillar (n=4) over 14 day period.
+*************************************************************************
+
+
+

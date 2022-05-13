@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-03-20 13:00:37
+Author of this lab report is: Std_MId1aiCP
+ID: R_5bROlP7jcocHywN
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: Analyzing the Effects of Saltwater on Root to Shoot Ratio in Pisum sativum
+
+Abstract:
+In this experiment, we looked at whether or not salinity could be considered an abiotic factor that alters root to shoot ratio by mass and/or length as a measure of resource allocation. We predict that watering Pisum sativum with salt water will affect root to shoot ratio in such a way that it can be deemed significant. This sort of information is valuable because sea levels are rising and freshwater is in increasing demand which is going to have major agricultural implications. To perform this experiment, we planted four pots with field peas and watered them with salt water or distilled water over 14 days and then recorded our results. After running a two-tailed two sample T-test, we determined that the control was not significantly different from the experimental group. This caused us to reject our original hypothesis and conclude that this concentration of saltwater does not affect resource allocation in plants.
+
+Introduction:
+Resource allocation of organisms can be affected by various external factors and manifested in a variety of ways. Resource allocation is the way in which an organism strategically utilizes resources in order that it can be better suited to survive and pass on its genes in a particular environment (Bennett E, Roberts JA, Wagstaff C; 2012). The easiest way we can observe resource allocation in plants is by looking at the root to shoot ratio by mass and length. Root to shoot ratio can be affected by biotic and abiotic factors such as vegetation type, soil texture, climatic variables, and stand age [Wang, L. et al.; 2014]. In this experiment, we looked at whether or not salinity could be considered an abiotic factor that effects root to shoot ratio. Prior research has shown that a NaCl solution increased the root to shoot ratio by nearly 30% in Pennisetum alopecuroides [Mane AV, Karadge BA, Samant JS; 2011]. We predict that watering Pisum sativum, field peas, with salt water will affect root to shoot ratio in such a way that it can be deemed significant. This sort of information is of increasing importance because as sea levels rise, agricultural lands will start to be affected and it is likely that soil will become more concentrated with salt and freshwater will be contaminated by salt water.
+
+Materials and Methods:
+To start this lab, we took four small pots and filled them with a vermiculite potting soil. We then added 50mL of Miracle-GroTM to each pot, planted peas into the soil, added an additional layer of vermiculite on top of the peas, and then saturated all four pots with freshwater. From there, we labeled two pots as controls and two as experimental. Over the next 14 days, the plants were watered daily with 100mL of water or 100mM NaCl solution, depending on whether they were experimental or control. After the 14-day growth period, we took two plants from each pot (four control plants and 4 experimental plants in total), washed the dirt off the roots and shoots, and dried the plants. We then recorded total plant mass, root mass, shoot mass, root to shoot ratio by mass, maximum root length, maximum shoot length, and root to shoot ratio by length.  Our data analysis included calculating averages and standard deviations of the root to shoot ratios by mass and length for the control and experimental plants. We also ran a two-tailed, two-sample T-test to determine if there was indeed a significant different between our control and experimental groups.
+
+Results:
+The data we collected yielded a control average R:S by mass (g) of 0.44±0.05 and by length (cm) of 0.72±0.10. The experimental data gave an average R:S by mass (g) of 0.49±0.11 and by length (cm) of 0.75±0.15. This information is represented graphically in Figures 1 and 2. With the raw data, we ran a two-tailed two sample T-test to determine if there was any significance to our data. A comparison of the plants on R:S by mass data proved an insignificant difference (t-stat = 0.812, df = 4, P = 0.45). Then a comparison of the groups based on R:S by length also proved an insignificant difference (t-stat = 0.36, df = 4, P = 0.73).
+
+Discussion:
+The two-tailed two sample T-test for root to shoot ratio by mass and length gave us P-values far greater than 0.05 which causes us to reject our hypothesis that watering field peas with saltwater significantly affects the root to shoot ratio. This seems inconsistent with the study that showed a 30% increase in root to shoot ratio described in the Introduction, but that study used a salt solution that was 3 times more concentrated than what we used [Mane AV, Karadge BA, Samant JS; 2011]. This leads us to think that our salt solution was not as concentrated as needed to yield any sort of significant results. It is possible that if we let the plants grow for a longer period of time, watered them with more concentrated salt solution, or chose a different model organism we might have gotten statistically significant results. However, under the conditions described in the Methods, there was no statistically significant difference between the two groups. However, despite the experiment yielding insignificant data, this information is still very useful. The fact that watering plants with 100mM salt solution or water yields no significant difference tells us that under controlled circumstance, watering plants with low concentration salt water is not going to significantly alter the root to shoot ratio of the plants. An experiment similar to this one could provide valuable information in regard to the future of farmland near the coast. This is because seawater contains NaCl at a concentration of roughly 600mM which is six times more than the concentration we tested but only twice as much as the Mane et al. study. Performing this same experiment at a concentration closer to 600mM would tell us to what extent rising sea levels could affect these crops.
+
+Literature Cited:
+1. Emma B, Roberts JA, Wagstaff C; 2012. Manipulating resource allocation in plants. J Exp Bot. 63(9): 3391–3400.
+2. Mane AV, Karadge BA, Samant JS; 2011. Salt stress induced alteration in growth characteristics of a grass Pennisetum alopecuroides. Journal of Environmental Biology. 6: 753-8. 
+3. Wang, L. et al.; 2014. Biomass allocation patterns across China’s terrestrial biomes. PLoS One. 9:4.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-26+at+3.49.52+PM.png&Size=68879&Type=image%2Fpng&F=F_WjodHKqYaXsFPVL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-26+at+3.39.42+PM.png&Size=63232&Type=image%2Fpng&F=F_1pXKjspACb0CHCN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 represents the average root to shoot ratio of the control plants and experimental plants by length (which was measured in cm) and the error bars show one standard deviation. Figure 2 represents the average root to shoot ratio of the control plants and experimental plants by mass (which was measured in grams) and the error bars show one standard deviation.
+
+*************************************************************************

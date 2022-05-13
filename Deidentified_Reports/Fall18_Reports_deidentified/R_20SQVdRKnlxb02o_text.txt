@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-05 18:26:24
+Author of this lab report is: Std_6Avptfds
+ID: R_20SQVdRKnlxb02o
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title:  Photosynthetic effect of increasing salinity on chloroplasts extracted from [Spinacia oleracea]
+
+Abstract:
+Photosynthesis is the process used by plants and other autotrophs to capture light energy and use it to power chemical reactions that convert carbon dioxide and water into oxygen and carbohydrates. Photosynthetic rate is dependent on environmental factors like O2 levels, CO2 levels, sunlight, and temperature and this can be measured by electron transfer reactions in chloroplasts using DCIP. In this experiment, chloroplasts from [Spinacia oleracea] were treated with NaCl in various concentrations to measure the rate of photosynthetic reduction. To conduct this experiment, we extracted chloroplasts from [Spinacia oleracea], treated them with various concentrations of NaCl, and used a spectrophotometer to calculate the absorbances. We hypothesized that the rate of photosynthetic reduction in chloroplasts of [Spinacia oleracea] with higher concentrations of NaCl will not be significantly different than the chloroplasts with lower concentrations of NaCl. An anova test and Tukey Kramer analysis was performed, resulting in a p-value of .729, which was not statistically significant. The collected data supports our hypothesis but due to experimental error this may be insignificant. Salinity was found to not significantly affect the rate of photosynthetic reduction on [Spinacia oleracea]. 
+
+Introduction:
+Photosynthesis is the process in which plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. Photosynthesis occurs in a three-stage process. The first two stages are called the light-dependent reactions which generates NADPH. The last stage is called the light-independent reactions where glucose molecules are created [Johnson: 2016]. The DCIP assay can be used to determine if environmental conditions, chemicals, and other factors affect reduction reactions required for photosynthesis. Oxidized DCIP is a dark blue compound but when it becomes reduced it becomes colorless and absorbs light maximally at 600 nm. It can then be measured using a spectrometer due to the decrease in light absorbance [Johnson: 2016]. Therefore, the reduction of DCIP can be used to measure how different environmental factors affect photosynthetic activity. Photosynthetic rate is dependent upon many environmental factors including temperature, sunlight, CO2 levels, and O2 levels and this can be found by measuring electron transfer reactions using electron acceptors.  Photosynthesis is sensitive to different environmental factors [Kaiser: 2014]. In a previous study, it was reported that chloroplasts isolated from leaves of salt-stressed spinach leaves had about 80% of the photosynthetic capacity of chloroplasts from control leaves which suggests that the maximum photosynthetic capacity of chloroplasts was not drastically reduced in salt-stressed plants [Robinson: 1983].  In this experiment, the rate of photosynthesis will be measured on chloroplasts of [Spinacia oleracea] in various concentrations of NaCl.  We used spinach as our model organism due to the fact that it is chloroplast-dense and easily accessible. In previous experiments, it was concluded that for spinach, salt stress does not result in any major decrease in the photosynthetic potential of the leaf [Robinson: 1983]. With this knowledge, we hypothesized that the rate of photosynthesis reduction in chloroplasts of [Spinacia oleracea] with higher concentrations of NaCl will not be significantly different than the chloroplasts with lower concentrations of NaCl. 
+
+Materials and Methods:
+In this experiment, chloroplasts from [Spinacia oleracea] were treated with various concentrations of NaCl to measure the rate of photosynthetic reduction. The large central veins from 4 medium sized spinach leaves were removed and added to a chilled mortar and pestle. 10 mL of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) were added to the mortar and pestle and grinded that into a thick paste. An additional 10 mL of cold grinding buffer was added. The mixture was filtered through three layers of cheesecloth into a chilled 50 mL centrifuge tube and spun at 200 x G (1200 rpm in RT-7 centrifuge) for 3 minutes at 4°C. The supernatant was poured out of the tube, without transferring debris, and into a second chilled 50 mL centrifuge tube and centrifuged at 1,000 x G (2800 rpm in the RT-7 centrifuge) for 10 minutes at 4°C. Then the supernatant was poured into a clean 50 mL tube without disturbing the pellet. 20 mL of grinding buffer was added to the pellet and suspended by stirring gently with a transfer pipet. 
+ 16 large test tubes were placed in a rack and prepared. We prepared three different saltwater NaCl solutions at 0.25 M, 0.50 M, and 1 M.  The blank contained 8 mL of water and 2 mL of the reaction buffer (100 mM phosphate, 6.5 ph). The negative controls (3) contained 6 mL of water, 2 mL of 130 mM DCIP, and 2 mL of the reaction buffer (100 mM phosphate, 6.5 ph) but contained no chloroplasts. The positive controls (3) contained 6 mL of water, 2 mL of 130 mM DCIP, and 2 mL of the reaction buffer (100 mM phosphate, 6.5 ph) but these tubes did not contain salt in their water concentration. Experimental 1 (3) contained 6 mL of water, 2 mL of 130 mM DCIP, and 2 mL of the reaction buffer (100 mM phosphate, 6.5 ph) but the salt water concentration was 0.25 M, Experimental 2 and 3 contained the same ingredients except .5M and 1M concentrations of saltwater were used respectively. After we prepared the test tubes we added 100 μl of the enriched chloroplasts to test tubes #4-16 and mixed each tube immediately. We then transferred the mixtures into spectrophotometer cuvettes. Then we measured the absorbance of all the samples at 420 nm. Then we placed all the samples underneath a lamp for 10 minutes. The absorbance of each mixture was measured using the spectrophotometer every 10 minutes for 30 minutes. To analyze the collected data, an anova test and Tukey Kramer analysis was conducted , with p&lt;0.05 used to determine statistical significance.
+
+
+Results:
+The average data for  salinity on chloroplasts was not statistically significant at any of the concentration levels (df=11, p=0.729). No chloroplasts had a mean of 1.12, .25 M NaCl had a mean of .728, .5 M NaCl had a mean of .436, and 1 M NaCl had a mean of .346. No chloroplasts had a standard deviation of 1.703, .25 M NaCl had a standard deviation of .409, .5 M NaCl had a standard deviation of .414, and 1 M NaCl had a standard deviation of .310. Due to the Tukey Kramer analysis none of the concentrations had a  significant difference. An anova and a Tukey Kramer analysis was conducted. 
+
+Discussion:
+The collected data supports our hypothesis but due to experimental data this may be insignificant.  Salinity was found to not significantly affect the rate of photosynthesis. The mean measured change in absorbance in no chloroplasts, 0.25 M NaCl, 0.5 M NaCl, and 1 M NaCl were very similar  (Figure 1). Due to the p value of 0.729  there was no statistical significance between salinity and the rate of photosynthesis. Due to this calculation, the null hypothesis that there will not be a significant difference in the photosynthetic rate due to increasing salinity levels was supported by the data. In previous studies it was concluded that, for spinach, salt stress does not result in any major decrease in the photosynthetic potential of the leaf [Robinson: 1983]. There may have been some error in our experiment due to the fact that we set our spectrophotometer to 420 nm instead of 600 nm which would affect the rate at which DCIP was reduced due to the fact that DCIP is maximally reduced at 600 nm. The next logical step for this experiment is to test different salts like KCl to see if the type of salt has any different effects. This experiment is important to the overall knowledge of biology because with many changes to the environment t is important to know how salt can affect photosynthesis in plants. For example, the impact if icy roads are salted we should know the impact if that salt ran over to plants.
+
+Literature Cited:
+Brugnoli, E., and M. Lauteri. “Effects of Salinity on Stomatal Conductance, Photosynthetic Capacity, and Carbon Isotope Discrimination of Salt-Tolerant (Gossypium Hirsutum L.) and Salt-Sensitive (Phaseolus Vulgaris L.) C3 Non-Halophytes.” Plant Physiology, vol. 95, no. 2, Jan. 1991, pp. 628–635., doi:10.1104/pp.95.2.628. 
+
+ Robinson, S. P., et al. “Photosynthesis and Ion Content of Leaves and Isolated Chloroplasts of Salt-Stressed Spinach.” Plant Physiology, vol. 73, no. 2, Jan. 1983, pp. 238–242., doi:10.1104/pp.73.2.238.  
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1m 2016), pp.15-16.   
+
+Meloni, Diego A., et al. “Photosynthesis and Activity of Superoxide Dismutase, Peroxidase and Glutathione Reductase in Cotton under Salt Stress.” Environmental and Experimental Botany, vol. 49, no. 1, 2003, pp. 69–76., doi:10.1016/s0098-8472(02)00058-8.
+
+Kaiser, Elias, et al. “Dynamic Photosynthesis in Different Environmental Conditions.” Journal of Experimental Botany, vol. 66, no. 9, 2014, pp. 2415–2426., doi:10.1093/jxb/eru406.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph.png&Size=94756&Type=image%2Fpng&F=F_1Qu6LaF3gjRq2At
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average mean of the photosynthetic rate of Spinacia oleracea chloroplast in different salinities including .25M NaCl, .5 M NaCl, and 1 M NaCl over a 30-minute period. Error bars represent +/- one standard deviation. The anova test results showed the photosynthetic rate was not statistically significant.*************************************************************************
+
+
+

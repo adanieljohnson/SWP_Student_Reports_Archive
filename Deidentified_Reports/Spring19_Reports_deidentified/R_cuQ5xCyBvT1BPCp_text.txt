@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-31 15:03:56
+Author of this lab report is: Std_2qyM5CPE
+ID: R_cuQ5xCyBvT1BPCp
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Effect of Acetylcholine Injection on Northern Leopard Frog Gastrocnemius Muscle
+
+Abstract:
+Abstract:
+The Rana pipiens, or the Northern Leopard Frog, has a gastrocnemius muscle which receives impulses from the sciatic nerve. The impulses are delivered to the muscle cells at the neuromuscular junction, where Acetylcholine flows across the synaptic cleft. In this experiment, the group tested the effects of Acetylcholine on the contraction force of the gastric muscle in response to varying amplitudes of stimulus. The group first tested the frog legs with no acetylcholine injected, then each leg was injected with acetylcholine. Each muscle was then stimulated with increasing amplitudes and predicted that the experimental group with acetylcholine injected would produce stronger gastrocnemius contractions. However, the results showed that there was no significant difference in the performance of the control vs. the experimental group, and the control group actually performed slightly better than the experimental group. 
+
+
+Introduction:
+Introduction:
+The Rana pipiens, also known as the Northern Leopard Frog, is native to the United States. It has very developed leg muscles, which contribute to its ability to jump [Johnson: 2016]. The gastrocnemius muscle, or the calf muscle, is controlled by the sciatic nerve. The cell body of the sciatic nerve is located, along with other cell bodies of motor neurons, in the gray matter of the spinal cord, and its axon reaches into the muscle and splits before it enters the myofibers. At the neuromuscular junction, acetylcholine (ACh) flows across the synaptic cleft and causes sodium channels to open. If calcium is present, an action potential will be started. Myosin in the sarcomeres then attaches to actin, which causes muscle contraction. This whole process is initiated by acetylcholine, and the movement of the muscle can be represented by a myogram, which is a visual representation of muscle contraction. We predicted that when the muscle was injected with acetylcholine, it would respond more quickly and intensely to an electric signal applied at the sciatic nerve. 
+
+
+Materials and Methods:
+Methods:
+Three Rana pipiens legs were obtained, and they were each degloved in order to reveal the gastrocnemius muscle and the sciatic nerve. Each leg was then suspended, and each gastroc was injected individually with .1 mL of 10mg/mL concentration acetylcholine slowly and with varying insertion sites. An electrical signal of a voltage between 0-.5 with an amplitude of 5ms width, and a frequency of 1Hz was then sent through a probe to the sciatic nerve, and the response was measured using a myogram. This same process was repeated for each of the three legs. A paired t-test was then performed on the data. 
+
+
+Results:
+Results:
+The experimental group of Rana pipiens gastrocnemius muscles performed, on average, less intensely than the control group when stimulated. As can be seen in Figure 1, at .2 volts, each of the legs yielded a different result. The standard deviation of the control group was 0.232, whereas the standard deviation of the experimental group was 0.245. This means that the experimental group had slightly more variation than the control group. The paired t-test yielded a p-value of 0.520.
+
+
+Discussion:
+Discussion:
+A paired t-test was performed on the data set, and the result was not significant. This means the difference between the control and experimental data sets is not significant. It cannot be confidently said that the injection of acetylcholine into the gastrocnemius muscle significantly impacts contraction strength, which does not support our hypothesis. Acetylcholine may not have an effect on contraction when it is injected directly into the muscle itself since it could possibly be free-floating in the tissue. Additionally, a sufficient amount of acetylcholine may not have been used, or perhaps there was not enough time between injection and stimulation of the nerve for the ACh to have an effect. In order to change the results, the group could have changed the concentration of the ACh injected, increased the amount of time before stimulating the muscle, or increased the temperature in the room. The group couldn’t find any research on the re-uptake of Acetylcholine, but this could have also played a role in the strength of the contractions. The ACh is used right at the neuromuscular junction, and if it clears very quickly, injecting it into random locations would likely not prove effective. It would have to be injected right at the neuromuscular junction in order to play a significant role before being reabsorbed. The group also initially suspected that fatigue, due to lactic acid, could play a role in the force of contraction of the gastrocnemius, but according to a study done by Robert W. Putnam, lactic acid accumulation does not contribute significantly to muscle fatigue [Putnam:1978]. This means that lactic acid likely did not play a role in the fatigue of the gastrocnemius or the results of the experiment. In a follow-up experiment, the group would like to inject lactic acid into the gastrocnemius and test the reaction with the same stimulation used for the control group. 
+
+
+Literature Cited:
+Literature Cited: 
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake 
+Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 6-15. 
+
+Putnam RW. 1978. The Role of Lactic Acid Accumulation in Muscle Fatigue of Two Species of 
+Anurans, Xenopus Laevis and Rana pipiens. Journal of Experimental Biology. 82: 35-51.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-31+at+2.48.01+PM.png&Size=54929&Type=image%2Fpng&F=F_BP7RdoSmk9qY0rT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph depicts the difference in contraction of the control vs. the experimental group at .2 volts, which is the first voltage at which all three legs contracted. The blue bars represent the contraction force of the control group, and the orange bars represent the contraction force of the experimental group. *************************************************************************
+
+
+

@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 18:33:55
+Author of this lab report is: Std_BC2AxA9G
+ID: R_3rG2w49SS92AsJG
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Negative Effects of the Calcium Inhibitor Lanthanum Chloride on Muscle Contraction in a Frog Leg
+
+Abstract:
+Nerves stimulate muscle contraction through excitation-contraction coupling. Calcium allows for vesicles to bind and release neurotransmitters into the synaptic cleft.  I hypothesize that if a chemical, lanthanum  chloride, is used to inhibit calcium then there will be a reduced effect on the contraction of the muscle. A force transducer was used to measure voltage outputs from the muscle with and without lanthanum chloride. To evaluate the data that was recorded, a paired T test was used.  The muscles all started with generally low voltage when treated with lanthanum chloride in response to the stimulus, normally around .2 V, but increased as amplitude of the stimulus increased to around .5. The results could not be considered conclusive (p = 0.18). Scientists can use this data in order to better understand the effects of calcium inhibitors which is important because without calcium people become paralyzed because the neurons cannot fire to trigger a muscle contraction.
+
+
+Introduction:
+The neuromuscular system is made up of neurons and muscles. The neurons and muscles allow the sensation and response to internal and external stimuli. The neuromuscular system works much faster than the endocrine system. Nerves stimulate muscle contraction through excitation-contraction coupling. Muscle contractions can be recorded and studied through the use of a myogram. Physical conditions in and around the muscle can affect how it contracts.Postsynaptic action potentials are generated when the presynaptic neuron releases neurotransmitters which cause the axon hillock to depolarize. The neurotransmitters are carried in vesicles which bind to the axon terminals. Calcium allows for vesicles to bind and release neurotransmitters into the synaptic cleft. Calcium is also released from the sarcoplasmic reticulum which allows actin and myosin binding which allows filaments of the sarcomere to slide past one another triggering contraction. In one experiment on rats, calcium inhibitors were tested and “presynaptic voltage-clamp results show blockage of the inward Ca2+ current and of transmitter release” which shows that there could be no action potential fired with the blockage of transmitter release [Sugimori : 1989]. I hypothesize that if a chemical, lanthanum  chloride, is used to inhibit calcium then there will be a reduced effect on the contraction of the muscle. This is a plausible hypothesis because without the calcium, there would be no neurotransmitter release to depolarize the postsynaptic cell and trigger an action potential that causes contraction.
+
+
+Materials and Methods:
+There were 3 frog legs that served as both the control and the experimental group. Each frog leg was placed in a dissecting pan and forceps were used to pull the skin toward the foot and off the leg. Each leg was moistened with Ringer’s solution. The inner thigh muscles of each leg were gently separated to reveal the sciatic nerve. The nerve was gently freed from the attached connective tissue. Ringer’s was used occasionally throughout to ensure that the tissue remained moist but not soaked. A force transducer was used to measure voltage outputs from the muscle. The values for the stimulus apparatus were checked and placed at Amp: 0.000V ; # pulses: 1 ; F(Hz): 1 ; W: 5ms. The nerve was laid across the two probes of the transducer and the nerve was stimulated at 0.0V. The threshold was determined by increasing the amplitude in 0.1V increments. Once 0.5V was reached for amplitude, 1.0V was tested and then the increments went up by 1.0V each time until 3.0V. The output voltages of the muscle were recorded with each amplitude input. After all 3 legs had been tested as the control, 0.2mL was added. The muscle was massaged and sat for 8 minutes before testing could begin. The same steps for the control were repeated for the experimental group.Before putting the information, we picked out the highest values from each leg in both the control and the experimental groups. Those numbers served as the paired T test calculation values.  To evaluate the data that was recorded,a paired T test was used.
+
+Results:
+In the control group, there was a general trend of increased voltage response as the amplitude of the stimulus increased. The first leg had a very sensitive nerve and the muscle would twitch whenever someone attempted to lay the nerve across the probes for the transducer. The first leg began twitching at 0.2 Amp whereas the other legs began at 0.4 Amp.  For the second leg in the control group, there was an increasing trend in voltage, then a decrease, then an increase again. For all of the experimental groups, once the lanthanum chloride was added all the muscles were slower to twitch. The muscles all started with generally low voltage responses to the stimulus but increased as amplitude of the stimulus increased. As shown in Figure 1, there is a change in voltage between the control group and the experimental group in all three legs. The p value calculated was 0.18.  
+
+Discussion:
+I hypothesized that if lanthanum chloride was added to the muscle of a frog leg that there would be a reduced contraction in the muscle. The hypothesis could not be considered supported because the p value was insignificant. The p value was too high (p = 0.18)  and could not be considered significant (p =0.05)  because the difference in voltage response in leg 2 was not large enough. We speculate with further testing that differences in voltage from all the legs could be generated that would support the initial hypothesis. We could improve our experimental design by ensuring that all the lanthanum chloride was in the leg because it is easy for the needle to slip and the lanthanum chloride to miss the muscle. We could also double check the time to ensure that we waited the full amount of time so that the inhibitor would bind in its proper position. There was reduced voltage in all of the legs and a reduction in speed for the muscle contraction of the experimental legs which suggests the lanthanum chloride is capable of impacting muscle contraction. In one study it was proven that lanthanum in concentrations that suppressed chemotaxis also inhibited the calcium influx caused by activated serum in human neutrophils. [Boucek : 1976] It would be interesting in the future to see how varying amounts of lanthanum chloride impact the voltage at which a muscle contracts. In the future, this experiment could be expanded to measure the effects of calcium channel blockers in the brain and other parts associated with the nervous system.
+
+
+Literature Cited:
+Boucek, MM, and R Snyderman. Calcium Influx Requirement for Human Neutrophil Chemotaxis: Inhibition by Lanthanum Chloride. Science, American Association for the Advancement of Science, (Sept. 1976) pp. 3-6 Johnson AD. Comparative Physiology. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 21, 2018), pp. 17-19. Sugimori, M, et al. Blocking and Isolation of a Calcium Channel from Neurons in Mammals and Cephalopods Utilizing a Toxin Fraction (FTX) from Funnel-Web Spider Poison. PNAS, National Academy of Sciences (Mar. 1989) pp. 2-5
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FROGGY+2.0.png&Size=40651&Type=image%2Fpng&F=F_prTvTvApANpprEt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effects of Calcium Inhibitor on Muscle Contraction. The blue bars are the control group and the orange are the experimental group. The change in maximum muscle contraction before and after the addition of lanthanum chloride is shown for three frog legs. 
+*************************************************************************
+
+
+

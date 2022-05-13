@@ -1,0 +1,51 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 15:58:56
+Author of this lab report is: Std_pJyZXnqe
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effects of Lidocaine on Muscle Contraction in Frog Legs, Rana pipiens
+
+Abstract:
+In this experiment, we investigated how muscles and nerves respond to specific stimuli by isolating the sciatic nerve and gastrocnemius from a leg of a frog (Rana pipiens). Using three individual frog legs, we compared muscle contraction by measuring twitch amplitude in volts between a control and experimental group. We chose to test the effect of lidocaine, a common local anesthetic, on the sodium channels responsible for the contraction of a frog's gastrocnemius muscle. Over three separate trials, we compared the twitch response in volts from our control variable with our experimental variable, the leg administered with 0.2ml of 25mM of lidocaine. Given that lidocaine is a sodium channel blocker, we hypothesized that lidocaine would decrease the response for muscle contraction. We carried out a one-tailed paired t-test and found that at an alpha level of 0.05, our p-value of 0.572 was not statically significant. Even though we witnessed a small decrease in twitch amplitude with lidocaine, it was so insignificant that we fail to reject our null hypothesis that twitch amplitude remained constant or decreased. 
+
+
+Introduction:
+     When a stimulus is present, the central nervous system (CNS) sends a signal or an action potential (AP) through the neurons. When this action potential reaches the muscle junction, Ca2+ is able to enter the terminal axon, which causes a neurotransmitter, acetylcholine (ACh), to be released and bind to receptors on the cell membrane of the muscle fiber. When ACh is bound to the muscle fiber, the fiber depolarizes and initiates an AP. This action potential can be blocked from proceeding if ACh is not able to bind with its receptors. Lidocaine, a commonly used atheistic, acts as an antagonist to receptors by blocking sodium ions (Na+) through sodium channels. When administered this drug prevents action potentials from firing, therefore causing decreases in twitch tension and contraction response (Johnson AD, 2016). 
+	Since local anesthetics block voltage-gated sodium channels in axons, they disrupt action potential generation and thereby prevent transmission of nociceptive information to the central nervous system. In a recent case study, researchers tested the effects of Lidocaine and the permanently charged sodium channel blocker QX-314. By measuring the magnitude and duration of the effects of lidocaine alone they found that an injection of 1% caused an almost complete blockade 30 mins after infection with full recovery after 1 hour (Binshtok et al., 2009). Lidocaine and the membrane-impermeable sodium channel blocker, QX-314, a simple permanently charged quaternary derivative of lidocaine, produced prolonged local analgesia in contrast to the short-lived, nonselective effect of lidocaine when administered alone (Binshtok et al., 2009). This example remains important to our current study, as it supports lidocaine’s inhibitory effects on muscular function. 
+      In our own experiment, we tested the effects of lidocaine on the sodium channels responsible for the contraction of a frog's (Rana pipiens) gastrocnemius muscle. Whereas, twitch amplitude (Volts) served as our continuous dependent variable, the presence of our stimulus (Lidocaine) was as our discrete independent variable. By isolating the sciatic nerve from a frog’s leg and injecting 0.2mL of 25 mM of Lidocaine into one of the frog legs, we were able to test the effect of this antagonist on muscle response. Building off this primary source and previous knowledge of the nervous system, we hypothesized that lidocaine would decrease the response for muscle contraction.
+
+
+Materials and Methods:
+In this lab, we began by removing the skin of the frog’s leg from the top to bottom of the foot with forceps. Then, we gently separated the inner thigh muscles to reveal and isolate the white sciatic nerve. Very carefully, we removed the excess connective tissue and tied a string from the led to stand, which positioned the leg with slight tension at about ninety degrees. In the dissecting pan, we attached the BNC connector directly to the sciatic nerve and then set the number of pulses to zero and the pulse amplitude to 1.0 volts. For each trial of our three trials, we set the stimulus amplitude to 1.0V and recorded the twitch response in volts for each of the control and experimental frog legs. Whereas twitch amplitude measured in volts was our continuous dependent variable, the presence of our stimulus (0.2mL of 25mM of lidocaine) served as our discrete independent variable. For each frog leg, we first recorded the amplitude response for the control variable (no drug) and then after administering 0.2mL of 25mM of lidocaine recorded the response. After recording data for three separate trials, we carried out a one tailed paired t-test along to find our p-value, which determined the significance of lidocaine’s effect on twitch amplitude. Whereas our statistical null hypothesis stated that there would be no change in twitch amplitude, our statistical alternative hypothesis predicted that lidocaine would decrease the response for muscle contraction
+
+Results:
+The presence of 0.2mL of 25mM of lidocaine caused a decrease in twitch amplitude (V) for two out of the three trials. Average mean decrease of 0.1087 between the control and the experimental. When we conducted a one-tailed paired t-test results were 0.670. 
+
+
+
+Discussion:
+Given our p-value of 0.572 was above the alpha level of 0.05, we fail to reject our null hypothesis that there would be a decrease or no change in twitch amplitude. Even though we witnessed a slight decrease in twitch amplitude in our experimental variable, this change was not significant enough to support our alternative hypothesis that lidocaine decreases the response for muscle contraction. Since lidocaine goes through a chain of events, the time it took to show a response may have varied. We could have waited too long after injection or not waiting long enough, which could have affected our recordings. This source of error might explain why our third trial increased from 0.318 (V) to .515 (V). If we conducted more trials, we could have a larger pool of data yielding more statistically accurate results. Also, since we had trouble connecting the BNC connector to the sciatic nerve, it could have skewed our raw data. Lastly, each time we injected the leg with lidocaine, it was not in the exact place every time, therefore there could also be some inconsistencies of the effect of the lidocaine. 
+
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 19–36.
+
+2. Binshtok, P. D., Alexander M., Gerner, M. D., Peter, Oh, D. D. S., Ph. D.,Seog Bae, Puopolo, P. D., Michelino, Suzuki, M. D., Suzuko, Roberson, M. B. A., David P., … Woolf, M. D., Ph. D.,Clifford J. (2009). Coapplication of Lidocaine and the Permanently Charged Sodium Channel Blocker QX-314 Produces a Long-lasting Nociceptive Blockade in Rodents. Anesthesiology, 111(1), 127–137. https://doi.org/10.1097/ALN.0b013e3181a915e7
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Lab+figure+1.tiff&Size=97332&Type=image%2Ftiff&F=F_3pxKEDgF5Sunn0h
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Lidocaine on Twitch Amplitude (V) Error bars represent standard deviation. The averages consist of control (0.415) and Lidocaine (0.308), sample size n=3. Data shows no significance at alpha level of 0.05, p-value is 0.572 and degrees of freedom is 2. 
+
+*************************************************************************

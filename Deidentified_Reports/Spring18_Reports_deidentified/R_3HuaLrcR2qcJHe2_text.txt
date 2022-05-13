@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-29 15:38:08
+Author of this lab report is: Std_NASM0oOm
+ID: R_3HuaLrcR2qcJHe2
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effect of Lanthanum Chloride on Rana pipiens 
+
+Abstract:
+This study's main objective is to determine the effects of a calcium channel blocker on the amps required to get an action potential in Rana pipens' frog legs. The blocker makes it harder for the muscle to shorten, allowing for easy understanding of the role that calcium plays in muscle contraction, which it controls for. Our hypothesis was that, if the release of calcium is reduced, the amount of voltage needed to stimulate the leg would need to be much higher than it would normally be.  The control group and experimental group were treated the same, except for the injection of the calcium blocker in the experimental group. The amps needed to create an action potential in the legs and the resulting action potential in volts were measured, and the results were analyzed in a paired T-test. 
+
+Introduction:
+Skeletal muscle consists of myofibers, which are cylindrical, multi-nuclear, fused single muscle cells. These myofibers exist in both vertebrates and invertebrates, and are bound together by connective tissue, collectively forming functional groups. Skeletal muscle is innervated by a single motor axon, located in the grey matter of the spinal cord. Acetylcholine release in the neuromuscular junction binds to its receptor in the muscle fiber, leading to the opening of sodium channels and permitting the generation of an action potential in the muscle fiber. The contraction stops when the enzyme acetylcholinesterase is released and breaks down acetylcholine so that the post-synaptic nerves, muscles, and exocrine glands are not over stimulated (Johnson, 53). The action potential then travels through the entire muscle fiber while stimulating the release of calcium in the sarcoplasmic reticulum. The release of calcium causes the muscle to shorten (MacIntosh, 2006). The calcium is needed so that muscle contraction can continue at an efficient rate (Rüegg, 2012). This experiment is meant to explain what happens to the rate of muscle concentration when the calcium channels are partially blocked. The information obtained from such a discovery could lead to great progress in the medical field, such as curing abnormalities in muscles. Based on previous information about muscle contraction and calcium release pertaining to the muscular system, we hypothesize that if the release of calcium is reduced, the amount of amps needed to stimulate the leg would need to be much higher than it would normally be. 
+
+Materials and Methods:
+First, four Rana pipiens legs were obtained from the lab. We prepared the frog leg by removing the skin, detaching the gastrocnemius and part of the Achilles tendon and stringing it to the force transducer. Then the sciatic nerve was exposed. A string was then tied around the middle of the Achilles tendon, which was hanging from the ring stand proved by the lab. This elevated the muscle. The computer program Labscribe was used to analyze how the experimental treatments affected the muscles and were used to measure amplitude. Needles were connected to both the software and the legs at all times through a force transducer, which sent electrical pulses to the frog muscle and stimulated it. After each pulse, a myogram was recorded on the computer and the threshold value was measured. The amplitude increased until a threshold was reached. Once the experiment was done with untreated legs, also called the control, the legs were then inject in the gastrocnemius with 0.2 mL of a calcium channel blocker, Lanthanum Chloride. 
+	
+
+
+Results:
+The result of the paired T-test was a p-value of .1999999. Because this is higher than the alpha of .05, there is no proof that the Lanthanum Chloride affected the voltage needed to stimulate the leg. There is not significant difference between the control and experimental group. 
+
+Discussion:
+The experiment did not support the hypothesis. The p-value is higher than the alpha of .05, but the data for the last frog leg was not consistent with the rest of the results and could be considered as an outlier. When viewing the p-value excluding the last group, the p-value is approximately .12, still not significant, but better than before. It is possible that the groups cannot be separated by something as simple as just Lanthanum Chloride, which concords with the findings of another experiment (Royal Society, 1985). This outlier could be explained by different conditions in the frog, such as a specimen that died at a much different age than the other legs, or was killed significantly before or after the other legs. Other than these possible errors which could have led to the poor results, there was nothing done during the experiment that could have drastically altered the results in such a way, so the error should be from the product before it was in our care. A future experiment could be done that has a larger sample size, allowing for the statistics to be better. Once the results are established with 0.2 mL, the dosage can be lowered or increased as seen fit and the perfect amount of drops can be found through future testing. This experiment shows how sensitive the muscular system is, and how it should not be tampered with in any way due to its fragility. 
+
+Literature Cited:
+Johnson, A.D. Spring 2017. Unit 2: Hormones. Bio 114: Comparative Physiology
+Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. pp.
+53-66.
+
+MacIntosh, B. R., Gardiner, P. F., & McComas, A. J. (2006). Skeletal Muscle: Form and Function. Human Kinetics.
+
+Rüegg, J. C. (2012). Calcium in Muscle Contraction: Cellular and Molecular Physiology. Springer Science & Business Media.
+
+Society, Royal. Philosophical Transactions. London, Harrison and Sons, 1984. Royal Society of Great Britain. JSTOR. Accessed 29 Mar. 2018.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+3.36.39+PM.png&Size=150970&Type=image%2Fpng&F=F_3QEke9CauAJu8tJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+The amplitude and volts are of the threshold reached by the experiment, as recorded by Labscribe.
+
+*************************************************************************

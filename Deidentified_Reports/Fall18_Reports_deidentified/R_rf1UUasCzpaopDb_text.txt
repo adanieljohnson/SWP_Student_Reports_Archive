@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-12 20:07:15
+Author of this lab report is: Std_x5uYi5eN
+ID: R_rf1UUasCzpaopDb
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The presence of lidocaine in the legs of Rana pipiens frogs does not significantly affect the amplitude of muscle contraction
+
+Abstract:
+Sodium channels are important in the nervous system because of their conduction of action potentials.  When action potentials are fired, neurotransmitters diffuse to muscle fibers which causes the contraction of these muscles.  In our experiment, we studied the amplitude of gastrocnemius contraction in Northern leopard frog (Rana pipiens) legs and saw how our results were affected with the presence of lidocaine, a sodium channel blocker.  We predicted that the experimental group injected with lidocaine would have a decreased amplitude of muscle contractions compared to the control group.  We recorded the amplitudes of 3 legs for each group and found that the difference between the control and experimental group was not statistically significant.  The null hypothesis isn’t rejected but our results allowed us to conclude that lidocaine is linked to a decrease in muscle contraction because of the blocking of action potential conduction.  Further research with larger sample sizes could show the results we had anticipated, confirming the relationship between the amount of lidocaine added and the amplitude of muscle contractions.  More studies on the effects of lidocaine could potentially be beneficial in treatment for muscular diseases such as Multiple Sclerosis.
+
+Introduction:
+Neuromuscular systems are important in organisms for sensing and responding to their internal and external environments.  Skeletal muscles, motor neurons, neuromuscular junctions, and the brain work together to provide the correct response to a stimulus in a matter of milliseconds.  Muscle contractions occur when voltage-gated sodium channels open, allowing sodium to flow into the cell. Skeletal muscles are innervated by motor neurons located in the gray matter of the spinal cord and branch out to several individual myofibers [Johnson: 2016].  This releases neurotransmitters from the presynaptic neuron which in turn diffuse to muscle fibers.  This causes depolarization which helps lead to an action potential.  Action potentials are dependent upon the opening of voltage-gated sodium channels.  However, lidocaine blocks these sodium channels which relay an action potential down a neuron into muscle fibers.  Since action potentials are summed spatially and temporally, a lower number of action potentials will lead to a lower amplitude of contraction.  Based on research with patients who have Multiple Sclerosis, lidocaine cuts off the occurrence of seizure and other symptoms [Sakurai: 1999].  In this lab we will show the relationship between muscle contraction and sodium by blocking these channels with the use of lidocaine.  We will use the legs of Rana pipiens, the Northern leopard frog, in our experiment.  If we add lidocaine to a Rana pipiens frog leg, then the amplitude of muscle contractions will decrease when stimulated.
+
+
+
+Materials and Methods:
+To test our hypothesis, we will use three frog legs, and each leg will be both a control and an experimental group.  We placed each leg in a dissecting pan and peeled the skin away with the forceps towards the foot.  Then we moisten each leg with Ringer’s solution.  We used a probe to separate the thigh muscles and locate the sciatic nerve, freeing it.  We then hung the leg vertically and attached two electrodes to the sciatic nerve.  These electrodes were used to conduct a current, which was interpreted by a force transducer.  This allowed the Lab Works software program to process the information of the muscle contractions which created myograms.  We found the threshold of the legs which was 1.2 volts and added a pulse of 1 hertz.  We sent 5 pulses spaced out by 1 second between each through the electrodes and collected data allowing us to measure the amplitude.  After going through the first round without adding any substances, we then added 0.1 milliliters of 25 millimolar lidocaine both by dropping some of it onto the sciatic nerve and injecting the rest into the gastrocnemius.  The averages of each of the five measured amplitudes of muscle contraction in the control and experimental groups was calculated.  We used a paired one-tailed T test with a significance level of 0.05. 
+
+Results:
+As shown in Figure 1, the average amplitudes for the control groups were 0.934 volts +/- 0.4 volts for leg 1, 0.2872 volts +/- 0.4 volts for leg 2, and 0.202 volts +/- 0.4 volts for leg 3.  For the experimental groups injected with lidocaine the average amplitudes were 0.046 volts +/-0.036 volts for leg 1, 0.087 volts +/- 0.036 volts for leg 2, and 0.016V +/- 0.036 volts for leg 3.  The bars in the picture show the standard deviation for each group.  We completed a paired one-tailed T test for the data and found that there was a p-value of 0.208, a t-value of 1.833, and 2 degrees of freedom.  Based on these results, the difference in amplitude of muscle contraction shown between the control and experimental groups is not statistically significant.
+
+Discussion:
+Based on our results, the null hypothesis can’t be rejected.  Although the data did not give us a statistical difference between the amplitude of muscle contractions for the experimental and control groups, the presence of lidocaine did show a lower average amplitude in general for each of the three legs.  The results may not have been statistically significant, however, the outcome of our experiment still raised further questions about the relationship.  A study done on rats has shown that lidocaine inhibits smooth muscle contractions in the tail.  The findings suggest that lidocaine depresses adrenergic neurotransmitters, leading to the inhibition of the smooth muscle [Szocik: 1993].  Decreasing neurotransmitter release would lead to weaker action potentials traveling through the nervous system.  When it reaches the neuromuscular junction, this could cause a dampened action potential into the muscle fiber.  This leads to a smaller amplitude of muscle contractions.  The results of this study are different however, because rats belong to a different class than the Rana pipiens frog that we experimented with since the gastrocnemius is a skeletal muscle fiber rather than a smooth muscle such as that found in the tail of rats.  In a study involving patients with Multiple Sclerosis, lidocaine almost completely got rid of the reoccurrence of painful tonic seizures, due to its ability to block the sodium channels.  The study shows that lidocaine blocks these channels in a frequency and voltage-dependent way, which blocks fibers that are responsible for some of the negative symptoms of MS.  Specifically, lidocaine helps to reduce currents of action potentials in the demyelinated portions of nerve axons, which blocks their conduction [Sakurai: 1999].  Sodium channels depolarize the section of a nerve right above its threshold.  When voltage-gated sodium channels open, sodium moves into the axon which increases the positive ion concentration inside the cell, causing depolarization.  When the threshold is reached, action potentials occur and transfer the signal down the myelinated axon, until it reaches another demyelinated portion.  Blocking conduction of neural signals by closing voltage-gated sodium channels would not allow the signal to reach the muscle fibers.  If this were the case, since the action potential didn’t reach the muscle fiber, there would be no muscle contraction at all.  If our experiment were to be repeated with a larger sample size, a statistically significant decrease in the average amplitude of muscle contractions would be expected with the experimental group supplemented with lidocaine.  A better understanding of voltage-gated sodium channel blockers would be very helpful in the treatment and management of muscular diseases.
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology,		 Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016),		 pp. 5-15.
+
+2.	Sakurai, Masaki, and Ichiro Kanazawa. "Positive symptoms in multiple sclerosis: their		 treatment with sodium channel blockers, lidocaine and mexiletine." Journal of		 the neurological sciences 162.2 (1999): 162-168.
+
+3.	Szocik, James F., Charles A. Gardner, and R. Clinton Webb. "Inhibitory effects of			bupivacaine and lidocaine on adrenergic neuroeffector junctions in rat tail		artery." Anesthesiology 78.5 (1993): 911-917.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=29106&Type=image%2Fpng&F=F_1hK1jaVApsHAdm4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The effect of lidocaine on the amplitude of muscle contractions in the gastrocnemius of the Rana pipiens frog.  The average amplitude of both the experimental group and control group was calculated in each leg from 5 pulses.  The error bars in the figure show the standard deviation from the mean which is +/- 0.4 volts for the control group and +/- 0.036 volts for the experimental group.*************************************************************************
+
+
+

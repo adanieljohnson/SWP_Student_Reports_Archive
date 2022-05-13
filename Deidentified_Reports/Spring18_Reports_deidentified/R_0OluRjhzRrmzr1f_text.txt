@@ -1,0 +1,82 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-20 13:19:24
+Author of this lab report is: Std_9Tx5dRN8
+ID: R_0OluRjhzRrmzr1f
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: Chloroplast inactivity prevented the confirmation of photosystem II's preference of shorter wavelengths of blue light
+
+Abstract:
+	Photosynthesis is the process by which autotrophic plants convert light energy into food. This process breaks down into two components, the light-dependent reactions and the light-independent reactions. The light-dependent reactions create an electron transport chain to create a proton gradient and generate ATP. Specifically, this reaction is initiated in photosystem II with the absorbance of light. Because of the high dependence of light in the functioning of these reactions, we sought to see how altering the wavelength of light might affect photosystem II activity, and thus the rate of photosynthesis. To do this, commercial, store-bought spinach leaves were ground in grinding buffer and their chloroplasts were isolated. A photosynthesis assay was then conducted using the artificial electron acceptor DCPIP to measure photosynthetic rate for 50 minutes under dark, blue, red and white light conditions. A two-sample t-test was conducted to detected significant activity under the various conditions. While the photosystem should have shown a preference for blue light, the chloroplasts all appeared to be inactive causing no statistical significance to be detected under any conditions. This is thought to be due to damage that may have occurred during chloroplast isolation.
+
+Introduction:
+	Photosynthesis is one of the most essential cellular processes to life on Earth. During this process, autotrophs convert light energy to chemical energy, generating food for themselves and releasing oxygen to the atmosphere as a byproduct. The general process of photosynthesis is broken down into two reaction classes: the light-dependent reactions and carbon fixation (light-independent reactions). This experiment will focus solely on the processes within the light-dependent reactions of photosynthesis. These reactions are carried out across an electron transport chain on the thylakoid membrane with the ultimate goal of generating a proton gradient to drive ATP production.
+	Electron transport begins in a protein complex called photosystem II. This structure is a dimeric protein rich in chlorophyll pigment molecules which allow it to perform its photosynthetic function (Zouni et al., 2001). The photosystem consists of many antenna complexes containing chlorophyll pigment molecules where light energy is absorbed. This energy randomly travels throughout the antenna complexed until it reaches the special pair at the center. At this point, the special pair is then excited, and one electron is lost to the electron carrier plastoquinone where it embarks into the rest of the electron transport chain. After moving down its energy gradient through cytochrome b6-f (to create a proton gradient and create ATP) and photosystem I, the electron must reach one final acceptor to terminate the electron transport chain so the cycle can restart with a new electron (Alberts et al., 2014). In typical plant cells, this molecule is NADP+ which will then reduce to NADPH. In this experiment, to recreate photosynthesis without a supply of NADP+, an artificial electron receptor was needed. Upon accepting an electron this molecule reduces from DCPIP to DCIPIPH2, and loses its deep blue color (Johnson, 2018). This color loss can be used to analyze how much DCPIP has been reduced and, thus, allows the ability to monitor progress of photosynthesis. Thus, calculating the percent change in absorbance from beginning and end values, allows the photosynthetic activity to be directly monitored.
+	Spinach leaves were elected as the model organism in this study. The spinach leaves used in this experiment were commercial, store bought and stored in a refrigerator until use. It has been determined, through the analysis of spinach DNA and chloroplast DNA, that spinach leaves contain an exceedingly large density of chloroplast DNA within their genome. Thus, spinach leaves contain a large density of chloroplasts (the organelle home to photosynthesis), making them a useful organism to observe photosynthesis (Wells & Birnstiel, 1969). Because of the light-dependent nature of the photosynthetic electron transport chain, it is particularly salient to determine how many properties of light waves may affect photosynthetic activity. Because it has been found that photosystem II in spinach has shown to prefer light at 400-450 nm (blue) and, slightly less at 650 nm (red), we wanted to observe how various wavelengths of light would affect photosynthesis (Lederer, 2007). This preference is not generalizable across all plants though because other organisms, like algae, have shown a greater preference in the far-red region of the electromagnetic spectrum (Canaani & Malkin, 1984). Given the prior observations of favorability of blue light for photosystem II, we believe that more DCPIP will be further reduced under blue light conditions, causing increased photosynthetic rate, because more electrons are initially excited into the electron transport chain. 
+
+
+Materials and Methods:
+Commercial, store-bought spinach leaves were purchased and stored in a refrigerator until use. The large central veins were removed and five spinach leaves were grinded in a cooled mortar & pestle with 10 mL grinding buffer (400mM sucrose in Tricine buffer, pH=8). When the leaves became a thick paste, an additional 10mL grinding buffer were mixed in. The resulting mixture was strained through a 3-layered cheesecloth into a chilled beaker. This liquid was transferred to centrifuge tube A and was spun at 200G (1200 RPM) in the RT-7 centrifuge for 3 minutes at 4˚C. The supernatant was then transferred to centrifuge tube B. Tube B was centrifuged at 1,000G (2800 RPM) in the RT-7 centrifuge for 10 minutes at 4˚C. The supernatant was discarded and the pellet was re-suspended with 20 mL grinding buffer and a transfer pipette. 
+A chloroplast assay was then prepared to test the spinach chloroplasts under various wavelengths of light. A blank tube was prepared with 8 mL water, 2 mL reaction buffer (100mM phosphate pH=6.5), 100µL of chloroplasts and no DCPIP. All experimental tubes were prepared with 6 mL water, 2 mL DCPIP, 2mL reaction buffer and 100µL chloroplasts. The experimental tubes were divided into four groups of three tubes. One group was kept in dark conditions, one in a drawer with red cellophane light, one in a drawer with blue cellophane light and one in a drawer with white light. To begin the assay, chloroplasts were added to each tube and the tube was inverted. The initial absorbance values were recorded at 600nm in a Spec-20 and the cuvette was transferred to the correct lighting conditions. Absorbance values were recorded every 10 minutes for 50 minutes and then under ambient light after an additional 10 minutes. A 2-sample t-test with a critical value of 0.05 was conducted to determine significance in the change in absorbance after 20 minutes, after 50 minutes after the assay. 
+
+
+Results:
+	After completion of 50 minutes of the chloroplast assay, the red (t(4)=(0.0566, p=0.479), blue (t(4)=0.880, p=0.214) and white (t(4)=1.00, p=0.211) light conditions all demonstrated a lack of significant difference from their starting absorbance values. The white light changed only an average of 4.94% (SD=2.83), the blue light changed an average of 9.83% (SD=16.23) and the red light changed an average of 4.24% (SD=2.26). After 50 minutes, the samples left in the dark changed an average of 2.29% (SD=0.361). When left in ambient light for ten additional minutes, the samples remained statistically insignificant. Only one cuvette solution, under blue light, visually appeared to change from the initial value, but because neither of the others changed, the standard deviation was very large (Figure 1), no statistical significance was observed. However, after 20 minutes, the assay in white light appeared to be significantly different from the dark values after the same period of time (t(4)=(5.397, p=.0029)). 
+
+
+Discussion:
+	It was hypothesized that spinach chloroplasts would respond most to blue light and, thus show increased activity at that wavelength but the results were very unsuccessful. After completion of the assay, our samples in every condition showed to have zero chloroplast activity. This is peculiar because this even persisted when every sample was left in ambient light for ten additional minutes. Thus, because none of our samples showed significance under any scenario, we can conclude that there was something wrong with the chloroplast samples in the assay. 
+In theory, the samples under blue light conditions should have shown, at least slightly increased activity because photosystem two generally prefers to absorb light of shorter wavelength (Anderson & Boardman, 1966). So, we should have seen increased activity under the shorter wavelength of light (blue), slightly less under longer wavelengths (red) and somewhere in between under white light because white light contains a wide variety of visible spectral wavelengths. Almost all red and far-red light is actually thought to be absorbed by photosystem I, while photosystem II prefers the shorter wavelengths (Sun & Sauer, 1971). Because both photosystems are essential to the mechanism of photosynthesis, this explains why photosynthetic activity should be observed in both scenarios. But, because photosystem II initiates electron transport, it controls how many electrons are moving through the chain and, thus, should have more of an effect on the rate of photosynthesis. Previous studies have observed this to be true, showing that photosynthetic rate is directly dependent upon photosystem II activity (Genty, Briantais, & Baker, 1989). 
+The main issue with this experiment is that the chloroplasts, no matter the light conditions, showed no activity whatsoever compared to the negative control (dark). Some possible confounds exist which may have led to this issue. First, because the chloroplasts were isolated through the hill reaction, it is possible that some component of that process was incorrectly performed, damaging or even losing chloroplasts. It is possible that during transfer of supernatant from the first centrifuge (A) to the second (B), that some of the debris pellet from A was transferred as well. This means that some of the excess debris may have been centrifuged along with the pure chloroplasts, possible damaging many of them and leaving few active chloroplasts. Additionally, chloroplast concentration may vary significantly from tube to tube. Even though every test tube was inverted before transfer to cuvette it is possible that our samples were all low in chloroplast density because the chloroplasts did not all diffuse throughout the solution in the tube. So, if the samples were low in chloroplasts than only a certain amount of DCPIP could be reduced before stopping. Another logical explanation could be that the use of cellophane may have limited the number of photons reaching the chloroplasts, causing reduced activity. However, because the chloroplasts did not even s how activity under ambient light conditions, this is probably not the case. 
+Future experiments could possibly give much further insight into the role of wavelength on photosynthetic activity. Instead of using cellophane sheets over white light, it owudl be much more revelaing to use an actual light bulb of different wavlenght to most accurately observe the role of wavelength in photosystem activity. Also, because shorter wavelengths generally are more preferred in photosystem II, it could be revealing to analyze how wavelengths even shorter than the visible spectrum (ultraviolet, x-ray, gamma) might affect the rate of photosynthesis. Additionally, after observing which wavelength is best, it could be beneficial to see how the different intensities of that specific wavelength alter the results. The results of all of these experiments could be used to determine a laboratory environment which best promotes the growth of spinach leaves. By creating a precise environment which promotes healthier, more active spinach leaves, it could be possible to control the development of spinach to possibly improve the nutrition value of this plant. 
+The experimental findings of wavelength dependence on photosynthesis could generally aid in optimizing nutritional value in food. If any given plant is under its best conditions such that photosystem II is absorbing maximum energy, the plant will create more food for itself, making it healthier and increase its production of molecular oxygen into the environment. Thus, controlling the growth of plants to optimize these capacities could prove to be useful for animal life on Earth as well. 
+
+
+Literature Cited:
+1. Alberts, Bray, Hopkin, Johnson, Lewis, Raff, … Walker. (2014). Essential Cell Biology (4th ed.). Garland Science.
+
+2. Anderson, J. M., & Boardman, N. K. (1966). Fractionation of the photochemical systems of photosynthesis I. Chlorophyll contents and photochemical activities of particles isolated from spinach chloroplasts. Biochimica et Biophysica Acta (BBA) - Biophysics Including Photosynthesis, 112(3), 403–421. https://doi.org/10.1016/0926-6585(66)90244-5
+
+3. Canaani, O., & Malkin, S. (1984). Distribution of light excitation in an intact leaf between the two photosystems of photosynthesis. Changes in absorption cross-sections following state 1-state 2 transitions. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 766(3), 513–524. https://doi.org/10.1016/0005-2728(84)90109-9
+
+4. Genty, B., Briantais, J.-M., & Baker, N. R. (1989). The relationship between the quantum yield of photosynthetic electron transport and quenching of chlorophyll fluorescence. Biochimica et Biophysica Acta (BBA) - General Subjects, 990(1), 87–92. https://doi.org/10.1016/S0304-4165(89)80016-9
+
+5. Johnson, D. (2018). BIO 214L Lab Manual.
+
+6. Lederer, A. (2007). Investigation of Photosynthetic Properties in Psinach and Geranium: Pigments, Starch Production and Light Wavelnegth Absorbance. Essai, 5, 93–97.
+
+7. Sun, A. S. K., & Sauer, K. (1971). Pigment systems and electron transport in chloroplasts I. Quantum requirements for the two light reactions in spinach chloroplasts. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 234(3), 399–414. https://doi.org/10.1016/0005-2728(71)90207-6
+
+8. Wells, R., & Birnstiel, M. (1969). Kinetic complexity of chloroplastal deoxyribonucleic acid and mitochondrial deoxyribonucleic acid from higher plants. Biochemical Journal, 112(5), 777–786.
+
+9. Zouni, A., Witt, H.-T., Kern, J., Fromme, P., Krauss, N., Saenger, W., & Orth, P. (2001). Crystal structure of photosystem II from Synechococcus elongatus at 3.8 Å resolution. Nature, 409(6821), 739–743. https://doi.org/10.1038/35055589
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO+214+Lab+1+Figure.png&Size=69205&Type=image%2Fpng&F=F_1FazZVAqbZge3IW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Figure 1 displays the percent change in absorbance after 50 minutes of photosynthesis assay under blue, red, white and dark conditions. Bars represent mean values. Error bars represent + and - standard deviation
+
+*************************************************************************

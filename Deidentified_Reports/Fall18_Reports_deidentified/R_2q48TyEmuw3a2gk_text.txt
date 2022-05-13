@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-10 12:20:54
+Author of this lab report is: Std_2bkj7sFF
+ID: R_2q48TyEmuw3a2gk
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effect of E20 inhibitor on Manduca larvae/ effect of no E20 inhibitor on Manduca larvae. 
+
+Abstract:
+Pupation is an important stage in the life of the Manduca caterpillar. This is what allows the caterpillar to grow from a larva into an adult. Here we observe what happens when you alter this growth using an ecdysone inhibitor and when you compare the results of inhibited growth with uninhibited growth. We expected that the group of caterpillars influenced by the inhibitor would not increase in weight nearly as much as the un-influenced group. Our data showed a significant difference between the weights/growth progress of the influenced group and the uninfluenced group. This significance, in line our observation of fast, substantial weight gain and eventual pupation of the uninfluenced group and slow, minute weight gain and eventual death of the influenced group, suggests that ecdysone is a vital hormone in assisting the larvae’s progress towards gaining weight and eventually pupating. Thus, it is best to leave ecdysone levels uninhibited if one desires for them to pupate.
+
+Introduction:
+The purpose of this experiment was to observe the influence of insect growth hormones, specifically E20, or ecdysterone on Manduca larvae. Hormones are chemical components present in both mammals and insects that are very important due to their role in activating other cells and tissues. Specifically, in Manduca caterpillars, the ecdysterone hormone is responsible for assisting in growth/weight gain and molting into the pupal, and eventually adult, stage [Ishimoto,H. & Kitamoto,T.: 2010]. Molting is essentially a transformation from a childlike, infant stage into a fully developed adult stage, complete with a new exoskeleton [Meyer,J. :2016]. Further, ecdysone does not work alone; it is also aided by juvenile hormone [Johnson,AD:2018]. Both juvenile hormone and ecdysterone help to regulate the four stages of the Manduca: egg, larvae, pupa, and adult [Johnson:2018]. This specific experiment studies the effect of ecdysterone inhibition in one group and uninhibited hormonal status in another group. The study observes weight and color/appearance in concordance with their developmental process. Since we are decreasing E20 in one of the groups, standard development will be affected. Decreasing the amount of E20 will hinder growth/weight gain and prevent pupation. 
+
+Materials and Methods:
+Both the control group (0% 20E inhibitor) and the experimental group (ecdysone/20E inhibitor) were stored in the same containers and the same incubator. The independent variable was the presence of the 20E inhibitor; the dependent variable was the weight.   First, we prepared our storage containers for the caterpillars. We labeled one container for the control group and another container for the experimental group. We then prepared the GLM (Great Lakes Manduca) diet for each of the caterpillars. We prepared ten grams of food for each caterpillar and placed the food in each individual slot of the containers. For the control group, we used a pipette and added five drops of water to each clump of food. For the experimental group, we added five drops of 20E inhibitor (with a pipette) to each clump of food. Then, we received eight caterpillars, the standard amount for this experiment. We categorized one half (#s 1-4) as the control group and placed each caterpillar into an individual slot of the 0% group container. The other half (#s 5-8) was categorized as the experimental group and placed in the same manner as the control group in the experimental group container. Over the course of two weeks, we regularly observed the weight gain of both groups. We weighed each caterpillar daily until either the end of the experiment or until it died. We monitored the food amounts and food conditions (if the food gets too dry, it is inedible), and added more food when necessary. At the end of the process, we took the first day of data for the first caterpillar and subtracted it from the last day of data and used a one-sample t test to find the appropriate p-values and the means. We carried out this process for each caterpillar in each group.  We did this to determine the statistical significance of the data and determine whether or not our hypothesis was correct.
+
+Results:
+We obtained these results by usage of a two-sample t test. The mean for the weights of the control group was 9.6625 and the mean for the weights of the experimental group was .455. The standard deviation for the weights of the control group was .8663861725582 and the standard deviation for the weights of the experimental group was .0465474668126 The differences between the first and last days in the control group were greater than the differences between the first and last days in the experimental group. The p-value from the one sample t test was calculated to .000000357
+Figure 1 shows the variation in mean change in weight of both the control and ecdysone groups. Figure 2 does the same but in bar graph form.
+
+
+
+Discussion:
+The results did confirm our hypothesis. Because of the influence of the 20E inhibitor, the experimental group gained less weight than the control group and eventually died. The p-value we obtained from the one-tailed t test of the control and ecdysone group was less than .05; therefore, the data is statistically significant. 20E plays a large role in the development/weight gain and eventual molting and pupation of the Manduca larva. This lines up with another performed study that confirms the importance of 20E within an insect’s body [Ono, H, Morita, S, et al:2012].  Without the proper amount of 20E, the caterpillars lose their healthy green coloring, undergo insubstantial amounts of weight gain, and even wilt and eventually die. With the proper amount of 20E, the caterpillars develop a lush green color, gain weight healthily, and molt into their next phase. This information could be useful in preventing an invasion of the caterpillars. Inhibit their growth hormone, and they will not only slow in their growth, they could potentially die off, thus having no chance to create any sort of offspring.
+
+Literature Cited:
+1. Ishimoto H., Kitamato T. 2010. The Steroid Molting Hormone Ecdysone Regulates Sleep in Adult Drosophila Melanogaster. Genetics. 185: 269-281 2. Meyer J, author/editor. Hormonal Control of Molting & Metamorphosis. NC State University. Accessed September 26, 2018. https://projects.ncsu.edu/cals/course/ent425/library/tutorials/internal_anatomy/molting.html 3. Johnson AD. Hormone Regulation. Comparative Physiology Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 16.1 (updated May 1, 2016), p. 11 4. Johnson AD. Hormone Regulation. Comparative Physiology Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 16.1 (updated May 1, 2016), p.8 5. Ono H., Morita S., et al, 2012. Conversion of 3-oxo steroids into ecdysteroids triggers molting and expression of 20E-inducible genes in Drosophilia melanogaster. Elsevier. 421:561-566
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Effects+2.png&Size=39685&Type=image%2Fpng&F=F_1dG4rtytDOZvdoc
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Effects+2.png&Size=39685&Type=image%2Fpng&F=F_yQniaBSasxtKYBX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure: 1 (Effects of E20 inhibitor on caterpillars vs hormone-unaltered caterpillars
+Figure 2: : Effects of E20 inhibitor on caterpillars vs. hormone-unaltered caterpillars (in a bar graph) *************************************************************************
+
+
+

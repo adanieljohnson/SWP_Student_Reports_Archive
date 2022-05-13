@@ -1,0 +1,104 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-24 18:49:22
+Author of this lab report is: Std_eMCoXtHA
+ID: R_2xwVlFlBDSPZU8m
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Certain Wavelengths of Light on the Visible Light Spectrum and their effect on the Rate of Photosynthetic Reduction in Spinach Leaf Chloroplasts 
+
+Abstract:
+Known information about the flow of electrons in the photosynthetic reductive process and quantum mechanics suggests that certain wavelengths of light are more optimal than others for increasing the rate of the photosynthetic reductive process.  In this study, spinach chloroplasts are isolated and treated with red, green, blue, and white (control) wavelengths of light with colored light bulbs and rates of photosynthetic reduction are recorded through a DCIP assay.  It was experimentally determined that red and blue light exposed spinach chloroplasts did not undergo statistically significant increased rates of photosynthetic reduction as hypothesized, and green light exposed spinach chloroplasts did not under statistically significant decreased rates of photosynthetic reduction as was hypothesized.  Perhaps, this study highlights the essentiality of more sophisticated techniques and equipment in photosynthesis research, and/or emphasizes the complexity of the hill reaction in the photosynthetic reductive process in plants. 
+
+
+Introduction:
+Photosynthesis is performed by all plants, algae, and other microorganisms to store energy in covalent bonds, redox potential, and as an electrical or chemical gradient across a lipid bilayer [1].  The general process of electron transfer in chloroplasts is known as the Hill reaction, which is essentially photoreduction of an electron acceptor, NADP+. Solar energy is essentially converted to chemical energy by the reduction of NADP+ to NADPH [1].
+
+More specifically, during the light-dependent reaction, chlorophyll and other pigments are clustered in the photosystems and vibrational energy can be passed successively through the pigments [2]. Electrons in these pigments are excited by light, which can be in the form of many colors, each having its own defined range of wavelengths [2].  Based on what is known in the field of quantum mechanics, certain wavelengths of light maintain amounts of quantized energy that is more appropriate than that of other wavelengths to excite chlorophyll electrons and drive redox processes until NADP+ is reduced [2]. 
+
+Furthermore, it is known that chlorophyll is a green pigment within plant chloroplasts that is obviously reflective of wavelengths of green light and absorbent of others [4].  It was of interest to us to attempt to experimentally determine which wavelengths of light are most conducive to faster rates of photosynthetic reduction in chloroplasts. 
+
+The objective of our study was to measure the rate of photosynthetic reduction in spinach leaf chloroplasts in varying wavelengths of light conditions, specifically green, red, blue, and white (control), and determine which light environment is most conducive for faster rates of the photosynthetic reduction process. A DCIP assay allowed us to do this, and in the assay, DCIP served as the acceptor of the reduced electrons released by light. 
+
+According to the electromagnetic spectrum, since blue wavelengths of light are higher energy than both green and red wavelengths, it makes sense that plants would harvest them [4]. It is also sensible for plants to absorb lower energy red light when considering this idea from an evolutionary context and perspective. Since plants first evolved in marine environments, and seawater only allows red wavelengths of light to penetrate its surface, bluer and greener wavelengths are absorbed. Therefore, an optimization of pigments to absorb lower energy red light seems to have been most effective [4]. Perhaps, the reason why plants reflect green wavelengths of light rather than absorb them is that it is a consequence of the essential quality of maintaining the ability to absorb red wavelengths of light [4].
+
+The aforementioned evolutionary explanation formed the basis for our hypothesis which was that the spinach chloroplasts treated with red and blue light would have substantially fast rates of photosynthetic reduction, which would be displayed by the data as a statistically significantly larger decrease in absorbance on the spec-20 machine over time in comparison to the control group with spinach chloroplasts in white light.  We also hypothesized that the group with spinach chloroplasts exposed to green light would have substantially slow rates of photosynthetic reduction over time, which would be displayed by the data as a statistically significantly smaller decrease in absorbance on the spec-20 machine.  Notable is that absorbance on the spec-20 photometer machine is inversely related to the rate of photosynthetic reduction, meaning that a large decrease in absorbance on the machine is indicative of a large increase in the rate of photosynthetic reduction. Our null hypothesis was that the amount decrease in absorbance on the spec-20 machine will not be affected by the wavelengths of light in each of the treatment groups, and the alternative hypothesis was that the different wavelengths of light in the treatment groups would lead to significant change in the amount of decrease in absorbance which is again indicative of the rate of photosynthetic reduction in the spinach chloroplasts. 
+
+
+Materials and Methods:
+The veins were removed from 6 large spinach leaves and then grounded in a mortar and pestle with 10mL of grinding buffer (10mM sucrose in a tricine buffer, pH 8). Another 10mL was added, and the mixture was grounded additionally for 2-3 minutes and then filtered into a beaker through cheesecloth. This solution was then centrifuged in a centrifuge tube at 200G and 1200RPM for 3 minutes at 4 degrees Celsius. This tube labeled Tube A’s supernatant was poured into a tubed labeled tube B and centrifuged again at 1000G and 2800RPM for 10 minutes at 4 degrees Celsius. Tube B’s pellet was saved and resuspended with 20mL of grinding buffer. 
+
+Four dark boxes were set up which each contained a lamp with a different colored light bulb: blue, green, white, and red. Each bulb had 8 watts of power, except for the white bulb which had 9. 13 test tubes on a rack were numbered 1-12 and 1 was left for a blank. Each group of 3 tubes served as a treatment group and final group of 3 was for the control. To tubes 1-12, 6mL of water, and 2mL of reaction buffer (100mM phosphate pH 6.5), and 2mL of 130mM DCIP were added. To the blank tube, 8mL of water and 2 mL of reaction buffer was added. 
+
+The spec-20 photometer was set at 600nm, and then 0.1mL of chloroplasts from the resuspended solution was added to each test tube and mixed well. The machine was then blanked with the blank test tube, and then solutions 1-12 were poured into 12 cuvettes until capacity.  The first 3 cuvettes were placed into a cuvette stand and then placed into a box with the white light lamp after the initial absorbance reading of each cuvette was measured and recorded.  This same process was repeated with the other 3 sets of cuvettes, and the time at which each was placed into its corresponding light environment was documented.  Absorbances for each treatment group were then taken every 10 minutes for a 30-minute duration.  
+
+A two-sample two-tailed t-test was run to analyze the significance of the effects the different wavelengths of light may have had on the rate of decrease in absorbance or the rate of photosynthetic reduction. 
+
+
+
+Results:
+General Trends:
+
+Absorbance values in the red light experimental group decreased at rates most similar to that of the control group (white light), and absorbance values in the green and blue experimental groups decreased at rates slower than that of the control group, especially during the first 10-minute interval. 
+
+
+
+Discussion:
+Our initial hypotheses, which were that the experimental groups each consisting of spinach chloroplasts treated with red and blue light respectively would both undergo statistically significantly larger mean decreases in absorbance during the 30 minute period than the chloroplasts in the control group treated with white light and that the group with spinach chloroplasts exposed to green light would undergo a statistically significant smaller mean decrease in absorbance over the duration of 30 minutes in comparison to the control group were both unsupported by the two-sample one-tailed t-test for means conducted for our significance test.  Essentially, spinach chloroplasts in the red and blue light exposed treatment groups did not undergo statistically significant increases in the rate of photosynthetic reduction in comparison to those within the control group, and spinach chloroplasts in the green light exposed treatment groups did not undergo a statistically significant decrease in the rate of photosynthetic reduction in comparison to those within the control group.
+
+Figure 1 demonstrates that an ordering of all experimental groups in order of steepness would be indicative of an ordering of the groups in decreasing rate of photosynthetic reduction.  The order is: white, red, green, and then blue.  If this ordering were in agreeance with our hypothesis, it would be: red or blue, followed by the other, white, and lastly green. As it is shown in Table 2, the mean percentage decrease in absorbance in the red light group was not statistically significant from that of the control group (t-stat: -0.07924, df: 2, p-value: .470324), nor was the blue light group from the control group (t-stat: 1.02345, df: 2, p-value: .315297). Similarly, the mean percentage decrease in absorbance in the green light group was not statistically significant from that of the control group either (t-stat: 0.51988, df: 2, p-value: 0.51988).  Therefore, we could not reasonably conclude that the different wavelengths of light in either of the treatment groups significantly alters the rate of photosynthetic reduction in comparison to the generic wavelengths of light that they would traditionally be exposed to in the sun. 
+
+The results of our experiment leading to the rejection of our hypotheses were rather interesting and concerning considering the foundational basis that our sources offered for our hypotheses. Of supreme concern was the fact that the spinach chloroplasts treated with blue light underperformed severely in terms of rate of photosynthetic reduction based on our consultation of a source which suggested that chlorophyll a, a pigment found in all plants absorbs most strongly in blue wavelengths [4], as well as the evolutionary basis to explain this occurrence. 
+
+This suggests that an error could have occurred in our experimental procedure that we were unable to pinpoint, or more likely, that we failed to consider a factor brought up in this source when making our hypotheses concerning the lackings of some of the everyday, household like materials we utilized to conduct an experiment that is reproduced in nature with materials incomparable in many ways.  In the aformentioned source, it was also mentioned that blue wavelengths in traditional fluorescent lights like the ones we used for this experiment are quite weak, but are very strong in natural sunlight [4]. Also, plants take cues to undergo synthetic processes, not by the presence of either red or blue wavelengths of light alone, but by a combination of both. It seems to be apparent that an experiment testing the the effect of different wavelengths of light on the rate of photosynthetic reduction requires techniques and equipment more sophisticated than those used to conduct our experiment. 
+
+
+Literature Cited:
+1.Lab Handout
+2. Photosynthesis. (n.d.). Retrieved from Encyclopedia Articles website: http://www.life.illinois.edu/
+    govindjee/encyc/encarta.htm
+3. The Hill Reaction. (n.d.). Retrieved October 24, 2018, from HSC website: http://people.hsc.edu/
+    faculty-staff/edevlin/edsweb01/courses/cellbiology/labmanual/new_page_4.htm
+4. Maximum Photosynthesis. (n.d.). Retrieved October 24, 2018, from UCSB website:
+    http://scienceline.ucsb.edu/getkey.php?key=1668
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2018-10-24.png&Size=72597&Type=image%2Fpng&F=F_1QEZizBMVdK5SGN
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2018-10-24+%283%29.png&Size=50840&Type=image%2Fpng&F=F_3Hq7PiUIRXRUcJV
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2018-10-24+%282%29.png&Size=36973&Type=image%2Fpng&F=F_4PeOimmFEwaMNgt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This figure displays the average percent change in absorbance values in each light condition over a duration of 30 minutes. Absorbances for each experimental group were measured in  10-minute intervals. The rate of decrease in absorbance, or the steepness of the negative slope of the lines, is inversely related in the rate of the photosynthetic reduction occurring in the chloroplasts. A steeper drop indicates a faster rate of photosynthetic reduction. 
+Table 1. Mean Percent Change in Absorbance for Each Treatment Group Over 10-Minute Intervals
+
+Table 2. Two-Sample One-Tailed T-Test for Means 
+
+
+
+
+*************************************************************************
+
+
+

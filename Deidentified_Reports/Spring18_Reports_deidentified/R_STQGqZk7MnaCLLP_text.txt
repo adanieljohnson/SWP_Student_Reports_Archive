@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-26 17:25:17
+Author of this lab report is: Std_bdBFm1wL
+ID: R_STQGqZk7MnaCLLP
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The Effect of Caffeine on the Strength of Gastrocnemius Muscle Stimulated Contractions of Rana Pipiens
+
+Abstract:
+Caffeine is a drug stimulant that increases the alertness of the body. This effect of alertness is tested by measuring the effect the drug has on the strength of the gastrocnemius muscle contractions of the frog Rana Pipiens when injected directly into the muscle. It was hypothesized that caffeine will optimize the release of calcium ions into the muscle filaments, which will cause the muscle to engage in stronger muscle contractions. Calcium ions are released by the sarcoplasmic reticulum once the muscle is depolarized by an electrical stimulus and attach to the actin filaments to open the binding sites for the myosin which allows the muscle to shorten. The strength of muscle contractions were tested by comparing the amplitude of the contractions on a myogram of a non-injected and a caffeine-injected muscle on a range of electrical stimulus voltages. The caffeine caused chemically induced tetany in the muscle which caused the muscle to have stronger contractions, though the actual amplitude of the contraction was lower than that of the non-injected muscle. Therefore, the caffeine induced an optimal release of calcium ions which allowed for stronger muscle contractions of the gastrocnemius muscle.
+
+Introduction:
+The neuromuscular system is unique in that it responds to an external or internal stimulus within milliseconds [Johnson: 2018]. This stimulus, in this experiment, is an applied electrical stimulus directly into the muscle, not the nerve. The direct stimulation of the muscle does not depolarize the the motor neuron, yet causes a direct depolarization of the muscle membrane. 
+
+Therefore, the electrical stimulus causes the opening of sodium channels in order to depolarize the muscle fiber, initiating an action potential that spreads down the entire length of the muscle fiber [Johnson: 2018]. The action potential, then, runs down the T-tubules of the muscle fiber, which causes the internal muscle release of calcium ions from the sarcoplasmic reticulum [Johnson: 2018]. The calcium ions are what initiate the muscle contraction to their binding onto the troponin of the actin filament of the muscle, which covers the myosin binding sites on the respective actin [Johnson: 2018]. The myosin filaments then utilize ATP to move along the actin filament, therefore shortening the muscle and causing a contraction [Johnson: 2018]. Calcium ions are then diffused back into their reservoir and the muscle relaxes [Johnson: 2018]. 
+	
+In the experiment, the gastrocnemius muscle—muscle on the back portion of the lower leg—of the Rana Pipiens frog is utilized due to the relatively small size of and the easy access to the muscle and the easy observation of the effect of the environmental stimulus’ on muscle control. Muscle contractions can be visualized in a myogram, where the peak during the contraction phase represents the strength of the muscle contraction—measured in volts. One twitch is one muscle contraction that is shown as a peak on the myogram; however, there can be a summation of twitches that generates a maximal sustained contraction of the muscle known as tetanus. 
+	
+Caffeine, a drug stimulant that temporarily wards off symptoms of drowsiness and causes symptoms of alertness, is injected into the muscle to visualize the effect the solution has on the strength of muscle contractions. According to a past experiment, caffeine increases skeletal muscle contractions due to an increase release of calcium ions [Olorunshola: 2011]. In addition, caffeine induces a more sustained contraction compared to non-caffeine induced muscle contraction [Kumar: 2015]. 
+
+Therefore, if caffeine is directly injected into the gastrocnemius muscle of the frog Rana Pipiens, then the flow of calcium ions into the muscle filaments will be optimized during muscle contractions, causing the muscle to have more intense contractions. Hence, the amplitude of the contractile phase will be greater than that of a non-caffeine induced contraction. 
+
+Materials and Methods:
+Firstly, the skin of the entire frog leg is removed: small incision is made at the top of the muscle, so the skin can be peeled off using hands. The gastrocnemius muscle was then isolated by freeing it from any connective tissue. The muscle then hung by a string from a ring stand in order visualize the contractions more easily. The foot and and thigh were pinned to the tray in order solely see movement in the gastrocnemius muscle. Two pin probes were injected into the muscle, which were connected to the stimulus transducer, SMT-100. 
+
+Three frog legs were used and set up in the same manner as previously explained. Leg 1 was the largest leg and Leg 3 was the smallest with the largest and smallest gastrocnemius muscle, respectively. The same three legs were used for both the control—no injected solution— and the treatment—caffeine injection. The control was tested before the treatment was tested for each leg. For the caffeine injection by syringe, 0.1 mL of 0.2 M caffeine was directly injected into the gastrocnemius muscle of the frog. 
+
+The muscle was first stimulated by increments of 0.1 V to determine the threshold voltage—the voltage that shows a strong twitch of the muscle—of each of the frog leg muscles. Then, the muscle was stimulated by increments of 1.0 V till 5.0 V in order to record the muscle response: the amplitude of the contractile phase found on the myogram. The stimulation at the threshold voltage and the voltages form 1.0-5.0 V was performed for both the control and treatment on each frog leg. A one tailed paired t-test was then used to analyze the data.
+
+
+Results:
+Overall, the amplitude of the muscle contraction—muscle response—of caffeine-injected muscle was much lower than that of the non-injected muscle, since the average contraction of the non-injected and caffeine-injected leg were 0.415 ± 0.137 V and 0.259 ± 0.112 V, respectively [Figure 1]. Therefore, the mean of muscle response before and after the caffeine injection indicate that there was a significance in data since the mean of the non-injected response was statistically greater than that of the caffeine-injected response and since the p-value, 6.52E-4, was lower than 0.05. However, there was chemically induced tetany measured for each of the frog legs injected with caffeine. The muscle, due to tetany, already was contracted with an amplitude voltage of 0.614 ± 0.394 V before the electrical stimulus was applied [Table 2]. 
+
+Discussion:
+The injection of caffeine into the gastrocnemius muscle of Rana Pipiens strengthens and intensifies the contraction of the muscle, which supports the hypothesis of the experiment. This is evident through the analysis of both the averaged muscle responses of both the control and the treatment and through the acknowledgment of the measured chemically induced tetany that the caffeine causes within the muscle prior to the electrically stimulated contraction. The p-value falls below 0.05—6.52E-4—which indicates that the amplitudes of the non-injected and caffeine-injected muscle contractions are statistically different [Figure 1]. 
+	The amplitudes of the contractile phase of the caffeine-injected muscle were consistently lower than that of the non-injected muscle, as shown by the averaged contractile response, 0.415 ± 0.137 V and 0.259 ± 0.112 V, respectively [Figure 1]. However, the amplitudes of the caffeine-injected muscle response are only lower due to the fact that the muscle was already contracting before the stimulus was applied due to the chemically induced tetany given by the caffeine. 
+This was observed firstly through the myogram: the contraction occured at an already higher amplitude, since the caffeine already caused the muscle to begin to contract before the electrical stimulus was applied. Secondly, by touching the gastrocnemius muscle before the stimulus was applied, it was evident that the muscle was hard compared to the non-injected muscle, which indicates that the muscle was already contracting due to only the caffeine. 
+	If the voltage chemically induced tetany—0.614 ± 0.394 V—were to be added to amplitude of the muscle response to the stimulus, then it would be statistically evident that the strength of the muscle contraction, the amplitude of the contractile phase, was much greater when injected with caffeine [Table 2]. 
+	Since more calcium ions allow for more cross-bridging between the action and myosin filaments within the muscle fibers, then there can be an increase in power of the myosin strokes, which leads to stronger, more intense contractions [Johnson: 2018]. Therefore, caffeine does cause increase muscle contraction strength due to an increased release of calcium ions, as shown in previous experiments [Olorunshola: 2011]. 
+	In addition, the data indicated that the larger the gastrocnemius muscle, the larger the contractile response to the electrical stimulus. This is shown by the standard deviations of the averaged contraction amplitudes of the frog legs, since a larger standard deviation indicates that the data was of a greater range [Table 1]. This is supported by previous experiments since the strength muscle response is influenced by a greater size of the muscle [Seals: 1983]. 
+	A next step would be to to analyze how caffeine alters the fatigue of the muscle. Since caffeine does increase and optimize the release of calcium ions, it could be analyzed then how ATP plays a role in this caffeine-induced contraction. If the muscle would continue to contract due to the presence of calcium ions, then it would be hypothesized the muscle would continue to contract until no more ATP were present in the muscle fiber. This could be measured by analyzing a myogram by how much time is required for a caffeine-injected muscle to fatigue compared to that of a non-injected muscle. 
+
+Literature Cited:
+1. Johnson AD. “Unit 2: Neuromuscular Control”. Comparative Physiology BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC Vers.18.1 (updated January 15, 2018), pp. 19-20.
+2. Kumar S, Tomar P, Rao JP. “Effect of Caffeine on Frog Muscle”. Indian Journal of Clinical Anatomy and Physiology. Vol 2: pp. 62-65.
+3. Olorunshola KV, Archie LN. 2011. “Caffeine Alters Skeletal Muscle Contraction by Opening of Calcium Ion Channels”. Department of Human Physiology Ahmadu Bello University. Vol 1: pp.1-3.
+4. Seals Dr, Washburn RA, Hanson PG, Painter PL, Nagle FJ. “Increased Cardiovascular Response to Static Contraction of Larger Muscle Groups”. J Appl Physiol Respir Environ Exerc Physiol. Vol 2: pp. 434. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.+Avg+Amplitude+Contractions+of+3+Frog+Legs.png&Size=266529&Type=image%2Fpng&F=F_pg7vklDgmn6GwBX
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+2.+Chemically+Induced+Tetany.png&Size=46796&Type=image%2Fpng&F=F_2rOsCqHcYE93PSJ
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.+Frog+Leg.png&Size=64334&Type=image%2Fpng&F=F_p5xAgXfQ8daGZUJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Average Amplitude Contractions of Three Frog Gastrocnemius Muscles
+Table 2. Averaged Chemically Induced Tetany of the Three Caffeine-Injected Muscles
+Figure 1: Rana Pipiens averaged muscle response of all three legs before and after the caffeine injection. One tailed paired t-test indicated that the mean was calculated at 0.415 ± 0.137 V before the caffeine injection and at 0.259 ± 0.112 V after the caffeine injection (t-stat = 7.53, df = 5, P = 6.52E-4). However, the chemically induced tetany was not added to the muscle response values of the caffeine injection to indicate that the amplitude of the contractions increased with a caffeine injection. Error bars based of standard deviation were used.
+
+*************************************************************************

@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-06 13:04:36
+Author of this lab report is: Std_jrB35yEG
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effects of crayfish aggression on metabolic rate
+
+Abstract:
+During aerobic respiration, low-energy ADP is converted into high-energy ATP through the breakdown of glucose. Oxygen is very important in this metabolic pathway because it is the final electron acceptor. Oxygen consumption is directly proportional to the amount of energy expended. Aggressive behaviors and fighting in many species have proven to be energy intensive processes. In this experiment, Orconectes sp., or crayfish, a species known for its aggressiveness was put in a metabolic chamber with and without the presence of a larger crayfish. The amount of oxygen used was measured and metabolic rate for the smaller crayfish was calculated. Metabolic rate was predicted to be higher with the presence of a larger crayfish, however our data was determined to be non-significant and the null hypothesis could not be rejected. Further investigation into the types of respiration occurring before and during fights and the energy expenditure associated with aggressive behaviors are needed. 
+
+Introduction:
+When an organism converts glucose to energy, the carbon and oxygen atoms that are present in the glucose molecules are indirectly converted to carbon dioxide gas. High-energy electrons are also released by this reaction, and they move between transport molecules of the electron transport system chain. This process converts low-energy ADP into high-energy ATP. Electrons at the end of the chain are transferred to molecular oxygen (O2.) Inhaled oxygen is converted to water after it gains electrons. Metabolic rate is the amount of oxygen consumed per gram of body mass per unit time. Oxygen used is directly proportional to the amount of energy expended. Orconectes sp., otherwise known as crayfish, have a body temperature and metabolism that is easily affected because they are ectotherms. [Johnson: 2017] 
+Crayfish are also known for being aggressive. Before potential fights between two crayfish, aggressive behaviors allow for “mutual assessment” between the two crayfish. The assumed determining factor for whether a crayfish will fight is assumed to be body size because this is a fixed factor that does not change during the fight. Ultimately, the winner of the dispute will be the crayfish that exerts the most energy, or uses the most oxygen. [Briffa: 2004] A study published in the Journal of Experimental Marine Biology and Ecology in 1995 found when hermit crabs fight, aerobic respiration increases, and metabolic rate remains high after the fight ends. [Huntingford: 1995] A similar result is expected for crayfish. If the metabolic rate is calculated for a smaller crayfish in the presence of a larger crayfish, then we hypothesize that metabolic rate will be higher than if the larger crayfish was not present. 
+
+
+Materials and Methods:
+1. Mass and record the weights of three small crayfish and one large crayfish.
+2. Put one small crayfish into a screw-top testing chamber and fill with room temperature water that has been saturated with air until it slightly overfills. Screw the top on.
+3. Then set the test chamber into a plastic dishpan that contains room temperature water. 
+4. Insert the dissolved oxygen probe into the top of the chamber and let reading stabilize. Take a baseline measurement of the readings.
+5. Continue to take readings after five, ten, fifteen and twenty minutes.
+6. After twenty minutes, remove the probe and record the volume of water in the testing chamber by pouring through a funnel into a graduated cylinder. Be careful not the accidently pour the crayfish or hurt it in any way.
+7. Repeat steps 2-6 for the other two small crayfish. Each crayfish will serve as its own control. These are the control values.
+8. To determine experimental values, place the large crayfish in the plastic dishpan and repeat steps 3-6 for each small crayfish. Record dissolved oxygen and volume measurements.
+9. Calculate the metabolic rate for both the control and experimental trials of the small crayfish. We used this equation:
+specific metabolic rate=([∆O_2 (mg/L)∙volume H_2 O (L)])/(Time (min.)∙weight (g))
+10. Use a paired t-test to determine significance difference in metabolic rate between the control and experimental trials of the small crayfish.
+
+
+Results:
+When comparing the metabolic rate of the small crayfish both with and without the large crayfish over a twenty-minute time period, the first and the third crayfish had a higher metabolic rate without the presence of a larger crayfish. The second crayfish had a metabolic rate with the presence of the larger crayfish that was higher than without the presence of a larger crayfish. (Fig. 1) The paired t-test had a p value of 0.513798. The same trends were seen in each crayfish over a ten-minute period as well, with the second crayfish being the only one with a higher metabolic rate with the presence of a larger crayfish. (Fig. 2) This data had a p-value of 0.717894. As seen in Figure 3, the average metabolic rate for all three small crayfish for ten and twenty-minute trials for both with and without the presence of a larger crayfish were averaged separately. This averaged data produced a trend in where for both ten and twenty-minute time frames, the average metabolic rate was higher with the presence of a larger crayfish than without the larger crayfish presence. (Fig. 3) A paired t-test for the averaged data determined the p-value to be 0.388305.
+
+Discussion:
+Based on the data, our hypothesis that increased aggression, caused by the presence of a larger crayfish, would increase metabolic rate was not supported. Sight of a larger crayfish was expected to incite aggressive behavior in the small crayfish and thus increase metabolic rate compared to if there was no larger crayfish present. However, the second small crayfish had the opposite trend and continued to be an outlier from the other two small crayfish in the experiment as seen in Figure 1 and Figure 2. The change in metabolic rate with the presence of a larger crayfish was not significant over a period of twenty minutes (Fig. 1) with p= 0.513798 nor over a period of ten minutes with p= 0.717894. (Fig. 2) Upon further data analysis of the mean control and experimental metabolic rates for both ten and twenty minutes, we could see a trend of the metabolic rate being higher with the presence of a larger crayfish. (Fig. 3) However, this observed trend was also not significant. (p=0.388305)
+It was observed during the experiment that our large crayfish was not very aggressive towards the smaller crayfish within the test chamber. Based off observed behavior of the small crayfish, it was obvious that it took a while for the small crayfish to notice the presence of the larger crayfish. We also believe that the second small crayfish did not ever notice the larger crayfish during the entire twenty-minute trial. We are not sure whether this is due to the thickness and opacity of our glass testing chamber, which resembled a mason jar, or if it was due to a lack of eyesight on the part of the small crayfish. This experiment could potentially provide more accurate results if run again with a thinner-walled and more transparent testing chamber. 
+Since fighting and aggressive behavior is so energy taxing, it is possible that crayfish do not want to fight unless it is inevitable. Metabolic consequences of fighting and depletion of energy resources, could influence the survival of the animal later. [Haller: 1995] Furthermore, since there was no actual fighting in our experiment, the metabolic repose to aggression could have not used oxygen. In a study with Anolis carolinensis which is a type of lizard, only glycolysis was increased when a lizard was placed in a metabolic chamber with another aggressive lizard before fighting occurred. Glycolysis creates a short-term supply of energy that does not require oxygen consumption, and therefore would not been detected in our experiment. [Haller: 1995] The amount of available energy combined with the energetic demands imposed by aggression influence the behaviors chosen by an organism at any given moment. [Haller: 1995] Energy expenditure appears to be the main limiting factor on aggression, and ultimately determine the survival of that individual. Studies of energetics could potentially help accurately predict survival and behaviors of organisms in the future.
+
+
+Literature Cited:
+1.	Johnson AD. Unit 3: Metabolism and Gas Exchange. Comparative Physiology. Wake Biology. 37-42
+2.	Briffa M, Elwood RW. 2004. Use of energy reserves in fighting hermit crabs. Proceedings: Biological Sciences. 271: 373-379.
+3.	Huntingford FA, Taylor AC, Smith IP, Thorpe KE. 1995. Behavioural and physiological studies of aggression in swimming crabs. Journal of Experimental Marine Biology and Ecology. 193: 21-39.
+4.	Haller J. 1995. Biochemical background for an analysis of cost-benefit interrelations in aggression. Neuroscience & Biobehavioral Reviews. 19: 599-604.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+1+2.jpg&Size=30421&Type=image%2Fjpeg&F=F_cVlusdI1gGqzmqV
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+2+2.jpg&Size=32165&Type=image%2Fjpeg&F=F_026vpyn71VvHoxf
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+3+3.jpg&Size=30259&Type=image%2Fjpeg&F=F_4VGpVtnftmFNHc9
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Metabolic Rate of Small Crayfish Over 20 Minutes. Metabolic rate was calculated for three small crayfish without and with the presence of a larger crayfish over twenty minutes. A two-sample paired t-test determined results to be not significant with p= 0.513798.
+Figure 2. Metabolic Rate of Small Crayfish Over 10 Minutes. Metabolic rate was calculated for three small crayfish with and without the presence of a larger crayfish over a period of ten minutes. Results were determined to be not significant with a paired two-sample t-test with p= 0.717894.
+Figure 3. Average Metabolic Rate of Small Crayfish. The average metabolic rate for all three crayfish were determined for both with and without the presence of a larger crayfish for both twenty and ten-minute time periods. Error bars represent standard deviation in data. A two-sample paired t-test determined result to be non-significant with p=0.388305.
+
+*************************************************************************

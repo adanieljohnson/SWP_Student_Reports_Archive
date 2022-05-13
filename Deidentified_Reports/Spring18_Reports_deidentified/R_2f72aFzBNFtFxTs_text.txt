@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-28 08:31:29
+Author of this lab report is: Std_TsrZU3gG
+ID: R_2f72aFzBNFtFxTs
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Frog Leg Response to Electrical Stimulation to the Nerve Before and After Introduction of Calcium Channel Blocker
+
+Abstract:
+My group tested the changes in threshold amplitude and strength of a frog leg muscle before and after being injected with calcium channel blocker. We hypothesized that introducing the calcium channel blocker would cause the muscle to weaken due to not being able to uptake enough calcium. We found that the calcium channel blocker seemingly caused the muscle to contract harder, although results are not conclusive. 
+
+
+Introduction:
+My lab group studied the effects of injecting calcium channel blocker into the gastrocnemius muscle of the Rana pipiens, or northern leopard frog. By stimulating the sciatic nerve with electrical impulses, we will be able to cause the muscle to contract and study the difference between a normal gastrocnemius muscle contraction and one with the calcium channel blocker introduced. When a motor neuron is stimulated, it transports an action potential down its length, branching off to contact multiple myofibrils within the target muscle at neuromuscular junctions. The action potential spreads down the myofibril then into T-tubules, releasing calcium from sarcoplasmic reticulum contained within the myofibril. These calcium ions bind to troponin, exposing the myosin binding sites on the actin. The myosin heads can then bind then pull on the actin, shortening the filament, leading to contraction. These calcium ions are then reabsorbed into the sarcoplasmic reticulum through calcium ion channels, allowing the muscle to relax. For this experiment, we predict that when a calcium channel blocker is introduced, the muscle will not be able to output as much force as the control. By blocking calcium uptake into the myofibrils, we limit the amount of calcium in the cell, limiting the strength of Ca2+ triggered actions, decreasing the strength of contraction [Elliot:2011]. 
+
+
+Materials and Methods:
+We will start by acquiring 2 recently liberated frog legs. Begin dissecting these legs over a dissection plate by pulling the skin from the top of the thigh down to then off the foot. Then separate the sciatic nerve from the inner thigh carefully by hand. Separate the gastrocnemius muscle from the leg by cutting the membrane between it and the bone with scissors then detach it at the bottom with a cut through the Achilles tendon. Pin the leg down then set up force transducer over the dissection plate on a stand. Tie a string between the force transducer and the Achilles tendon making sure it is at a 90o angle and taught. Set up stimulator and associated program then attach stimulating silver wire probes. Put the silver wires so they are both touching the sciatic nerve. Run a test gradually increasing voltage until response registered, finding the lowest voltage to get a response and the strength of that response. Then inject the leg with calcium channel blocker, wait ten minutes, then again find the lowest voltage to get a response and the strength of that response. Repeat this process on a second leg. Obtain results for similar experiment run by other groups.
+
+
+Results:
+From the results of the tests run by my group and one other group, we obtained the threshold amps required to get muscle stimulation before and after Calcium channel blocker injection and the strength of those twitches before and after injection on four different frog legs. From our general observations, the twitch strength of the muscle increased from an average of .4295v to .5575v after the calcium channel blocker was introduced as seen in figure 1. The only muscle to decrease in threshold strength was on leg 1, however, this leg did have a higher twitch strength after injections when stimulated to the same amplitude as before, having a .0804v twitch before injection and a 1.002v twitch after injection when .04v. final numbers however were derived from threshold twitch. Based on our P value of .505 for this data, there is a fifty/fifty chance these results are due to chance making our data not statistically significant. The threshold amplitude required for stimulating the muscle also increased from an average of 0.1475v to 0.15v which would indicate that calcium channel blocker increases the threshold required, however, with a P value of .95 there is a 95% chance these results are due to chance, making this data extremely insignificant. 
+
+
+Discussion:
+Our initial hypothesis, while not disproven, is put into question by this data. We predicted the calcium channel blocker would prevent the myofibrils from up taking Ca2+ necessary to undergo a full contraction, however, the data seems to indicate the opposite effect occurred. While much of the literature points to calcium channel blockers causing relaxation, our data, while not significant, warrants investigation [Rich:1992]. One possibility my group did not consider was the rate that the sarcoplasmic reticulum would take calcium back up [Inesi: 1979]. By blocking the calcium channels on the sarcoplasmic reticulum, we may have allowed free Ca2+ ions more opportunities to bind to troponin instead of being reabsorbed, creating a stronger contraction. The twitch strength was always found at threshold frequency, which differed between pre and post injection. This could have contributed to a larger difference between twitch strength due to a different amplitude inputs. Having 2 independent variables in this lab, threshold amplitude and threshold twitch strength, messed up the accuracy of much of the data. If I was to redo this experiment I would test twitch strength at a constant voltage. While threshold amplitude did seem to rise based on the averages of the data, there was only a single leg at a higher threshold amplitude after injection as seen in table 1. A .95 P value makes it almost guaranteed to have been due to chance. This experiment shows that chemicals can interact with biological systems in completely different ways dependent on the situation. 
+
+
+Literature Cited:
+[1] Elliott WJ. Calcium Channel Blockers. Department of Preventive Medicine, Rush Medical College, Rush University. Chicago, IL. July 7, 2011.
+[2] Rich S. The Effect of High Doses of Calcium-Channel Blockers on Survival in Primary Pulmonary Hypertension. The New England Journal of Medicine. Boston, MA. July 9, 1992. pp 76-81.
+[3] Inesi G. Cooperative Calcium Binding and ATPase Activation in Sarcoplasmic Reticulum Vesicles. Laboratory of Physiology and Biophysics, University of the Pacific, San Francisco, California. November 13, 1979.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+7.50.41+AM.png&Size=66941&Type=image%2Fpng&F=F_3im1Q4f5AW3F2nC
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+7.28.38+AM.png&Size=34744&Type=image%2Fpng&F=F_6LGXcK5mlDamlbj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+table 1: pictured is a table displaying the minimum voltage required to get a response from the frog muscle before and after calcium channel blocker injection and the strength of the twitch, in volts, at those voltages. figure 1: chart of twitch force averages for before and after injection
+
+
+*************************************************************************

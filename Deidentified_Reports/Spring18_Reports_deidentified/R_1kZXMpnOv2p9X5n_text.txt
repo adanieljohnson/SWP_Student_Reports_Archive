@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-28 18:19:40
+Author of this lab report is: Std_smrdOYuE
+ID: R_1kZXMpnOv2p9X5n
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The Effect of Lidocaine on the Amplitude of Contraction of the Rana pipien Gastrocnemius Muscle when Electrically Stimulated
+
+Abstract:
+The purpose of this experiment was the test the effect of Lidocaine on the amplitude of contraction of the gastrocnemius muscle of three Rana pipien frog legs. It was hypothesized that the amplitude of contraction would decrease with the addition of 0.1 mL Lidocaine to the frog’s system when compared to the control group that did not get any injection. This hypothesis was generated based on the fundamental idea that Lidocaine is a sodium channel blocker and the fact that neurons need an influx of sodium to occur in order to be depolarized and generate an action potential. The average minimum threshold was 0.17 volts for the control group and 0.45 volts for the experimental group. A p-value of .267 obtained through a matched-pair test determined that although the experimental values were lower than the control values as expected, the data is not significant and the null hypothesis cannot be rejected. 
+
+
+Introduction:
+The Rana pipien, or northern leopard frog, is a relatively large species of frog that is native to Canada and the United States. For many decades, the Rana pipien has been used to study neurons and the neuromuscular junction of the sciatic nerve which can be easily identified and isolated in this type of frog. [Johnson: 2018] The contraction of a muscle is a very complex process, but it can be simplified by looking at the contraction of a frog’s leg muscle. The process begins when the muscle is stimulated by an outside source. The impulse arrives at the neuromuscular junction in a nerve cell and acetylcholine is released from the presynaptic terminal. The acetylcholine binds to receptors which open the sodium channels and allow sodium to flow into the cell, causing depolarization. This depolarization will eventually lead to an action potential which causes the contraction in the muscle to begin. However, if the sodium channels are blocked, the ions cannot enter the cell and no depolarization will occur, keeping the muscle in its relaxed state. Lidocaine is a sodium channel blocker which may decrease the force of contraction in the frog’s leg [Persaud 2002]. It is hypothesized that the presence of Lidocaine in the nerve of the frog’s leg will block the sodium channels and reduce the amplitude of contraction in comparison to the contraction of the leg before Lidocaine was injected. 
+
+
+Materials and Methods:
+In order to conduct this experiment, three Rana pipien legs were obtained. Each one was carefully prepared by removing the skin and separating the gastrocnemius muscle from the leg bone. The muscle was then suspended from the force transducer at a 90 angle, all the while being kept moist with Ringer’s solution. The sciatic nerve was located and isolated, and two probes were placed under it in order to administer the electrical stimulus. The Labscribe program was used to control the voltage and time between each stimulus. The nerve was stimulated at different voltages to see the maximum stimulus that would produce a visible response and the data was recorded. Next, 0.1 ml of 25mM Lidocaine, our sodium channel blocker, was injected into the muscle which was then left alone for 5 minutes in order for the chemical to be absorbed. Once again, the nerve was stimulated multiple times to test where the new threshold for a visible contraction would lie. This whole process was repeated with the next two legs in order to get the most accurate results. The sets of data collected pre-injection in each of the three legs serves as the control group while the data collected after Lidocaine was injected and absorbed into the leg is the experimental group data for this experiment. After all the data was collected and compiled, a matched-pair test was used to compare the outcome of both the control group and the experimental group.
+
+
+Results:
+As seen in Figure 1, frog 1’s control group had a threshold of amplitude of 0.1 while the experimental group had a threshold of amplitude of 0.7, noticeably higher. This trend continued for the other two frogs as well as seen in Figures 2 and 3. For frog 2, the control threshold was 0.2 and the experimental threshold was 0.3, and for frog 3, the thresholds were 0.2 and 0.375, respectively. A matched-pair test was run to analyze each frog’s data with Lidocaine and without any injection from which a p-value of 0.267 was obtained. From this statistical analysis, it was determined that the data is not significant. 
+
+
+Discussion:
+Overall, this experiment was successful even though the data was deemed not significant by the matched-pair test that was utilized. Due to this lack of significant data, the null hypothesis could not be rejected. It was hypothesized that the addition of Lidocaine injections to the frog leg system would block the sodium channels in the neuromuscular junction which would keep any sort of contraction from happening at all [Johnson: 2018]. Although a contraction did occur in the legs injected with Lidocaine, the amplitude of the threshold was in fact raised which means the contractions were hindered by the Lidocaine. In all three of the frog legs tested, the control group had a much lower amplitude of threshold when compared to the respective experimental group. However, because the p-value was 0.267, the data was not statistically significant. The findings of this study are in parallel with previous studies concerning the effects of Lidocaine on leg muscle contractions in Rana pipien. In one specific 2002 study, lidocaine reduced the amplitude threshold in a normal frog and restored “normal firing patterns in a nerve where hyper-excitability…” had been triggered [Persaud 2002]. 
+
+
+Literature Cited:
+
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated January 4, 2018), pp. 17-23.
+2. Persaud, Navindra. Strichartz, Gary. 2002. Micromolar lidocaine selectively blocks propagating ectopic impulses at a distance from their site of origin. Pain. 99: 333-340. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+6.17.38+PM.png&Size=75453&Type=image%2Fpng&F=F_3HYMY4j1TyXMiJD
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+6.17.33+PM.png&Size=82862&Type=image%2Fpng&F=F_1Nfu2y2nFEUrVfj
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+6.17.21+PM.png&Size=87809&Type=image%2Fpng&F=F_1jOZAHPDeIhY9oz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph depicts threshold stimulus data for Frog 1. It shows the response amplitude at multiple different stimuli for both the control group (the orange line) and the experimental group (the blue line).
+
+Figure 2. This graph depicts threshold stimulus data for Frog 2. It once again shows the response amplitude at multiple different stimuli for both the control group as well as the experimental group that was injected with Lidocaine.
+
+Figure 3. This graph depicts threshold stimulus data for Frog 3. It shows the response amplitude at multiple stimuli for both the control and experimental groups.
+
+
+*************************************************************************

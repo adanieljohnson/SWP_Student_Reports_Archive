@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-11 21:58:31
+Author of this lab report is: Std_fzoYdHFI
+ID: R_24ISiIVDXlfPhEG
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Frog Legs Injected with Calcium Inhibitor Display No Significant Change in Sciatic Response to Stimuli
+
+Abstract:
+Calcium plays an important role in neuromuscular response. In this experiment, the effect of calcium inhibitor on the sciatic response of frog legs was tested. The hypothesis was that the inhibitor would cause a change in sciatic response. Studies on muscular function, such as this one, can benefit the medical field, especially in regard to understanding how the body works and solving related health issues. For the test, three frog legs were used, and each one acted as its own control. Each leg was tested at 0, 0.25, 0.75. and 1.0 volts, and then this same test was repeated after injecting the leg with calcium inhibitor and waiting eight minutes for its effect to set in. All other settings on the force transducer were kept constant. The results were analyzed using a two-tailed paired t-test. There was a specific focus on the data that came from stimulus at 0.75 volts. There was not a statistically significant difference between groups.
+
+Introduction:
+The neuromuscular system allows organisms to sense and respond to stimuli in their environment [Johnson: 2018]. The test subject is the gastrocnemius muscle and sciatic nerve of a frog leg. This is a good model, because it is already dead, it is inexpensive, and having access to the muscle and the nerve allows us to test both muscular and neural response. Myograms graphically represent muscular contractions in three phases: latent, contraction, and relaxation [Johnson: 2018]. Force transducers connected to muscles help translate muscle movement into an electric signal in order to collect this data [Johnson: 2018]. Experiments like this one are important, because muscular function essentially operates the same way in most organisms, so the findings can be applied to other animals. Seeing how normal muscles function can also help doctors recognize when something is not right, and hopefully lead them to find a cure or solution. Moreover, a similar study found that calcium initiates contraction by activating the enzyme myosin light chain kinase, which catalyzes the transfer of phosphate from ATP to myosin. [Adelstein: 1979]. Phosphorylated myosin interacts with actin to cause muscle contraction [Adelstein: 1979]. Due to this, I hypothesize that if calcium is inhibited, then the neural response will change.
+
+Materials and Methods:
+To begin, a frog leg was prepared by peeling off the outer layer of skin and isolating the sciatic nerve. A string was tied around it, and then it was attached to the force transducer. After connecting the force transducer to the leg and opening the software on a laptop, the settings were changed to one pulse, five milliseconds, and one hertz. The response of the sciatic nerve to direct stimulus was tested at 0, 0.5, 0.75, and 1.0 volts. Next, the leg was injected with 0.2 milliliters of calcium receptor inhibitor. It was necessary to wait for eight minutes while the calcium inhibitor set in. The leg was slacked down a bit to get the same tone as before. After that, the response of the sciatic nerve to direct stimulus was tested at 0, 0.5, 0.75, and 1.0 volts. The previous steps were then repeated with the other two frog legs. Last, a two-tailed paired t-test was used to analyze the results.
+
+Results:
+After injecting the inhibitor, the first two legs got much larger and more bloated. However, after injecting the third leg with the inhibitor, it did not look as bloated as the other two. For the first two legs, sciatic response was lower after injection of the calcium inhibitor. For the third leg, sciatic response was higher after injection of the calcium inhibitor. The graph compares how each leg responded to direct stimulus of the sciatic nerve at 0.75 volts before and after calcium inhibition. As shown in Figure 1, there was not a statistically significant difference between the groups. Our two-tailed paired p-value was 0.359.
+
+Discussion:
+The sciatic response did not change after the addition of calcium inhibitor, meaning the results were not significant, and the hypothesis was not supported. It is possible that the inhibitor was not absorbed properly into the third leg, because it did not look as bloated as the other two after injection, and it is the third leg that responded differently. There may not have been a long enough pause between injection and resuming the test, meaning the inhibitor did not have time to set in. Another possibility is that the needle may have gone straight through the leg and out to the other side, meaning the inhibitor did not get absorbed, which would have skewed the results. A similar study found that the amount of calcium needed to initiate contraction is somewhere between one third of a micrometer and one and a half micrometers [Portzehl: 1964]. Therefore, if the calcium inhibitor did not work properly or if there was not a sufficient wait time, enough calcium may have remained to cause contraction. Also, muscle movement is a complex process, so if each leg was not set up in the exact same position, muscle shortening and lengthening could have been altered. Overall, experiments like this one are important in the medical community, because the findings can be applied to a variety of organisms, and they may help doctors find solutions to neuromuscular problems. If this experiment is repeated in the future, it should be completed with more patience and precision to minimize and hopefully eliminate errors. To add, it would also be interesting to test how injecting sodium or potassium ions into the leg impacts sciatic nerve and muscular response.
+
+Literature Cited:
+1. Adelstein RS and Hathaway DR. 1979. Role of calcium and cyclic adenosine 3′:5′ monophosphate in regulating smooth muscle contraction. The American Journal of Cardiology. 44: 783–787.
+2. Johnson AD. Comparative Physiology. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 21, 2018), pp. 17-34.
+3. Portzehl H and Caldwell PC. 1964. The dependence of contraction and relaxation of muscle fibres from the crab Maia squinado on the internal concentration of free calcium ions. Biochimica et Biophysica Acta (BBA) - Specialized Section on Biophysical Subjects. 79: 581-591.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Graph.png&Size=82455&Type=image%2Fpng&F=F_0Nu0rpwgTIiPJ3H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of calcium inhibitor on sciatic nerve response in frog legs. Each leg acted as its own control. For the experimental portion, each leg was injected with 0.2 milliliters of calcium receptor inhibitor. The blue line represents the control group, and the orange line represents the experimental group. Each data point is the response of the leg to direct stimulus of the sciatic nerve at 0.75 volts. *************************************************************************
+
+
+

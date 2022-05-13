@@ -1,0 +1,98 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-22 13:18:15
+Author of this lab report is: Std_EfebpoD1
+ID: R_2ARoVGUFvQBZgyU
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: Excess magnesium decreases health and growth of Vigna radiata
+
+Abstract:
+Organisms must adapt to change in biotic and abiotic factors in their environment. The aim of this experiment was to understand the effects of varying magnesium levels on the health and growth of mung beans (Vigna radiata). In order to test magnesium effects, seeds were watered with either magnesium enriched water or water not enriched with magnesium for two weeks.  After the treatment period was over, the plants were massed and number of wilted leaves were calculated. It was hypothesized that the plants that received magnesium enriched water would grow bigger with fewer wilted leaves when compared to those that were not. The results of the experiment do not follow expected results because the magnesium treated plants had lower masses as well as higher percentages of wilted leaves.  Results of a two-sample t-test show that average masses between treatment and control groups were statistically significantly different with a p-value of 0.0003, but the average percent of wilted leaves between groups were not significant with a p-value of 0.06. The biological results of this experiment further understanding of elevated minerals in crop soil on plant growth and condition.
+
+Introduction:
+All organisms must adapt to biotic and abiotic factors from their environment in order to survive. Additionally, limitation in nature of essential resources like sunlight, nitrogen, and water effects what plant species are likely to grow in a particular community. As a result, most species have evolved to allocate resources in a certain pattern. 
+ Resource allocation can be altered depending on variations in the surroundings, like different abiotic conditions or presence of same or differing species.  Relative allocation of biomass in the leaves, shoots, and roots demonstrates the availability of resources for a plant within the environment. Plants exhibit phenotypic plasticity, so their growth pattern can noticeably change over time. Measuring the leaves, shoots, and roots of plants grown in altered environments therefore show how external factors put pressure on plants to adapt their structures, as is shown in European tree species exposed to increased environmental temperatures [Kramer: 1995].
+Photosynthesis is the process by which plants store sun energy which is then available for essential processes that contribute to overall health like cellular respiration [Zarzycki: 2013]. Elevated rates of photosynthesis have also been shown to enhance overall plant growth due to increased carbon availability for plants [Kirschbaum: 2011].  An important component in the photosynthesis process is magnesium, which is located in chlorophyll molecules.  Without this mineral, chlorophyll cannot capture sun energy, so magnesium is key to photosynthesis success. 
+Performing this experiment widens the knowledge of consequences of human mediated mineral deposits on plant health and growth and offers insight into elevated magnesium levels on the quality of horticultural and agricultural products.  Previous studies evaluating other plants, like tomatoes, have demonstrated that magnesium deficiency causes wilted leaves and decreased blossom growth [Hao: 2004].  
+The mung bean is a legume grown for its edible seeds and sprouts [Xe: 2000]. This plant is ideal for scientific experimentation due to its small seeds, ability to grow well in compact places, and fast sprouting rate [Palmer: 1981]. It was hypothesized that if mung bean seeds were watered with magnesium-enriched water then they would grow to have consistently healthy leaves as well as greater overall growth because of the increased energy availability from photosynthesis.
+
+
+Materials and Methods:
+To begin the experiment, 60 water-soaked mung bean seeds were obtained. Ten seeds were planted into soil in six individual plastic planters.  Upon original planting, the seeds were watered until excess water drained out of the bottom of their containers.  
+The planters were placed in a greenhouse where they remained for two weeks to grow.  At 4 PM every day, the plants were watered with 150 mL of water.  Three planters received regular water while the three other planters received water enriched with magnesium sulfate.  
+After two weeks, the wilted leaves on each plant were counted.  Then, three plants from each planter were removed from soil and their mass was measured on a balance.  
+A two-sample t-test was used to analyze if the mean number of wilted leaves and overall plant masses were statistically significantly different between the groups exposed to differing amounts of magnesium.
+
+
+Results:
+The average mass of the control plants was 2.21 grams which is larger than the 0.35 grams average mass of magnesium enriched plants (Table 1, Figure 1). The mean mass of the control group was statistically significantly different than the mean of the magnesium-rich plants (t-statistic=9.43, degrees of freedom=4, p-value=0.0003).
+Additionally, the average percent of wilted leaves of the control plants was 57% which is smaller than the 89% average of wilted leaves of the magnesium enriched plants (Table 1, Figure 2). The mean percent of wilted leaves of the control group was not statistically significantly different than the mean of the magnesium-rich plants (t-statistic=2.60, degrees of freedom=4, p-value=0.06).
+Magnesium treated plants had noticeably darker leaves with smaller stems than control plants (Figure 3). 
+
+
+
+Discussion:
+The results from this experiment do not follow the expected pattern of bigger and healthier mung bean plants watered with magnesium enriched water.  The results show that on average the control plants were bigger in mass than the magnesium enriched plants with a p-value of 0.0003 which indicates that these results were not obtained by chance and that the control plants were larger than the treatment plants.  The average percent of leaves wilted for the control plants was lower than the magnesium enriched plants with a p-value of 0.06, indicating that these results may be due to chance, so we cannot support the hypothesis.
+The biological results that don’t correlate with expected growth patterns can be explained by the fact that elevated levels of magnesium result in decreased uptake of calcium by plants. It has been demonstrated in other experiments that there is quantitative competition between magnesium and calcium on sorption sites of plasma membrane vesicles of melon roots [Yermiyahu: 1994]. Calcium is an essential salt for the plant to maintain the rigidity of cell walls and contributes to structural integrity of roots and shoots. Deficiency in calcium can result in the blackening and curling of leaves, ultimately leading to cessation of growth, as well as development of unhealthy root cells and slow growing shoots [Jones: 1967].
+The results from this experiment align with expectations for calcium-deficient plants. The plants are noticeably different in size and condition. Magnesium treated plants are smaller with darker, almost black, leaves and shoots (Figure 3). The overall mass of magnesium treated plants on average was measured to be significantly below that of the control plants (Figure 1). This indicates that there was a slower rate of development of the leaves, the stem, the roots, or all three which led to an accountable mass discrepancy. A p-value less than 0.05 was defined as being significant. The t-test evaluated the data as being statistically significantly different with a p-value of 0.0003, so mass results are not due to chance.
+Also, the magnesium treated leaves seem to be smaller, less healthy, and more wilted than the control leaves upon visual inspection (Figure 3).  This indicates that the structural integrity of the leaves was reduced, which is consistent with calcium-deficient plants. The t-test evaluated the data as not being statistically significantly different with a p-value of 0.06, so it was not proven that the number wilted leaves results were not due to chance.
+Modifications to this experiment could lead to more insightful results.  For instance, testing the same hypothesis but including ten sets of ten replicates all watered with the same volume of gradually increasing concentrations of magnesium enriched water.  With this method, a close approximation of magnesium concentrations that could actually be beneficial to the plant might be identified. It could also be interesting to switch the conditions and water plants with calcium enriched water and see if signs of magnesium deficiency arise or water plants with other ions, like potassium, and note for signs of calcium-deficiency.
+This is a useful experiment to perform because it can help farmers understand the effects of excess magnesium on crop health, and it serves as a model for effects of human-caused contamination of plant soil. Mineral composition of crop soil is an important issue that requires further studying in order to compensate for the transient conditions of growing environments [Colombo: 2014].  Experiments such as this one contribute to a better understanding of the harm of uncontrolled mineral and salt levels in plant soil.
+
+
+Literature Cited:
+1.	Kramer K, 1995. Phenotypic plasticity of the phenology of seven European tree species in relation to climatic warning. Plant, Cell, and Environment, 18, pp. 117-125. 
+
+2.	Zarzycki J, Axen SD, Kinney JN, Kerfeld CA, 2013. Cyanobacterial-based approaches to improving photosynthesis in plants. Journal of Experimental Botany, 64, pp. 787-798.
+
+3.	Kirschbaum MUF, 2011. Does Enhanced Photosynthesis Enhance Growth? Lessons Learned from CO2 Enrichment Studies, 155, pp. 117-124.
+
+4.	Hao H, Papadopoulos AP, 2004. Effects of Calcium and Magnesium on Plant Growth, Biomass Partitioning, and Fruit Yield of Winter Greenhouse Tomato. American Society for Horticultural Science, 39, pp. 512-515.
+
+5.	Xe XY, Ng TB, 2000.  Mungin, a Novel Cyclophilin-like Antifungal Protein from the Mung Bean. Biochemical and Biophysical Research Communications, 273, pp. 1111-1115.
+
+6.	Palmer JD, Thompson WF, 1981. Rearrangements in the chloroplast genomes of mung bean and pea. Proceedings of the National Academy of Sciences of the United States of America, 9, pp. 5533-5537.
+
+7.	Yermiyahu U, Nir S, Ben-Hayyim G, Kafkafi U, 1994. Quantitative competition of calcium with sodium or magnesium for sorption sites on plasma membrane vesicles of melon (Cucumis mol L.) root cells. The Journal of Membrane Biology, 138, pp. 55-63.
+
+8.	Jones RGW, Lunt OR, 1967. The function of calcium in plants. The Botanical Review, 33, pp. 407-426. 
+
+9.	Colombo C, Palumbo G, He JZ, Pinton R, Cesco S, 2014. Review on iron availability in soil: interaction of Fe minerals, plants, and microbes. Journal of Soils and Sediments, 14, pp. 538-548.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-22+at+1.10.04+PM.png&Size=20434&Type=image%2Fpng&F=F_1M4K1fdTyRdeVd1
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-22+at+1.09.50+PM.png&Size=31798&Type=image%2Fpng&F=F_2pQqHQCu24hDkEc
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-22+at+1.09.43+PM.png&Size=33186&Type=image%2Fpng&F=F_1exHBo4hCAYWxp3
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-22+at+1.09.33+PM.png&Size=296499&Type=image%2Fpng&F=F_3oRdTnyjwulYgQ5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Average Mass and Percent Wilted Leaves of Plants 
+Figure 1. This shows the average mass for control and magnesium-rich plants. Error bars represent standard deviation; ±0.095 for control and ±0.19 for magnesium enriched.
+Figure 2. This shows the average percent wilted leaves for control and magnesium-rich plants. Error bars represent standard deviation; ±0.32 for control and ±0.11 for magnesium enriched.
+Figure 3. This is documentation of plants after 11 days of the total 14 days of experimentation.  The three planters on the left were watered with magnesium enriched water while the three on the right were watered with regular water.
+*************************************************************************
+
+
+

@@ -1,0 +1,45 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 21:06:43
+Author of this lab report is: Std_M5TWJnP8
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effects of Caffeine on the Gastrocnemius Muscle Contractions of the Rana pipiens
+
+Abstract:
+When nerves send an impulse, the neuromuscular junction activates to release acetylcholine (Ach). Ach binds with its receptor allowing sodium to flood into the nerve, generating an action potential causing calcium to be released ultimately causing a muscle contraction. This experiment will directly stimulate three Rana pipines’ gastrocnemius muscle through a computer stimulator: before and after injecting 0.1ml of 200mM caffeine into the severed frogs’ legs. Caffeine has shown to cause a release of calcium from the sarcoplasmic reticulum. Therefore, if 0.1 ml of 200 mM caffeine is injected into a frog leg, then the normal release of calcium will increase causing stronger contractions. After conducting the experiment, there was a significant increase in voltage contraction once caffeine was injected into the gastrocnemius muscle. The P value calculated from a one tailed t-test was 0.040. The standard deviation for control was 0.88148 while for the caffeine it was 0.5106. Caffeine acted upon the sarcolemma causing higher amounts of calcium to be released in the leg. Because the contraction was stronger from the additional release of calcium, the alternative hypothesis is supported. 
+
+Introduction:
+Myofibers are clusters of cylindrical and multi-nuclear cells which are held together by connective tissue to form the skeletal muscles. The skeletal muscle has motor neurons whose cell body begins in the gray matter in the spinal cord. These motor neuron axons extend into a muscle and connect to myofibers. The point where the myofibers connect is called the neuromuscular junction. The neuromuscular junctions are activated to release acetylcholine (Ach) when nerves send an impulse. Ach binds with its receptor allowing sodium to flood into the nerve. This generates an action potential. Once the action potential is sent down the axon, calcium is released, triggering the muscle fiber to contract [Johnson: 2017].
+	In a previous experiment, Caffeine has been shown to release calcium from the sarcoplasmic reticulum by acting upon the sarcolemma to release calcium [Thorpe, Seeman: 1971]. By inputting caffeine into the muscle, it will stimulate the release of calcium. Therefore, it will trigger the muscle fibers to contract. 
+In this experiment I will directly stimulate three Rana pipens’ gastrocnemius muscle (calf muscle) through a computer simulator then injecting 01. Ml of 200mM caffeine into the severed frogs’ legs to compare the results. This species was selected due to their strength in there hindlimbs normally used for jumping. Because the muscle is typically used, it would facilitate viewing and recording more dynamic muscle contractions. The independent variable would be the presence and lack of caffeine while the dependent variable would be the amplitudes from the muscle contractions. If 0.1ml of 200 mM caffeine is injected into a frog leg, then the normal release of calcium will increase causing stronger contractions. The null hypothesis is if 0.1 ml of 200 mM caffeine is presented into the frog leg, then it will not influence the intensity of the muscle contractions.
+
+Materials and Methods:
+Place 3 severed frog legs on a dissecting pan. After, peel the skin down towards the foot with gloved hands or forceps. Make sure to continuously moisten the leg with frog Ringer’s Solution. With a pair of scissors, gently place them into a hole found in the back of the heel under the gastrocnemius muscle and slide them forward and back towards the knee to partially separate the gastrocnemius muscle from the bone. Cut the tendon that connected the gastrocnemius muscle to the back of the heel. After, cut a piece of string to fold in half and make a tight double knot around the tip of the cut tendon. Tie the loop of the string onto the hooks of the force transducer on the ring stand. Next, place the red and black electrodes vertically into the hanging gastrocnemius muscle. Connect the opposite end of the electrodes (BNC connector) to the BNC-banana adapter on the stimulator output. Then, on LabScribe, input 1 pulse width, 1 volt, and the number of pulses to 5 at 1 Hz. After recording the results of the volts of the five pulses without caffeine, inject the gastrocnemius muscle with 0.1 ml of 200mM caffeine. Once the results are recorded for the first leg, repeat with the two other Rana pipens’ legs. 
+
+Results:
+Prior to the injection of caffeine, the gastrocnemius muscle was limp and when the muscle contracted, it was more visible then after the injection. Once caffeine was injected into the muscle, it rapidly swelled up and become very hard. The contractions were not as easily seen due to the enlargement of the muscle although stronger contractions occurred as recorded on the laptop. 
+The average value for the contraction voltage of the each of the five pulses of the three frog legs prior to caffeine dose was 0.9646V, however, after caffeine was given, the average increased to 2.0566V. The average difference is 1.092. The standard deviation of these results are 0.88184 and 0.510649116 respectively. The injected caffeine into the muscle created a significantly higher contraction voltage than the control's results. The one tailed t-test gave a t-value of 3.312366 and a P value of 0.040158, expressing the significant change because the P-value is under 0.05. A one tailed t-test was used because the hypothesis is only directed in the positive direction (contraction will increase), not an overall change which would incorporate a negative and positive value (two tailed T-test).
+
+Discussion:
+The alternative hypothesis was supported due to the significant increase in contraction amplitude when caffeine was injected into the Rana pipens gastrocnemius muscle. The calculated one tailed t-test value gave a P value of 0.040; therefore, there was an extremely low possibility that the results collected were simply by chance, highlighting their significance. The increase in voltage contraction occurred because caffeine acted as an additional action potential down the T-tubule causing the Ryanodine receptor to change shape for a longer period of time, ultimately releasing more calcium from the sarcoplasmic reticulum. With more calcium released, the stronger the myosin and actin in the sarcomere will contract. Hence, it released significantly more calcium from the sarcoplasmic reticulum through acting on the sarcolemma, as expressed though Thorpe and Seeman’s work, in comparison to the normal release of calcium. However, potential errors could have occurred from poor connection with electrodes. For further study, because each leg did have a slight variation in contraction voltage to the 200mM of caffeine, researchers should increase the number of frog legs tested and use different concentrations of caffeine to compare results. These studies would be interesting to review because with a higher number of frog legs to test with different concentrations of caffeine, may or may not affect the voltage contraction depending on the leg. A maximum concentration of caffeine injected may show a threshold in contraction.
+
+Literature Cited:
+Johnson AD. Neuromuscular Control. Comparative Physiology Bio114 Laboratory Manual.	Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated Aug 2, 2017), pp. 19 
+Thorpe, W.R., & Seeman, P. (1971). The site of action of caffeine and procaine in skeletal	muscle. Journal of Pharmacology and Experimental Therapeutics, 179(2), 324-330.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+1.PNG&Size=6633&Type=image%2Fpng&F=F_1EQnAjQa620WjMV
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig. 1. Average voltage value for 5 pulses on three frog legs without (control) and with caffeine. The error bars represent the standard deviation for the average voltage values of the control and with caffeine. The means for the control are 0.9646V while for the caffeine it is 2.0566 V. The average difference is 1.092. The standard deviation for control is 0.88184 and for the caffeine it is 0.5106. The calculated t-value is 3.312366 which helps calculate a P-value of 0.040. 
+
+*************************************************************************

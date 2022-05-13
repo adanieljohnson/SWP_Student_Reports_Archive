@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 16:04:39
+Author of this lab report is: Std_6W0QowAm
+ID: R_e2SEJFAlVVQBbmF
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Calcium Blockers effects in Frog Legs
+
+Abstract:
+For this experiment, our objective was to determine if the addition of 1 mL of Lanthanum Chloride would have an influence on the threshold required to produce a muscle contraction. We hypothesized that the voltage required to reach threshold would be increased when compared to a frog leg with no reagent added. The background for this experiment included the knowledge of the involvement of calcium in muscle contraction as well as how a calcium blocker would affect the contraction in muscles. This experiment obtained data from 2 different frog legs, one with a calcium blocker added, and one without, that were shocked on the sciatic nerve and thresholds were measured. Our hypothesis was supported by this experiment. It was seen that the frog leg with the reagent recorded a higher voltage needed for threshold to produce a contraction.  however, our data was insignificant due to the p-value being 0.278
+
+
+Introduction:
+In the vertebrates and invertebrates, skeletal muscles consist of hundreds of thousands of cylindrical, multi-nuclear, fused aggregates of cells called myofibers. They are bound together by connective tissue to form functional groups. Skeletal muscles are innervated by motor neurons. Axons of the motor neurons extend into a muscle and then branch off to innervate myofibers at sites called neuromuscular junctions. Nerve impulses at this junction cause the release of ACh which binds with its receptor to open sodium channels to generate an action potential. The action potential stimulates the release of Ca2+ which makes the muscle contract. In one study, muscle contraction is described as the precise sliding of myosin-based thick and actin based thin filament contractile proteins. This study expressed recombinant N-terminal fragments and examined their effect on the contractile properties in biophysical assays (Lin, 2018). In our experiment, we will be adding a reagent called Lanthanum Chloride in order to block the release of calcium. We hypothesize that the introduction of the Lanthanum Chloride reagent in the frog leg, (Rana pipiens), gastrocnemius will increase the voltage required to reach threshold of the contraction.
+
+
+Materials and Methods:
+First, 2 frog legs were obtained and the skin was removed. The thigh muscle was opened in order to locate the sciatic nerve. Next, the gastrocnemius muscle was separated from part of the leg and was suspended at a 90  angle from a hook using a piece of thread. The electrodes were placed on to the sciatic nerve in order to stimulate the shocking of the muscle. Different voltages were sent to the muscle and these shocks were recorded using iworks, a computer program that measures the shocks and thresholds. The threshold was measured. 1 mL Lanthanum Chloride was injected into the gastrocnemius muscle and then the threshold was measured once again. Data was collected and a paired t-test will be conducted. 
+
+
+Results:
+It was seen that the treatment leg had a higher threshold. The paired t-test showed the degree of freedom was 1, the t Stat was 2.143, and the p value was 0.278. 
+
+
+Discussion:
+In this experiment it is seen that the added calcium blocker in the form of Lanthanum Chloride in the gastrocnemius did increase the threshold of contraction. This conclusion is based on the interpretation of the graphs showing the increase of the treatment group's threshold. The p-value was 0.278 which shows that there was a 27.8% chance that the threshold was influenced by the Lanthanum Chloride by chance. The addition of the Lanthanum Chloride increases the threshold because it is a calcium blocker, so the calcium channels are blocked. If the calcium channels are blocked then you will need a higher voltage in order to push an action potential through to cause a contraction. When an electrical signal passes down the motor nerve to a muscle it triggers a depolarization of the muscle membrane (sarcolemma). In turn this triggers the sarcoplasmic reticulum to release calcium ions into the muscle interior where they bind to troponin, thus causing tropomyosin to shift from the face of the actin filament to which myosin heads need to bind to produce contraction (Squire, 2010). This shows that if we were to block the calcium, muscle contraction would need a higher electrical signal to trigger enough calcium. Our data shows that the channels were successfully blocked and the voltage increased to cause a contraction.  Our hypothesis was supported because the threshold did increase, however our results are insignificant due to the p-value being fairly above 0.05.This means that we probably saw an increase in threshold because of the calcium blocker. We believe that we need more data in order to receive a more statistically significant results. We believe that if we ran this experiment with more subjects our results would come back more significant due to having more data to analyze. 
+
+
+Literature Cited:
+ Lin, Brian Leei, Amy Li, Ji Young Mun, Michael J. Previs, Samantha Beck Previs, Stuart G. Campbell, Cristobal G. dos Remedios, et al. "Skeletal Myosin Binding Protein-C Isoforms Regulate Thin Filament Activity in a Ca2+-Dependent Manner." Scientific Reports 8 (February 8, 2018). https://doi.org/10.1038/s41598-018-21053-1.  
+
+Squire John M. "Muscle Contraction: Regulation." ELS, Major Reference Works, October 18, 2010. https://doi.org/10.1002/9780470015902.a0000674.pub2.  
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+8.01.13+PM.png&Size=38008&Type=image%2Fpng&F=F_2bJXgA4q3TOwoHe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Change in Threshold for individual frog legs. Frog 1 leg is represented by the blue bar and frog leg 2 is represented by the orange line. Threshold was measured in volts. There was a larger change in frog leg 2 than in 1. The paired t-test gave a p-value of 0.278. 
+
+
+*************************************************************************

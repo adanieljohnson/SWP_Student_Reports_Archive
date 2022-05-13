@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 16:19:36
+Author of this lab report is: Std_l0nXQsSf 
+ID: R_3dSQMSoHeoZLdjl
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The Effect of Lidocaine on the Stimulus Impulse Need to Reach Threshold 
+
+Abstract:
+The Rana pipiens, known as the the Northern Leopard frog, was used in the experiment to determine the effect that stimulus impulses have on the neuromuscular control of nerves and muscles. The gastrocnemius muscle and sciatic nerve were isolated from the frog’s leg, each frog leg acted as its own treatment and control group, and once the threshold for leg was obtain the gastrocnemius muscle was injected with a sodium channel blocker, lidocaine, and the threshold was obtained for that part as well. We predicted that the leg which was injected with lidocaine would require more stimulus to reach threshold and thus result in a muscle contraction. Our hypothesis was supported, the obtained p-value concluded that there was a significant difference in the means of the control and treatment groups. 
+
+
+Introduction:
+The Rana pipiens, also known as the Northern Leopard frog, which belongs to the Order Anura is a fairly large species of frog which can reach a length of about 11 centimeters. In this experiment the gastrocnemius muscle and sciatic nerve are isolated from the frog’s leg to aid in determining the effect stimulus impulses have on the neuromuscular control of nerves and muscles. Excitation-contraction coupling is a process through which the nerve fiber stimulates the skeletal muscle fiber causing it to contract as it converts an electrical signal to a mechanical response. In excitation-contraction coupling the action potentials travel along an axon with a nerve and arrive at the neuromuscular junction in which they cause the depolarization of the neuron. The depolarization of the neuron results in the release of acetylcholine (ACh) which then propagates the activation of the voltage-gated sodium channels which produces an action potential in the muscle fiber [Ebashi:1991]. The action potential stimulates the release of calcium which in turn activates the contractile mechanism of the muscle fiber. Electromyograms (EMGs) are used to generate recordings of the electrical changes within a single muscle twitch by connecting the muscle fiber to a force transducer. A muscle fiber will not respond to any stimulus impulse that is below threshold, however, the stimulus impulse that is above threshold will result in the contraction of the muscle. The threshold is considered the level of stimulation which triggers a contraction in the muscle which results from the excitation of the muscle fiber. The process of excitation-contraction coupling shows a dependence on sodium to stimulate the excitability of the neuron which sends the electrical signal for the muscles to contract. Which is why we predict that if frog leg, specifically the gastrocnemius muscle, is injected with lidocaine, a sodium channel blocker, there will be an increase in the stimulus impulses needed to reach threshold. 
+
+
+Materials and Methods:
+Obtain two frog legs, each which will act as its own treatment and control group. Remove the skin of the leg. There are two portions to the leg, the dorsal side which is smooth and the ventral side which includes a cleft. Open the thigh through the ventral side by pulling on each side of the cleft. Expose the inside of the thigh and identify the sciatic nerve and pull it away slightly; do not use any metal objects when dealing with the nerve because it will injure it. Detach the gastrocnemius muscle at the achilles tendon. Tie a loop of string at the junction of the achilles tendon and the gastrocnemius muscle allowing for the loop to be long enough for the muscle to be suspended. Suspend the gastrocnemius muscle at ninety degrees to the tray, use pins as need to immobilize the frog leg. Hook the gastrocnemius muscle to a force transducer by hooking the loop to the hook on the stand make sure to adjust the precision tensioner so that there is a bit of tension in the muscle. Obtain a sleeve probe, and place the nerve on top of the bipolar stimulation. Connect the sleeve probe to the electromyograms reader, launch iWorks which is the program on your laptop which will display the myograms. Record the amount of voltage needed to stimulate the muscle to contact, its threshold. Inject the gastrocnemius muscle with 25 mM lidocaine and record the stimulus impulse need for the muscle to contract. 
+
+
+Results:
+A threshold was not obtained for the control group of the first frog leg there was as well no noticeable decrease in the treatment threshold for the leg. The second frog leg proceeded to stop responded to the electrical impulses which means that we were unable to retrieve the necessary data, which is why we received the data from other groups which were conducting the same experiment. 
+Figure 1 illustrates the averages for both the control group (0.1684625 volts) and the treatment group (0.40599625 volts) which shows how greatly the two groups differed in that nearly four times the stimulus impulses for the control group was needed for the treatment group. The bar graph also includes the error bars which represent the uncertainty of the points which are in the form of standard deviation for the control group (0.11660494) and the treatment group (0.2079589).
+
+T-value: 4.777597 
+Degrees of freedom: 8
+P-value: 0.001005
+
+
+Discussion:
+Our hypothesis was supported, the treatment group which was injected with lidocaine, a sodium channel channel blocker, showed an increase in the stimulus impulses needed for the the threshold to be met which would in turn trigger the muscle to contract. We calculated a p-value of 0.001005 which rejects that there is no difference between the means, concluding that a significant difference does exist. The importance of voltage-gated sodium channels stands in that they generate and propagate the action potentials in the excitable tissue. Which means that the activation of the channels initiate the action potentials which result in the muscle contracting [Chahine: 2013]. We believe the sodium channel blocker would inhibit the sodium influx into the neuron cell meaning that more stimulus impulses would be need to open the voltage gated sodium channels, specifically because they are voltage-gated. The control group experienced an average voltage of 0.1684625 to obtain threshold while the treatment group needed 0.40599625 volts to reach threshold to cause a contraction illustrating that much more stimulus is needed to excite the muscle (Figure 1). It is because the legs saw an increase in the stimulus needed for muscle contraction that our hypothesis was supported; meaning that sodium plays an important role in muscle contractions and with its inhibition more stimulus would be required to create a contraction. 
+
+Literature Cited:
+Ebashi, S. “Excitation-Contraction Coupling and the Mechanism of Muscle Contraction.” Annual Review of Physiology 53, no. 1 (1991): 1–17. https://doi.org/10.1146/annurev.ph.53.030191.000245.
+
+Chahine, Mohamed, and Jean-François Desaphy. Recent Advances in Voltage-Gated Sodium Channels, Their Pharmacology and Related Diseases. Frontiers E-books, (May 2013), n.d.
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-27+at+3.57.41+PM.png&Size=47269&Type=image%2Fpng&F=F_306HSv0bSxi6XOF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The comparison in stimulus impulses required to reach threshold in frog leg before and after the injection of lidocaine into the gastrocnemius. The trend observed was that the stimulus impulses needed to reach threshold increased when comparing the control group to the treatment group. The values depicted were statistically different (T-value= 4.777597, degrees of freedom= 8, p-value= 0.001005). The error bars in the figure represent one unit of standard deviation. 
+
+*************************************************************************

@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-30 12:18:43
+Author of this lab report is: Std_QY9wVd0X
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The Effect of Acetylcholine-Esterase Inhibitor on Maximum Muscle Contraction of the Gastrocnemius Muscle of a Rana pipiens 
+
+Abstract:
+The main objective of this study was to analyze the effect of Acetylcholine-esterase inhibitor on the maximum muscle contractions of the gastrocnemius muscle of the Rana pipiens. We performed experiments using the LabScribe software and a force transducer machine.  Our hypothesis was that if ACh-esterase inhibitor is injected into the gastrocnemius muscle of the Rana pipiens, then maximum muscle contractions will have a higher contractile force amplitude than the contractions on the muscle before ACh-esterase inhibitor was injected.  We could not conclude, soundly, anything from our data.  We injected Sevin (ACh-esterase inhibitor) into the gastrocnemius muscle after doing a control run of the muscle contractions in order to attempt to see a significant change in contraction.  In our results legs 1 and 2 had a higher maximum contraction average before treatment than after treatment of the ACh-esterase inhibitor and leg 3 had a higher maximum contraction average after treatment than before treatment of the ACh-esterase inhibitor.  Leg 1 and 3 were significant but in opposite directions. The P-values for leg 1, leg 2, and leg 3 were 0.006396, 0.06429, and 0.000104 respectively. 
+
+
+Introduction:
+The organism that is being studied is Rana pipiens and focus is on the sciatic nerve and gastrocnemius muscle contractions.  The common name for the Rana pipiens is the frog. In general, muscle contractions occur when nerve impulses caused by external stimuli arrive at the neuromuscular junction.  Acetylcholine is released into the synaptic cleft and binds to the receptor sites on the post-synaptic membrane which results in a local depolarization because of the entrance of sodium into the cell.  The result is an action potential which moves its way through the rest of the muscle fiber and causes the sarcoplasmic reticulum to release calcium, resulting in the contraction of the muscle.  Acetylcholine is left in the synaptic cleft after an action potential and it is the job of an enzyme, called Acetylcholine-Esterase (ACh-Esterase), tombreak up the excess Acetylcholine left over in the cleft after an action potential has propagated.  In our experiment, we used ACh-Esterase inhibitors which hinder the effect of ACh-esterase and allow extra Acetylcholine to remain in the synaptic cleft.  For example, in an outside experiment when ACh-Esterase inhibitors effect the Sartorius muscle of the Rana pipiens it caused extra acetylcholine in the synaptic left to be leftover and allowed more action potentials to occur than under normal circumstances [Katz and Miledi: 1975] Given the evidence shown by the studies of Katz and Melidi, we hypothesized that if ACh-esterase inhibitor is injected into the gastrocnemius muscle of the frog, then maximum muscle contractions will have a higher peak contractile force amplitude than the contractions on the muscle before ACh-esterase inhibitor was injected.  We need to know the effects of ACh-esterase more clearly in order to hypothesize this confidently. We expect to see a higher average maximum threshold amplitude in the muscle when it is treated with ACh-esterase inhibitor than the muscle that is not treated. ACh-esterase (acetylcholinesterase) breaks down the excess ACh left in the neuromuscular junction after an action potential is fired. [Sadava, Hillis, Heller, and Hacker: 2016] We predict that the ACh-esterase inhibitor will cause the maximum contractions to be larger because of the excess ACh in the neuromuscular junction.  
+
+
+Materials and Methods:
+We started by de-gloving and preparing 3 Rana pipiens legs, which were cultivated in a sterile, lab environment, by separating the gastrocnemius muscle and the sciatic nerve. Secure the leg and tie a string around the Achilles tendon, looping it around the transducer. Attach the sleeve electrode to the sciatic nerve and connect and download the LabScribe software on the computer to record and visualize data. Then find the maximum contraction of the gastrocnemius muscle at 1 pulse, 0.5Hz, with a stimulus duration of 5ms.  Record max contraction at 5 pulses with the other same parameters.  Let the muscle rest for 1 minute then inject the 0.2mL of 1.2mL of 2% solution of Sevin into the muscle and find a new maximum muscle contraction at 1 pulse, 0.5Hz, with a stimulus duration of 5ms.  Record the maximum contraction at 5 pulses, 0.5Hz, stimulus duration 5ms.  Record the voltage amplitude of all 5 pulses at the maximum contraction.  Continue these steps for frog leg 2 and 3.  Use a paired t-test to find, if any, some significance in data, by comparing the control and experimental group of each of the 3 frog legs. 
+
+
+Results:
+The average and standard deviation for the control group in Leg 1 was 1.2438 V and 0.032237 and the average and standard deviation for the treatment group in Leg 1 was 1.113 V and 0.08648.  For Leg 2, the average and standard deviation for the control group was 1.7128 and 0.00286 and for the treatment group the average and standard deviation was 1.7098 and 0.00409.  For Leg 3, the average and standard deviation for the control group was 1.4356 V and 0.00555 and for the treatment group the average and standard deviation were 1.4722 and 0.0080.  These standard deviation values explain why the error bars for leg 1 are much smaller than the other legs, which means there was less deviation from the mean, and therefore, less deviation in amplitude of maximum contractions.  In legs 2 and 3 the error bars are larger which signifies the deviation from the mean of maximum contractions was much larger.  The P-values for 1 and 3 are both significant at 0.006396 and 0.000104, respectively, because they are lower than 0.05, but the P-value for leg 2 is not significant at 0.06429.  For leg 1 and 2 the general trend is that the average for amplitude of the maximum contractions is greater before injection of the treatment, but for frog leg 3 the trend breaks and the average for amplitude of maximum contractions is lower before injection of the treatment.  
+
+
+Discussion:
+Our data does not support our hypothesis because 2 out of the 3 legs had significance but they were significant in different directions (negative for leg 1 and positive for leg 3) so we cannot conclude anything from that in terms of our hypothesis.  We hypothesized that the ACh-esterase inhibitor would leave more ACh after muscle contractions causing a higher maximum muscle contraction to occur than on normal terms, but we do not have evidence to prove this. An explanation for what might have occurred can be explained in a different experiment. In a different experiment done by Ariens, Meeter, Wolthius, and Benthem, when rats were injected with Diisopropyl Flourophosphate (DFP), an inhibitor of Acetylcholine-esterase, it was shown that they had lost almost all ability to continue a muscle contraction that was easily sustained before injection.  Because of the DFP, there was a larger amount of ACh in the end-plate of the rat muscles which resulted in less ability to contract [Ariens, Meeter, Wolthius and Benthem: 1269].  This is evidence for why leg 1 and 2 had lower average amplitudes at maximum contraction after ACh-esterase inhibitor was injected.  A reason for why leg 3 could had a lower average maximum amplitude of contractions could have been because of our limitations.  Some limitations to this study could have been the small sample size.  With more tests run we would be able to study more legs and have a higher percentage of outcomes that look like leg 1 and 2, with a higher maximum contraction in the control.  Also, when injecting the Sevin solution (ACh-esterase inhibitor) into the gastrocnemius muscle we observed that some of the liquid leaked out of the muscle upon injection, as if there was not enough space in the muscle for all of the liquid to be absorbed.  This could have explained why frog leg 3 had a higher maximum contraction after injection, possibly because not all of the solution was absorbed by the muscle and therefor there was not much excess ACh in the neuromuscular junction.   We cannot confidently conclude anything from our data but we can infer that there is a possibility that the presence of ACh-esterase inhibitor results in an excess ACh in the neuromuscular junction which causes the muscle to have less ability to contract [Ariens, Meeter, Wolthius and Benthem: 1269].   For a future experiment, we should have a much higher sample size in order to get more accurate results from our data and test a new hypothesis that if the gastrocnemius muscle of the Rana pipiens is injected with ACh-esterase inhibitor, it could result in a lower ability for the muscle to contract. 
+
+
+Literature Cited:
+Ariens, A. T., Meeter, E., Wolthuis, O. L., & Van Benthem, R. M. J. (1969). Reversible necrosis at 	the end-plate region in striated muscles of the rat poisoned with cholinesterase 	inhibitors. Cellular and Molecular Life Sciences, 25(1), 57-59.
+
+Katz, B., & Miledi, R. (1975). The nature of the prolonged endplate depolarization in anti-	esterase treated muscle. Proceedings of the Royal Society of London B: Biological 	Sciences, 192(1106), 27-38. 
+
+Sadava, D., Hillis, D., Heller, H., Hacker, S. (2016) Life. The Science of Biology, 951.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+leg+1.0.png&Size=23104&Type=image%2Fpng&F=F_2ldXBxbyy6fqY3b
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+leg+2.0+.png&Size=21510&Type=image%2Fpng&F=F_031si4B7E7dnFhr
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+leg+3.0+.png&Size=23878&Type=image%2Fpng&F=F_eaiaVbBs3XM0097
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This is the average amplitude in Volts of the 5 maximum contractions pre and post injection of the ACh-esterase inhibitor for leg 1 of the Rana pipiens. The standard deviation for the control and treatment groups are 0.032237 and 0.08648 and they represent the variability of the data and are shown by the error bar .  The P-value for Leg 1 was 0.006396. 
+
+Figure 2: This is the average amplitude in Volts of the 5 maximum contractions pre and post injection of the ACh-esterase inhibitor for leg 2 of the Rana pipiens. The standard deviation for the control and treatment groups are 0.00286 and 0.00409 and they represent the variability of the data and are shown by the error bars.  The P-value for Leg 2 was 0.06429. 
+
+Figure 3: This is the average amplitude in Volts of the 5 maximum contractions pre and post injection of the ACh-esterase inhibitor for leg 3 of the Rana pipiens. The standard deviation for the control and treatment groups are 0.00555 and 0.00804 and they represent the variability of the data and are shown by the error bars.  The P-value for Leg 3 was 0.000104. 
+
+
+
+*************************************************************************

@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-01 23:13:45
+Author of this lab report is: Std_G0AIged8
+ID: R_3G1xe7Pl5ufy7Jj
+Course number: BIO103L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Agonistic Behavior Between Male Betta splendens of the Same Color and Different Colors
+
+Abstract:
+Betta splendens display a range of intraspecific agonistic behaviors in male:male interactions. This experiment focuses on the impact of color on the interactions of male Bettas; specifically, we question whether aggression differs in interactions between fish of the same color and fish of differing colors. We chose to analyze the effect of pigmentation because it has been observed that Bettas have the ability to discriminate based on color, and in other species of fish, it has been determined that color may be a behavioral strategy. The duration of the display of red mane (the protrusion of the branchiostegal membrane) was used to quantify the aggressive behaviors of individual Bettas. The tested hypothesis was that the duration of the red mane display would be higher in interactions between different colored fish than between fish of the same color. After four timed interactions between two red and two blue Bettas, our data did not support the initial hypothesis. The results demonstrate that there is no significant difference in length of red mane display based on color; however, it is possible that the tendencies of individual fish could have skewed our results, and that selection of fish with similar levels of aggression could yield more accurate results. 
+
+Introduction:
+This experiment focuses on the intraspecific agonistic behaviors of male Betta splendens (Bettas), a species also referred to as Siamese fighting fish, which originated in southeast Asia and have since then become common aquarium fishes. In the wild, male Bettas are a dull gray/green color, and their color shifts to a bright red or blue upon the arrival of another male. Domestic Bettas have been selectively bred to maintain their fighting colors at all times. In the presence of another male, these fish will also display a range of agonistic behaviors, categorized as either broadside or facing movements [Johnson: 2018]. Broadside movements are exhibited as the fish has turned its side towards the other male, and are distinguished by pelvic fin flickering, tail beating, and tail flashing. Facing movements are characterized by a male Betta facing the approaching male with its pectoral fins erect, and as aggressiveness increases, spreading his opercula, and finally (most aggressive), the male will protrude its branchiostegal membranes, creating what is referred to as a red mane [Johnson: 2018].  Our experiment focuses on the question of whether aggression differs between male Bettas of the same color and Bettas of different colors. We chose to focus on color differentiation in displays of aggression because there is existing color variability within the species when displaying “fighting colors,” red and blue morphs, and it has been demonstrated in past experiments that Bettas can comprehend differences in color [Thompson: 1965]. Additionally, in the same study, data suggested that male Betta’s coloration was an important aspect in determining operant reinforcement strength, and that responses by male fish responded most to reinforcer coloration when the color was different from its own [Thompson: 1965].  The duration of red mane displayed during the interactions between fish will be used to quantify the aggression. My hypothesis was that the amount of time the red mane is displayed will be higher in interactions between different colored Betta splendens than between fish of the same color.
+
+Materials and Methods:
+Two red Bettas and two blue Bettas were used in this experiment; they were referred to as R1, R2, B1, and B2 to avoid confusion and to organize fish pairing. In order to prevent habituation and to ensure the fish had enough rest before and between interactions, an opaque wall was left between them during a five minute resting period in which activities were not being observed. The first activity we observed was the interaction between R1 and R2. As a precaution against the males physically attacking and injuring each other, a clear glass wall was left between them even after removing the opaque wall. We set a timer to five minutes when the interaction began, and started it as soon as the visual barrier was removed. One person timed the total amount of time red mane was displayed by R1 while another person timed the total amount of time red mane was displayed by R2. The total time was quantified by starting the timer as soon as the fish began displaying red mane, pausing when the display stopped, and restarting as soon as it began again for the duration of the five minutes. At the end of the interaction, the visual barrier was replaced, and the Bettas were left to rest for another five minutes. This process was repeated for the interactions between B1 and B2, R1 and B1, and R2 and B2, and the corresponding data was recorded. A paired two-sample t-test was used to determine if there was a significant difference in red mane display for same color male Betta interactions compared to different color interactions. 
+
+Results:
+Our results showed that the average duration of red mane display between dish of the same color was not significantly different than between fish of different colors; the average duration of red mane for fish of the same color was 85.865 +/- 91.901. The average duration for different colored fish was 96.705 +/- 36.821 (Fig 1). A paired two sample t-test was used to analyze our results, which were not significant at the 0.05 level (t-value=0.2189, df=6, p-value=0.417).
+
+
+Discussion:
+The hypothesis that the duration of red mane displayed would be greater in interactions between different colored male Betta splendens compared to interactions between Bettas of the same color was not supported by our results. I expected there to be a difference in behavioral response to color due to existing data supporting the fact that Bettas can differentiate between color, and that coloration is an important variable in determining operant reinforcement strength [Thompson: 1965]. Additionally, it has been observed in male cichlid Astatotilapia burtoni that body pigment may be a behavioral strategy [Korzan: 2008]. These male fish can switch between colors, some of which (blue and yellow morphs) signal more territoriality than others. Due to individual ability to change color morph, this study focused on the influence of pigment on behavior, and found that when observing interactions between yellow and blue fish, yellow males showed dominance over blue males significantly more frequently [Korzan: 2008]. These results prompted the hypothesis that pigmentation could impact male Betta’s interactions as well. 
+Although our results suggest that color has no impact on intraspecific agonistic behaviors in Betta fish, it is possible that varying levels of aggression in individual fish skewed our results. The blue fish we used displayed very little aggression during their interaction, and one individual (B1) was mostly unresponsive to the presence of another male, regardless of color. It is also possible that the presence of a female during the interactions could impact the degree of aggression displayed; it has been discovered through experimentation that both female presence and the availability of females to competing males can bias agonistic behaviors in male-male interactions [Polgardani, 2017]. Improvements to this experiment could include selecting individuals with similar levels of aggression, so as to avoid issues of nonresponse demonstrated by B1. These fish could be tested beforehand to determine aggression levels, and then given time to rest before experimentation. 
+
+Literature Cited:
+1. Johnson AD. Ecology and Evolution. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 18.2 (Updated Aug 3, 2018), pp. 48-49.
+2. Thompson T, Sturm T. 1965. Visual-reinforcer color, and operant behavior in siamese fighting fish. Journal of the Experimental Analysis of Behavior. 8: 341-344.
+3. Korzan WJ, Robison RR, Zhao S, Fernald RD. 2008. Color change as a potential behavioral strategy. Hormones and Behavior. 54: 463-470.
+4. Polgardini NZ, Rouzbehani S, Parsaiyan M. 2017. Male siamese fighting fish (Betta splendens) recognize resource holding power of opponents. Aquaculture, Aquarium, Conservation & Legislation. 10: 977-982.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure1.jpg&Size=15548&Type=image%2Fjpeg&F=F_2wiZPDfl5uyUiru
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Duration of displays in red mane in male:male Betta splendens interactions of the same and different colors. Error bars represent +/- standard deviation. T-test results showed no significant difference in display duration between the two groups. 
+*************************************************************************
+
+
+

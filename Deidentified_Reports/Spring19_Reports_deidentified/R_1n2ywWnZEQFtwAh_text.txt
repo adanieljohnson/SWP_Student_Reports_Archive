@@ -1,0 +1,105 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-12 11:11:11
+Author of this lab report is: Std_tpBTbsEj
+ID: R_1n2ywWnZEQFtwAh
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of the Addition Methoprene in the Diet of Manduca Sexta Development and Pupation
+
+Abstract:
+In this experiment, exposure to PreCor, which contains the active ingredient, methoprene, a Juvenile Hormone (JH) analogue, was used to study its effects on the growth and development of Manduca Sexta caterpillars with abnormal JH levels. An experimental group of caterpillars was given food containing methoprene, a JH analogue, and another control group was given regular caterpillar food. The quantitative growth and qualitative development of these eight caterpillars were monitored over a 14-day period. The group’s hypothesis states that the caterpillars that consumed the food containing methoprene would never reach pupation, but would continue to grow in size and weight, while the caterpillars in the control group would develop naturally and pupate. The independent variable of the experiment was the type of food consumed by the caterpillars (methoprene-containing or regular food), and the dependent variable was the growth and development of the caterpillars. After the experiment concluded, the hypothesis was accepted and supported by significant results of a two-sample t-test. These findings could prove beneficial to agriculture industries, and more specifically pest control. If JH levels can be manipulated in the manduca sexta and other similar species of pests.
+
+Introduction:
+The Manduca Sexta caterpillar, also known as the tobacco hornworm, is from the class Insecta, order Lepidoptera, family Sphingidae, genus Manduca, and species Sexta. The Manduca Sexta caterpillars have a holometabolous life cycle, meaning they undergo metamorphosis after completing their larval stages, and before developing into an adult moth [Johnson: 2016]. The development of the caterpillars is primarily dictated by two hormones:
+-	Ecdysterone (20E), which regulates the timing of molting during insect development and is produced by the prothoracic glands located in the head and thorax.
+-	Juvenile Hormone (JH), which regulates the type of molt developed during insect development and is produced by a pair of glands called the corpus Allata, located on each side of the foregut.
+These caterpillars go through five developmental stages called “instars” before metamorphizing and becoming an adult moth. Each instar is separated by a different type of molt. Toward the end of the fourth instar, the caterpillars experience a slight drop in JH levels and a temporary rise in 20E hormone levels (depicted in figure 8 (page 12) of the lab manual), known as the “commitment pulse,” initiating the final stage of molting before developing into an adult. [Johnson: 2016]
+ 
+
+	The group wanted to determine what would happen if the JH hormones were increased to levels that made the commencement pulse impossible, as a commitment pulse requires a sufficient decrease in JH levels in order to initiate metamorphosis and become a pupa. The group also wanted to understand the continuation of caterpillar growth and development if the commencement pulse were inhibited, and how the use of IGRs to manipulate hormone levels may be applicable to pest control methods in the agriculture industry.
+
+
+Materials and Methods:
+The group selected eight healthy Manduca Sexta caterpillars and separated them into two groups. The experimental group was given ten grams caterpillar food mixed with five drops methoprene, a JH analog [ZOECON: 2019], while the control group was given regular caterpillar food mixed with water. The two groups were placed in plastic containers with four labeled cubbies in order to keep track of each individual caterpillar’s development. These cubbies were also ventilated to ensure proper air circulation. The group measured the caterpillar growth, fed, and cleaned the cubbies daily for fourteen days. Throughout the fourteen-day period, the group used caterpillar weight as the measured variable of growth, and also documented qualitative data of caterpillar development. 
+After the data was collected, the group used a two-sample T-test to compare growth and development between the experimental and control groups. The categorical variable of the two-sample t-test was whether the caterpillars were given the food containing precure (methoprene) or the regular caterpillar food with water. The group also used a one-tailed p-value to determine the significance of the results.
+
+
+Results:
+ 
+Figure 1: Average growth, in grams, of the two caterpillar groups over the course of the experiment
+-	Control group average growth: 5.625 +/- 2.13448667 grams
+-	Experimental group average growth: 8.47 +/- 1.13 grams
+
+ 
+Figure 2: Scatterplot diagram displaying experimental group caterpillar growth over 14 days (outlier not included)
+ 
+Figure 3: Scatterplot diagram displaying control group caterpillar growth over 14 days 
+
+The mean growth of the caterpillars in the control group was 5.625 +/- 2.13448667 grams, the mean of the experimental group was 8.47 +/- 1.13 grams (depicted in Figure 1). The standard deviation for these respective mean values was +/- 2.13448667 for the control group and +/- 1.13 for the experimental group. The group used a two-sample t-test to analyze the results collected.
+The mean of the change in growth proved to be statically significant between the two groups (t-stat: 2.06608, dF= 5, P= 0.046853). Qualitative results include:
+-	Control caterpillars 1, 2, and 4 successfully pupated by the end of the experiment (control caterpillar #4 day 10, #2 on day 12, #1 on day 13).
+-	By day 3, caterpillar 3 of the treatment group lost coloring and had been losing weight since day one; it fully pupated by day 5.
+-	Three of the four caterpillars in the experimental group did not pupate, with the exception of caterpillar number 3, which began pupating within the first 48 hours.
+The lack of progression into pupal stages in the experimental group was easily identified, as these caterpillars continued to grow in length and weight without losing coloring or the formation of black stripes [Riddiford: 2003].
+
+
+Discussion:
+The results of the experiment proved significant according to the p-value calculation (one-tailed p-value = 0.046853, P-value &lt; 0.05 is considered significant), supporting the group’s hypothesis that the exposure to PreCor would prevent pupation while allowing continued growth. It is also worth noting that the mean change in weight of the caterpillars in the experimental group was significantly greater than that of the control group, as the group’s hypothesis predicted. The group concluded that this change in weight was attributable to the fact that ¾ of the caterpillars in the control group began pupating by day eight, signaling an end to growth in weight in the larval stage as they began losing weight during pupation [Riddiford: 2003]. The caterpillar in the experimental group that pupated was treated as an outlier and was not included when calculating the p-value. Three caterpillars in the control group successfully pupated, as their normal JH levels allowed for a spike in 20E initiating the commencement pulse [Safranek: 1980]. 
+There were no significant errors in this experiment with the exception of the caterpillar in the experimental group that pupated, which was treated as an outlier. Through qualitative observation, the group reasoned that the caterpillar that pupated in the experimental did not consume enough PreCor to mask the spike in 20E and experience a commitment pulse or any of its developmental effects. The group treated this caterpillar’s pupation as an outlier and excluded its data from the calculations.
+Use of PreCor as an IGR could have short term negative effects, as the chemical mimics the effects of JH, encouraging consumption behaviors that provide adequate nutrients for the caterpillar’s development into an adult moth. Long term, this could inhibit the Manduca Sexta’s ability to reproduce, which could result in an overall decrease in the Manduca Sexta population and prevent them from becoming a significant threat to crops.
+
+
+Literature Cited:
+1.	ZOECON. “Precor® IGR Concentrate.” Accessed Febuary 12, 2019. Precor IGR
+Concentrate | Insect Growth Regulator, ZOECON, 2019,
+www.zoecon.com/products/igrs/precor-igr-concentrate.
+
+2.	Johnson AD. Cell Structure. Biological Principals Laboratory Manual. Dept. Biology,
+Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016)
+
+3.	Riddiford, Lynn M., and Alfred M. Ajami. “Juvenile Hormone: Its Assay and Effects on
+Pupae of Manduca Sexta.” Accessed Febuary 12, 2019. NeuroImage Alfred M.Ajami,
+Academic Press, 30 Sept. 2003, www.sciencedirect.com/science/article/pii/0022191073901479.
+
+4.	Safranek, Louis, et al. “EFFECTS OF JUVENILE HORMONE ON ECDYSONE-
+DEPENDENT DEVELOPMENT IN THE TOBACCO HORNWORM, MANDUCA
+SEXTA.” Accessed Febuary 12, 2019. American Journal of Education, The Biological
+Bulletin 158, Apr. 1980, www.journals.uchicago.edu/doi/abs/10.2307/1540934.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-12+at+11.08.56+AM.png&Size=132781&Type=image%2Fpng&F=F_2zo6So9d4pKc9vE
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-12+at+11.09.05+AM.png&Size=167601&Type=image%2Fpng&F=F_3q9ceGlIpsnli0N
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-12+at+11.09.27+AM.png&Size=131242&Type=image%2Fpng&F=F_2CrDs6oZYqAW4To
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average growth, in grams, of the two caterpillar groups over the course of the experiment
+-	Control group average growth: 5.625 +/- 2.13448667 grams
+-	Experimental group average growth: 8.47 +/- 1.13 grams
+Figure 2: Scatterplot diagram displaying experimental group caterpillar growth over 14 days (outlier not included)
+Figure 3: Scatterplot diagram displaying control group caterpillar growth over 14 days 
+*************************************************************************
+
+
+

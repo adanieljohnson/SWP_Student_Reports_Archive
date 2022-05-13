@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-25 18:54:37
+Author of this lab report is: Std_lOONUewi
+ID: R_1OWiAT6R7DYBvq7
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of Tubocurarine on Muscle Activities of Frogs
+
+Abstract:
+Acetylcholine functions as a neurotransmitter as it diffuses across synaptic cleft and binds to receptors, spreading depolarization into the muscle fiber. In this lab, we examined the effects of tubocurarine which is widely known as an antagonist of acetylcholine. To do this, we recorded the amplitudes of muscle contractions of gastrocnemius muscles on Rana Pipiens before injection of tubocurarine and after injection of tubocurarine. The hypothesis was that the injection will decrease the amplitudes of muscle contractions, and we used paired t-tests. Our results show that two out of three samples supported the hypothesis with the p-value of 0.0054 and 0.0039, but one sample refuted the hypothesis with the p-value of 0.3739. Results of two samples are because tubocurarine blocks the receptors of acetylcholine on post-synaptic site. The other sample that refuted the hypothesis may have resulted because tubocurarine was not in full effect yet.   
+
+Introduction:
+Skeletal muscles consist of myofibers which form skeletal muscles proper. They are innervated by motor neurons, and the axons of motor neurons extend into a muscle then branch out to innervate several individual myofibers at neuromuscular junctions. Muscle contractions begin with nerve impulses. When an action potential arrives at a neuromuscular junction, the acetylcholine is released and diffuses across the synaptic cleft, binds to receptors, and spreads depolarization. When the action potential reaches the sarcoplasmic reticulum, DHP receptor detaches, releasing Ca2+ which stimulates muscle contraction by binding to troponin and exposing myosin-binding sites on the actin filaments. 
+	This process of muscle contraction is experimented with Northern Leopard Frog, also known as Rana Pipiens. The action of tubocurarine on the neuromuscular junction is the classical examples of competitive antagonism [Dreyer, 247]. Tubocurarine competes with acetylcholine for its receptors on the post-synaptic membrane, thus prevents acetylcholine by binding to its receptors to spread depolarization. Dreyer’s study also found out that tubocurarine has a competitive blocking action, with a strongly voltage-dependent block of open ion channels [Dreyer, 279]. 
+	The purpose of this lab is to see the effects of tubocurarine on the amplitude of muscle contractions. My hypothesis is that the injection of tubocurarine on gastrocnemius muscle will decrease the amplitude of muscle contractions. 
+
+
+Materials and Methods:
+The experiment was performed on the gastrocnemius muscle of Rana Pipiens. 3 frog legs were selected; sciatic nerve and gastrocnemius muscle was isolated from other parts of the legs. The muscle and the nerve were moisturized with Ringer solution. We set up the stimulus parameters as followed: pulse amplitude to 0.5V, number of pulses to 5, frequency to 1, and pulse width to 5ms. We tied a muscle with thread, hung it to force transducer, and pin other muscles to dissect pan. We placed two probes – one on the end of sciatic nerve and one on the other end of the nerve.  
+	For each frog leg, we started without injection – stimulated the muscle with 0.5V (with exception of frog leg #3 which is stimulated with 0.7V) and recorded 5 contractions. After recording them, we injected 0.2mL of 1mM tubocurarine to the muscle, stimulated, and recorded. We conducted paired t-test to determine if injection of tubocurarine made significant differences in amplitude of muscle contractions for each sample. 
+
+
+Results:
+The frog legs treated with tubocurarine had lower amplitude than those that are not treated with tubocurarine. The control group had the average of 0.005 V for muscle contractions with the standard deviation of 0.0047, but the treatment group had the average of 0.0034 V with the standard deviation of 0.003. Figure 1 shows that the treatment group had lower amplitude for all three samples. I run paired t-test for each sample. For the sample #1, the t value was 5.4880 and the p value was 0.0054 which is considered to be very statistically significant. The sample #2 had the t-value of 1 and the p-value of 0.3739 which is considered not to be statistically significant. The sample #3 had the t-value of 6 and the p-value of 0.0039 which is considered to be very statistically significant. 
+
+Discussion:
+The results somehow supported the hypothesis that injection of tubocurarine lowers the amplitude of muscle contractions. The sample #1 and #3 had very small p-value which indicates that the difference is statically significant, but the sample #2 did not have small p-value. Based on the sample #1 and #3, the tubocurarine successfully blocked the Ach receptors in the post-synaptic membrane that weakened the strength of muscle contractions. It weakens the strength muscle contractions because when tubocurarine blocks the Ach receptors, the Acetylcholine-gated ion channels won’t be opened to generate action potentials. The study done by Matzner and Parnas also found out that tubocurarine not only acts as an antagonist to block the Ach receptors, it also affects the synaptic delay of both action potential and direct depolarization which suggest that tubocurarine inhibits release of neurotransmitter [Matzner, Parnas, 119]. While it is questionable if tubocurarine interrupts action potentials by inhibiting the release of acetylcholine, the study of Chang confirmed that tubocurarine appeared not to reduce the Ach release at any frequency of stimulation [Chang, 512]. My results therefore support that tubocurarine blocks the Ach receptors at post-synaptic site, thus resulting in reduced amplitudes of muscle contractions when stimulated with electricity.  	
+
+Literature Cited:
+1. Chang, C. C., et al. “DOES d-TUBOCURARINE INHIBIT THE RELEASE OF ACETYLCHOLINE FROM MOTOR NERVE ENDINGS?” The Japanese Journal of Physiology, vol. 17, no. 5, 1967, pp. 505–515.
+	2. Colquhoun, D, et al. “The Actions of Tubocurarine at the Frog Neuromuscular Junction.” The Journal of Physiology, vol. 293, no. 1, Jan. 1979, pp. 247–284.
+	3. Matzner, H, et al. “Presynaptic Effects of d-Tubocurarine on Neurotransmitter Release at the Neuromuscular Junction of the Frog.” The Journal of Physiology, vol. 398, no. 1, Jan. 1988, pp. 109–121.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-25+at+5.41.39+PM.png&Size=39857&Type=image%2Fpng&F=F_3HGEYZ6rBwpD1B0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Frog leg samples v. the average of amplitude before injection and after injection. The red bar represents before injection of tubocurarine and the blue bar represents after injection of tubocurarine. The error bars represent +/- one standard deviation. Paired t-test results showed sample #1 and #3 have statistically significant difference in amplitudes of muscle contractions, however sample #2 do not have statistically significant difference in amplitudes of muscle contractions. 
+
+*************************************************************************

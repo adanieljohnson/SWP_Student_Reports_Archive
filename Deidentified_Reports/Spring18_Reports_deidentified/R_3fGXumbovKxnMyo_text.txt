@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 23:55:57
+Author of this lab report is: Std_MSjQiSje
+ID: R_3fGXumbovKxnMyo
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Lidocaine increases (Rana pipiens) legs nerve/muscle thresholds
+
+Abstract:
+In all muscles, there are neuromuscular junctions connecting the muscle fibers to other inter neurons. (Rana pipiens) (frog legs) have these neuromuscular junctions, and when stimulated with electricity the muscle will contract. Contractions happen when action potentials travel down the T-tubules to initiate the release of Calcium, from the sarcoplasmic reticulum when depolarized by sodium. However, when lidocaine (a sodium channel blocker) is applied to the frog legs, the thresholds (or the amplitude needed to elicit a response) increases. It was determined that the data was statistically significant and the lidocaine did have an effect on the thresholds of the frog legs nerve/muscle. This experiment is important for showing the powerful effects drugs can have on our muscles and the rest of our bodies through the neuromuscular junctions.
+
+
+Introduction:
+In the somatic neuromuscular system, skeletal muscle is made up muscle fibers which each contain their own neuromuscular junction. At the neuromuscular junction, muscles can be stimulated to contract from the action potentials received from the motor units. The action potentials are initiated from the release of acetylcholine at the synaptic cleft, opening the sodium channels to send the action potential down the T-tubule. The T-tubule then deforms a protein holding in Calcium ions in the sarcoplasmic reticulum which releases the Calcium to elicit a muscle contraction [Conner: 2018]. If the sodium channels were not open, the action potential would not be able to get to the T-tubule and therefore initiate a response. In this experiment, (Rana pipiens) frog legs will be used to determine the threshold of the muscle with and without certain drugs. When completing this experiment, the question of what affects the threshold of the muscle contraction is being answered. For this specific group, the independent variable will be the lidocaine treatment. The dependent variable will be the threshold under the lidocaine treatment. Lidocaine interrupts the propagation of the nerve impulses [Song: 2011]. Therefore, it can be expected that the lidocaine will increase the threshold or the amplitude needed to initiate a response. Lidocaine is often used to relieve pain because of its ability to block sodium channels [Estebe: 2017]. By blocking the sodium channels, the lidocaine can stop the pain responses from getting to the brain because of the prevented depolarization. The objective of this experiment was to see the basic properties of neuromuscular control through stimulating a frog leg’s nerve/muscle with and without the use of drugs. The null hypothesis is that the lidocaine treatment will have no effect on the frog leg’s threshold. The alternate hypothesis is that the lidocaine treatment will increase the threshold of the muscle. 
+
+
+Materials and Methods:
+Three (Rana pipiens) frog legs were obtained and placed on a dissection pan. The skin was removed and the gastrocnemius muscle was separated with a dissecting probe. Each leg was pinned to the dissection pan to eliminate movement and the legs were kept moist with Ringers solution. With a string, the gastrocnemius muscle was attached to the force transducer in order to record the response and apply a light load. For the control group, each leg had the threshold determined with only Ringers solution applied. The threshold was determined 3 times before applying 0.2mM of lidocaine to the leg. Each leg had its own control. Once applied, five minutes passed before testing for the threshold three times. When the amplitude and volts of the threshold were determined for each leg for control and the lidocaine, the data was put into the class data. The class data of others who tested lidocaine and control groups were then analyzed with two sample t-test. The p-value derived from this test told the group if the results were statistically significant or not.
+
+
+Results:
+After determining the thresholds for the frog legs with and without lidocaine, this data was then analyzed using a two-sample t-test. The mean of the control group was statistically significantly different than that of the experimental group (t-stat = 2.817, df = 14, P = 0.0137). This means the data was statistically significant and that the difference between the two groups was due to the lidocaine applied to the muscle. Figure 1 displays the class data’s average threshold for the control group and the treatment group. 
+
+
+Discussion:
+The hypothesis was supported by the results of the experiment. It was expected that the treatment group would have a higher threshold than the control group because of the treatment of lidocaine. The p-value for the change in threshold showed that there was a difference between the control and treatment groups and that the difference was due to something other than chance. The difference in thresholds is due to the 0.2mM lidocaine treatment to the frog legs. Since lidocaine blocks sodium channels at the neuromuscular junction and because it has been determined to have inhibitory effects, it makes sense that the thresholds would increase for each of the legs [Hirao: 2017]. This would be because the nerve impulses are blocked by the lidocaine [Song: 2011]. If given the chance to redo the experiment, the myograms on the software would need to be read from two different people to ensure accuracy. This experiment is important for showing the powerful effects drugs can have on our muscles and the rest of our bodies through the neuromuscular junctions.
+
+
+Literature Cited:
+1.	Hirao, R. 2017. Compound action potential inhibition produced by various antidepressants in the frog sciatic nerve. European Journal of Pharmacology. 819: 122-128. 
+2.	Estebe, J. 2017. Intravenous lidocaine. Best Practice & Research Clinical Anaesthesiology. 7: 89-91. 
+3.	Song, W., 2011. Analysis of the action of lidocaine on insect sodium channels. Insect Biochemisty and Molecular Biology. 41: 36-41. 
+4.	Conner, B. 2018. Lecture. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=52033&Type=image%2Fpng&F=F_1E588z08pXs3KCh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph displays the average thresholds for the control and treatment groups. The thresholds for the treatment group significantly increased when adding the lidocaine.
+
+
+*************************************************************************

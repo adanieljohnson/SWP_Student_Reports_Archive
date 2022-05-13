@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 22:15:51
+Author of this lab report is: Std_j8KeApBb
+ID: R_1pT2RS5hUSADzO9
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Effects of Lanthanum Chloride on the Twitch Voltage of the Gastrocnemius Muscle of Lithobates pipiens
+
+Abstract:
+Lithobates pipiens or the leopard frog is a model organism for the sciatic nerve and gastrocnemius muscle in living organisms. We took a look at our hypothesis that the lanthanum chloride would completely stop muscle twitching. Lanthanium chloride is a calcium ion blocker that acts at the neurotransmitter junctions between nerve and muscle. Lanthanum chloride was injected into the gastrocnemius of three frog legs to measured voltages of muscle twitches and to determine the numerical effect of lanthanum chloride. The statistics we found yielded interesting results that rejected our initial hypothesis. It was found that lanthanum chloride reduces voltage in muscle twitches.
+
+Introduction:
+Lanthanum chloride is a chemical compound that blocks Ca2+ channels from releasing their ions that allow for muscle twitches [Boucek: 1976]. A normal frog leg without the lanthanum chloride will, if the leg is in good condition, will react normally to electrical stimulation. Lithobates Pipiens is a small species of frog native to Canada and the United States. They are between five and eleven centimeters and their legs are used as model organisms in muscle twitch simulations. Using electrodes attached to freshly cut frog legs covered in ringer solution, one will be able to use the electrodes to illicit a voltage-related and often physical reaction to various units of amperage. Three frog legs will be taken and tested without the injection of lanthanum chloride and then injected and then tested again. In order to observe the effects of lanthanum chloride on muscle reaction to electrical stimuli, it is predicted that the injection will completely stop the muscle twitch from occurring in the frog legs. Muscle function is medically important in the world. Understanding the why and how of muscles is important as many people lose muscle control and function through various means. In some circumstances, muscles need to be paralyzed to keep them still in operations. Through experiments on something as simple as frog legs, information of value to the scientific community can be gained. In this particular experiment, data was collected on the effects of lanthanum chloride on a neuromuscular group similar to that in human beings.
+
+Materials and Methods:
+Three frog legs total were taken to be tested and each one was labeled 1,2, or 3. No completely separate control group was formed; instead all frog legs were tested without injection and with injection, respectively. This testing formed the basis for the control test in this experiment. The control test was carried out systematically. All three legs were dissected by being degloved of their skin and having their gastrocnemius isolated by clipping of the Achilles tendon. The remaining section of the tendon was tied with string with the excess tendon then being removed from the leg. Then the string was hung at a 90 degree angle with the stand with a moderate amount of tension. The tension was such that the muscle was held straight up without pulling the rest of the leg off of the dissection tray. The electrodes were first inserted at a vertical angle with the leg. A series of amperages were taken as follows: 0.1, 0.2, 0.3, 0.4, 0.5, 1, 2, 3, 4, 5. These were taken using electrodes from a meter than was plugged into a computer where amperages were applied and the resulting voltage or charge difference was measured on the muscles of the legs.  The experimental group was injected with 0.2 mL of lanthanum chloride into a single point midway on the gastrocnemius muscle. It was then left sitting for about ten minutes before beginning tests. The first frog leg was tested with a vertical electrode similar to how the control tests were run. The other two experimental tests used horizontal electrodes at the behest of a latent change in experimental design. Once again the amperages of 0.1, 0.2, 0.3, 0.4, 0.5, 1, 2, 3, 4, 5 were taken on each experimental leg using the same amperage box and computer program.  All data taken was recorded into a table and then run through a one-tailed paired t-test to look for data probabilities involving chance. The tables were then moved into bar graph for ease of reading, comparison, and interpretation.
+
+Results:
+The control tests show a general trend of performance. Each frog leg differed in size but their performance curve bears a similar shape as shown by Figure 1. Figure 2 does not show the same kind of trend line. Frog 1 is very far off from the general numerical variations shown by frog legs 2 and 3. Generally it can be stated that the measured voltages were reduced from the control group to the experimental group with frog 1 representing an outlier result. The P-Values found show that it can be stated that it is unlikely the results found occurred by chance as they are very low. We used a one tailed paired t-test and got: Frog 1 T-Value: 6.599153, Frog 1 P-Value: 0.0000994, Frog 2 T-Value: 3.73401, Frog 2 P-Value: 0.004668, Frog 3 T-Value: 2.362292, Frog 3 P-Value: 0.042442.
+
+Discussion:
+Our hypothesis was not supported in this experiment. We predicted that the lanthanum chloride would completely stop muscle twitching. We found that the lanthanum chloride has a much different effect in that it reduces the voltage difference of the twitch instead of stopping it altogether. This conclusion is drawn from the measurements gained from frog legs 2 and 3. Lanthanum chloride was found to be an effective reducer in muscle activity in its voltage. The first frog leg was tested incorrectly, and a change was made for the subsequent legs. It was noted by an instructor that the tension on the leg was too great as it had the electrodes attached vertically which caused more tension than necessary on the frog legs. From this flawed test our hypothesis was still rejected as the frog legs still had activity in voltages. We found that the voltages were actually much higher after lanthanum chloride injection with the extra tension provided by the vertical electrodes. With the first frog leg eliminated as accurate results, leg 2 and 3 show a  reduction in frog leg voltage. Lanthanum chloride acts to block Ca2+ ion channels in muscle cells [Boucek: 1976]. Our results suggest that lanthanum chloride partially blocks calcium channels and therefor reduces the measured voltages from the leg twitches. It should be noted that the lanthanum chloride was injected into a single point instead of multiple. Would it be that the injection was done all across the muscle and perhaps massaged in, a more complete cessation of voltage could be observed in the frog legs. It should be noted that this experiment should be repeated with a modified procedure. It would be useful to modify electrode placement to a horizontal placement and allow for a more complete injection with multiple injection sites. The results of this experiment suggest uses for lanthanum chloride as an effective reducer of muscle activity. With further experimentation it could be found that it is more effective than the results of this experiment suggest.
+
+Literature Cited:
+1. MM Boucek and R. Synderman. 1976. Calcium influx requirement for human neutrophil chemotaxis: inhibition by lanthanum chloride. Science.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2af02131e5901d993f137987964add93.png&Size=65646&Type=image%2Fpng&F=F_3Q5TxoHHHE71hmx
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=04a38ea303a77d7e3b81f95603a46d46.png&Size=61771&Type=image%2Fpng&F=F_3HuWOIi22hXYduj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1. Frog Leg Control Tests. Each frog is numbered and corresponds to a color-coded line on the graph. The Y axis shows the scale of voltages measured when the amperage was changed shown in the X axis. Figure 2. Frog Leg Experimental Tests. Each frog is numbered and corresponds to a color-coded line on the graph. The Y axis shows the scale of voltages measured when the amperage was changed shown in the X axis. *************************************************************************
+
+
+

@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-02 22:55:01
+Author of this lab report is: Std_H0E03nua
+ID: R_20OG5I0xmoVIoWv
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of Sodium Channel Blocker Agents on the Threshold Stimulus and Muscle Response of Rana pipiens
+
+Abstract:
+Muscle movement is regulated by the release of the neurotransmitter acetylcholine (ACh) at the neuromuscular junction. When acetylcholine binds to its receptors on the muscle fibers, sodium channels open, which generates and action potential and stimulates movement. Here we look at the effect of lidocaine, a sodium channel blocker agent, on the threshold stimulus and muscle response to the threshold stimulus when stimulating the sciatic nerve of a frog. We expected to find that the sodium channel blocker agent would cause a significant difference in the threshold stimulus and reaction, increasing the threshold stimulus while decreasing the muscle response at that stimulus, because sodium ions would not be able to cross over from the nervous system to the muscular system and stimulate muscle contraction, but our data did not support this hypothesis.
+
+Introduction:
+The nervous system is unique in that it can respond to its environment in merely milliseconds, as opposed to other body systems, such as the endocrine system, which can take minutes, hours, or even days. Skeletal muscles are innervated by motor neurons, which branch out to innervate several individual myofibers at neuromuscular junctions [Johnson:2018]. There are three phases of muscle movement: the latent period (time between stimulation and contraction), contraction phase (period of muscle shortening), and relaxation phase (muscle returns to normal state). When nerve pulses arrive at the neuromuscular junction, Acetylcholine (ACh) is released from the presynaptic nerve terminal. When ACh binds with its receptor on the muscle fiber, sodium channels open, generating an action potential in the muscle. Lidocaine used in conjunction with the permanently charged sodium channel blocker QX-314 has been shown to disrupt action potential generation in rodents [Binshtok:2009]. Our experiment was similar to this experiment because we also examined the effects of Lidocaine on threshold stimulus and muscle response, but the experiment performed in the article was able to disrupt the action potential after using Lidocaine in conjunction with other sodium channel blockers. If the sodium channels are blocked, the action potential will not be able to transfer from the nerve to the muscle, decreasing the contraction voltage of the muscle response to the stimulus.  
+
+Materials and Methods:
+A leg of the frog Rana pipiens was skinned, and the thigh muscle separated to reveal the sciatic nerve. The dissected leg was kept moist with frog Ringer’s solution. Baseline stimulus parameters were 0.000V, 1 pulse, 1 Hz, and 5ms. First, threshold stimulus of the muscle was determined by stimulating it directly with single pulses of constant duration. Stimulus amplitude was increased in increments of .1V until the threshold stimulus was determined, and then the muscle’s response to additional stimulus amplitudes was recorded and analyzed. The data from this part of the experiment was used as the control. The experiment was then be repeated with a frog leg muscle that had been injected with .1mL of 25mM lidocaine (a sodium channel blocker agent). This was the treatment group. Three trials were run for both the treatment and control groups. We ran a two-sample t-test to determine the significance in the differences between the muscles’ responses to various stimuli.
+
+Results:
+The mean difference in threshold stimulus (treatment group – control group) for the three trials was .050V +/- .037V (Fig. 1). The mean difference in response to the threshold stimulus (treatment group – control group) was -.051V +/- .019V (Fig. 1). We used a two-sample t-test to analyze the results. The test did not show a significant difference in the threshold stimuli of the control and treatment groups at the significance level α=.05 (t=1.8898, df=2, p=.199). The difference in contraction voltage of the response to the threshold stimulus was significant at the α=.10 level, but not at the α=.05 level (t=-3.789, df=2, p=.06311).
+
+Discussion:
+Our hypothesis that the threshold and contraction voltage of the muscle response at threshold in Rana pipiens would change if a sodium channel blocker agent was injected into the frog leg was not supported. We observed no significant difference in the threshold or the muscle response to the threshold for the three trials at the .05 level, suggesting that lidocaine does not fully inhibit the action potential from reaching the muscle. However, a similar experiment, which used lidocaine in conjunction with the permanently charged sodium channel blocker QX-314, was able to successfully block the transmission of the action potential in the left hind limb of rats [Binshtok : 2009]. This study suggested that more specifically targeting sodium channels is more effective, and that different genes in various sodium channels may make them more or less susceptible to the effects of different blocking agents; lidocaine alone may not be enough to effectively block sodium channels. Studying the effects of interfering with various phases of the transmission of an action potential from the nervous system to the musculoskeletal system could advance the field of anesthesiology and help make surgeries more comfortable for patients.
+
+Literature Cited:
+Alexander M. Binshtok, Peter Gerner, Seog Bae Oh, Michelino Puopolo, Suzuko Suzuki, David P. Roberson, Teri Herbert, Chi-Fei Wang, Donghoon Kim, Gehoon Chung, Aya A. Mitani, Ging Kuo Wang, Bruce P. Bean, Clifford J. Woolf; Coapplication of Lidocaine and the Permanently Charged Sodium Channel Blocker QX-314 Produces a Long-lasting Nociceptive Blockade in Rodents. Anesthesiology 2009;111(1):127-137. doi: 10.1097/ALN.0b013e3181a915e7.
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated 8/2/2018), pp. 17-33.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure1.PNG&Size=12054&Type=image%2Fpng&F=F_eMcxVQ6JH0WRJqF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average difference in threshold stimulus and the muscle response at the threshold stimulus. Each bar is the mean in Volts of the three trials; error bars are +/- one standard deviation.*************************************************************************
+
+
+

@@ -1,0 +1,78 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-19 02:41:25
+Author of this lab report is: Std_CevO1znq
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of Nicotinic Acetylcholine Receptor Antagonist on Rana pipiens (Frog) Leg Muscle
+
+Abstract:
+In the experiment, the researchers try to discover whether the Nicotinic Acetylcholine Receptor Antagonist would reduce Rana pipiens leg muscle contraction after studying Dr. Dilger’s research on Tubocurarine and its effect on muscle. The hypothesis is that the ACh receptor antagonist would indeed reduce the muscle contraction. The researchers used the t-test compare the leg muscle contraction before and after the subjects receiving Nicotinic Acetylcholine Receptor Antagonist. The researchers concluded that the Nicotinic Acetylcholine Receptor Antagonist does reduce the overall muscle contraction in response to the neural stimuli.
+
+Introduction:
+In the experiment, the researchers try to discover whether the Nicotinic Acetylcholine Receptor Antagonist would reduce Rana pipiens leg muscle contraction after studying Dr. Dilger’s research on Tubocurarine and its effect on muscle. The hypothesis is that the ACh receptor antagonist would indeed reduce the muscle contraction. The researchers used the t-test compare the leg muscle contraction before and after the subjects receiving Nicotinic Acetylcholine Receptor Antagonist. The researchers concluded that the Nicotinic Acetylcholine Receptor Antagonist does reduce the overall muscle contraction in response to the neural stimuli.
+
+Materials and Methods:
+1.	Select a fresh healthy Rana pipiens (Frog) leg and use a dissecting probe to gently separate the inner thigh muscles, beginning at the upper end and extending to the knee to reveal the white sciatic nerve and accompanying blood vessels. Gently free the nerve from its attaching connective tissue, using a dissecting needle and forceps. It is important not to contact the nerve with metal. Keep the exposed tissue moist without drowning it with Rana pipiens (Frog) Ringer’s solution.
+2.	Attach sleeve electrode to the exposed nerve of the control group. Gently hang the leg muscle to a force recording device. The string that ties the muscle and the device shall in the equilibrium tension. Use iWorx station to apply electric stimuli to the nerve with various voltage using 0.1V increments up to 0.5V and then 1.0V increments starting from 1.0V up to 5V. Record the amplitude of the muscle contraction as the dependent variables using the iWorx station. The voltage of the electric neural stimuli are the independent variables.
+3.	Wait 5 minutes until the muscle recovers from its fatigue period.
+4.	Inject in total 0.1mL of Tubocurarine solution to the middle and end of the same muscle, wait for 10 minutes. This essentially transfers the leg into its own experimental treatment group.
+5.	Repeat step 2.
+6.	Repeat step 1 through 5 each on two other Rana pipiens (Frog) legs.
+7.	Conduct paired T-test on the recorded experiment data. 
+
+
+Results:
+Experimental Group 1 
+	average difference: -0.443545455
+	N: 11
+	degrees of freedom:	10
+	t-value: 4.460502
+	P-value: 0.001215
+
+ 
+Experiment Group 2
+ average difference: -0.079181818
+N: 11
+degrees of freedom:10
+t-value: 3.89707
+P-value: 0.002975
+ 
+Experimental Group 3
+ average difference: -0.099272727
+N:11
+degrees of freedom: 10
+t-value: 3.05409
+P-value: 0.012167
+ 
+Legs in all three lab groups showed statistically significant reduction in muscle contraction in response to the electric neural signaling after receiving Tubocurarine (Nicotinic Acetylcholine Receptor Antagonist).
+
+
+Discussion:
+The legs in experimental treatment groups response significantly less to the electric stimuli applied their neurons. The t-test results statistically indicate that the ACh receptor does negatively affect the muscle response to neural stimuli. Especially in the group 1, the threshold of muscle response to neural signal was elevated from 0.2V to 0.3V, which further illustrates ACh receptor antagonist’s effect on Rana pipiens (Frog) leg muscle. This result corresponds with Dr. Dilger’s research that the ACh receptor antagonist will block the ligand-gated ion channel on the postsynaptic cell membrane. This directly prevents of Na+ ion from entering the postsynaptic cell. As a result, the cell cannot be depolarized. Therefore action potential cannot be triggered. DHP receptor in the transverse tubule will then be unable to trigger the open the ryanodine receptor. Calcium ions stored in the sarcoplasmic reticulum cannot be released to trigger muscle contraction (Wenningmann, 2001). The hypothesis that the Nicotinic Acetylcholine receptor will reduce the amplitude the Rana pipiens (Frog) leg muscle contraction or prevent it from responding to the neural stimuli at all is supported. The null hypothesis that the Rana pipiens (Frog) leg muscle would not contract less after ACh receptor antagonist application is rejected. This experiment only verifies that ACh receptor antagonist would affect Rana pipiens (Frog) leg muscle. However, this proves that this substance would relax muscle by blocking the signal transmission in the neuromuscular junction. This might suggest that this substance might also affect the different type of muscle cells, such as cardiac muscles and smooth muscle. In the future research, the researchers can explore the relationship between the dosage of ACh receptor antagonist and its effects. And whether similar mechanism would also be effective in other muscle types. The result could be the discovery of revolutionary medicine that could be used to treat seizures and cardiac diseases.
+
+Literature Cited:
+Wenningmann, I, Dilger, JP. 2001 “The Kinetics of inhibition of Nicotinic Acetylcholine Receptor by (+)- Tubocurarine and Pancuronium.” Molecular Pharmacology. 60(4)790-796.
+Gray, TC. 1947 “The use of D-Tubocurarine Chloride in Anaesthesia.” Ann R Coll Surg Engl. 1(4):191-203. PMC 1940167. PMID 19309828.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=22676&Type=image%2Fpng&F=F_8FWxEpgm6lI5WxT
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture2.png&Size=86968&Type=image%2Fpng&F=F_0famAj2mbxvaUHb
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture3.png&Size=30063&Type=image%2Fpng&F=F_e4ziMO4xKIZavWd
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture4.png&Size=81988&Type=image%2Fpng&F=F_ezASH2FQ9RQSt3T
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture5.png&Size=22874&Type=image%2Fpng&F=F_0qFdkgtnqXW38lT
+
+Figure 6: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture6.png&Size=87191&Type=image%2Fpng&F=F_5yWL4IBwmq1G8a9
+
+
+
+Figure Legends: 
+
+
+*************************************************************************

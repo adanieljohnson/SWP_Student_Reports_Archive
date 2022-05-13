@@ -1,0 +1,54 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 17:28:28
+Author of this lab report is: Std_qLmYQG8g
+ID: R_3emoEjwR9acAJFm
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Tubocurarine Indicates No Clear Effect on Threshold Value of Stimulated Gastrocnemius Muscle
+
+Abstract:
+While studying the neuromuscular system with regard to neurotransmitters, the effect of tubocurarine was examined as applied to the gastrocnemius of rana pipiens. Tubocurarine, an acetylcholine blocker, is expected to decrease the threshold value of the gastrocnemius muscle when stimulated electrically. Acetylcholine, a neurotransmitter, is key to normal muscle function due to its release at the presynaptic terminal that is responsible for transmitting signals to other neuromuscular cells.   Two legs were tested for threshold values, then tubocurarine was injected into both muscles, and the threshold values were tested again. There was no clear difference between the control trial and the experimental trial with tubocurarine, therefore, the hypothesis could not be supported. 
+
+Introduction:
+Rana pipiens, a species of frog, has been a prime test subject for neuroscience research for decades. Because of its small size, it is much easier to isolate tendons, muscles, and nerves in order to experiment with the nervous system [Encyclopedia of Life, 2015]. A key component of the nervous system is acetylcholine, a signaling neurotransmitter. Acetylcholine is responsible for sending signals between cells to stimulate muscle movement and contractions [Purves, 2001].  Since acetylcholine is crucial to a full functioning neuromuscular system, a common question asked by scientists is what would happen if acetylcholine was incapable of functioning properly. One of the easiest ways to experiment with this is by adding tubocurarine, an acetylcholine blocker, which prevents cell to cell signaling by blocking acetylcholine from being received by postsynaptic neurons [Johnson, 2017].  A study by the National Center for Biotechnology Information discusses that acetylcholine blockers inhibit full depolarization, lowering the threshold potential, or the minimum amount of depolarization necessary to create an action potential, which hinders signaling between neurons [Grob, 1976]. Additionally, a study by the University of Pittsburgh noted that tubocurarine prevents parts of the nerve from being mechanically stimulated, also hindering the probability of muscle contraction [Wood, 1865]. Given tubocurarine is an acetylcholine blocker and what we know about acetylcholine function, we expect a decrease in threshold potential after injection of tubocurarine. 
+
+Materials and Methods:
+Two rana pipiens legs were skinned and dissected, exposing the Achilles tendon. A string was tied around the middle of the tendon and hung upon a muscle tension adjuster on a ring stand, elevating the gastrocnemius muscle. The leg was pinned down to the dissecting tray, and two electrode-stimulating electrodes were inserted through the gastrocnemius. The needles, connected to the LabScribe software through a force transducer, allowed the LabScribe software to send each electrical pulses to the frog leg muscle, stimulating the muscle.  With each pulse, a myogram was recorded, and the threshold value was measured. The amplitude was increased until a myogram with the threshold value was generated.  After control trials on both legs were completed, the process was repeated on both legs, however, 0.45mL of 1 mM Tubocurarine were injected throughout the gastrocnemius prior to experimenting.  A paired t-test was run to determine if the collected data was statistically significant.
+
+Results:
+The experiment did not run as expected. The average threshold values of the control trials were lower than those with injected Tubocurarine. Our data was not statistically significant with a p-value of 0.7. 
+
+Discussion:
+The average threshold values indicated no clear difference between the control and tubocurarine trials, therefore cannot support our hypothesis.  The source of error is likely due to only waiting ten minutes after the tubocurarine was injected into the muscle to run the LabScribe tests, whereas a half hour or hour would have been more optimal.  Most studies that experiment with acetylcholine blockers note that tubocurarine works successfully, however, a study by Oxford Academic clarifies that tubocurarine works best in large quantities and often requires a long period of time to take effect [Appiah-Ankam, 2004]. This indicates that our results may have been different had more time been allowed between the time of injection and testing.  The next logical step for this study would be to repeat it setting aside more time between the injection of tubocurarine and the application of LabScribe software. This would give our variable the most optimal conditions for experimentation.  Overall, our results were not significant and cannot confirm that tubocurarine is a successful acetylcholine blocker. Nevertheless, studies like this are important to the scientific community because it explores knowledge regarding natural or experimental issues with neurotransmission and muscle contraction.
+
+Literature Cited:
+“Lithobates Pipiens.” Encyclopedia of Life, AmphibiaWeb, 2015. Purves, Dale. “Neuroscience, Third Edition.” Neuroscience, Sinauer Associates, 2001. Johnson, Daniel. “Comparative Physiology: Bio 114 Laboratory Manual.” ver 17.2, 2017.  Grob, David. “Characteristics and Mechanism of Neuromuscular Block in Myasthenia Gravis.” US National Library of Medicine, National Institute of Health, 1976. Wood, David C. “The Mechanism of Tubocurarine Action on Mechanoreceptor Channels in the Protozoan Stentor Coeruleus.” University of Pittsburgh, The Company of Biologists, 1985. Jonas Appiah-Ankam, Jennifer M Hunter; Pharmacology of neuromuscular blocking drugs, Continuing Education in Anaesthesia Critical Care & Pain, Volume 4, Issue 1, February 2004.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.jpg&Size=14824&Type=image%2Fjpeg&F=F_OPxLkVLxEmJoJAB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+On average, the tubocurarine thresholds were higher than the thresholds without tubocurarine. 
+
+*************************************************************************

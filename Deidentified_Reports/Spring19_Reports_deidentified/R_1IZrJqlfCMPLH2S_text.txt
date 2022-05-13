@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-02 09:39:01
+Author of this lab report is: Std_WeMpite0
+ID: R_1IZrJqlfCMPLH2S
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The effect of tubocurarine on the muscular contraction of frog legs
+
+Abstract:
+Skeletal muscle is innervated by motor neurons to cause muscle contraction and movement. Acetylcholine (ACh) is an important neurotransmitter that causes an action potential that starts the process of contraction. Nicotinic ACh receptors can be blocked by chemicals such as tubocurarine. Tubocurarine competes with ACh at the neuromuscular junction and can also block open ion channels. In this experiment, the effects of tubocurarine on the threshold voltage needed for contraction was tested by recording initial threshold voltage in three frog legs (Rana pipiens) before injecting the legs with 0.2 mL of tubocurarine solution and re-recording. It was hypothesized that the presence of tubocurarine in the frog leg would cause the threshold voltage needed for contraction to increase. However, the relationship between tubocurarine and threshold voltage was found to not be statistically significant (t-stat = 0.099627, p-value = 0.929727). Tubocurarine’s effects depend on dosage and it can have good or bad results. It can help with tobacco addiction, convulsions and electroshock therapy but, at high doses, it can cause paralysis. Because of this, it is important that tubocurarine’s effects are further studied, perhaps using varying doses.
+
+Introduction:
+Skeletal muscle is imperative to movement in both vertebrates and invertebrates. Motor neurons innervate skeletal muscle through a process that begins with Acetylcholine (ACh) release into the synaptic cleft [Johnson: 2019]. ACh binds to nicotinic (ionotropic) acetylcholine receptors in order to open sodium channels, causing Na+ to rush into the cell effectively causing an action potential in the muscle fiber [Johnson: 2019]. If ACh is so important to action potentials (and, therefore, contraction) in muscle cells, then what would happen if ACh receptors were blocked? In this experiment, the effects of tubocurarine (an acetylcholine receptor antagonist [PubChem: 2005]) on the threshold voltage needed to cause a muscle contraction was tested. Tubocurarine binds with nicotinic receptors at the neuromuscular junction meaning it’s in competition with ACh. This inhibits ACh’s effect on the postsynaptic cell, preventing or slowing down the depolarization needed to start an action potential [PubChem: 2005]. Tubocurarine can also block open ion channels instead of competing with ACh [Colquhoun: 1979]. Because of its ability to prevent muscle contraction, it is often used as a muscle relaxant and as an anesthesia adjuvant. It is also used to treat nicotine withdrawal symptoms as it is the major alkaloid in nicotine/tobacco products. In moderate amounts, tubocurarine can be a great asset to modern medicine but in high doses, it can cause paralysis of skeletal muscles [PubChem: 2005]. Tubocurarine is very effective in blocking action potentials since it can lower the amplitude of the post-junctional cell’s potential by 70% of its original value, making it harder to initiate a new action potential [PubChem: 2005]. Based on this information, it is hypothesized that, when tubocurarine is injected into a frog leg (Rana pipiens), the threshold voltage needed for it to contract will be higher. Frog legs were used as they are easily accessible and contain the sciatic nerve and gastrocnemius muscle which are easily found and easily seen with the naked eye.
+
+Materials and Methods:
+Three frog legs were obtained and degloved. The sciatic nerve and gastrocnemius were located by pulling each of the legs in half. Part of the muscle was cut with a bit of tendon left on in order to have something to tie a string to. One end of a string was attached to this tendon and the other was tied to a force transducer from which the frog leg was suspended. An electrode was inserted into the gastrocnemius muscle and the sciatic nerve was moved out of the way to ensure it was NOT touching the prongs of the electrode. The electrode was hooked up to a computer which administered a shock to the muscle and recorded voltage. To determine threshold voltage, a 0.01 shock was administered, gradually increasing by 0.01 increments until a physical and electrical response could be seen. After the initial threshold voltage was determined, 0.2 mL of 1mM tubocurarine solution was injected into the gastrocnemius and the threshold voltage was determined in the same way as before. These steps were performed on each of the frog legs individually. A one-tailed, paired t-test was performed in order to determine the significance between initial thresholds of frog legs compared to the thresholds after tubocurarine injection.
+
+Results:
+In leg one, there was a decrease in voltage by 0.1 V. in leg two, there was an increase of 0.13 V and, in leg three, there was a decrease of 0.01 V (Figure 1). Only one leg (leg #2) showed an increase with the other legs showing a decrease in threshold voltage (Figure 1). Despite these differences, each leg showed a decrease in contraction strength after an injection of tubocurarine. Leg one had a decrease of contraction strength equaling - 0.047 V, leg two’s equaled - 0.003 V, and leg three’s equaled - 0.011 V. The two legs that showed a decrease in threshold voltage showed the highest contraction, and the leg that increased showed the weakest contraction strength. The difference between threshold voltage before vs. after tubocurarine in frog legs was found not to be statistically significant (t-stat = 0.099627, p-value = 0.929727).
+
+Discussion:
+The hypothesis that tubocurarine would increase the threshold voltage needed for contraction in frog legs was not supported and the relationship between tubocurarine and threshold voltage was not statistically significant (t-stat = 0.099627, p-value = 0.929727). This could be caused by experimental error or by biological function of tubocurarine. Firstly, the concentration of tubocurarine used (1 mM) is equivalent to 0.001 molar which means that there are only 0.001 moles of tubocurarine per liter of solution. Only 0.2 mL was injected into each frog leg, so it is possible that the concentration was not high enough to cause any significant change in threshold voltage. This is supported by the fact that the largest difference in threshold before and after tubocurarine injection was only +0.13 V (Figure 1). Another source of experimental error could be treatment of one of the frog legs tested. The first leg used was improperly hooked up to the electrodes, causing the shocks to not produce a myogram reading on the computer. It was initially thought that not enough shock was being administered to the leg, so up to 9 V of electricity was administered. This could have caused the tubocurarine to desensitize, making it ineffective in blocking ion channels and competing with ACh. Tubocurarine is fairly vulnerable to desensitization and, when it’s desensitized, its effects greatly reduce [Colquhoun: 1979]. Since tubocurarine can work in two ways (by blocking open ion channels or by competing with ACh [Colquhoun: 1979]), it is possible that there could have been inconsistencies in how it worked in each frog leg. This is supported by the fact that, if tubocurarine is blocking ion channels (such as potassium in Nohmi et. al.’s study), there would still be ACh present in the synapse. This would not affect threshold voltage, but the cell’s ability to repolarize. This would prevent another action potential from occurring but would not affect the initial threshold voltage [Nohmi: 1984]. Anesthetics work in this way and, since tubocurarine is used as an anesthetic, it is possible that it more commonly works by blocking potassium channels. Tubocurarine is dose-dependent, so it is also possible that at low does, it would cause a lack of repolarization but, at high doses, it would cause ACh receptors to be blocked, resulting in muscle paralysis [PubChem: 2005]. The effects of tubocurarine are very important and require further testing since it has a great potential to aid in electroshock therapy, to treat convulsions and to act as an anesthesia adjuvant. 
+
+Literature Cited:
+1.	Johnson AD. Endocrine Control of Insect Life Cycles. Comparative Physiology: Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17. 
+2.	PubChem. Compound Summary for CID 6000. Accessed March 17, 2019. https://pubchem.ncbi.nlm.nih.gov/compound/tubocurarine#section=Top;  
+3.	Colquhoun, F. Dreyer & Sheridan, R.E. The actions of tubocurarine at the frog neuromuscular junction. St George’s Medical School, London, England. Accessed March 17, 2019. https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/jphysiol.1979.sp01288;
+4.	Nohmi, Mitsuo & Kuba, Kenji. (+)-Tubocurarine blocks the Ca2+-dependent K+-channel of the bullfrog sympathetic ganglion cell. Saga Medical School, Nabeshima, Japan. Accessed March 17, 2019. https://www.sciencedirect.com/science/article/pii/0006899384904128; 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Capture.PNG&Size=13677&Type=image%2Fpng&F=F_204aEdUUYwvmkjT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+The difference in threshold voltage needed for contraction between three frog legs. The pink bars represent  the initial threshold voltage without manipulation (control). The blue bars represent the threshold voltages after 0.2 mL of 1mM of tubocurarine solution was injected into the gastrocnemius of the frog leg.*************************************************************************
+
+
+

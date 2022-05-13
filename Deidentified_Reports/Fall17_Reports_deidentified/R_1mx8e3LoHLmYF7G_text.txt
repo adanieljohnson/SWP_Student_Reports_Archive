@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-19 14:39:49
+Author of this lab report is: Std_E4G9f8rH
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Effects of lidocaine on Physarum polycephalum
+
+Abstract:
+Physarum polycephalum is a yellow slime mold known to travel in response to stimuli. Many inhibitors are tested to stop the growth of the mold.  This study was conducted to observe the effects lidocaine had on the mold in three different concentrations. The mold was placed in a PDA agar plate soaked in the lidocaine solution and incubated for 24 hours.  Using an application, area of growth on each plate was measured and compared to the control.  There was statistically no difference in the growth on any of the three concentrations compared to the control. A Tukey-Kramer test showed no difference when comparing the concentrations to each other. The results did not support our hypothesis that the highest concentration of the lidocaine solution would show the least amount of growth compared to the lower concentrations.  Further research observing the growth on an hourly basis may show the immediate effects lidocaine has on the action potentials in the Physarum.  Finding the duration that the lidocaine is most effective may show more significant results. 
+
+Introduction:
+Physarum polycephalum, or Physarum, is a yellow slime mold that uses external stimuli to produce a response. Presence of food is an example where the organism navigates itself toward the stimuli while light is a stimulus where the organism navigates itself away from the source [Johnson: 2018].  It does so by extending a series of actin microfilaments from its body to create a growth-like appearance in order to reach the energy source.  Like most organisms, it moves according to signals it was stimulated with or are generated in the organism from an outside stimulus.  The mechanism the body uses to move is a complex signaling pathway involving many ions and molecules. To look deeper into the movement of this mold, we focused on one of the many molecules, sodium. The Physarum receives a signal to open its gated sodium channels which causes an action potential to fire [Yin et al.: 2014].  These action potentials occur in brain neurons which directly triggers movement of the body or organism [Catterall: 2017].  Many stimuli can alter the rate of this action potential in either an excitatory or inhibitory way.  Studies have shown general anesthesia target sodium channels specifically because it does not affect the lipid bilayer properties.  They inhibit sodium channel function by reducing the overall sodium current in the body [Herold, Andersen, Hemmings: 2017].  This effect led us to inquire about the effects a common sodium channel inhibitor, lidocaine, would have on the ability of Physarum to move. Lidocaine inhibits the sodium channels which decreases excitability; however, unlike other sodium channel blockers, lidocaine eventually returns to the normal state and is not permanent [Diao et al.: 2013]. If lidocaine slows the sodium channels and the action potential, the mold will move more slowly or not at all.  Using different concentrations of lidocaine, we will test the overall growth of the mold after a 24-hour incubation time.  The more concentrated lidocaine solution will slow and inhibit the growth and movement of Physarum the most. 
+
+Materials and Methods:
+We began the experiment by soaking nine PDA agar plates in 3 different concentrations of lidocaine. Three plates were soaked with 1.25mM lidocaine, three with 0.625mM lidocaine, and the three remaining with 0.3125mM lidocaine.  We also had a control plate that was not soaked with any lidocaine.  After letting the plates soak in about 5mL of each solution for about 15 minutes, we drained the excess fluid with caution as to not remove any solution from the agar plate itself.  We then cut squares, roughly one centimeter in size, from the center of each of the 10 plates and removed the cut portion.  Sanitizing the tools between cuts with 95% ethanol and a flame, we cut one centimeter squares from the Physarum plate and inserted these squares into the hole in the PDA plates.  We labeled each plate, taped down the lids, and wrapped each one completely in foil.  We let them sit in an incubator for 24 hours and measured the area of the growth using ImageJ which is a software that analyzed pictures of the plates.  After the data was collected an ANOVA test and Tukey-Kramer test was run to find any significant differences in our data.   
+
+Results:
+Area of growth was largest in the 0.625mM solution of lidocaine and smallest in 1.25mM solution.  The least concentrated solution, 0.3125mM, fell in the middle of the averages (Figure 1).  The control showed more growth than any of the PDA plates containing lidocaine, however the results were not significant.  After running the ANOVA and Tukey-Kramer tests, the data was not statistically different when coming the control to the 1.25mM, 0.625mM, and 0.3125mM concentrations of lidocaine solution (p=0.067, 1.25mM/0.625mM= not sig, 1.25mM/0.3125mM= not sig, 0.625mM/0.3125mM= not sig, all compared to control= not sig)(Table 1).  
+
+Discussion:
+The results did not support our hypothesis that the higher concentration of lidocaine would inhibit the growth of the Physarum because the different concentrations were not statistically different.  While the Physarum in a PDA plate of 1.25mM solution of lidocaine did have the least amount of growth, the mold in a PDA plate of 0.3125mM solution of lidocaine did not have the most growth.  The control plate which did not contain any lidocaine or inhibitory solutions had the most growth overall but not statistically different from any of the lidocaine solutions.  In a study done on patients undergoing elective surgeries, lidocaine and a lidocaine and ketorolac were administered before general anesthesia was given in order to reduce withdrawal movement. The mixture of the two inhibitors showed a significant decrease in movement after surgery [Boota, Wasim, Ali: 2017].  In our experiment, only lidocaine was tested as an inhibitor which may not have been strong enough for long enough to inhibit growth for 24 hours.  Different strengths of lidocaine will have inhibitory effects for different durations depending on the strength. On patients having hand surgery, lidocaine showed inhibitory effects for between one and two and a half hours depending on the strength and solution contents [Prasetyono, Lestari: 2016]. If our lidocaine solution only worked for this short duration, the Physarum would have time to grow over the 24-hour incubation period.  To improve our experiment, periodic observation on the overall growth of the mold could determine if the lidocaine worked in correlation with time. Based on the results, lidocaine should not be used as a long term inhibitory solution for Physarum. 
+
+Literature Cited:
+1.	Johnson, D. 2108. Signaling. BioCore Resource Guide. 
+2.	Yin R, Liu D, Chhoa M, Li C, Luo Y, Zhang M, et al. 2016. Voltage-gated sodium channel function and expression in injured and uninjured rat dorsal root ganglia neurons. International Journal of Neuroscience.  126: 182-192. 
+3.	Catterall W. 2017. Forty years of sodium channels: structure, function, pharmacology, and epilepsy. Neurochemical Research. 42: 2495-2504. 
+4.	Herold K, Andersen O, Hemmings H. 2017. Divergent effects of anesthetics on lipid bilayer properties and sodium channel function. European Biophysics Journal. 46: 617-626. 
+5.	Diao L, Hellier, J, Uskert-Newsom J, Williams PA, Staley KJ, Yee AS. 2013. Diphenytoin, riluzole and lidocaine: three sodium channel blockers, with different mechanisms of action, decrease hippocampal epileptiform activity. Neuropharmacology. 73: 48-55. 
+6.	Boota M, Wasim MH, Ali L. 2017. Comparison of lidocaine and a combination if lidocaine and ketorolac pretreatment on withdrawal movement induced by rocuronium injection. Anaesthesia, Pain & Intensive Care. 21: 31-36. 
+7.	Prasetyono TOH, Lestari PA. 2016. The onset and duration of action of 0.2% lidocaine in a one-per-mil tumescent solution for hand surgery. Archives of Plastic Surgery. 43: 272-277. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-19+at+2.38.17+PM.png&Size=43433&Type=image%2Fpng&F=F_3NFplbRCmq3RZ8b
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-19+at+2.38.24+PM.png&Size=39970&Type=image%2Fpng&F=F_sTH0JdGavakHwel
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-19+at+2.38.32+PM.png&Size=27350&Type=image%2Fpng&F=F_2wSpiZ11aziyjzU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The average growth in cm^2 of Physarum after being exposed to different concentrations of lidocaine solution for 24 hours.  The average growth was most noticeable in the 0.625mM solution. (Standard error: 1.25mM= 0.0036, 0.625= 0.014, 0.3125= 0.0031) 
+Table 1: The results of the ANOVA test showed no statistical difference between the different concentrations of lidocaine and the control. The p value was 0.067 which is greater than 0.05, so it is not significant.  
+Table 2: The results of the Tukey-Kramer test showed no significant difference between the 3 concentrations and the control. 
+
+*************************************************************************

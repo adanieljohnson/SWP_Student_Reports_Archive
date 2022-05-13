@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-08 10:38:08
+Author of this lab report is: Std_XOMa7ZYG
+ID: R_3CC1dDLREXljBVd
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The Effect of a Calcium Channel Blocker on Frog Muscle Contractions
+
+Abstract:
+Rana pipiens are commonly utilized when experimenting with muscle contraction, since the gastrocnemius muscle and sciatic nerve are easy to isolate. In this experiment, we will be isolating the gastrocnemius muscle of the frog leg, and evaluating the power of the muscle’s contractions. The first trial will be just the muscle, and the second trial will include a calcium channel blocker injected into the muscle, to understand how calcium affects the intensity of muscle contraction.
+
+Introduction:
+This experiment evaluates the basic properties of neuromuscular control. The complex nerve communications within muscles send movement throughout the entire body. Skeletal muscles are activated by the motor neurons in the spinal cord. The motor neurons receive stimuli from outside sources with thus trigger an action potential which travel down the axon of a neuron. This action potential releases a chemical called acetylcholine, which depolarizes the cell [Science News: 1975], and allows for calcium channels to open and calcium to flow into the sarcoplasmic reticulum; then into the sarcomere. Once in the sarcomere, the calcium binds to troponin on the tropomyosin filaments, which exposes the actin binding sites for the myosin heads. The myosin heads bind, and a power stroke causes the muscle to contract. ATP breaks down and removes the calcium, which puts the muscle into a relaxation phase [Needham: 1950], as the sarcomere resets for another contraction. It is possible to change the contractile force, by stimulating different numbers of motor neurons with varying powers of electrical currents. A calcium channel blocker will be injected into the muscle in order to evaluate the effect it has on contractile force. Groups of drugs such as these have been known to inhibit muscle contraction [Fanta C. H: 1983]. We expected that if the calcium channels are blocked, the contraction of the muscle will be much weaker, since the calcium will not be able to bind to the troponin, and myosin will then not bind to the actin.
+
+Materials and Methods:
+To begin this experiment, three frog legs were given, and the legs were degloved, to expose the gastrocnemius muscle and the sciatic nerve. The gastrocnemius muscle and the sciatic nerve were isolated, and the gastrocnemius was cut from its insertion point. Once cut, a string was tied to the end of the gastrocnemius and then tied into a loop and suspended from a stand, putting the muscle at a 90 degree angle, while the leg of the frog remained on the tray Probes connected to a myogram that delivers electrical currents, were stuck into the muscle. The muscle received 500 mV of power three times. The results were recorded each time, then the mean between the three were found. This was repeated for three different from legs. Then, 4 mM of lanthanum chloride was injected into the exposed muscle. After 5 minutes, the myogram was turned on, and the muscle received 500 mV of power three times again. The reactions were recorded all three times, for each leg. The mean was calculated for each leg. A paired t-test was used to analyze the data. 
+
+Results:
+After performing the various trials, the results from our paired t-test concluded that our data was significant. The force of contraction for the muscles that received the calcium channel blocker was much lower than the muscles that did not receive anything. The mean for the muscles that did not receive the calcium channel blocker (x= 58mV) was much lower than the mean for the muscles that did receive the blocker (x= 513mV). It is evident that these numbers are drastically different, and concludes that the calcium blocker did exactly we thought it would. The difference in standard deviation values supports our hypothesis due to how the muscle with the blocker injected had results that varied far from the average, and a higher standard error value (sd= 32.4mV, SE= 5.7mV). The muscle that did not receive the blocker resulted in a relatively low standard deviation, and a lower standard error value (sd= 27.0 mV, SE= 5.2mV). Due to these results and a significant p-value, our hypothesis was supported. We did a paired t-test with our data, since the results were expected to go in one direction, and only two things were being compared. Our p-value was 0.008095, which is well below 0.05. Since it is below 0.05, it is considered a statistically significant number.
+
+Discussion:
+These results are plausible, because the calcium channel blockers did indeed block the contractions of the muscle, and the calcium was unable to bind in the sarcomere. The calcium channel blocker inhibited the calcium channel blocker from binding to the troponin [Fanta C.H.: 1983], thus the contraction was unable to occur. This was exhibited in our experiment, and the muscle contraction was much less powerful than without the blocker. These results ultimately supported our hypothesis, and prevented the muscle from contracting. In the future, these results could be utilized to determine how to prevent certain diseases or conditions that affect muscular function, and allow for the development of new drugs to cure these diseases, or ease symptoms. 
+
+Literature Cited:
+Needham, Dorothy. “ATP Breakdown and Muscle Contraction.” Proceedings of the Royal Society of London. Series B, Biological Sciences, vol. 137, no. 886, 1950, pp. 77–79. “Acetylcholine and Muscle Contraction.” Science News, vol. 107, no. 4, 1975, pp. 53–54 Fanta, Christopher H. "Calcium Channel Blockers and Obstructive Airway Diseases." New England and regional allergy proceedings 4.2 (1983): 122-8. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-02+at+4.40.32+PM.png&Size=62159&Type=image%2Fpng&F=F_2to5qCxOmrIlX1f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: The effect of the calcium channel blocker on muscle contraction. This graph shows the amplitude of contraction of the muscle with the calcium channel blocker (SE= 5.7), and without the channel blocker (SE=5.20).  Bar 1 received no channel blocker, and produced a strong contraction. However, bar 2 received the channel blocker and was unable to produce as strong of a contraction. *************************************************************************
+
+
+

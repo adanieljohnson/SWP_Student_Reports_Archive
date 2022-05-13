@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-16 20:42:32
+Author of this lab report is: Std_dsoz9yfB
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Effect of 100mM A23187 Calcium Channel Activator on Rana pipiens
+
+Abstract:
+The purpose of this study was to test if Ca2+ channel activator effected the threshold of the gastrocnemius muscle in a dissected leg from Rana pipiens. The hypothesis tested was if the addition of the 100mM A23187 calcium channel activator would decrease the threshold of the muscle, which was measured in volts on the LabScribe software. This was done by degloving the specimen and isolating the sciatic nerve, which was then stimulated using a sleeve electrode and stimulation machine.  The study resulted in the support of the null hypothesis and rejection of the alternative hypothesis described above (as shown by the provided pair t-test with a p-value >0.05). This led to the overall conclusion that the Ca2+ channel activator did not impact the threshold of the gastrocnemius muscle and suggests that the intake of calcium in the presynaptic neuron is not necessary for muscle contraction. 
+
+Introduction:
+This study focuses on intracellular communication and the effect of injecting calcium channel activators on neuromuscular control and response. The calcium channel activator will be injected into the gastrocnemius muscle of a dissected frog (Rana pipiens) leg, while the sciatic nerve is stimulated with an electrical impulse. The logic for using the Rana pipiens specimen, is that the sciatic nerve is easily isolated, and the gastrocnemius muscle is large enough to observe a noticeable twitch in. Furthermore, a larger muscle holds more mitochondria, more ATP, and therefore will not fatigue too quickly after dissected. Muscle contraction is stimulated when action potentials from motor neurons lead to the release of calcium from the sarcoplasmic reticulum, which in turn leads to the binding of actin and myosin filaments. This activates the contractile mechanism of the muscle fiber, causing it to shorten. It is predicted that the addition of calcium channel activator will decrease the threshold of the muscle, which will be measured using the LabScribe software (Johnson 2017).
+
+Materials and Methods:
+•	LabScribe Software
+•	Thread
+•	3 Rana pipiens frog legs
+•	3mL of 100mM A23187 Calcium Channel Activator
+•	Frog Ringer’s Solution
+•	10 mL Syringe
+•	Sleeve electrode and stimulator machine
+•	Small plastic clamp that fits over sleeve electrode
+•	Dissection tray and pins
+To begin the procedure, first start by degloving (removing outer skin) the frog legs and placing them on the dissection tray. Then proceed by separating the inner thigh muscles to expose the sciatic nerve (white/cream colored). Keep exposed tissues moist using Ringer’s solution and secure flesh to the dissection tray using dissection pins. Then cut a generous amount of thread, and secure a loop at the Achilles tendon right above the gastrocnemius muscle. This will create the mechanism for isolating the gastrocnemius muscle from the sciatic nerve. Then hang the loop on the hook of the apparatus, adjusting the height of the hook and using the fine tuner until the gastrocnemius muscle hangs taught. Next, attach sleeve electrode to sciatic nerve by laying nerve on top and securing with plastic clamp. Record using LabScribe Software the voltage of the first noticeable muscle contraction. This is how you find the threshold for the control group. Use marker in software to record. The injection of 1mL of 100mM A23187 Ca2+ channel activator into this same gastrocnemius muscle turns this leg from the control into an experimental trial. Wait 5 minutes after injection before testing again as not to fatigue the leg. Test and record voltage needed for contraction and threshold of (now) experimental leg and mark in software, and repeat procedure with other 2 frog legs to total two trials for each leg as a control and experimental specimen. 
+
+
+Results:
+After examining the recorded values as seen below, it is immediately evident that there was not a large noticeable change between the control and experimental threshold. A paired t-test was run to confirm this suspicion, and resulted in no statistically significant difference between the control threshold and experimental threshold (t-stat=1, df=2, P=0.423) as the p-value greater than 0.05 indicates that the null hypothesis is supported. Furthermore, there were no data points that differed greatly from the general trend.
+
+Table 1. Threshold Values
+	Control Threshold (V)	Experiment Threshold (V)
+Frog 1	0.2	0.2
+Frog 2	0.14	0.14
+Frog 3	0.06	0.07
+
+Figure 1 is another method of comparison as it displays the average threshold voltage needed in both the control and experimental (before and after the addition of the Ca2+ channel activator). Although the difference in the bars seems significant, close examination of the y-axis indicates that the difference between the two means is 0.177 amps, which is mostly due to the trial of the third frog leg. 
+
+ 
+Figure 1. Average threshold voltage of combined trials in 3 Rana pipiens legs.
+
+
+Discussion:
+Overall, these results indicate that the addition of Ca2+ channel activator did not significantly impact the threshold voltage of the gastrocnemius muscle. This is important because the intake of calcium through voltage-gated ion channels in the motor neuron is thought to the release of a neurotransmitter from the pre-synaptic neuron since the calcium ions bind to sensor proteins on synaptic vesicles that hold these neurotransmitters. However, in skeletal muscle, entry of external Ca2+ is not required for initiation on contraction (Catterall 2011). Instead, DHPR channels inside the t-tubules are thought to interact directly with the ryanodine receptor and ultimately release the calcium since in the pre-synaptic neuron there is already calcium that exists inside the membrane which can trigger the release of the acetylcholine neurotransmitter. It can be reasonably stated, therefore, that there was no significant difference between the control and experimental groups because the process was intended to happen regardless of whether the Ca2+ channel activator was added or not. The electrical impulse that stimulates the nerve was sent into the frog leg regardless of whether it was control or experimental, which replicated an action potential and would have caused the channels to open and muscle to twitch no matter what. 
+
+Literature Cited:
+1.	Johnson, AD. Neuromuscular Control. Comparative Physiology Bio 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 17.2 (updated August, 2, 2017), pp. 19-23.
+2.	Catterall, WA. 2011. Voltage-gated calcium channels. Cold Spring Harbod Perspectives in Biology. 3(8): a003947
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=lap+report+1+table+and+graph.png&Size=155731&Type=image%2Fpng&F=F_869Ys9doOz47Zad
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Threshold Values
+Figure 1. Average threshold voltage of combined trials in 3 Rana pipiens legs.
+
+*************************************************************************

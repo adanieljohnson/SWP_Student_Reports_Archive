@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-04 00:56:28
+Author of this lab report is: Std_T1wRfjlS
+ID: R_3PuGlYgMW9wVYRr
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The Effects of Curare on the Threshold for Muscle Contraction in the Leg of a Frog
+
+Abstract:
+Unlike hormones which trigger reactions after periods of up to several days, nerves and muscles respond to stimulation in a matter of milliseconds. This study sought to understand the effects of curare on the electrical threshold necessary to trigger muscle contraction. It was hypothesized that if a muscle in frog legs were test before and after being injected with curare, then the muscle’s thresholds for contraction would increase with the presence of curare. The hypothesis was tested using a muscle force transmitter to ensure the results were quantitative as well as qualitative. The results proved to be insignificant and therefore inconclusive. The experiment should be repeated on a greater scale with a greater amount of curare injected into the muscle at several different locations to enhance the findings. The current findings suggest that curare does not affect all muscles in increasing the strength of electrical signal necessary to stimulate muscular contraction.
+
+Introduction:
+Nerves and muscles are responsible for the organism’s ability to respond to stimulus much faster than hormones. Nerves and muscles are responsible for fast actions responding to stimuli in a matter of seconds if not less. Visible muscular reactions are controlled by skeletal muscle. Skeletal muscle is made up of thousands of myofibers which contract or elongate to control movement. Each movement requires at least one muscle to contract and at least one other to elongate. Both contraction and elongation are controlled by the interactions of actin and myosin. Muscular contraction can be artificially induced through electric stimulation of either the muscle directly or a nerve connected to the muscle. The reaction of the targeted muscle to a certain electrical current can be measured at the macroscopic level using a muscle force transmitter. These machines can pick up very small amounts of stimulation and can therefore be used to determine an approximate threshold to induce muscular contraction. Curare is the common name of various plant extract alkaloid arrow poisons which function by inhibiting nicotinic acetylcholine receptors found in the neuromuscular junction. This prevents nerve impulses from activating skeletal muscles resulting in relaxed muscles regardless of stimulation [Auerbach: 1971]. Curare is used in modern medicine as a form of general anesthesia because of its ability to relax muscles. [Antkowiak: 2001] It was hypothesized that if curare was injected directly into the leg muscle of a frog leg and that same muscle was then tested after a brief rest period to find its threshold, then it would be greater than the threshold of the same muscle devoid of curare.
+
+Materials and Methods:
+Three frog legs were tested. After being rinsed thoroughly with frog rigger solution, each leg was tested to find its individual threshold by starting at 0V impulses and working up by 0.1V increments. Once found, the threshold voltage was narrowed by backtracking from the found value by 0.01V increments until the threshold was found to two decimal places. The impulses and threshold data were collected by a muscle force transducer, if the machine picked up movement but none was seen, the voltage impulse was repeated. Each frog leg was injected with 0.1mL of curare and allowed to rest for five minutes before repeating the same procedure. The threshold results were compared using a paired t-test.
+
+Results:
+The results of the tests were not conclusive. Only two of the three tested frog legs saw any increase in threshold. The threshold never increased by more than 0.02V when curare was injected. In the third leg, the threshold remained the same. When the values were averaged, the experimental threshold was only 0.013V greater than the control (Figure 1). Falling within each other’s standard deviations, the thresholds of the experimental group were not statistically significant from those of their control trials (t-stat = 1.512, df = 2, P = 0.270).
+
+Discussion:
+While the threshold of two of the three frog legs increased, it was not statistically significant and, therefore, it cannot be said that the result is not due to chance. This is further supported by the third leg’s lack of increase in threshold. The average voltages to trigger a contraction differed very slightly and the overlap of the error bars further supports the rejection of the alternative hypothesis and failure to reject the null hypothesis. These finding run counter to the accepted conclusion that curare affects muscle contraction threshold given its use as a general anesthesia [Antkowiak: 2001]. In similar studies it was found that dosages of curare were able to increase the threshold of muscle contraction to the point that electrical bursts that normally would cause movement had no affect [Granit: 1953]. Due to the contradictions of this study with those in the past, it is suggested that the experiment be repeated on a greater scale. The amount of curare injected into the muscle should also be increased and the injection should be spread across the muscle instead of only occurring at a single location to ensure the best spreading of the curare in the muscle. The amount of curare may not have been enough to drastically change the results. While the experimental amplitude was greater than the control, that may have been pure chance. If the experiment fails once again, it should be repeated with the new modifications using frog legs from several different types of frogs. The results may have stemmed from an immunity of the frog to curare. These results suggest that curare does work as an anesthesia and has no effect on the electrical amplitude necessary to reach threshold and stimulate a muscle contraction; however, these finding are statistically insignificant and cannot be considered reliable.
+
+Literature Cited:
+Antkowiak B. 2001. How do general anaesthetics work? The Science of Nature. 88: 201-213.
+
+Auerbach A, Betz W. 1971. Does curare affect transmitter release? The Journal of Physiology. 213: 691-705.
+
+Granit R, Skoglund S, Thesleff S. 1953. Activation of muscle spindles by succinylcholine and decamethonium: the effects of curare. Acta Physologica Scandinavia. 28: 134-151.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure1Lab2.png&Size=8975&Type=image%2Fpng&F=F_3iWKcR3bTLbt7gr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+The average threshold amplitude of the leg muscle of the control trial versus the experimental trial (treated with curare).*************************************************************************
+
+
+

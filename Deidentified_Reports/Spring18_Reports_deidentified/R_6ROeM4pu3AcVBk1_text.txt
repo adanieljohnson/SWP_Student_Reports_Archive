@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-03-13 18:14:04
+Author of this lab report is: Std_JR3f7b5Q
+ID: R_6ROeM4pu3AcVBk1
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effects of Ecdysterone Blockers on the Weight of Manduca Sexta Caterpillars
+
+Abstract:
+	Manduca Sexta, caterpillars known as the tobacco hornworm, have both juvenile hormone and ecdysterone to regulate their growth cycle. When treated with either Juvenile hormone mimickers or ecdysterone inhibitors, the growth cycle of these caterpillars gets interrupted. We fed caterpillars Azamax, an ecdysterone blocker, and observed the effects of the blocker on the caterpillar. We hypothesized that the ecdysterone blocker blocker would prevent the caterpillars from reaching pupation. The control group caterpillars grew larger, following the prescribed life cycle, but the treatment caterpillars did not. The treatment caterpillars did not receive the ecdysterone signal to proceed from the fourth instar to the fifth, so they remained small and did not proceed into the next stage of life. Our p-value was 0.24, so it was not statistically significant to reject our null hypothesis.  
+
+
+Introduction:
+Hormones are chemical signals in an organism. These hormones can control growth and development in an organism, as well as control behaviors and physiology in an organism. In insects, the hormone called ecdysterone regulates the timing of molting. Juvenile hormone, on the other hand, regulates the type of molting. Both hormones are essential to an insect and both hormones work together to keep an insect alive. Insect growth regulators (IGRs) can affect the growth of an insect by either inhibiting or mimicking certain hormones in the insect.  These IGRs might not lead immediately to death in the insects, but rather cause adverse effects to the insect’s health. The Manduca Sexta uses both ecdysterone and Juvenile hormone in its process of becoming an adult. When experimenting with different pest controls, Tunaz found that Juvenile hormone, when applied to the Manduca Sexta caterpillars, caused the caterpillars to stop their life cycle, so no adults were formed (Tunaz 2003). We will be adding Azamax, an ecdysterone blocker, to the diet of the caterpillars and we will be recording the results. I hypothesize that the ecdysterone blocker will prevent the caterpillar from pupation. 
+
+
+Materials and Methods:
+First, we obtained 8 Manduca Sexta caterpillars and divided them into two groups of four each. Four clear round containers were then divided in half by taping notecards in the middle. We then placed one caterpillar in each section of the container, so that each caterpillar had its own little room. We then labeled each side of the four containers with the caterpillar number, the food given, and whether the caterpillar was part of the control group or treatment group. We then obtained 80 grams of the caterpillar food, 10 grams for each caterpillar. We then split the food in half, with 40 grams for the control, and 40 grams of food for the treatment group. In the 40 grams of food for the control, we used a dropper to drop 28 drops of water into the food (7 drops per 10 grams of food) and mixed thoroughly. To the 40 grams of food for the treatment, we added 28 drops of a 1:1250 Azamax solution, again using the 7 drops per 10 grams of food model. We then placed 10 grams of the respective food into each caterpillar’s section and placed the caterpillars into an incubator at 25 degrees C in a 12 hour dark, 12 light cycle. We then recorded the weight of the caterpillars daily, as well as took daily observations over the course of one week. We then added additional food when the caterpillars ran out of their food, making sure to give them the prescribed food, 10 grams with 7 drops of either water or Azamax. Once all the data was obtained, we ran a 2-sample t-test to evaluate the results. 
+
+
+Results:
+	The data within the 2-sample t-test found that the mean change in weight of the control group to not be statistically significantly different from the mean change in weight of the experimental treatment group (t-stat=1.2947, df=6, p=0.2430). The standard deviation of the control group was 1.76, while the standard deviation for the treatment group was 0.94. 
+
+
+Discussion:
+	For the data, we could see that the caterpillars in the control group grew very large, while the caterpillars in the treatment group did not grow as large as seen in figure 1. In an experiment in 1981, Walter Bollenbacher discovered that there are high levels of ecdysterone present in the Manduca Sexta caterpillars when the caterpillars go from the fourth to the fifth instar. He also discovered that there is a small spike in the ecdysterone before pupation in a caterpillar (Bollenbacher 1981). Since we were blocking the ecdysterone in the treatment group, they never reached the fifth instar, and remained smaller than the control group. The treatment group on average had a smaller overall change in weight as seen in figure 2. The ecdysterone was being blocked, so the treatment caterpillars did not receive the spike in ecdysterone that initiates the fifth instar. The treatment group of caterpillars, however, will also not receive the small spike of ecdysterone before pupation, as the Azamax is blocking the ecdysterone in the caterpillars. This will cause the treatment caterpillars to not pupate. Thus, we can see why the control caterpillars continued to grow larger, while the treatment caterpillars remained small as seen in figure 2. We calculated a p-value of 0.2430, which means our data was not statistically significant; the change in weight in the control group compared to the change in weight of the treated group was not statistically significantly different. Because of these results, our null hypothesis could not be rejected. Our null hypothesis also could not be rejected due to our data not including pupation, as we did not run the experiment for long enough. 
+
+
+Literature Cited:
+Bollenbacher, W. E., Smith, S. L., Goodman, W., & Gilbert, L. I. (1981). Ecdysteroid titer during 
+larval-pupal-adult development of the tobacco hornworm, Manduca sexta. General and 
+Comparative Endocrinology, 44(3), 302-306. doi:10.1016/0016-6480(81)90005-8
+Tunaz, H., & Uygun, N. (2003). Insect Growth Regulators for Insect Pest Control. Tubitak, 
+377-387. Retrieved February 17, 2018, from http://journals.tubitak.gov.tr/agriculture/abstract.htm?id=7238
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-13+at+4.47.43+PM.png&Size=40075&Type=image%2Fpng&F=F_ex6hMX0VRSVK2ix
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-13+at+4.47.58+PM.png&Size=24245&Type=image%2Fpng&F=F_5107iDX2QmntqqF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The daily weight of the Manduca Caterpillars over one week. We weighed 8 caterpillars, four of which were fed the control food, while the other four were fed an Azamax treated food. The control group (blue lines) were fed 10 grams of caterpillar food each, with 7 drops of water. The treatment group (yellow lines) were fed 10 grams of caterpillar food each, with 7 drops of diluted Azamax.
+Figure 2: Overall average change in weight for manduca caterpillars in one week. (t-stat=1.2947, df=6, p=0.2430). The standard deviation of the control group was ±1.76, while the standard deviation for the treatment group was ±0.94. 
+
+
+*************************************************************************

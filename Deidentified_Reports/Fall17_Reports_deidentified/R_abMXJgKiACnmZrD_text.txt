@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-06 11:09:26
+Author of this lab report is: Std_VijX24fD
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effects of Sodium Chloride Concentration on the Specific Metabolic Rate of Procambarus sp.
+
+Abstract:
+This experiment focused on how changes in environment, specifically salinity, affect the specific metabolic rates of Procambarus sp. (crayfish). It was hypothesized that an increase in Sodium Chloride (NaCl)  would raise the SMR of the Procambarus sp. This was due to the fact that an increase in NaCl in the cells of the animals would cause them to have to exert more O2 in order to rid its body of the ions. Three crayfish, acting as their own controls, were used and their oxygen levels were measured at 5 minute time intervals. The SMR increased from the control to the experimental groups in the first two crayfish, but decreased for the last one. This is believed to possibly be a result of stress felt by the animal. After conducting a paired-t-test, the p-value was equal to 0.73463, greater than α which is equal to 0.05. This therefore signaled that the changes in the SMRs could not be confidently nor solely attributed to the increase in NaCl . The hypothesis was therefore only slightly supported and the results were inconclusive.
+
+Introduction:
+The term metabolism is used to describe the widespread process of energy capture most organisms undergo. It also encompasses the process of converting carbon and oxygen atoms in glucose into CO2 gas. This conversion prompts molecules to capture electrons and transfer them to the transport system. It is here that energy release converts ADP into ATP. In order to effectively use ATP it is transferred into O2 and distributed to cells via the respiratory system. O2 converts into water through the addition of electrons and mixes with body fluids. This process is undergone by many autotrophs and heterotrophs alike. It is through specific metabolic rate (SMR)–the amount of energy expelled by all physiological process of an organism at any given time–that this process is measured. Important to note is the fact that the environment that surrounds an organism greatly affects its metabolic rate. Salinity, for example, is one of these environmental factors. In fact, in an experiment by Monika Normant and Magdalena Gibowicz that determined the SMR of mud crabs (Rhithropanopeus harrisii) by measuring the amount of dissipated heat in different salt concentrations, they found that the effect of salinity on specific metabolic rate was significant. They observed that as salinity increases form 7 to 27 psu the mean metabolic rate increased, despite fluctuations during the increases. This study is very applicable to our experiment because the species used, a mud crab, has a lot in common with the species we utilized, Procambarus sp. (crayfish). Both are crustaceans that sometimes live in similar habitats (freshwater mangroves or swamps) and share feeding habits. Most important of all is the fact that their physiologies are similar in many aspects, like their harder exterior and their use of both passive and active osmotic regulation. Procambarus sp., commonly known as crayfish, are closely related to lobsters and usually reside in freshwater environments around North America. They are often consumed within the United States, commonly known as “crawfish.” In this experiment, the SMR of three Procambarus sp. (crayfish) will be observed in a normal environment and then in an environment with a higher NaCl concentration. Based on on the aforementioned information and studies, my hypothesis is that the salt will cause the crayfish to exert more energy and therefore have a higher SMR.
+
+Materials and Methods:
+For this lab, weigh a crayfish then place it in room temperature water in a jar. Place the jar into a water-filled dishpan to maintain room temperature. Add a dissolved oxygen probe into jar and measure O2 concentration. Repeat this after 5, 10, 15, and 20 minutes. Repeat this exact process for all the crayfish using water with a 6.5% NaCl  concentration. Use the following equation to calculate the specific metabolic rate for both the control (pre-NaCl) crayfish and the experimental (post-NaCl) crayfish:
+SMR=  [ΔO2 (mg/L) * volume H2O (L)]  
+	Time (min.) * weight (g)
+ A paired t-test will be used.
+
+
+Results:
+The specific metabolic rates increased in two of the three crayfish. The average SMR for control 1 was 0.000314 +/- 0.00106006 [ΔO2 (mg/L) * volume H2O (L)] . 
+Time (min.) * weight (g)
+The average SMR for control2 was 0.000693 +/- 0.00106006 [ΔO2(mg/L)*volumeH2O(L)].
+Time (min.) * weight (g)
+The average SMR for control3 was 0.00231+/- 0.00106006 [ΔO2(mg/L)*volumeH2O(L)].
+Time (min.)*weight (g). 
+The average SMR for experimental1 was 0.000693 +/- 0.00051283 [ΔO2(mg/L)*volumeH2O (L)].
+Time (min.) * weight (g)
+The average SMR for experimental2 was 0.00140 +/- 0.00051283 [ΔO2(mg/L)*volumeH2O (L)].
+Time (min.) * weight (g)
+The average SMR for experimental3 was 0.00169 +/- 0.00051283 [ΔO2(mg/L)*volumeH2O (L)].
+Time (min.) * weight (g)
+The only crayfish to decrease was #3. A paired t-test showed the p-value is equal to 0.73463, t-value is equal to 0.389246, and df was equal to 2
+
+
+Discussion:
+The results of this experiment did not fully support the original hypothesis.
+that the Procambarus sp. will have a higher SMR in an environment with a higher Na concentration. The p-value, 0.73463, is not significant because it is greater than the α value, 0.05. The first two crayfish, 1 and 2, experienced an increase in SMR from control to experimental. Crayfish 3, however, decreased its SMR from 0.00231 (pre-NaCl) to 0.00169 (post-NaCl). These results entail that the increase in SMR in the other two crayfish cannot confidently be attributed solely to the increase in Sodium Chloride. The crayfish number 3 was expected to increase its SMR in the NaCl  rich environment based on the results of Normant  and Gibowicz’s experiment. However, it might have been more agitated and stressed while being placed in the control environment than the experimental one causing it to have a higher SMR. The other two crayfish may have had higher SMRs in the Sodium Chloride (NaCl)  solution because their bodies had to work harder to expel the salt in order to maintain homeostasis, therefore causing them to consume more oxygen. However, this is not certain because of the result of the paired-t-test. One of the difficulties of this experiment was working with the crayfish, who would often resist transfer into the jars. It was difficult because a similar starting metabolic rate could not be established and stress was evidently being felt by the animals. An opportunity for further study could be an experiment where five crayfish are used and are given a 10 minute acclimation period before the elapsed time of 20 minutes. This would allow, possibly, for an a more reliable set of SMR measurements since the added stress would not be as prominent of a factor and there would be more trials to observe.
+
+
+Literature Cited:
+Normant, Monika, and Magdalena Gibowicz. “Salinity Induced Changes in Haemolymph Osmolality and Total Metabolic Rate of the Mud Crab Rhithropanopeus Harrisii Gould, 1841 from Baltic Coastal Waters.” Journal of Experimental Marine Biology and Ecology 355, no. 2 (February 22, 2008): 145–52. https://doi.org/10.1016/j.jembe.2007.12.014.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-12-06+at+6.06.50+AM.png&Size=79540&Type=image%2Fpng&F=F_2nlcGibcrkb9Txz
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure1. Average Specific Metabolic Rate in three Procambarus sp. before and after Na concentration. Standard deviation for the control group is 0.00106006 and for the experimental groups is 0.00051283. Mean SMR for control (pre-NaCl) is 0.001105667 +/- 0.00106006 [ΔO2 (mg/L) * volume H2O (L)]. 
+		Time (min.) * weight (g)
+Mean SMR for experimental (post-NaCl) is 0.001261+/- 0.00051283 [ΔO2(mg/L)*volume H2O (L)].
+Time (min.) * weight (g)
+A paired t-test was used (t-value=0.389246, α=0.05, P=0.73463, df=2).
+
+
+*************************************************************************

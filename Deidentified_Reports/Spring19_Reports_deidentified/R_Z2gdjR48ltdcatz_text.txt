@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-03 20:16:33
+Author of this lab report is: Std_TCJFLMCy
+ID: R_Z2gdjR48ltdcatz
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Neuromuscular System and The Effects of Nerve-Blocking Substances on the Neuromuscular Junction
+
+Abstract:
+This experiment showed us the relationship between the nervous system and the muscular system through the sciatic nerve and the gastrocnemius muscle in the legs of Lithobates pipiens.  We were able to see how these bodily systems work together in the neuromuscular system and observe the speed at which they do so, in comparison to other similar bodily processes, such as hormones. We hypothesized that if we added a substance, such as lidocaine, to the leg in order to block sodium channels during the process of contraction that the maximal contraction voltage would decrease, which, judging by our p-value of 0.086658, was true. This experiment provides a strong understanding of this process, and encourages further thought into the different variables that could alter the results.
+
+Introduction:
+Building off of our previous research with hormones and stimuli, we are looking at a similar process for this experiment, known as the neuromuscular system. The muscles work through a motor neuron that sends signals to the myofibers in the muscle, activating the contraction of the motor unit (ie. muscle that is connected to motor neuron). [Johnson: 2018] This connection between the nervous system and muscular system of animals can show us how they work together to maintain an organism and is extremely relevant, as they pertain to all organisms. Specifically, we will be looking at the relationship between the sciatic nerve and the gastrocnemius muscle in the leg of a Lithobates pipiens, or leopard frog. We can observe how these systems work in the frog, which will carry over, at least partially, to our own selves. By looking at the way a frog’s leg moves when “triggered” can clue us into how that works in our bodies. This knowledge can be applied in many ways in order to benefit health. In this experiment specifically, we will be applying lidocaine to the leg of the frog to observe the relationship between the sciatic nerve and gastrocnemius muscle. From what we know, we hypothesize that if lidocaine is used to block sodium channels, then the voltage of the maximal contraction will decrease. 
+
+Materials and Methods:
+The experiment began by revealing the sciatic nerves and detaching the gastrocnemius muscles from the lower legs of the frogs in order to suspend them (one at a time) to the probe device. Data from this experiment would be shown by the voltage of the contraction of each leg, once as a control group (before addition of lidocaine) and once as a treatment group (after addition of lidocaine). The lidocaine was added at a value of 0.1mL. Additionally, throughout the experiment, we made sure to continuously replenish the legs with frog ringers, so that they did not dry out and alter any of our results. For both the control and treatment groups, we found a threshold for the smallest contraction value that harnessed a visible response (visible, as in, could be read on LabScribe), which in the case of all three of our legs was 0.2v. This threshold gave us a baseline to test by increasing the voltage to 0.3v and contracting the legs with this voltage three separate times. At the conclusion of testing contractions, we decided to use a one-tailed t-test.  
+
+Results:
+Our data consists of two contradicting groups, which ended up showing a decrease from the control to the treatment group, as expected. For the mean differences between the two groups look to Figure 2.0. The initial reading of the contractions of the control group all varied in the voltage at which they started, but were fairly close in proximity when referring to the treatment group’s final measurements. The main outlier to the entire experiment was the numbers of the control group for Leg #3, which contracted with a voltage of around 0.1v from a stimulus of 0.3v, but the decrease to the treatment group was still quite large in relation to the control group’s results. The average percent decrease from control group to treatment group (for all values) came out to roughly 67%. At the end of the experiment, we used our statistical test to find a p-value of 0.086658.
+
+Discussion:
+From our results, we were able to reject the null hypothesis, because our p-value came out to be significant, because it came out to be greater than 0.05. The contraction of the control group was greater than that of the treatment group for all three of our tests, which supported our initial hypothesis. This shows that the legs mechanism for contraction worked in the same way as before we added the lidocaine, but at much lower voltage, once the lidocaine had been added. This is a result of the blocking of sodium channels that would permit the influx of sodium once the threshold voltage was conducted. [Clausen: 2003] These results support everything that we suspected would happen in this experiment. To further this experiment, we could test higher voltages on the legs in order to see how much effect the lidocaine actually had on the power of the contraction. This could give us a hint into how much sodium is involved in the process of contraction. Additionally, we could alter the amount of lidocaine added to the legs with, or without, the change in voltage in order to see the differing effects of multiple combinations.
+
+Literature Cited:
+Clausen T. Na+-K+ pump regulation and skeletal muscle contractility. University of Aarhus. March 20, 2018. &lt;https://www.ncbi.nlm.nih.gov/pubmed/14506306&gt;
+
+Johnson AD. Comparative Physiology. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-33.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-03+at+8.15.06+PM.png&Size=91212&Type=image%2Fpng&F=F_pmEPTbxMHAThYCl
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-03+at+8.14.49+PM.png&Size=283058&Type=image%2Fpng&F=F_3Epfn98xszMpQNg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.0: The two different colored columns represent the two different groups of the experiment, control, which was not influenced by any outside variables, and treatment, which was injected with 0.1mL of lidocaine. The table shows the huge decrease in maximal contraction from the un-influenced contractions to those that had been affected by lidocaine.
+
+Figure 2.0: This table shows the averages of all the measurements of each individual leg, which allows us to get an idea of how much the lidocaine effected each different initial measurement. Note that Leg #3 started much lower than the other two, but still managed to have a decrease of nearly 50%.*************************************************************************
+
+
+

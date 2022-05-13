@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-01 23:00:09
+Author of this lab report is: Std_pzF9kRNM
+ID: R_2VpXbyYnousjC1C
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: How the nerve stimulation of Raina Pipiens gastrocnemius muscles is affected by adding lidocaine to them.
+
+Abstract:
+Voltage was applied to R. Pipiens’ sciatic nerves to see how their nerve stimulation differed when Lidocaine was applied to their gastrocnemius muscles compared to when it was not applied.  We hypothesized that the total nerve stimulation of our R. Pipiens gastrocnemius muscles would decrease with an injection of Lidocaine since the drug acts as a sodium inhibitor.  We took three different frog legs, applied 1Hz of voltage to them and determined their nerve stimulation as a control group, and then injected Lidocaine into them and determined their nerve stimulation as a treatment group.  The average nerve stimulation of R. Pipiens gastrocnemius muscles was 0.203 volts without Lidocaine, while it was 0.074 volts with Lidocaine.  Our p-value for the experiment ended up being p=0.047.  We determined that our experiment supported our hypothesis, since the nerve stimulation of the gastrocnemius muscles without Lidocaine resulted in more nerve stimulation than those that received Lidocaine (Fig. 1).  Lidocaine would be helpful for others to relax their muscles during potentially painful experiences, eliminating all or most of the pain that the person would feel.
+
+Introduction:
+Muscles consist of thousands of myofibers [Johnson:2018].  Skeletal muscles contain these myofibers, and are also innervated by motor neurons, which can send electrochemical signals to other neurons [Johnson:2018].  These electrochemical signals build up and must reach an action potential to cause a response.  Frogs have sciatic nerves, and these nerves control the movement of their gastrocnemius muscles, like many other species [Johnson:2018].  The Northern Leopard Frog, or R. Pipiens, has this type of connection between their sciatic nerve and gastrocnemius muscle [Johnson:2018].  When a person removes a frog’s gastrocnemius muscle from its leg, the person can test the response of the muscle’s threshold potential, which is reached when an action potential is reached, if the muscle is still connected to the sciatic nerve.  The threshold potential is the smallest amount of voltage required for a nerve to generate a response from the muscle that it is connected to [Johnson:2018].  Lidocaine is a drug that inhibits the pain response of neurons and limits the response of a muscle to a neural impulse.  Since the neural impulse is limited with Lidocaine, then the nerve stimulation will be less.  We will be applying Lidocaine to the gastrocnemius muscle of R. Pipiens to see how it affects their nerve stimulation.  Our hypothesis is that if Lidocaine is applied to a frog’s gastrocnemius muscle, then the total nerve stimulation of the sciatic nerve will be lower than normal.  Lidocaine inhibits never transmission by blocking sodium channels, therefore lowering the membrane potential of the neurons [Brinkrolf:2014].  This, in turn, will raise the threshold for depolarization to occur [Brinkrolf:2014].  If we see that Lidocaine decreases nerve stimulation, then we can use Lidocaine on someone who is experiencing pain to limit the amount of it that they feel.
+
+Materials and Methods:
+We took the sciatic nerve and gastrocnemius muscle out of the leg of a R. Pipiens.  We separated the sciatic nerve from the tissue surrounding it, leaving it connected to the gastrocnemius muscle.  Then, we hung the sciatic nerve up and applied 1 Hz of voltage to it to test the nerve stimulation of the muscle.  We kept the muscle wet with Ringer’s solution so that it remained functioning properly.  We tested the nerve stimulation of the muscle before Lidocaine was applied to it, and 5 minutes after Lidocaine was applied to it.  For the treatment group, we applied 0.1 mL of Lidocaine.  We tested three different legs, each as a control and as a treatment.  We used a paired t-test to determine significance.  For the t-test, we determined the total nerve impulse for each R. Pipiens at an impulse of around 0.1 mV and averaged these numbers for the three muscles in each group, resulting in a numerical nerve impulse for the treatment and a numerical nerve impulse for the control.
+
+Results:
+The average nerve stimulation for our frog legs before Lidocaine was injected were 0.153, 0.222, and 0.235 volts, respectively (Fig. 1).  The average standard deviation for these groups was 0.0197 (Fig. 1).  For our beginning measurements, the bigger frog legs had a higher voltage.  The nerve stimulation for our frog legs after Lidocaine was injected were 0.05, 0.034, and 0.137 volts, respectively (Fig. 1).  The average standard deviation for these groups was 0.005 (Fig. 1).  The mean nerve stimulation for our control group was statistically significant compared to the average nerve stimulation of our treatment group (t-stat = 4.453, dF = 2, p-value = 0.047). 
+
+Discussion:
+Our experiment supported our hypothesis that Lidocaine would lower the nerve stimulation of the R. Pipiens muscles (Fig. 1).  In every test, when Lidocaine was applied into the gastrocnemius muscle, the nerve stimulation was lower than when it was not applied (Fig. 1).  There was a significant difference in the nerve stimulation between our control and treatment groups (p-value = 0.047).  One error that could have occurred in our experiment is that we could have accidentally cut some of the sciatic nerve or pulled on it too hard, resulting in a faltered sciatic nerve-gastrocnemius muscle connection.  This would result in a smaller nerve stimulation than expected.  A lower nerve stimulation would occur because an animal’s sciatic nerve is connected to its gastrocnemius muscle [Wali:1990].  Another error that could have occurred is that we may have waited too long to add Ringer’s solution to the muscles.  This may have resulted in a lower total nerve stimulation than normal.  In the future, we could wait longer after injecting Lidocaine into the gastrocnemius muscles before we test their nerve stimulation.  This would help us to determine how long it would take for Lidocaine’s effects to wear off.  Lidocaine would be helpful for others to relax their muscles during potentially painful experiences, eliminating all or most of the pain that the person would feel.
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-21.
+2.	Brinkrolf P, Hahnenkamp K. 2014. Systemic lidocaine in surgical procedures: effects beyond sodium channel blockade. Current Opinion in Anesthesiology. 27: 420-425. 
+3.	Wali FA, Brain AI. Electromagnetic stimulation and inhibition of nerve conduction in frog isolated sciatic nerve-gastrocnemius muscle preparation. Accessed March 18, 2019. &lt; https://www.ncbi.nlm.nih.gov/pubmed/2082696&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Muscle+Pic.JPG&Size=29126&Type=image%2Fjpeg&F=F_3k4Fo4ZenE8T9oC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Nerve stimulation from R. Pipiens gastrocnemius muscles before and (5 minutes) after Lidocaine is injected into them*************************************************************************
+
+
+

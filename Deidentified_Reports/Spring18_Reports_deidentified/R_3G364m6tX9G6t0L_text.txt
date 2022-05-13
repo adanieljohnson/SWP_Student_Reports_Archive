@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-31 13:03:00
+Author of this lab report is: Std_tdAodhlu
+ID: R_3G364m6tX9G6t0L
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Lidocaine as a Muscle Contraction Inhibitor in the Gastrocnemius Muscle of Frog Legs
+
+Abstract:
+This experiment analyzed the success of lidocaine as a muscle contraction inhibitor in the gastrocnemius muscle of frog legs. Muscle contraction is achieved through interaction between the skeletal and nervous systems and generation of an action potential. An action potential is only produced if a specific threshold is reached, thus muscle contraction relies on threshold being achieved. Lidocaine is a compound proven to function as a sodium channel blocker, thus inhibiting action potential and in turn muscle contraction. This study seeks to test the biological question if lidocaine proves successful as an inhibitor for muscle contraction in the gastrocnemius muscle of frogs. Based on the knowledge of lidocaine as a sodium channel blocker and prior research, it was hypothesized that lidocaine would increase contraction threshold when injected into the gastrocnemius muscle of frog legs. The experiment consisted of measurement of the contraction threshold after being stimulated using a high displacement transducer. This threshold was compared in frog legs before and after injection of lidocaine. The results showed that there was a statistical significant difference between the average threshold of control and treatment groups, therefore the hypothesis was accepted. 
+
+Introduction:
+The skeletal and nervous systems work in conjunction to respond to environmental stimuli. Skeletal muscle consists of myofibers bound together by connective tissue and innervated by neurons. Motor neurons work to respond to stimuli within milliseconds by causing release of the neurotransmitter acetylcholine, which activates the opening of sodium channels to generate an action potential. This action potential amplifies its response to further release sodium and therefore initiates the activation of the contraction of the muscle fiber [Johnson: 2016]. This action potential is only generated if a specific voltage threshold is reached. This specific threshold needed varies between animals and within specific muscle types. Physical stimuli can additionally affect this threshold. Myograms are graphs that display the phases of muscle contraction, and they are recorded by attaching a muscle to a force transducer. Threshold can be determined from analyzing these myograms [Johnson: 2016].
+Lidocaine is a compound that has been proven to function as a sodium channel blocker when injected into an organism. Specifically, one study showed that lidocaine injection inhibited contraction of rats’ tracheal smooth muscle [Kao, Chu, & Wang: 2010]. Lidocaine works to increase threshold, inhibiting action potentials and therefore muscle contractions from occurring. 
+This study seeks to test the biological question if lidocaine proves successful as an inhibitor for muscle contraction in the gastrocnemius muscle of frogs. The independent variable for this experiment is the injection or absence of lidocaine into the gastrocnemius muscle, and the dependent variable is the threshold measured as a result. Based on the knowledge of lidocaine as a sodium channel blocker and prior research, it was hypothesized that lidocaine would increase contraction threshold when injected into the gastrocnemius muscle of frog legs. 
+
+
+Materials and Methods:
+In this experiment, two separate frog legs were prepared for analysis of contraction of the gastrocnemius muscle. Specifically, each frog leg was skinned using forceps and then moistened with frog Ringer’s solution. A dissecting probe was then used to separate the inner thigh muscles to isolate the sciatic nerve attached to the gastrocnemius muscle, and sleeve and pin electrodes were carefully inserted in the sciatic nerve and gastrocnemius muscle for direct stimulation of the muscle. A specialized displacement transducer and a high voltage stimulus isolator were used to create and measure the stimulus and response from the sciatic nerve to the muscle. Increasing pulse amplitude was applied and the threshold of contraction of the first frog leg was determined using the LabScribe software previously installed on the computer. This threshold was measured three times using the autoscale button on this software to determine the lowest stimulus voltage at which the muscle contraction is above zero (where there is a peak present on the graph), and these three measures were averaged. The leg was then injected with 25 mm of lidocaine solution using a syringe. After one minute, the threshold was measured three times and averaged again using the procedure previously described. This entire procedure (with both no treatment and lidocaine) was then repeated for the second frog leg to prove replicability. Data was gathered from three other groups to obtain a total of 8 data sets for frog leg thresholds. These 8 sets were averaged for the control and treatment groups to obtain two values. For statistical analysis, a two-tailed t-test was applied to these averages to compare the control thresholds and the average treatment thresholds and determine if there was a statistical significance. 
+
+
+Results:
+Table 1 displays the average threshold of muscle contraction for the control and lidocaine treatment groups. This summarized data was determined from averaging the eight data sets of frog leg muscle contractions for both control and treatment groups. As is shown in table 1, the control frog leg muscle contraction threshold was 0.168 Volts, while the frog leg treated with lidocaine had a muscle contraction threshold of 0.406 Volts. 
+Figure 1 compares the average threshold of frog leg muscle contractions for control groups and treatment groups (those that received lidocaine injections). As is visible in figure 1, the frog legs treated with lidocaine appeared to have a much higher muscle contraction threshold than those in the control group. 
+The P value determined from the two-tailed t-test for data analysis was 0.014. This value is less than 0.05, and therefore this data can be considered statistically significant. Therefore the data shows that the mean of the control group was statistically significantly different than that of the experimental group. The standard error bars on the graph additionally do not overlap, which supports this conclusion (figure 1).
+
+
+Discussion:
+As reported in results, the P value was less than 0.05, and therefore it was concluded that the results were statistically significant. This indicates that the hypothesis, that lidocaine would increase muscle contraction threshold of the gastrocnemius muscle when injected into frogs, can be accepted. This is likely a result of lidocaine functioning as a sodium channel blocker as discovered in prior research [Kao, Chu, & Wang: 2010], and this leads to the conclusion that lidocaine functions successfully as a as a muscle contraction inhibitor by increasing the threshold for contraction. 
+This study holds important implications for the scientific community as well as the general population. Lidocaine has been already been in use as an anesthetic agent for numbing purposes [Davis, Oakley, & Smith: 1984] but recent findings proving its effectiveness in various muscles in multiple organisms have found new potential uses. Specifically, a recent study has found the potential for lidocaine as a treatment for asthma [Abuan, Yeager, & Montgomery: 2010]. This study that proved the success of lidocaine as a muscle contraction inhibitor in gastrocnemius muscles leads to the potential for even further uses of lidocaine in medical contexts.
+
+
+Literature Cited:
+1.  Abuan T, Yeager M, & Montgomery AB. 2010. Inhaled lidocaine for the treatment of 
+asthma: lack of efficacy in two double-blind, randomized, placebo-controlled 
+clinical studies. Journal of Aerosol Medicine and Pulmonary Drug Delivery; New 
+Rochelle. 23: 381–388. 
+2. Davis WM, Oakley J, & Smith E. 1984. Comparison of etidocaine and lidocaine as local 
+anesthetic agents during oral surgery. Anesthesia Progress. 31:159–164.
+3. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake 
+Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15-16.
+4. Kao CH, Chu YH, & Wang, HW. 2010. Effects of lidocaine on rat’s isolated tracheal 
+smooth muscle. European Archives of Oto-Rhino-Laryngology: Official Journal of the 
+European Federation of Oto-Rhino-Laryngological Societies (EUFOS): Affiliated with 
+the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery. 267: 817–820. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1+Frog.png&Size=29055&Type=image%2Fpng&F=F_1QJvWRUg6i15mUq
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+Frog.png&Size=96802&Type=image%2Fpng&F=F_3qNAFwUd3i8y3zb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Average of control and treatment thresholds (in Volts) for frog leg gastrocnemius muscle contraction
+Figure 1: Bar graph of average threshold (in Volts) of frog leg gastrocnemius muscle contractions for control and treatment groups
+
+*************************************************************************

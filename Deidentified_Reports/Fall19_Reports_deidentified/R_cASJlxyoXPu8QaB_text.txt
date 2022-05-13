@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-09-30 20:06:23
+Author of this lab report is: Std_BSRhDSzm
+ID: R_cASJlxyoXPu8QaB
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: Effect of Nitrogen Availability on the Root Length of Radishes
+
+Abstract:
+This experiment was designed to determine the effect of different nitrogen availability on the root length of radish plants. It was hypothesized that the radishes exposed to greater levels of nitrogen would display smaller root lengths that those without. The data collected demonstrated that the radish samples given supplementary nitrogen did in fact have statistically significant shorter root lengths than the control samples, but the data was tainted by a sampling error. The results of the experiment imply how varying nitrogen levels affect the resource allocation of radishes in the form of root length, but further testing needs to be done to definitively prove the hypothesis true.
+
+
+Introduction:
+Plants have the capability to allocate their resources differently for the optimal fitness to adjust to the varying conditions in their environment. This is called phenotypic plasticity, the property than enables the plant to adjust how they change their allocation strategy to best adapt to the biotic and abiotic factors in their environment [Phillip 2006]. In this study, we will examine how Raphanus raphanistrum sativus, commonly known as radishes, employ their phenotypic plasticity to reconcile different availabilities of nitrogen [Wolfe 2005]. Nitrogen is the most fundamental element in plant growth and development, and therefore can be employed to determine how its exposure, or lack thereof, alters the phenotype of the plant [Kiba 2016]. The root length of the radishes will be studied as the main absorptive agent of the plant to determine the nitrogen levels in the soil’s effect on how the radishes allocate their resources. The hypothesis of the experiment is that the radishes exposed to lower levels of nitrogen will have longer roots attributed to their greater need to collect the vital nutrient.
+
+
+Materials and Methods:
+Radish seeds were first soaked and then 60 were extracted for the use of the experiment. Six planters filled with soil and a supplement of miracle growth were given 10 seeds each. For the two weeks following, each sample was administered 200ml of water, and the three selected for supplemental nitrogen were given an additional 20 ml of nitrate solution every day. The samples were kept in identical conditions including temperature and exposure to light, and were fed daily at the same time. From the planters, three samples were collected from each, with the exception of those who failed to produce that quantity. For the planters that did not produce three viable samples, the maximum number was extracted and 0mm lengths were assigned to the missing plants. Each plant was then measured for their respective root length. The data was then subsequently compared with a paired t-test to calculate if there was a statistically significant difference between the samples collected from the nitrogen supplied group and the control group. 
+
+
+Results:
+The experimental group given the nitrate solution demonstrated shorter root lengths than the control group. As seen in Figure 1, the nitrogen exposed group had an average root length of 58.44 mm, while the control group presented an average root length of 99.22 mm. The paired t-test revealed that there was a statistically significant difference between the root lengths of the two groups (tstat=2.735, df=8, p=0.026). The experimental group did log two zeros for the root lengths of missing samples and without those values the difference between the two samples are no longer statistically significant (tsat= 2.013, df=6, p=0.090).
+
+
+Discussion:
+The initial results of this experiment indicated that the hypothesis was correct in stating that a higher supply of nitrogen manifests itself in smaller roots for radish plants. This result is the same with similar studies concerning nitrogen’s effect on resource allocation in radishes [Leghari 2016]. The reasoning for this finding can be attributed to the higher root branching density for plants that are in environments with less available nutrients such as nitrogen and phosphorus [Postma 2014]. Although our results align with established scholarship on the topic, the data was tainted by an inability to produce the necessary number of samples for the nitrogen exposed group. The results, without the zero value placeholders for the missing samples, show to be statistically insignificant and therefore do not prove the hypothesis to be true. The average root length of the experimental group without the zeros came to be 75.14, which is still significantly less than the average of the control group that remains 99.22. To definitively prove or disprove the hypothesis, another experiment must be conducted with the proper number of samples produced to be able to compare the root lengths properly. This alternative experiment should use a larger number of radish seeds to ensure that at least 3 samples of both the experimental and control groups can be harvested. Without the supplemental data from a future experiment, no true conclusion can be reached on the definitive effect nitrogen availability has on the root length in radishes from this study.
+
+
+Literature Cited:
+1. Phillips K, 2006. Phenotypic Plasticity. Journal of Experimental Biology, 209, i-iii.
+2. Wolfe LM, Mazer SJ, 2005. Patterns of Phenotypic Plasticity and their fitness consequences in wild radish (raphanus sativus: brassicaceae). International Journal of Plant Sciences, 166, pp. 631-640.
+3. Kiba T, Krapp A, 2016. Plant nitrogen acquisition under low availability: regulation of uptake and root architecture. Oxford Journals: Plant and Cell Physiology, 57, pp. 707-714.
+4. Leghari SJ, Wahocho NA, Laghari GM, 2016. Role of nitrogen for plant growth and development: a review. Advances in Environmental Biology, 10, pp.209-218.
+5. Postma JA, Dathe A, Lynch JP, 2014. The optimal lateral root branching density for maize depends on nitrogen and phosphorus availability. Plant Physiology, 166, pp.590-602.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO+113+Lab+1-+Figure+1.png&Size=45602&Type=image%2Fpng&F=F_2qm8LAgDoe9u9vo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Root Lengths of Radish Samples*************************************************************************
+
+
+

@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-28 14:18:29
+Author of this lab report is: Std_xuOY2KyB
+ID: R_2nIFzABkwkPdocl
+Course number: BIO103L
+TA: TA_fMNrLFgi
+*************************************************************************
+Title: Effects of acid rain simulation on the root to shoot ratio of triticum
+
+Abstract:
+	The impact of acid rain on plants was examined through this lab. It was hypothesized that acid rain would cause a plant to have a higher root to shoot ratio due to reallocation of resources. One treatment group of triticum was watered with a solution of pH 4 water while a control group was watered with regular water. Data was collected on the mass (g) and length (mm) of the root and shoots of 5 individual plants from each of the 3 plants within each treatment group. The root to shoot ratios were measured and compared. There was no statistical difference in root to shoot ratio for either weight or length between the groups. One possible explanation for this may be buffering capacity of soil. 
+
+Introduction:
+	Plants face a variety of biotic and abiotic factors that impact their ability to obtain resources such as sunlight and water. In order to compensate for these challenges, plants make adjustments in the way they allocate resources. Plants may adapt the resources they send to roots versus to shoots, therefore a common way to analyze these adaptations is through a root to shoot ratio, comparing the length of the plant’s root to the length of its shoot (Johnson, 2018). One factor that may limit resource consumption for a plant is acid rain. Acid rain is formed when water in the atmosphere interacts with sulfur dioxide and nitrogen dioxide (Shukla, Sundar, et. al, 2012).  Acid rain can cause serious damage on plants as nutrients within the soil are removed (Butnariu and Samfira, 2013). Nutrients such as calcium are replaced with hydrogen atoms, leading to a reduction in photosynthetic capability (Butnariu and Samfira, 2013). In order to better understand the effects of acid rain on plants, we conducted an experiment using triticum. Based on the depletion of soil nutrients, we hypothesized that the plants watered with an acidic-rain solution will have a higher root to shoot ration that those watered with regular water. 
+
+Materials and Methods:
+	In order to test the hypothesis, two different treatment groups were needed: a control and an experimental. Each treatment group had three triticum plants. One treatment group, the control, was watered with regular water with a pH of 7 everyday. The experimental treatment group was watered with a pH 4 solution daily. The experiment lasted two weeks, with the plants stored in a greenhouse. 
+     At the end of two weeks, the plants were harvested to collect data. From each treatment group, 5 individual plants were collected from each pot, providing 15 total samples from both the control group and the experimental group. Each individual plant was weighed in its entirety, and its root and shoot were also weighed individually. Additionally, the length of the root and shoot from each plant was measured. A two-sample t-test was utilized to compare the root to shoot ratios for both mass and length between the control and the pH 4 groups. 
+
+
+Results:
+In general, the control group and the pH 4 treatment group had similar R:S ratios in both mass and length. Figure 1 displays that the mass ratios for the two groups were very similar, with the pH 4 treatment group having a lower average ratio than the control group. The control group had an average of .98 g with a standard deviation of .265 g while the pH 4 group had an average of .909 g and a standard deviation of .078 g. The p-value for the t-test was .681. Figure 2 displays the length ratios for the control vs. pH 4 group. Again, the pH 4 group had a smaller average ratio at .851 mm with a standard deviation of .06 mm than the control group with an average of .969 mm and a standard deviation of .397 mm. The p-value for the t-test was .637. 
+
+
+Discussion:
+      Based on the effects of acid rain on nutrients, we would have expected to find that the plants in the pH 4 treatment group would accomodate to a lack of nutrients in the soil by growing longer roots thus giving them a larger root to shoot ratio than those watered with regular water. However, the data does not support this hypothesis. The p-values for both root:shoot ratio comparisons were very high, indicating that there is not a statistical difference between the two groups. 
+       Other studies have been conducted to test the impact of acid rain on plants. Johnston and Shriner conducted a study in which they simulated acid rain at pH levels of 5.6, 4.3, 4.0, 3.3, 3.0 or 2.3 in three different wheat cultivars. At the same pH level of our experiment, 4.0, two of the cultivars displayed reduced growth, which differs from our results. However, the third cultivar displayed no effect, which agrees with our results (Johnston and Shriner, 1985). Other studies display similar results. Lee, Neely, Perrigan and Grothaus conducted a study in which 28 types of crops were exposed to acid rain. Yield production was inhibited in 5 crops, stimulated for 6 crops, and ambiguously affected for 1 crop. The other 15 crops did not display any statistically significant effect. Additionally, this study revealed that wheat and other small grain crops were the least sensitive to acid rain. However, root productivity was inhibited in wheat at all acid rain pH levels (Lee, et. al, 1981). 
+      The results of the studies conducted above display that not all plants are impacted in the same manner by acid rain. While some plants may exhibit decreased growth, others may not be impacted in a significant manner, such as was the case in our study. A possible explanation for this may be the buffering capacity of soil. This capacity impacts the supply of acidity that impacts the entire soil profile and depletion of nutrients (Tamm, 1976). Therefore, it is possible that effects of the acid water were not displayed within the plants due to the soil’s capacity to preserve the profile. Since our study was conducted only over the course of two weeks and based on one single exposure to the acidic treatment a day, the effects of the acidic water may not have been fully revealed. For future studies on this subject, we should have a longer time frame for the experiment. Additionally, we should expose the plants to the acidic water more often, such as two times a day. This may reveal more accurately the overall effects of acid rain on plants in the long run.
+
+Literature Cited:
+1. Johnson AD. Ecology and Evolution. Bio 113 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 18.1 (updated 1/3/18). pp. 18-19
+2. Shukla JB, Sundar S, Shivangi, Naresh R. 2012. Modeling and analysis of the acid rain formation due to precipitation and its effect on plant species. Natural Resource Modeling. 26: 53-65.
+3. Butnariu M, Samfira I. 2013. Consequences of acid rain. Journal of Ecosystem and Ecography. 4:2. 
+4. Johnston, William J. Jr, Shriner D.S.. 1985. Responses of three wheat cultivars to simulated acid rain. Environmental and Experimental Botany. 25: 349-353.
+5. Lee, Jeffer J, Neely, Grady E., Perrigan, Shelton C., Grothaus, Louis C. 1981 Effect of simulated sulfuric acid rain on yield, growth, and foliar injury of several crops. Environmental and Experimental Botany. 21: 171-185.
+6. Tamm, Carl O. 1976. Acid precipitation: biological effects in soil and forest vegetation. Ambio. 5: 235-238.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-28+at+2.04.25+PM.png&Size=54257&Type=image%2Fpng&F=F_9ZAoMaa3jWdOw7P
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-28+at+2.04.33+PM.png&Size=61031&Type=image%2Fpng&F=F_7QwQ8aqdH6tAGQR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1
+Figure 2
+
+*************************************************************************

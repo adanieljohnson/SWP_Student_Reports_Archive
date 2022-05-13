@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 17:49:56
+Author of this lab report is: Std_x0OlCuhJ
+ID: R_3OrAvhlOzfEYyft
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Effect of Lidocaine on the Threshold of the Gastrocnemius Muscle Contraction in an Rana pipies Leg
+
+Abstract:
+This experiment analyzed the effects that lidocaine had on the threshold of a muscle contraction. Lidocaine is a sodium channel blocker, which means that it will decrease the amount of Ca2+ during a contraction. In this experiment, the siatic nerve of frog legs was stimulated using a specialized displacement transducer and a high voltages stimulus indicator and the threshold of the gastrocnemius muscle was measured with and without lidocaine. After the experiment was completed the data provided that there was a statistical significance between the control and treatment groups, which means that lidocaine did have a substantial effect on the threshold of the muscle contraction of the gastrocnemius muscle in a frog leg. 
+
+Introduction:
+The skeletal muscle system is made up of tiny myofibers, which are bundled together to form muscle. The muscles within the skeletal system are responsible for supporting and moving the body. Muscle fibers are activated by motor neurons. When a motor neuron is fired a certain threshold has to be passed in order for an action potential to be released, which causes a muscle contraction. A muscle contraction goes through 3 main phases. The first, latency period, is the development of tension before movement of the muscle. The second, contraction, is the shortening of the muscle. The final step, relaxation, is when the muscle returns to normal [Sakai: 2018] There are many different variables that come into play when assessing muscle contraction. Some examples are the physical conditions in and around the muscle, the amount of fluid surrounding the myofibers, and the chemical environment within the muscle [Sakai: 2018]. Altering any one of these aspects of the neuromuscular junction may affect different aspects of a muscle's contraction. There are many things that lidocaine can be used for. In one experiment they found data that suggested that lidocaine was successful in treating patients who regularly experience writer's cramp by attenuating the tendon reflex [Kaji: 2004]. In another study they found that lidocaine caused depression of contraction to the adrenergic nerve stimulation [JF:1993]. 
+In this lab, the sodium channel of the frog's leg is going to be blocked by 25mM of lidocaine. The frog's gastrocnemius muscle will be stimulated by the sciatic nerve with and without lidocaine. The threshold of the contraction will be measured and compared to one another. Because lidocaine is a sodium channel blocker it will decrease the amount of Ca2+ and inhibit the Ach-induced increase in Ca2+ [Nishimura: 1993]. In an experiment done on dogs it was proven that lidocaine had an effect on the threshold of the dog's heart contraction [Gerstenblith: 1972]. Another experiment done on humans suggested that lidocaine was successful in treating patients who regularly experience writer's cramp by attenuating the tendon reflex [Kaji: 2004]. In this experiment the threshold of the contraction of the gastrocnemius muscle in the frog's leg is going to be analyzed with the presence of lidocaine and without lidocaine in order to see the effects that lidocaine has on the threshold. The threshold of contraction can be measured using iWorx software, therefore this lab will utilize iWorxs software. The biological null hypothesis is that if lidocaine is injected into the frog leg, then the threshold of muscle contraction will not be different from the leg without lidocaine injected. The biological alternative hypothesis is that if lidocaine is injected into the frog leg then the threshold of muscle contraction will be different than the threshold of the leg without lidocaine. The statistical null hypothesis is that there will be no statistical difference between the thresholds of muscle contraction with or without lidocaine. The statistical alternative hypothesis is that there will be a statistical difference between the threshold of the frog leg injected with lidocaine and the frog leg not injected with lidocaine. The independent variable is the amount of lidocaine injected and the dependent variable is the threshold of contraction. Both variables are continuous and measurable. 
+
+
+Materials and Methods:
+Two separate frog legs were prepared for contraction analysis of the gastrocnemius muscle. The siatic nerve was stimulated by the use of a specialized displacement transducer and a high voltage stimulus insulator. The threshold of contraction was measured using iWorks software for the first frog leg three times. The leg was then injected with .1mL of 25mM of lidocaine with a syringe. Threshold was measured three times after waiting for lidocaine to kick in. The same procedure was repeated for frog leg 2. A two-tailed t-test was taken on the frog legs of all bio classes that used lidocaine. The control group is the first contraction of the frog leg without the injection of lidocaine, while the treatment group is the frog leg contraction with lidocaine injected. 
+
+Results:
+The general trends in figure 1 are that the average threshold in the treatment group is substantially higher than the average threshold of the control group. The mean of the control group was 0.168 and the mean of the treatment group was 0.401. A two-sample t-test was taken and proved that there was statistical significance between the control and treatment groups (DF: 14, t-value: -2.818, p-value: 0.0137). Because the p-value is greater than 0.05 we reject the null and accept the alternate. 
+
+Discussion:
+The results of this experiment show that there is statistical difference between the threshold of the control group, without lidocaine, and the treatment group, with lidocaine. The p-value was 0.0137 hence rejected the null and accept the alternate hypothesis. This provided that lidocaine did have an effect on the threshold of the contraction of the gastrocnemius muscle in the frog leg. This is shown in the graph (figure 1) because the control group average threshold is substantially lower than the average threshold of the treatment group. Other experiments done on other animals also support these results [Gerstenblith: 1972]. Because the thresholds of the legs treated with lidocaine were substantially higher than those not treated with lidocaine it can be inferred that lidocaine is effective at raising the threshold of a muscle contraction. This means that lidocaine is effective as a sodium channel blocker, making the Ca2+ decrease [Nishimura: 1993]. The results of this experiment conclude that lidocaine is an effective way to increase the threshold of a muscle contraction. 
+
+Literature Cited:
+J, Nishimura, et al. "Department of Anesthesiology and Critical Care Medicine, Faculty of
+Medicine, Kyushu University, Japan." Anesthesiology, 1 May 1993
+JF, Szocik, et al. "Department of Anesthesiology, University of Michigan Medical School, Ann
+Arbor." Anesthesiology, 1993
+Kaji, Ryuji, et al. "Tonic Vibration Reflex and Muscle Afferent Block in Writer's
+Cramp." Annals of
+Neurology, Wiley-Blackwell, 8 Oct. 2004
+Quantitative study of the effect of lidocaine on the threshold for ventricular fibrillation in the
+dog Gerstenblith, Gary et al. American Journal of Cardiology , Volume 30 , Issue 3 , 242 - 24
+Sakai, 2018
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+5.49.17+PM.png&Size=134117&Type=image%2Fpng&F=F_20SClGG6P3icEKB
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+5.49.08+PM.png&Size=169957&Type=image%2Fpng&F=F_2y2hlpe3M6QQk5b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 2: Results of Two-sample T-test 
+Figure 1: The Average Threshold of Frog Leg Contractions with lidocaine injected and without lidocaine injected. This figure provides standard deviation bars that represent the variability or uncertainty of the weights of the caterpillars. 
+
+*************************************************************************

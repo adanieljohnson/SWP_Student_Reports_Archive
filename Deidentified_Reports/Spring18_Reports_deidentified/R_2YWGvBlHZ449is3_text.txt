@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 19:51:58
+Author of this lab report is: Std_Yl212L5G
+ID: R_2YWGvBlHZ449is3
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Introduction of calcium channel blocker into Rana pipiens frog leg does not affect contraction
+
+Abstract:
+In this experiment, we used the gastrocnemius muscle and sciatic nerve from the Rana pipiens frog leg to understand the basic functions of neuromuscular control. Neurotransmitters are chemical messengers that are released from the axon terminal and bind to receptors on the neuromuscular junction, which cause for an action potential to be created in the muscle. We administered a calcium channel blocker into the frog leg to discover how this process would be affected. By shocking the frog leg’s sciatic nerve, we recorded the magnitude of its twitch. Specifically, we investigated if the shock threshold would increase or decrease after administering the calcium channel blocker. We hypothesized that if we introduced a calcium channel blocker into the gastrocnemius muscle of the frog leg, then the leg will have a higher contraction threshold. There was not enough statistical evidence to support our hypothesis that introducing a calcium channel blocker would cause for a greater twitch threshold. Frogs 1 and 2 had a lower twitch threshold after the 1mM lanthanum chloride was administered, while Frogs 3 and 4 had a higher twitch threshold after the 1mM lanthanum chloride was administered. There were no noticeable, major trends from the data. 
+
+Introduction:
+This experiment was designed to understand the basic functions of neuromuscular control by using the gastrocnemius muscle and sciatic nerve from the Rana pipiens frog.  This frog is useful to use during this study due to the fact that it is simple to dissect and find its sciatic nerve. Specifically, we tried to understand how introducing a calcium channel blocker affects contraction in the leg of the frog. Neurotransmitters are also important to understand when dealing with contractions. Neurotransmitters, specifically acetylcholine, are chemical messengers that are released from the axon terminal and bind to receptors on the neuromuscular junction, which cause for an action potential to be created in the muscle. An action potential refers to a large flow of calcium down neurons, which in turn causes for a contraction to occur. Since we are introducing a calcium channel blocker in this experiment we expect that less calcium will travel down the neurons. In a study conducted by Michael Fovaeus, he discovered that when introducing a calcium channel blocker (nifedipine) into both rabbit and man that “carbachol-induced contractions were reduced” (Fovaeus: 1986). Similar to Fovaeus’s study findings, we hypothesized that if we introduced a calcium channel blocker into the gastrocnemius muscle of the frog leg, then the leg will have a higher contraction threshold.
+
+Materials and Methods:
+Attaining four separate frog’s legs from our TA, we will use the frog legs to test the threshold before and after the calcium channel blocker (1mM lanthanum chloride) is introduced. After receiving the frog leg, we dissected the leg by peeling the skin off and exposing its sciatic nerve. We then tied a knot around the tendon of the frog leg with string and hung the gastrocnemius muscle so that it forms a 90-degree angle with the ground. Making sure there was still slight tension in the string, we pinned the frog to the ground to add stability. Using a myogram to record contractions, we used cables to shock the sciatic nerve. With both frogs, we continued to shock the sciatic nerve until we could find the threshold of amps that sparked a contraction. Once we found this, we administered 1mM of the lanthanum chloride to the gastrocnemius muscle of the frog leg. We waited ten minutes for the calcium channel blocker to settle in before attempting to find the amplitude threshold again. We recorded both the amplitude (volts) we used to shock the nerve and the twitch (volts) that the muscle generated. After gathering all of our data, we used a paired t-test to compare our results before and after the calcium channel blocker was administered.
+
+
+Results:
+In the experiment, we used a paired t-test and found our p-value to be 0.950, our t-value to be 0.067, and degrees of freedom to be 3. Since our p-value is greater than 0.05, our data was found to be statistically insignificant. The average amps for twitch threshold for all the frogs before the calcium channel blocker was introduced was 0.15 volts, with a standard deviation of ±0.08 volts. The average amps for twitch threshold for all the frogs after the calcium channel blocker was introduced was 0.15 volts, with a standard deviation of ±0.12 volts. We see in table 1 that frogs 1 and 2 had a lower twitch threshold after the 1mM lanthanum chloride was administered, while Frogs 3 and 4 had a higher twitch threshold after the 1mM lanthanum chloride was administered. As seen in figure 1, both the control group and experimental group’s twitch threshold were about the same size. The experimental group has a larger standard deviation though. 
+
+Discussion:
+Since the p-value was 0.950, which is greater than 0.05, there was not enough statistical evidence to support our hypothesis that introducing a calcium channel blocker would cause for a greater twitch threshold. Rather general trends show that the calcium channel blocker did not affect the twitch threshold at all. We see that in frogs 1 and 2 that the twitch threshold was lower after the calcium channel blocker was administered and in frogs 3 and 4 that the twitch threshold was higher after the calcium channel blocker was administered. A possible flaw in our hypothesis is our explanation. Introducing a calcium channel blocker would not necessarily cause for the twitch threshold to rise. Even though action potentials are spurred by a rush of calcium through the neuron, the calcium channel pump is many times used to counteract the large amount of calcium that is rushes through the neuron by reducing the amount of calcium. This would cause for the calcium channel blocker to do the opposite of our hypothesis. Louise Beaton, in his study, studied the effects of a calcium channel blocker that was administered to humans after muscle damage occurred. He found that the calcium channel blocker helped for muscles to contract (Beaton: 2004). Potential errors involved with the experiment include not a large enough sample size of frogs. Only having for frogs to test may be too small of a sample size to determine a result. Another potential error is that we always shocked the frog without a calcium channel blocker before with a calcium channel blocker. This might cause error because the frog leg has potential to get fatigued between the time of adding the calcium channel blocker.
+
+
+Literature Cited:
+1. Fovaeus ML. 1986. Effects of Calcium, Calcium Channel Blockers and Bay K 8644 on Contractions Induced by Muscarinic Receptor Stimulation of Isolated Bladder Muscle from Rabbit and Man. The Journal of Urology. 137:4 
+2. Beaton LJ. 2004. Contraction‐induced muscle damage in humans following calcium channel blocker administration. The Journal of Physiology. 544: 849
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+7.50.29+PM.png&Size=76631&Type=image%2Fpng&F=F_1EZOOcZOMFCdPUM
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+7.51.01+PM.png&Size=15983&Type=image%2Fpng&F=F_3et179oXfvUb9Uo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. This table shows the control group and experimental group’s twitch threshold. 
+Figure 1. This graph is meant to show the average twitch threshold in both the control and experimental groups. The standard deviation of the average weight is shown by the two black error bars. Both bars show the threshold amp to be 0.15 v, however the standard deviation of the experimental group is ±0.12 and the standard deviation for the control group is ±0.08
+
+*************************************************************************

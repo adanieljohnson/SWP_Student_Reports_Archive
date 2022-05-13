@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-09-24 18:39:22
+Author of this lab report is: Std_4EirPWM4
+ID: R_vTeJoFA8zeWZqCd
+Course number: BIO101L
+TA: TA_74iQqt4j
+*************************************************************************
+Title: Analysis of the Effect AzaGuard, a type of Insect Growth Regulator, has on the growth of Manduca Sexta
+
+Abstract:
+n/a
+
+Introduction:
+Manduca Sexta, also known as tobacco hornworm, is an insect in the Family Sphingidae and Order Lepidoptera. Manduca Sexta normally have short life-spans, which make them a great model organism in doing short-term experiments. The life cycle of Manduca Sexta is holometabolous, which gives them four major life stages: egg/embryo, larvae, pupa, and adult [Johnson:2019]. During pupal metamorphosis, the major body of pupae reorganizes and develops into the form of adults. Manduca Sexta, like other insects, control their growth and development through both hormone-based and neuron-based signaling. The brain of Manduca Sexta receives inputs from either hormones releaved from their body or sensory nerve pathways, and after processing the information, the brain output signals to affect the function of insect organs and also their body organization [Johnson: 2019]. In this experiment, the hormonal inputs are mainly studied. Ecdysterone (20E) is a family of steroid hormones secreted by prothoracic glands located in the back of the head and thorax, which is responsible for controlling growth and regulating timing of molting during insect development [Purves: 2013]. Juvenile hormones, secreted by corpus allata, function by regulating the type of molt during development. 20E and JH work together to control growth, molting, and metamorphosis of Manduca [Johnson:19]. After the 4th instar of larvae, JH starts to drop slightly, while there is a temporary rise in 20E. The second rise of 20E represents the commitment pulse happened in the 5th instar of larvae, which tells that the larvae are ready to pupate. During the process of pupation, 20E first rises to the peak and then drops until pupation is done. 
+	Throughout experiment, we try to test the effects Azaguard, a type of Ecdysterone, has on the growth of Manduca Sexta. In this case, the change of their mass will be observed as a representation of insect growth. We assume that since 20E rises during pupation and it regulates the molting process of M. Sexta, it might also help them to grow. During the experiment, the insects will be divided into two groups—one control group and one treatment group. Our null hypothesis is the control group and treatment groups will fare the same growth rate in mass during the course of experiment. The alternate hypothesis is that 20E will incite faster growth in the mass of Manduca Sexta. The independent variable for each group is whether their food is added with a controlled amount of Azaguard or not, and dependent variable is the mass of M. Sexta. The food and water amount, room temperature, and concentration of 20E will be controlled the same to make sure they do not influence the results. To test the hypothesis, mass of each insect will be collected every day during the experimental process for later analysis.
+
+
+Materials and Methods:
+Eight Manduca Sexta larvae were divided by half into a control group and a treatment group. 10g of food were prepared for each caterpillar, and 7 drops of water were added into each pile of food. Four Manduca Sexta in the control group were observed without the addition of AzaGuard (20E), while the treatment group ones had food with 3 drops of Azaguard (20E) in each pile of their food. Food were shaped into clumps and put into each cell of the boxes. To ensure that there was enough air flow for Manduca Sexta to breath, numbers of breathing holes were made on the sides and the top of two boxes. The masses of each Manduca Sexta were weighed and recorded for eight days during the experiment process, including the initial day. To process the raw data collected, the weights of each group of insects were taken on average, so that the means can be used for statistical tests. In this experiment, two sample T-test is performed, and control group data were considered statistically significantly greater or less than treatment group data if the probability is less than 0.5. 
+
+Results:
+The raw data were processed by meaning the daily weights of all four Manduca Sexta in each group, and the summarized data and graph of treads are shown as below. 
+Through the summarized data of mean weight presented in Table 1, it is seen that the mean weight for control group Manduca Sexta kept increasing from Day 1 to Day 8, and the increasements were large starting from Day 5. However, the mean weight for treatment group Manduca Sexta started to decrease from Day 5, and the difference between mass of control group M. Sexta and treatment group M. Sexta became bigger and bigger. These information are also illustrated clearly in Figure 1. Also, by using t-test calculating model, it is known that the mean of the control group M. Sexta weight was statistically significantly greater than that of the treatment group (t-stats= 1.76, df = 14, One paired P Value= 0.0499).  
+
+Discussion:
+ The results rejected the null hypothesis that the control group and treatment groups will fare the same growth rate in mass during the course of experiment. Also, according to the processed data and graph, the alternative hypothesis- 20E will incite faster growth in the mass of Manduca Sexta- is also rejected. Even though the P value was less than 0.5, the directionality of the difference was still predicted incorrectly. Instead of growing faster, the Manduca Sexta fed with 20E injected food grew much slower than the control group, and their mass even diminished starting from Day 5. The mean weight of control group M. Sexta grew from 0.147g to 1.319g throughout the experiment, which meant that they evolved from the 3rd instar to the 5th instar in eight days at a normal pace [Johnson: 2019]. However, the weight losing of treatment group Manduca Sexta was abnormal. The reason for this might be that 20E was taken into the insect bodies when it was not needed. After the temporary rise of 20E near the end of 4th larval instar period, the ecdysterone hormone produced by insects themselves is actually supposed to be in a lower amount; however, as the treatment group M. Sexta kept eating food in that period, it is possible that they are poisoned by those extra amount of Azaguard. To further develop the experiment and test if extra amount of 20E really hinders the growth of Manduca Sexta, a new test could be designed, in which the amount of 20E added could be set as an independent variable and the speed of weight losing is the dependent variable. 
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 19.2 (updated July 9, 2019), pp. 5-13.
+
+2. Purves WK. 2013. 2013. Life: Science of Biology. Boston: Sinauer Associates. pp 845-865.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=186647&Type=image%2Fpng&F=F_2EyE3uKITdeVD5k
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.png&Size=118218&Type=image%2Fpng&F=F_31zbvjPwCuUtOe5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+TABLE 1. Average weight of four control group M. Sexta members and four treatment group M. Sexta members through a course of eight days. (Data are round to three decimal places, and Standard Deviation is shown in the last row.)
+
+FIGURE 1. The mean weight of Control Group M. Sexta and Treatment Group M. Sexta through a course of 8 days.*************************************************************************
+
+
+

@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-08 00:11:56
+Author of this lab report is: Std_esz8WsmT
+ID: R_3MA0dLYlIHa4BJx
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The effects of pH on chloroplasts photosynthetic rate in Brassica oleracea var. sabellica leaves
+
+Abstract:
+Photosynthesis is a process preformed in all plant life as a way to gain energy from the sun. Done through the organelles known as chloroplasts, in most common plants this occurs in their leaves. We used the leaves of the Brassica oleracea var. sabellica, otherwise known as kale, to analyze how shifting the pH of a chloroplast will affect photosynthesis. As photosynthesis is the primary way for plants to obtain energy it is relevant in many facets of life. To analyze this process, we took advantage of DCIP as it has the structure so that it starts dark blue but as photosynthesis occurs it gradually becomes clear. Using absorbance we tracked the rate of photosynthesis in our samples We found that the acidic sample greatly increased the absorbance, while the basic sample did the same but to a lesser degree. These results suggest that the proton accepting, and donating properties of acids and bases interacted with the proton gradient in the ATP synthesis of the process, preventing photosynthesis from occurring.
+
+
+
+Introduction:
+All living organisms must extract energy from external sources. Plant do this by capturing and storing energy from the sun through the process of photosynthesis. The stored energy is released by glycolysis in the cytoplasm, and respiration, which occurs in the mitochondria. Both photosynthesis and cellular respiration are two of the most important metabolic processes done by any living cell. During photosynthesis chloroplast absorb solar radiation, which in turn excites electrons to leave the carrier molecule, forming a proton gradient. This triggers a chemical reaction where the high energy electrons are stored as NADPH and the proton gradient that powers ATP synthesis.(Johnson 2016) This reaction is used to help synthesize glucose from CO2.  All of the ATP that is produced by the chloroplasts is consumed in the process of the glucose synthesis (Alberts et al. 2002). Measuring ATP production is rather difficult. However, previous experiments show that electrons are given to many acceptors, not just NADP+. With these alternative acceptors the process became much simpler to evaluate. The alternative electron acceptor used in this experiment was 2,6-dichlorophenol indophenol (DCIP). Oxidized DCIP is a dark blue compound that when reduced becomes colorless. This change in color allows the correlation between absorbance and photosynthesis (Johnson 2016). We used the leaves of Brassica oleracea var. sabellica, kale, as it had large green leaves that hold plentiful amounts of chloroplasts and is a farm crop.  With this general process in mind we began to think of how changing the pH level that the chloroplast was in would change the rate of photosynthesis whether it was basic or acidic. The answer is important as this applies to any water that could possibly be contaminated or even to acidic rain caused by pollution. All of these changes to water’s pH will directly affect crops and other plant life. We believe that the acidic pH will stop photosynthesis altogether as it will disrupt the proton gradient that drives the process of ATP synthesis forward while the basic pH will help stimulate the process as it will accept the protons increasing the gradient, thus furthering the reaction.
+
+Materials and Methods:
+We began the experiment by packing a mortar and pestle, beaker, and 3 50mL tubes in ice. While those were cooling, we removed the large central vein from a kale leaf. Next, we dried the mortar and pestle and added the leaves to it. Next, we added 10mL of grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) and grinded until it was a paste. Once again, we added 10mL and mixed until the paste became more fluid. After we strained the entire volume of green slurry through three layers of cheesecloth into the chilled beaker and then poured the beaker into a 50mL centrifuge marked A. We placed it in the centrifuge at 2800rpm for 3 minutes. We took the supernatant and poured into another 50mL centrifuge tube, this time marked B and spun for 10 minutes. Once done poured the supernatant out. We took the leftover pellet in tube B and added 15mL of grinding buffer. We Labeled three new 50mL centrifuge tubes as pH 2, 6.5, and 10. Next added 5mL of the resuspended pellet from tube B as well as 5mL of the respective pH to each tube. Let the tubes interact for 10 minutes then placed in centrifuge and spun at 2800rpm for 10 more minutes. While the three sample were being spun, we labeled 13 test tubes as blank and 1-12. The blank was made of 8mL of water and 2mL of the reaction buffer (100 mM phosphate, pH 6.5). Test tubes 1-12 were made of 6mL of water, 2mL of 130mm DCIP, and 2mL of reaction buffer. Then once all of the spinning was done, we added 100µL of the chloroplasts to the test tubes. 1-3 got the pH of 2, 4-6 got the pH of 6.5, 7-9 got it from the pH of 10, and 10-12 got no chloroplasts. Once the chloroplasts were added the initial absorbance was recorded at 600nm using a spectrophotometer. The absorbance was then recorded every 10 minutes for 30 minutes.
+
+Results:
+In order to determine if the various levels of pH affected the rate of photosynthesis the absorbances were measured and on 10-minute intervals compared the initial measurement to determine how much they changed. We did this so that the percent changes could be compared to the control and evaluate if the DCIP was becoming clear or if it was remaining its dark blue hue. We found that the acidic pH continually raised the absorbance over time. While the basic remained constant around 0% change until the last cycle. The neutral pH can also be seen to maintain a similar change for the first two but then dramatically shift to a greater absorbance. This means in the last step all of the photosynthesis stopped. We completed a T-test on the average absorbances of the sample against the no chloroplast control and it was shown to indeed be statistically significant as can be seen in Figure 1. This data shows that the acidic pH had the largest effect in the negative direction of preventing the chloroplasts from undergoing photosynthesis. 
+
+Discussion:
+With the previously stated results it can be seen that with the acidic pH the chloroplasts did not go through photosynthesis as their absorbance only got darker and darker. However, the hypothesis concerning the basic pH was not supported as at no point did it accelerate the photosynthesis of the chloroplasts. As previously stated the most likely reason for acidity to stop the reaction is that it would greatly affect the proton gradient that is so critical in the process of photosynthesis as it would provide its own extra protons shifting the gradient away from what it was meant to be. As for the basic pH sample it seems to have a lesser negating affect, but still prevented the chloroplasts from going through photosynthesis as their absorbance only teetered around the initial and then became much darker. This could be due to the same reason as the acidic sample, it interacts with the proton gradient. As a base in the most general term is a receiver of a proton, then the gradient could have been absorbed by the base, just at a slower rate than how the acid altered the reaction. Another explanation is that the shifting pH of a basic solution could easily strip some of the mechanisms of their free protons, thereby interrupting the process of photosynthesis.  These results can be seen in a similar light as previously it was found that charged ions would interrupt the process when at a shifted pH (Huber 1979). In another study it was found that the variation of pH had very similar affects as the higher more basic had little affect while the acidic pH sample significantly changed (Saenen et al. 2014). As I have no way of explaining why in the last 10 minutes the absorbances changed so dramatically from their previous trends it is possible that extra absorbance was recorded due to the cuvettes used being smudged or being placed in the spec 20 improperly. These results provided significant implications as the world we live in gets more and more polluted leading to water sources no longer being at a neutral pH but some shifting upwards or downwards on the scale. As this experiment clearly illustrates the effects of a varying pH scale only serve to prevent photosynthetic activity which could devastate crops worldwide as acidic rain and other pollutants become more prominent. For future experiments it would be best to conduct this experiment with a larger amount of trials to further find if that was an error or if that is a turning point in the reaction. With all of this in mind looking forward this experiment can provide insight into what possible pollution will do to crops, or even provide ways to enhance photosynthesis in new and unique ways.
+
+Literature Cited:
+Alberts, Bruce, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter. 2002. “Chloroplasts and Photosynthesis.” Molecular Biology of the Cell. 4th Edition. https://www.ncbi.nlm.nih.gov/books/NBK26819/. 
+Huber, S. C. 1979. “Effect of PH on Chloroplast Photosynthesis. Inhibition of O2 Evolution by Inorganic Phosphate and Magnesium.” Biochimica Et Biophysica Acta 545 (1): 131–40. 
+Saenen, Eline, Nele Horemans, Nathalie Vanhoudt, Hildegarde Vandenhove, Geert Biermans, May Van Hees, Jean Wannijn, Jaco Vangronsveld, and Ann Cuypers. 2014. “The PH Strongly Influences the Uranium-Induced Effects on the Photosynthetic Apparatus of Arabidopsis Thaliana Plants.” Plant Physiology and Biochemistry: PPB 82 (September): 254–61. https://doi.org/10.1016/j.plaphy.2014.06.012.  
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2018-10-25+%284%29.png&Size=50432&Type=image%2Fpng&F=F_3gZ2aMCs47kI7Ak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 shows the percent change at each 10 minute interval based off of the samples' absorbances. This effectively depicts how fast photosynthesis is occurring or coming to a halt.*************************************************************************
+
+
+

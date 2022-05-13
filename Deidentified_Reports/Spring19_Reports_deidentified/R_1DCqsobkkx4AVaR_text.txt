@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-10 18:35:05
+Author of this lab report is: Std_0SLqeREH
+ID: R_1DCqsobkkx4AVaR
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Reducing Effect of Differing Temperatures on Photosynthetic Activity of Spinacia oleracea.
+
+Abstract:
+Photosynthesis is the process by which organisms with chloroplasts, chiefly plants, produce energy.  Spinacia oleracea, commonly known as spinach, have large leaves that contain lots of chloroplasts.  Like most plants they function best at a set range of temperatures.  After isolating the chloroplasts using a centrifuge, one can see the effect of various temperatures on photosynthetic activity.  Spinach leaves have the highest amount of photosynthetic activity at a range of 12-35 degrees Celsius.  To find this we used five different temperature environments and watched the rate of photosynthesis over the course of 30 minutes using a spectrometer to read the absorbance of a chloroplast solution.  
+
+Introduction:
+Photosynthesis is the process that photosynthetic organisms, those with chlorophyll, turn light energy into useable forms of energy.  Photosynthesis also takes in carbon dioxide, CO2, and water, H20, to produce oxygen, O2, as byproduct along with energy.  Plants are one of the most commonly known photosynthetic organisms, due to their abundance of chlorophyll, which gives them their green color.  Within the chlorophyll, there are two photosystems, which use light energy to produce ATP, or energy.  Photosystem II creates a proton gradient which photosystem I uses to replace electrons that were used to make NADPH, within the ATP synthase complex.  The ATP synthase complex uses the NADPH to create ATP [Alberts: 2014].  Spinacia oleracea, commonly know as spinach, have leaves that are abundant with chloroplasts, which make them an excellent organism to study photosynthetic activity on.  One can separate out the chloroplasts from the rest of the spinach leaf using a centrifuge, thus allowing one to remove the variable of the leaf itself from the experiment.  As with all organisms, spinach is grown and survive best in certain temperatures, found to be from 10 to 35 degrees Celsius for all plants [Oquist: 1982].  With increasing temperatures around the world, it is important to look at the impact of differing temperatures on photosynthetic activity.  Furthermore, since spinach functions no different than the average plant, they also will vary their photosynthetic activity in different temperatures in order to survive.  A plant in extremely high temperatures will lower their rate of photosynthesis in order to conserve water.  Conversely, a plant in extremely low temperatures will lower their rate of photosynthesis in order to conserve the energy they already have.  I hypothesize that the spinach leaves at temperatures around room temperature will have the highest rates of photosynthesis.  
+
+Materials and Methods:
+We first ground the spinach leaves using a mortar and pestle with grinding buffer added.  After creating a thick paste, we strained the solution through a cheesecloth into a beaker.  After this we took the strained solution and centrifuged the solution three times, first at 200xG, 200 times the force of gravity, for three minutes at four degrees Celsius, then twice at 1000xG, 1000 times the force of gravity, for ten minutes at 4 degrees Celsius.  We then added more grinding buffer to the centrifuged solution to break up the pellet that had formed at the bottom to resuspend the chloroplasts at the bottom.  After creating our chloroplast solution, we had to create the test tubes that would be the place of the photosynthetic activity and also would vary in the temperature that each tube was placed into.  Each tube would include water, DCIP, phosphate buffer, and the chloroplast solution.  These were created and immediately the absorbance of each tube was checked with a spectrometer at 600 nm.  After creating and getting a baseline absorbance, tubes were put into different temperatures of 0 degree Celsius, 12 degree Celsius, 25 degree Celsius, 35 degree Celsius, and 60 degree Celsius environments.  The absorbance was checked every 10 minutes for a total of 30 minutes or three checks.  After, we performed a one-way ANOVA test to find the optimal range of temperatures for spinach photosynthetic activity.  
+
+Results:
+In order to determine if there was a significant difference in the photosynthetic activity in spinach leaves in differing temperatures, we took the absorbance of an isolated spinach leaf chloroplast solution from differing temperatures at set time intervals.  We found that there was a significant difference in the photosynthetic activity of the 12-35 degree Celsius range and the 25-35 degree Celsius range using the Tukey-Kramer test [p-value=0.024].  No significant difference was found between any of the remaining temperatures.  We also saw the trend of the temperatures 12 and 25 degree Celsius having the largest change in absorbance, shown in figure 1.  This suggests that the range with the highest photosynthetic activity was the 12-35 degree Celsius range.
+
+Discussion:
+Our results did support our hypothesis, that is spinach leaves, or chloroplasts, will have the highest rate of photosynthesis at temperatures around room temperature, which is around 25 degree Celsius.  We saw the largest change in absorbance, which directly correlates to photosynthetic activity, in the chloroplasts at 12 and 25 degree Celsius.  The decreasing absorbance shows that a color change in the test tube, will change in accordance to the rate of photosynthesis.  A high rate of photosynthesis would show a large color change, and thus would mean that the chloroplasts were functioning like they normally would in a normal environment, which is what we observed at the temperatures around room temperature.  The range that exhibited the most photosynthetic activity was from 12 to 35 degree Celsius.  This range of temperatures directly correlates with the range that plants generally grow well under, 10-35 degree Celsius [Oquist: 1982].  This means our results make sense biologically, as our spinach was behaving like most other plants do.  Furthermore, we can see other evidence for why the photosynthetic activity decreased in high temperatures is due to protein disassociation due to the high temperatures, which leads to decreased oxygen production [Enami: 1994].  This makes sense with our data, because after 35 degrees Celsius the rate of photosynthesis decreased.  Conversely, we can see why photosynthetic activity decreased in low temperatures, as was also reported in a study, where they noted photosynthetic activity decreases when warm weather plants are placed into a cold environment [Allen: 2001].  This also makes sense with our data, as spinach grow well and have the most photosynthetic activity at room temperatures but had decreased activity at lower temperatures.  There are a few issues to note around our experiment.  The first being that the highest temperature bath was unable to be kept at a constant 60 degrees Celsius.  The bath was kept in a range from 55 to 60 degrees Celsius.  We do not believe this had any effect on our data, as the small range of the bath was not enough to create a difference in our data.  Again, with the 60-degree group, the bath had a black tinted lid to the unit.  Obviously, this would block some of the light coming through the lid and reduce the rate of photosynthesis.  However, we do not believe that this is what lead to the temperature producing a reduced photosynthetic activity.  The temperature alone in the bath was high enough to cause protein disassociation, and therefore would stop photosynthesis [Enami: 1994].  Our test and results are important, because of the increasing amounts of climate change occurring across the globe.  Throughout the world we are seeing record high temperatures, as well as record lows, due to the changing environment.  Furthermore, we still have a need to grow food, as well as preserve the wildlife that lives here now.  To do this we must understand how these organisms’ function and grow best.  Once we understand how these organisms grow best, we can apply this knowledge into creating more efficient farms and greenhouses.  
+
+Literature Cited:
+1.	Alberts B, Bray D, Hopkin K, Johnson A, Lewis J, Raff M, Roberts K, Walter P. 2014. Energy Generation in Mitochondria and Chloroplasts. ln: Clayton J, editor. Essential Cell Biology, 4th edition. New York: Garland Science. pp 447-485.
+2.	Oquist G. 1982. Effects of low temperature on photosynthesis. Plant, Cell and Environment. 6:281-300.
+3.	Enami I, Kitamura M, Tomo T, Isokawa Y, Ohta H, Katoh S. 1994. Is the primary cause of thermal inactivation of oxygen evolution in spinach PS II membranes release of the extrinsic 33 kDa protein or of Mn?. Biochimica et Biophysica Acta. 1186:52-58.
+4.	Allen DJ, Ort DR. 2001. Impacts of chilling temperatures on photosynthesis in warm-climate plants. Trends in Plant Science. 6:36-42.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=4-10+Photosynthesis.PNG&Size=71752&Type=image%2Fpng&F=F_3nDFC8z4JQQJ72Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.  Effect of differing temperatures on the photosynthetic activity of spinach chloroplasts.  The chloroplasts were placed into five different temperature environments and the absorbance was read at controlled amounts of time.  Averages were found using a spectrometer to read the absorbance of the chloroplast solution.  Each dot represents three chloroplasts and the error bars are standard deviation.  *************************************************************************
+
+
+

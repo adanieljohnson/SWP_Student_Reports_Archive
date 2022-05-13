@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-10-31 17:15:00
+Author of this lab report is: Std_a6nzc5Oy
+ID: R_1QTWQLsDEbuDdXr
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Inhibitory Effect of Lidocane on the Contraction of Gastrocnemius Muscles in Frogs
+
+Abstract:
+The nervous system is the fast acting communication network of the body that controls everything from motion, organ function, complex thought, and bodily sensations. It is important to understand the function that the nervous system has in controlling and coordinating any bodily process involved in physiology. In this study, we look at the effect that the sodium ions have on the firing of the sciatic nerve and contraction of the gastrocnemius muscle in the legs of frogs. We expected that when exposed the muscle and nerve to a compound that blocked the ion channels that allowed for the uptake of sodium ions into the neuron, the action potential in the sciatic nerve would not occur and the muscle would not fire. Our trials resulted in the experimental trials requiring 0.1 more volts of electricity fire than the same legs did when untreated. Additionally, the control trials had an average maximum contractile force of that was 6-39 times greater than the experimental. This data brought us to the conclusion that blocking sodium ions channels inhibits the propagation of action potentials and thus also inhibits muscle contraction. This knowledge can be helpful in broadening our understanding of how to increase our own muscular fitness and treat neuromuscular diseases.
+
+Introduction:
+Myograms are devices that are used to record muscle contractions by attaching a muscle to a force transducer and recording the amount of force the muscle generates at varying stimulation time periods or voltages [Johnson: 2018]. A myogram has three phases: the latent, contraction, and refractory period. The latent period is the brief period between the stimulus and the start of the muscle contraction. The contraction occurs when the actin and myosin bind and shorten the muscle fiber. The relaxation period is when the actin and myosin unbind due to the presence of ATP and the muscle returns to its previous length [Johnson: 2018]. In order for this contraction process to occur, an action potential from a motor neuron must be sent to the muscle fiber. This action potential begins because of an influx of sodium ions through voltage gated sodium channels that cause a local depolarization. These sodium channels are in high density in the start of the axon, known as the axon hillock, which allows the depolarization to be large enough to reach it’s threshold potential and thus continue the propagation down the axon [Kole: 2008]. The propagation of the action potential causes the activation of voltage gated calcium channels. This influx of calcium causes the release of acetylcholine into the neuromuscular junction and thus activates a muscle contraction [Johnson: 2018]. Because sodium is crucial in the propagation of action potentials, we wondered what would occur if we blocked the voltage gated sodium channels in a motor neuron and what affect this blockage would have on effector muscle. We hypothesize that if the sodium channels in a motor neuron are inhibited, then action potentials would not occur, which would cause the effector muscle to not contract.
+
+Materials and Methods:
+Three frog legs were de-gloved and moistened with frog ringer solution. The gastrocnemius muscle and part of the Achilles tendon were then dethatched from the lower portion of the leg. From there, the gastrocnemius muscle was split open and the sciatic nerve was exposed. A string was tied to the Achilles tendon, and a loop was created on the other end of the string. This loop was hung from a force transducer attached to a ring stand. In the control testing, the frog legs were left untreated. The legs were then stimulated by placing stimulator electrodes on the sciatic nerve at the following voltages: 0.1, 0.2, 0.3, 0.4, 0.5, 1, 2, 3, 4, and 5 volts. The maximum contractile forces of gastrocnemius muscle were then measured by the myogram that was attached to the electrodes and force transducer. In the experimental trials, the same legs that were used for the control testing, but one milliliter of Lidocane was injected into the gastrocnemius muscle, and an additional three drops of Lidocane were applied directly to the sciatic nerve. The legs were stimulated by in the same method as the control group and at the same voltages, and the resulting maximum contractile forces were recorded by the attached myogram. We used paired t-test to test to solve for statistical significance. 
+
+Results:
+When the voltage was increased for the control legs, the average contractile force also increased (Table 1). The average contractile force of the control trials increased until the stimulus was at 4 volts, after which the force plateaued (Fig. 1). When the voltage was increased after the legs were treated with Lidocane, the contractile force of the legs remained around the same (Table 1). The average contractile force of the experimental trials increased slightly until it plateaued at 2 volts (Fig. 1). Overall, all of the legs used showed an average decrease in contractile force from the control to experimental trials (Table 2). The control contractile force of the third leg was significantly less than that of the other two legs, but it’s experimental contractile force was between that of legs one and two (Fig. 2). We used a paired t-test to test to solve for statistical significance. The mean contractile force of the control group was statistically significantly different than that of the experimental group (t-stat= 8.481, df= 9, P= 1.38×〖10〗^(-5))
+
+Discussion:
+The result of this experiment supports the alternate hypothesis that if voltage gated sodium channels are blocked in a motor neuron, then action potentials would not occur, and the effector muscle to not contract. This supported by the observation that when the legs were exposed to the sodium channel blocker, Lidocane, the action potential in the sciatic nerve required moer electricity to exceed it’s threshold potential, while when untreated, the same legs contracted with a force anywhere from 6-39 times greater than the legs treated with Lidocane. Additionally, when the legs were treated with Lidocane, they required a greater voltage stimulus to reach its threshold potential. The Lidocane inhibited the influx of sodium into the axon by blocking the voltage gated sodium channels, thus prohibiting the propagation of the action potential down the effector neurons connected to the frog leg [Johnson: 2018]. Without this action potential, no voltage change occurred, and thus no calcium channels were opened, and no acetylcholine was released into the neuromuscular junction. This lack of acetylcholine caused the muscle not to contract [Johnson: 2018]. Though it was made clear in this study that inhibiting sodium ions from entering the neuron causes decreased contractile force in the effector muscle, it is still unknown why muscles in different organisms are prone to having a lower muscular contractile force when raised in similar conditions, as was the case with our third frog leg. Additionally, further study can be done to see what role genetic predisposition plays in the number of sodium ion channels present within an individual’s neurons or the activation threshold associated with them. The information gained in this study and in future studies of the role sodium has on action potentials and muscular contractions will not only work to aid the scientific community in better understanding the complex mechanisms of the nervous system, but will also help us maximize the contractile forces of our own muscles during exercise and treat those who live with the burden of neuromuscular disease. 
+
+Literature Cited:
+1. List #. Kole M, Ilschner S, Kampa B, Williams S, Ruben P, Stuart J. 2008. Action potential generation requires a high sodium channel density in the axon initial segment. Nature Neuroscience. 11: 178-186.
+
+2. Johnson AD. Nerve and Muscle Function. Comparative Physiology BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers.18.2 (updated August 12, 2018), pp. 19-34.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-31+at+1.46.47+PM.png&Size=22533&Type=image%2Fpng&F=F_DwnEjBLOtsFM1ax
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-31+at+1.46.54+PM.png&Size=14016&Type=image%2Fpng&F=F_PvXYUjFTzE5vMoV
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+1.png&Size=32105&Type=image%2Fpng&F=F_u4vfGlT8mg0S5XP
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+2.png&Size=26968&Type=image%2Fpng&F=F_5u4fGQdFmJ2Kclb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Average Contractile Force of Control and Experimental at Varying Voltages
+Table 2. Average Contractile Force for Each Leg in Control and Experimental Trials
+Figure 1. Average Contractile Force at Varying Stimuli. The control group is represented by the black line and the experimental group is represented by the gray line. Each point on the line is the mean force from each treatment or control group.
+Figure 2. Average Contractile Force for Varying Legs During Experiemental and Control Trials. The control group is represented by the black line and the experimental group is represented by the gray line. Each point on the line is the mean force from each treatment or control group*************************************************************************
+
+
+

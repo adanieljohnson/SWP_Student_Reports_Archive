@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-01 21:31:16
+Author of this lab report is: Std_UFvaOUMh
+ID: R_81vfMqnMGAf6V7b
+Course number: BIO103L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Application of 16% nitrate solution to Fagopyrum esculentum (buckwheat) decreases root growth relative to shoot growth
+
+Abstract:
+Plants utilize multiple resources, such as nitrate, water, and carbon dioxide in order to allocate energy for use in physiological processes. We hypothesize that if Fagopyrum esculentum (buckwheat) plants are grown in a nitrate-rich environment, then their root to shoot weight and length ratios will be lower than those of plants not exposed to excess nitrate. We tested this with two groups of six plants. The control group received 200 mL of water every day for two weeks, while the experimental group received 200 mL of 16% nitrate solution. We found that the experimental group had lower root to shoot length and weight ratios than the control. This was determined to be significant with a two-sample t-test that produced p-values of 4.55×10^(-6) and 0.0075 respectively. This confirmed the initial hypothesis. Future studies may examine how different concentrations of nitrogen or different sources of nitrogen affect plant growth, as this will become increasingly important due to climate change. 
+
+Introduction:
+Plants utilize multiple resources in order to allocate energy for use in physiological processes. The leaves absorb both solar radiation and carbon dioxide, whereas the roots absorb both water and nutrients, such as phosphate and nitrate. The availability of these resources can affect the way plants allocate energy. One of the ways this may manifest is in phenotypic plasticity, a term that refers to the phenomenon through which a plant’s appearance can change in response to challenges posed by the environment. When sunlight is scarce, but the soil is full of nutrients, such as in tropical forests, plants will allocate more energy toward their leaves in order to absorb as much sunlight as possible. Because of this, their leaves will be much longer relative to their roots [Johnson, 2019]. Our understanding of how plants adapt to extreme environmental conditions will become increasingly relevant as climate change and global warming continue to impact delicate ecosystems. 
+	The concept of phenotypic plasticity based on the availability of resources in the soil has been studied extensively for decades. In a 1957 study published in the Soil Science Society of America Journal, scientists found that buckwheat plants showed more growth in soil with a high phosphate content [Armiger, 1957]. We hypothesize that if Fagopyrum esculentum (buckwheat) plants are grown in a nitrate-rich environment, then their root to shoot weight and length ratios will be lower than those of plants not exposed to excess nitrate.
+
+
+Materials and Methods:
+We gathered six planting pots full of vermiculite. Three of these containers were labelled “control” and the other three “experimental.” Twelve buckwheat seeds were dispersed throughout each container and pushed below the soil. These six pots were then placed in a controlled greenhouse for two weeks. The three control pots received 200mL of water each daily. In addition, the three experimental pots were watered with 200mL of 16% nitrate dilution every day.
+Two weeks after planting, the buckwheat was removed from its container by placing the blocks of vermiculite in water until the soil softened and could be pulled away without breaking the roots. Two plants were separated from each container (6 per treatment group) and patted dry to remove any excess water. The replicates were measured individually with a scale. Their masses were then recorded in grams. The roots and shoots were then separated using scissors, and the shoots were measured individually on the scale. These masses were recorded, and root mass was determined by subtracting the shoot weight from the total plant weight. The root and shoot weights were compared for each plant as a ratio. 
+	The length of each shoot was measured in centimeters using a ruler and recorded. The length of the roots was measured as well. These values were compared as root to shoot length rations. The average root to shoot weight and length ratios were compared for the six control replicates and six experimental replicates using a two-sample, one-tailed t-test. 
+
+
+Results:
+In general, we found that the R:S ratios were smaller in the experimental group for both length and weight (Fig. 1). The average R:S weight ratio for the control group was 0.56, while it was 0.28 for the experimental group. Additionally, the average R:S length ratio for the control group was 1.21, while the average ratio was0.54 for the experimental group. There was also less variation in the experimental group, as the standard deviation values were lower than that of the control group. 
+
+We compared the average R:S length ratios of both treatment groups using a two-sample, one-tail t-test and found a p-value of 4.55×10^(-6) (t-stat = 8.24, df = 10, P = 4.55×10^(-6)). Our group then compared the average R:S weight ratios of the control and experimental groups with a two-sample, one-tailed t-test. We found a p-value of 0.0075 (t-stat = 2.9312, df = 10, P = 0.0075).
+
+
+Discussion:
+The results of this study supported our initial hypothesis. When comparing the average root to shoot weight ratios of control and experimental plants we found that the experimental ratio was significantly lower with a p-value of 0.0075. In addition, the average root to shoot length ratio was significantly smaller as well, as the p-value of 4.55×10^(-6). Therefore, we were able to reject the null hypothesis and conclude that these results were significant. 
+	Both ratios may be smaller because by watering the experimental plants with 16% nitrate soda, we increased the nitrate concentration in the soil and the amount of nutrients that the buckwheat plants were able to absorb through their roots. Because these nutrients were so readily available to the roots, the plants allocated more energy toward shoot growth, resulting in smaller root to shoot ratios. 
+	In the future, this experiment could be expanded upon by evaluating plant growth ratios in the presence of different concentrations of nitrate. For example, we could look at how root to shoot ratios change when the buckwheat is watered with 32% nitrogen solution relative to 16%. Experiments such as this are important because understanding how the environment and access to resources affects plant growth could play a major role in agriculture in the coming decades. As climate change and industrialization progresses, agricultural yields may decrease because of pollution and deforestation. For example, a 2018 study examined nitrogen deposition in the soil. Over the past century, increasing amounts of ammonium have been released by factories [Liming, 2018]. Therefore, it is important to understand how plants utilize different nitrogen sources like ammonium and nitrate. Researchers found that uptake of ammonium led to increased root growth, while the uptake of nitrate resulted in increased shoot growth. Information like this could be utilized to determine which crops could grow successfully in a particular climate. 
+
+
+Literature Cited:
+1.	Johnson AD, Mallison S. 2019. Ecology and Evolution. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 19.1 (updated July 8, 2019), pp. 15–24. 
+
+2.	Armiger, WH, Fried, M 1957. The plant availability of various sources of phosphate rock. Soil Science Society of America, 21, pp. 183 – 188. 
+
+3.	Liming, Y, Xiaoni, X, Jianyan, X, 2018. Different impacts of external ammonium and nitrate addition on plant growth in terrestrial ecosystems: a meta-analysis. Science of the Total Environment, 686, pp. 1010 – 1018. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Final+Plant+Graph+1.png&Size=36795&Type=image%2Fpng&F=F_1C3ZSCuSEpuPM2S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average root to shoot ratios of Fagopyrum esculentum (buckwheat) plants. Root to shoot weight ratio was calculated from the average mass of plant roots divided by mass of plant shoots. Masses were measured in grams. Root to shoot length ratio was calculated by dividing the average root length by shoot length. The lengths were measured in centimeters. Blue bars represent the control group treated with 200mL of water daily. The orange bars represent the experimental group, treated with 200mL of 16% nitrate solution daily. Standard deviation is displayed in bars.*************************************************************************
+
+
+

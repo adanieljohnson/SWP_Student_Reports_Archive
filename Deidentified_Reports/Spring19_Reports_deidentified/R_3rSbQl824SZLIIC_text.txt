@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-03 18:15:36
+Author of this lab report is: Std_9n3bbJ1t
+ID: R_3rSbQl824SZLIIC
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Effects of Tubocurarine on Neuromuscular Control in Rana pipiens
+
+Abstract:
+Tubocurarine is a paralytic that is found in the bark of the South American plant Chondrodendron tomentosum. In this experiment, we studied the effects of this chemical on the neuromuscular control of Rana pipiens. We hypothesized that exposing the frog leg to tubocurarine would decrease the maximum threshold in comparison to the control. Using LabScribe, we measured the maximum threshold of the three log legs both before and after exposure to Tubocurarine. We analyzed our data using a paired t-test and found that there was a statistically significant difference between the treatment and control. Therefore, our hypothesis was supported. 
+
+Introduction:
+Muscles in animals are controlled by the nervous system in a form of rapid intercellular communication. The neuromuscular system is what links the central nervous system to the peripheral nervous system; it is essential to body movement and function [Ko: 2001]. Electrical impulses that are initiated in motor neurons result in acetylcholine, which then bind to acetylcholine receptors on the muscle fiber [Ko: 2001]. In this experiment, we will be observing the effects of tubocurarine on neuromuscular control. Tubocurarine is often used as a muscle relaxant in surgical practices; by acting as a competitive inhibitor in the acetylcholine receptor, tubocurarine blocks the nerve impulse [Aniszewski: 2015]. We will be injecting tubocurarine directly into the gastrocnemius muscle of a Rana pipiens leg and observing the reaction. Because tubocurarine is a paralytic, we hypothesize that if we expose a frog leg to tubocurarine, then the maximum threshold will be lower than that of the control.
+
+
+Materials and Methods:
+The leg was placed in a dissecting pan, and forceps were used to grasp the skin at the top of the leg and pull it down towards the foot. The skinned leg was placed in dissecting pan and moistened with Frog Ringer’s solution. A dissecting probe was used to gently separate the inner thigh muscles from the upper end to the knee. Dissecting needle and forceps were used to free the nerve from the connective tissue (not too close to the knee joint). Exposed tissues were kept moist with Ringer’s solution. The same three (3) frog legs were used for both the control and treatment experiments. The following steps were performed first without the Tubocurarine and then again with the Tubocurarine. The Stimulator Preferences icon on the LabScribe toolbar was clicked to open the stimulator control panel on the main window. The values were checked for stimulus parameters listed in stimulator control panel on main window: Pulse amplitude = 0.000V, # of Pulses = 1, Frequency = 1, Pulse width = 5ms. The values were changed by clicking on arrow buttons or typing value into the window next to the label of the parameter, and any changes were finalized. 0.000V was typed into the “Mark” box next to the right of the “Mark” button, then the nerve was stimulated with 0.000V. The comment was attached to the recording. A light load was applied to the muscle by raising the force transducer until the trace moved a few mV above the baseline. Once the light load was applied, the amplitude was changed to 0.1V. The comment was attached to the recording, then the recording was stopped as soon as the muscle twitch was finished. The threshold voltage was determined by increasing the stimulus voltage in 0.1V increments. Muscle response was recorded and marked. Once the threshold voltage was determined, the stimulus amplitude was increased in 1.0V increments, up to 5.0V. The muscle response was marked and recorded, and the data file was saved. Steps 2-12 were repeated, this time with all three (3) frog legs exposed to the tubocurarine. A paired t-test was used to analyze the results.
+
+Results:
+In all three frog legs, the maximum threshold when treated with tubocurarine was significantly lower than the maximum threshold in the control (Fig.1). The greatest difference was found in frog leg number two, where the maximum threshold of the treated leg (0.448) was nearly half that of the control leg (0.845) (Table 1). The smallest difference was seen in frog leg number three, where the controlled maximum threshold was 0.306 and the treated maximum threshold was 0.122 (Table 1). The average maximum threshold before treatment was 0.7253, and the average maximum threshold after treatment was 0.44767. We used a paired t-test to analyze the results and found that the maximum threshold of the treatment group was significantly different than the maximum threshold of the control group (t-value = 4.420545, P-value = 0.047443, df = 2). Based on these results, the control and treatment groups are statistically significantly different.
+
+
+Discussion:
+Our hypothesis, that exposing a frog leg to tubocurarine would decrease the maximum threshold in comparison to the control group, was supported. Based on our results, we determined that the average maximum threshold of the control was significantly higher than that of the legs after they had been treated. Therefore, the null hypothesis was rejected. 
+Because of tubocurarine’s paralytic effects, the muscle’s maximum threshold decreased upon exposure. In terms of possible error, our measurement of the maximum threshold in both the control and treatment groups could have been affected by desensitization of the muscle. In a study examining the effects of tubocurarine on the neuromuscular junction in frog legs, it was found that desensitization can affect measurements of the size of equilibrium responses and the rate of slow reactions [Colquhoun: 1978]. This error could be reduced by leaving more time in between measurements. Further studies should examine whether or not tubocurarine has similar effects when applied topically to the muscle rather than given via an injection. Tubocurarine has been found to have medical benefits; it is often used as a muscle relaxant and form of anesthesia [Console: 1951]. Therefore, it is important that extensive research is done to document all of its effects.
+
+
+Literature Cited:
+1.	Aniszewski, T. 2015. Applied potential and current applications of alkaloids. Alkaloids. 2: 345-420.
+2.	Colquhoun, D., Dreyer, F., Sheridan, R.E. 1978. The actions of tubocurarine at the frog neuromuscular junction. Journal of Physiology. 293: 247-284.
+3.	Console, AD. 1951. The clinical use of d-tubocurarine. The Squibb Institute for Medical Research. 54(3): 498-502.
+4.	Furman, B.L. 2018. Tubocurarine. Reference Module in Biomedical Sciences. 
+5.	Ko, CP. 2001. Neuromuscular system. International Encyclopedia of the Social and Behavioral Sciences. 10595-10600.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=unnamed.png&Size=59967&Type=image%2Fpng&F=F_2PqhfNGxCpKl396
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-03+at+6.09.37+PM.png&Size=544046&Type=image%2Fpng&F=F_1lmeiSrKj0pHAKE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Table 1: Maximum threshold response values of frog legs before (control) and after (response) exposure to tubocurarine. Figure 1: Maximum threshold response values of frog legs before (control, blue) vs. after (response, orange) exposure to tubocurarine.
+*************************************************************************
+
+
+

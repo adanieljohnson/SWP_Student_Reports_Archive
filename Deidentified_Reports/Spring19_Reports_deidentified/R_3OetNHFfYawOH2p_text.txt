@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-13 20:02:42
+Author of this lab report is: Std_Pjwpm4fN
+ID: R_3OetNHFfYawOH2p
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The effect of IGRs on Tobacco Hornworm (Manduca sexta) caterpillar growth
+
+Abstract:
+Tobacco hornworm (Manduca sexta) growth is regulated by Juvenile Hormones (JHs) which are responsible for the type of molt during development. Insect growth regulators (IGRs) are popular pesticides as it disrupts normal development which results in the insect’s mortality. We will observe the growth and development of M. sexta caterpillars with and without the addition of IGRs that mimic JH. To test this, the treatment group was given food that had added IGR and the control group was given standard food. The caterpillars were weighed daily for two weeks. The mean difference in the weight of the treatment group was not statistically significantly different than that of the control group. (P = 0.400527). Factors such as caterpillar and sample size may have contributed to these results as its period of sensitivity towards JH may have already passed and the differences or errors that occur are more significant in a small sample. Future experiments should look into using younger caterpillars of similar weights and to elongate the experiment window in addition to doing more complex experiments with simultaneous JH and 20E manipulation as its roles are related.
+
+Introduction:
+Tobacco hornworm (Manduca sexta) is an insect in the order Lepidoptera. It becomes a moth in adulthood and goes through a holometabolous cycle of development. [Nijhout: 1981] For this growth to occur, there are specific insect hormones that need to rise and fall. One important group of hormones are the Juvenile Hormones (JHs) that are secreted by the corpus allata during growth and is responsible for the type of molt that occurs during the different stages of development. [Kiguchi: 1978]  High levels of JH help postpone the metamorphosis of the larvae until they become of an appropriate size and only a drop in JH secretion allows the larvae to form a metamorphic molt to help it transform into an adult. [Smykal: 2014] Without JH and other hormones, M. sexta would not be able to survive. There have been many studies done on insecticides that focus on the control of insect hormones in order to eliminate them. Insect growth regulators (IGRs) have been popular in the market as they aim to disrupt normal development by affecting processes regulated by two major groups of non-peptidic hormones, JHs and ecdysteroids (20E), which results in the insect’s mortality before it reaches adulthood. [Gupta: 2014] In this lab, we will observe the growth and development of M. sexta caterpillars with and without the addition of IGRs that mimic JH. The hypothesis of this experiment is that there will be a significant difference in the growth of M. sexta treated with IGRs and the growth of M. sexta not treated with IGRs. With regular IGRs, both the 20E and JH hormone regulation is disrupted, however, the effects of added JH only on M. sexta caterpillars is not known. Therefore, we have decided to put this hypothesis to the test.
+
+Materials and Methods:
+Three M. sexta caterpillars were given 10 grams of pre-prepared food mixed with 5 drops of distilled H2O each. The caterpillars were then placed in a container and in an incubator. This was repeated on three more caterpillars with 5 drops of IGR instead of distilled H2O. The caterpillars were given the same amount of food and were also weighed daily for two weeks. Weight data was collected in a spreadsheet. The mean daily weight along with its standard deviation was also calculated for each condition. The mean difference in weight from the start and end of the experiment for each condition was noted and made into a bar graph and is the basis of measurement of growth. A two-sample t-test was used to calculate a two-tailed p-value and to determine the significant difference in weight of the two conditions.
+
+Results:
+The mean difference in weight in grams for the treatment and control group was 5.34 ± 2.44 and 5.89 ± 2.98 respectively (Figure 1). The mean difference in the weight of the treatment group was not statistically significantly different than that of the control group. (t-stat = 0.854695 , df = 26, P = 0.400527). 
+
+Discussion:
+According to the collected data, the hypothesis that there will be a significant difference in the growth of M. sexta treated with IGRs and the growth of M. sexta not treated with IGRs was not supported. We observed no significant difference in the growth of the two conditions and therefore, we can conclude that IGRs that mimic the JH hormone does not have an effect on M. sexta caterpillar growth as the p-value is larger than the alpha of 0.05. With the knowledge that high levels of JH should have incited premature and rapid larval stage development, it, in turn, should have also prevented the process of pupating. The results that were obtained could have indicated that as both the control and treatment group did not molt and did not have a difference in physical characteristics as all of the caterpillars were around the same size and showed no signs of pupation. There were many factors that could have contributed to this result, one being the fact that the caterpillars were quite large at the start of the experiment. As reported in past studies, the caterpillars were at a later stage of development at the start of the experiment and the JHs have already somewhat regulated their growth and its overall period of sensitivity has passed. [Staal: 1975] Therefore, a change in JH levels may not have had a large effect on its growth. Secondly, the sample size and the experiment window was small (three caterpillars per condition and two weeks). This does not allow for a large collection of data and the differences or errors that occur with each caterpillar would have a significant effect on the data. In general, JHs are considered one of the most fascinating hormone groups in insects as its role is highly important in development but its functional changes at the molecular level still are not fully understood. Past experiments have speculated that this is because JH affects a variety of systems in the insect and its role is heavily interconnected with other hormone groups such as 20E. [Wheeler: 2003] Future experiments should look into using younger caterpillars of similar weights and to elongate the experiment window in order to collect robust data in addition to doing more complex experiments with simultaneous JH and 20E manipulation.
+
+Literature Cited:
+Gupta, V. K., & Jindal, V. 2014. Biotechnological approaches for insect pest management. In Integrated Pest Management. pp. 311-335.
+Kiguchi, K., & Riddiford, L. M. 1978. A role of juvenile hormone in pupal development of the tobacco hornworm, Manduca sexta. Journal of Insect Physiology, 24. 10-11, 673-680.
+Nijhout, H. F. 1981. Physiological control of molting in insects. American Zoologist, 21. 3, 631-640.
+Smykal, V., Daimon, T., Kayukawa, T., Takaki, K., Shinoda, T., & Jindra, M. 2014. Importance of juvenile hormone signaling arises with competence of insect larvae to metamorphose. Developmental Biology, 390. 2, 221-230.
+Staal, G. B. 1975. Insect growth regulators with juvenile hormone activity. Annual review of entomology, 20. 1, 417-460.
+Wheeler, D. E., & Nijhout, H. F. 2003. A perspective for understanding the modes of juvenile hormone action as a lipid signaling system. Bioessays, 25. 10, 994-1001.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure1Hornworm.png&Size=20518&Type=image%2Fpng&F=F_2DOdD4lx7RQsXJ6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Mean difference in weight (in grams) of the treatment vs control. Error bars represent ± 1 s.d. T-test result showed the means were not statistically significantly different (P&gt;0.05).*************************************************************************
+
+
+

@@ -1,0 +1,90 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-03 16:26:15
+Author of this lab report is: Std_ugxzuB6Z
+ID: R_24OaeiVA98hoOfA
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The Effects of Caffeine on Contraction of Skeletal Muscle
+
+Abstract:
+Muscles are crucial for carrying out our daily bodily movements and blood flow etc. Stimulants such as caffeine would affect the contraction of skeletal muscles. We conducted an experiment to testify our hypothesis that if we inject caffeine into the gastrocnemius of a Rana pipiens leg, the muscle will show stronger contraction leading to chemically induced tetany. The result of significant p-value demonstrated that the alternative hypothesis was accepted, which implied that caffeine injection is related to the increase in strength of muscle contraction. Future research should be done with different experimenting time focused on how other stimulants change our physiological performances. By understanding the effect of caffeine on gastrocnemius muscle of a frog leg, we would gain a deeper insight into how caffeine as a stimulant can affect the human body as a whole and come up with treatment concerning muscle contraction failure diseases.
+
+Introduction:
+Nerves and muscles allow organisms to sense and respond to the internal and external environment. Muscles are crucial for carrying out our daily bodily movements and blood flow etc. One of the major muscle group is skeletal muscle, and it is controlled by the somatic nervous system voluntarily [Birbrair:2013]. An individual skeletal muscle consists of many muscle fibers (muscle cells) bundles which wrapped in a connective tissue covering. Each skeletal muscle cell is made of myofilament structures of actin and myosin, also named as sarcomere [Structure of Skeletal Muscle:n.d.]. Muscle contraction is triggered when an action potential in a motor neuron reaches the chemical synapse between the motor neuron and a muscle fiber. While depolarization happening in the axon terminal, neurotransmitters, such as acetylcholine, are released into the synapse between the neuron and muscle. Once the neurotransmitter binds to a receptor, Calcium ion channel is opened, and Calcium ions influx into the muscle cell. Calcium ions travel through the T tubule, flow out of sarcoplasmic reticulum, and enter sarcoplasm where to bind troponin, uncover actin binding sites, and initiate contraction. During a muscle contraction, the myosin head binds to an actin filament, and it changes conformation after the release of inorganic phosphate. This movement of myosin is also named as power stroke. After action potential ceases, Calcium is pumped out of sarcoplasmic reticulum and leaves the troponin molecules. The sarcomere is thus relaxed waiting for the next signal from motor neurons [Sadava:2017].
+
+Caffeine is one of the central nervous system stimulants that can activate Calcium ion channel [Olorunshola:2011]. It has become the most widely used psychoactive drug since it can stimulate many aspects of the body. One of the aspects is that it can mimic antagonist and block the adenosine receptors to prevent the onset of drowsiness induced by adenosine, and people usually take advantage of this aspect in order to stay awake and alert. Apart from that, it would also affect the contraction of muscles because of its attribute of stimulant [Cappelletti:2015].
+
+In this experiment, we are using the Gastrocnemius muscle of a Rana pipiens. Gastrocnemius muscle, a kind of skeletal muscle, is related to all kinds of “fast” movement of legs. Rana pipiens is under the Genus Lithobates, also known as Northern leopard frog, which featured for its dark, circular spots all over the body. The reason for using the Gastrocnemius muscle of Rana pipiens is because its muscle tissue is relatively easy to work with experimentally, for it can be dissected completely with little loss of functions without removing other noncontractile tissues [Falls:2008].
+
+Our hypothesis is that if we inject caffeine into the gastrocnemius muscle of a Rana pipiens leg, the muscle will show stronger contraction leading to chemically induced tetany. 
+
+
+Materials and Methods:
+We took three fresh frog legs, peeled the skin of the frog legs, separated the inner thigh muscles beginning at the upper end and extending to the knee, and moisturized the skinned frog legs with Ringer’s solution. We took frog leg #1, connected the BNC connector to sleeve electrodes, and placed the pin electrodes’ tip in the middle of the gastrocnemius muscle of the frog leg. We set the output to be: Pulse Amplitude 2 Volts, Number of Pulses 5, Pulse Width 5, Frequency 5 Hz, and Holding Potential 0 Volts. After clicking Apply, we started the flow of current. After 5 pulses with frog leg #1 under normal condition, we injected 5mL 200 millimolar caffeine into the gastrocnemius muscle of the frog leg and started another 5 pulses. The same process was repeated for frog leg #2 and frog leg #3.
+
+After recording the voltage of 5 pulses before caffeine injection and 5 pulses after caffeine injection of all three frog legs, we computed the average voltage of 5 pulses before injection and 5 pulses after injection of all three frog legs. One-tailed paired t-test was used in this experiment to compare the mean of voltages before caffeine injection (control group) and after caffeine injection (experiment group). P-value was calculated for the differences in voltage with and without caffeine injection.
+
+
+Results:
+The force of contraction a single action potential could generate is defined as a twitch, which is observed via electrical stimulus launched by electrodes as voltage in volts. The average twitch of frog leg under normal condition (controlled condition) ranged from 0.0592 to 0.4274 volts, and the average twitch of frog leg under caffeine condition (experimental condition) ranged from 0.5252 to 1.268 volts (figure 1). The differences in average twitch between caffeine and control groups range from 0.466 to 0.8406 volts (table 1). The P-value of the average changes in voltage is 0.04, which is significant (table 1). The frog leg #1 became very stiff after caffeine injection, the frog leg #2 became even stiffer and showed lower levels of contraction after caffeine injection, and the frog leg #3 was still slightly squishy. Twitches were summed to form the incomplete tetany (Figure 2, 3, 4).
+
+Discussion:
+The significant P-value indicates that the results are not likely to be observed under the null hypothesis, and the alternative hypothesis is supported: if we inject caffeine into the gastrocnemius of a frog leg, the muscle will show stronger contraction. We can see that after caffeine injection, the twitches were summed, which indicates that tension of contraction increased and became more sustained. If action potentials are launched too frequently, new twitches are triggered before sarcomere could relax and myofilament could return to resting condition. Twitches thus sum together since sarcoplasmic reticulum could not pump calcium out completely before the next action potential arrives [Sadava:2017]. However, from Figure 2, 3, and 4, we are unable to see complete tetany, this could be that the time of experiment was not long enough to achieve tetanus (the maximum level of contraction) or could be that the action potential was not frequent enough and the remaining Calcium did not trigger continuous power strokes. Research done by Olorunshola and Achie 2011 demonstrates that caffeine can increase the force of contraction and the duration of contraction by opening the Calcium channel and thus increasing the number of Calcium ions released from the sarcoplasmic reticulum. This is achieved by physically coupling and conformationally changing the voltage sensitivity of the dihydropyridine receptor. In order to prove their research findings, they also used Calcium channel blocker nifedipine and magnesium chloride while injecting caffeine. Results not only confirm their previous findings but also indicate that caffeine addiction could be cured by modifying Ryanodine receptors through injection of its antagonists or agonists [Olorunshola:2011]. Although we are unable to come up with causational relationship between caffeine and muscle contraction, our research findings are well enough to prove caffeine injection could affect muscle contraction. Future research should be done with different experimenting time focused on how other stimulants change our physiological performances, such as how caffeine as a stimulant effect on our brain functions. By understanding the effect of caffeine on gastrocnemius muscle of a frog leg, we would gain a deeper insight into how caffeine as a stimulant can affect the human body as a whole. Thus, we are able to treat diseases concerning with muscle contraction failure.
+
+Literature Cited:
+1.	Birbrair A. Zhang T. Wang Z-M. Messi ML. Enikolopov GN. Mintz A. Delbono O. 2013. Role of Pericytes in Skeletal Muscle Regeneration and Fat Accumulation. Stem Cells and Development. 22(16):2298–2314.
+ 
+2.	Cappelletti S. Daria P. Sani G. Aromatario M. 2015. Caffeine: Cognitive and Physical Performance Enhancer or Psychoactive Drug? Current Neuropharmacology. 13(1):71–88.
+
+3.	Control of Muscle Tension. n.d. Boundless Anatomy and Physiology. Lumencandela. Accessed March 19, 2019. &lt;https://courses.lumenlearning.com/boundless-ap/chapter/control-of-muscle-tension/&gt;
+
+4.	Falls C. 2008. BSL PRO Lesson A02: Contractility of Skeletal Muscle Using Frog Gastrocnemius Muscle. BIOPAC Systems, Inc. Accessed April 2, 2019. &lt; https://www.biopac.com/wp-content/uploads/a02.pdf&gt;
+
+5.	Olorunshola KV. Achie LN. 2011. Caffeine Alters Skeletal Muscle Contraction by Opening of Calcium Ion Channels. Current Research Journal of Biological Sciences. Maxwell Scientific Organization. 3(5): 521-525.
+
+6.	Sadava DE. Hillis DM. Heller HC. Hacker SD. 2017. Life: The Science of Biology. W. H. Freeman. 10:998-1004.
+
+7.	Structure of Skeletal Muscle. n.d. National Cancer Institute SEER Training Modules. Accessed March 19, 2019. &lt;https://training.seer.cancer.gov/anatomy/muscular/structure.html&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=9029&Type=image%2Fpng&F=F_1eRWfsINVY8zigs
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.png&Size=8918&Type=image%2Fpng&F=F_1PaRqOS4uEONTz3
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=27347&Type=image%2Fpng&F=F_3r39FIaEXVNNo69
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+3.png&Size=27508&Type=image%2Fpng&F=F_2waAUE2GC802LG8
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+4.png&Size=25894&Type=image%2Fpng&F=F_2Bg7TOLBIbG3Csm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average twitch generated (in volts) of frog legs before caffeine injection and after caffeine injection, and the range of voltages generated for three frog legs.
+
+Table 1: Differences in average twitch (in volts) between frog legs after caffeine injection and frog leg before caffeine injection, and the P-value of the average changes in voltage.
+
+Figure 2: Muscle twitches during the process of caffeine injection of frog leg #1
+
+Figure 3: Muscle twitches during the process of caffeine injection of frog leg #2
+
+Figure 4: Muscle twitches during the process of caffeine injection of frog leg #3*************************************************************************
+
+
+

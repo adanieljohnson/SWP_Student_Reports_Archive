@@ -1,0 +1,54 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-20 14:11:37
+Author of this lab report is: Std_c4XRzBZX
+Course number: BIO103L
+TA: TA_bc8EVX09
+*************************************************************************
+Title: Root-Shoot Allocation Pattern of Radishes (Raphanus sativus) Under Different Humidity Level
+
+Abstract:
+Plants need to allocate its limited accessible resources efficiently for the optimal survival strategy. We wonder if the plant resource allocation pattern will be different under different humidity level. We plant two groups of radishes (Raphanus sativus) under different humidity level and calculate their root:shoot ratio to see their allocation pattern. Our result shows that the radishes growing in lower humidity level tend to spend more energy in developing roots comparing to radishes growing up in high humidity level.
+
+Introduction:
+All organisms need resources to grow and reproduce. Because the resources are limited, it is essential for organisms to allocate limited resources efficiently to achieve the optimal survival strategy. The optimal survival strategy varies under different environmental condition. There is evidence shown that plants can adapt to the environment and find their optimal allocation pattern for reproduction. (Tonnabel et al., 2012). The choice of allocation pattern is not only crucial for reproduction, but it is also critical when plants are growing. Root : shoot ratio is justifiable for describing the allocation pattern of a developing plant if the root is completely collected. (Mokany et al., 2005). Therefore, we decided to use root : shoot ratio as an indicator to look for resource allocation pattern. Research has done for the different resource allocation pattern of plants when there is a different amount of soil carbon inputs. (Poeplau, 2016). Here we want to look at allocation pattern under the influence of humidity. We choose radish (Raphanus sativus) as our research subject because it is easy to grow. We hypothesize that the radishes growing up at lower humidity level will spend more resources on developing roots than radishes growing up at higher humidity level. When the humidity level is low, the radishes need to develop more roots to extract water from the soil. When the humidity level is high, the radishes do not need excessive roots but need more shoots to do respiration to release excessive water.
+
+Materials and Methods:
+Materials and Methods
+We planted 20 radish seeds at each of the 6 containers, which were randomly assigned into 2 groups with 3 containers in each. Containers in each group were placed in two glass boxes. The box for the control group was dry; the box for experimental group contained some water and containers were placed on a platform to keep them from directly contacting with water. We watered them every day for 2 weeks. Then we randomly selected 3 sets of 5 radishes from each group and weighed their total mass of the whole plant, the total mass of the root, and the total mass of the shoot. We divided total mass by five to get the average individual mass for root and shoot and used these data to calculate root-shoot weight ratio. We measured the longest root and shoot and calculated the root-shoot length ratio. We calculated the average root-shoot weight and length ratio and standard deviation for 3 sets of data. The result is shown in figure 1.
+Figure 1. Radishes grow up at low humidity level has larger root-shoot weight and length ratio, meaning radishes grow up at low humidity level allocate more resources than radishes grow up at high humidity level to develop root instead of shoot.
+Statistical Analysis
+We used the one tail two samples t-test to see if the difference between root-shoot weight ratio and the difference between root-shoot length ratio of two groups are statistically significant. We used a 95% confidence interval. If the inferred difference of two means is located in the 95% area of the normal curve constructed by the differences between two sample means, we reject our null hypothesis and accept our alternative hypothesis. Otherwise, our result is likely to happen by chance, and we fail to reject our null hypothesis.
+
+Results:
+It is shown in figure 1 that, for both root-shoot weight and length ratio, the radishes growing up at low humidity level has the larger ratio for roots than shoots comparing to radishes growing up at high humidity level. 
+The two samples t-test examines the statistical significance of the difference between two sets of data. Using a 95% confidence interval, our result is statistical significant (root-shoot weight ratio: t=1.8532, p=0.1375; root-shoot length ratio: t=1.9581, p=0.1218). Thus, we reject our null hypothesis and accept our alternative hypothesis. We can conclude that the humidity level does affect the resource allocation pattern in radishes. When the humidity level is high, radishes tend to spend more energy on developing shoots comparing to roots; when the humidity level is low, radishes tend to spend more energy on developing roots comparing to shoots.
+
+Discussion:
+The humidity level is a factor affecting resource allocation pattern of plants. When the humidity level is low, the plants need to spend more energy to develop roots to extract water from the soil. When the humidity level is high, the plants spend more energy to develop shoots for photosynthesis and water evaporation. This indicates that plants have physiological plasticity and plants can find their optimal solution for survival through morphological changes.
+Our experiment is not the only one shown that resource allocation pattern of plants is affected by humidity level. The research done by Robakowski and his colleagues of root prunasin concentration in the root of Prunus serotina also demonstrated the humidity influence on plant allocation pattern. Prunasin is a kind of protein that can decompose to form hydrogen cyanide (HCN). The HCN level is an indicator of resource allocation: developing leaves showing a high level of HCN; developing shoots showing a low level of HCN. Thus, the plant allocation pattern can be inferred by examining the root prunasin concentration, which turns out being affected primarily by air temperature and humidity. (Robakowski et al., 2016).
+Having plasticity for morphological change is critical not only in finding optimal survival strategy, but it also illustrates the ability of adaption, which plays an important role in the interspecific competition. Metrosideros polymorpha become the dominant tree species in Hawaii because it can have a large number of phenotypic variations depending on the environment it is in. Being able to adapt to different environmental conditions help M. polymorph to occupy large niches for survival and win the species competition in Hawaii. (Cordell et al., 1998).
+In conclusion, our result shows that radishes have the plasticity to allocate its resources differently based on environmental cues. This ability may help radishes to survive through different environmental conditions. Further studies can test the range and limit of the plasticity that radishes have under different humidity level. In another word, what are extremely humid and wet conditions that radishes can survive through.
+
+Literature Cited:
+Cordell, S., Goldstein, G., Mueller-Dombois, D., Webb, D., & Vitousek, P. M. (1998). Physiological and morphological variation in Metrosideros polymorpha , a dominant Hawaiian tree species, along an altitudinal gradient: the role of phenotypic plasticity. Oecologia, 113(2), 188-196. doi:10.1007/s004420050367
+Mokany, K., Raison, R. J., & Prokushkin, A. S. (2005). Critical analysis of root : shoot ratios in terrestrial biomes. Global Change Biology, 12(1), 84-96. doi:10.1111/j.1365-2486.2005.001043.x
+Poeplau, C. (2016). Estimating root: shoot ratio and soil carbon inputs in temperate grasslands with the RothC model. Plant & Soil, 407(1/2), 293-305. doi:10.1007/s11104-016-3017-8
+Robakowski, P., Bielinis, E., Stachowiak, J., Mejza, I., & Bułaj, B. (2016). Seasonal Changes Affect Root Prunasin Concentration in Prunus serotina and Override Species Interactions between P. serotina and Quercus petraea. Journal Of Chemical Ecology, 42(3), 202-214. doi:10.1007/s10886-016-0678-y
+Tonnabel, J., Dooren, T. J., Midgley, J., Haccou, P., Mignot, A., Ronce, O., & Olivieri, I. (2012). Optimal resource allocation in a serotinous non-resprouting plant species under different fire regimes. Journal of Ecology, 100(6), 1464-1474. doi:10.1111/j.1365-2745.2012.02023.x
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=102709&Type=image%2Fpng&F=F_d0euZzWHgtaMrd3
+
+
+
+
+
+
+
+
+Figure Legends: 
+
+
+*************************************************************************

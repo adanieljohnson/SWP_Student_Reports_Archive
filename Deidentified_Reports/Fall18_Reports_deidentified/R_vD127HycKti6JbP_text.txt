@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-29 16:51:50
+Author of this lab report is: Std_RRGi7kt3
+ID: R_vD127HycKti6JbP
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of Neomycin on Physarum Movement
+
+Abstract:
+The main objective of this lab is to study the effect of a Phospholipase C and IP3 inhibitor on the movement of slime mold when given the opportunity to pursue a food source. The scientific name of the organism used in the experiment is Physarum polycephalum and it crawls by contraction of actin microfilaments. A G-protein signaling pathway is responsible for flow of calcium ions that cause the contractions. A Phospholipase C inhibitor would potentially stop this pathway and lead to no movement. The null hypothesis is that neomycin has no effect on the movement of the slime mold, while the alternative hypothesis is that it stops any movement. After incubating 12 plates for 64 hours, six making up the control group and the other six making up the neomycin group, a one-tailed two sample t test with equal variance was conducted. The p-value was 0.017, which is less than the significance level, meaning there is evidence to reject the null hypothesis. It was known for there to be issues with some of Physarum, so in the future more trials should be done to make results more reliable. 
+
+Introduction:
+Organisms behave and react to certain stimuli in a multitude of ways.  Specific behaviors can be observed and understood with proper knowledge of cell signaling. The model organism used in lab is the Physarum polycephalum, otherwise known as the slime mold. Three major behaviors that are exhibited are cytoplasmic streaming, phototaxis, and chemotaxis [Johnson:2016]. Chemotaxis is the movement away(negative) or towards(positive) a certain compound, which can either intensify or inhibit intracellular cell signaling. The movement of the slime mold is caused by actin microfilaments, which are also responsible for muscle contractions in the human body. Likewise, calcium ions are required for any kind of contraction to occur for the Physarum to move. The calcium needed for production comes from G-protein coupled receptors located on the membrane. When the receptor is activated, the alpha component of the G protein breaks off and triggers an effector enzyme, which releases second messengers. There are two pathways for this process: the cAMP and IP3 mediated pathway [Johnson:2016].  Focusing on the latter pathway, phospholipase C is the effector enzyme and it produces IP3 and diacylglycerol as the second messengers [Johnson:2016]. IP3 binds to the smooth endoplasmic reticulum, triggering the release of calcium ions needed for the contraction of Physarum’s actin microfilaments allowing it to crawl. 
+Like mentioned before, certain chemicals can inhibit the signaling pathway, slowing down or stopping movement. Neomycin is a compound that that inhibits Phospholipase C, the effector enzyme, and IP3, the second messenger. This would prevent the production of the calcium ions needed for contractions. This would cause the slime mold to not have any movement. Meanwhile, other compounds cause positive chemotaxis, movement towards. Multiple studies have shown that the slime mold will move towards glucose because it gives the organism energy for movement. A study done by Carlile demonstrates the chemotactic effectiveness of glucose, with the organism showing strong positive chemotaxis [Carlile:1970]. With this information, it is known that the control group will show positive chemotaxis towards oatmeal flakes. Therefore, the null hypothesis is that the Physarum polycephalum will exhibit no significant difference in movement of the longest strain between the control group and the water-agar plate soaked in neomycin. Meanwhile, the alternative hypothesis is that the slime mold will show no movement in the neomycin-soaked plate. 
+
+
+Materials and Methods:
+Conducting this experiment, initially, 12 water-agar plates and one plate with stock culture were obtained. A 1 by 1 cm square was then cut from the middle of six of the water-agar plates. The squares were cut after sterilizing the forceps with ethanol each time they were used. These plates formed the control group. Six 1 by 1 cm squares of stock culture were then placed into the holes of the control plates. Four oatmeal flakes were then sprinkled in one corner, and the plates were taped shut and put in a black plastic bag labeled “control group.” On the six remaining water-agar plates, 4 milliliters of neomycin were poured, letting it sit there for 10 minutes. After removing any excess neomycin, a 1 by 1 cm square was cut from the middle of them. In the hole, with sterilized forceps, a 1 by 1 cm square of stock culture was inserted. Four oatmeal flakes were then sprinkled to one corner of each of the plates, and then taped shut and put in a black plastic bag, labeled “neomycin.” A 1 by 1 cm square was then cut from the middle of six of the water-agar plates. The squares were cut after sterilizing the forceps each time they were used. These plates formed the control group. Six 1 by 1 cm squares of stock culture were also placed into the holes of the control pates. Four oatmeal flakes were then sprinkled in one corner, and the plates were taped shut and put in a black plastic bag. For the six remaining plates, 4 milliliters of neomycin were poured into them. The compound sat on the water agar plates for 10 minutes. After removing any excess neomycin, a 1 by 1 cm square was cut from the middle of them. In the hole, with sterilized forceps, a 1 by 1 cm square of stock culture was inserted. Four oatmeal flakes were then sprinkled to one corner of each of the plates, and then taped shut and put in a black plastic bag. After labeling the control and neomycin plates respectively, they were incubated for 64 hours. After the incubation period, the longest strain of movement was measured in each plate. To determine the significance of the experiment, a one tailed two-sample t-test with equal variance was conducted with a significance level of 0.05. 
+
+Results:
+As Figure 1 shows, the average distance traveled by Physarum in the control group was compared to movement in the neomycin group. Observing the plates from the control group, the Physarum traveled towards the oatmeal flakes. Meanwhile, the Physarum showed little to no movement in all the neomycin plates except one, which was found to be an outlier. An outlier was defined by being 1.5 times the interquartile range. After conducting a one-tailed two sample t test with equal variance, a p-value of 0.017 was obtained. This was below the significance level of 0.05. 
+
+Discussion:
+With a p-value lower than the significance level, there is enough evidence to reject the null hypothesis of the neomycin having no effect on the movement of the Physarum. There is evidence for the alternative hypothesis of the neomycin causing little to no movement of the slime mold. The chemical compound is known to inhibit Phospholipase C and IP3, which prevents the production of the calcium ions needs for the contraction of actin microfilaments. This explains why there was little to no movement when the slime mold was surrounded by neomycin. There was a recent study done on the effect of Pl3K inhibitors on chemotaxis towards glucose [Matveeva:2008]. It showed that they caused a decrease in the ability for Physarum to chemotactically respond to glucose [Matveeva:2008]. This coincides with how the slime mold reacted to the neomycin in lab since the chemical is a Pl3K inhibitor. Neomycin caused the slime mold to not have any calcium ions available for movement. The outlier from this group did move towards the Physarum, which might have been caused by a build up of calcium ions in the piece of stock culture that was inserted to the plate. Another form of reasoning for this behavior is that some of slime mold had abnormal growth due to not being kept at their optimal temperature. In the future, the Physarum should be grown in the right conditions in order to ensure normal growth for experimentation. 
+
+Literature Cited:
+Carlile, M. J. "Nutrition and chemotaxis in the myxomycete Physarum polycephalum: the effect of carbohydrates on the plasmodium." Microbiology 63.2 (1970): 221-226.
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.  
+Matveeva, N. B., S. I. Beilina, and V. A. Teplov. "The role of phosphoinositide-3-kinase in the control of shape and directional movement of the Physarum polycephalum plasmodium." Biophysics 53.6 (2008): 533-538.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=biolab2picfinal.jpg&Size=36137&Type=image%2Fjpeg&F=F_2shIufmi8uosLfz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The figure shows the average distance traveled by the Physarum polycephalum in the control and neomycin plates after a 64 hour incubation period. The average for the control group came to be 13.33±11.96 millimeters, while the average for the neomycin group is 0.20±0.45 millimeters. There was one outlier for the neomycin group that was not included in the figure because it was more than 1.5 times the interquartile range. *************************************************************************
+
+
+

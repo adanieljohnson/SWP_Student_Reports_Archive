@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-01 12:46:14
+Author of this lab report is: Std_krrqPw79
+ID: R_1IiMld8hJF3tkpT
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effect of Sodium Channel Blocker Solution on the Sciatic Nerve Response of Frog Legs
+
+Abstract:
+There is emerging research regarding the use of substances, such as lidocaine, that block sodium channels from producing action potentials in a neuron. This lab studies the stimulus response of the gastrocnemius muscle and sciatic nerve of a frog log treated with lidocaine sodium channel blocker. Without the sodium channels, action potentials will not fire, so we hypothesized that there will be reduced muscle movement following the treatment with the sodium channel blocker. The gastrocnemius muscle was stimulated through the sciatic nerve with single stimulus pulses of increasing amplitude, and we recorded findings from each voltage attempted: 0.3 volts, 0.5 volts, and 2.0 volts for each leg. The sciatic response recorded at varying levels of stimuli was used to run a Paired T-Test which provided a p-value for further interpretation of the experiment. It is evident that the lidocaine influenced the voltage response of each leg as the treatment group bars are shorter than the control groups. The T-Test determined a p-value of 0.000462. This p-value signifies that the treatment group was statistically significantly different from the control group. In the future, it would be helpful to test the response at more varying stimuli to include more replicates.
+
+Introduction:
+This lab will study the stimulus response of the gastrocnemius muscle and sciatic nerve of a frog log treated with lidocaine sodium channel blocker. The frog is used as the model organism for this experiment as they are one of the most outstanding examples of laboratory organisms for the study of muscle action [Ankeny: 2011]. Frogs are used to study neuromuscular control because they have complex neuromuscular systems that can respond to a stimulus in milliseconds in comparison to plants which do not have intercellular communication. Also, the internal systems of frogs are similar to humans, making it easier to use them as a model organism. Their gastrocnemius muscle and sciatic nerve are relatively easy to locate and study, so the legs of frogs are useful for studying neuromuscular control.
+
+Lidocaine has been researched extensively regarding its effects on sodium channels, and it has been proven that lidocaine functions as an effector which enhances sodium channel inactivation [Balser: 1996]. Nerve impulses arriving at the neuromuscular junction (NMJ) cause the release of acetylcholine (ACh) from the presynaptic nerve. ACh binds with its receptor on the muscle fiber membrane, opening sodium channels that activate the action potential that is spread throughout the muscle. This action potential stimulates the release of calcium (Ca2+) from the sarcoplasmic reticulum which activates the muscle contraction. Without the sodium channels, an action potential will not be able to fire, so we hypothesize that there will be reduced muscle movement after the treatment with the sodium channel blocker. To study the signals of the frog leg, a myogram will be recorded, which will show the three different phases of muscle contraction: latent, contraction, and relaxation. This information will then allow us to study the differences in voltage response from the control group with the treatment group.  
+
+
+Materials and Methods:
+Each group was given a frog leg that was placed in a dissecting pan. The forceps were used to grasp the skin at the top of the leg to pull towards the foot. Throughout the procedure, the skinned leg was moistened with frog Ringer’s solution. We gently separated the inner thigh muscles with the probe which revealed the white sciatic nerve. The nerve was freed from its attachments. The BNC connector of the electrode was connected, and we set the attachment directly on top of the sciatic nerve. The gastrocnemius muscle was stimulated through the sciatic nerve with single stimulus pulses of increasing amplitude, and we recorded findings from each voltage attempted: 0.3 volts, 0.5 volts, and 2.0 volts for each leg. Each frog leg was injected in the same area of the gastrocnemius, distributing the solution equally among the muscle instead of all in one central area. 
+
+To assess the data collected, we performed a Paired T-Test using the differences between the control group and treatment group for each leg to determine whether the difference is greater than zero by finding the corresponding p-value. 
+
+
+Results:
+Figure 1 displays the sciatic response in volts for each frog leg that was not treated with lidocaine compared to the legs that were treated. It is evident that the lidocaine influenced the voltage response of each leg as the treatment group bars are smaller than the control groups. For example, the data for leg 3 show a dramatic difference in response when comparing the control group and the treatment group. The control group had an average response of 1.09 v and the treatment group’s average was only 0.338 v.
+
+A Paired T-Test was completed for the data collected, and it determined that the p-value for these data is 0.000462. This p-value signifies that the treatment group was statistically significantly different from the control group since 0.000462 is less than the alpha level of 0.05.  
+
+
+Discussion:
+We reject the null hypothesis because the data are statistically significantly meaning that there is a difference in the average voltage response for each leg across the control and treatment group. This supports our hypothesis that the sodium channel blocker would 	reduce the muscle movement, causing a reduction in the sciatic nerve response because of the inhibition of the voltage-gated sodium channel that would cause an action potential. The voltage-gated sodium ion channels are primarily responsible for the rising phase of 	the action potential in neurons, so blocking these channels would prevent the rise of an action potential at all or cause a very small response, which has been proven in this experiment [Catterall: 2000]. For all three frog legs, the response of the treatment group was lower than the control group even if the higher stimulus produced a lower response. This is supported by the counteracting action in the nearby muscles which 	causes the response to be lower. Despite the size of each frog leg, the response was 	constant throughout, not depending on the level of response provided, only the difference between the response of the control and the treatment groups. 
+
+For future experiments, it would be helpful to test the response at more varying stimuli. We chose to test the response at 0.3 volts, 0.5 volts, and 2.0 volts, but it would be beneficial and more comprehensive if the stimuli were more spread across the spectrum 	to test whether or not the response varies dramatically based on the stimulus. In the future, we would test the response at 0.5 volts, 1.0 volts, 1.5 volts, and 2.0 volts just to be consistent with the intervals between each test and providing one more replicate would 	act as another determining factor that could influence whether or not the hypothesis is supported. If the procedure were repeated again, it would also be helpful to know the implications of blocking the calcium channels or potassium channels since these also 	impact the production of an action potential rather than solely focusing on the sodium channel. The data from these experiments could be studied together to realize how each channel works together to produce the complicated process of an action potential leading to muscle movement.   
+
+Overall, this experiment yielded interesting results that supported our hypothesis that treating the three frog legs with lidocaine sodium channel blocker would decrease the 	voltage response of every stimulus tested, supported by the statistically significant result. 
+
+
+Literature Cited:
+1.	Balser, J R, et al. “Local Anesthetics as Effectors of Allosteric Gating. Lidocaine Effects on Inactivation-Deficient Rat Skeletal Muscle Na Channels.” Journal of Clinical Investigation, vol. 98, no. 12, 1996, pp. 2874–2886., doi:10.1172/jci119116.
+2.	Catterall, W A. “From Ionic Currents to Molecular Mechanisms: The Structure and Function of Voltage-Gated Sodium Channels.” Cell Press, vol. 26, no. 1, 2000 April, pp. 13-25.
+3.	Ankeny, Rachel A., and Sabina Leonelli. “What’s so Special about Model Organisms?” Studies in History and Philosophy of Science Part A, vol. 42, no. 2, June 2011, pp. 313–323., doi:10.1016/j.shpsa.2010.11.039.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-30+at+10.05.22+PM.png&Size=21281&Type=image%2Fpng&F=F_0CXxXeYSH9DexOx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of lidocaine sodium channel blocker on sciatic voltage response in three separate frog legs. Each leg (denoted by color) was tested with and without the sodium channel blocker to determine the effect of the blocker. *************************************************************************
+
+
+

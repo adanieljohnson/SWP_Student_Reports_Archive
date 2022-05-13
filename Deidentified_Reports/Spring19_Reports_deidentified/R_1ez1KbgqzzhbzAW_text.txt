@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-09 21:03:04
+Author of this lab report is: Std_x5uYi5eN
+ID: R_1ez1KbgqzzhbzAW
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: The Effect of Temperature Change on Chloroplast Activity in Spinach Leaves
+
+Abstract:
+Photosynthesis is a reaction in which plants are able to harvest energy from light.  This is an important process that can be affected by many different factors, ultimately altering the activity of chloroplasts in cells.  Temperature is a key factor that affects cell activity and there is an optimal range in which the cell is the most efficient.  In our experiment, we will use chloroplasts from Spinacia oleracea to test photosynthetic activity through the Hill reaction.  We predicted that there would be more activity, signaled by a larger percent change in absorbances, at the high temperature group and less activity at the low temperature group.  There was a statistically significant difference between the high temperature and room temperature group, but not between any of the other groups.  More studies on the effects of temperature on plant photosynthetic activity could be completed in order to find an optimal range of temperatures that would allow plants to maximize efficiency.
+
+Introduction:
+Photosynthesis is a necessary process that all plants must be able to perform.  Photosynthesis is the mechanism through which plants capture and store energy from sunlight.  Plants use the energy obtained from photosynthesis to power cellular respiration giving them the energy they need to stay alive.  Many different factors affect the different reaction rates associated with photosynthesis.  These factors can also affect oxidation and reduction reaction rates.  Combined, these environmental factors all affect the rate at which plants grow.  The chloroplasts are the main organelle centers for photosynthesis within plants.  One of the main factors that affects chloroplast activity within plants is temperature.  Outside the optimal range of temperatures, the enzymes needed for photosynthesis have limited function and this causes the activity of the chloroplast in general to be decreased.  At low temperatures (5℃), thale cress showed progressive damage to PSII, a photosystem in which light is harvested before being converted to energy and had a 14% decrease in activity and production [Zhang: 2004].  Also, red snow algae showed a higher growth rate and oxygen evolution capacity for a range of 10-15℃ than a range of 2-5℃ [Lukeš: 2014].  Since low temperatures seem to have negative effects on the growth and photosynthesis rates within chloroplasts, higher temperatures would be able to cause more activity.  In this experiment, we will use chloroplasts extracted from spinach leaves (Spinacia oleracea) in the Hill reaction and DCIP decolorization assay.  We will test the effects of different temperatures on the DCIP assays and analyze our results.  With exposure to a high temperature, we expect there to be a larger activity of chloroplasts in the Hill reaction than at low temperature or room temperature.
+
+Materials and Methods:
+In order to test our hypothesis, we were able to use spinach leaves to see how temperature affects chloroplast activity.  After obtaining six spinach leaves, we removed the large veins that are hard to grind.  We then used a mortar and pestle to grind up all the leaves into a paste.  We added 20 milliliters of grinding buffer and continued to grind up the mixture into a slurry.  We strained this slurry through cheese cloth into a large beaker.  We then used an RT-7 centrifuge set at 1200 rpm for a total of 20 minutes.  This allowed us to separate the mixture into a supernatant and pellet.  We removed the supernatant and used the pellet of chloroplasts for the rest of the experiment.  Using the pellet, we were able to make five replicates of each reaction mixture in test tubes that we had labelled.  We transferred each mixture to a cuvette and blank the spectrophotometer at 600 nanometers.  Shortly after adding the reaction mixtures to each test tube, we measure the absorbance of each replicate.  This was our data for time zero.  We then placed the test tubes in their correct temperature orientation for ten minutes.  We placed five test tubes in a hot water bath set to 40 degrees Celsius, five test tubes in an ice bath, and five test tubes in a rack at room temperature.  After ten minutes, we measured the absorbance of each replicate once again, and then replaced the test tubes to their correct temperature.  We measured absorbances of our samples every ten minutes for a total of 30 minutes.  From this data, we were able to calculate percent change in chloroplast activity and use this to run a mixed design ANOVA test at an alpha level of 0.05.
+
+Results:
+Based on the results of this experiment, there is a statistically significant difference in percent change between the room temperature and high temperature groups but no statistical difference between the other groups.  Although this may have been the case statistically, we can see in Figure 1 that there was an obvious drop off in the high temperature group’s chloroplast activity after the ten-minute mark while the two other replicate groups continued to increase fairly consistently.  The low temperature group had almost the same percent change after each absorbance was taken, while the room temperature group had a steady decline in percent change after each time point.  Based on the trends of the Figure 1, it seems as if the low temperature group would have had the highest percent change if the experiment would have continued.
+
+Discussion:
+The results from our lab were not exactly as we had predicted before the lab had started.  While we thought the higher temperature would have a larger percent change, it turns out room temperature had the greatest change with the low temperature group coming in at a very close second.  After ten minutes however, the high temperature replicates had a fairly large percent change, but it decreased over the next 20 minutes.  While we thought we had evidence that the higher temperature would cause more activity, it turns out that this group was not nearly as active as the other groups with less than 10% increase in absorbance from the start of the experiment.  One possible explanation for these results is that the reaction was deactivated at such a high temperature.  The Hill reaction in barley chloroplasts above 36℃ showed evidence of an irreversible, thermal change with a much lower activation energy [Nolan: 1976].  It is also possible that the chloroplast membranes were deformed by this exposure to a higher temperature.  The lipid bilayer of the thylakoid membrane had an increase in fluidity that could have resulted in a change in photosynthesis activation and growth regulation [Nolan:1976].  If this were the case, the lower temperature group in our experiment would have had a higher percent change because the higher temperature would have deformed the chloroplasts in each sample.  More evidence shows that lower temperature groups do not have any lasting effects on the thylakoid membranes [Rosinger: 1982].  It seems that exposure to high temperatures cause there to be an irreversible effect on the chloroplast phospholipid bilayer, causing a change in photosynthetic activity, while low temperatures do not have these lasting effects.  For these reasons, it is possible that our experiment showed higher activity for the room temperature and low temperature groups.  This information can be applied on a larger scale to help understand the growth of plants.  Finding the optimal temperature range for growth in different species can be used to maximize the size and production of crops, as well as other plants.
+
+Literature Cited:
+1.	Lukeš, Martin, Lenka Procházková, Volha Shmidt, Linda Nedbalová, and David Kaftan. 2014. Temperature Dependence of Photosynthesis and Thylakoid Lipid Composition in the Red Snow Alga Chlamydomonas Cf. Nivalis (Chlorophyceae). FEMS Microbiology Ecology. 89 (2): 303–15.
+
+2.	Nolan, William and Smillie, Robert. 1976. Multi-temperature effects on Hill reaction activity of barley chloroplasts.  Biochimica et Biophysica Acta. Volume 440. Pages 461-475.
+
+3.	Rosinger, C. H., et al. 1982. Changes in the Temperature Response of Hill-Reaction Activity of Chilling-Sensitive and Chilling-Resistant Plants after Hardening. Journal of Experimental Botany. Volume 33, No. 133, 1982, pp. 321–331.
+
+4.	Suping Zhang, Henrik Vibe Scheller. Photoinhibition of Photosystem I at Chilling Temperature and Subsequent Recovery in Arabidopsis thaliana. Plant and Cell Physiology. Volume 45, Issue 11. 15 November 2004. Pages 1595–1602.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=66083&Type=image%2Fpng&F=F_cISJhxC49KuUuSR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The effects of temperature on the percent change of average absorbances in the leaves of Spinacia oleracea.  We recorded data for three groups over a period of 30 minutes.  Absorbances were recorded from each replicate group that was a sample of chloroplasts and reaction mixture.*************************************************************************
+
+
+

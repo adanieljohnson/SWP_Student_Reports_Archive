@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-20 10:17:26
+Author of this lab report is: Std_aOznKQiR
+ID: R_3GcXabhyky9vx5k
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Effect of Acetylcholine on Gastrocnemius Contraction in Rana pipiens
+
+Abstract:
+Rana pipiens is a common North American frog used in nerve experiments. The effects of injection acetylcholine (ACh) on muscle contraction were studied in this experiment by injecting acetylcholine into the gastrocnemius muscle of three Rana pipiens frog legs. Acetylcholine is the neurotransmitter that is released to stimulate contraction in skeletal muscles. Normal muscle contractions of the frog legs, the control, were measure by stimulating the muscle at different voltages and recording the magnitude of contraction via transducer. Then acetylcholine was injected into the muscle of each leg which was then stimulated in the same way, forming the experimental data. It was hypothesized that the injection of excess ACh would cause greater muscle contraction because the muscle would be receiving a more intense signal to contract. After running trials and measuring the intensity of contraction, it was found through a T-test that the injection of ACh did not have a statistically significant effect on increasing muscle contraction.
+
+Introduction:
+The experiment tested how the addition of acetylcholine affects the contractions of the gastrocnemius muscle in Rana pipiens. This frog is also known as the Northern Leopard frog and is native to parts of Canada and the United States. They normally inhibit bodies of water with abundant aquatic vegetation. It has been the preferred species for making discoveries about basic types of neurons. The skeletal muscle in a frog leg are made of tiny myofibrils, which are cylindrical, multi-nuclear, fused aggregations of cells. These are bound together by connective tissue and form functional groups. These muscles are activated by motor neurons whose cell bodies are located in the spinal cord. The axons of theses neurons extend to the muscle and then branch out to each myofibril. These connections are called neuromuscular junctions. When an action potential is sent, the release of acetylcholine from the terminal of the presynaptic neuron is stimulated. Acetylcholine moves across the neuromuscular junction and binds to receptors in the membrane of the muscle fiber, opening sodium channels that generate an action potential that spreads down the length of the fiber. This stimulates the release of Ca2+ from the sarcoplasmic reticulum of the muscle, inducing muscle contraction. Our hypothesis is that the addition of acetylcholine in the muscle will cause the amplitude of contraction of the muscle to increase. This is supported by a study which showed that additional acetylcholine caused “more intense depolarization, spreading far beyond the end plate” [Brown:1950]. If there is a more intense depolarization of the nerve, then the signal to contract would be stronger and cause greater muscle contraction, as predicted by our hypothesis.
+
+Materials and Methods:
+Three similarly sized legs from Rana pipiens frogs were selected. The skin of one frog leg was removed, and the sciatic nerve and accompanying blood vessels were freed. The gastrocnemius muscle was isolated and cut just above the foot attachment. A string was tied to the nonattached end of the muscle and was looped to hang from the transducer, so the muscle hung at a 90° angle to the dissecting pan. The leg was pinned down and the sciatic nerve was laid across the electrodes connected to the transducer. The LabSribe program was set according to an amplitude of 0 mV, a pulse of 1, a width of 5 ms, and a frequency of 1 Hz. The muscle was stimulated at 0, 0.1, 0.2, 0.3, 0;4, and 0.5 mV and the resulting differences in amplitudes of muscle contraction were recorded. Then 0.1 ml of 10mg/mL acetylcholine was injected in multiple places in the gastrocnemius. The application of voltages and recording of differences in amplitudes of muscle contractions was repeated. The entire procedure was repeated for the next two legs. A paired T-test was run on the differences in amplitudes for 0.1-0.3 mV. 
+
+Results:
+The mean difference in amplitude of the first frog leg for the control and experimental trials were 0.355 and 0.353 mV, respectively. For the second frog leg the mean for the control was 0.212 mV and for the experimental was 0.223 mV. For the third leg the control and experimental mean values were 0.479 and 0.331 mV, respectively. There were no consistent trends in the data as two of the trials show increased contraction for the experimental and the other did not. The calculated p-value from the two-tailed T-test was 0.520. 
+
+Discussion:
+Our hypothesis that the addition of acetylcholine would increase the amplitude of contraction of the gastrocnemius muscles of the frog legs was not supported. The results of the T-test indicated that we failed to reject our null hypothesis. This means that we cannot say that the acetylcholine had a statistically significant impact on the intensity of the muscle contraction. Our data contradicts a previous study that showed “the area around the nerve terminal [in the neuromuscular junction] is more sensitive to neurotransmitter” when extra acetylcholine is applied to the muscle [Peper: 1972].  If the nerve terminal is more sensitive, it means that the muscle should contract more with the increased amount of acetylcholine. One reason we did not see in increase in response to the addition of acetylcholine may have been because the dose of acetylcholine was too low to have a significant effect on the muscle. The next step in this study would be to repeat the experiment but with greater concentrations of ACh to see at what concentrations cause a significant increase in muscle contraction. This would be relevant information because if a study was to be conducted on how a drug or another neurotransmitter affects excess acetylcholine in a muscle, the correct amount of ACh to inject into a muscle should be known in order for it to have an actual effect. 
+
+Literature Cited:
+1) Brown G.L. 1950. Excitatory and Inhibitory Effects of the Chemical Mediators. Proceedings of the Royal Society of London. Series B, Biological Sciences. 137:304
+
+2) Peper, K, McMahan U. J. 1972. Distribution of acetylcholine receptors in the vicinity of nerve terminals on skeletal muscle of the frog. Proceedings of the Royal Society of London. Series B, Biological Sciences. 181:431. 
+	
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-20+at+1.45.53+AM.png&Size=134771&Type=image%2Fpng&F=F_3j0S5ABmF6KLZmM
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-20+at+1.54.06+AM.png&Size=93725&Type=image%2Fpng&F=F_3HGll1W9dzT5f9k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Average Amplitudes of Contraction for Each Voltage Applied 
+
+Figure 1: Mean amplitudes of contractions for frog legs at each voltage. Error bars represent +/- 1 s.d. Two-sample T-test showed a statistically significant differences in the weights of the two groups. Two-sample T-test did not show statistically significant differences in the amplitudes of contraction between control and experimental trials. 
+ 
+*************************************************************************
+
+
+

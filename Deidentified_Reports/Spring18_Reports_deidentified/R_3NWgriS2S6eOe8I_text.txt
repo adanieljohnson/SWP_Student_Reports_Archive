@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-28 19:26:41
+Author of this lab report is: Std_CBGMKlTJ
+ID: R_3NWgriS2S6eOe8I
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Effects of Calcium Channel Blockers on Muscle Contractions of Rana pipiens
+
+Abstract:
+A muscle contraction occurs when an action potential in the presynaptic motor neuron triggers the release of acetylcholine into the neuromuscular junction where it depolarizes receptors called DHP inside the T tubules of the postsynaptic cell. This allows calcium stores from the inside of the sarcoplasmic reticulum to diffuse into the sarcoplasm, where it triggers a contraction. Because of this calcium's crucial role in facilitating muscle contraction, this study addressed how calcium channel blockers (CCBs) affect muscle contractions in the gastrocnemius of Rana pipiens. Our hypothesis is that by inhibiting the release of calcium through the administration of CCBs, the rate of muscle contraction would decrease. After measuring the electrophysiological properties of three gastrocnemius muscles, our results do not support our initial hypothesis. The mean amplitude for the experimental group was 0.228 +/- 0.120V. which was not significantly different from the control group (p=0.678, t=2.3.06.) Thus, we must accept our null hypothesis of calcium channel blockers (CCBs) not affecting the rate of contraction in Rana pipiens, so the rate of contraction does not change when treated with CCBs.
+
+Introduction:
+Skeletal muscle in both vertebrates and invertebrates consists of hundreds of thousands of myofibrils, which are cylindrical, multi-nuclear, fused aggregates of cells. Myofibrils are bound together by connective tissue, and they collectively form functional groups. All skeletal muscle is innervated by motor neurons located in the grey matter of the spinal cord [King: 2008]. An action potential in the presynaptic motor neuron triggers the release of acetylcholine into the synaptic cleft, where it binds to the nicotinic/acetylcholine receptors on the post-synaptic membrane that allow sodium into the motor end plate, depolarizing it. Once that happens, an action potential spreads into the T tubules and causes a conformational change of the DHP receptor, which unplugs the ryanodine receptor, allowing calcium stores from the inside of the sarcoplasmic reticulum to diffuse into the sarcoplasm. This influx of calcium into the sarcoplasm causes the muscle to contract [MacIntosh, Gardiner, & McComas: 2006]. Therefore, calcium is required to sustain a muscle contraction muscle contraction [Rüegg: 2012]. During this study, we explored the question of what would happen to the rate of muscle contraction if calcium channels were blocked, which is important because it could apply to treating and understanding other muscular contraction disorders, such as heart arrhythmias. We hypothesized that by inhibiting the release of calcium, the rate of muscle contraction would decrease compared to a control. More so, our null hypothesis was: calcium channel blockers (CCBs) do not affect the rate of contraction in Rana pipiens, so the rate of contraction does not change when treated with CCBs. 
+
+Materials and Methods:
+We began by preparing the legs for experimentation by removing the skin (de-gloving), detaching the gastrocnemius and a portion of Achilles tendon and stringing it to the force transducer. We then tied a string around the middle of the tendon, which hung from the ring stand provided in the lab. As a result, the gastrocnemius muscle was elevated and the sciatic nerve was exposed. Next, the frog's leg was pinned down to the dissecting tray, and two stimulating electrodes were placed through the gastrocnemius. Throughout this study, we used the software Labscribe to analyze how different preparation methods affect the muscle's contractile ability as measured by amplitude. 
+Once we began the experiment, the electrodes stimulated the frog leg muscle. After each pulse, we recorded the electrophysiological activity to determine the threshold value-the electrical value that we used in each trial. After we completed control trials on all three legs we repeated the process in addition to injecting 0.200 mL of a calcium channel blocker throughout the gastrocnemius prior to experimenting. After collecting our data, we ran a two-sample t-test with an alpha value of 0.05 to determine if our data was statically significant. 
+
+
+Results:
+After collecting our data, we saw that the mean amplitude in the experimental group were smaller than mean amplitude for the control group. The mean amplitude for the control group was 0.231 +/- 0.142V. The mean amplitude for the experimental group was 0.228 +/- 0.120V. which was not significantly different from the control group (p=0.678, t=2.3.06.) 
+
+Discussion:
+The p-value of 0.678 is much larger than the significance level of 0.05, which indicates that we must accept the null hypothesis. We expected to see CCBs attenuate the contraction, but our results-in line with our null hypothesis-indicate that the CCBs do not affect the rate of contraction in Rana pipiens, so the rate of contraction does not change when treated with CCBs. Our results contradict current line of thought suggesting that CCBs have inotropic effects on muscle contractions (see the work of Kawata and Hatae: 1990; and Menezes-Rodrigues: 2013).
+There are a couple reasons that may explain our results are inconsistent with the existing literature. For instance, the metal wires used for the iWorks software may have been touched, which could have artificially inflated the electrophysiological recording. Another possible explanation may be improperly calibrated equipment. Whatever the reason, though, moving forward we could repeat the experiment with different measurement equipment (for example, BIOPAC hardware and software) to test the validity of our results.
+
+
+Literature Cited:
+Kawata, Hiroshi, and Junna Hatae. "Dependence of Contractile Responses by Some Calcium Antagonists on External Calcium in the Skeletal Muscle." The Japanese Journal of Physiology (1990): n. pag. Print.
+King, David. "Southern Illinois Univeristy SOM Histology SSB." N.p., n.d. Web. 28 Mar. 2018.
+MacIntosh, B. R., Gardiner, P. F., & McComas, A. J. "Skeletal Muscle: Form and Function. Human Kinetics." (2006).
+Menezes-Rodrigues, FS. "Calcium Influx through L-Type Channels Attenuates Skeletal Muscle Contraction via Inhibition of Adenylyl Cyclases." European journal of pharmacology (2013): 326-334. Print.
+Rüegg, J. C. "Calcium in Muscle Contraction: Cellular and Molecular Physiology." Springer Science & Business Media. (2012).
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog_Leg_Graph.jpg&Size=23671&Type=image%2Fjpeg&F=F_1kUIBXNhD0BgrNa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Mean peak amplitude of Rana pipiens gastrocnemius muscle contraction after treatment with calcium channel blockers (experimental group, n=3) vs no treatment (control group, n=3). Error bars represent +/- one standard deviation. T-test results showed muscle contractions were approximately the same with a calcium channel blocker treatment (p&gt;0.67).
+
+*************************************************************************

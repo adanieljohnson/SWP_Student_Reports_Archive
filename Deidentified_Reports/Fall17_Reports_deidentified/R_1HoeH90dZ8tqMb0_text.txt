@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-04-12 14:54:14
+Author of this lab report is: Std_tBG5oSKS
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Sodium Butyrates lack of effect on the movement of Physarum in response to a food source.
+
+Abstract:
+Many organisms use signal transduction pathways and other mechanisms to respond to external stimuli in their environment. This experiment observed the effect of sodium butyrate on the intracellular signal transduction pathways of Physarum. Ca2+ is an important second messenger that triggers a response in the cell, and sodium butyrate has been proven to inhibit calcium channels, which in turn, does not allow the second messenger to be interpreted by the cell and coordinate a response to stimuli. A stimulus that Physarum respond to is a food source; they move toward it. To test this, a treatment group of agar plates was soaked in a sodium butyrate and water mixture. Physarum culture and a food source were added to two separate squares in the agar plates of the treatment group and the control group, and then allowed to incubate for twenty-four hours. After this time period, the distance the Physarum traveled was measured and a two-sample t-test was done to determine the significance of the data. The results show that the sodium butyrate treatment did not have a significant effect on the movement of the Physarum toward the food source. These results are inconclusive; however, it is important to study the effect of sodium butyrate on Physarum in order to apply it to other organisms.
+
+Introduction:
+Physarum are a simple organism that form a yellow slime mold that use multiple intracellular signal transduction pathways to carry out their functions and processes. Their responses are mainly regulated by G-protein coupled receptors and ion coupled receptors. Physarum respond to chemicals in their environment through a process called chemotaxis, that is, they either move toward or away from specific chemicals [Johnson, 2016]. Similarly, they respond to food in their environment by crawling toward it. In particular, this lab will observe Physarum’s behavior in response to sodium butyrate, which is known to inhibit the activation of calcium channels. Ca2+ is a second messenger and acts as a stimulus used to trigger a response by the cell, and if sodium butyrate inhibits the activation of calcium channels, then the cell won’t be able to respond to certain external stimulus [Johnson, 2016]. Furthermore, sodium butyrate has also been discovered to have other varying effects on cell functions. For example, research revealed that sodium butyrate treated cells showed a downregulation of genes associated with cytokine signaling [Joseph, 2004]. Similarly, sodium butyrate also causes histone hyperacetylation, which then causes effects in cytoskeleton assembly which is involved in the reversal of cell behavior associated with chemically induced movements [Kruh, 1981]. Without cytokine signaling and with defective cytoskeleton, the cell won’t be able to move and respond to stimulus. With all these effects of sodium butyrate in mind, we predict that the treatment group of Physarum will show no movement toward a food source because it won’t be able to respond to the external stimulus. Since, Physarum lack a central nervous system, observing their response to changes in their environment can help us learn more about the signal transduction pathways and compare it to that of other organisms.
+
+Materials and Methods:
+We made a mixture of one mL of one molar sodium butyrate and ten mL of water and then obtained six agar plates. Next we made the treatment group by adding five mL of the sodium butyrate and water mixture to each of three agar plates. Then we let the three agar plates with the mixture sit for ten minutes, and then drained the excess liquid out of the agar plates. The control group is the three agar plates without the sodium butyrate and water mixture. Next we cut two one cm by one cm squares into the middle of the control plates and the treatment plates. Then we cut the same size squares out of the Physarum culture and put one square of mold into one square of the six plates, and then put three to four oats in the other square of each of the six plates. Next, each plate was wrapped in foil and labeled correctly. They were all placed in an incubator and the distance traveled toward the food source was recored for each Physarum after twenty-four hours. After data was collected, a two-sample t-test was performed to determine the significance of the results.
+
+Results:
+After twenty hours, the treatment Physarum showed movement more random and spread out in all directions, while the control Physarum showed movement more directed toward the food source. Furthermore, the control group had a slightly higher average movement (5.33 cm)  than the treatment group (4.67 cm); however, the p-value is 0.6213, which proves these results to be insignificant.
+
+Discussion:
+The p-value suggests that our hypothesis is rejected and that we can’t conclude if sodium butyrate decreases the movement of Physarum. While the average distance traveled for the treatment group was slightly less, it wasn’t enough to be significant. These results could be explained by the fact that it was found that sodium butyrate causes an immediate depression of the synthesis of DNA, RNA, and protein, which should in turn inhibit cell motility; however, after a certain time interval the Physarum can overcome the sodium butyrate block and the synthesis of DNA, RNA, and protein can return to normal [Loidl, 1982]. Once returned to normal, the cell can continue moving, which in this experiment would be toward its food source. In this case, since we waited nearly twenty-four hours to come back in to measure, it could have been after the Physarum overcame the sodium butyrate block. The fact that the treatment Physarum showed more random movement rather than directly toward the food source could be a result of its signaling pathways being disrupted by the calcium channel inhibition. Furthermore, another experiment investigated the effect of sodium butyrate on the lymph node carcinoma of prostate cells and its accompanying effect on calcium channel expression. It explains that sodium butyrate stimulates the differentiation of prostate cells, which causes an increase in the expression of calcium channel expression [Weaver, 2015]. Despite the fact these are prostate cells, this research could be applied generally to Physarum cells and thus explain why calcium channels were not blocked in this experiment because the Physarum were able to move toward the food source. On another note, it is possible we didn’t add enough sodium butyrate to cause an effect on the intracellular signal transduction pathways. Since our results were inconclusive, more experiments involving sodium butyrate and Physarum should be done to help better understand the effect sodium butyrate has on cells considering its potential to stop cell proliferation. Given this, the presence of sodium butyrate in cells has been found to reverse transformation characteristics of cancer cells [Kruh, 1981]. Furthermore, sodium butyrate has also been found to induce cell apoptosis [Hague, 2016]. With its potential to deform cytoskeleton, to suppress the synthesis of DNA, RNA, and proteins, to inhibit calcium channels, and to induce cell apoptosis, sodium butyrate seems to be a great candidate to research in order to try to prevent cancer cells from spreading.
+
+
+
+Literature Cited:
+1. Hague, A., et al. "Sodium butyrate induces apoptosis in human colonic tumour cell lines in a p53‐independent pathway: implications for the possible role of dietary fibre in the prevention of large‐bowel cancer." International journal of cancer 55.3 (1993): 498-505.
+2. Johnson AD. Signaling. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+3. Joseph, Jeena, et al. “Expression profiling of sodium butyrate (NaB)-treated cells: identification of regulation of genes related to cytokine signaling and cancer metastasis by NaB.” Oncogene 23.37 (2004): 6304.
+4. Kruh, Jacques. “Effects of sodium butyrate, a new pharmacological agent, on cells in culture.” Molecular and cellular biochemistry 42.2 (1981): 65-82.
+5. Loidl, P. E. T. E. R., et al. “Cell-cycle-dependent effects of sodium-n-butyrate in Physarum polycephalum.” Journal of cell science 58.1 (1982): 303-311.
+6. Weaver, Erika M., et al. “Regulation of T-type calcium channel expression by sodium butyrate in prostate cancer cells.” European journal of pharmacology 749 (2015): 20-31.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+14.47.06.png&Size=56703&Type=image%2Fpng&F=F_2yeiu7VqzC0vM8o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Graph of average movement of control group compared to the movement of the treatment group and their respective standard errors.
+
+*************************************************************************

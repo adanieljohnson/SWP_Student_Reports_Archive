@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-16 23:37:45
+Author of this lab report is: Std_tBwJIxOq
+ID: R_2dBg5Ms6bumfFLM
+Course number: BIO101L
+TA: TA_vywG7gSA
+*************************************************************************
+Title: Chemical Signaling via Juvenile Hormones in Manduca Sexta
+
+Abstract:
+N/A
+
+Introduction:
+Hormones are a key element of the endocrine system that allow organisms to carry out important functions. Insects, like many other animals, have a circulatory system in which hormones such as juvenile hormone, ecdysone, and prothoracicotropic hormone cause the insect to undergo important changes such as molting or metamorphosis. 
+Manduca Sexta, also commonly called the tobacco hornworm is an insect in the Order Lepidoptera. They are typically viewed as common garden pests because they consume large quantities of the leaves of solanaceous plants causing defoliation. Although this damage occurs in gardens, the larval stages of Manduca sexta can cause a consequential amount of economic damage when they consume tobacco, tomato, and potato crops [Campell: 2017]. Experimentation on the tobacco hornworm could be very beneficial to those working to preserve their crops as the manipulation of their hormones may have an effect on their development. Learning ways to prevent the worm from damaging more crops may be accomplished from testing ways the larval stages are affected by the hormone called juvenile hormone.
+While the caterpillars are in their larval stage, juvenile hormone, which is produced in the corpus allata glands of the insect is responsible for many different functions. The juvenile hormone regulates the type of molt during the growth of the caterpillars and it works along with the hormone ecdysterone to control development and the metamorphosis of Manduca [Anon: 2019]. The caterpillars undergo 5 larval stages before undergoing metamorphosis in a pupal state and emerging as an adult moth. During the final larval instar in the hornworm’s lifecycle, the juvenile hormone stops the insects’ brain from the secretion of prothoracicotropic hormone (PTTH). Once the caterpillars get to a certain weight, the corpus allata halts the secretion of juvenile hormone and allows PTTH to be released. The release of PTTH causes the hornworm to leave its larval stage and undergo metamorphosis [Nijhout and Williams: 1974]. 
+Given the importance of JH in the caterpillar’s early stages, how would giving excess amounts of the hormone (i.e. more than the caterpillars naturally produce) to Manduca affect its growth and development? Due to the fact the juvenile hormone is already secreted during the first several larval stages of the hornworm’s lifecycle. It was hypothesized that when given more of the juvenile hormone, the caterpillars will grow at the same rate as caterpillars in the control group which were not given any hormone.
+
+
+Materials and Methods:
+Four larval Manduca Sexta caterpillars were randomly assigned to either the control group or the treated group. Ten grams of caterpillar food was given to each of the hornworms in both groups. The control group’s food was given nine drops of water to each ten grams of food while the treated group’s food was given nine drops of the substance Insect growth regulator (IGR) which contained hormones to mimic the juvenile hormone. Both the water and the IGR were put into the food with a dropper and thoroughly mixed before being placed in each caterpillar’s container. Each day for 14 days the caterpillar’s containers were cleaned out and replaced with ten more grams of food, each treated appropriately with the IGR or left untreated. The caterpillars were kept in a containment area that was kept at 26.5 degrees Celsius. Each of the caterpillars from both groups were weighed and observed as well. The weight data was recorded, and a two sample two tailed t-test was done to see if any sort of pattern observed was due to effects of the treatment or coincidental chance.
+
+
+
+Results:
+After 14 days of treating half of the hornworms with the juvenile hormone, and half without, the data showed not much difference between the treated and the control groups. The mean mass of the group treated with juvenile hormone was 11.3943 +/- 0.96 while the mean mass of the control group was 9.7267 +/- 4.11. Although the data shows the gap between the average weights of the treated and control groups got larger towards the end of the 14 days, the t-test counteracted this data. The p-value of the two sample two tailed t-test was 0.57483 which is much higher than the required amount to reject the null hypothesis. Figure 1 shows evidence slightly contrasting the lack in trends found from the t-test as it shows a rise in the weights of the hornworms shows a rise in mass opposed to the control group through days 7-15. As for qualitative observations of the caterpillars, while the size for most of them did not very much across the groups, the group treated with the juvenile hormone had slightly different coloring. Over the several days the juvenile hormone group was paler and less green in comparison to the control worms.
+
+Discussion:
+In conclusion, the hypothesis that there would be no difference between the weights of the juvenile hormone treated group and the control group was supported. Though different worms fluctuated in size frequently over the course of fourteen days, no concrete trend could be formed to lead to the belief that the juvenile hormone was inhibiting or promoting growth. Since the p-value is much larger than the accepted value, there is no reason to believe that any fluctuation in weight between the treated and control groups is a direct result of the juvenile hormone. Rather these changes in weight can be explained from random chance. Though Figure 1 seems to oppose the idea that there is no trend in the data, upon further investigation, the slight difference in the graph is a result of a large outlier in the control group data. One of the control group hornworms grew at a much slower rate than the other worms in the group which began to bring the average down as the days progressed. This outlier is evident in the control group’s final standard deviation which was inflated by the low mass value. As this experiment was only dealing with the larval stages of the tobacco hornworm, rather than the 5th instar stage leading into metamorphosis, it seems that the addition of the juvenile hormone did not make much of a difference. 
+The lack of variation in the control group and the JH treated group may be a result of variables in the experiment since many results of other experiments have shown different results from treatment of insects with IGR. For example, one experiment [Bridges, Cocke, Olsen, and Mayer:1977] treated the larval stages of the mosquito Aedes aegypti with IGR. Treatment in the early stages caused many larvae to die or have delayed and malformed development. Similar to qualitative results of this experiment, some of the treated larvae where much lighter in color because they lacked the hardened, darker cuticle which typically appeared on the control larva. Since the hornworms also showed much lighter color than the control group, there may be evidence to suggest the juvenile hormone stunted the worm’s development through its outer cuticle. This may be a result of the fact that as the worm develops, the levels of JH decrease to allow the worm to eventually become an adult and enter the pupal stage. Adding excess JH should in theory prevent the worm from developing, which would include the darker outer cuticle, which was observed in the control group, but not the JH treated group. 
+Another study [Liu and Chen: 2001] performed on the insect Chrysperla rufilabris concluded that treatment with JH of the insect at its third larval instars caused disturbed development because of the inability of larva to metabolize the overdosed level of the hormone. 
+Though the results of this experiment did not conclude that trends in masses of the hornworms are a consequence of the excess juvenile hormone, other studies have opposing evidence which demonstrates how the addition of JH at later larval instars causes a delay in insect’s development. An explanation for this phenomenon may be explained by the effect of the JH inhibiting the secretion of PTTH and thus altering the growth and development of the worm [Nijhout and Williams: 1974]. Many variables of the experiment may have had an effect on the data to appear as though the JH had no effect such as the the concentration of IGR given, the stages at which the worms were treated, the length of time the worms were treated, etc. Further experimentation may show different results of treatment, especially if other variables are tested. Having more information about the specific effects of IGR on Manduca sexta could be a great benefit to farmers and gardeners looking to prevent the worm from developing and destroying crops. 
+
+
+
+
+Literature Cited:
+Campbell D. 2017. Manduca sexta, Carolina sphinx moth. Encyclopedia of Life.
+
+Nijout and Williams, 1974. Control of Moulting and Metamorphosis in the Tobacco Hornworm, Manduca Sexta : Cessation of Juvenile Hormone Secretion as a Trigger for Pupation. The Biological Libraries , pp.493–501.
+
+Anon, 2019. Week 1: Endocrine Control of Insect Life Cycles. Comparative Physiology Bio 114 Laboratory Manual, 19.2, pp.6–13.
+
+Bridges, Cocke, Olson, and Mayer, 1977. Effects of a New Fluorescent Insect Growth Regulator on the Larval Instars of Aedes Aegpti. Mosquito News, pp 227-233
+
+Lui and Chen, 2001. Effects of the Insect Growth Regulator Fenoxycarb on Immature Chrysoperla Rufilabris. Florida Entomologist, pp. 628-633
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Manduca+graph+pic.png&Size=51924&Type=image%2Fpng&F=F_3qm15nxYO9zucab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average masses per day of tobacco hornworms in JH and control groups with standard deviation*************************************************************************
+
+
+

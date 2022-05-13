@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 11:45:21
+Author of this lab report is: Std_1P5h22RI
+ID: R_3dN9zptAe6AUk65
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The impact of the injection of calcium on the muscle twitch amplitude of the Rana pipiens
+
+Abstract:
+The neuromuscular system uses neurons to communicate and produce muscle movement. Calcium is an integral part of the complex system and is needed for the neurons to pass on the electrical message of the action potential to the next neuron. We hypothesized that by injecting the frog leg with 100 mM of A23187, the frog leg’s muscle twitch amplitude would increase.  We used three different frog legs in order to test this. We shocked the frog legs six times each; we shocked them three times without the calcium injection and three times with the calcium injection. Our findings did not reject the null hypothesis and the calcium injection did not cause a significant difference in the two sets of data giving us a p-value of 0.5902.
+
+
+Introduction:
+Neurons in the muscular system communicate through acetylcholine, which is released by an oncoming action potential. As the action potential comes down the axon, the calcium is stimulated to be released from the sarcoplasmic reticulum. The calcium is necessary for the action potential to transmit from the presynaptic axon terminal to the postsynaptic dendrites. When the calcium enters the presynaptic axon terminals, it caused the vesicle sacs filled neurotransmitters to become part of the axon’s membrane and release the neurotransmitters into the synaptic gap. As the neurotransmitters bind to the postsynaptic dendrite, calcium rushes into the dendrite. So, when the calcium is released, the muscle fiber is contracted and is shortened. In previous study, calcium among other molecules necessary to complete a muscle contraction, were either blocked or increased by means of injection. If calcium was blocked by an inhibitor, no action potential would fire and the muscle would not be contracted [Augustine G.J. : 1987]. In another study, a giant squid axon injected with calcium did trigger the release of transmitters [Miledi R. : 1973]. We hypothesize that if 100 mM A23187 is injected into the frog leg then the muscle twitch amplitude will increase.
+
+
+Materials and Methods:
+To begin this experiment, we took three frog legs and separated the inner thigh muscle and free the white sciatic nerve and the blood vessels with it. After we tied the cut muscle vertically with a taut string so it is perpendicular to the rest of the frog leg, the two metal conductors were inserted into the muscle of the frog leg. Using the LabScribe toolbar, we set the values on the application to: # of pulses (1), Frequency (1Hz), Width (5ms). We then determined the threshold amplitude. We shocked the leg three times at that threshold amplitude and recorded the voltages for each shock. Then we injected the leg with the calcium and waited for 6 minutes to let the calcium disperse through the leg. We injected the frog leg in multiple locations to help the calcium spread faster and more evenly. We then shocked the leg three more times. We ran this cycle twice more until the three frog legs have been shocked before and after injection of the calcium. We ran a paired t-test on our data with an alpha value of 0.05.
+
+
+Results:
+
+We recorded the voltage of the shocks in the frog leg before and after the calcium injection. Our average difference was 0.0176 +/-. We had a degree of freedom of 2. Our t-value was 0.6352 and our p-value was 0.5902.
+
+
+Discussion:
+We were not able to disprove our null hypothesis. Our p-value was above the alpha value and therefore our data was not significantly significant. We believe that this possibly happened because the introduction of more calcium did not lower the threshold, but made more calcium available to be used over a period of time, which would have extended the duration of the twitch, which we were not measuring. Eventually, the effect of more calcium added into the Rana pipiens leg would plateau, and the addition of more calcium would have no impact on the firing of the action potential and the muscle twitch [Miledi R. : 1973]. Inactivation of the presynaptic calcium channels could also be an issue causing our experiment to go awry. Inactivation becomes an issue when depolarization of the cell lasts for several seconds or the amount of calcium is abnormal or the identity of the ion in the channel is also abnormal [Augustine G.J. : 1987].
+
+
+Literature Cited:
+Augustine G.J., Charlton M.P., Smith S.J. : 1987. Calcium action in synaptic transmitter release. Annual Review of Neuroscience. 10 : 633-693
+
+Miledi R. : 1973. Transmitter release induced by injection of calcium ions into nerve terminals. Proceeding of the Royal Society of London B. 183 : 421-425.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-28+at+7.07.52+PM.png&Size=44207&Type=image%2Fpng&F=F_2b3pK6C4o3074Te
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: There were 3 frog legs that were shocked a total of 6 times each, three without the calcium, the control, and three with the calcium, the experimental. Average difference was 0.0176 +/-.*************************************************************************
+
+
+

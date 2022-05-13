@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-09-25 16:44:28
+Author of this lab report is: Std_C9szRizH
+ID: R_2ypVif5DraQfz3w
+Course number: BIO101L
+TA: TA_vywG7gSA
+*************************************************************************
+Title: The effect of low dosage methoprene IGR on the development of Manduca sexta larvae
+
+Abstract:
+none
+
+Introduction:
+Hormones control many processes within an organism, including but not limited to, regulating the stages and timing of its development. The Manduca sexta, more commonly known as the tobacco hornworm, is a type of holometabolous organism and undergoes seven distinct phases of development from its first larval instar to its adult form as a moth [Johnson: 2016] . Each of these stages is marked by the occurrence of a molt, which is regulated by varying levels of juvenile hormone (JH) and ecdysone. In the juvenile caterpillar, JH levels remain high and prevent the organism from developing its adult features. However, once JH levels drop to a low concentration, the ecdysone levels increase, signaling that the caterpillar has experienced sufficient growth and is now ready to pupate; this is known as the commitment point [Ismail: 1999]. 
+	Methoprene is a chemical found in many pesticides and mimics the effects of JH in juvenile insects [Wick: 2012]. As an insect growth regulator (IGR), it’s primary function is to hinder the normal development process of the affected insects, keeping them in their juvenile phase. In doing so, methoprene inhibits the ability of these pests to reproduce and therefore limits the population size of these insects. The Manduca sexta are common pests and for this reason serve as the primary focus of this experiment. This study aims to demonstrate how the addition of methoprene IGR to the food source of larval Manduca sexta affects the development of the caterpillar. Based on the knowledge that JH inhibits the expression of adult characteristics, the objective of this experiment was to test the hypothesis that treating larval Manduca sexta with low doses of methoprene IGR, will cause the caterpillars to increase in weight and prevent the larvae from pupating. 
+ 
+
+
+Materials and Methods:
+Two plastic containers, each with four cells, were designated either “control” or “treatment” based on the function they would later serve. Two holes were then drilled into one side of each cell to allow air flow. 80g of generic caterpillar food was weighed in a separate container and set aside. Then, using a clean spoon and a new container, 10g of the previously acquired food were weighed and placed into the new container. Five drops of 1:1250 concentrated methoprene IGR, a synthetic form of juvenile hormone and common pesticide, was then added and mixed into the 10g of food; the mixture was then placed into one of the “treatment” cells. The process of allocating the food and combining it with the methoprene IGR was repeated three more times until each cell in the “treatment” container contained 10g of hormone-treated food. 
+	A similar process was repeated to prepare the food mixtures of the control group. Again, using a clean spoon and a new container, 10g of the original 80g were placed into the new container. However instead of adding 5 drops of the hormone (IGR) to the food, 5 drops of water were added using a clean pipette to account for the moisture. The mixture was then placed into one of the “control” cells, and this process was repeated three more times until the remainder of the 80g had been used and all four of the cells contained food.
+	Eight Manduca sexta were weighed and their initial weights were recorded (day 1). Placing one worm in each cell, the treatment and control containers were kept in an incubator for two weeks in order to maintain stable conditions. The food supplies were replenished as needed according to the procedure stated above and the weights of the caterpillars were recorded daily for the fifteen day duration of the study. Figure I shows the average weight of each group for every day of observation and uses error bars to account for the standard deviation from the mean. These averages were also used to conduct unpaired and one-tailed tests (t-stat = 0.661, df = 118, p = 0.255) from which the data was determined to be statistically insignificant due to a probability of 0.255. 
+
+
+Results:
+The statistical insignificance (p = 0.255) of the results from the unpaired and one-tailed t-tests indicate that the relationship between the weight of the caterpillars and the exposure to methoprene IGR were more likely related to chance than any experimental factors. The insignificance is further supported by the large overlapping error bars which are representative of the standard deviation and can be seen in Figure I. From a qualitative perspective, it should also be noted that over the course of the experimentation certain morphological differences arose between the two groups in regard to coloration. Figure II displays the difference in color that resulted from the experimentation. Both groups initially exhibited a pale blue exterior, but over the course of the study the control larvae developed into a bright blue whereas the experimental caterpillars maintained their initial pale juvenile coloring.
+
+Discussion:
+The results of this experiment did not support the hypothesis that exposing developing Manduca sexta to a low dosage of methoprene IGR would cause them to exhibit an increase in weight and inhibit pupation. The statistically insignificant result demonstrates that the element of chance posed a greater effect on the development of the caterpillars than the action of exposing the experimental larvae to methoprene IGR. With regard to the knowledge that exposure to juvenile hormone, natural or synthetic, impedes the ability of the insect to molt into its adult form, it is reasonable to assume that the volume of methoprene IGR used in this experiment was not significant enough to produce the desired results. If repeated, experimental adjustments including a larger volume of methoprene IGR and a longer observation period would perhaps produce results supportive of our initial hypothesis that exposing juvenile Manduca sexta to synthetic JH will inhibit pupation and lead to an increase in weight. Other modifications may be made to include more test groups with varying dosages of methoprene IGR in order to determine which volume is most effective at disrupting the normal development of the Manduca sexta.
+	The morphological differences related to the color of the exteriors are indicative of some developmental discrepancies. The control caterpillars exhibited a vibrant blue exterior whereas the experimental caterpillars maintained their pale blue, juvenile coloring. These qualitative observations suggest that the larvae exposed to the methoprene IGR maintained some of their juvenile traits, while the control larvae began to present traits typically associated with the transition to adulthood. These variations are understood to represent one of the physical effects that juvenile hormone exerts on developing Manduca sexta. 
+Though the results were determined to be insignificant by the statistical tests, the results of this experiment displayed a general trend in which the experimental caterpillars were slightly heavier than those of the control group. Other research experiments have demonstrated that direct injection of juvenile hormone into larval Manduca sexta has been known to lengthen the period of the fifth and final instar [Nijhout:1999], which supports the general theory behind our experiment. Although our results did not display significant results, the inhibitory effect of JH on larval Manduca sexta is what ultimately makes synthetic versions of juvenile hormone such as methoprene IGR an effective pesticide. The application of products such as these to growing populations of pests can be used to arrest the development of the larval insects, preventing them from reaching a stage in which reproduction is possible, which, in turn causes the population level to plateau and eventually decline. 
+
+
+Literature Cited:
+Johnson AD, Mallison S. 2016. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16
+Ismail, S M, et al. “Juvenile Hormone Acid and Ecdysteroid Together Induce Competence for Metamorphosis of the Verson's Gland in Manduca Sexta.” Journal of Insect Physiology, Pergamon, 7 Oct. 1999, www.sciencedirect.com/science/article/pii/S002219109900102X.
+Nijhout, Frederik, and Carroll M Williams. “Juvenile Hormone Acid and Ecdysteroid Together Induce Competence for Metamorphosis of the Verson's Gland in Manduca Sexta.” Journal of Insect Physiology, Pergamon, 7 Oct. 1999, www.sciencedirect.com/science/article/pii/S002219109900102X.
+Wick, K.; Bond, C.; Buhl, K.; Stone, D. 2012. Methoprene General Fact Sheet; National Pesticide Information Center, Oregon State University Extension Services. http://npic.orst.edu/factsheets/methogen.html.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-25+at+2.03.14+PM.png&Size=263129&Type=image%2Fpng&F=F_oZZHHAONg1CZNAd
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-25+at+2.02.34+PM.png&Size=952001&Type=image%2Fpng&F=F_5aoZl0Mo56IET6h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure I. Average growth of experimental and control Manduca sexta over a fifteen day observation period  (p = 0.255)
+
+Figure II. Control Manduca sexta (left) exhibit more vibrant coloring than experimental caterpillars (right)*************************************************************************
+
+
+

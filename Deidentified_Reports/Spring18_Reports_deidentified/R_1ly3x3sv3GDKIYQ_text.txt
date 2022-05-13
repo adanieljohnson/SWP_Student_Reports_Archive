@@ -1,0 +1,94 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-20 17:25:33
+Author of this lab report is: Std_UhNr3GyY
+ID: R_1ly3x3sv3GDKIYQ
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: Photosynthetic Activity of Spinach in the Visible Light Spectrum
+
+Abstract:
+Photosynthesis is used by plants to harness light energy and ultimately form sugars. Within the thylakoid membrane of chloroplasts is Photosystem II, which excites electrons using light - driving reduction of NADP+ to NADPH. The Hills assay utilizes this reduction with DCPIP, a blue dye which turns colorless when reduced, allowing photosynthetic activity to be quantified. We sought to determine the ideal wavelength for spinach photosynthesis, and hypothesized that blue light would yield the most photosynthetic activity. The experiment tested 4 groups: negative control (dark), positive control (light), red wavelength and blue wavelength.  The results showed little to no % change in absorbance values, and, showed almost no statistical significance from the negative control. With the results showing a lack of photosynthetic activity in all groups, we concluded that the chloroplasts, if there were any, were dysfunctional. Upon further review, considering that the positive control was mostly unable to achieve statistical significance, we determined that errors must have been made in the chloroplast extraction procedure. Therefore, in future experiments, it is recommended that the method of extracting chloroplasts is revised and refined to prevent such results from occurring.
+
+Introduction:
+Spinach (Spinacia oleracea) is an ideal model organism for studying photosynthetic activity because of its accessibility. It is considered to be highly nutritional, best known for its role in human diet, containing substantial vitamin A, C, K, manganese and iron [USDA: 2014], consequently making it a fundamental agricultural crop. Therefore, the study of its growth is relevant and beneficial to civilization. Agricultural studies can alter many variables in an attempt to idealize  =plant growth, however, for this experiment we will focus specifically on light wavelength. 
+
+Photosynthesis is a crucial physiological processes used by plants to convert light energy into usable energy. These reactions, known as the light dependent and independent reactions, ultimately create sugars from the splitting of water, harnessing of electron energy, and reduction of carbon dioxide.  For this experiment, we will only be looking at the light dependent reaction. Plant cells have chloroplasts, which are specialized organelles for photosynthetic activity. Within chloroplasts are thylakoids, which house the necessary light receptors for the light reactions in their membranes. Photosystem II is the primary mechanistic photoreceptor, and is most relevant to our topic of study. Light excites electrons in the array, and the special pair passes the electrons to electron carriers. The movement of electrons through the thylakoid membrane powers cytochrome b6f proton pumps, maintaining a H+ gradient [Alberts: 2015]. The specific purpose of the light dependent reaction is to form NADPH from NADP. The electron energy of NADPH drives the calvin cycle of the light independent reaction. The functional role of NADPH is important for this lab because the Hill reagent, 2,6-Dichlorophenolindophenol (DCPIP), is used to measure the photosynthetic activity of the extracted chloroplasts [Stiban: 2015]. DCPIP is a dye with a high affinity for electrons. Originally blue, it turns colorless when it is reduced in the place of NADH+. Therefore, by measuring the absorbance of the DCPIP solution over time while exposed to light, we can predict corresponding photosynthetic activity. 
+
+Chloroplasts contain the pigments chlorophyll A and B, which both have peak absorbances in blue light [Muneer: 2014][Lederer: 2007]. The purpose of our experiment was to determine if extracted chloroplasts from Spinach are most photosynthetically active at blue wavelengths. Muneer performed a very similar experiment testing for Photosynthetic activity with colored Light Emitting Diodes, and blue LEDs had the most significant result. We hypothesized that the chloroplasts would be most active under blue light, because the literature suggests that blue wavelengths yield the most absorbance and consequent activity.
+
+
+Materials and Methods:
+The specimen used in our experiment was store bought refrigerated spinach. We prepared the spinach for use by peeling 5 leaves from their respective stems, tearing them up, and grinding them in a mortar and pestle with approximately 20mL of grinding buffer (400mM sucrose in Tricine buffer, pH 8). We extracted chloroplasts from the spinach leaves with a centrifuge. We added the raw spinach mixture to a centrifuge tube, and spun it at these settings:  200xG/1200rpm/3 minutes/4*C (RT-7 centrifuge). We then poured the supernatant into a second chilled tube, and centrifuged this tube at 1000xG/2800rpm/10min/4*C (RT-7 centrifuge). Discarding the supernatant, we added 20mL of the grinding buffer to this second tube and suspended the pellet.
+We performed an adapted Hill assay process to test for photosynthetic activity in our specimens. We had a blank solution with 8mL water and 2mL of reaction buffer (100mM phosphate, pH 6.5) to blank the Genesys spectrophotometer. The negative control (dark), positive control (white light), red experimental (red light), and blue experimental all had 6mL of water, 2mL of reaction buffer and 2mL of 130mM DCPIP. The negative control would remain in a dark cabinet for the duration of the experiment. The positive control was placed in a cabinet with a standard white LED bulb. The red and blue experimentals were also placed in cabinets with the standard white LED bulb, however, respective colored cellophane wrap was placed over the bulb. We had initially planned to use colored LED bulbs, but supply complications led to the use of cellophane wrap instead. After blanking the spectrophotometer at 600nm (since DCPIP is blue), we recorded the initial absorbance readings for each group, and did so every 10 minutes. We converted the absorbance readings at each interval to percent change, allowing us to perform statistical tests on a specific value. The formula used for % change was (Abs (time x) - Abs (time 0))/(Abs time 0)*100. An Excel t-Test: Two-Sample Assuming Equal Variances was used to test for statistical significance. Our critical value was set at 0.05, and we tested for significance in %absorbance change from the negative control.
+
+
+Results:
+The % change and standard deviation for the negative control/dark group were both low as expected. Each group averaged statistically insignificant % changes, however, some individual samples, such as the 3rd blue sample, may have achieved significance, but the standard deviation for the blue group was very high. This speaks to the inconsistency within the group. Overall, the absorbance readings and % change values for the 3 light groups were far lower than expected. 
+
+Statistical Test (at 20 minutes): t-Test: Two-Sample Assuming Equal Variances (critical value=0.05)
+White: T(4)=(t Stat=5.397,p=0.00285)
+Red: T(4)=(t Stat=0.0566,p=0.479)
+Blue: T(4)=(t Stat=0.880,p=0.214)
+
+As the data suggests, only the white light was significantly different from the negative control. However, this is where the trouble begins. The white group at 20 minutes was the only group in the entire experiment that achieved statistical significance. White was not statistically significant in any other interval. Although the blue group has the most % change, it is not statistically significant because the standard deviation between the 3 samples was too large.
+
+
+Discussion:
+The data suggests that the harvested chloroplasts of spinach are not any more photosynthetically active in light than they are in the dark. If the chloroplasts had been working properly, DCPIP would have been reduced at the thylakoid membrane, and turned colorless resulting in lower absorbance readings. This was not the case in our experiment. Therefore, based on these results we have to reject our hypothesis. Since the scientific community has amassed enough data to confirm light’s role in photosynthesis, we can reasonably conclude that there was an error in our procedure that resulted in a lack of photosynthetic activity. 
+
+Our results, or lack thereof, do not concur with the findings of past experiments. Other experiments testing for similar purposes found statistical significance in at least the positive control [Vogelmann: 2002][Muneer: 2014][Lederer: 2007]. Considering that our experiment did not have statistical significance with the positive control, we can conclude that the error lies in either our extraction of chloroplasts, or light source. We used a suspended B pellet solution as our source of chloroplasts. Since we performed a baseline experiment with the same chloroplast extraction procedure and successful results, it is reasonable to assume that we made an error somewhere between grinding the leaves, centrifuging, and filtering. Other sources of error include the age and batch of spinach leaves used, the variance of chloroplast concentration by sample, and human errors. We saw evidence of varied chloroplast concentration in the blue group, within which were greatly differing percent changes (~0-~19%). Human errors were most evident in our chloroplast extraction. Upon the filtering of the ground spinach, we lost some solution into the ice bath due to the curvature of the pestle. We then had to dilute the solution with more grinding buffer to reach at least 20mL of solution. By doing so, we lost a large amount of usable chloroplasts, which could have contributed to the low photosynthetic activity. Human error could also have extended to the centrifuging process, for example, we could have entered the wrong settings, in the centrifuge, like temperature, cooking the chloroplasts and rendering the process useless. 
+In future experiments, it is recommended that this procedure be revisited and thoroughly vetted for mistakes and inconsistencies. The method of chloroplast extraction needs to be reviewed and refined to prevent such disastrous results as the ones exhibited in this experiment. The light source should also be altered. LED bulbs, like in Muneer’s experiment ought to be used to insure that an adequate light source reaches the chloroplast solutions [Muneer: 2014]. Larger sample sizes - like 10 samples per group instead of 3 - would likely correct the large standard deviation values and help validate the results.
+
+If our experiment was hypothetically successful, we would further explore and expand upon the ideal conditions for spinach growth.  Additionally, we could alter other environmental factors such as temperature, humidity and soil nitrogen composition [Smolders: 1993], grow different batches of spinach in said conditions, and measure their photosynthetic activity. The search for ideal growing conditions reaches beyond the mechanistic function of photosystem II, and other physiological processes should be studied as well. Aside from photosynthetic activity, we could test for overall viability, nutritional composition and physical growth. This could potentially be beneficial for the agricultural industry, increasing the quality and quantity of spinach crop.
+In conclusion, it is pointless to connect our experiment to the scientific community because the data is clearly an outlier as a whole. In the planning stages, we had hoped that this experiment would reinforce the findings in other experiments [Muneer: 2014][Lederer: 2007], which concluded that spinach growth is optimized in blue lighting. However, our experiment is clearly corrupted, and needs to be revisited and redesigned accordingly. 
+
+
+Literature Cited:
+Alberts, Bruce et al. (2015) “Molecular Biology of the Cell 6th Edition” Garland Science.
+
+Lederer, Alison (2007) "Investigation of Photosynthetic Properties In Spinach and Geranium:
+Pigments, Starch Production, and Light Wavelength Absorbance," ESSAI: Vol. 5, Article 29
+
+Muneer, Sowbiya et al. (2014) “Influence of Green, Red and Blue Light Emitting Diodes on Multiprotein Complex Proteins and Photosynthetic Activity under Different Light Intensities in Lettuce Leaves (Lactuca Sativa L.).” International Journal of Molecular Sciences 15.3 : 4657–4670. PMC. Web. 20 Mar. 2018.
+
+"Raw spinach per 100 g, Full Report from the USDA National Nutrient Database". US Department of Agriculture, National Nutrient Database for Standard Reference Release 27. 2014. Retrieved 20 March 2018.
+
+Smolders, E., Buysse, J. & Merckx, R. Plant Soil (1993) 154: 73. https://doi.org/10.1007/BF00011074
+
+Stiban, Johnny (2015). Cell Biology lab manual (6th ed.). Birzeit University: Dr. Stiban.
+
+Vogelmann, T. C. and Evans, J. R. (2002), Profiles of light absorption and chlorophyll within spinach leaves from chlorophyll fluorescence. Plant, Cell & Environment, 25: 1313-1323. doi:10.1046/j.1365-3040.2002.00910.x
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2018-03-20+%282%29.png&Size=104939&Type=image%2Fpng&F=F_3ESd9gXEQ2bTgB3
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2018-03-20+%283%29.png&Size=31502&Type=image%2Fpng&F=F_1DIkoskVwupnQDL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+[Table] This table contains the absorbance readings, % change, standard deviation and averages of each group over the duration of the experiment (10 minute intervals).
+
+[Graph] In this figure, we see the % change (dependent variable) of absorbance after 50 minutes of the positive/negative controls, red and blue wavelengths (Independent variable). Error bars represent mean +/- standard deviation.
+
+
+*************************************************************************

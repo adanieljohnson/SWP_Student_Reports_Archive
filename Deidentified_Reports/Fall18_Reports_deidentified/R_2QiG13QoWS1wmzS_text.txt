@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-16 14:22:01
+Author of this lab report is: Std_VMspNHuL
+ID: R_2QiG13QoWS1wmzS
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Azadirachtin’s Effect on Weight of Manduca sexta During Larval Development
+
+Abstract:
+This experiment tested the effects of the insect growth regulator azadirachtin on the weight of Manduca sexta. Ecdysterone (or 20E) is a hormone that works in conjunction with juvenile hormone to influence molting and pupation of the insect, as well as growth in length and weight of the insect, and is typically present in greater amounts until the fourth larval instar, the most crucial part of larval development prior to pupation. It was hypothesized that azadirachtin would inhibit 20E, which would, in turn, decrease the weight over time of the insect, and postpone the timing of pupation. The experiment was carried about by administering azadirachtin through the food to four Manduca sexta, classified as the experimental group, and comparing it with a control group of four other Manduca sexta. The results show a two-sample t-test value of 2.34 and a one-tailed p-value of 0.016 with an alpha value of 0.05 and degrees of freedom value of 16, which shows a significant statistical difference between the two groups. Although the IGR did inhibit some growth by weight, it did not influence the timing of the commitment pulse and larval phase of the insects.
+
+Introduction:
+Manduca sexta, more commonly known as a sphinx moth, has several growth and development processes controlled by hormones. One of the most important hormones in these insects is ecdysterone, or 20E, which regulates the timing of molting during the larval stages of development [Johnson: 2016]. It works in conjunction with another hormone, called juvenile hormone, which regulates the type of molt the insect will experience. These two hormones work together to determine which larval instar the insect is experiencing and when it will begin to pupate. 20E is present in the greatest amounts during the first four larval instars, in which the insect is feeding the most and gaining the most weight [Reinecke: 1980]. There is a spike in 20E around the 5th larval instar, which triggers the commitment pulse, which in turn causes the insect to begin pupating. Because many insects are pests during their larval and/or adult stage, there are many chemicals known as insect growth regulators, or IGRs, that either inhibit or stimulate 20E and related hormones. Azadirachtin is an IGR that inhibits 20E, which, if it works as expected, will inhibit the growth and development of Manduca sexta into its adult phase. This inhibition of growth can be seen by the significant decrease in weight gain. Manduca sexta typically more than triple their weight from the beginning of the first instar to the end of the fifth instar in a laboratory setting [Reinecke: 1980]. Because of this vast change in weight and its fairly short life cycle (around 38 days), any significant alterations in weight gain should be easily detectable. The administration of the hormone inhibitor works most effectively if administered over several days rather than injecting a large amount directly before the spike in 20E, as previous studies have found that the interaction of inhibited 20E with juvenile hormone is key during much of the larval phase [Nijhout: 1974]. In this experiment, the independent variable will be the amount of azadirachtin administered through food and the dependent variable will be the difference in growth by weight. If Manduca sexta is given azadirachtin via food, then 20E and therefore growth will be inhibited, shown through weight comparisons between the control and experimental groups, and timing of pupation will be postponed, shown through the appearance of the commitment pulse.
+
+Materials and Methods:
+ Eight Manduca sexta were divided into two groups of four insects each, control and experimental. The groups were placed into separate containers with four individual compartments for each insect. The initial weights of each insect were taken and recorded. Ten grams of food were given to each insect. For each of the experimental group’s food, four drops (~4 milliliters) of an azadirachtin solution were mixed in. For each of the control group’s food, the ten grams of food were mixed with four drops (~4 milliliters) of water to make the food more cohesive. The insects were placed in an incubator set on 28C. The weights of each insect as well as any observations, such as color, amount of movement, and approximate proximity to pupation, were recorded every 24 hours for nine days, replacing the food when it either appeared dry or ran out. The control and experimental groups were compared using a two-tailed two-sample t-test with an alpha value of 0.05. 
+
+
+
+Results:
+The results of this experiment show that the weights of the control group generally increased greatly from Day 1 to Day 5 and decreased greatly from Day 5 to Day 9. The experimental group showed a slight increase from Day 1 to Day 6, with a slight decrease from Day 7 to Day 9, as shown in Figure 1.1. As the control group grew, they appeared to be much larger and a much brighter green over the first six days of the experiment than the experimental group. Around the seventh day, the control group started to turn a yellowish-green color while the experimental remained green. From Day 8 to Day 9, all of the experimental and control insects reached their commitment pulse and were not moving as much as they had been. This data from this experiment show a two-sample t-test value of 2.34 and a one-tailed p-value of 0.016 with an alpha value of 0.05 and degrees of freedom value of 16. This means the test shows a significant statistical difference between the control and experimental groups.
+
+Discussion:
+The results of this experiment support the hypothesis. The experimental group, treated with azadirachtin, had a smaller shift in growth throughout the testing period when compared to the control group. This is an indicator of a correlation between the inhibition of 20E and a smaller growth by weight. The control group had a much greater development through the larval stages both by weight and the observations that were made. However, all eight of the insects, both control and experimental, reached their commitment pulse within 24 hours of one another, between days 8 and 9, so even though the 20E appeared to hinder the weight gain of the insect, it did not prevent the normal timeline of the life cycle from taking place. Therefore, the methods of this experiment would not be useful in trying to postpone the Manduca sexta from entering its adult phase, which is the most likely reason this IGR would be used in the first place. This is most likely due to having a very small amount of azadirachtin administered to the food. The azadirachtin solution itself was diluted at 1 per 1,000, so the insects received a very small amount during the course of this experiment. If this experiment was to be replicated, a higher dose would be recommended to see if it produces results that would postpone pupation, since a higher dose would inhibit more 20E, thus further postponing development and delaying the commitment pulse. Another modification to this experiment would be to focus more on juvenile hormone rather than 20E, because as previous studies have shown, even though 20E and juvenile hormone both work together to influence growth and development, juvenile hormone focuses more on the type of molt and therefore will most likely prevent the maturation into the adult form of the insect [Nijhout: 1974].
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+2. NIJHOUT, H. F., & WILLIAMS, C. M. (1974). Control of Moulting and Metamorphosis in the Tobacco Hornworm, &lt;em&gt;Manduca Sexta&lt;/em&gt; (L.): Cessation of Juvenile Hormone Secretion as a Trigger for Pupation. Journal of Experimental Biology, 61(2), 493.
+
+3. Reinecke, J. P., Buckner, J. S., & Grugel, S. R. (1980). Life cycle of laboratory-reared tobacco hornworms, manduca sexta, a study of development and behavior, using time-lapse cinematography. The Biological Bulletin, 158(1), 129–140. https://doi.org/10.2307/1540764
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=22533&Type=image%2Fpng&F=F_2Qm7JyB3nThrXVz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.1 – Average Differences in Weight from Day 1 to Day 9. Experimental and Control groups show an average difference of weight in grams from the first to final day of experimentation. Standard deviation bars are based on averages for each specimen. *************************************************************************
+
+
+

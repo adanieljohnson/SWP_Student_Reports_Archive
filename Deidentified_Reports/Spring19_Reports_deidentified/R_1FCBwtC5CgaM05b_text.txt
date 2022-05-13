@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 04:22:10
+Author of this lab report is: Std_ezjaOza6
+ID: R_1FCBwtC5CgaM05b
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Neuromuscular Control of Rana Pipien Frogs in Relation to Amplitude
+
+Abstract:
+The Rana Pipien frog’s neuromuscular system functions due to a series of internal action potentials which release muscle contractions. These action potentials occur due to an opening of sodium channels, therefore, when these channels are blocked the action potentials won’t occur. This lab tested the effect of muscle contractions on the Rana Pipien frog’s gastrocnemius muscle when using a sodium channel blocker (lidocaine). Muscle contractions were measured (amplitude) before and after the injection of sodium channel blockers at 0.4 volts. It was hypothesized that if the sodium channel blockers are injected into the Rana Pipien frog’s gastrocnemius muscle, there will be a decrease to a cessation of the action potential in the static nerve. The alternative hypothesis was accepted by the outcome of the experiment and the statistical analysis determining there were significant differences. It was concluded that lidocaine did cause a decrease in the action potential of a frog’s gastrocnemius muscle.
+
+Introduction:
+This experiment will examine the stimulus, response, work summation, and tetanus in a frog’s leg muscle. The objective is to demonstrate the basic properties of neuromuscular control using the gastrocnemius muscle and sciatic nerve of a Rana Pipien frog. This is a northern leopard frog which is typically a slim green or brownish color. There are thousands of myofibers, cylindrical multi-nuclear, fused aggregates of cells, in the skeletal muscle of both vertebrates and invertebrates. These myofibers bound together, forming the skeletal muscle proper, which are innervated by motor neurons. The axons of these motor neurons extend and branch out the muscular junction. “During sustained stimulation of motor neurons, a release of acetylcholine by the neuron sufficient to maintain tetany of skeletal muscle is maintained by stimulation of presynaptic nicotinic receptors by synaptic acetylcholine” [Clarks: 2018]. Therefore, the nerve muscles at the junction release acetylcholine which bind with receptors to release sodium channels, triggering the action potential which releases calcium from the sarcoplasmic reticulum. This release of calcium is what transmits the contractile mechanism of muscle fiber. These muscular contractions can be measured and seen through the use of myograms (graphical recording of muscle activity). An electrophysiology (EP) recording device will be used to monitor the contraction amplitudes of the muscle. The lab hypothesized that if the sodium channel blockers (lidocaine) is injected into Rana Pipien Frog’s gastrocnemius muscle, there will be a decrease to a cessation of the action potential in the static nerve.
+
+Materials and Methods:
+Three Rana Pipien frog legs of the were used for this experiment. The skin on the frog legs was removed using hands and forceps then placed separately from the frog legs on the dissection pan. Then using the dissection probe, the inner thigh muscle is carefully separated, beginning at the upper thigh muscle and extending to the lower muscle. The sciatic nerve was separated from its attached connective tissue using a dissection needle and forceps. The exposed tissue of the frog legs was kept moist throughout experiment using frog ringers, without drowning the tissue. The frog leg was then connected to the Lab Scribe software. Using the simulator on Lab Scribe, the amplitude was determined, and the threshold stimulus was set at 0.4 volts. The stimulus parameters were also set to a frequency of 1 Hz, a pulse width to 5ms, and the number of pulses to 1. Apply these parameters and record the results. Repeat these steps for all 3 legs as the control group. Then for the experimental group, inject the gastrocnemius muscle with 0.1 mL of lidocaine and add 1 drop on the sciatic nerve. Wait 3 minutes before measuring the voltage, then apply the parameters and record the results. Repeat these steps for all 3 legs as the experimental group. The average voltage was then recorded and analyzed using a two-tailed paired t-test.
+
+Results:
+The average amplitude for the control group was found to be 1.396 volts; whereas, the average amplitude for the experimental group was found to be 0.2493 volts (Fig 1). A two-tailed paired t-test was taken in order to analyze these results. It concluded that due to the p-value being 0.02531 which is less than 0.05, the results are statistically significant. The statistical results and observations offered various trends throughout this experiment. After injection of the sodium channel blocker to the frog legs the experimental voltage would constantly decrease, and the leg muscle twitch would last longer. Also, the larger frog legs produced higher amplitude voltages in both the control and experiment in comparison to the smaller frog legs.
+
+Discussion:
+The lab hypothesized that if the sodium channel blockers (lidocaine) is injected into Rana Pipien Frog’s gastrocnemius muscle, there will be a decrease to a cessation of the action potential in the static nerve. Based on the statistical results it can be concluded that the alternative hypothesis was accepted, and the null hypothesis was rejected. We observed statistical significance at the 0.05 level, which suggests that the increase of sodium channel blockers did significantly affect the action potential and amplitude of the Rana Pipien Frog. “The reason why we used the muscle contraction amplitude was because muscular contractions are taken as an index of the propagation of the impulses across the impaled region” [Tasaki: 1952]. There was a decrease in voltage in the experimental group because the sodium channel was blocked due to the injection of lidocaine. Sodium channels transport neurotransmitters across neurons, so when it was blocked the neurons were unable to receive the transmitter to create an action potential. The lab found that the frog legs that were larger resulted in higher voltages in comparison to the smaller ones. This occurred due to the amount of lidocaine in the larger legs being more concentrated than those in the smaller legs. The overall experiment proved to be statistically significant which means the experiment will need to be done again due to there being a difference in the data. 
+
+Literature Cited:
+1.Clarks C. 2018. Nicotinic Antagonists (Skeletal Muscle Relaxants & Ganglionic Blockers), TUSOM.
+
+2.Tasaki I. 1952. Properties of Myelinated fibers in frog sciatic nerve and in spinal cord as examined with micro-electrodes. PubMed 3: 73-94
+
+3.WFU BIO 114L Lab Manual 2018.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-19+at+12.09.43+AM.png&Size=74622&Type=image%2Fpng&F=F_1n9C6Nwvdw70BMK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This figure represents the average amplitude (volts) of muscle responses from the three frog legs with the control group (blue bar) and the experimental group (orange bar). The error bars are the ± 1 standard deviation of the data.*************************************************************************
+
+
+

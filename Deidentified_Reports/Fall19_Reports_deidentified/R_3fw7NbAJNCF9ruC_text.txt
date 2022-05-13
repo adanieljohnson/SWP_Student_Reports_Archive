@@ -1,0 +1,77 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-15 22:10:55
+Author of this lab report is: Std_B2R5InHt
+ID: R_3fw7NbAJNCF9ruC
+Course number: BIO101L
+TA: TA_23dMbkjX
+*************************************************************************
+Title: Developmental Hormones in Manduca sexta instars
+
+Abstract:
+	Farmers for centuries have dealt with pests destroying their crops. This has been done for centuries, with pesticide use dating back to the fertile crescent in Mesopotamia (Unsworth 2010). In the United States, pesticide use has increased from 2011 to today (Marquez 2018). This use of pesticides seems warranted, until the impact on the ecosystem is considered (Thimann 1983). This impact makes the situation surrounding pesticides more complicated; the larger impact of the use of pesticides can cause farmers to stop using them. In the southeastern United States, tobacco and tomato crops are food for larval Manduca sexta caterpillars. These caterpillars, or instars, grow by molting, going through multiple rearrangements during their life cycle (Berkley 2019). The timing of the molts is decided by juvenile hormone, and the type of molt is determined by ecdysterone, or E20. 
+
+
+Introduction:
+Pests across the world decimate crops if they are not controlled. In areas of the Southern United States, adult Manduca sexta moths lay waste to large amounts of tobacco and tomato crops (Delahaut 2017). The adult moths lay numerous eggs, which develop into more pests (Berkley 2019). This problem affects more than just farmers, as large scale crop devastation could lead to regional fluctuations in costs of tomatoes or tobacco (Delahaut 2017). Larval manduca sexta instars molt and grow as a result of two main hormones; juvenile hormone, or JH, and ecdysterone, or E20. E20 controls the type of molt (the actual stage change in the instar), while juvenile hormone controls the timing of the molt.  In order to control their numbers, it would be possible to stop the larval Manduca sexta from developing into adults. There are two methods for preventing instar growth. First, conventional pesticides can be used at the risk of damaging the surrounding ecosystem, or  by treating larval instar (caterpillars) individuals with juvenile hormone, causing the instar to not develop into a reproductive adult. The instar’s failure to develop is because the spike in JH disrupts molt timing, and causes the instar to grow into a fifth phase, but not pupating (Riddiford 2003). If we add the JH analogue ReCor to the larval instar’s food supplies, their growth patterns will be disrupted, and the larval will not develop into a pupa. This is due to ReCor containing a juvenile hormone analogue known as methoprene, which acts in a similar way as juvenile hormone (Ismail 2000). The abnormal growth will also be seen in the masses of the larva, as the largest instars should be in the treatment group. This will be done by dividing four instars over a four-celled container, and regulating external factors outside of food treatment. The validity of this experiment should be tested using a Chi-Square test for Independence, at five percent significance, using “normal” and “abnormal” growth as the categories between the two groups. 
+
+
+Materials and Methods:
+	In order to complete this lab, two populations of four larval Manduca sexta should be separated into two four-celled plastic containers, labelled control and treatment. Punch two air holes into the sides. Two spoons (one for food and one for waste), two pipettes, deionized water, fifty milliliters of the pesticide ReCor, and two receptacles for excess waste and food.  Add ten grams of instar food to the cells of the containers in both groups, then add six drops of deionized water to the control group’s food, and six drops of ReCor to the food of the treatment group. After the first application of water/ReCor, add six drops of water each day until the experiment ends. Check in daily to do this, and record the mass (in grams) of the instars. Additionally, clean the waste and add new food. Run a Chi-Square test for Independence at 5% significance for the two groups, divided by normal and abnormal development.
+
+
+Results:
+	Upon conclusion of this lab, it is clear that the application of ReCor to larval Manduca sexta has an effect on development. As shown in figure one, there were two individuals who either died very early or grew very little over the experiment. Figure two shows the first control group, of which two died at day 7, likely due to an error in feeding. This group was replaced by control group two, which exhibited normal growth in all four individuals. The chi-square test for independence was run using the data in table one, and returned a p-value of 3.47e-19, far below the threshold of significance.
+
+
+Discussion:
+	The results of this lab are fairly clear. The control instars grew then lost mass as they prepared to pupate (Berkley 2019). The ReCor treated group developed abnormally, with either premature death or fifth instar growth patterns. The growth of the instars in the control groups was determined “normal” by the initial growth then decline in mass prior to pupating. The Chi-Square test resulted in a p-value far below the threshold of significance. This means our data is not due to chance, and that indeed, a juvenile hormone analogue can be applied to Manduca sexta instars in order to prevent them from becoming reproductive adults. Errors in this lab are hard to find, outside of the error in daily-check in, but actually waiting to see the full life cycle of the instars would give more insight into the impact of JH analogues. Further research should be done on how periodic application of E20 and methoprene can more harshly prevent pest damage and the additional impact on the environment which this would cause.
+
+
+Literature Cited:
+Delahaut, Karen. Adapted from UW-Extension publication. “Hornworms.” Wisconsin Vegetable Entomology, University of Wisconsin Madison, 17 Mar. 2017, http://labs.russell.wisc.edu/vegento/pests/hornworms/.
+Berkley, Candace. “Teach Life Cycles with the Tobacco Hornworm.” Carolina Biological Supply, Carolina Biological Supply, 2019, https://www.carolina.com/teacher-resources/Interactive/teach-life-cycles-with-the-tobacco-hornworm/tr30179.tr.
+Ismail, S M., et al. “Juvenile Hormone Acid and Ecdysteroid Together Induce Competence for Metamorphosis of the Verson's Gland in Manduca Sexta.” Journal of Insect Physiology, U.S. National Library of Medicine, Jan. 2000, https://www.ncbi.nlm.nih.gov/pubmed/12770259.
+Marquez, Emily. “In the U.S. and the World, Pesticide Use Is Up.” Pesticide Action Network, 2 Aug. 2018, http://www.panna.org/blog/us-and-world-pesticide-use.
+M.Riddiford, Lynn. “A Role of Juvenile Hormone in Pupal Development of the Tobacco Hornworm, Manduca Sexta.” Journal of Insect Physiology, Pergamon, 1 Oct. 2003, https://www.sciencedirect.com/science/article/pii/002219107890063X.
+Thimann, Kenneth V. “Pesticides and Ecosystems.” BioScience, Biology Education, 1 Feb. 1983, https://www.jstor.org/stable/1308603?seq=1#metadata_info_tab_contents.
+Unsworth, John. “History of Pesticide Use.” IUPAC, IUPAC, 10 May 2010 https://agrochemicals.iupac.org/index.php?option=com_sobi2&sobi2Task=sobi2Details&catid=3&sobi2Id=31.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=treatment1.PNG&Size=44429&Type=image%2Fpng&F=F_VQiFWBfQfBH4fuN
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=control+1.PNG&Size=46347&Type=image%2Fpng&F=F_3FOSC7qCc3a3AMF
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=control+2.PNG&Size=43885&Type=image%2Fpng&F=F_ULNinPu89b8D2WB
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=table1.PNG&Size=10416&Type=image%2Fpng&F=F_2SpEA3Ld0gtt4ST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure one shows the four individuals in the treatment group of Manduca sexta instars. The second individual died on day six, which is noted as abnormal development. The third and fourth instars grew to the fifth instar phase, and the first simply shriveled up and was nearly dead during the entire experiment.
+
+Figure two shows the first control group, in which individuals one and three died by day seven. Individuals two and four exhibited normal growth
+
+Figure three shows the second control group, which was kept in the same conditions as the first. All instars show normal growth, and seemed prepared to pupate at the end of the experiment.
+
+Table One shows the Chi-Square table used to determine independence, where the p-value was 3.74e-19. Control group 1 was not used, as the death of two control instars was not due to chance.
+*************************************************************************
+
+
+

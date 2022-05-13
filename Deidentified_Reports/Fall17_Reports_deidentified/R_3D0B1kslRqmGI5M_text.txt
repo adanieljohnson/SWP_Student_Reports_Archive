@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 15:25:11
+Author of this lab report is: Std_JtTNKktj
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Incomplete Maze Navigation Using the Manipulation of Signaling Pathways in Physarum Polycephalum
+
+Abstract:
+After a discussion about the "intelligence" of Physarum polycephalum and previous experiments that used mazes to support the idea, this experiment was designed. A small maze was constructed in order to test this intelligence. It was hypothesized that the Physarum would successfully make it through the maze on the side treated with an activator, and avoid the side treated by the inhibitor. A copy of the maze was placed in three experimental plates and one control. The success of the experiment was determined using qualitative data, such as whether or not the Physarum made it through the maze to the food. Generally, the Physarum grew around the maze and made its way towards the food. Mistakes made in the preparation of the experiment could have led to this outcome. The Chi-square test further suggested that the alternative hypothesis should be rejected. Therefore, this experiment cannot accurately confirm that the Physarum polycephalum samples used were capable of using signaling to navigate a maze.
+
+Introduction:
+In order for cells to maximize probability of survival, cells utilize signaling transduction pathways to respond to internal and external stimuli [Johnson: 2018]. This gives a unicellular organism the necessities to sustain itself in the wild, like the ability to process information without a brain or nerve system. [Nakagaki and Yamada: 2000]. There are multiple types of pathways for this purpose, and this particular experiment focuses on the IP3 pathway in particular. The IP3 pathway is mediated by a second messenger known as Phospholipase C. [Ma and Michael: 1998]. Phospholipase C is known not only to be activated by the compound A23817, but it is also inhibited by Neomycin [Johnson: 2018]. However, the Physarum was not determined to be 'intelligent' because of its ability to simply react to positive and negative stimuli, but rather how it reacts to these situations. The term 'chemotaxis' describes the process in which plasmodia move towards situations that escalate the frequency of their streaming and away from the situations that lessen the frequency. [Durham and Ridgeway: 1976]. In other words, the physarum will move towards A23187, a compound that activates its Phospholipase C, and it moves away from Neomycin, a compound that inhibits its Phospholipase C. Therefore, it is hypothesized that the Physarum polycephalum sample will grow through the maze towards the food on the A23187 side of the agar, while avoiding the food on the Neomycin side of the agar.
+
+Materials and Methods:
+The experiment started with the preparation and sterilization of necessary materials; forceps and a spatula were placed in ethanol. Four 2% water agar plates were labeled with a line drawn down the middle. In a test tube, a Neomycin solution was prepared with 1 mL Neomycin and 10 mL distilled water. In a separate test tube, an A23187 solution was prepared with 1 mL of A23187 and 10 mL distilled water. Two water agar plates were treated with 5 mL each of the Neomycin solution, and the other two water agar plates were treated with 5 mL each of the A23187 solution. The plates were left to absorb the solutions for ten minutes. During this time, the mazes were prepared. Four simple, separate, and nearly identical mazes were constructed using tape and a previously illustrated template. After the plates were finished absorbing their respective solutions, the excess fluid was poured out. The spatula, after being sterilized with fire, was used to cut two plates in half, sterilized once again, then used to cut the other two plates in half. One half of the Neomycin plate was removed and replaced with one half of an A23187 plate. The removed half of Neomycin agar then replaced the removed half of A23187 agar in its plate. One half of the second Neomycin plate was removed and replaced with one half of the second A23187 plate. The remaining halves were discarded. The mazes were then placed in the three treated plates and one control plate containing only water agar. In the center of each plate, a 1 cm × 1 cm square of the agar was cut out with the spatula and replaced with a 1cm × 1 cm square of a Physarum polycephalum sample. Two squares of the same area were then cut out on opposite ends of the maze in each plate. 3 oats were placed in each of these holes. Each plate was then covered, wrapped in foil, labeled, and placed in the incubator. After 50 hours, the plates were removed from the incubator and uncovered. Progress was determined by the Physarum sample's ability to move through the maze to the food. The final observations were statistically tested with the use of a Chi-square test.
+
+Results:
+The results of this experiment were graphed to show the average distance traveled by the Physarum polycephalum samples in different environments. This distance was determined using the shortest distance traveled, which involved calculating the length of the diagonal when given two perpendicular sides. Generally, the Physarum grew towards the side of the agar containing A23187. The chi-square test resulted in a p-value of 0.439.
+
+Discussion:
+      Overall, this experiment was not a success for multiple reasons. One major reason is that the Chi square tests resulted in  p-values of 0.347 and 0.655, suggesting our results were insignificant and supporting the null hypothesis that the Physarum would not be able to navigate the maze. Furthermore, the Physarum samples did not have much success following the maze. The Physarum samples in the control and experimental plates 1 and 3 failed to enter the maze entirely. The Physarum in experiment plate 2 successfully completed the maze and reached the food, but grew towards the side labeled "Neomycin", which is considered an inhibitor of the IP3 signaling pathway. The results of this experiment could be due to multiple reasons. The first reason was human error in preparation of the experiment plates. Due to a failure to label properly, there was some confusion as to which plate had been treated with Neomycin and which had been treated with A23187. Therefore, there was no way to know for sure whether the plates contained both Neomycin and A23187. This could explain why one of the samples of the Physarum grew towards the side labeled "Neomycin" (the inhibitor), perhaps it was actually a plate soaked in A23187. Another reason for the failure of the maze could have been its construction. It could be the case that the tape was not a sturdy enough material, or was not pressed far enough into the agar to create strict enough boundaries for the Physarum to follow. Other experiments had access to better materials, one study reports using a plastic film [Nagaki, Yamada, and Tóth: 2000], which may have been more effective. 
+     There are multiple improvements to be made upon this experiment in the future. One major one would be to test the response of the Physarum to the Neomycin and A23187 before introducing a maze to the experiment. The results were made more complex because both the effectiveness of the inhibitor and activator had to be considered in addition to the success of the maze navigation. Additionally, when preparing the plates, more care should be taken to correctly label the plates so that no mistakes can occur. Finally, when experimenting with a maze, a sturdier material should be used so that the Physarum cannot grow around the boundaries.
+
+
+Literature Cited:
+Durham ACH, Ridgeway EB. Control of Chemotaxis in Physaraum Polycephalum [thesis]. 1976.p.218-223. 
+
+Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake  Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2017).
+
+Ma L, Michael WC. Drugs Affecting Phospholipase C-Mediated Signal Transduction Block the Olfactory Cyclic Nucleotide-Gated current of Adult Zebrafish. Journal of Neurophysiology. 1998;79(3):1183-1192.
+
+Nakagaki T, Yamada H. Rhythmic Contraction and Its Fluctuations in an Amoebid Organism of the Physarumplasmodiun. Quantum Information II. 2000.
+
+Nakagaki T, Yamada H, Tóth Á. Intelligence: Maze-solving by an Amoebid Organism. Nature. 2000;407(470).
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+of+Physarum+Movement.png&Size=35475&Type=image%2Fpng&F=F_1kNdZDKKGu1X8Of
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chi-square+table+results.png&Size=55323&Type=image%2Fpng&F=F_2dQnXpfafLVodqI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Displays the average movement of Physarum polycephalum in each environment. Overall, the polycephalum grew towards the agar containing A23187. The error bars represent standard error in the results.
+
+Table 1. A table of the results of the chi-square statistical test.
+
+*************************************************************************

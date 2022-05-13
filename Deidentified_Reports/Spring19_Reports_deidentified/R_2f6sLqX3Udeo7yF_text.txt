@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-27 20:58:43
+Author of this lab report is: Std_nzrfiAUT 
+ID: R_2f6sLqX3Udeo7yF
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Impact of salinity stress on photosynthetic activity of Spinach Chloroplasts. 
+
+Abstract:
+Abiotic stresses often cause prove severe for plants, causing many metabolic deficiencies. Some plants can adapt to these stresses, often by modifying their metabolic activities, including photosynthesis. This experiment explores the impact of salinity stress on the photosynthetic activity of spinach chloroplast, hypothesizing a decrease in photosynthetic activity with increased salinity. For the analysis, the chloroplast were extracted by centrifuging and ran through a salinity assay involving the Hill process, which uses DCIP as an alternative electron acceptor in photosystem II of the chloroplast. The color change from blue to colorless was analyzed by UV/Vis spectrophotometry every 10 minutes for 30 minutes, with resulting absorbances used to calculate percent changes. When analyzed by ANOVA, the results of this experiment proved insignificant, rejecting the hypothesis. Speculations were made towards the possible adaptation of spinach chloroplasts to salinity stress. Errors in procedure, which produced large standard deviations, were also considered. Future experimentation should be conducted to assess the specific capacity of spinach chloroplasts to withstand salinity stress, among other abiotic stresses. 
+
+
+
+Introduction:
+The photosynthetic capabilities of plants involves the capture light energy and its fixture into hydrocarbon bonds of sugars for use to the plant. Chloroplasts are especially imperative for photosynthesis, as they contain chlorophyll to capture light energy, along with photosystems. Photosystems I and II specifically function as the primary light fixing complexes in the chloroplasts, responsible for exciting electrons and translating the energy through their many complexes to make ATP as well as power the reduction of NADP for the Calvin cycle [Johnson: 2018]. As with other metabolic processes, photosynthesis operates at local conditions specific to different species of plants. This experiment focuses on salinity and its impact on photosynthetic activity of spinach chloroplasts. Understandably, changes in salinity impact photosynthesis. Increased salinity in the soil is often associated with ion toxicity in many plants, as well as osmotic and oxidative stress, leading to alterations in metabolic processes and distortion of chloroplast membranes [Bagheri: 2015]. The excitation of electrons in photosystem II requires hydrolysis of water [Johnson: 2018]. Understanding osmotic effects in the cell, increasing the salinity of the environment of spinach chloroplast cells may cause water to leave the cells, leaving less water available for the photosystem to use. To explore this phenomenon, this experiment explores the question: What effect does increase salinity stress have on the photosynthetic activity of spinach chloroplasts? It is hypothesized that increased salinity stress results in decreased photosynthetic activity. This experiment specifically focuses on the impact of the abiotic stress to oxidation activity of electron acceptors in photosystem II, an indicator of photosynthetic activity in the chloroplasts. 
+
+Materials and Methods:
+Enriching Chloroplast by differentiating Centrifugation. 
+To isolate a sample of chloroplasts for the salinity assay, a series of centrifuging was conducted on ground spinach leaves suspended in pH 8 tricine buffer. The three centrifuged samples were viewed under light microscope to find the sample with the visibly highest density of spinach chloroplasts. This sample was isolated and used in the salinity assay. 
+Salinity Assay: monitoring PSII reduction activity with Hill Reaction Process
+100 microliters of the selected sample of spinach chloroplasts was placed in three solutions (in 9 test tubes): Di water, 3.5% saline solution and 7% saline solution along with additional reaction buffer. 130mM DCIP (used as the alternate electron acceptor for the Hill reaction) was added to each test tube. DCIP oxidization produces color change from blue to clear was analyzed by UV/Vis spectrophotometry. The absorbances of the 9 test tubes were immediately measured using a spectrophotometer. Subsequent absorbances were recorded in 10-minute increments for 30 minutes. The percent change in absorbance after each 10-minute increment were measured and averaged. An ANOVA test was conducted with resulting measurements. 
+
+
+Results:
+The salinity assay rum for the three samples (DI, 3.5% and 7% salinity) resulted in the lowest average percent change in absorbances spinach chloroplasts the DI water, then those in 7% salinity, and finally the highest in 3.5% salinity. Visibly, all three samples in the cuvettes turned more colorless as the assay progressed. It is worth noting that the average percent changes in absorbances did have large standard deviations, showing highly imprecise results (Graph 1). The ANOVA test, conducted to exclude test tube 2, which was excluded after a t-test was conducted, resulted in an overall significant p value (0.002301). However, this is resulting from significant results in the Tukey-Kramer test that compared groups with differences that were not biologically relevant. For example, a significant difference was found between percent change of spinach chloroplast in DI water versus that in 3.5% salinity at 30 minutes. The results that were relevant show an insignificant difference between average percent change in absorbance for all 3 samples. 
+
+Discussion:
+The non-significant results of the ANOVA test conducted cannot support the hypothesis, that salinity stress on spinach chloroplasts would decrease photosynthetic activity. This leads to some possible ideas as to why the results are insignificant. Looking at only experimental design and execution, the salinity levels chosen for this study may have not been high enough to cause a significant change in photosynthetic activity. The large standard deviation bars indicate imprecise data, which may have resulted from some possible inaccurate readings from the spectrophotometer. Upon further research, it is interesting that spinach plants may have the ability to moderate their proteomes in response to salinity and other abiotic stresses, specifically moderating presence of proteins functionally associated with several metabolic processes, including photosynthesis [Bagheri: 2015]. Spinach, like other plant species, can tolerate salinity stress successfully after being exposed to low level of stress for a certain period of time [Pandolfi: 2012]. This may mean that spinach chloroplasts, even when isolated, still have physiological mechanisms to combat abiotic stresses such as salinity. Considering the salinity of the sample used was comparable to that of sea water (3.5% and 7%), it is interesting how the spinach chloroplasts may have still activated those physiological mechanisms. If this phenomenon were to have occurred during this experiment, it would explain the lack of significant difference in percent change in absorbance, and thus photosynthetic activity, between the 3 sample conditions. 
+The results of this experiment, although fairly imprecise, do pose questions about how plants respond to abiotic stresses. For further directions in research, the concept of adaptation mechanisms in plants in response to abiotic stresses can be analyzed, focusing specifically on the mechanisms present in chloroplasts that help maintain normal levels of photosynthesis in moderate stress environments. This would further current research of the detrimental impact of abiotic stresses on agricultural output. 
+
+
+Literature Cited:
+1.	Bhageri R. 2015. Spinach (Spinacia oleracea L.) modulates its proteome differentially in response to salinity, cadmium and their combination stress. Plant Physiology and Biochemistry. 97: 235-245. 
+2.	Johnson AD. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated May 1, 2016).
+3.	Pandolfi C, Mancuso S, Shabala S. 2012. Physiology of acclimation to salinity stress in pea (Pisum sativum). Environmental and Experimental Botany. 84: 44-51. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+214+L+Graph+1.png&Size=62435&Type=image%2Fpng&F=F_3n2ufKA6i72Ohgk
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+214L+table+1.png&Size=150849&Type=image%2Fpng&F=F_1odtNbsVGQXP8lD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Average Absorbances at 10, 20 and 30 minutes for spinach chloroplasts in DI water, 3.5% salinity and 7% salinity conditions. Table also shows standard deviations for each measurement. 
+
+Graph 1: Average percent change in absorbances at 10, 20 and 30 minutes graphed for spinach chloroplasts in DI water, 3.5% salinity and 7% salinity. Standard deviations bars of each sample added to reflect imprecision of results. *************************************************************************
+
+
+

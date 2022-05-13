@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-20 01:47:59
+Author of this lab report is: Std_adWbYoTX
+ID: R_2viCnW3RH31ijv0
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Influence of Decreased Sodium Ion Activity on The Threshold for Stimulating Muscular Contractions in The Gastrocnemius Muscle
+
+Abstract:
+The transmission of signals through neurons relies on movement of sodium and potassium across a concentration gradient in the axons found in muscles. Substances such as Lidocaine can be used to inhibit the transmission of these signals by blocking the ion channels for sodium, thus increasing the threshold required to generate these stimuli for events such as pain sensation and muscle contraction. By altering the electrical stimulus delivered to a gastrocnemius in a dissected frog leg, the change in threshold for muscle contraction stimulus can be measured before and after Lidocaine injection. Lidocaine was selected because it inhibits sodium ion channels which are involved in establishing the ion concentration gradient used in the transmission of many signals such as muscle contraction. However, injections of 0.1mL of 25mM Lidocaine were found to have no significant effect on the threshold for muscle contraction in this experiment. 
+
+Introduction:
+Animals have various systems for sending signals throughout the body, but typically rely on neurons in the nervous system for rapidly sending signals for actions such as muscular contraction. The method by which animals generate a potential to execute motor functions is most commonly performed by establishing different concentrations of ions inside and outside of neurons. By expending energy on pumps that displace ions of Potassium (K+) and Sodium (Na+) to have more K+ inside and more Na+ outside of neurons, organisms can later allow diffusion on this concentration gradient to quickly pass signals to tissue such as muscle for contraction. In organisms such as the frogs used in this experiment, these signals must be above a certain voltage, or threshold, for the K+/ Na+ gradient to begin diffusing across the neuron’s membrane as an action potential. Each animal’s threshold can vary notably from one another, and thresholds in muscles can vary due to various other temporary factors. If the sodium ion channels do not function properly, the action potential and subsequently the muscle contraction may not occur. Many studies involving the sodium ion blocker Lidocaine have found it to be effective at inhibiting action potentials related to signals of sensation and pain, but it has also been found to be effective at limiting action potentials that stimulate muscle constrictions in patients with focal dystonia by increasing neuron thresholds [Yoshida: 1998]. To test Lidocaine’s effect of increasing action potential thresholds, our lab group found the threshold for action potentials in the muscles of three dissected frog legs by applying various electrical stimuli to induce muscle contraction, as well as the threshold of each muscle after injection with Lidocaine. If Lidocaine is injected into the dissected gastrocnemius of a frog, the reduced function of sodium ion channels in the neurons will increase the voltage that must be applied to surpass threshold and stimulate muscular contraction.
+
+Materials and Methods:
+For three dissected frog legs, electrical probes were applied to the gastrocnemius muscle, and the muscle was attached with string at one end to a force sensor. The electrical probes and force sensor were used to collect data on the threshold for producing notable muscle contractions in each frog’s gastrocnemius under various voltage stimuli. Once each muscle's threshold had been determined as a control, each gastrocnemius was injected with 0.1mL of 25mM Lidocaine, and the new thresholds were determined. Each muscle was also rinsed in Ringer’s solution to prevent changes in threshold resulting from deficient salts or variables other than the sodium ion concentration. After each gastrocnemius’s thresholds were found, a paired t-test with a P value of 0.05 was performed to determine if a significant change had occurred.
+
+Results:
+Upon injection of Lidocaine, the threshold of all frog legs increased. Both frog leg 1 and 3 increases in threshold by 0.1V. Frog leg 2 increased most notably by 1.0V. A paired t-test of the completed data revealed, the t-value, degrees freedom, and P value to be (1.324, 2, 0.1583). 
+
+Discussion:
+The hypothesis that reduced sodium ion channel activity will increase the voltage required for threshold may at first seem to be supported by the increase in voltage required for muscle contraction in all frog legs. However, the change in values was not large enough to verify that this data was significant. The P value determined by the paired t test was found to be 0.1583, which is much greater than the 0.05 P value required to reject the null hypothesis that the threshold will be the same in each frog leg regardless of the presence of Lidocaine. Although the difference in threshold appears notably different after injection, there was not enough change to prove a significant effect. It is possible that the increase in threshold for each frog leg was due to other factors such as fatigue as well. Frog leg 2 showed unusual responsiveness to Lidocaine’s effects, but this may simply have been a frog with more sensitive neurons due to preexisting conditions. The effect of axon conduction and thresholds being unaffected by the presence of Lidocaine can be seen in other studies as well [Devor: 1992]. Despite Lidocaine’s function of inhibiting sodium ion channels and use as a local anesthetic, its affect has been found to not significantly impact axon signaling for muscular contraction. This makes Lidocaine effective as a local anesthetic, because complications involving loss of muscular function in important organs and skeletal muscle cannot occur, but the threshold for pain signaling is still increased. Future revisions to this experiment may do well to include a greater supply of frog legs to reduce the effect of unusually sensitive subjects like frog leg 2. It may also be beneficial to increase the time between stimuli of the frog legs so that fatigue has less of an effect on data collection. An understanding of the application of Lidocaine and its function as an anesthetic without inhibiting muscular activity is important for improving the application of similar substances in the field of anesthesia and could allow for the development of low-risk anesthetics for surgeries to have fewer risks and negative consequences.
+
+Literature Cited:
+[1]: Yoshida, Kazuya, et al. "Muscle afferent block for the treatment of oromandibular dystonia." Movement disorders: official journal of the Movement Disorder Society 13.4 (1998): 699-705.
+
+[2]: Devor, Marshall, Patrick D. Wall, and Naor Catalan. "Systemic lidocaine silences ectopic neuroma and DRG discharge without blocking nerve conduction." Pain 48.2 (1992): 261-268.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+graph+1.jpg&Size=99708&Type=image%2Fjpeg&F=F_2wypPX8HXUvi753
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Graph of Minimum Voltage for Threshold Stimulation. The control threshold was found before Lidocaine injection, and the experimental threshold was found after injection. The graph shows how the threshold for muscle contraction in each frog leg required greater voltages in each frog leg after Lidocaine restricted sodium ion channel activity. Frog leg 2 was especially sensitive to Lidocaine’s effects. (1.324, 2, 0.1583)*************************************************************************
+
+
+

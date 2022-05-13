@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-03-14 17:13:39
+Author of this lab report is: Std_lOONUewi
+ID: R_4Iq0EZFnlYnPlKl
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of Precor on Caterpillars
+
+Abstract:
+Manduca sexta goes through 4 stages of development which is controlled by 3 main hormones – PTTH, Ecdysterone, and Juvenile Hormone. When juvenile hormones’ levels in the blood lowers suddenly, insects get ready to proceed to the next stage of development. In this lab, we examined the effects of Precor which mimics the Juvenile hormones on the development of caterpillars. To do this, we fed food that contains 10 drops of Precor to treatment group and recorded their visual characteristics and weights. The hypothesis was that the addition of Precor will delay caterpillars’ development, and we used two sample t-tests. Our results supported the hypothesis that the treatment group did not develop very well and p-value of 0.0369 shows that the change in caterpillars’ weights after 7 days are significantly different between two groups. This is because high levels of Juvenile hormones in the blood prevents development of caterpillars. 
+
+Introduction:
+Manduca sexta is an insect that goes through a holometabolous life cycle with 4 distinct stages – egg/embryo, larvae, pupa, adult. The life cycle can be longer or shorter depending on the diet and average daily temperature. It is also controlled mainly by 3 hormones that include PTTH, Ecdysterone, and Juvenile Hormone. Ecdysterone regulates timing of molting; when its levels suddenly increase and decrease, insects perceive that as a sign to proceed to the next stage of development. Juvenile hormones are composed of “long chain organic molecules produced mainly by the corpus allata” [Johnson, 2018]. This hormone regulates the type of molt and can delay the development depending on its levels. During the stage of 5th larva, if juvenile hormone levels does not drop, the caterpillar would not receive the signals that it is large enough to pupate and form a normal size moth. Without PTTH released from brain, the larva cannot produce and release ecdysterone from the prothoracic gland; “the key hormone that inhibits PTTH release from the brain is juvenile hormone” [Hatem, 2015]. The purpose of this lab is to see the effects of Precor on caterpillars. As Precor mimics the Juvenile hormones, it should regulate the caterpillars’ developments when it is added to their diets. My hypothesis is that the addition of Precor to caterpillars’ diets will alter the life cycle of caterpillars and delay its development.
+
+Materials and Methods:
+First of all, we selected 8 Manduca Sexta caterpillars weighing approximately 1 gram, and divided them into 2 groups of 4 each. We prepared 4 round plastic containers for their homes, and divided each container into 2 sections by using index cards. We placed each caterpillar in its own separate home.   For control group, we fed 10 g of food for each caterpillar and added 10 drops of water. For treatment group, we fed 10 g of food for each caterpillar and added 10 drops of 1:1250 Precor to maximize the effects. All 8 were kept in the same incubator for 7 days, and we recorded their mass and visual observations every day and prepared new food.   We conducted two sample t- test to determine if the change in caterpillars’ weights after 7 days are significantly different between control and treatment group. Mean difference in weights after 7 days was also calculated to analyze the data.
+
+Results:
+The treatment group that had Precor in diets did not grow as much as the control group did, and they got weaker as days passed. The treatment group was not as active as the control group. The difference in visual was obvious – the treatment group turned to greyish and more transparent color while the control group maintained its bright green color. The average weight for control group at day 8 is 13.67 g with the standard deviation of 1.67, and the average weight for treatment group at day 8 is 10.83 g with the standard deviation of 1.59. According to t-test, the t-value is 2.6736 and p-value is 0.0369. Figure1 shows that the control group increased in weight more steeply than the treatment group increased.  Figure 2 shows that for control group the average difference in weight after 7 days is 12.6275g with the standard deviation of 1.43. For treatment group, the average difference in weight after 7 days is 9.86 g with the standard deviation of 1.496.
+
+Discussion:
+The results supported the hypothesis that treatment group that received Precor did not develop as much as the control group did. The p-value which was 0.0369 shows that the difference between the control group and treatment group is statistically significant. This result is due to the effect of Precor which mimics Juvenile hormones in caterpillars. When caterpillars are treated with Precor, it does not develop further and eventually starve to death. That is the reason the treatment group grew weaker and weaker every day. The Juvenile hormone (JH), produced by the corpora allata, regulates development by inhibiting PTTH (prothoracicotropic hormone) which regulates production and release of ecdysteroids. When caterpillars the critical weight – the size during the final instar – JH is cleared and no longers inhibits PTTH. When PTTH is not inhibited, it stimulates ecdysteroid release to trigger a series of metamorphosis. Because the amount of JH in the blood determines the degree juvenility of the next stage; the caterpillars can’t proceed to the next stage when it has high level of juvenile hormones in their blood.  
+
+Literature Cited:
+1. Hatem, Nicole E., et al. “The Role of Juvenile Hormone and Insulin/TOR Signaling in the Growth of Manduca Sexta.” BMC Biology, BioMed Central, 25 June 2015. 
+2. Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated Jan 5, 2018), pp. 5-16
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-20+at+11.34.59+PM.png&Size=112498&Type=image%2Fpng&F=F_dmMlE2YeodXibch
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-20+at+11.35.16+PM.png&Size=45217&Type=image%2Fpng&F=F_5BJRorU2LyBSSQl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The change in weight vs. Days. Red solid line represents the control group and blue dash line represents the experimental group.
+
+Figure 2: The average difference in weight after 7 days vs groups. Red bar represents control group and blue-striped represents treatment group. The error bars represent +/- one standard deviation. T-test results showed the average difference in weight of the control group was larger (p<0.05)
+
+*************************************************************************

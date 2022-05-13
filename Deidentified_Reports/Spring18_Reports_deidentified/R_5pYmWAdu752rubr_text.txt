@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-21 18:47:08
+Author of this lab report is: Std_DEymgA2D
+ID: R_5pYmWAdu752rubr
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Effects of Precor on Developing Manduca sexta Caterpillars
+
+Abstract:
+The Manduca sexta larva, a useful organism for laboratory experiments, was placed in a controlled environment for our lab. Eight Manduca sexta caterpillars were tested in four different tubes. Half of these larva were fed Precor, a substance mimicking the effect of juvenile hormone. These were named the “treatment group”. The other half were fed Manduca sexta food with no Precor. Each day, a lab member measured the weight of each caterpillars. Due to some errors in the experiment, the larva crossing flashcard barriers, and an inaccurate feeding of food, the null hypothesis was supported: the control group did not molt.  
+
+Introduction:
+The Manduca sexta caterpillar studied in the lab, commonly called the tobacco hornworm, has an egg, larva, pupa, pre-pupa and adult stage. It lives for thirty to fifty days (source needed). The larva is large; therefore, it functions as a model organism often used by neurobiologists. One could measure changes in Manduca sexta by feeding it hormones under a controlled condition. Juvenile Hormone (JH) is secreted through Corpus Allata and “regulates [the] type of molt” (“Comparative Physiology Bio114 Laboratory Manual”, 2017). It is also of note to mention that Ecdysterone, specifically 20E (20-hydroxyecdysterone), is a hormone secreted through the Prothoracic Gland which “regulates timing of molting” within an insect (“Comparative Physiology Bio114 Laboratory Manual”, 2017). During seven consecutive days, the caterpillars were fed Precor, a substance that mimics juvenile hormone. Each day, the weight was measured roughly at the same hour (+/- one hour.) The independent variable for the experiment includes the Precor substance, and the dependent variables are the length and weight. We therefore hypothesize that if we feed Manduca sexta caterpillars food containing JH in their current larva stage, then the caterpillars will not reach their pupa stage (or molt at all), because they won't be able to form a cuticle. 
+
+Materials and Methods:
+Eight instar caterpillars were selected and divided into two groups, treatment, and control. They were then placed in their own living space, half a tub. A flash card served as a divider separating the tubs, one side labeled “control” and the “treatment.” The treatment groups were fed 10g of Manduca sexta food with four drops of Precor each day for seven days, mimicking the effects of JH. The control group was fed Manduca Sexta food with no Precor supplement. Based on a scheduled rotation, a different lab partner measured the weight of the caterpillars each day for 7 days. A simple t-test compared the results of the caterpillars fed Precor to those fed with normal food.
+
+Materials
+-	Four round, plastic containers for the Manduca sexta homes 
+-	Four perforated lids
+-	Index cards and tape (for dividing the round containers)
+-	Food (in fridge)
+-	Spoon
+-	Square container
+-	Balance
+-	Transfer pipes
+-	Reagent (Precor)
+
+
+
+Results:
+	1	2	3	4	5	6	7
+Control	1.185g	1.175g	1.175g	1.1575g	1.7075g	1.9375g	3.4g
+Treatment	1.0125g	1.1g	1.1525g	1.5575g	2.135g	2.415g	2.9575g
+
+Standard Deviation Control: 0.80776
+Stand Deviation Treatment: 0.75366
+Degrees of Freedom: 12
+t-value: 0.147969
+p-value: 0.884824
+
+
+Discussion:
+Both the control and treatment caterpillars grew exponentially from about 1.1g to 3.1g, regardless of their food. The original hypothesis was disproved since the control caterpillars, the ones that were not fed Precor, never molted. They instead weighed slightly more than the treatment. The difference in mass between the control and treatment groups, as depicted by figure two, does not convey any consistency, with a drastic weight change between the groups each day. The original experimental plan consisted of daily feeding of both control and treatment groups; however, due to class confusion, the Manduca sexta caterpillars were not fed each day—a key error in the experiment. The outcome supports the null hypothesis, indicating no molting of the control group. Another error in our experiment consists of the larva crossing the flashcard barrier; therefore; the could potentially have been a miscalculation in the weight. No molting occurred anyway, so this was not so significant of a difference. 
+
+Literature Cited:
+Juvenile hormone." Britannica Academic, Encyclopædia Britannica, Accessed 21 Feb. 2018. academic.eb.com/levels/collegiate/article/juvenile-hormone/44233. 
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 5–1.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+1+Table+Draft.PNG&Size=22139&Type=image%2Fpng&F=F_0rpACYu06h8Ov3v
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+Graph+2.PNG&Size=157963&Type=image%2Fpng&F=F_8q6ouAKpJ28sx49
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+Graph+1.PNG&Size=34509&Type=image%2Fpng&F=F_egNL4Qc3rxCNlyt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The average mass (in grams) of control and treatment group Manduca sexta over a seven-day period remained similar.
+Figure 2: The difference in average mass (in grams) between treatment and control 
+
+*************************************************************************

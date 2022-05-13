@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-06 15:06:14
+Author of this lab report is: Std_DfamVK7C 
+ID: R_3ph74sUWqh2Zewu
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The effects of NaCl(aq) on the rate of electron transport in chloroplasts in Spinach (Spinacia oleracea sp.)
+
+Abstract:
+The effects of NaCl concentrations on electron transport were evaluated in spinach (Spinacia oleracea sp.). Electron transport occurs during photosynthesis, which is one of the most important metabolic processes carried out by plants. A proton gradient is used to drive the electron transport chain during photosynthesis, and therefore NaCl addition will disrupt the ionic balance within the chloroplasts. It was predicted that adding NaCl would result in an ionic imbalance, and this would alter the rate of electron transport. Various salt concentrations were added to the enriched chloroplasts to test this, and the Hill reaction and DCIP were used to measure the absorbance over 30 mins. The results did not support our hypothesis (P=0.069), meaning there was no significant difference between the negative percent change in absorbance of each salt concentration. Therefore we cannot say that adding various salt concentrations has an affect on the electron transport chain. 
+
+Introduction:
+Plants capture and store energy from the sun in three forms using the process of photosynthesis. This energy is then released by glycolysis in the cytoplasm and respiration which occurs in the mitochondria. Photosynthesis and respiration are two of the most important metabolic processes carried out by living organisms, and both involve redox reactions, where electrons are transferred through an electron transport chain. During photosynthesis carbon dioxide and water react to produce glucose, water and oxygen [Johnson: 2018]. Photosynthesis occurs in three stages, two light dependent stages and the light independent stage. The first two stages are light dependent reactions which create the proton gradient used to drive ATP synthesis. These reactions are divided into two systems, photosystem II and photosystem I. In PSII electrons are transported from water to plastoquinone and during PSI electrons are picked up by plastocyanin and raised to a high redox potential that can reduce NADP+ to NADPH. This photosynthetic electron transport occurs in the thylakoid membrane, which is located in the chloroplast [Sudhir et al., 2004]. During the light independent reactions, the enzyme complex RUBISCO uses ATP and NADH to create glucose molecules.
+ 
+In this experiment the effect of NaCl salt on the rate of electron transport was measured in enriched spinach chloroplasts. Spinach is being used as the model organism because it is easily accessible for this experiment. The Hill reaction will be used, in which electron transfer occurs in the presence of active chloroplasts and light. The electron acceptor that will be used is DCIP. DCIP is dark blue when it is oxidized but colorless when it is reduced. This experiment will determine the effect of three different concentrations of NaCl salt on electron transport. In previous experiments it has been found that high salt stress has resulted in decreased photosynthetic activity, especially in PSII. The presence of NaCl changes the ratio of K+ and Na+ ions which causes an ionic imbalance [Sudhir et al., 2005]. We therefore predict that the various salt concentrations will affect the reduction reactions required for photosynthesis, and this will alter the rate of electron transport. We predict that there will be a statistically significant difference between the change in absorbances of our various salt concentrations.
+
+Materials and Methods:
+Enriching chloroplasts through differential centrifugation:
+We removed the large veins from four spinach leaves and placed them into a chilled mortar and pestle along with 10ml of grinding buffer. We ground spinach until it was a paste and then added another 10ml of grinding buffer and mixed. We then strained the liquid through 3 layers of cheesecloth into a chilled beaker. We transferred the liquid to a chilled 50ml centrifuge tube (tube A) and spun it at 200xG for 3 mins at 4ºC. We then poured the supernatant from tube A into a second chilled centrifuge tube B. We then centrifuged tube B at 100xG for 10 mins at 4ºC. We then added 20ml of grinding buffer to the pellet and re suspended.
+ 
+Preparing NaCl salt concentrations:
+For the 10% solution we mixed together 200ul of 2mM NaCl and 1800 ml of distilled water. For the 25% solution we mixed together 500ul of 2mM NaCl and 1500ul of distilled water. For the 50% solution we mixed together 1000ul of 2mM NaCl and 1000ul of distilled water.
+ 
+Quantifying photosynthetic reduction activity with the Hill reaction:
+Three replicates of each of the following reaction mixtures were prepared, but only one replicate of the blank. 2mL of 100mM phosphate (pH 6.5), and 10mL of water was placed in the blank tube. 2mL of 130mM DCIP, 2mL of 100mM phosphate (pH 6.5), and 6mL of water was placed in each of the three control tubes. 2mL of 130mM DCIP, 2mL of 100mM phosphate (pH 6.5), 2mL 10% NaCl(aq), and 6mL of water was placed in each of the three 10% tubes. 2mL of 130mM DCIP, 2mL of 100mM phosphate (pH 6.5), 2mL 25% NaCl(aq), and 6mL of water was placed in each of the three 25% tubes. 2mL of 130mM DCIP, 2mL of 100mM phosphate (pH 6.5), 2mL 50% NaCl(aq), and 6mL of water was placed in each of the three 50% tubes. 100ul of enriched chloroplasts were then added to all test tubes and mixed. Each mixture was transferred into a spectrophotometer cuvette and the absorbances were read at 600nm, using the blank tube to set the spectrophotometer. All cuvettes were left in the light and their absorbances read every 10 mins for a total of 30 mins. 
+ 
+Statistical test:
+Once absorbances were recorded over the 30 minutes, a one-way ANOVA test was used to analyze the data. An ANOVA test was used because the hypothesis predicts that various NaCl salt concentrations will alter the rate of electron transport in the enriched chloroplasts.
+
+Results:
+An average negative percent change in absorbance over 30 mins was observed for all three NaCl concentrations (P=0.069). All three concentrations had similar negative percent changes in absorbance after the 30 mins, and 10% NaCl had the highest negative percent change out of the three treatment groups. The absorbance remained the highest for the controls, the test tubes without any NaCl salt added to them (Figure #1).
+
+Discussion:
+The statistical results do not show a significant difference between each concentration and the percent change in absorbance over time. Therefore our hypothesis is not supported as we predicted that the various salt concentrations would alter the rate of electron transport. None of the average percent changes in absorbance for each concentration were statistically different from each other, or from the control. The average negative percent change in absorbance was the largest in the chloroplasts exposed to 10% NaCl salt, with a decrease of 28.15%. And the average negative percent change in absorbance was the smallest in the chloroplasts exposed to 25% NaCl salt, with a decrease of 24.30%. These results are interesting because you would expect the chloroplasts exposed to 50% NaCl salt to have the largest negative percent change. Adding a higher concentration of salt to the chloroplasts would create a larger ionic imbalance, as there would be more Na+ and Cl- ions in the chloroplast. This ionic imbalance would disrupt the electron transport chain, as PSII would be less effective, resulting in a larger negative percent change in absorbance [Sudhir et al., 2005]. The addition of 10% NaCl salt should have caused the smallest ionic imbalance, and therefore decreased the efficiency of PSII the least. So it would be expected that 10% NaCl would cause the smallest negative percent change in absorbance out of the three concentrations tested. 
+
+One potential reason why the percent changes in absorbance were not statistically different from one another could be due to how we exposed the chloroplasts to the NaCl salt. A similar study testing the effects of high salt stress on PSII in wheat leaves used a range of concentrations between 0.1M and 0.5M, and exposed the leaves to salt for one hour before measuring the effects on electron transport [Mehta et al., 2010]. This method of salt stress could be more realistic because it is testing the effects of salt from the environment on electron transport. 
+ 
+If we were to do this experiment again, I would like to use different concentrations of NaCl. Specifically, I would like to compare a low salt concentration, perhaps 0.1M, with a higher concentration, perhaps 0.5M. Using a higher concentration of salt could result in a greater percent change in absorbance between our trials. The trials exposed to a low salt concentration would most likely have a higher rate of electron transport, whereas the trials exposed to a high salt concentration would most likely have a lowered rate of electron transport. The much higher concentration of salt would increase the number of Na+ ions, causing an ionic imbalance which would lower the rate of electron transport in the chloroplasts. Exposing the chloroplasts to high salt will decrease the efficiency of PSII. NaCl causes alterations of the thylakoid membrane proteins which leads to a decrease in energy transfer to PSII [Sudhir et al., 2005].
+ 
+This experiment was useful because it provided information about how chloroplasts respond to salt stress. This information is helpful because it could give insight into how to grow more plant species in high salt environments. Measuring how specific plant species respond to salt could allow a wider range of plants to be grown in environments with higher salt, such as coastal environments.
+
+Literature Cited:
+1.     Sudhir, PR., Rogoryelov, D., Kovacs, L., Garab, G., Sistla M. 2005. The Effects of Salt Stress on Photosynthetic Electron Transport and Thylakoid Membrane Proteins in the Cyanobacterium Spirulina platensis. Journal of Biochemistry and Molecular Biology. 38: 481-485.
+2.     Sudhir, P., Murthy, SDS. 2004. Effects of salt stress on basic processes of photosynthesis. Photosynthetica. 42: 481-486.  
+3.     Mehta, P., Jajoo, A., Marthur, S., Bharti, S. 2010. Plant Physiology and Biochemistry. 48: 16-20.
+4.     Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 16.1 (updated 2018)
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+1.png&Size=64661&Type=image%2Fpng&F=F_2aXeeYddhbrTBEY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure #1: Graph showing the average negative percent change in absorbance over 30 mins. (P=0.069)(Standard error bars).  *************************************************************************
+
+
+

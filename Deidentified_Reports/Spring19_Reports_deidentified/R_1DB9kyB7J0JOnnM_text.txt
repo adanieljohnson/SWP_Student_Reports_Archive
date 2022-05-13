@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-21 13:06:46
+Author of this lab report is: Std_gUbRznMQ
+ID: R_1DB9kyB7J0JOnnM
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Impact of Lidocaine on the Maximum Force Exerted During the Contraction Phrase in Frog Specimen
+
+Abstract:
+Muscle stimulation is crucial to movement and how we are able to live our daily lives. However, what occurs when the nerves that control these muscles are inhibited? In Rana Pipiens, the maximal contraction force used in their legs is crucial for their ability to jump, yet it is possible to stop that contraction from occurring. It was observed whether the addition of a sodium channel blocker, Lidocaine, inhibits the muscle from maximal force during the contraction phase. We observed the contraction response for three legs, each before and after the injection of lidocaine in the gastrocnemius muscle, and found that control groups had averages of 0.0285, 0.10725, and 0.06425 with a standard deviation between 0.001 and 0.02.  With the treatment groups it was found that the average for the three was approximately 0, with a standard deviation of 0. It was found that there was not a significant difference in the contraction response before and after the treatment was administered, despite it being observed during the experiment as well as in the data. It was concluded that while the addition of Lidocaine does inhibit the muscle from contraction, it does not prevent maximal force from being exerted during that phase.  This can possibly be used as an effective way to treat muscle spasms.
+
+Introduction:
+Skeletal muscles in both those with vertebrates (i.e. humans) and invertebrates (i.e. frogs) contain myofibers which are bound together to form tissue, which then collectively becomes specialized muscle groups [Johnson: 2016]. These muscles are stimulated by motor neurons which stimulates a contraction utilizing excitation-contraction coupling in the muscle. The process begins when depolarization occurs with an influx of Ca2+ in the muscle as a result of action potentials, thus causing a contraction and/or twitch in the muscle. It can be observed how electrical pulses to specific areas of the muscle or the sciatic nerve, leads to movement and demonstrates neuromuscular control [Sanchez: 1978]. The myogram records in three phases: the latent period, the contraction phrase, and the relaxation phase. While the latent period typically is less than 10 secs between contractions, the contraction and relaxation phase vary based on which muscle is stimulated [Raymond: 1979].  By numbing the sciatic nerve in the gastrocnemius muscle [Bainton: 1994], no contraction should be observed due to depolarization not occurring within the muscle and the response not occurring to the stimulation. However, will that stop the muscle from exerting force during the contraction phrase after it is stimulated at a maximum threshold? Thus, with the injection of Lidocaine, a sodium channel blocker, into the muscle tissue of a frog leg, we hypothesize that this will cause an inhibition in the leg thus preventing maximal force from being exerted when the gastrocnemius muscle goes through a contraction phase after an electrical impulse is emitted to it. 
+
+Materials and Methods:
+In order to test for our hypothesis, an injection of 0.1 mL of lidocaine must be administered into the sciatic nerve in the gastrocnemius muscle of the leg. Three legs were chosen for the experiment, each being used as its own control and treatment. In order to prepare the legs, the skin on the leg was folded back and completely removed from the nerve and muscle tissue. The leg was kept moist throughout preparation and the experiment in order to prevent cells from dying too quickly from exposure to external factors. The sciatic nerve is then freed from the gastrocnemius muscle and also kept moist with ringer solution once removed.  Once it is freed, the probe can be attached to nerve in order to begin testing and recording for the myogram.  The myogram should be set to the threshold max plus 0.1 mV for the recording for of both the baseline and treatment with lidocaine observations. After the preparation, each leg was recorded prior to injection in order to see the baseline myogram computed for each. From here, 0.1 mL of lidocaine was injected into the muscle of each leg, thus numbing the area of the sciatic nerve and the gastrocnemius muscle. Each leg was left for 5-7 minutes after injection in order to allow for the lidocaine to begins its effect. After this, the nerve was once again connected to the probe and the contractions were recorded for the myogram with 4 electrical pulses being emitted to each leg. A paired t-test was used to evaluate the data in order to compute the data of both the control and treatment results to observe the change in contraction rates after the injection of lidocaine. The paired t-test is used due to the subjects being used for both the control and treatment testing. This is as a result of each subject varying thus the data is compared with itself in order to observe whether the change is statistically significant. The t-value shows the calculated difference from what is predicted value and the actual value recorded.
+
+Results:
+The average contraction size was recorded after the 4 electrical pulses were delivered to the muscle. For control 1, the shock level was 0.5 mV for each electrical pulse given, and the leg had an average contraction of 0.0285 V with a standard deviation of 0.001 V, however for treatment 1, which was at the same shock level as control 1, the average contraction was 0.0015 with a standard deviation of 0.0005 (Figure 1). For control 2 the shock level was 0.4 mV and the average contraction was 0.10725 with a standard deviation of 0.0274, whilst for control 3 the shock level was at 0.6 mV and averaging 0.06425 and a standard deviation of 0.002 (Figure 1). For both Treatment 2 and 3 the average contraction strength was 0.0 with a standard deviation of 0.0 as well (Table 1). With this, a computed p-value of .105 was found.
+
+Discussion:
+Our hypothesis, that the injection of lidocaine will inhibit the gastrocnemius muscle from full exertion when electrically shocked, was not supported. Due to our p-value being greater than .05, we failed to reject the null hypothesis in which the addition of Lidocaine inhibited the muscle from full exertion upon electrical stimulation. We observed a difference between the control and treatment groups in their response to the shock, however not statistically significant at a 0.05 level, thus suggesting that the addition of lidocaine did not lead to the inhibition of sodium channels. It was believed that with this blocker, a change would be noticed which there was. When looking at the data, it can be seen that the treatment groups response is significantly lower than that of the control groups, with all treatment groups response to stimulation being inapparent after the injection. By blocking the sodium channels, depolarization does not occur fully and thus the muscle is unable to contract fully [Raymond: 1979]. With the nerve being removed, but still connected to the muscle it is crucial to the neuromuscular control of the gastrocnemius muscle [Bainton: 1994].When the proper time was allotted in order for the lidocaine to take it effect it was evident upon observation of both the leg as well as the myogram that it had not contracted at all after the injection, especially in comparison to the control when they both were shocked at their threshold maximum. However, based on the results of the p-value, no significant difference can be observed between the two groups. While the averages show that the control had a high response, it is possible that they were not large enough of a response, as a result of not lower stimulus, to be viewed as significant in terms of the p-value. This could have been altered and improved by increasing the stimulus thus providing a higher response from the specimen and as a result lowering the p-value. Another improvement is waiting longer after the addition of lidocaine in order to ensure it was completely in the nerve and thus improving the response. From here it would be ideal to repeat the experiment however with a larger stimulation being used for each leg. With this, it is possible for the response to be higher and thus a lower p-value proving there is a significance between the control and treatment groups contraction response after the injection of a sodium channel blocker, lidocaine.
+
+Literature Cited:
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 6-15
+
+Bainton, Cedric, and Gary R. Strichartz. "Concentration dependence of lidocaine-induced irreversible conduction loss in frog nerve." Anesthesiology 81.3 (1994): 657-667.
+
+Sanchez, J. A., and E. Stefani. "Inward calcium current in twitch muscle fibers of the frog." The Journal of physiology283.1 (1978): 197-209.
+
+Raymond, S. A. "Effects of nerve impulses on threshold of frog sciatic nerve fibers." The Journal of Physiology 290.2 (1979): 273-303.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-20+at+10.45.39+PM.png&Size=104413&Type=image%2Fpng&F=F_1mmSGO4Nbhz6BK4
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-21+at+12.18.22+AM.png&Size=109457&Type=image%2Fpng&F=F_2XiW8bRMPYV3AM4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Response based on threshold maximum shock level of the three frog specimens
+Table 1. Shock Level as well as average response and standard deviation for each of the 3 frog specimens tested with the myogram.
+*************************************************************************
+
+
+

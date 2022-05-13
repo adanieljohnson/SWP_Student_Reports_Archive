@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 22:42:39
+Author of this lab report is: Std_CYb6yJi5
+ID: R_2U96cxAt2WxHUov
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Nicotinic acetylcholine receptor antagonist negative effects on the sciatic nerve response of frog legs 
+
+Abstract:
+The sciatic nerve within a frog’s leg was our main focus when testing the contraction strength when affected by nicotinic acetylcholine receptor antagonist. We used this compound because its function is to inhibit acetylcholine, the neurotransmitter responsible for muscle contraction. We hypothesized that if we inject acetylcholine into the gastrocnemius, then the sciatic nerve’s response will decrease and cause the muscle to have a smaller contraction. This experiment is relevant because it can be used in further medical discoveries. We used three frog legs, and tested them all twice, once without the antagonist and once with so that they could all serve to be their own control. Our findings were that the contraction response decreased when antagonist was injected by almost half. Specifically, leg 3 decreased from 0.063 to 0.028 voltage (V) when injected with ACh antagonist. We calculated our p-value with the highest voltages from each group, which was 0.0568. This suggest that our data was marginally significant, because our p-value was incredibly close to being significant. Our hypothesis was not supported, but we suspect that with more data our hypothesis can be supported. A further question could be if we could block more receptors to get a stronger decreased response.
+
+Introduction:
+The frog leg was the organism of choice for our experiment due to its easily accessible sciatic nerve and the uncomplicated methods for testing the results. The sciatic nerve controls muscle contraction, or specifically contractions in the gastrocnemius muscle, which is contracted based on action potentials (APs). Those APs travel along the axon of a neuron until they reach the presynaptic junction. This causes Na+ ions to be released into the cell and depolarize it, causing the neurotransmitter acetylcholine (ACh) to be released by the presynaptic nerve terminal. Ach travels over the synaptic cleft to the postsynaptic neuron, which then binds to its receptor (AChR), opening Na+ channels on the neuron, depolarizing that cell, and carrying down the AP and signal to the next neuron. This cycle is repeated through many neurons when contraction is occurring. We can see that ACh and AChR are very important parts of muscle contraction. The chemical we tested, nicotinic ACh receptor antagonist, inhibits the action of ACh by inhibiting its receptor (AChR). There has been evidence to prove that contractions in the muscles are attributed to the activation of AChRs, so what would occur if the neurotransmitter could not bind to its receptor [Kiss: 2014]? With all of this in mind, we hypothesized that if we inject acetylcholine into the gastrocnemius, then the sciatic nerve’s response will decrease and cause the muscle to have a smaller contraction. 
+
+Materials and Methods:
+We prepared our 3 frog legs for testing on a dissecting pan by degloving the legs (removing its skin). We exposed the sciatic nerve by opening the thigh and then detached the gastrocnemius muscle from the Achilles tendon to ensure we had enough of the tendon on the muscle in order to suspend the leg. We suspended the gastrocnemius muscle at roughly 90° to the pan and hook on the stimulator. We used a sleeve probe to directly stimulate the nerve by laying the nerve over the two wires on the probe. Then, we were able to begin testing by stimulating the nerve with different amperes ranging from 0.1-2.0. We stimulated frog leg 1 without the antagonist so it could serve as a control. Then, we injected 1mL of the antagonist into the muscle of frog leg 1 and gave it 5 minutes to take effect. After that time period, we stimulated the leg with the same amperes as we did when we were under control conditions and recorded our observations. We repeated this for the next 2 frog legs, so that each leg served as its own control. To interpret our results, we took the highest voltage response form each group when stimulated with 3 different amperes and calculated our p-value with a paired t-test to measure the significant difference between the control responses and experimental responses. 
+
+Results:
+This line graph represents 3 different sets of numbers, and 1 from each leg’s response corresponding to an ampere. This visually illustrates the difference of the responses between the control and antagonist group. The largest response difference was 0.035 V. This was observed in the first frog leg. There is a slightly different pattern between frog leg 1 and 2, as we see a smaller difference between control and antagonist for frog leg 2. Frog leg 2 was discolored and slightly smaller. The first frog leg looked strong and full of color. We can see that once the antagonist was injected, all three of the frog legs had very close responses, with the biggest difference being 0.005. When we performed the paired t-test, we calculated a p-value of 0.0568. 
+
+Discussion:
+Our hypothesis was not supported due to our p-value, however it was marginally significant, and we can improve our results to support our hypothesis next time. We suspect that this could be due to the leg that was discolored and smaller. It seems that this frog leg may have been weaker or sick while alive, causing a lower muscle response before the antagonist was injected. With these results, we fail to reject our null hypothesis. Next time, if our slightly high p-value was due to leg 2, we can ensure that we test colorful, and seemingly strong legs in order to receive accurate results that aren’t skewed by confounding variables, like sickness.  This demonstrates why it was important to have each frog serve as its control. We did see results between the other legs, especially frog leg 1. This leg had a strong muscle response before we injected antagonist, and once we injected the antagonist into the muscle, we observed a decreased response in the nerve. This is due to the nicotinic Ach receptor antagonist function, which was discussed in the introduction as blocking the receptor for the neurotransmitter responsible for muscle contraction, acetylcholine. Some receptors were blocked with the antagonist, which prevented acetylcholine from binding, and that caused the decrease in muscle contraction. We still observed some contraction since the antagonist cannot block all of the receptors. ACh antagonist has been proven to block other ligand gated receptors such as cognitive receptors, neuronal, and non-neuronal, so it is not only important for muscle contraction but other areas of our body as well [Jaikhan: 2016]. The next time this experiment is performed, we could wait a longer period for the nicotinic to take effect, or we could inject more than 1mL to see if we could get a stronger decrease in the response and a better p-value. This could be used for further investigation within the medical field, since many muscle relaxants contain a component of ACh antagonists by blocking the responses elicited by acetylcholine [Garland: 1998]. A further question could be how many receptors are blocked and can we control that number with the amount of antagonist added to the muscle? This could be helpful in future medical discoveries.  
+
+Literature Cited:
+1. Kiss T, Tibor K, Pirger Z, Hernádi L. 2014. Nicotinic acetylcholine receptors containing the α7-like subunit mediate contractions of muscles responsible for space positioning of the snail, helix pomatia l. tentacle. Creative Commons Attribution. 9: 1-9.
+
+2. Jaikhan P, Boonyarat C, Arunrungvichian K, Taylor P, Vajragupta O. 2016. Design and synthesis of nicotinic acetylcholine receptor antagonists and their effect on cognitive impairment. Chemical Biology & Drug Design. 87; 39-56. 
+
+3. Garland CM, Foreman RC, Chad JE, Holden-Dye L, Walker RJ. 1998. The actions of muscle relaxants at nicotinic acetylcholine receptor isoforms. US National Library of Medicine. 357:83-92
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+leg+chart+1.jpg&Size=26827&Type=image%2Fjpeg&F=F_cvVf6U2iy9HQcEh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Graph 1. Gastrocnemius Control Voltage Response Compared to its Experimental Voltage Response*************************************************************************
+
+
+

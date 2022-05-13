@@ -1,0 +1,47 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-26 07:45:16
+Author of this lab report is: Std_MId1aiCP
+Course number: BIO102L
+TA: TA_Zz1lFW4y
+*************************************************************************
+Title: Comparing Photosynthetic Activity in C3 and C4 Plants in Saline Solutions
+
+Abstract:
+This experiment was designed to test if C3 and C4 chloroplast would function better or worse in saline solutions. To do this we extracted each sort of chloroplast and left them in salt or distilled water solutions and measured their photosynthetic activity over time. After collecting this information, we ran a paired t-test to determine if there was a significant difference between our different test groups. These tests told us that there was significant difference between any of groups except when comparing our C3 plants to the control.
+
+Introduction:
+As far as science currently knows, there are three distinct photosynthetic pathways that plants can exhibit. The two more common pathways are known as the C3 pathway and the C4 pathway. The C3 pathway is what most plants follow and some claim that C3 plants make up 95% of plants [Furbank, R.T., Taylor, W.C.; 1995]. The primay difference between the two pathways is that C4 plants have two specialized types of chloroplast that are specifically organized and much of their photosynthetic process relies heavily on compartmentalization of activities [Furbank, R.T., Taylor, W.C.; 1995]. C4 plants also frequently exhibit a partial closure of their stomata which allow for them to better control their water loss. This means that C4 plants can more easily be successful in hot, open and dry or saline environments [Osborne, C.P., Sack, L.; 2012]. Another relevant difference between C3 and C4 plants is that on average, C4 plants have a lower density of chloroplast in their cells [Stata, M. et al.; 2016].
+	The purpose of this lab was to isolate chloroplasts from each type of plant using centrifugal separation and then analyze how each type performed under moderately saline environments. Prior research has shown that single celled Bienertia sinuspersici, which undergo C4 photosynthesis, perform photosynthesis better under saline environments [Leisner, C.P. et al.; 2010]. We predict that if we expose individual chloroplast of a C4 plant to a saline environment, we will see similar success, and we will not see this level of improvement in C3 plants.
+
+Materials and Methods:
+The important necessary materials for this lab were leaves from a C3 plant (spinach), leaves from a C4 plant (grass), mortar and pestle, centrifuge, hemocytometer, scanning microscope, grinding buffer, a salt solution, Hill’s reaction buffer, DCPIP, and spectrophotometer. To conduct this experiment, we first ground up each type of leaf with a mortar and pestle after removing major veins. We then filtered out major leaf chunks left and put the liquids in a centrifuge at 1200 rpm for 3 minutes. Afterwards, we poured out the supernatants and put the solutions back in the centrifuge at 2800 rmp for 10 minutes. After finishing this, we collected the pellets (high chloroplast density) and diluted them with 20mL of grinding buffer. We then set up and array of test tubes which included one control test tube of 6mL of water and 2mL of DCPIP and we also set up twelve other test tubes all with 2mL of reaction buffer and DCPIP and then had two groups with 100 μl C4 or C3 plant chloroplast and within those groups we varied if they had 6mL of water or 5% NaCl solution. The DCPIP we added starts out blue, but as photosynthesis occurs it becomes clear. This allowed us to use a spectrophotometer set to 600nm to measure the absorbance of our solutions and quantify the rate of photosynthesis. We then used a paired t-test to determine if there was a significant difference between our salt and no salt groups with the same type of chloroplast.
+
+Results:
+As stated, to determine if there was in fact a significant difference between our C3 plants in salt and in water and with our C4 plants in salt and in water we used a paired t test. After running the test to compare the percent change in absorbance of the solutions with C3 chloroplast in salt versus those in water, a P-value of 0.1315 was given. The same was done for the C4 plants and a P-value of 0.7774 was given. Additionally, a paired t-test was done to compare the average percent change in absorbance of the C4 chloroplast against the percent change in absorbance of the chloroplast free solution and a P-value greater than 0.05 was given. A final paired t-test compared the C3 plants to our control and P-value of 0.0003 was given
+
+Discussion:
+The results of this experiment leave it very difficult to make any conclusions about the effect of salt solutions on chloroplast activity. To start with, the paired t-test that compares our solutions with C4 chloroplast and the solution with no chloroplast tells us that there is no significant difference between the groups. This means that salt or no salt, the C4 chloroplasts were not doing enough to register any sort of significance. Additionally, the paired t-test that compared the solutions with C4 plants in salt and water also had a P-value that signified insignificant change. Because of these facts, it is impossible to extract any sort of significant information from the effect of saline solutions on C4 plants. However, while it may seem counterintuitive, the fact that there was no significant difference in the C3 chloroplast solutions helps explain the results. The salt solution should have caused reduced photosynthetic activity in the C3 plants, but that was not seen. This means that the most likely explanations for the inconclusive results is that the salt solution was not strong enough to cause a disturbance in photosynthetic activity.
+	However, this leaves the question of the “non-functioning” C4 chloroplast unanswered. Like the salt problem there is a relatively simple explanation that relies on the nature on the C4 plants themselves. Remember that C4 plants have two types of chloroplast that are organized in a specific manor and that they in general have lower chloroplast density [Stata, M. et al.; 2016] [Furbank, R.T., Taylor, W.C.; 1995]. To prepare the samples, we took roughly equal masses of leaves for each type of plant and then ground them up. This means that from the start there was significantly less C4 chloroplast and by disrupting the specialized organization, it only seems logical that we would see significantly impaired photosynthetic levels when compared to the C3 plants.
+	This experiment gave less than ideal results, which is good because it allows for lots of futures experiments. One good route to follow is to see just how high the salt level would need to be risen to get a significant difference between the different solutions. Additionally, it would be interesting to analyze the effects of CAM plants that follow an altogether different photosynthetic pathway. But because the results were so inconclusive it is very hard to recommend a way in which this information could be applied to the real world.
+
+Literature Cited:
+1.	Furbank, R.T., Taylor, W.C. 1995. Regulation of Photosynthesis in C3 and C4 Plants: A Molecular Approach. The Plant Cell. 7: 797-807.
+2.	Leisner, C.P. et al.; 2010. The effects of salinity on photosynthesis and growth of the single-cell C4 species Bienertia sinuspersici (Chenopodiaceae). Photosynthesis Research. 106: 201-214.
+3.	Osborne, C.P., Sack, L. 2012. Evolution of C4 plants: a new hypothesis for an interaction of CO2 and water relations mediated by plant hydraulics. Philosophical Transactions of the Royal Society B: Biological Sciences. 367: 583-600.
+4.	Stata, M. et al. 2016. Mesophyll Chloroplast Investment in C3, C4 and C2 Species of the Genus Flaveria. Plant and Cell Physiology. 57: 904-918.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-26+at+7.44.55+AM.png&Size=139050&Type=image%2Fpng&F=F_cGSa9auTvkbq3kh
+
+
+
+
+
+
+
+
+Figure Legends: 
+
+
+*************************************************************************

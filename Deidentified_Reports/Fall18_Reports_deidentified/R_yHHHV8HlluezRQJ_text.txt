@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 14:25:58
+Author of this lab report is: Std_VMspNHuL
+ID: R_yHHHV8HlluezRQJ
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Temperature on Rana pipiens Leg Response Voltage
+
+Abstract:
+This experiment tested the effects of a decrease in temperature on the voltage response of Rana pipiens legs due to direct voltage stimulation. This voltage stimulation influences the twitch of a muscle by traveling down neural pathways in the sciatic nerve to the neuromuscular junction, which releases acetylcholine and creates an action potential in the muscle fiber. By decreasing the temperature, the probability of acetylcholine release decreases and therefore the voltage response decreases. This experiment was carried out by stimulating three prepped Rana pipiens legs at both room temperature (22C) and after being soaked in an ice bath (5C). The results show a paired t-test value of 1.01 and a p-value of 0.42 with a degrees of freedom value of 2, which shows no statistical significance. There was a slight change in the voltage response.
+
+Introduction:
+Both vertebrate and invertebrate animals use a combination of muscle systems and neural systems to control movement. This movement occurs when nerve impulses travel to the neuromuscular junction, which releases acetylcholine that binds to receptors on the muscle cell and triggers an action potential, causing the muscle to twitch. However, each muscle has a threshold of voltage needed to trigger an action potential, which has an all-or-nothing response [Johnson: 2016]. Humans can influence muscle twitch through stimulation, such as through the program used in this experiment. The program used in this lab, called LabScribe, uses a probe to directly stimulate the muscle through an input of pulse frequency, voltage amplitude, pulse width, and number of pulses. Each stimulation triggers a voltage response in the muscle, which is influenced by a number of factors, such as pH, temperature, and appropriate conditions for the triggering of an action potential. This experiment tests the effect of temperature on the voltage response of Rana pipiens legs. This species of frog was easily measurable because the muscles are easily isolated, as well as the sciatic nerve which sends signals to the surrounding muscles. According to a previous study, a decrease in temperature most directly interfered with the function of the neuromuscular junction rather than the muscle or nerve individually, because cold temperatures decrease the probability that acetylcholine will be released at the junction [Jensen: 1972]. Because acetylcholine release is decreased, the voltage response, or the resulting muscle twitch, will decrease in amplitude. Therefore, if three Rana pipiens legs are tested at both room temperature and after soaking in a 5C ice bath, there will be a significant drop in voltage response after being soaked in a lower temperature.
+
+Materials and Methods:
+Three Rana pipiens legs were prepped by removing the skin and isolating the gastrocnemius muscle and separating the inner thigh muscles. The isolated gastrocnemius muscle was then tied to a force transducer and made taut, but not strained. The probe was inserted into the gastrocnemius muscle, and the threshold response voltage, 0.6V, was found. Then each leg was tested at room temperature (22C) through three separate pulses each at 1.6V, frequency of 1 Hz, and a pulse width of 5ms, using the LabWorks software. Each leg was rested for 30 seconds between each pulse for more accurate results. Then, each leg was rotated in an ice bath (5C) for 5 minutes and tested for response voltage immediately following, using the same programming as room temperature. The results were compared using a paired t-test.
+
+Results:
+The results of the experiment show a slight change in voltage response before and after the ice bath, apart from Leg 3, which had a larger change in voltage response. Visibly, the voltage response did not appear different between the two different scenarios in each frog leg. Although the data show a trend of decreasing voltage response, as shown in Figure 1.1, the data resulted in a t-value of 1.01, p value of 0.42, and 2 degrees of freedom. This means that the data from the experiment was not statistically significant. 
+
+Discussion:
+The results of this experiment do not support the hypothesis; therefore, the null was supported, and the alternate was rejected. Although there was a trend that showed a decrease in voltage response after the ice bath, there was not enough of a difference to warrant a significant statistical difference. This is most likely due to the amount of time each leg was soaked in the bath. Five minutes was not enough time to allow the legs to become equal to the ice bath temperature of 5C, which caused only a slight decrease in acetylcholine release at the neuromuscular junction, so the voltage response was not impacted as much. Another factor that could contribute to the outcome of the experiment was that the frog legs were chilled to about 10C prior to the experiment, so it is unclear if the room temperature data was taken when the legs were not room temperature, therefore making the data inaccurate. Also, according to a previous study, there is a difference in response to cold temperatures based on what temperature the frog was acclimated to prior to removing the legs [Jensen: 1972]. The previous experiment showed that if a frog was previously acclimated to colder temperatures in its natural habitat while it was living, it took a larger decrease of temperature to influence the acetylcholine output in the neuromuscular junction. If this experiment were to be repeated, the frog legs should be soaked in the ice bath for a longer amount of time, soaked at colder temperatures, ensured that the room temperature test was done on room temperature legs, or any combination of the three. Because our results did show a slight decrease in voltage response, further studies might prove our hypothesis to be correct, which would increase our understanding of Rana pipiens and the way outside factors such as temperature can influence movement and muscle control. 
+
+Literature Cited:
+Jensen, D. W. (1972). The effect of temperature on transmission at the neuromuscular junction of the sartorius muscle of Rana pipiens. Comparative Biochemistry and Physiology Part A: Physiology, 41(3), 685–695. https://doi.org/10.1016/0300-9629(72)90022-9
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=jsadflhjas.png&Size=19046&Type=image%2Fpng&F=F_3ipR5wEyPwqCJxa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.1 – Average voltage response of three Rana pipiens legs at room temperature (22C) and after being soaked in an ice bath (5C) for five minutes. Standard deviation bars are based on data from each test.*************************************************************************
+
+
+

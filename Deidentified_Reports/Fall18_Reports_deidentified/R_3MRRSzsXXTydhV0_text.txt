@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-10 22:33:00
+Author of this lab report is: Std_yj68KTCK
+ID: R_3MRRSzsXXTydhV0
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effect of Precor on the Growth and Development of Manduca sexta Larvae
+
+Abstract:
+     Manduca sexta, known as the Tobacco Hornworm, is recognized as a pest among tobacco and vegetable such as tomatoes. Despite their harmful effects on these crops, once the insect matures to adulthood, it feeds instead on nectar. The effects of pests on crops worldwide has influenced scientists to explore the effects of hormone-based pesticides, some of which include methoprene, a known juvenile hormone mimicker, and is known by the brand name Precor. To understand the effect of Precor on the growth and development of M. sexta larva, several caterpillars were exposed to small doses of Precor in order to demonstrate its effect on the average weight change. It was hypothesized that if M. sexta were exposed to Precor in late larval stages, then they would experience a greater average weight change than unexposed caterpillars. Due to extraneous factors, our results come out to be slightly skewed, with a p value above 0.05, making our results statistically insignificant and consequently inconclusive, failing to disprove the null hypothesis that there will be no change in average caterpillar weight as a result of exposure to Precor. 
+
+
+Introduction:
+Manduca sexta are a species of insects that are well known to be a pest among crops in the United States. During their larval stages, M. sexta, known commonly as the Tobacco Hornworm, feed upon tobacco and other crops, such as tomatoes [Johnson: 2018]. Once matured to adulthood, however, the M. sexta no longer feed on crops; they become harmless and feed on plant nectar [Johnson: 2018]. M. sexta undergo metamorphosis in order to pupate and molt into their adult form. This process involves the hormones juvenile hormone (JH) and ecdysterone (20E) [Johnson: 2018]. JH, produced by the insect’s corpus allata, are present through all instars of the larval M. sexta, whereas 20E is produced by the prothoracic glands [Johnson: 2018]. Between the fourth and fifth instar of its larval stages, the level of JH in the insect drops off substantially, and 20E experiences a slight increase [Johnson: 2018]. This event, known as the commitment pulse, indicates that the insect has enough resources to undergo metamorphosis [Johnson: 2018]. Without this momentous change in the insect’s hormone levels, the insect will not pupate and mature to adulthood [Johnson: 2018]. Precor, a known JH mimicker, is commonly used as a pesticide especially for flea control [Staal:1982] Precor is also known for its pesticidal effects on Collembola [Campiche: 2006]. Juvenoids [Staal:1982] such as Precor work as by altering the endocrine function of pest populations and suppress the proliferation and reproduction of pests in adulthood [Campiche: 2006]. In the case of this experiment, if M. sexta are exposed to JH mimickers and skip the commitment pulse, they will continue growth without pupating. We hypothesized that if M. sexta are exposed in late larval stages to Precor, then they will express a greater average change in weight than unexposed M. sexta.
+
+Materials and Methods:
+To begin the experiment, eight late-larval M. sexta caterpillars were selected and their initial weights were taken. They were separated into two groups, a control and a Precor treatment group, each containing four caterpillars. Two plastic containers, one labeled “control” and the other labeled “treatment,” were each divided into four subdivisions in which the caterpillars were placed individually. Each caterpillar was fed one of two diets. Those in the control group were fed the traditional Great Lakes Manduca (GLM) diet (10g) with 3 drops of water, whereas those in the treatment group were fed the GLM diet (10g) with 3 drops of Precor. The control and treatment groups, in their respective containers, were kept in an incubator kept at constant temperature. Caterpillar weights were measured and recorded 5 times over the course of 14 days. As caterpillars ate their food, it was replaced accordingly, feeding the control group 10 grams of the GLM diet with 3 drops of water, and the treatment group 10 grams of the GLM diet with 3 drops of Precor. To test the result of the experiment, a two-sample T-test was conducted to determine whether the results were significant. 
+
+Results:
+To measure the effects of Precor on the average weight change of M. sexta caterpillars, The initial weight was subtracted from the final weight of each individual caterpillar to find the individual weight differences, from which the control group values were averaged and the treatment group values were averaged, yielding an average weight change in the control group, and an average weight change in the treatment group. The results from the control group was an average weight change of 5.317 grams, whereas the average weight change of the treatment group was 8.1 grams. To determine the significance of the results, a two-sample T-test was performed, and the one-tailed P-value was determined to be p=0.057. Figure 1 displays the average weight changes among the control and treatment groups, and the standard deviations within each. 
+
+
+Discussion:
+     The data shows an increased average weight difference among the treatment group, however the one-tailed p-value of 0.057 represents a nonsignificant result due to its high likelihood of our results being due to chance. The hypothesis predicted a greater average weight change within the treatment relative to the control group due to the effect of Precor on the commitment pulse, however due to the p-value, the data is inconclusive. It is important to note that the data from the experiment was likely impacted by the death of one of our treatment group individuals. This left 3 treatment caterpillars, as opposed to the four control caterpillars. Observations of the individual caterpillars also noted that there was one treatment caterpillar that appeared to be substantially smaller than the other two. This likely led to the extreme standard deviation in the treatment group, and skewed the average weight change as well. Based on our knowledge of JH, Precor, and the hormone composition of M. sexta, we can infer that exposure of larval M. sexta caterpillars will ultimately impact the growth and development of the organisms by maintaining high levels of JH thus forcing the exposed caterpillar to skip the commitment pulse. Based on the extensive use of Precor as a pesticide and preventing the development of insects that are pests in adulthood [Staal:1982], we inferred that Precor would maintain larval M. sexta, which would ultimately keep them in their “pest” stage. The effects of JH and JH mimickers are well studied and known to largely impact matured adult insects and their ability to reproduce [Campiche: 2006], so the effect of Precor on pre-mature M. sexta was important in understanding the role of JH in insect development. In order to better understand the effect of Precor on M. sexta growth and development and achieve statistically significant results, the same experiment should be conducted with a larger sample size within the two groups to eliminate the amplified effect of outliers in such small samples. 
+
+Literature Cited:
+1. Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated 8/2/18) pp.5-15. 2. Staal GB. 1982. Insect control with growth regulators Interfering with the endocrine system. Zoecon Research Laboratory. 31:15-23. 3. Campiche S., Becker-van Slooten K., Ridreau C., Tarradellas. 2006. Effects of insect growth regulators on the nontarget soil arthropod Folsomia candida (Collembola). Ecotoxicology and Environmental Safety. 63: 216-225.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=final+graph+precor+labb.jpg&Size=34599&Type=image%2Fjpeg&F=F_Q0Qv2S1yOHCbEeR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Precor on average weight change (in grams) of Manduca sexta. Average weight change among the treatment group individuals, 8.1 grams, was greater than average weight change among the control group individuals, 5.317 grams. Standard deviation was greater among the treatment group with a value of 2.797, whereas the control group had a standard deviation of 0.931. *************************************************************************
+
+
+

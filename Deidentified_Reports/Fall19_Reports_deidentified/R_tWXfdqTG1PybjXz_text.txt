@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-29 16:32:17
+Author of this lab report is: Std_yTJCy273
+ID: R_tWXfdqTG1PybjXz
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: Detergents Impact on Spinach Leaves Electron Transport Chain Activity 
+
+Abstract:
+The Chloroplast uses the electron transport chain which occurs a membrane of the chloroplast to power photosynthesis. If detergent is added to a solution of spinach chloroplast we should see a decrease in electron transport chain (ETC) activity. We separated the chloroplast by centrifuging a spinach mixture and then added DCIP to measure the activity of the ETC.  The results were tested using an ANOVA test in SPSS and found a significant difference in the ETC activity in the control compared to the sample with detergent. We think the reason ETC activity was inhibited was the detergents disrupted the membrane of the chloroplast that ETC occurs in which lowered ETC activity. 
+
+Introduction:
+Chloroplast create ATP by using light to create NADH, a molecule that transports high energy electrons. These electrons move from one molecule to another in the membranes of the chloroplast facilitated by integral membrane proteins creating an electric current through the membrane.  The current is used to create a proton gradient across the same membrane by using the electrical flow to move protons against their gradient by the same proteins that facilitated the electron transfer. The electron transport chain is an integral part of photosynthesis which is how plants get their energy. Detergents are amphipathic molecules that scientist use to dissolve phospholipid membranes and isolate integral membrane proteins.  According to Cox (1972), detergents would be expected to derange the membranes of the chloroplast which would disrupt photosynthesis since it occurs in the membrane of the chloroplast.  We hypothesize that the addition of detergent to a solution of chloroplast will disrupt the electron transport chain by disrupting the membranes of the chloroplasts in a spinach leaf solution. 
+
+Materials and Methods:
+We prepared the spinach by deveining the leaves, washing them in water and drying with a paper towel. While preparing the leaves, we had a beaker and mortar cooling on ice. When the spinach was dry we ground the leaves in the mortar and pestle with 10mL of cold grinding buffer until a thick paste.  An additional 10mL of cold grinding buffer was added to the paste and the strained into the cold beaker through 3 layers of cheese cloth to remove large debris from the solution.  The mixture was then put in the centrifuged in a 50mL tube at 200xG for 3 minutes at 4C.  The supernatant was then taken into a second 50mL tube and centrifuged at 1000xG for 10 minutes at 4C. The supernatant was the discarded and the B-pellet was resuspended with 20mL of cold grinding buffer. 100L of the solution was placed in 6 different tubes. Three tubes were chosen as the experimental group where a soap solution was added to it and 3 were the control according to table 1.  The tubes absorbance was measured using a spec 20 machine set to 600nm at 0, 10, 20 and 30 minutes. The results were tested using a repeated measures ANOVA in SPSS comparing estimated marginal means. 
+
+
+Results:
+The ANOVA test revealed there was a significant difference between The experimental group and control with an F value of less than .001 and an alpha of .05 as seen in image 1. The differences are easily seen in graph 1 where the control group without soap has a much higher percent. The absorbance of the Control group changed very little throughout the experiment.
+
+
+Discussion:
+In our experiment we saw an inhibition of electron transport chain in the chloroplast sample with soap added.  The soap most likely disrupted the membrane and integral membrane proteins in the chloroplast by solubilizing the phospholipids and proteins. Without the proteins to facilitate the transfer of electrons in the membrane there was no way to oxidize the DCIP so we didn’t see much change in absorption for the experimental group while the control group mitochondria were able to synthesize lots of NADH which oxidizes the DCIP.  This theory is supported by Neumann’s article Uncoupling photophosphorylation by detergents where he found triton to inhibit electron transport chain activity and proposed that fatty acid chains would have a similar effect.  There needs to be more research on the subject of fatty acid chains potentially disrupting the membranes of chloroplast and mitochondria as they have similar functions, and both operate by an electron transport chain. It would be very important to see if fatty acids (FA) would inhibit the electron transport chain (ETC) since FA’s are broken down to acetyl-coenzyme A and used for energy in the mitochondria.  If the FA’s at a certain concentration were able to lower the efficiency of the mitochondria, then there would be negative health impacts if they reached that level near mitochondria. 
+
+Literature Cited:
+Cox, R. P., & Bendall, D. S. (1972). The effects on cytochrome b-559HP and P546 of treatments that inhibit oxygen evolution by chloroplasts. Biochimica et Biophysica Acta (BBA)-Bioenergetics, 283(1), 124-135.
+Neumann, J., & Jagendorf, A. (1965). Uncoupling photophosphorylation by detergents. Biochimica et Biophysica Acta (BBA)-Biophysics including Photosynthesis, 109(2), 382-389.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+4.30.15+PM.png&Size=322497&Type=image%2Fpng&F=F_3CJgOxlYxWADnSl
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+4.30.49+PM.png&Size=384107&Type=image%2Fpng&F=F_11c5LOz7D9xMCAX
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=image.png&Size=10925&Type=image%2Fpng&F=F_2TBN8C5mIpXbjxk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. shows the amounts of reagents added to each test tube.
+Image 1. Shows the results from the repeated measures ANOVA test run in SPSS
+Graph 1. A line graph of the experimental group's, soap, and control's, without soap, percent change plotted against time on the x-axis
+
+*************************************************************************
+
+
+

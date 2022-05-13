@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-28 13:28:00
+Author of this lab report is: Std_9kqaFWyL
+ID: R_1QmjbOsmVhrZooU
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Caffeine effects on cAMP mediated pathway in Physarum polycephalum
+
+Abstract:
+External environments have an effect on intracellular pathways. The presence or absence of molecules can inhibit or excite intracellular signalling pathways in organisms. Physarum polycephalum, and many other organisms, utilize cAMP mediated pathways to respond to the stimuli from the external environment. It was expected that the presence of caffeine would result in significantly less distance migrated in chemotaxis assays. However, the data was inconclusive. This could have been due to the presence of a competing organism, Aspergillus flavus, in the petri plate. In addition, the model organism, Physarum polycephalum, was potentially in resting state, prohibiting the movement of the organism. The understanding of how external conditions can affect the intracellular pathways of organisms is imperative to developing antibiotics that prevent the disruption of these pathways in humans.
+
+Introduction:
+Survival of an organism is dependent on its response to environmental factors. Response to external stimuli relies heavily on the efficiency of its signal pathways in slime molds. These pathways are imperative for the survival of the organism when the environment contains many toxins. The model organism for this experiment, the Physarum polycephalum, utilizes signal pathways to respond to stimuli from the environment. This enables the organism to navigate the damp, decomposing environment that it normally inhabits. Decomposition leads many ions and other nutrients that may be harmful to occupy the surroundings of the Physarum polycephalum. The cAMP mediated pathway, is used to navigate through this external medium. The pathway is coupled by G-proteins and produces a response by activating the enzyme adenylate cyclase. This converts ATP into cAMP, a second messenger; cAMP is able to bind with many substrates, mostly protein kinases. The signal pathway is stopped by phosphodiesterase, which breaks down cAMP. Caffeine is an inhibitor of cAMP phosphodiesterase. The inhibition of phosphodiesterase leads to a rise in cAMP levels in the cell, causing an inhibitor or delay in cell division [Timson:1977]. In a study investigating the effect of caffeine on cellular slime molds, it was found that caffeine decreases adenyl cyclase-A levels, resulting in low cAMP levels. The alteration of the gradient resulted in inhibition of directional movement of the cells [Jaiswal: 2012]. It can be hypothesized that caffeine in cAMP mediated pathways of Physarum polycephalum will be inhibited. The organism will not migrate in the presence of caffeine. Caffeine in humans is often ingested through coffee. In our study we wanted to see how the model organism responded to the presence of a medium roast coffee, which contains caffeine as well as other nutrients, in order to see how their signal pathways were interacting with this particular external medium and be able to comparatively investigate in relation to the human signal pathways. 
+
+Materials and Methods:
+First, fifteen 100 mm petri plates containing 2% agar in water were obtained. In five plates, 5mL of One Coffee Breakfast Blend medium roast, was pipetted in each plate and was left to be soaked for five minutes. Then, in five other petri plates, 5mL of 20mM caffeine was pipetted into each plate and left to soak. After five minutes, the excess solution of caffeine and coffee in each of the plates was removed from the petri plates. In each of the fifteen plates, two squares were cut in the middle of the plates using a sterilized spatula. The squares were evenly separated and measured as one centimeter in length and width. The Physarum polycephalum stock culture was cut by the same measurements and transferred to each of the squares in the petri dishes with sterilized forceps. The forceps were sterilized and used to place four oatmeal flakes positioned in the same manner across all plates, at the very top-middle of the petri dish. The lids were all taped down to hold each plate in place. All fifteen plates were then completely wrapped in foil and placed in an incubator at 25 degrees celsius for 18 hours. The distance migrated for each Physarum polycephalum was measured in millimeters using a ruler. The statistical data was configured using a one-way ANOVA test, with an alpha value of 0.05, in conjunction with a Tukey-Kramer test.
+
+Results:
+There was another mold present besides the model organism on the top of the oatmeal. This organism was identified as Aspergillus flavus. There was little distance migrated by the eternal mediums containing caffeine, as seen in figure 1. The average distance migrated by the Physarum polycephalum 2% water agar in the external medium was 11.75 +/- 2.21 mm. The average distance migrated for the coffee external medium was 0.54 +/- 0.19 mm. The average distance migrated in the caffeine external medium was 0.23 +/- 0.17. The data was significant between the 2% water agar and the coffee treatments, as well as the 2% water agar and the caffeine treatment (Fs=103.84, df= 2, p=607E-7).
+
+Discussion:
+There was no growth of the slime mold during the investigation. Therefore we cannot reject or accept the null hypothesis. It was expected that the Physarum polycephalum placed in 2% agar in water treatment would have migrated toward the oatmeal flakes, as seen in Figure 1. The coffee and caffeine treatments would have migrated less due to the inhibitory effects of caffeine on the cAMP mediated pathway of the Physarum polycephalum, as seen in Figure 1. Therefore, it would have been concluded, with significant statistical analysis, that caffeine present in the external medium does result in significantly less distance migrated by the Physarum polycephalum. 
+The lack of growth exhibited in the control plates, where there was no presence of caffeine or coffee, could be due to competition between another mold. The mold observed in the petri dishes was identified as Aspergillus flavus.  Aspergillus flavus is a fungi responsible for aflatoxin formation in crops. They are a common in nature and grow in warm, humid environmental conditions. They are a primary contaminant of agriculture that are mass produced, harvested, and stored [Klich: 2007]. The Aspergillus flavus could have been producing aflatoxin were in the warm humid environment the petri plates were set in during our experiment. In one study it was found that aflatoxin produced by Aspergillus flavus  that had infected a crop resulted in the cellular disruption of metabolic pathways. Further analysis showed that the fungi had disrupted kinase synthesis in the host’s defense and glycolytic signalling pathways [Dolezal: 2014]. This would explain why the Physarum polycephalum did not have any growth in any of the plates; the aflatoxin disrupting the protein kinase in the cAMP signalling pathway of the organism. In another study, it was found that strains of Aspergillus flavus group that had been inhibited in 0.5% caffeine-containing external medium. The Aspergillus flavus had no growth as well in the coffee and caffeine treatments in our study and proceeded to grow on top of the Physarum polycephalum in the plate. The strain had grown in treatments that just contained a food source. This is representative of our study as well, where it was observed in the control plates the Aspergillus flavus had grown on top of the oatmeal, but the Physarum polycephalum had not grown toward the oatmeal at all [Tsubouchi: 1984]. In addition to the presence of Aspergillus flavus, the Physarum polycephalum was potentially in resting state due to the presence of light where the stock plates were kept. This resulted in the Physarum polycephalum being induced into resting state [Ranjeva: 1987]. 
+ The combination of light present and the presence of the fungi Aspergillus flavus resulted in the inconclusive data during our experiment. In future studies, the stock plates should be kept in conditions where Physarum polycephalum would not be induced into resting state in order to yield more conclusive data. There should be also be measures taken to eliminate the contamination of stock plates in order to prevent a competitive species, like the Aspergillus flavus, from obstructing the migration of Physarum polycephalum. This could be done through the proper storage and sanitizing all surfaces that come into contact with the stock plates in preparation for and during the experiment. 
+The results of these investigations on signalling pathways are important in understanding how the external environment affect the intracellular pathways in organisms. The presence of toxic or foreign molecules by external forces can infect and disrupt processes in organisms. Human signalling pathways could have the same interaction with the fungi through the consumption of agriculture products that could possesses the fungi, Aspergillus flavus. Therefore, it is imperative that people understand how the signal pathway interact toxic fungi, Aspergillus flavus, in order to develop antibiotics to prevent the disruption of processes in the body.
+
+Literature Cited:
+Timson, J. (1977). Caffeine. Mutation Research. Vol. 46, pp 1-52. 
+
+Jaiswal, P., Singh, S. P., Aiyar, P., Akkali, R., & Baskar, R. (2012). Regulation of multiple tip formation by caffeine in cellular slime molds. BMC developmental biology, 12, 26. 
+
+Kilch M. (2007). Environmental and developmental factors influencing aflatoxin production by Aspergillus flavus and Aspergillus parasiticus. Vol. 48, Issue 2, pp. 71-80.
+Dolezal, A. L., Shu, X., OBrian, G. R., Nielsen, D. M., Woloshuk, C. P., Boston, R. S., & Payne, G. A. (2014). Aspergillus flavus infection induces transcriptional and physical changes in developing maize kernels. Frontiers in microbiology, 5, 384. doi:10.3389/fmicb.2014.00384
+
+Tsubouchi H., Yamamoto K., Terada H., Hisada K., Sakabe Y. (1984). A survey of caffeine-resistant strains of Aspergillus flavus group isolated from peanuts, spices and green coffee beans, with special reference to their aflatoxin producibility in caffeine-containing medium. JSM Mycotoxins, Vol. 20, pp 10-16.
+
+Ranjeva R., Boudet A.M., (1987). Phosphorylation Of Proteins In Plants: Regulatory Effects and Potential Involvement in Stimulus/Response Coupling. Annual Review Plant Physiology, Vol. 38, pp.73-93.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=phy.png&Size=30523&Type=image%2Fpng&F=F_1LInLyAEAGQnE1p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This figure represents the average distance migrated of the Physarum polycephalum in each external medium. The error bars represent the variation in distance migrated by the Physarum polycephalum in each of the stock plates with the same external medium. The data was significant between the 2% water agar and the coffee treatments, as well as the 2% water agar and the caffeine treatment (Fs=103.84, df= 2, p=607E-7).*************************************************************************
+
+
+

@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-15 13:43:57
+Author of this lab report is: Std_SzQKcoLS
+ID: R_2aV2U6UegRQvkTe
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effect of a Calcium Channel Blocker on Neuromuscular Response in Rana pipiens
+
+Abstract:
+This experiment tests the effect of lanthanum chloride, a calcium inhibitor on muscle contraction in legs of Rana pipiens. Our hypothesis is that if lanthanum chloride is inserted into the frog leg muscle, then reduced muscle contraction will take place. The neuromuscular response in 3 frog legs were recorded with and without an added calcium inhibitor to find the average difference in response at the highest response observed for each condition. The average difference in response was 0.29, indicating that the control had a higher response than the experimental group. However, our p-value from a paired t-test is 0.18 so we do not have sufficient data to conclude that there is a significant average difference in muscular response once lanthanum chloride is added. Therefore, we are unable to conclude that a calcium channel blocker decreases neuromuscular response, but we believe further research with more data points would show this effect.
+
+Introduction:
+In this experiment, we are studying neuromuscular control in Rana pipiens, a northern leopard frog. This will be done by isolating the gastrocnemius muscle and sciatic nerve in a frog’s leg so that we can stimulate the sciatic nerve directly. The skeletal muscles of the frog’s leg consist of thousands of myofibers innervated by motor neurons. The neuromuscular junctions (NMJ) connects the axons of motor neurons to multiple myofibers, and nerve impulses at the NMJ cause muscle contraction. After acetylcholine (Ach) is bound to a motor end plate receptor on the muscle, an action potential is generated in the muscle by the opening of sodium channels. This depolarization causes calcium ions from the sarcoplasmic reticulum to be released, enabling muscle contraction [Johnson: 2016]. Similar studies have been done with increasing the calcium in the skeletal muscles of rabbits. The increase in calcium led to muscle fibers being fully contracted at 10 degrees C [Cooke: 1988], which we would expect to happen since calcium is key in causing muscle contraction. We are interested in the effect of inhibiting calcium on muscle contraction. This is important to many areas of research because understanding how paralysis happens can help to prevent and treat it. We hypothesize that if lanthanum chloride, a calcium inhibitor, is inserted into the frog leg muscle, then reduced muscle contraction will take place because calcium won’t be released from the sarcoplasmic reticulum to stimulate muscle contraction.
+
+Materials and Methods:
+We skinned 3 frog legs, then isolated the sciatic nerve in each leg. Frog Ringer’s solution was used to keep the legs moist. We then pinned the frog leg down and tied it to an apparatus to keep the leg steady. Next we placed the sciatic nerve across 2 electrodes, and began stimulating at 0.1 amps, gradually increasing up to 3 amps while measuring the voltage response. For each leg, we first tested the neuromuscular response with no added chemicals for the control group, then we added 0.1 mL lanthanum chloride to each leg muscle as the experimental group. Once we added the chemical, we waited 8 minutes and massaged the leg. The difference in highest voltage was recorded in each leg. We used a paired-t test to see whether the average difference in neuromuscular response was significant.
+
+Results:
+As seen in Figure 1, there is clearly a difference in response in each leg after the lanthanum chloride is added. The voltage decreased after the calcium inhibitor was added to each leg muscle. The average difference in response was 0.29, indicating that the control had a higher response than the experimental group on average. The difference in the 2nd leg is smaller than that of the other legs. Our p-value from a paired t-test is 0.18.
+
+Discussion:
+As observed from the paired t-test, these data are not significant. The p-value is larger than 0.05, so we do not have sufficient evidence to conclude that adding a calcium inhibitor such as lanthanum chloride will significantly reduce muscle contraction. These data do show a decrease in response in the frog leg after the lanthanum chloride was added, but due to a small difference in leg #2 the relationship is not significant. We believe this may be due to the delayed effect lanthanum chloride has on the leg muscle. Once we added the chemical, we waited 8 minutes and massaged the leg to do our best to ensure the chemical permeated the membrane, but we cannot be sure that all of the lanthanum chloride reached the calcium receptors in the leg muscle. Also, leg #2 did not have as high a response for the control as did the other legs, so there may be something wrong with the leg itself. While our results do not provide significant statistical evidence that reduced muscle contractions occurs with the addition of a calcium inhibitor, we believe further experimentation may show this effect. We only tested in 3 frog legs, and since one leg didn’t seem to not generate high responses in either condition, having a larger sample size would likely be conducive to finding a significant relationship. Calcium is likely an inhibitor of skeletal contraction since a study found that phosphate and hydrogen ions are inhibitors on muscle contraction [Cooke: 1988]. Phosphate and hydrogen do not have as direct a relationship to muscle contraction as does calcium, so we would expect that inhibiting calcium would have a greater effect on muscle contraction. Since one of data points, leg #2, had such an insignificant difference, we believe further experimentation using more data points would show the above effect. Studying how calcium impacts neuromuscular response is important in the field of medicine since many people struggle with conditions like cerebral palsy that involve impaired muscle control, so understanding how we can treat people to increase muscle contraction with inhibitory or excitatory chemicals could be beneficial. 
+
+Literature Cited:
+Cooke, R, et al. The inhibition of rabbit skeletal muscle contraction by hydrogen ions and phosphate. The Journal of Physiology. Accessed October 31, 2018. &lt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1191984/pdf/jphysiol00517-0095.pdf&gt;
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 17-18.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FROG.png&Size=60914&Type=image%2Fpng&F=F_2dnyXU8MTXiMq0p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Highest measured muscle contraction in 3 frog legs before and after receiving 0.1 mL lanthanum chloride, a calcium inhibitor.*************************************************************************
+
+
+

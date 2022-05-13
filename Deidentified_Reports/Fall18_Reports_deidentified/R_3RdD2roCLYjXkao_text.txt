@@ -1,0 +1,88 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-23 11:07:09
+Author of this lab report is: Std_40Cl9GQo
+ID: R_3RdD2roCLYjXkao
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Effects Acidic Environments have on Spinacia oleracea Chloroplasts
+
+Abstract:
+The longevity and effectiveness of plants and their processes is largely dependent on the environment they are in. Perhaps the most important process plants are involved in is photosynthesis. Photosynthesis allows the plant to grow and produce the essential materials needed for it, and humans, to live. However, there are many extrinsic factors that may disrupt this process. The pH of the soil- or the conditions it grows in- is a crucial part of survival. Acidity in the environment, most likely due to acid rain, is a difficult condition for plants to grow in, causing the plant to struggle to carry out basic processes such as photosynthesis. To explore the effects acid rain may have on crops, the chloroplasts of Spinacia oleracea were isolated and treated with acidic conditions at pH 3.0 and pH 5.0. After analysis through a spectrometer, it was found that as acidic conditions increase, the effectiveness of chloroplasts and their ability to reduce DCIP dye is decreased. 
+
+Introduction:
+Photosynthesis is the most crucial process in a plant, and perhaps the most crucial process on our planet. Photosynthesis not only provides energy for the plant, but it also provides other forms of life with food and oxygen in our atmosphere. This process is how plants gain energy from sunlight and transform it into usable energy for other internal processes. Photosynthesis begins when light harvesting complexes collect photons from surrounding light, also known as the Förster mechanism [Benniston: 2008]. To undergo this process in most plants, chloroplasts are needed. To begin this process, solar energy is reduced to carbohydrates in Photosystem II. Chloroplasts in this system transfer solar energy into chemical energy thorough a series of pathways, eventually resulting in the production of ATP as well as other useful side products for the cell [Yang: 2017]. 
+	Photosynthesis is certainly light dependent, however; other factors can also affect this process. There have been many studies conducted on how the surrounding environment and conditions affect the effectiveness of photosynthesis. Some conditions researched include atmospheric CO2 levels, soil pH levels, and light intensity [Ping: 2015; Long: 2017; Xu: 2017]. In this study we will be focusing on how the pH level, specifically acidic environments, affects the rate of photosynthesis in chloroplasts. Low pH can affect the water intake of plants, according to Kamaluddin [2004]. Long and others [2017] further state this, as well as stating that at pH 3.0, plants undergo acidic toxicity and an inhibition of CO2 assimilation. Furthermore, in 1994, Ellsworth and Liu found that photosynthesis may become disrupted in lower pH environments. In 2014, Zhang and others found that acidic conditions (specifically pH 3.0) decreased photosynthesis and transpiration. This is a significant area of research in terms of crop production and natural acidity, such as acid rain. A study done by Long and others [2017] states that 30% of the world’s soils are acidic, 12% of which crops are grown on. They further state that due to fertilizer use, especially heavily nitrogenated fertilizers, negatively affect the soil, making it more acidic and more difficult for crops to grow. 
+In this experiment, the effectiveness of chloroplasts in varying pH environments will be determined. It is expected that a more acidic environment will negatively affect the chloroplasts cause a decreased rate of photosynthesis in "Spinacia oleracea." 
+
+
+
+Materials and Methods:
+Spinach leaves were deveined and rinsed and placed in a cooled mortar. 10 mL of cold grinding buffer was added and the leaves were ground up until a thick paste was formed. 10 mL more of grinding buffer was added and then the mixture was strained through a cheesecloth into a beaker. This liquid was transferred into a centrifuge tube and then spun at 200 xG for ten minutes at 4 C. After this, the supernatant was poured out and spun again under the same conditions. After the second spin, the pellet was resuspended with grinding buffer and then was separated into three different centrifuge tubes. One tube was treated with 5 mL of pH 3 buffer, one was treated with 5 mL of pH 5 buffer, and the final one acted as a control, treated with 5 mL of grinding buffer. These three tubes were spun again for ten minutes. The pellets of each were resuspended in 20 mL of grinding buffer. 
+100 microliters from each tube was separated into three sets of test tubes, one tube was left empty to be the blank. There was a total of ten test tubes. 6 mL of water was added to each test tube (for the blank 8 mL of water was added) as well as 2 mL of reaction buffer to all tubes. 130 mM DCIP was added to all tubes except for the blank. The tubes were left to sit (in sunlight) for ten minutes, and then the absorbance was recorded at a wavelength of 420 in the Spec20 of each over three time points every ten minutes. 
+An ANOVA test was performed on the data to check for statistical significance. 
+
+
+Results:
+A general trend of increasing percent change as the environment became less acidic. As the average (timepoint 2 subtracted by timepoint 1) percent change decreases, meaning that each trial increased percent change. In Figure 1, the pH 3 group shows a decrease in the percent change between the initial time point and the final. The pH 5 group showed a positive percent change, but not as much as the control group (pH 7) did.  The ANOVA test paired with the Tukey-Kramer test showed insignificance between all of our groups. The p-value for the results was 0.616, also confirming the data was insignificant. 
+
+Discussion:
+Our results supported the hypothesis of this experiment: there was a decrease in the photosynthetic activity in the chloroplasts that were in an acidic environment. While these results were not significant, a trend can be seen and a correlation between the trend and the surrounding conditions can be assumed. As seen in Figure 1, acidic conditions negatively affect the process of photosynthesis and perhaps the ability of chloroplasts to function. At each time point during the experiment, for pH 5 and the control group (pH 7), the absorbance decreased. For the pH 3 group, the absorbance increased at 20 minutes and then decreased at 30 minutes. The absorbance is indirectly proportional to the photosynthetic activity of the chloroplasts. The DCIP, the dye used, starts out blue, and when reacted with chloroplasts, the substance is photo-reduced, causing the color to decrease [McCarty: 1965]. The absorbance of the sample depends on the photosynthetic activity and how well the chloroplasts are functioning; so, the lower the absorbance the greater the activity of the chloroplasts. Based on these results, we can correlate the lack of effective chloroplasts to lower pH environments. Although this experiment was done in vitro, these results can be relayed to real-life scenario. In the previous studies mentioned, it is shown that acidic conditions can be detrimental to the plant and its functions. These results support the research of Long et al. [2017], Ellsworth and Liu [1994], and Zhang [2014]. It is possible that the chloroplasts could have died as a result of the acidic conditions- lowering the overall photosynthetic activity of the sample. A study done by Doyle and others [2010] discussed the process of cellular distress in chloroplasts. The chloroplast’s stress causes extra excitation of electron within the membrane which causes a release of “reactive oxygen species” (ROS) during stressful stimuli or environments. Perhaps the reactive oxygen species adversely reacted with the mechanism that reduces DCIP, causing skewed results. 
+For follow up research, a larger range of pHs could be tested. This study could also be repeated, but more focused on the molecular chemistry that is occurring within the chloroplast in reaction to the acid. This would not only allow the researchers to better understand how acid affects the organelle, but also would determine if and how cellular stress could counteract DCIP. 
+
+
+Literature Cited:
+
+Benniston, A., & Harriman, A. (2008). Artificial photosynthesis, 11(12), 26–34.
+
+Caesar, J., Tamm, A., Ruckteschler, N., Leifke, A. L., & Weber, B. (2018). Revisiting chlorophyll extraction methods in biological soil crusts – methodology for determination of chlorophyll a and chlorophyll  a  +  b as compared to previous methods. Biogeosciences, 15(5), 1415-1424. doi:http://dx.doi.org/10.5194/bg-15-1415-2018
+
+Doyle, S., Diamond, M., & McCabe, P. (2009). Chloroplast and reactive oxygen species involvement in apoptotic-like programmed cell death in Arabidopsis suspension cultures, 61(2), 473–482. https://dx.doi.org/10.1093%2Fjxb%2Ferp320
+
+Evans, J. R. (2013). Improving Photosynthesis. Plant Physiology, 162(4), 1780. https://doi.org/10.1104/pp.113.219006
+
+He, G., Zhang, J., Hu, X., & Wu, J. (2011). Effect of aluminum toxicity and phosphorus deficiency on the growth and photosynthesis of oil tea (Camellia oleifera Abel.) seedlings in acidic red soils. Acta Physiologiae Plantarum, 33(4), 1285–1292. https://doi.org/10.1007/s11738-010-0659-7
+
+Kamaluddin, M., & Zwiazek, L. (2004). Effects of root medium pH on water transport in paper birch (Betula papyrifera) seedlings in relation to root temperature and abscisic acid treatments., (10), 1173–1180.
+
+Long, A., Zhang, J., Yang, L.-T., Ye, X., Lai, N.-W., Tan, L.-L., … Chen, L.-S. (2017). Effects of Low pH on Photosynthesis, Related Physiological Parameters, and Nutrient Profiles of Citrus. Frontiers in Plant Science, 8, 185. http://doi.org/10.3389/fpls.2017.00185
+
+Ma, P., Bai, T., & Wang, X. (2015). Effects of light intensity on photosynthesis and photoprotective mechanisms in apple under progressive drought, 14(9), 1755–1766. https://doi.org/https://doi.org/10.1016/S2095-3119(15)61148-0
+
+McCarty, R., & Jagendorf, A. (1965). Chloroplast damage due to enzymatic hydrolysis of endogenous lipids., 40(4), 725–735.
+
+Tongra, T., Mehta, P., Mathur, S., Divya, A., & Bharti, S. (2011). Computational analysis of fluorescence induction curves in intact spinach leaves treated at different pH, 103(2), 158–163. https://doi.org/https://doi.org/10.1016/j.biosystems.2010.07.019
+
+Xu, K., & Chen, H. (2017). Responses of photosynthesis and CO2 concentrating mechanisms of marine crop Pyropia haitanensis thalli to large pH variations at different time scales, 28, 200–210. https://doi.org/https://doi.org/10.1016/j.algal.2017.10.023
+
+Yadav, S., Mishra, A., & Jha, B. (2018). Elevated CO2 leads to carbon sequestration by modulating C4 photosynthesis pathway enzyme (PPDK) in Suaeda monoica and S. fruticosa, 178, 310–315. https://doi.org/https://doi.org/10.1016/j.jphotobiol.2017.11.022
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-22+at+4.45.03+PM.png&Size=48021&Type=image%2Fpng&F=F_11jYHPPPAr05gE0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average Percent Change in Photosynthetic Activity: between 10 and 30 minutes*************************************************************************
+
+
+

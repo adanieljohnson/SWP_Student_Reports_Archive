@@ -1,0 +1,91 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-25 13:29:33
+Author of this lab report is: Std_BxzjmorP
+ID: R_1lhIXbACvqhaczz
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Insignificant results indicate possible relationship between high photosynthetic activity in conditions of decreased salinity in Brassica oleracea
+
+Abstract:
+Photosynthesis is the antagonistic mechanism to respiration that produces oxygen.  As a crucial component to this planet’s ecosystem, its consistency is important.  With a continuously changing global climate, the rates of photosynthesis across all species is in question.  This experiment used a spectrophotometer to measure the levels of photosynthesis in kale leaves in 3 different salinity concentrations (0M, 0.3M, 0.6M).  It was hypothesized that lower levels of salinity would lead to an increased level of photosynthesis.  No significant data was obtained, though trend lines that point to a connection between low salinity and higher photosynthetic activity were observed. 
+
+Introduction:
+Photosynthesis occurs in plants and through three systems.  The first two, named Photosystem I and Photosystem II, are called the light dependent reactions [Nelson, 2006].  At the end of these reactions, the cell is left with NADPH, an electron carrier, which has tremendous energy potential, and a proton gradient.  The proton gradient, created by transferring electrons between carriers creates an electrical current that can create energy in the form of ATP.  The third component of photosynthesis is the light-independent reactions, also known as the Calvin Cycle.  The primary component of this cycle is the enzyme called RUBISCO.  This protein uses ATP to create 6-carbon glucose by the addition of CO2 and a 5-carbon ribulose phosphate.  With these three components, plants take light wavelengths and CO2 to produce energy stores in the form of glucose.  
+
+This experiment tests the photosynthetic activity of chloroplasts isolated from Brassica oleracea var. sabellica (commonly known as kale) leaves in the presence of 0, 0.3, and 0.6 molar solutions of NaCl. The world contains regions of varying salinity concentrations.  In the midst of an increasingly warmer global climate, ice caps are melting, lowering the average concentration of salinity due to the added water to the larger ocean system.  By conducting an experiment to find the best salinity for kale chloroplast function, insights into the evolutionary history of the plant can be discovered as well as finding useful information for farmers about the ideal salinity conditions in which to grow kale.  It is hypothesized that chloroplasts from kale will functional at optimal levels in a 0M NaCl solution.
+
+
+Materials and Methods:
+Four large kale leaves were obtained, rinsed and patted dry.  Then, the large veins were removed from the leaves and thrown away.  The remaining leaf portions were placed into a chilled mortar along with 10 milliliters of cold grinding buffer.  A chilled pestle was used to grind the two components into a slurry.  Once no more chunks of kale remained, 10 more milliliters of chilled grinding buffer was added and again ground into a homogenous mixture using the pestle.  Then, the mixture was strained through a tri-folded cheese cloth into a chilled beaker.  
+
+The strained product was poured into a 50 milliliter conical tube and placed into a centrifuge along with a second 50 milliliter conical tube containing the same volume of liquid in order to balance the machine.  The liquid was spun in the centrifuge for 3 minutes at 4oC and 1200rpm.  Once complete, the supernatant was poured into a second conical tube, leaving the debris on the bottom of the initial tube.  This supernatant was then spun for 10 minutes at 4oC and 2800rpm, again with a conical tube with the same volume for balance.  Once done, the supernatant was discarded, but the formed pellet was kept in the tube.  20 milliliters of grinding buffer was added to the pellet and carefully mixed with a pipet.  
+
+In addition to 100μl of the grinding buffer and pellet mixture to each tube, the contents in the following table were added to each tube.  Each tube was labeled number 1-10.
+
+Table 1: Contents of Reaction Tubes 
+Tube #	Label	DI H2O (mL)	DCPIP (mL)	Reaction Buffer (mL)	2M NaCl (mL)
+1	Blank	8	0	2	0
+2	0M - A	6	2	2	0
+3	0M - B	6	2	2	0
+4	0M - C	6	2	2	0
+5	0.3M - A	4.5	2	2	1.5
+6	0.3M - B	4.5	2	2	1.5
+7	0.3M - C	4.5	2	2	1.5
+8	0.6M - A	3	2	2	3
+9	0.6M - B	3	2	2	3
+10	0.6M - C	3	2	2	3
+Note: the DCPIP was added last due to its immediate activation by light. 
+
+	Once the tubes held the appropriate contents, an initial reading was taken with the photo spectrometer at 600nm and recorded.  Then, the reaction tubes were placed in the light for 10 minutes.  A second absorbance reading was recorded using the photo spectrometer.  Two more series of 10 minute light exposure were completed, and an absorption reading was taken after each period, for a total of four absorption reading on each sample.  Dishware was cleaned, the liquid was disposed of in the appropriate bin, and the spectrophotometer was turned off.  The statistical test Anova was utilized to determine the significance of results. 
+
+
+Results:
+The highest rates of photosynthesis were recorded in a 0M NaCl solution.  The decreased absorbance of DCPIP correlates to a continuation of photosynthesis during each of the 10 minutes of light exposure.  Standard error bars were calculated for each 10 minute period at each concentration of NaCl.  Standard error was calculated from the average of each of the three replicates in excel.  The p value recorded from the Anova statistical test was 0.067.  
+
+Discussion:
+The Anova statistical results of this experiment, detailed in Table 1 determined this experiment to be insignificant, as the p-value is 0.067.  Though it is relevant to observe the trends of photosynthetic activity in relation to the three different molarities tested.  The chloroplasts from kale had the lowest activity in 0.6M NaCl solution and the highest recorded activity in a 0M NaCl solution.  
+Charts 1 and 2 are representing the change in absorbance of DCPIP, a molecule that changes from blue to colorless when reduced.  This is a valuable way to measure photosynthetic activity, as the processes produce a reducing agent.  As photosynthesis occurs, a reducing agent is produced and turns DCPIP colorless [Noorudeen, 1982].  As the absorbance reading of DCPIP on the spectrophotometer decreases, photosynthetic activity increases.  
+In a study lead by Dr. Koyro in 2002, it was found that salinity does have a significant effect on the rate of photosynthesis.  Plant leaves contain stoma, which are the channels for energy intake of primarily CO2 and water.  The stoma must be open for photosynthesis to continuously occur.  Without them being open, the organism cannot take in water or CO2, central components to photosynthesis.  External salinity concentrations can effect the status of the stoma.  In too high or too low salinity concentrations, they may not be open and cannot function at optimal photosynthetic levels [Koyro, 2002].
+	This idea that salinity levels change the rate of photosynthesis was observed in two coral species, Porites lutea and Pocillopora damicornis.  In this experiment, lowered salinity levels caused a lowered rate of photosynthetic activity [Moberg, 1997].  These results are concerning because global warming has been linked with decreasing salinity concentrations.  As global temperatures rise, ice deposits melt, diluting the salinity concentrations.  It should also be noted that this is an average dilution.  Areas of high evaporation experience higher levels of salinity than areas with high rates of precipitation or ice melting [Durack, 2010].  
+
+
+Literature Cited:
+1.	Nelson, N., & Yocum, C. F. (2006). Structure and function of photosystems I and II. Annu. Rev. Plant Biol., 57, 521-565.
+2.	Noorudeen, A. M., & Kulandaivelu, G. (1982). On the possible site of inhibition of photosynthetic electron transport by ultraviolet‐B (UV‐B) radiation. Physiologia Plantarum, 55(2), 161-166.
+3.	Koyro, H. W. (2006). Effect of salinity on growth, photosynthesis, water relations and solute composition of the potential cash crop halophyte Plantago coronopus (L.). Environmental and Experimental Botany, 56(2), 136-146.
+4.	Moberg, F., Nyström, M., Kautsky, N., Tedengren, M., & Jarayabhand, P. (1997). Effects of reduced salinity on the rates of photosynthesis and respiration in the hermatypic corals Porites lutea and Pocillopora damicornis. Marine Ecology Progress Series, 157, 53-59.
+5.	Durack, P. J., & Wijffels, S. E. (2010). Fifty-year trends in global ocean salinities and their relationship to broad-scale warming. Journal of Climate, 23(16), 4342-4362.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Chart+1.png&Size=46591&Type=image%2Fpng&F=F_1pFi3iAdVchQ9wH
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Chart+2.png&Size=40757&Type=image%2Fpng&F=F_pyJ170idciitgrv
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.png&Size=90904&Type=image%2Fpng&F=F_2PnfSO6cwe73f77
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Chart 1: The % change of absorbance of DCPIP over time is observed in this graph. 
+Chart 2: Each molarity is represented with a different color. Each of the three groupings represent the average percent change of absorbance after 10, 20 and 30 minutes of light exposure.  *************************************************************************
+
+
+

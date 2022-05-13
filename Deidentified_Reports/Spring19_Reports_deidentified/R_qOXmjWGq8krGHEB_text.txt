@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-15 14:44:58
+Author of this lab report is: Std_IfbYKtBR 
+ID: R_qOXmjWGq8krGHEB
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Investigating PS II Activity of Spinach Leaves Across a pH Spectrum
+
+Abstract:
+This experiment evaluated the influence of pH on the activity of PS II in the chloroplasts of spinach leaves (Spinacia oleracea). PS II is the first step of photosynthesis involving light-energy capture, and this energy is then distributed to different points throughout the reaction chain by a series of redox reactions. PS II activity was measured by performing a Hill reaction, introducing DCIP as an alternative electron acceptor for PS II , and thus the drop in absorbance of DCIP as it was reduced served as the correlate of overall PS II activity. PS II activity was measured at a pH of 4, 7, and 10 in 3 samples each, and the mean values for each sample were taken. It was hypothesized that both pH 4 and 10 would show diminished PS II activity, with pH 4 having a greater hindering effect. The results of the experiment showed no statistically significant difference in the activity of PS II at any of the values in the pH range, a result which is not supported by similar studies. 
+
+Introduction:
+Photosystem II is the first step of the light-dependent reactions of photosynthesis. In this large protein complex, light-energy is absorbed by an electron and is passed off in a series of discrete steps until a high-energy electron leaves PSII, passed to plastoquinone, which carries the electron to cytochrome b6f in a series of redox reactions, releasing energy in discrete amounts along the way and using this energy to create a concentration gradient of protons, which provide the essential proton motive force which drives the ATP synthesis and the light-reactions of photosynthesis. In a system which is predicated on establishing a proton concentration gradient, it is clear that the surrounding pH will be of high consequence. The impact of both high and low pH on photosynthetic activity, specifically of PSII, has been well-researched. Past studies have indicated that altering the pH is actually a strategy used by cells to directly regulate the activity of PSII, demonstrating a connection between a drop in pH below 5.5, the inactivation of photosystem II, and a wave of Ca+2 release from the ER[Krieger : 1993].  Other studies show physiological responses to a rise in pH as well, such as an inactivation of PS II activity above pH 9.3, which also elicits the excretion of three unidentified polypeptides from PS II [Kuwabara : 1982]. In this lab, the activity of PS II of extracted from the chloroplast of spinach leaves (Spinacia oleracea) was recorded over a range of pH (4, 7, and 10) through performing a Hill reaction. DCIP was added as an alternative electron acceptor to plastoquinone, allowing a drop in the sample’s absorbance to be measured as a correlate of PS II activity as DCIP is converted into its colorless reduced form. It was hypothesized that the results would indicate a drop in PS II activity relative to pH 7 at both pH 4 and 10, with a larger drop off sustained at a pH of 4 due to the widespread impact that a significant rise in general proton concentration would have on the overall energy exchange of a system designed to build a specific concentration gradient. 
+
+Materials and Methods:
+The central vein of 4 spinach leaves was removed, and the leaf pieces were rinsed in water and blotted dry. A cooled, dry mortar and pestle were then used to mix the leaves with 10 mL of cold grinding buffer (400 mM sucrose in a tricine buffer of pH 8). After the spinach was ground into a paste, another 10 mL of cold grinding buffer was added and mixed into the slurry before the contents of the mortar were filtered into a cooled beaker. The suspension was then transferred from the beaker to a cooled centrifuge tube, and was subsequently spun at 200x G for 3 minutes at 4 degrees Celsius. The supernatant was then poured into a second centrifuge tube, and spun at 1000x G for 10 minutes at 4 degrees Celsius. The remaining supernatant was then emptied from the tube, and 20 mL of the cold grinding buffer was added to the tube and stirred until the pellet was re-suspended. This sample was then used to prepare 10 test tubes – 1 blank, containing 8 mL of water and 2 mL of pH 7 buffer, and 3 tubes for each test sample. The test sample tubes were prepared by adding to each one 100 microliters of the chloroplast-rich suspension, 6 mL of water, 2 mL of 130 mM DCIP, and 2 mL of whatever pH buffer was used for that sample, either 4, 7, or 10. Each mixture was then transferred into spectrophotometer cuvettes, and the spectrophotometer was blanked at 600 nm. The absorbances of every sample where then recorded every 10 minutes for 30 minutes. A one-way ANOVA test was then used to evaluate the differences seen in the percent change overtime in the absorbance of DCIP. 
+
+Results:
+The results of the trials show that the chloroplasts suspended in the pH 7 buffer were the only sample whose percent absorbance fell over the course of the experiment. The pH 4 and 10 samples experienced a slightly positive percent change in absorbance at the end of the 30 minutes. However, the One-Way ANOVA test that was performed across the three average percent changes yielded a p-value of .056 (with 2 d.f.), indicating that there was no significant statistical difference in the percent changes among the groups. As can be seen in figure 1, the samples with pH 4 and 10 both followed similar trends in their percent change over time, both experiencing an initial spike from 0-10 minutes, then a gradual decline from 10-20, followed by another spike. The pH 7 sample showed different behavior entirely, with its percent change gradually declining from 0-20 minutes, and then a slight upward trend from 20-30 minutes, although it remained the only sample to show a negative percent change by the end of the experiment, as indicated by figure 1.
+
+Discussion:
+The relationship of the results of the experiment to the initial hypothesis is more complex than expected. The raw data confirmed at least one aspect of it; the sample at pH 7 did in fact show the greatest degree of PS II activity as measured by percent change in absorbance of DCIP. However, the difference in this percent change from those undergone by pH 4 and 10 was not determined to be statistically significant, and the raw data only supports the notion that the pH 7 sample had the most PS II activity because it is the only sample that was shown to have any activity at all – the samples at pH 4 and 10 both ended with positive percent changes and absorbances slightly higher than when the trials began. Thus, the statistical analysis supports the null hypothesis, that there is no discernible difference in the activity of PS II across a spectrum from pH 4 to 10. The sudden rebound in percent change which was experienced by all three samples in the 20-30 minute period does not seem to make biological sense; however, when the data from 30 minutes is excluded in statistical analysis, the one-way ANOVA produces a p-value of about .244 - more significant than the p-value with the 30 minutes data included, but still far off from indicating a statistically significant difference. However, past experiments have proven this to be false. PS II activity has been shown to slow down or stop completely at pH higher than 9.3 [Kuwabara : 1982] or lower than 5.5 [Krieger : 1993].  These previous studies provide some context to the observed results for the samples at 4 and 10. Because the selected numbers for the range to be tested over went both significantly lower and significantly higher than these two bounds, the effect of the environment on the activity of PS II may have been exaggerated. It is therefore likely that the diminished levels of activity, which were expected, would have been observed had the samples with pH 4 and 10 been changed to 5.5 and 8.5, accounting for the possibility that the pH values which were used in the experiment were too extreme, and simply halted PS II activity immediately instead of gradually over time. It is also possible that the difficult to interpret results are simply the result of making changes that had too many variables to predict. As was previously discussed, the function of PS II at its core is to absorb energy from sunlight and pass that energy down a chain of redox reactions in order to make use of the energy. However, the series of redox reactions that take place are numerous and complex, and it has been shown that the reduction potentials of the electron acceptors of PS II are pH dependent [Knaff : 1975]. The consequence of this is that varying the pH levels of the environment in which PS II is active can have a wide array of compounding effects, modifying the rate or even the direction of the redox reactions which drive PS II activity forward.  Future experiments should have a less extreme range of pH environments tested, and experiments quantifying the pH-dependent changes in the reduction potentials of the electron carriers of the light-dependent reactions would be helpful for providing details with which to more accurately interpret experimental findings. 
+
+Literature Cited:
+1. Knaff DB. 1975. The effect of pH on the midpoint oxidation-reduction potentials of components associated with plant photosystem II. FEBS Letters. 60: 331-335.  2. Kuwabara T and Murata N. 1982. Inactivation of photosynthetic oxygen evolution and concomitant release of three polypeptides in the photosystem II particles of spinach chloroplasts. Plant and Cell Physiology. 23(3): 533 – 539.  3. Krieger A and Weis E. 1993. The role of calcium in the pH-dependent control of photosystem II. Photosynthesis Research. 37: 117 – 130.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=%25changeabsorbance.png&Size=67712&Type=image%2Fpng&F=F_1JDsH2ctjGwqVFo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 – Average % change in absorbance over time. Each data set is the result of taking the mean of the percent changes from three identical samples. The error bars represent the standard error of the sample.  *************************************************************************
+
+
+

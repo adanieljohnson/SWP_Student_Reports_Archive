@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-26 01:33:32
+Author of this lab report is: Std_heSHrUaR
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effects of Temperature on Electron Transfer Reactions and Photosynthetic Rates in the Spinach Chloroplasts
+
+Abstract:
+This study examined how extreme temperatures may affect photosynthetic rates in spinach chloroplasts by monitoring the reduced electron acceptor, DCPIP, through light absorbance values. Experimental groups of chloroplast were incubated in warm water baths (35°C and 45°C) for 10 minute durations over a total 30 minute time period, while the control group remained in room temperature conditions (21°C). It was found that each experimental group’s average percent change of absorbance from t=0 to t=30 minutes was significantly different from the values in the control group. However, a significant difference in absorbance percent change values between the two experimental groups was not observed. Chloroplasts exposed to the 35°C environment exhibited more inhibited photosynthetic activity conditions when compared to the chloroplasts exposed to the more extreme heat environment of to 45°C, which may be attributed to possible post-stress repair mechanisms of chloroplasts that are initiated by heat. 
+
+Introduction:
+Plants capture and store energy from the sun through photosynthesis (Johnson: 2017), which makes photosynthesis an important metabolic pathway for living organisms. However, a variety of natural, biological environmental conditions may alter the photosynthetic activity in plants, rendering it important to understand how photosynthetic rates are impacted by environmental factors. This particular experiment examines the photosynthetic activity in the chloroplasts of spinach leaves, as the spinach plant is a prevalent and important crop around the world. In addition, there is a definitive way to extract chloroplasts from spinach leaves that’s not demanding regarding the resources needed, creating ease when forming replications in controlled experiments. The majority of spinach in the U.S. is grown in California due to the optimal climate conditions; however, temperatures can rise quite high. As a result, it’s important to understand how these temperature changes, specifically high temperatures, may affect the enzymatic activity and photosynthetic rates of these spinach chloroplasts. Past studies have found that abnormally high temperatures, such as above 32°C will denature salient enzymes in chloroplasts and alter the conformation of proteins, negatively impacting the activities of photosystem I (PSI) and/or photosystem II (PSII)—light dependent reactions; photosynthetic rates will thus also drop (Smillie: 1978). The inactivation of the electron transport chain under unusually high temperatures is also expected to contribute to a reduction of photosynthetic activity (Chen: 2012). As a result, it is predicted that the photosynthetic activity of these chloroplasts will fall as the environmental temperatures rise above optimum growing conditions of about 20°C. The independent variable in this experiment is the environment temperatures spinach chloroplasts are exposed to, while the dependent variable is the light absorbance measurement of the samples. Constants of this investigation includes environmental light conditions and source of chloroplasts.  
+
+
+Materials and Methods:
+Four medium-sized spinach leaves were grinded and centrifuged twice to obtain a dense chloroplast solution that was used in the experiment. All treatment conditions utilized the 2,6-dichlorophenol indophenol (DCPIP) assay to determine how temperature can affect electron transport reactions; hence 130mM DCPIP solutions were included in the preparation of each sample of chloroplast. Hill reaction buffer (100mM phosphate, pH=6.5) was also included in the preparation of samples. 
+
+Five experimental groups, with three replicates in each, were utilized in this experiment. The first group did not include any chloroplasts and was subjected to room temperature (20°C) and normal room light conditions. The negative control group included chloroplasts; however, the samples were kept in dark conditions at room temperature. The chloroplasts of the positive control group were kept in room temperature but were also exposed to an external source of light—a desk lamp. The chloroplasts of experimental groups 1 and 2 were also exposed to an external source of light. However, groups 1 and 2 were both immersed in a warm water bath set at 35°C and 45°C, respectively, as these temperatures simulate real world land temperatures that spinach plants have the potential to grow in. 
+
+Absorbance was read for all samples at t= 0, 10, 20, and 30 minutes with a spectrophotometer set at 600 nm. Two-sample t-tests were conducted to compare average percent change between t=0 minutes and t=30 minutes amongst the positive control group and two experimental groups at an =.05.
+
+
+Results:
+As displayed in Figure 1, both the treatment without chloroplasts and the negative control group experienced a constant negative value percent change of absorbance at each of the time increment measurements. The positive control group exhibited an increasingly negative percent change over time. An increasingly positive percent change in absorbance values over time was observed in experimental group 1, while treatment group 2 maintained a consistent negative percent change over time.
+
+A two-sample t-test assuming equal variances was conducted on the average absorbance percent change between t=0 and t= 30 minutes for the positive control group versus experimental group 1 (t-statistic=-19.871, p-value=2.981e-6), the positive control group versus experimental group 2 (t- statistic= -12.687, p-value= 2.704e-5), and experimental group 1 versus experimental group 2 (t-statistic=2.083, p-value=0.0528).
+
+
+Discussion:
+This study investigated the direct effects of heat on electron transport activity and photosynthetic rates of the spinach chloroplasts. In optimal conditions, many electrons are transported through the electron transport chain. The alternate electron transport receptor, DCPIP, then becomes colorless as more electrons are accepted, resulting in the decrease of light absorbance.
+
+In this study, the positive control conditions were able to provide the spinach chloroplasts optimal conditions for photosynthetic activity as the chloroplasts were exposed to an external source of light that could potentially excite photons to generate reducing power in the form of NADPH. The ideal temperature of 20°C that the chloroplasts remained in, which is also comparable to spinach plants’ typical growing conditions, enhanced photosynthetic rates. Thus, the absorbance level decreasing over time as seen by the negative % changes in Figure 1 was to be expected since DCPIP was being reduced and changed to colorless.   
+
+	Past literature has cited heat as a source of photosynthesis inhibition, due to the rapid photo-inactivation of PSII at high temperatures (Yamane: 1998). Thus, in abnormally high temperatures, DCPIP is not expected to receive as many electrons from the electron transport chain and will remain a dark blue color, resulting in relatively high, constant absorbance values. Thus, the slight positive percent changes in absorbance over time in experimental group 1 was not out of the ordinary as the chloroplasts were exposed to a 35°C hot water bath. The heat effectively denatured the enzymes in the chloroplast, negatively impacted the transport of electron to DCPIP, lowered the capacity of light absorbance (raw absorbance values remained constant), and inhibited photosynthesis to an extent. The two-sample t-test between the positive control treatment and this experimental group’s average percent change from t=0 to t=30 minutes (p-value=2.981e-6) indicated there was a significant difference between the two.  
+
+It was then expected that photosynthesis rates of experimental group 2 chloroplasts, which were submerged in a 45°C environment, would then become even more inhibited due to the high heat. The absorbance values were expected to remain the same over time, as the heat would have dramatically reduced activity of the electron transport chain as well as the number of electrons DCPIP would  intake. However, absorbance rates were still observed to decrease over time slightly, as demonstrated by the negative percent change in Figure 1. This indicates that DCPIP was still able to capture an abundance of electrons, as its color during the experiment became lighter. The abnormally high environment the chloroplasts were exposed to did not negatively affect the electron transfer r reactions required for photosynthesis to the same extent as the 35°C environment did. This could be attributed to an activation of an endogenous repair mechanism instigated under extreme heat stress. In fact, a study on primary wheat leaves exposed to 45°C were able to utilize the heat to enhance photosynthesis I activity, which indicates a possible repair mechanism post-stress (Mohanty: 1987). When the average percent change from t=0 to t=30 of samples in experiment group 2 were compared to the samples from the positive control group in a two-sample t-test (p-value= 2.704e-5), a significant difference was still indicated. Thus, the photosynthetic rates of the chloroplasts exposed to 35°C environment as well as the chloroplasts exposed to a 45°C differed significantly from control conditions. 
+
+The non-significant result (p-value= 0.0528) when experiential group 1 was compared to experimental group 2 indicated that although in general, heat does significantly impact the photosynthetic activities of chloroplasts in spinach leaves, the specific temperature is not as salient. Photosynthetic activity of the chloroplast most likely deteriorates once outside of optimal growing conditions (20°C) altogether. Chloroplasts subjected to both 35°C or 45°C conditions responded with inhibited activity levels. The high heat simulations in this experiment could very well be possible environmental conditions found in areas where spinach plants are grown for agricultural purposes, which is why it’s important to understand the biological and chemical processes behind plant processes. Future studies should utilize more replicates in each treatment, as a larger sample size to maintain normalization is needed. Chloroplasts should also be examined over a longer period of time, as its been found that certain species of plants have the ability to recover post-stress but only under a 24-hour observation period (Mohanty: 1987).
+
+
+Literature Cited:
+Chen, W. R., et al. “Effects of High Temperature on Photosynthesis, Chlorophyll Fluorescence, Chloroplast Ultrastructure, and Antioxidant Activities in Fingered Citron.” Russian Journal of Plant Physiology, vol. 59, no. 6, Nov. 2012.
+
+Mohanty, Narendranath, et al. “Reversal of Heat-Induced Alterations in Photochemical Activities in Wheat Primary Leaves.” Photosynthesis Research, vol. 14, no. 3, 12 May 1987.
+
+Smillie, Robert, et al. “Effect of Growth Temperature on Chloroplast Structure and Activity in Barley.” Plant Physiology, 1978.
+
+Yamane, Yoshihiro, et al. “Effects of High Temperatures on the Photosynthetic Systems in Spinach: Oxygen-Evolving Activities, Fluorescence Characteristics and the Denaturation Process.” Photosynthesis Research, vol. 51, no. 1, July 1998.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.+Clustered+column+graph+displaying+absorbance+percent+changes+over+time+across+5+treatment+conditions++.png&Size=61030&Type=image%2Fpng&F=F_bl6LWdoZmb7FTgh
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Clustered column graph displaying absorbance percent changes over time across 5 treatment conditions 
+
+
+*************************************************************************

@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 10:39:16
+Author of this lab report is: Std_yVlRbO16
+ID: R_28NBl7FerRGa3Pz
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The Effect of Lidocaine on Rana pipiens Sciatic never and Gastrocnemius muscle
+
+Abstract:
+This experiment was conducted to see the effects of lidocaine, a known sodium channel blocker, and its effects on the minimal threshold amplitude of the Rana pipien legs. The legs were dissected to isolate the sciatic nerve and gastrocnemius muscle. The muscle was injected with 0.1mL of Lidocaine once, and then stimulated with electric pulses and observed visually. Three Rana pipien legs were used in this experiment. From the results collected, there was a significant difference between the amount of energy used in the control and treatment groups. The treated legs needed significantly more energy for there to be a visible twitch compared to the control legs. After a paired t-test, the P-value was 0.019, meaning there was a significant difference between the groups. 
+
+Introduction:
+Invertebrates and vertebrates rely on the neuromuscular system for rapid intracellular communication. In today’s experiment we will observe the movement of Rana pipiens gastrocnemius muscle and the sciatic nerve.  To properly comprehend the overall effects of these observations, it must be noted that skeletal muscles are composed of hundreds to thousands of myofibers, which are cylinder-shaped, multinucleated, and fused cell. Myofibers are bound together by connective tissue to form functional groups. Within these groups motor neurons are embedded in the skeletal muscles, it’s cell bodies are in gray matter of the spinal cord. Motor neurons have axons that reach out into the muscle then branch out to innervate several individual myofiber at locations known as neuromuscular junctions. Nerve impulses reach the neuromuscular junction causing for acetylcholine(ACh) to be released from the presynaptic nerve terminal. It binds with receptors located on the membrane of the muscle fibers, causing for sodium channels to open to generate an action potential in the muscle fiber. The action potential travels down the muscle fiber causing for Ca2+ to be released from the sarcoplasmic reticulum, an internal storage unit site. The release of calcium ions causes for muscle fibers to contract, causing the muscle fibers to shorten. [Johnson:2018] Rana pipiens were used due to them being relatively easy to prepare for dissection and easily accessible somatic nerve. The muscle will be injected with a known sodium channel blocker, Lidocaine, typically causing muscle paralysis.  In a previous experiment that observed the interactions of Lidocaine and calcium by Saito et al, it was recognized that a significant portion, about 60% of sodium channels are opened in a resting state but when lidocaine is injected into the muscle, the number of sodium channels decrease. [Saito, Tomoaki, Kithata, Stagg, Collins, Scurlock: 1984] Due to this occurrence, the lack of sodium channels opening when injected with lidocaine inhibits the release of an action potential which is necessary for calcium ions to be released for there to be a muscle contraction. We wanted to see the effects of Lidocaine on the somatic nerve and gastrocnemius muscle minimal threshold twitch, which is the least amount of voltage needed to see a visible twitch like movement of the muscle and electromyogram, a visual representation of muscle contraction. More energy will be needed to reach a minimal twitch threshold amplitude after being injected with lidocaine, due to it blocking sodium channels, which are necessary for action potential to travel down the muscle fiber. If action potentials are limited then there will be no releasing of Ca2+ ions, which activate the contractile mechanism of the leg. So, the voltage after lidocaine is injected will increase due to the muscle not being able to contract. This experiment will be conducted by using three Rana pipien legs, connecting them to the stimulating device that releases electrical currents. As a group, we infer that the minimum threshold amplitude of the Rana pipiens will increase in voltage after the lidocaine is injected.
+
+Materials and Methods:
+While wearing vinyl gloves, three Rana pipien legs were collected and placed on a dissecting pan. The skin was removed by pulling from the top of the leg and pulling down towards the foot. The frog was then placed on the dissecting pan and moistened with Ringer’s solution. A dissecting probe was used to separate the inner thigh muscle. The muscle was cut not to close to the knee.  A thread was tied to the recently cut muscle and hung on a stand with a device specifically made for hanging things that are a few grams heavy. After this it was kept in Ringer’s fluid to avoid dryness of the leg. The sciatic nerve was then exposed after cutting minimally into the upper thigh of the Rana pipien. The muscle is then pinned down in a tent-like fashion on the dissecting tray. Pinning the sciatic nerve is to be avoided to not damage the nerve. The muscle that was tied onto the hanging device is to be adjust to a 90-degree angle with the rest of the leg is pinned down on the tray. The device that releases electrical impulses, IWX/2, its forceps will be places underneath the sciatic nerve. The device was then connected to a laptop and to the iWorx program. Once the program was pulled up, the starting values were set up on the control panel as, the pulse amplitude(Amp) as 0.000V, Number of pulses to 1, Frequency to 1, and Pulse width to 5ms.  The apply button was then pressed and record, to the leg. The stimulus amplitude was then increase to 0.1V by pressing the up arrow in pulse amplitude, pressed apply, and began recording. There was an increase and decrease in pulse amplitude to see where the minimum amplitude where there was a visible twitch and on the electromyogram. Then 0.1 mL of lidocaine was injected into the muscle of the Rana pipiens. Eight minutes elapsed before the muscle was stimulated again. The same procedure was repeated as before. Each leg went through this process to determine the minimum amplitude threshold. To calculate our statistical data, we used a paired t-test. 
+
+Results:
+Before the Rana pipiens legs were treated with lidocaine, there was a significant difference between the threshold amplitudes, P-value was 0.019, which is lower than the 95% confidence interval. (P=0.05 or less). There were drastic differences in the means of the control and treatment group. The control group without lidocaine mean was 0.0803V±0.005. The treatment group with lidocaine mean was 0.250±0.037. The degrees of freedom were 3 from the data collected.
+
+
+
+Discussion:
+We accept our hypothesis, the Rana pipien legs that were treated with Lidocaine, increasingly need higher frequency amplitudes to observe a visible twitch. Lidocaine is a known sodium blocker, and from a previous experiment by Wang et al, it was recognized that lidocaine is more repressive than purer forms of sodium blocker such as TTX and A-803467. [Wang et al:2015] They studied lidocaine and the two other regional anesthetics to see which one blocked the most nerves. In their discussion, they mentioned that lidocaine might also inhibit potassium and calcium channels from functioning too, causing it to be more effective anesthetic. It should be also noted that it to significantly more energy to cause the treated Rana pipiens legs to twitch. Due to muscles relying on action potentials to trigger Ca2+ ions to be released to cause muscle contraction, it was inevitable that lidocaine would not have affected the twitch amplitude of the treated Rana pipien legs. [Johnson:2018]
+
+Literature Cited:
+Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 5, 2018), pp. 8-13
+
+
+Saito, Hachiro, Tomoaki Akutagawa, Luke M. Kitahata, David Stagg, J. G. Collins, and James E. Scurlock. “Interactions of Lidocaine and Calcium in Blocking the Compound Action Potential of Frog Sciatic Nerve.” Anesthesiology: The Journal of the American Society of Anesthesiologists 60, no. 3 (March 1, 1984): 205–8.
+
+Wang, Xiaojia, Cheng Zhou, Peng Liang, Jun Yang, Fengshan Li, Daqing Liao, Han Huang, and Jin Liu. “Characterization of Specific Roles of Sodium Channel Subtypes in Regional Anesthesia:” Regional Anesthesia and Pain Medicine 40, no. 5 (2015): 599–604. https://doi.org/10.1097/AAP.0000000000000294
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2018-03-27.png&Size=143555&Type=image%2Fpng&F=F_2tyPEr8SorQA6cg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Graph of the average voltage(V) needed to for visible twitch to be seen in electromyograms and student. The mean for the control group is 0.0803±0.005 volts and the mean for the treatment group was 0.250±0.037 volts. The error bars demonstrate the standard deviation of both groups. To obtain this statistical data, a paired t-test was used. 
+
+*************************************************************************

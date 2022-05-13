@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-20 16:43:53
+Author of this lab report is: Std_VxPhLyKQ
+ID: R_3nf1R2mQTTftgrp
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The effect of Lidocaine on Rana pipians muscle contraction 
+
+Abstract:
+Signaling process within muscles play an an important role for everyday functions. We injected Lidocaine into the gastrocnemius muscle in frogs’ legs to determine if it would change the strength of their muscle contraction compared to values measured in a control group where lidocaine was not injected. Three frog legs were used, each as a treatment and a control group. The control groups’ values were found in the first trial for each leg without injecting lidocaine, while the variables for the experimental group were determined after injecting lidocaine. I hypothesized that the frog legs with lidocaine would not twitch as strongly as the same frog legs without lidocaine in them, because I assumed that lidocaine would have closed sodium channels, resulting in an impossibility for the muscle to depolarize, creating an efficient action potential. Our p-value for the experiment was 0.219, so our results were not statistically significant, although we could see a visible difference. Research on muscle contraction is useful for biomedical sciences, leading to the creation of new drugs.
+
+Introduction:
+The gastrocnemius muscle is a skeletal muscle found in frog legs (Rana pipians). Every skeletal muscle is composed of thousands of myofibers [Johnson:2018]. Those myofibers are connected all together to create functional groups, which are the skeletal muscles proper. Skeletal muscles are attached to a motor neuron which innervates the myofibers in points called neuromuscular junctions. Motor neurons can send electrochemical signals to other neurons. The sciatic nerve controls the gastrocnemius muscle in frogs. Gastrocnemius muscles can be removed from the leg of the frog, and as long as it is connected to the sciatic nerve, it will respond to electrical stimulation. Acetylcholine is the main neurotransmitter for muscle contraction, and it usually leads to the opening of sodium channels, creating a new action potential. Lidocaine is a substance that blocks sodium channels [Bruce:1983]. Our biological question is: how can lidocaine affect the strength of twitching in the gastrocnemius muscle? We are studying this because in the future it may be helpful to create new drugs affecting muscle relaxation. I hypothesized that if we use lidocaine as our solution for neuromuscular stimulation, then the sodium channels will be suppressed, leading to a decrease in the total number of action potentials.  
+
+Materials and Methods:
+We selected three frog legs of different dimensions. Then, we dissected the frog legs by taking off the skin and keeping their sciatic nerve-gastrocnemius muscle connection intact. At this point, we separated the sciatic nerve from the tissue that was connected around it. Then, we hung the gastrocnemius muscle with a string and put the electrodes inside the gastrocnemius muscle. Then, we applied a voltage of 1.5 V for 5 seconds in order to make the muscle twitch. After, we rinsed the frog legs with ringer’s solution often in order to make the muscle function properly. For our control group, we tested the twitch intensity of the muscle at a voltage of 1.5 V for each leg for five seconds. Then we injected 1mL lidocaine into the gastrocnemius muscle and waited for three minutes in order to make the substance work in the muscle. After we waited for three minutes, we measured the twitch intensity of the legs under the effects of lidocaine at a voltage of 1.5 V. All three legs were tested in order to get a more accurate result. Then we used a paired t-test to test statistical significance.
+
+Results:
+Overall the mean of the intensity of the twitches of the three frog gastrocnemius legs for the control group was higher than the average value found for the experimental group. Specifically, the average value for the control group was almost thirty-six times higher than the value found for the experimental group (figure 1). The standard deviation for the control group was large, which means that the observations were far from the mean. The p-value that we got for the experiment was determined by applying a paired t-test. The p-value was 0.219, which is greater than 0.05, meaning that our results were not statistically significant. However, our experiment showed a visible difference in the intensity of twitches between the experimental and the control group.
+
+Discussion:
+Our hypothesis was not statistically confirmed, meaning that our null hypothesis was accepted. Although we visually detected a difference between the intensity of twitching between the two groups, without a significant p-value, we cannot say that these visual results were due to chance.  We need to take into consideration that the assumptions and the results we had may be just a case. The null hypothesis is supported from the results of the experiment, meaning that 1mL of lidocaine does not have (statistically speaking) a significant effect on twitch intensity. Though, based on empirical observation, we would say the opposite. Since the experimental group did not show as strong of twitches as the control group did, and that sodium channels form the basis of excitability in skeletal muscle [Balser:1996], we would say that lidocaine effectively blocked the sodium channels, leading to a decrease in intensity of twitching in the experimental group. This suggests to us that a way to redo the experiment, in order to make it statistically valid, would be to increase the number of frog legs that we use for the experiment and to choose legs of the same size. We know that muscle contraction is caused when the motor neurons innervate skeletal muscles creating a depolarization, causing channels, especially the sodium channels, to open, generating an action potential in the muscle fiber [Johnson:2018]. This knowledge may lead to many important applications. Research on muscle contraction may be applicable in the creation of anesthetics. 
+
+Literature Cited:
+
+Bean BP, et al. 1983. Lidocaine block of cardiac sodium channels. The Journal of general physiology. 81(5), p.613.
+
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-19.
+
+Balser J.R.,et al. 1996. Functional consequences of lidocaine binding to slow-inactivated sodium channels. The Journal of general physiology. 107(5): pp.643-658.
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=real+data.png&Size=202720&Type=image%2Fpng&F=F_1IE0peXbnRalcO0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Mean intensity of action potential for both experimental and control groups with standard deviation*************************************************************************
+
+
+

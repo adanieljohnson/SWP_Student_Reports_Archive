@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-13 12:24:45
+Author of this lab report is: Std_fsjw1QfC
+ID: R_1n6oLIP2cyXMHG8
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Azadirachtin Affects Ecdysterone Production in Manduca sexta 
+
+Abstract:
+In the complex life cycle of Manduca sexta, endocrine signals are needed to advance the organism from egg to larva, larva to pupa, and pupa to an adult moth. The insect growth regulator azadirachtin causes the inhibition of the effects of an ecdysteroid hormone, ecdysterone, in larvae of Manduca sexta. As ecdysterone effects are inhibited by a low dosage of azadirachtin, the timing of molting is disrupted and the Manduca sexta are delayed in their transition to the pupal stage in their life cycle. It is reasonable to assume that the Manduca sexta which were exposed to azadirachtin in their diet, would have a greater mass increase than those that are not exposed to azadirachtin in their diet. However, this experiment determines that there was no significant difference between an experimental group of larvae that ingested a diet with azadirachtin and a control group of larvae that ingested a diet with distilled water because the p-value was 0.554. Further experiments would be needed to completely demonstrate the effects of azadirachtin on the mass increase of Manduca sexta.
+
+Introduction:
+Manduca sexta are insects in the order Lepidoptera that go through a holometabolous life cycle of 39-48 days [Johnson:2018]. They advance through four stages of life which consist of being an egg, larva, pupa, and eventually, an adult [Johnson:2018].  M. sexta larvae look significantly different from the adults, suggesting major development during their pupal metamorphosis. Three hormones control most of the development through the stages of the M. sexta life cycle to facilitate maturing from the larva into an adult moth. Prothoracicotropic Hormone (PTTH) regulates the release of ecdysterone (20E), another hormone, by stimulating the prothoracic gland [Johnson:2018]. Ecdysterone regulates the timing of molting during the M. sexta’s development and works together with Juvenile Hormones (JH), which determine the type of molt [Johnson:2018]. These endocrine signals can be disrupted by “insect growth regulators” (IGRs), by blocking or enhancing the effects of JH or 20E [Johnson:2018]. Azadirachtin is an IGR used to inhibit the effects of 20E and cause molt inhibition [Johnson:2018]. The effects of azadrachtin have been tested on larvae of Oncopeltus fasciatus, the milkweed bug, by injecting the insects with varying concentrations of the IGR [Dorn :1986]. This study focused on the dose-dependent effects of azadirachtin by using either low, medium, or high dosages and determining how the process of molting differed depending on the dose that each insect received [Dorn :1986]. The results found that at lower doses of azadirachtin, molting still occurred, but was delayed, whereas at medium and high dosage, molting was inhibited and the Oncopeltus fasciatus became permanent larvae [Dorn :1986]. However, in all cases, the ecdysteroid (ecdysterone) peak was either delayed or present at a lower amount, which suggests that the azadirachtin inhibits normal ecdysteriod functions [Dorn :1986]. With regards to the results of the Oncopeltus fasciatus study, it would be reasonable to say that if Manduca sexta were exposed to azadirachtin in their diet, then they would have a greater mass increase than those that are not exposed to azadirachtin in their diet. The larva ingesting the IGR would not be able to molt due to the inhibition of ecdysterone, but would continue growing as larvae, becoming larger. 
+
+Materials and Methods:
+To test our hypothesis, eight Manduca sexta were collected, massed, and separated into a control group of four and an experimental group of four. Each Manduca sexta in the control group was given ten grams of food mixed with seven drops of distilled water, while each one in the experimental group was given ten grams of food mixed with seven drops of AzaMax, which contains a small percentage of azadirachtin. Once each caterpillar received its food supply, they were put in the incubator for one week, being massed each day.  Food mixed with the appropriate supplement was added as needed. After data collection, a two-sample, one-tailed t-test was used to compare the average mass differences of the control group and experimental group to determine whether the difference in mass was significant. 
+
+Results:
+The data results show that overall, the control group showed a greater increase in mass and that one larva in the experimental group had even lost weight over the seven-day experimental period. Throughout the week of data collection, all the larvae had gained weight significantly in the first four days and then around day five, began to decrease in weight. In addition to losing weight, all larvae had entered commitment pulse by the fifth day of the experiment. By day seven, one of the larvae in the control group began pupating. Using data, the means for mass difference in both groups were calculated and a two-sample t-test was used to compare them. Figure 1 shows that the average difference in mass for the control group, 4.145 grams (+/-) 2.39, is greater than the average difference in mass, 1.1875 grams (+/-) 1.06 for the experimental group. With 6 degrees of freedom and a t-value of 1.887, the one-tailed p-value was 0.0554. Therefore, the difference in the control group and experimental group average mass increase was not statistically significant.
+
+Discussion:
+The statistically insignificant results lead to the conclusion that the Manduca sexta exposed to azadirachtin in their diet did not have a greater mass increase than the ones that were ingesting the regular diet with distilled water, which rejects our alternate hypothesis. Since AzaMax has a very small percentage of azadirachtin, the Manduca sexta were receiving an extremely small dosage to account for any effect in their metamorphosis. In the Oncopeltus fasciatus study, the small doses of azadirachtin (0.00098-0.03125 µg) did not prevent molting of the insect but delayed the process [Dorn :1986]. This concept is also shown with the Manduca sexta because all the larvae (control and experimental) entered their commitment pulse, which shows that the larvae exposed to the IGR still had a small rise in 20E to prepare for pupation. However, none of the experimental group began pupating while one control larva entered the pupa stage on day seven of the experiment. Hence, azadirachtin delayed further development from the commitment pulse, but was not in enough concentration in their diet to cause a significant mass increase. To determine how azadirachtin affects weight of larva, a larger dose would have to be used or another method, such as injection, would be needed to know exactly how much azadirachtin each larva is receiving. In addition, other IGRs could be used in place of azadirachtin to develop a deeper understanding of how chemicals affect the endocrine systems of insects, which can help in the field of agriculture by showing which chemicals are most effective as pesticides. 
+
+Literature Cited:
+1.Johnson AD. Hormone Regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-salem, NC. Vers. 18.2 (updated August 2, 2018) pp. 5-13.
+
+2.Dorn, A., J. M. Rademacher, and E. Sehn. "Effects of azadirachtin on the moulting cycle, endocrine system, and ovaries in last-instar larvae of the milkweed bug, Oncopeltus fasciatus." Journal of Insect Physiology 32.3 (1986): 231-238.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+lab+report.png&Size=13787&Type=image%2Fpng&F=F_1DPjJJUC2qVMF4C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The average mass increase for Manduca sexta given water as a diet supplement (control) versus Manduca sexta given Azadirachtin (AzaMax) as a diet supplement (experimental). The average mass increase for the control group was greater than that of the experimental group. The caterpillars were separated into two groups of four (4 control and 4 experimental). Each caterpillar was weighed everyday for 7 days and food with the proper amount of supplement (7 drops/10 grams of food) was added as needed. Each bar is the average mass increase of either the control group of caterpillars (left) or the experimental group of caterpillars (right); error bars are (+/-) 1 s.d.*************************************************************************
+
+
+

@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-01 02:03:44
+Author of this lab report is: Std_NqAN9PP0
+ID: R_cSHuN2hkcp2kVxv
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The effect of Sevin on the threshold potential of Frog Legs skeletal muscles
+
+Abstract:
+Skeletal muscle fibers form neuromuscular junctions where they are innervated by the axons of motor neurons. Neurotransmitters play a vital role in signaling the firing of an action potential, including in the muscle of a frog leg. I would hypothesize that if sevin was added to the sciatic nerve of the frog leg, then the threshold for action potentials to fire would increase because the ACh in the synaptic cleft will not be properly recycled, thereby increasing the threshold by requiring more ACh molecules to be released to fire action potentials. We used three frog legs and each frog leg acted as its own control and treatment group. The measurement of the threshold of the control group was taken by laying the sciatic nerve over probe, the same procedure was done for the treatment after the leg was injected with a 2% solution of sevin and allowed to rest for 5 minutes. The results of this experiment were not statistically significant with a p value of 0.423. Our results indicate that the thresholds from control to treatment were largely unaffected, except in one replicate. In the future, we should consider testing for a factor other than threshold and consider more replicates. 
+
+Introduction:
+Skeletal muscle in both vertebrates and invertebrates consists of hundreds to thousands of myofibers, which are cylindrical, multi-nuclear, fused aggregates of cells. skeletal muscles are innervated by motor neurons. Axons of motor neurons extend into a muscle then branch out to innervate several individual myofibers, at points called neuromuscular junctions (Johnson:2016). The arrival of an action potential at a neuromuscular junction causes the release of the neurotransmitter acetylcholine (ACh) from the presynaptic membrane. The ACh migrates across the synaptic cleft to the postsynaptic membrane, opening sodium channels that generate action potentials. For the action potential to fire the postsynaptic membrane must be sufficiently depolarized so that it reaches a threshold, where the all or nothing nature of action potentials cause it fire. Once the signal is conveyed to the postsynaptic membrane, the ACh in the synaptic cleft is recycled by the enzyme acetylcholinesterase (AChE). AChE breaks down ACh into its component parts acetic acid and choline, effectively recycling the ACh molecules for further action potentials to fire (Goodsell: 2004). In this lab, we will use Sevin, a known AChE inhibitor, to see how it will affect the threshold potential of a frog leg. Will the presence of Sevin disrupt action potentials? Will Sevin alter the threshold quantity? Will Sevin cause the muscle to stop contracting? I would hypothesize that if sevin was added to the sciatic nerve of the frog leg, then the threshold for action potentials to fire would increase because the ACh in the synaptic cleft will not be properly recycled, thereby increasing the threshold by requiring more ACh molecules to be released to fire action potentials. The dependent variable is the voltage response and the independent variable is the amps of stimulus. 
+
+Materials and Methods:
+In this experiment we used 3 frog legs, each frog leg acted as both the control and experimental group. The frog legs were deskinned and dissect, to innervate the nerve properly. The sciatic nerve of the frog leg was exposed and careful lain over the probes that innervate the nerve. The threshold of the control was tested by starting at 0 amps and increasing until the first evidence of a contraction and a voltage response, initially increasing by 0.1 and later increasing in smaller increments to fine tune the exact threshold. The threshold of the control group is tested in the same manner except the frog leg is first injected with a 2% solution of sevin and rested for five minutes before being tested. The frog legs were sprayed with ringer solution intermittently to ensure that they did not dry out. The statistical test we used was a Paired T-Test, because we have a continuous variable that is the same in paired data. 
+
+Results:
+Our results indicated that the threshold for all the replicates except frog leg number 3 stayed the same from control to treatment. The threshold for the legs were as follows: leg 1 was around 0.175 amps, leg 2 was around 0.1 amps and the control of leg 3 was at 0.175 and the treatment of leg 3 was at 0.15 amps. As indicated by figure 1, the voltage response of each frog leg, except leg 2, at the threshold was higher. When observing the contraction of the muscle we noticed no evidence of fatigue or difficulty contracting. The paired T test resulted in a p value of 0.423.
+
+Discussion:
+We can conclude that our data supports the null hypothesis that adding a 2% solution of sevin to the sciatic nerve of a frog leg will not increase the threshold compared to the control that is not given sevin. Our data also does not support the alternative hypothesis, we saw that in most of our replicates that the thresholds between control and treatment stayed the same, furthermore the data was found not to be significant as our test resulted in a p value of 0.423. In analyzing our results, we should have more carefully considered the function of the enzyme AChE and how an inhibitor of AChE would affect this data. The function of AChE is to recycle the ACh that remains in the synaptic cleft (protein bank). An inhibitor of AChE, such as sevin, would inhibit AChE from being released, which would in turn stop ACh in the synaptic cleft from being recycled. This would have the effect of increasing the effect of ACh because there would be more of the neurotransmitter in the synaptic cleft (Budson: 2009). Since sevin would effectively increase the amount of ACh in the synaptic cleft it stands to reason that the thresholds would be largely unaffected from control to treatment. We noticed that at each threshold, except for one, the voltage response of the treatment group was higher than the control group. This indicates that in the future, instead of testing for the threshold we should consider testing the strength of the voltage response. This experiment could also be improved by testing more replicates, as well as testing the threshold quantities we found more than once to ensure that we had accurate results. Our results were invaluable in helping us understand the role that neurotransmitters play in the generation of muscle contraction, and how they can be manipulated to create different effects in the contraction of muscles. 
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), 17-18
+2.	Goodsell David. Acetylcholinesterase. Protein Data Bank. Accessed October 31, 2018. &lt; https://pdb101.rcsb.org/motm/54&gt; 
+3.	Budson Andrew and Solomn Paul. Acetylcholinesterase inhibitor. Encyclopedia of Neuroscience. Accessed October 31, 2018&lt;https://www.sciencedirect.com/topics/neuroscience/acetylcholinesterase-inhibitor&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+legs+chart.png&Size=17425&Type=image%2Fpng&F=F_3pl6H6RDq6C6HSr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure1. The voltage response at threshold for control and experimental groups*************************************************************************
+
+
+

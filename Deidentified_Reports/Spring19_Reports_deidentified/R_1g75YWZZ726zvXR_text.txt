@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-13 05:08:44
+Author of this lab report is: Std_T1wRfjlS
+ID: R_1g75YWZZ726zvXR
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The Effects of Ecdysterone Inhibitor on the Growth Rate of Manduca Sexta Caterpillars
+
+Abstract:
+This study sought to understand the effects of inhibiting ecdysterone (20E) – one of two important growth hormones in several insects – on the growth rate of Manduca sexta caterpillars. It was hypothesized that inhibiting this hormone would affect the rate of growth, although it was not specified how. The hypothesis was tested by monitoring four experimental and four control caterpillars for 14 days. The experimental group had its food treated with 20E inhibitor while the control had their food treated with distilled water to clear out any differences in texture. Though the data proved to be inconclusive due to its insignificance stemming from the two-tailed p-value, there is likely a correlation because the insignificance was caused by an outlier in the control group. This study should be repeated on a larger scale before any conclusions can be drawn.
+
+Introduction:
+When certain genes are expressed, they code for hormones which are then pumped throughout the body where they trigger a response within cells. Two types of hormones found in Manduca sexta caterpillars are Juvenile Hormone (JH) and Ecdysterone (20E). Both hormones are crucial to the caterpillar’s development. The amount of each hormone is essential because certain levels of both trigger specific stages of the caterpillar’s pupation until eventually becoming a moth. M. sexta caterpillars have five instar larva stages before becoming a pupa and finally emerging as an adult moth. Each instar phase serves to allow the caterpillar to shed its exoskeleton so that it can continue to grow. To trigger the pupa stage, JH levels drop while 20E levels jump slightly. Without both phenomena, the caterpillar will not pupate and will remain a caterpillar. 20E regulates the timing of molting and JH controls the type of molting. It should be said that these hormones are also important when it comes to changing instar stages because the M. sexta caterpillars are constantly growing until pupation and must shed their exoskeletons five times to create the space necessary – hence the five stages. This experiment seeks to study the effects of inhibiting 20E on M. sexta caterpillars. We predict that if the 20E hormone is inhibited prematurely, then it will affect the rate of growth of the caterpillars.
+
+Materials and Methods:
+We…
+1.	Acquired and weighed eight Manduca sexta caterpillars. The weights were recorded as the weights for day 0.
+2.	Placed one caterpillar in each cell of the two trays after punching air holes in each cell to ensure air flow.
+3.	Weighed out about 20 grams of caterpillar food. We wet it with eight drops of distilled water and mixed thoroughly before forming into a ball.
+4.	Placed the food in the corner of the cell the furthest from the center of the tray.
+5.	Repeated steps 3-4 for each cell.
+6.	The cells were labelled. This was the control tray.
+7.	Repeated steps 2-6 except we used 20E inhibitor instead of distilled water to create the experimental tray.
+8.	Checked on the caterpillars daily for two weeks and replaced food as necessary (whether it was dried out or there was nothing left) and we cleaned out the cells of feces as necessary.
+9.	Weighed the caterpillars daily and recorded.
+10.	Analyzed the average rate of growth for each caterpillar using a two-sample t-test using the two-tailed p value.
+
+
+Results:
+It was found that the growth rate of the experimental group was less than that of the control growth rate. However, while not reaching the same peaks and extremes, the control growth rate and the experimental growth rate followed a similar trend (see Figures 1 and 2) of keeping a positive rate of growth until about day six at which point the rate of growth went negative before finally leveling out around day 12. These graphs support the observations made. The experimental group did not visibly grow much while control caterpillars 1-3 grew to become very plump and large. Control 4 did not grow much if at all. The mean average rate of growth was not statistically significant than that of the control group (t-stat = 1.92, df = 6, P = 0.103).
+
+Discussion:
+The results of this lab just missed statistical significance. This means that they are invalid and the null hypothesis that inhibiting 20E does not affect the growth rate of Manduca sexta caterpillars must be accepted and the alternate hypothesis rejected. While the 20E was inhibited, the caterpillars still managed to follow the same trend as the control group, just not to the same extremes. The lack of 20E affected nothing more than their size while their development continued; however, they did not visibly increase in size. Because JH was not treated, the caterpillars continued along the normal developmental path just without the necessary weight gain required to become pupate into a moth. The control group, whose JH and 20E worked together, followed a normal path of development and two caterpillars became pupa just as the experiment was ending. A possible source of error is that control 4 was an outlier. A runt, control 4 severely altered the data collected and the data suddenly becomes valid (t = 4.10, df = 5, p = 0.0093). Due to this finding, another experiment should be run using the same procedure and perhaps with more test subjects to obtain more accurate results. 
+
+Literature Cited:
+I could not find any scholarly sources involving ecdysterone, I will continue to look.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2.png&Size=46782&Type=image%2Fpng&F=F_3PZHkKA36KAVUHE
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=1.png&Size=100831&Type=image%2Fpng&F=F_TwiY3vnAAy5yssF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph depicts the rate of growth day-to-day of each member of the control group of caterpillars.
+Figure 2: This graph depicts the rate of growth day-to-day of each member of the experimental group of caterpillars.
+*************************************************************************
+
+
+

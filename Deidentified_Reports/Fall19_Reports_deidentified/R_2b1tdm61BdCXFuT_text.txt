@@ -1,0 +1,120 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-29 18:28:44
+Author of this lab report is: Std_e1BgYWzK
+ID: R_2b1tdm61BdCXFuT
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: Photosynthetic Rate as impacted by NaCl Concentration
+
+Abstract:
+The purpose of this study was to study how varying NaCl concentration impacted photosynthetic rate in the chloroplasts of Spinacia oleracea, or Spinach. It is expected that increasing salt concentration will lower rates of photosynthesis. This study used a DCIP decolorization assay as its method of determining photosynthetic rate. The chloroplasts of spinach were isolated via centrifugation, and then placed in solutions with reaction buffer, the DCIP agent, water, and 2 dilutions (10:1 and 20:1) of 2M NaCl. Absorbance was measured in order to achieve values for percent change and to run a 2 tailed t-test. The 20:1 dilution produced a p-value of 0.003, while the 10:1 dilution produced a p-value of 9.62E-06. Both of these values are lower than 0.05, confirming the hypothesis that increasing concentration of salt lowers the rate of photosynthesis. 
+
+Introduction:
+In this experiment, we will be testing the rate of photosynthesis in standard conditions and comparing it to the rate of photosynthesis in an environment with a high concentration of salt. Photosynthesis is the process by which plants convert light into energy. This process occurs specifically in the chloroplast of plant cells. 
+
+The rate of photosynthesis will be measured via absorbance, specifically a DCIP decolorization assay. When DCIP is present in a functioning photosynthetic system, it gets reduced and loses its coloration. Higher photosynthetic rates are inversely correlated with absorbance, as DCIP loses more and more of its color. Therefore, higher photosynthetic rates produce a lower value for absorbance. 
+
+It is expected that, when under high salinity, the rate of photosynthesis will be much lower, and absorbance will therefore remain unchanged. This is hypothesized for a few reasons. One reason is that a high salt environment outside of the cell will impact osmosis, causing water to exit the cell. Additionally, the high salt concentration in the environment will disrupt sodium-potassium pumps that operate as part of the electron transport chain (ETC) (Fung et al. 1999; Sudhir and Murthy, 2004). Disrupting the activity of the ETC will prevent the proper formation of the proton gradient that moves protons across the thylakoid membrane of chloroplast cells. 
+
+This hypothesis will be tested by creating 3 chloroplast solutions. One solution will feature no NaCl, and the other two will contain a 10:1 and a 20:1 dilution of 2M NaCl. It is anticipated that as salt concentration increases, rate of photosynthesis will decrease as compared to the control. The values for absorbance will be compared as percent change over time. Additionally, a two tailed t test will be ran comparing the control to the two NaCl dilutions. 
+
+
+Materials and Methods:
+Part 1: Chloroplast Enrichment
+In order to measure photosynthetic rates, it was necessary to enrich, or separate the individual chloroplasts from the rest of the plant cell. First, spinach leaves were destemmed and rinse off to remove any external elements. These leaves were then mixed with 10 mL of grinding buffer (400mM sucrose in Tricine buffer, pH 8) and mashed up using a mortar and pestle. An additional 10 mL of buffer was added, and then the solution was strained to remove any larger chunks. This solution was then centrifuged for 3 minutes at 1200 rpm at 4 degrees C. This first centrifugation separates the desired supernatant from any additional parts of the leaves. This solution was then separated from its pellet, and centrifuged again, this time for 10 minutes at 2800 rpm at 4 degrees C. This centrifugation creates a pellet that is very highly dense in chloroplasts. This pellet was separated from the liquid and added to 20 mL of grinding buffer and stirred. This solution was then used as the chloroplast sample in the activity assay.  
+
+Part 2: Activity Assay
+Next, 10 solutions were created containing the chloroplast solution, 130mM DCIP, reaction buffer, and two different amounts of the NaCl solution. A 2M NaCl solution was used in 2 concentrations: a 10:1 dilution, and 20:1 dilution. A blank was created, along with 3 tubes of the control, 3 of the 10:1 dilution, and 3 of the 20:1 dilution. The amounts of these reagents are present below in Table 1. 
+
+Table 1: Reagents
+	Blank	Control	10:1 NaCl	20:1 NaCl
+Water (mL)	8	6	5	5
+130mM DCIP (mL)	0	2	2	2
+Reaction Buffer (mL)	2	2	2	2
+NaCl Solution (mL)	0	0	1	1
+Chloroplast Solution (uL)	100	100	100	100
+
+The solutions were created with everything except the chloroplast solution, which was added in order to begin the assay. Upon adding the chloroplast solution, the tubes were mixed, placed in cuvettes, and absorbance was immediately recorded at 600nm. All 9 samples were placed directly under a light source, and absorbance was recorded every 10 minutes, for 30 minutes in total. 
+
+Averages and percent change of each solution was calculated, and average absorbance over time was graphed. Additionally, a 2 tailed t-test was ran comparing each NaCl concentration to the control. 
+
+
+Results:
+Table 1: Reagents
+Table 2: Average Absorbances and Percent Change
+Graph 1: Change in Absorbance over Time 
+Graph 1: The control group exhibits the largest drop in absorbance over time, evidence of photosynthetic activity. The 20:1 dilution and 10:1 dilution showed a much lower drop and a raise in absorbance respectively, indicative of photosynthesis occurring at a lower rate and not at all. 
+Graph 2: Absolute Value of Percent Change in Absorbance over Time
+Graph 2: The absolute value in percent change over time is indicative of error in the experiment. All 3 groups remained relatively constant in percent change.
+Table 3: Control vs. 10:1 NaCl Two Tailed T-Test
+Table 4: Control vs. 20:1 NaCl Two Tailed T-Test
+
+
+
+
+Discussion:
+Discussion
+Based off of the recorded measurements of absorbance and the results of the two t-tests, it can be concluded that the hypothesis was correct. This is evident by the percent change of the control group of -32.99% (Table 2), which experienced a large drop in absorbance caused by photosynthesis occurring. 
+
+The 20:1 dilution of NaCl experienced a total percent change of -19.2% (Table 2). For the 20:1 dilution, this can be interpreted that photosynthesis still occurred, but at a lower rate than the control group. Hence, the NaCl solution did inhibit photosynthesis, but the concentration of NaCl was too low to have as great of an impact as it could have. This is supported by the 2 tailed t-test, which produced a p-value of 0.003 (Table 4). 0.003 is lower than 0.05, so we therefore reject the null hypothesis and can say that the results are statistically significant, indicating that the NaCl solution did have an effect. 
+
+The 10:1 dilution of NaCl experienced a total percent change of 15.93% (Table 2). Based off of this, it can be concluded that this concentration of salt was enough to fully disrupt photosynthesis, as absorbance actually increased throughout the assay. It is unsure what caused absorbance to increase; perhaps a higher presence of salt impacted this, as this was the only difference in the solutions. This conclusion is supported by the 2 tailed t-test, which produced a p-value of 9.62E-06. This is considerably smaller than 0.05, so the null hypothesis was rejected, indicating that the results are statistically significant. 
+
+Graph 1 visualizes the aforementioned percent changes. As is evident by the graph, the control group experienced the largest drop in absorbance, letting us know that photosynthesis did occur. The 20:1 2M NaCl dilution also had some photosynthesis occur, but at a lower rate, indicated by overall percent change. The 10:1 2M NaCl dilution experienced no photosynthetic activity. 
+
+Graph 2 serves as a testament to the accuracy of the experiment. As all three groups saw relatively small changes in average percent change over time, it can be determined that after about 20 minutes, maximal photosynthetic activity had already occurred. 
+
+These conclusions are supported by Fung, L.E. et al, who found that overall plant and leaf growth was “significantly reduced” after exposure to salinity (Fung et al, 1999). Another study performed on 2 species of mangroves also found that greatly increasing salt concentration impacted sodium potassium pumps within the plant cells and led to an overall decrease in net photosynthetic rate (Li et al, 2007). 
+
+The main difference between the study carried out and other research conducted is that this study involved isolating the chloroplasts of spinach leaves, versus full plant studies where salt concentration in the soil was increased. Additionally, these studies incorporated plant growth over a multiple week period, while this experiment only lasted 30 minutes (Li et al, 2007). While similar results were produced, these distinctions change the nature of the experiment. 
+
+For future study, looking at different species of plants would be a good place to start. While spinach proved to be susceptible to increased NaCl concentration, other plant species, may be more resistant (halophytes) or less resistant, depending on the environment they exist in. Other improvements to the experiment include creating more samples at the current dilutions tested of 10:1 and 20:1 2M NaCl and adding more dilutions, like 15:1, 5:1, etc. This would create more data points and give us a more accurate picture of the data. 
+
+
+Literature Cited:
+Literature Cited	
+Fung, L.E, et al. “Effect of NaCl on Growth, Photosynthesis, Ion and Water Relations of Four Poplar Genotypes.” Forest Ecology and Management, Elsevier, 15 Jan. 1999, www.sciencedirect.com/science/article/pii/S0378112797003289.	
+
+Li, Niya, et al. “Effect of NaCl on Photosynthesis, Salt Accumulation and Ion Compartmentation in Two Mangrove Species, Kandelia Candel and Bruguiera Gymnorhiza.” Aquatic Botany, Elsevier, 8 Dec. 2007, www.sciencedirect.com/science/article/pii/S0304377007001799.
+
+Sudhir, P., and S.D.S. Murthy. “Effects of Salt Stress on Basic Processes of Photosynthesis.” SpringerLink, Kluwer Academic Publishers, Dec. 2004, link.springer.com/article/10.1007/S11099-005-0001-6.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Captura+de+Pantalla+2019-10-29+a+la%28s%29+18.27.34.png&Size=26844&Type=image%2Fpng&F=F_1BS3nVmKtgAaLSy
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Captura+de+Pantalla+2019-10-29+a+la%28s%29+18.27.29.png&Size=151464&Type=image%2Fpng&F=F_2VsE4wAnhdXjcYW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Reagents
+Table 2: Average Absorbances and Percent Change
+Graph 1: Change in Absorbance over Time 
+Graph 1: The control group exhibits the largest drop in absorbance over time, evidence of photosynthetic activity. The 20:1 dilution and 10:1 dilution showed a much lower drop and a raise in absorbance respectively, indicative of photosynthesis occurring at a lower rate and not at all. 
+Graph 2: Absolute Value of Percent Change in Absorbance over Time
+Graph 2: The absolute value in percent change over time is indicative of error in the experiment. All 3 groups remained relatively constant in percent change.
+Table 3: Control vs. 10:1 NaCl Two Tailed T-Test
+Table 4: Control vs. 20:1 NaCl Two Tailed T-Test
+*************************************************************************
+
+
+

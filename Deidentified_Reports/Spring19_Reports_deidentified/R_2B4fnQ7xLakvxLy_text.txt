@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-21 13:34:34
+Author of this lab report is: Std_fmqWtvia
+ID: R_2B4fnQ7xLakvxLy
+Course number: BIO103L
+TA: TA_bc8EVX09
+*************************************************************************
+Title: Phenotypic plasticity (shortening of root length) of Raphanus raphanistrum in nitrogen-rich soil
+
+Abstract:
+Plants must learn to adapt and interact with both biotic and abiotic factors in order to obtain necessary resources in order to survive.  Resource allocation is how plants use their limited resources to survive, and phenotypic plasticity is a specific plant’s ability to allocate resources based on different environments.  When observing the allocation plasticity of the Raphanus raphanistrum (radish) plant, nitrogen-levels are a major factor to look at due to nitrogen’s importance in the radish plant’s growth and development.  Under high-nitrogen levels, there is an inhibitory effect on the root system of a given plant.  Based off this knowledge, we hypothesize that the root:shoot length ratio of the radish plants grown in nitrogen-rich soil will be lower than the root:shoot length ratio of the radish plants grown under normal conditions.  Even though the average root:shoot length ratio of radish plants grown in nitrogen-rich soil at was lower than the average root:shoot length ratio of radish plants grown under normal conditions, the two-sample t-test produced a p-value of 0.077 which showed that the data was not statistically significant.  Explanations were assumed to stem from the usage of Miracle-Gro and nitrogen burning.
+
+Introduction:
+            Plants must learn to adapt and interact with both the environment and other organisms in ecological environments.  In order to survive as long as possible, plants actively work to maintain necessary resources like nitrogen, water, and sunlight.  However, these resources can be limited during the time in which plants grow and reproduce.  Environments are diverse over space and time, therefore plants must modify their growth and development to adapt to environments to obtain the essential resources [Yang: 2005].  Resource allocation is the overarching term to describe the way in which a species uses their limited resources in order to survive [Yang:2005].  Plants exhibit phenotypic plasticity, which is the ability to allocate their resources (express different phenotypes) based on different biotic or abiotic environments [Agrawal:2002].
+             When it comes to species modifying their allocation plasticity, some species have little plasticity and while others have a lot of plasticity.  The Raphanus raphanistrum (radish) plant is an ideal organism for this experiment because of its high allocation plasticity [Agrawal:2002].  The Raphanus raphanistrum is an edible root vegetable in the Brassicacae family [Agrawal:2002].  Radishes are used for many experiments due to their prominent root growth patterns and quick adaptation to different environments.
+When looking at resource allocation for plant growth, resource allocation of both above and below the ground can be examined through the roots and shoots of plants.  The growth of an individual root or shoot does not depend only with the nutrient condition experienced by itself, but also the conditions put onto all other parts of the plant [Yang:2005].  When an individual root finds a nutrient-rich soil area it usually increases its growth rate, but other parts of the root system respond to this by decreasing their growth rates even though the nutrient condition of the other roots has not been altered [Yang:2005].  Zhang’s study examines the relation of root growth in thale cress plants in varying nitrogen levels [Zhang:1999].  The study shows that under high-nitrogen levels there is a stimulation of root growth, but there is an inhibitory effect on the root system as a whole under the high-nitrogen levels [Zhang:1999].  Within nitrogen-rich soil, roots do not have to grow as much due to the plentiful amount of nitrogen near the roots [Zhang:1999].
+	This experiment examines the phenotypic plasticity and allocation of radish plants in response to a nitrogen rich soil by looking at the responses of radish plants in high-nitrogen soil.  A better understanding of nitrogen’s effects on plant growth can come from observing plants in two different environments.  Based off the knowledge that there is an inhibitory effect causing roots to grow less under high-nitrogen levels, we hypothesize that the root:shoot length ratio of the radish plants grown in nitrogen-rich soil will be lower than the root:shoot length ratio of the radish plants grown under normal conditions.
+
+
+Materials and Methods:
+In this experiment, radish seeds were gathered and soaked for 20-30 minutes before planting.  Six plots, 4 inch x 4 inch, were separated into two groups.  Three of the plots were labeled nitrogen-rich plots while the other three were labeled control.  The three plots labeled control were then put into large black trays with holes in the bottom and filled to the top with vermiculite.  The three plots labeled nitrogen-rich plots were filled halfway with vermiculite, given a scope of nitrogen, then filled to the top with vermiculite.  All the plots were watered the given 25mL of Miracle-Gro (less than the 50mL suggested because of the nitrogen in Miracle-Gro).  Nine holes, 2-3 times the size of the seeds, were then made throughout each plot, and the holes were filled with seeds and covered with vermiculite.  The plants were then watered daily for two weeks.
+	After two weeks, the radish plants were pulled out of the tray and their roots were separated and patted dry with a paper towel.  Five plants were chosen from each of the three control group trays.  The roots were then separated from the shoots by cutting each plant apart at the root-shoot junction.  The maximum shoot length and root length were measured to the nearest mm, and the mean value of length of both the maximum root and shoot was recorded for each of the three groups of five plants.  The root:shoot length ratios for the three groups were then calculated.  This process was then repeated for the nitrogen-rich plots.  After growing under different conditions, the root:shoot ratios of the nitrogen-rich and control plots were compared using a two-sample t-test.
+
+
+Results:
+General trends are seen in Figure 1 that the average root:shoot length ratio of the radish plants grown in nitrogen-rich soil is lower than the radish plants grown under normal conditions.  The average root:shoot length ratio of the radish plants grown in nitrogen-rich soil is 0.820.035 compared to the higher average root:shoot length ratio of radish plants grown under normal conditions 1.240.417.  This difference was not proven to be statistically significant after conducting a two-sample t-test which had a t-value=1.75, df=4, and p-value=0.077.
+
+Discussion:
+        Our hypothesis was not supported in that the root:shoot length ratio of the radish plants grown in nitrogen-rich soil will be lower than the root:shoot length ratio of the radish plants grown under normal conditions.  Even though the average root:shoot length ratio of radish plants grown in nitrogen-rich soil at 0.82 appeared lower than the average root:shoot length ratio of radish plants grown under normal conditions at 1.24 based on the trends of Figure 1, our p-value was 0.077 which is above the significant level of 0.05.  Therefore a statistical difference between radish plants in nitrogen-rich soil and normal conditions cannot be proven in this experiment.
+	An explanation that could have impacted our results is the use of Miracle-Gro, in both the nitrogen-rich and control groups, which contains nitrogen provided by urea.  Miracle-Gro acted as a confounding variable in the experiment as the additional nitrogen added to both plots was not accounted for.  This impacted the direct comparison between the nitrogen-rich plots and the control plots by causing the levels of nitrogen between the two to be more similar than intended.  Studies have shown how Miracle-Gro quickly allows nitrogen to become available to plants’ roots to promote rapid growth [Pradhan:2010].  Miracle-Gro, with a NPK ratio of 24-8-16, has been seen through studies to provide plentiful for plant growth [Pradhan:2010].  Another explanation for the results could have been the nitrogen-rich plots experiencing nitrogen burn from the Miracle-Gro added into the already nitrogen-rich plots.  Nitrogen burn could have caused little growth to the entire nitrogen-rich plants entirely, lowering the shoot length of the plants.  Ideally, the experiment wanted equal shoot lengths and different root lengths for the nitrogen-rich and control plots, but the nitrogen burn did not allow this to happen.  High nitrogen levels have known to be detrimental to growth in how excess nitrogen takes water away from the plants and increases salt concentration [Kang:2018].  This causes plants to become dehydrated and growth can stop if nitrogen stays at high levels [Kang:2018].
+The next logical step following this experiment would be to account for the nitrogen involved in Miracle-Gro in relation to the additional nitrogen added to the plants in future experiments.  This would be done by modifying the procedure to pay close attention to the exact nitrogen content of the soil in the different plots.  Paying attention to nitrogen content would help avoid nitrogen burn and create better established comparisons between non-nitrogen-rich plots and nitrogen-rich plots.  Also, future experiments working with varying levels of nitrogen could be implemented to compare a range of nitrogen’s impact on root:shoot length ratios of plants.  Varying levels of nitrogen added to soil could be used to test nitrogen burn and observe its role in plant growth.
+	Understanding the impact of nitrogen on root:shoot length ratios of radish plants is important for farmers who grow radish plants.  It is essential for farmers to understand growing patterns, and with knowledge of how much nitrogen/fertilizer to add to radish plants, farmers are able to control their plants exactly how they want them.  This understanding helps grow radish crops to avoid problems where roots are overlapping each other and production is lost.  Understanding plant growth is important for maximum efficiency which allows for the best production of crops and food for people as possible.
+
+
+Literature Cited:
+1.	Agrawal AA, Conner JK, Johnson MT, Wallsgrove R. 2002. Ecological genetics of an induced plant defense against herbivores: additive genetic variance and costs of phenotypic plasticity. Evolution. 56: 2206-2213.
+2.	Kang L, Fan B, Chen S, Chen Q. 2018. Fertigation combined with catch crop maximize vegetable yield and minimize N and P surplus. Nutrient Cycling in Agroecosystems. 112: 87-99.
+3.	Pradhan SP, Conrad JR, Paterek JR, Srivastava VJ. 2010. Potential of phytoremediation for treatment of PAHs in soil at MGP sites. Soil and Sediment Contamination. 7: 467-480.
+4.	Yang Z, Midmore DJ. 2005. Modelling plant resource allocation and growth partitioning in response to environmental heterogeneity. Ecological Modelling. 181: 59-77.
+5.	Zhang H, Forde BG. 1999. Regulation of Arabidopsis root development by nitrate availability. Journal of Experimental Botany. 51: 51-59.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=IMG_4909.PNG&Size=40196&Type=image%2Fpng&F=F_3qaoVwkgpadlZXQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure #1. The average R:S length ratio of radish plants under different (nitrogen-rich vs non-nitrogen-rich) conditions.  The control group is the radish plants grown under normal conditions with no nitrogen added, and the nitrogen-rich group is the radish plants grown in nitrogen-rich soil.  Each bar is the mean of the root:shoot length ratios of the control group and nitrogen-rich group; error bars show 0.417 for the control bar and 0.035 for the nitrogen-rich bar, representing  1 standard deviation.*************************************************************************
+
+
+

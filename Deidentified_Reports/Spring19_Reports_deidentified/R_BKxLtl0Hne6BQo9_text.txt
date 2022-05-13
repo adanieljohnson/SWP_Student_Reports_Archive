@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-21 00:17:04
+Author of this lab report is: Std_xoBc1u2u
+ID: R_BKxLtl0Hne6BQo9
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Effects of Calcium Activator A23187 on Muscle Contraction in Rana pipiens
+
+Abstract:
+Neuromuscular communication can be manipulated by many factors including calcium. This mechanism is fundamental in preserving and maintaining life and therefore deserves to make known all of the possible ways to influence it and make it more efficient. By injecting a calcium activator called A23187, muscles in Rana pipiens can reveal how calcium affects the frequency and intensity of muscle contractions. The organism’s muscles were tested by testing three different Rana pipiens legs. For the first trial, each leg muscle was provided a stimulus to which the muscle contraction responded to. The second trial was the same, except with an injection of A23187 into each leg muscle. Although the calcium activator was expected to increase the intensity and frequency of the muscle contractions, the trial in which the muscles were injected with the calcium activator had a lower voltage response than the trial in which the muscles were not injected with the calcium activator. The results suggest that the waiting times between injection and measurement were either too long or too short.
+
+Introduction:
+Nerves and muscles work together to help the body perform daily, necessary tasks and react to stimuli. Receptors in the muscles send signals to the brain informing it on what actions to take and what to tell the body to do. The brain also controls the muscle contractions in response to stimuli [UW 2016]. In order to further examine communication between nerves and muscles, the species Rana pipiens, commonly known as the Northern leopard frog, will be tested using calcium activator injections of A23187 in its leg muscles as a model. R. pipiens are a large type of frog that reside in swamps, marshes, and streams [Nevada: 2015]. The R. pipiens leg serves as a useful test subject because the skin layer is very thin so it is easy to expose the muscle. The independent variable in this experiment will be the stimulation in the leg muscle and the dependent variable will be the voltage that the leg muscle produces as a response to the injection. Calcium serves as a useful independent variable because of its role in muscle contraction. When calcium is released into the muscle, it binds to a molecule called troponin, which then exposes the myosin-binding sites. Actin, a filament, binds to myosin, another filament, and the myosin heads pull the actin which fuels muscle contraction. With more calcium in the muscles, more muscle contraction is able to occur.
+The voltages will be observed from a myogram, an instrument used to measure and record muscular contractions. The experiment aims to test how much the nervous system reacts to a calcium activator, revealing information about the efficiency of communication between the nervous system and the muscular system. Examining neuromuscular communication can provide information about curing diseases such as muscular dystrophy, myasthenia gravis, or amyotrophic lateral sclerosis. The amount of voltage stimulated in the R. pipiens will have a direct relationship with the leg’s response in voltage because of the electrical charge spreading throughout the muscle.
+
+Materials and Methods:
+In order to prepare the frog leg for measurement, first de-glove the leg by removing the skin layer. Expose the sciatic nerve by pulling it away from the muscle. The nerve looks like a thin, crème-colored string. Detach and isolate the gastrocnemius muscle by separating it from the leg and cutting it off as well as the Achilles tendon. Leave the top end of the gastrocnemius attached to the leg. Tie a string around the disconnected end of the gastrocnemius and attach it to the iWorx Labscribe apparatus.
+Now that the leg is ready for testing, insert an electrical probe into the gastrocnemius. Apply stimuli between 0.0-0.5 amps and 1.0-1.5 amps. Record the corresponding voltages. Repeat the procedure, except with the probe resting under the sciatic nerve. Complete this process with three different frog legs. Repeat again, but inject the frog legs with 0.1mL of 100mM of A23187. For each frog leg, wait two minutes after injection to fire action potentials and record the respective voltages. After collecting the data, run a paired t-test.
+
+Results:
+According to Graph 1, the trials in which the three R. pipiens leg muscles were not injected with the calcium activator had a higher average voltage in muscle contractions than the trials in which the three R. pipiens leg muscles were injected with the calcium activator. The muscles without the calcium activator injection displayed a spike in data at 0.4 amps but then remained relatively constant for the rest of the stimulations. The muscles with the calcium activator injection also displayed small spikes in data at 0.1 amps and 0.3 amps but remained constant for the same amount of stimulations as the muscles without the calcium activator injection. The paired t-test produced a p-value of 0.188, indicating that the data was not significant. This lack of significance can be seen on the graph between stimulations of 0.5 amps and 4 amps where both averages are constant but close to each other.
+
+Discussion:
+The calcium activator injections were expected to increase the voltage in calcium activated muscle contractions compared to that of the muscles without calcium activations. The averages of voltage responses from both testing groups show that the hypothesis was not supported. The statistical test’s result of insignificance also shows that the hypothesis was refuted. The calcium was unable to increase the muscle contraction response because the times between the injections and the stimulations were either too long or too short. If the waiting period was too long, the calcium activator would have ceased its activation before the contraction response value was recorded. If the waiting period was too short, then the calcium activator would not have been able to activate in the muscle before recording the contraction response value. 
+In a similar study conducted in 1994, scientists also examined calcium and muscle contractions. For this study, the scientists examined the effect of voltage on the amount of calcium that naturally activated within the muscle. The researchers noted that the calcium activator “followed the amplitude of the calcium current and thus showed a bell shaped dependence on voltage” [Garcia: 1994]. Certain voltages produced a high amount of calcium, but the two extreme voltages produced low amounts of calcium. This experiment shows the difference between how the calcium activator worked in our experiment and how natural calcium responds to a stimulus. The naturally-occurring calcium increased the muscle contraction response because of calcium’s fundamental role in the cell biology of muscle contraction.  
+Although the data suggests that a calcium activator does not increase muscle contractions, the known role that calcium plays in muscle contraction suggests that it should. For a future experiment, determining the ideal waiting period would be beneficial in discovering what the optimal amount of time after injection would be to produce the most significant results. To do this, the voltage would be tested between one-minute and three-minute intervals. A statistical paired t-test would be conducted to determine the significance of the results.
+
+Literature Cited:
+1. How the Nervous System Interacts with Other Body Systems. University of Washington. Accessed March 20, 2019. https://faculty.washington.edu/chudler/organ.html.
+2. Northern Leopard Frog. U.S. Fish & Wildlife Services. Accessed March 20, 2019. https://www.fws.gov/nevada/nv_species/nleopard_frog.html.
+3. Garcia, J, Tanabe, T, Beam, KG. Relationship of calcium transients to calcium currents and charge movements in myotubes expressing skeletal and cardiac dihydropyridine receptors. Colorado State University. Accessed March 20, 2019. https://www.ncbi.nlm.nih.gov/pubmed/8169595.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-21+at+12.06.45+AM.png&Size=180133&Type=image%2Fpng&F=F_3maD8adeVokL8CB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Graph 1. The averages of contractions of three R. pipiens leg muscles are plotted against their stimulations. The blue line indicates the muscles without any calcium activator injections and the orange line indicates the muscles with calcium activator injections.*************************************************************************
+
+
+

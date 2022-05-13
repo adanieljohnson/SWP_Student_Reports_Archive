@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-26 12:56:48
+Author of this lab report is: Std_Gq4Zs1dk
+ID: R_sd6EHtcrP7wHmkF
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Effect of Acidic and Alkaline pH Environments on the Rate of Photosynthesis in Spinacia oleracea 
+
+Abstract:
+Many environmental factors, such as pH, have the ability to affect photosynthetic rates in plants due to its complexity. We hypothesized that if spinach chloroplasts were placed in various pH environments outside their optimal range of pH 6.0 to 7.5, then the reduction of DCIP, an alternate electron carrier, in the assays will decrease and result in a smaller percent change in absorbance. The chloroplasts were isolated, and spectroscopy was used to measure the change in absorbance over 10 minutes of three replicates at each pH environment. The largest percent change in absorbance was found in the pH 5 assay, the smallest percent change was found in the pH 10 assay, and the data in between varied. Based on our results, the null hypothesis that chloroplasts placed in pH environments outside of the researched optimal range will exhibit no statistical change of absorbance cannot be rejected. Our experiment reflected the lack of ability to pinpoint the optimal pH for photosynthesis in different plant species, which is portrayed in the disagreement found between published articles on this topic. A better understanding of the biochemical effects of pH change on the different pathways of photosynthesis, could be expanded to broader scientific topics and extremely useful in agriculture. 
+
+Introduction:
+Autotrophic organisms convert light energy into chemical energy through a three-stage process called photosynthesis. The light-dependent reactions use absorbed photons to generate reducing power stored in NADPH and create a proton gradient to drive ATP synthesis. The light-independent reactions combine CO2 molecules with 5-carbon ribulose phosphate to create 6-carbon glucose molecules, with the help of RUBISCO and NADPH. In a typical plant, all three processes run simultaneously inside of chloroplasts. Overall chloroplast activity can be measured through carbon dioxide uptake, oxygen production, or glucose production of the isolated organelle. However, measuring a particular reaction sequence, such as Photosystem II activity, is more difficult but can be done through measuring the reduction of alterative electron acceptors. In this lab, photosystem II activity will be measured by using 2,6-dichlorophenol indophenol (DCIP) as the alternative electron receptor for the Hill reaction, due to its color change from blue to clear when reduced. The reduction of DCIP is essential in measuring an increase in photosystem II activity and therefore increased rates of photosynthesis.
+We will focus on the effect of various pH levels, ranging from acidic to alkaline, on photosynthetic rate in Spinacia oleracea (spinach) leaves. A publication from the University of Vermont stated that the optimal pH for photosynthesis in plants was 5.5-7. The publication further indicates that spinach leaves function optimally in pH 6.0-7.5 [Perry: 2003]. A study published in the Biochemical Journal stated that membranes exposed in an alkaline pH environment, above a pH of 8.5, showed an inhibition of the hydrolyzing steps of water in photosynthesis [Chapmen et al: 1989]. Further, an experiment published in Biologia Pantarum indicated that more acidic conditions, specifically a pH between 5.5 and 7.5, were inhibitory of photosystem II activity [Mathur et al: 2011]. We further explored these findings, observing the photosynthetic rates of spinach chloroplasts in a range of pH values from 5 to 10, with the desire to determine the optimal pH environment. The DCIP decolorization assay we will be using is a standard method used to determine whether specific environments accelerate or inhibit the oxidation and reduction reactions in Photosystem II, which are directly related to the rate of photosynthesis. A spectrophotometer can be used to measure absorbance at specific wavelengths and will be used to determine the reduction of DCIP, through absorbance change over time. Based on the studies reviewed, we hypothesized that if spinach chloroplasts were exposed to various pH values outside their optimal range of pH 6.0 to 7.5, then the reduction of DCIP in the assays will decrease and consequently exhibit a smaller percent change in absorbance. 
+
+
+Materials and Methods:
+In order to isolate the chloroplasts from spinach leaves to measure their photosynthetic activity after exposure to various pH buffers, four spinach leaves were obtained, and their central veins were removed. The leaves were rinsed and dried, then packed into a mortar and pestle. Grinder buffer was added, and the leaves were grinded into a thick paste. Strain the mixture through three layers of cheese cloth into a chilled beaker. The liquid was then transferred to a centrifuge tube marked “A” and spun at 1200 rpm (200xG) for 3 minutes at 4C. The supernatant was removed and placed into a centrifuge tube labeled “B”, then spun at 2800 rpm (1000xG) for 10 minutes at 4C. Then the supernatant was removed, and the pellet was resuspended with grinding buffer. This mixture was then distributed into 6 new centrifuge tubes. pH 5, 6, 7, 8, 9, and 10 was added to each respective tube and labeled according. The 6 tubes were spun at 1000xG for 10 minutes at 4. Next, the supernatant was drained and grinding buffer was used to resuspend the pellet in each centrifuge tube. Mixture from each centrifuge was micropipetted into 3 replicate test tubes, yielding 18 total tubes. One additional test tube served as the blank. Water and DCIP was then added to each test tube. Samples of each test tube were poured into cuvettes and their absorbances were recorded using a spectrophotometer at 600nm. After the absorbances were recorded, the test tubes were placed in a rack. After 10 minutes, the absorbances of each test tube were recorded again. An ANOVA test was run to determine the significance of the data recorded. 
+
+Results:
+In order to test the photosynthetic activity of in Spinacia oleracea at different pH environments, the chloroplasts were separated through centrifuging. Next, pH 5, 6, 7, 8, 9, and 10 buffers were added to the spinach chloroplasts, with three replicates at each pH. Then DCIP, an alternate electron receptor that is blue when oxidized yet colorless when reduced, was introduced to each test tube. The change of absorbance of each test tube over 10 minutes was recorded, to indirectly measure the photosynthetic activity of the chloroplasts at each pH environment. As Figure 1 shows, the greatest percent change in absorbance was found in the pH 5 assay, while the smallest percent change was found in the pH 10 assay. The percent change of the pH 7 assay was surprisingly low, especially due to the larger percent changes found in the pH 8 and 9 assays. However, the data used to calculate the percent change in the pH 9 environment had a large standard deviation, shown by the error bars in Figure 1. Due to the p-value of 0.154 given from the ANOVA test exceeding the acceptance value of 0.05, the results are statistically insignificant. 
+
+Discussion:
+Based on our results, the null hypothesis that chloroplasts placed in pH environments outside of the researched optimal range will exhibit no statistical change of absorbance cannot be rejected. A p-value of 0.154 indicates that our data is statistically insignificant. The data gathered from the pH 9 assays fluctuated greatly and resulted in a large standard deviation, which could have been largely responsible for the high p-value. Despite the statistical insignificance, the data gathered did not support of our hypothesis. The chloroplasts in pH 6-8, the optimal zone, had a smaller percent change in absorbance than the chloroplasts in pH 5 and 9, which sit outside of the optimal zone. The data gathered from the pH 10 assays were reflective of published articles that we used to formulate our hypothesis. The percent change in absorbance was relatively low, 4.31% +/- 2.76%, which indicates that the rate of photosynthesis was decreased due to the alkaline environment. This data is supportive of the study published in the Biochemical Journal which found that membranes exposed in a pH above 8.5 showed an inhibition of the hydrolyzing steps of water in photosynthesis. Perhaps the enzymes that regulate and facilitate this hydrolyzation become denatured and misshaped in such alkaline environments, unable to perform their cellular function [Chapmen et al: 1989]. Our results indicated that pH 5 was the optimal environment for photosynthesis. This is more indicative of the first part of the publication from the University of Vermont which stated that the optimal condition for plants was pH 5.5-7. However, the study went on to indicate that spinach leaves specifically function optimally in pH 6.0-7.5, which was not reflected in our data [Perry: 2003]. Also, our data was not supportive of the publication in Biologia Pantarum which stated that a pH between 5.5 and 7.5 were inhibitory of photosystem II activity [Mathur et al: 2011]. These publications reflect the disagreement and lack of knowledge regarding the effect of pH on photosynthetic activity. The confusion in the scientific world may be due to the complexity of photosynthesis and all the different factors involved. Our experiment reflected the lack of ability to pinpoint the optimal pH for photosynthesis in different plant species, such as Spinacia oleracea. In order to gather data that may aid in a better understanding this scientific question, the chloroplasts should be exposed to more acidic conditions than pH 5 and a larger sampling size should be used to obtain statistically significant data. A deeper knowledge of the biochemical effects of pH change on the different pathways of photosynthesis, especially in crops such as spinach, could lead to agricultural advancements and cheaper cultivation. 
+
+Literature Cited:
+Blinks, L.R. “The Effect of PH upon the Photosynthesis of Littoral Marine Algae.” Hopkins Marine Station of Stanford	University, October 4, 1962. https://link.springer.com/article/10.1007/BF01252048.
+Chapman, D J, J De Felice, K Davis, and J Barber. “Effect of Alkaline PH on Photosynthetic Water Oxidation and the	Association of Extrinsic Proteins with Photosystem II.” Biochemical Journal258, no. 2 (March	1989). http://www.biochemj.org/content/258/2/357.
+Mathur, S., P. Singh, P. Mehta, and A. Jajoo. “Effects of High Temperature and Low PH on Photosystem 2 Photochemistry in	Spinach Thylakoid Membranes.” Biologia Plantarum, December	2011. https://link.springer.com/article/10.1007/s10535-011-0180-x.
+Perry, Leonard. “PH for the Garden.” University of Vermont Extension Department of Plant and Soil Science,	n.d. http://pss.uvm.edu/ppp/pubs/oh34.htm.
+Sharkey, Thomas D. “Photosynthesis in Intact Leaves of C3 Plants: Physics, Physiology, and Rate Limitations.” The	Botanical Review51, no. 1 (January 1985): 53–105.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-26+at+12.51.21+PM.png&Size=184333&Type=image%2Fpng&F=F_bdq8GpT9OUZ6wSJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+The average percent change in absorbance over ten minutes of DCIP in chloroplasts of spinach leaves exposed to various pH values. The average percent change at pH 5 was 12.55% +/- 0.79%, at pH 6 it was 12.14% +/- 0.29%, at pH 7 it was 10.57% +/- 0.31%, at pH 8 it was 11.92% +/- 1.72%, at pH 9 it was 11.94% +/- 6.81, at pH 10 it was 4.31% +/- 2.76%. The p-value from the ANOVA test was 0.154. *************************************************************************
+
+
+

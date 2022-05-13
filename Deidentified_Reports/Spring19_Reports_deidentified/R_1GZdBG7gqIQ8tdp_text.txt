@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-26 11:32:08
+Author of this lab report is: Std_vee62Nqx
+ID: R_1GZdBG7gqIQ8tdp
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: The Negative Effects of ZnSO4 on the Process of Photosynthesis in Spinach Leaves.
+
+Abstract:
+Photosynthesis is responsible for plants to retain energy from light. Photosystem II is the first protein complex during the process of photosynthesis that takes energy from light and uses it obtain an excited electron from water. In this experiment, we studied the effects of zinc sulfate (ZnSO4) on photosystem II. Our expectation was that as the concentration of ZnSO4 increases, the photosynthetic activity of spinach leaves will decrease. We extracted the chloroplasts from spinach leaves using a centrifuge and measured the absorbances on a spectrophotometer of solutions with various concentrations of ZnSO4. Our data showed that ZnSO4 did not produce a significant effect on photosynthetic activity in spinach leaves although there was a decrease in percent change as the concentration of ZnSO4 increased. 
+
+Introduction:
+Photosynthesis is a very important process for plants to obtain energy from light. There are a number of stages to photosynthesis. In the light dependent reactions, an electron excited by light in photosystem II is carried by NADPH. That excited electron is then used to power ATP synthase and create a proton gradient used to drive ATP synthesis. In the light dependent reactions, rubisco uses ATP and NADPH to create 6-carbon molecules. All on this occurs in the chloroplasts in the cell. We can measure chloroplast activity by using an alternative electron acceptor in photosystem II in the process called the Hill reaction [Johnson: 2018]. 2,6-dichlorophenol indophenol (DCIP) is the alternative electron acceptor used in this experiment. Oxidized DCIP is a dark blue color and reducing DCIP produces a colorless solution. This infers that as chloroplast activity increases, the light absorbance decreases. One question that comes to mind is how to inhibit photosystem II. One study specifically found that the compound ZnSO4 inhibits DCIP-supported Hill reaction mediated by photosystem II. They measured the fluorescence intensity of chloroplasts through a monochromator. They also discovered that ZnSO4 partially inhibits photosystem I at concentrations higher than 5 mM so we were sure to take that into consideration when we performed our study [Tripathy: 1980]. By stopping the processes in photosystem II, ZnSO4 could be used as a kind of herbicide for unwanted plant growth. It is hypothesized that as the concentration of ZnSO4 increases, the percent change of absorption will increase less. It is suspected that adding ZnSO4 will severely decrease the chloroplast activity because it inhibits the first processes of photosynthesis. 
+
+Materials and Methods:
+In this experiment, we created twenty-five chloroplast samples and used a spectrophotometer to measure the absorbances. We first ground four spinach leaves and 10 mL of grinding buffer with a mortar and pestle. We then poured the liquid created from grinding the leaves into a 50 mL centrifuge tube. The tube was spun for eight minutes in the centrifuge. To make the samples, we added 2 mL of reaction buffer (100 mM phosphate, pH 6.5) to twenty-five test tubes. One sample was used to blank the spectrophotometer so 8 mL of distilled water was added to that test tube. In eight test tubes, 2 mL of 130 mM DCIP and 6 mL of distilled water was added. In another eight test tubes, 2 mL of 130 mM DCIP and 6 mL of 1 mM ZnSO4 solution was added. In another eight test tubes 2 mL of 130 mM DCIP and 6 mL of 2 mM ZnSO4 solution was added. Lastly, 100 μL of the enriched chloroplasts was added to each sample except the blank. We then measured the initial absorbances of each sample, blanking the spectrophotometer first. After placing half of the samples under a lamp and half of them in a dark drawer, we waited 10 minutes. Then we measured the absorbances again and placed them back. We did this once more and then calculated the percent change for each sample. A one-way ANOVA test was used to find if the mean of the control group and means of the experimental groups were significantly different.
+
+Results:
+As shown in Figure 1, for the samples kept in light, there was a greater increase in percent change for the samples not containing ZnSO4. The sample’s percent change containing 1 mM of ZnSO4 seemed to plateau after twenty minutes and the sample’s percent change containing 2 mM of ZnSO4 seemed to plateau even more after twenty minutes. There was a significant difference (df=71, P=0.008861) in the percent change of the four test samples containing ZnSO4. Further tests indicate that the percent change after 10 minutes of the sample kept in the light with 1 mM of ZnSO4 was significantly difference than the percent change after 30 minutes of the sample kept in the dark with 2 mM of ZnSO4. There was also significant difference between the percent change after 10 minutes of the sample kept in the light with 2 mM ZnSO4 and the percent change after 30 minutes of the sample kept in the dark with 2 mM ZnSO4. No significant difference was indicated between the other samples. Overall, there was a much greater percent change for the groups kept in the dark versus those kept in the light. In fact, the average percent change for each sample kept in light after 30 minutes was 9.06 % and the average percent change for each sample kept in the dark after 30 minutes was 31.414 %.
+
+Discussion:
+My hypothesis that as the concentration of ZnSO4 increases, the percent change of absorption will increase less was somewhat supported. The average percent change after 30 minutes for the samples kept in light with 0 mM ZnSO4 was 15.89% while the average percent change for the samples with 1 mM ZnSO4 and 2 mM ZnSO4 was 6.38% and 4.90%. These lower percent changes for high concentration of ZnSO4 infers that there was a negative effect on the chloroplasts activity in the samples containing ZnSO4 that were kept in light. Although the data was proven significant after an ANOVA analysis, the overall data was slightly skewed. The samples kept in the dark had even higher positive percent changes that almost equally increased as time went on. These results were unexpected and could have been due to the fact that the samples were brought into light when we measured the absorbances. There was a significant difference between only two pairs of samples, but no other samples were found significant. Those significant samples included one sample that was in the dark and one that was in the light. After discovering that there was an error with the samples kept in the dark, it is determined that the significance testing was inconclusive. Because there were discrepancies in the data, it is concluded that the data is not significant even though the statistical analysis found it to be significant. Other studies have found conclusive data for the effects of zinc sulfate on photosynthesis while samples were kept in the dark. Baker and colleagues performed a study examining the inhibition of zinc with various light intensities. They discovered that zinc inhibition of DCPIP photoreduction was not dependent of the light intensity to which the chloroplasts were exposed [Baker: 1982]. Further research can be done repeating this experiment while keeping the dark samples completely in the dark or have various light intensities. Also, one could modify this study to include greater concentrations of ZnSO4 to see if it will produce a significant effect. 
+
+Literature Cited:
+1.Baker N, Fernyhough P, Meek I. 1982. Light-dependent inhibition of photosynthetic electron transport by zinc. Physiologia Plantarum. 56: 217-222 
+2.Johnson AD. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated September 13, 2018)
+3.Tripathy B and Mohanty P. 1980. Zinc-inhibited Electron Transport of Photosynthesis in Isolated Barley Chloroplasts. Plant Physiology. 66: 1174-1178
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-07+at+2.00.53+PM.png&Size=45789&Type=image%2Fpng&F=F_3MFC0I8LObvbPo0
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-07+at+2.14.35+PM.png&Size=52039&Type=image%2Fpng&F=F_xF2ED9Ne5onkSuR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average percent change of absorbances (nm) of chloroplast samples kept in light with different concentrations of ZnSO4 measured every 10 minutes. There are error bars for standard deviation for each point on the graph. 
+Figure 2. Average percent change of absorbances (nm) of chloroplast samples kept in dark with different concentrations of ZnSO4 measured every 10 minutes. There are error bars for standard deviation for each point on the graph. *************************************************************************
+
+
+

@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-20 11:14:06
+Author of this lab report is: Std_WiqwYfeR
+ID: R_doMWvprWvJcpSjr
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The Effect of Azamax on Growth of Manduca sexta hornworms
+
+Abstract:
+In this lab, we used Manduca sexta caterpillars and divided them into 2 groups, a control and a treatment group. The treatment group was given azamax and the control group was given water. We were testing the effect of blocking ecdysterone on the growth of the Manduca sexta over a period of 8 days. To determine the effect of the azamax (the ecdysterone blocking drug) we weighed the caterpillars each day. Our hypothesis was that the caterpillars treated with azamax would be significantly underdeveloped and while we found that this appeared true given our data set and the physical appearance of the caterpillars, we discovered the results were statistically insignificant given our low p-value. Repeating this experiment with different levels of azamax added to the food could help determine the extent of the effect ecdysterone has on growth and development in Manduca sexta caterpillars.
+
+Introduction:
+Hormones are chemicals released and produced by the body to stimulate action in cells and organs in the body. The Manduca sexta is an insect, more commonly known as the tobacco hornworm. In its larval stage it is a caterpillar, but after pupating they turn into moths. As larvae, tobacco hornworms are pests, so there have been many studies into how altering hormonal balances in the hornworm can affect the molting of the Manduca sexta. The two main hormones that are responsible for growth and molting in the Manduca sexta are juvenile hormone and ecdysterone. In our experiment, we will be blocking ecdysterone in the hornworms to observe the effect it will have on their growth and molting. Ecdysterone hormone in the Manduca sexta regulates the timing of molting in insect development. Ecdysterone is a steroid and secondary metabolite in the Manduca sexta, which means that absence of the ecdysterone will not result in immediate death, but there will be long-term impairment to the organism and its ability to survive [1]. We will block ecdysterone through a chemical called azamax, which is a botanical insecticide extracted from seeds of Azadirachta indica [2]. It is our hypothesis that by blocking ecdysterone in the Manduca sexta through a chemical called azamax, the weight of the hornworms in the treatment group will be significantly decreased compared to the weight of the hornworms in the control group, since the hornworms will be underdeveloped without the ecdysterone telling them when to molt.
+
+Materials and Methods:
+To test our hypothesis, we got 8 Manduca sexta caterpillars. We divided them into two groups of 4: one to be the control group, and one to be the treatment group. We divided them into containers, with two per container and an index card dividing them to keep each caterpillar in separate compartments. We measured out 80 grams of food, then divided it into 2 lumps of 40 grams. We added 28 drops of water (7 drops per caterpillar) to the food for the control group, and 28 drops of azamax to the food for the treatment group. To each sample of food, we added 1.148 mL of liquid-either water or azamax-for 0.287 mL per caterpillar. We then divided the food into 10 gram servings and put it in the container with each caterpillar. Each day for 8 days, we weighed each caterpillar and recorded their weights on our data tables. When we noticed their food drying out, we replaced it. On the eighth day we weighed them for a final time and then calculated their changes in weight over the 8 days. We used a one variable t-test to determine whether the difference in weight between the control and treatment groups was statistically significant.
+
+Results:
+Our results showed that the treatment caterpillars had a much smaller Δweight than the control caterpillars, with the Δweight for the control being 8.33g and the Δweight for the treatment being 1.16g. After running a paired two sample for means t-test in excel, we found that our degrees of freedom were 3, with a t stat of 11.259 and a p two-tail value of 0.0015.
+
+Discussion:
+Our results definitely supported our hypothesis, given that the average weight change of the control group was much higher than the average weight change of the treatment group. Additionally, on day 8 there were visible differences in size, with the control caterpillars being very large and fat and the treatment caterpillars being small and underdeveloped. Our t-test, however, indicated that these results were statistically insignificant, since the p value was less than 0.05. Although statistically insignificant, it was clear that the azamax blocking ecdysterone prevented the growth of the tobacco hornworms and caused them to not grow and molt as the control group did. To test this again, it could be useful to alter the amount of azamax added to see how different levels of azamax influence the growth in the Manduca sexta.
+
+Literature Cited:
+[1] Secondary metabolite. 02/20/2018. https://wikivisually.com/wiki/Secondary_metabolite
+[2] AzaMax. 02/20/2018. https://www.arbico-organics.com/product/azamax-botanical-insecticide-miticide-nematicide/pest-solver-guide-grubs-beetles
+[3] Johnson AD. Comparative Physiology. BIO114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated 1/5/18)
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+2018-02-20+at+11.06.58+AM.png&Size=166481&Type=image%2Fpng&F=F_78tfYULBie0Z5C5
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+2018-02-20+at+11.06.49+AM.png&Size=82838&Type=image%2Fpng&F=F_9vRxRTpavnD6o4J
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+2018-02-20+at+11.06.42+AM.png&Size=115054&Type=image%2Fpng&F=F_dotVxuhIh2ZEWxL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. T-test
+Table 2. Change in weight of caterpillars from day 1 to day 8
+Graph 1. Average Change in Weight of Caterpillars
+
+*************************************************************************

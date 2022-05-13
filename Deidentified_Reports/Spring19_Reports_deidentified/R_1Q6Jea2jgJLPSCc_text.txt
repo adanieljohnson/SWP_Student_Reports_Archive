@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-18 22:24:30
+Author of this lab report is: Std_PPCN57Ky
+ID: R_1Q6Jea2jgJLPSCc
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The Effect of Caffeine on Muscle Contractions in the Leg of a Rana Pipiens Frog
+
+Abstract:
+Muscle contractions are promoted by a nerve impulse that is fired through the neuromuscular junction, which then releases acetylcholine to open sodium channels which releases an action potential. The action potential goes on to open more sodium channels to allow calcium to flood out of the sarcoplasmic reticulum, which causes a muscle contraction. In this experiment, the leg of a "Rana Pipiens" frog was connected to a BNC connector, and pin electrodes were put in the gastrocnemius muscle of the leg, connecting the leg to LabScribe. A pulse amplitude of .5V was fired into the gastrocnemius muscle, causing a muscle contraction. This was repeated with three legs, firing the pulse amplitude in a frog leg without caffeine and with caffeine. It was observed that there was a greater amplitude in the frog leg with the injected caffeine, therefore leading to a greater and more powerful contraction of the gastrocnemius muscle than without caffeine. This is because caffeine allows more calcium to be released, causing the muscle to shorten faster with a greater force due to the abundance. We hypothesize that if caffeine is injected into the frog leg, there will be an increase in muscle contractions and nerve spasms. 
+
+Introduction:
+	In this lab, the muscle contractions of a frog leg of the "Rana Pipiens" were observed. The question tested is, how does caffeine have an impact on muscle contraction and spasms? In the frog leg, there are motor neurons, and the axon of these motor neurons “extend into a muscle then branch out to innervate several individual myofibers, at points called neuromuscular junctions,” (Johnson, 2018). When a nerve impulse is fired, which is what was manually done to the frog leg by LabScribe, it arrives at the neuromuscular junction and releases acetylcholine. The acetylcholine then opens sodium channels which generate an action potential, releasing calcium out of the sarcoplasmic reticulum. The release of this Ca+2 causes the muscle fiber to contract or shorten. (Johnson, 2018). Therefore, we hypothesize that the injection of caffeine into the muscle of the frog leg will cause greater muscle contraction amplitudes, because “caffeine increases skeletal muscle contraction and suggests it exerts the effect through increasing calcium ion release,” (Kolawole & Archie, L.N, 2011). If more calcium is released into the sarcoplasmic reticulum, then a more abundant and stronger contractions will occur. 
+
+Materials and Methods:
+In this lab, the "Rana Pipiens’" leg was placed in the dissecting pan and, with a pair of forceps, the skin was grabbed and peeled down from the thigh towards the foot, until it was off. This was repeated for all three legs. After all the legs were skinned, the legs were placed in the ringer solution which was full of electrolytes. Each leg, one by one, was gently cut from the inner thigh muscle to the knee to separate muscle from the leg and made sure to leave some cartilage to tie the string to. This extra piece of cartilage was tied from the string to the hook. After the muscle was separated from the leg by the string, it was pinned down make sure it was secured. A pulse amplitude was fired through LabScribe, after the frog leg was connected to the computer by a BNC connector and pin electrodes.  The pin electrodes were pinned into the gastrocnemius muscle, and the apply button was pressed to shoot the volts into the muscle. The first leg was shot with different amplitudes to see what the greatest stimulus was, which was .5V in this case. All legs were applied with .5V, the muscle twitch and spasms were observed, and then the amplitude was recorded. The caffeine was then injected into the leg. The pin electrodes were placed back into the leg and apply was pressed to fire the .5V into the muscle. The numbers were recorded, and these steps were repeated for the two other legs to have replicates. After all the data points were recorded, the mean, standard deviation, and standard error were calculated to complete a paired t test, which gave a p value for this experiment. 
+
+Results:
+In this experiment, it was observed that injection of caffeine caused a much greater amplitude in voltages than before caffeine was injected. Before the injection of caffeine, the amplitude of all three frog legs had an average of .58V, and after the injection of the caffeine, the amplitude of all three frog legs had an average of 1.347V. Also, as seen in the chart, the after bar had a much higher amplitude than the before bar. This is a big increase, having the amplitude increase by .767V between both trials. It was also evident to us that frog leg 1 was much larger than frog leg 2 and 3, because this leg had a larger amplitude than the others. Frog leg 3 had an amplitude of .786V while frog leg 2 had an amplitude of .471V and frog leg 3 had an amplitude of .483V, all before the injection of caffeine. By the observations, the muscle contracted more before the injection of caffeine because the muscle seemed to be moving more. However, this is because after the injection of caffeine, the muscle stiffened. Our P Value from our paired t test is below .05, which allows us to conclude that our data is statistically significant. 
+
+Statistics:
+Paired T Test: 
+Average Difference: .767
+N: 3
+D.O.F: 2
+T Value: 17.566933
+P Value: .003225
+
+
+Discussion:
+In this lab, it can be concluded that the caffeine caused a greater amplitude in the muscle contraction, as well as produced more muscle contractions. There was a large difference in the amplitude before the injection of caffeine and after the injection of caffeine. A greater amplitude caused a muscle contraction with a higher tension. Caffeine works by causing an “increase in force of contraction and duration of contraction of skeletal muscle by causing increase release of calcium ions from the sarcoplasmic reticulum through a physical coupling and conformational changes in the voltage sensitive dihydropyridine receptor,”  (Kolawole & Archie, L.N, 2011). The greater release of calcium ions all at once is what causes the large amplitude in the muscle contraction. However, the muscle cannot maintain this for very long, and therefore if fatigue was measured, we would’ve seen that the muscle contraction fatigued a lot faster with caffeine than without. In (Kolawole & Archie, L.N, 2011), they measured amplitude and duration at 5mg/mL and 10mg/mL, and the graphs show that that 10mg/mL sample had a much higher amplitude, and faster contraction. 
+Caffeine is understood to “enhance human performance,” and evidence has shown that caffeine has an “increase in fat oxidation and muscle triglyceride use, a decrease in glycogen use, and an increase in time to exhaustion,” (Kalmar & Cafarelli, 1999). This was supported by our data, because before the caffeine injection the amplitude had a mean of .58V, and then increased to 1.347V after caffeine. This shows that there was an increase in muscle use, therefore giving a stronger reaction than before the injection of caffeine. However, this strong reaction would’ve shortly fatigue since the body cannot maintain this for very long, and eventually run out of calcium released by the single muscle contraction. 
+All in all, the data turned out to be statistically significant, leaving us with a P-Value of .003225, which is less than .05. Therefore, from the results, it can be concluded that the injection of caffeine lead to a higher muscle contraction amplitude, giving us a much stronger muscle contraction in the frog leg. Caffeine does this by an increase in the release of calcium by the opening of more calcium channels, which causes calcium to flood out. However, the flooding of the calcium into the sarcoplasmic reticulum causes a shortcoming of calcium, leading to a faster fatigue which was not tested in this experiment. For further research, I would like to impact of caffeine on fatigue. 
+
+
+Literature Cited:
+References 
+AD Johnson. Comparative Physiology BIO 114 Laboratory Manual. Biology, Wake Forest University, Winston-Salem, NC. Edition Ver. 18.2 (updated 8/2/18) pp. 5-13
+Kalmar, J. M., & Cafarelli, E. (1999). Effects of caffeine on neuromuscular function. Journal of Applied Physiology, 87(2), 801–808. https://doi.org/10.1152/jappl.1999.87.2.801
+Kolawole, O., & Archie, L.N. (2011, June 7). Caffeine Alters Skeletal Muscle Contraction by Opening of Calcium Ion Channels. Current Research Journal of Biological Sciences. Retrieved from http://www.maxwellsci.com/print/crjbs/v3-521-525.pdf
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-18+at+10.23.01+PM.png&Size=208644&Type=image%2Fpng&F=F_1Ny3H8iTpL1KRyP
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-18+at+10.22.02+PM.png&Size=124888&Type=image%2Fpng&F=F_1JOSCWTuzE2dYmM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Muscle Amplitude Before and After Caffeine;The Muscle Amplitude in volts Before and After the injection of caffeine into the frog leg*************************************************************************
+
+
+

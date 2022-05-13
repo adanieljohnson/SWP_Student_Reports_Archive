@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 14:41:22
+Author of this lab report is: Std_iXWK0zo5
+ID: R_1louUzNfUFPWx4I
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Lidocaine negatively affects force exerted and Muscle response
+
+Abstract:
+This experiment studied the effect of sodium blockers, specifically lidocaine, on neuromuscular control and muscle response of the Gastrocnemius muscle of a frog. Sodium channels located in the connected nerve cells control the production of action potentials which cause a series of reactions to occur to make the muscle contract and move. If these sodium channels never open, an action potential can not be produced. The hypothesis of this study stated that after the muscle was injected with the sodium blocker, lidocaine, the muscle response will significantly decrease compared to the untreated muscle. The experiment was conducted by   using the leg muscle of 3 different frogs. First, the threshold of muscle contraction was found for each leg and a set voltage above was used as the control data, then each leg was injected with lidocaine and the muscle response in voltage was again recorded. There was a substantial decrease between the average muscle response before and after the lidocaine was injected. After the lidocaine was injected, all three legs had a muscle response of 0 V, however, the paired t-test did not find a statistical difference (p=0.105) between before and after the lidocaine was injected. As a result, the null hypothesis was not rejected. 
+
+Introduction:
+This experiment tests how the sodium blocker, Lidocaine, affects neuromuscular control of the leg muscle of a frog. The muscle used was the Gastrocnemius muscle of the frog leg which is comparable to the anatomy of a simple thigh making it an ideal test subject. This muscle is connected to the sciatic nerve which is a lower motor neuron. Lower motor neurons are brain cells that specialize in muscle movement and run from the target muscle to the brain via the spinal cord [Purves D et al., 2001]. The impulses from the brain cause the release of acetylcholine from the nerve terminal which binds to the target muscle's membrane [Johnson, 2018].  The binding causes the sodium channels to open which creates an action potential [Johnson, 2018]. An action potential is the electrical signal that travels down the nerve cell to the muscle. This causes a series of reactions in the specific muscle causing the muscle to contract. We wanted to test the effect of blocking these sodium channels on the muscle's contraction rate and force. We tested the hypothesis that if we blocked the sodium channels with Lidocaine, then muscle contractions would significantly decrease compared to an untreated leg muscle. We would expect this because lidocaine blocks the sodium channels which prevents the creation of the electrical signal so the muscle never gets the signal to contract. Understanding how different drugs affect neuromuscular control can lead to advances in the medical field on treating certain neurological diseases. 
+
+Materials and Methods:
+To conduct this experiment, we used 3 frog legs that were provided for us upon arrival. The 3 frog legs varied in size and weight roughly, so we found it more efficient and precise if we used each frog leg to act as its own control and treatment group. Each of the 3 legs were laid out on the dissecting tray and dissected carefully to expose the tissue and remove the skin using small forceps and a simple pulling motion. Once the tissue was exposed down to at least the knee, we connected the electrodes to muscle directly. Once the computer program was running, we set the delivering voltage to 0.1 V. This is the starting point to find threshold for each leg. We started at 0.1 V and increased by increments of 0.1 V until threshold was found for each frog leg. We increased the threshold value by 0.1 V and made that the voltage that would be given to the frog leg to ensure we would observe a muscle contraction. For example, Frog leg #1 had a threshold of 0.4 V, so the voltage delivered was 0.5 V. This was done for each of the frog legs. At the set voltage, a myogram was recorded for 4 single shocks on the frog leg. These 4 values would be averaged to display the force exerted for the frog leg. This process was repeated for the other two frog legs. Once all the data was collected for the control data, 0.1 mL of lidocaine was injected into each of the frog leg muscles. This would begin the treatment data collection. After waiting 3 minutes to let the lidocaine spread in the muscle, the sensor was placed back in the muscle. For each frog leg the specific voltage that was delivered in the control part of the experiment was delivered again for 4 shocks. These values were averaged. The control data and treatment data averages for each frog leg were compared by using a double bar graph and a paired t-test.
+
+Results:
+During the run of the experiment, each of the frog leg muscles had normal consistent muscle response, measured in voltage, prior to the injection of the lidocaine. Prior to the injection of the lidocaine, Frog leg #1 exerted an average of 0.0285 V with a standard deviation of 0.001 V over the 4 shocks, Frog leg #2 exerted an average of 0.10725 V with a standard deviation of 0.027 V over the 4 shocks, and Frog leg #3 exerted an average of 0.06425 V with a standard deviation of 0.002 V over the 4 shocks (Figure 1). After the shot of lidocaine was given, each frog leg exerted an average of 0 V (Figure 1). This was a significant decrease in muscle response between the control data collection and the treatment data, however, the paired t-test found a p-value of 0.105. 
+
+Discussion:
+This experiment was designed to study the effects of neuromuscular output when the gastrocnemius muscle was injected with the sodium blocker, Lidocaine. We hypothesized that after the lidocaine was injected into each muscle, the muscle response would significantly decrease. The muscle response did decrease greatly, so much so there was no response at all at 0 V, however, this drastic change was not found to be statistically significant enough to support our hypothesis. The p-value was not significant, because it was not less than the alpha level of 0.05 and led to failing to reject null hypothesis. Lidocaine blocked the sodium channels preventing the production of an electrical signal that would've been delivered to the muscle. This caused the lack of muscle response in the treated legs. The study of medicinals like lidocaine that affect neuromuscular control and force output can have several  practical implications especially in the medical field. A study was done at Harvard's School of Medicine that examined the relationship between the use of lidocaine to block abnormal nerve impulses on adult grassfrog legs [Khodorova, A, et al, 2001]. They found that lidocaine was effective in blocking the faulty sodium channels which caused the abnormal and unnecessary nerve firings. This study shows how useful lidocaine is in stopping neuromuscular movement and the potential uses in the medical field to treat certain neuromuscular disorders. Unlike this study our results were not found to be statistically significant, so if we were to redo the experiment I believe we should set the given voltage way above threshold and use the same voltage for all three frog legs to ensure there is a standardized statistical difference between the control and treatment data. 
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated August 12, 2018), pp. 17.
+2. Purves D, Augustine GJ, Fitzpatrick D, et al. 2001. Motor-neuron muscle relationships. In: Sunderland (MA), editors. Neuroscience, 2nd ed. Sinauer Associates. pp. 
+3. Khodorova  A, Meissner K, Leeson S, Strichartz GR. 2001. Lidocaine selectively blocks abnormal impulses arising from noninactivating Na channels. Muscle and Nerve. 24: 634-64.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+of+Frog+Data.png&Size=50125&Type=image%2Fpng&F=F_1Cw0e1eT7qaETsq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure I. Average change in Muscle Response (V) comparing prior to the lidocaine injection and after the lidocaine injection on the 3 frog legs. After the lidocaine was injected into each leg, the muscle response for all three legs was approximately equal to 0 V.*************************************************************************
+
+
+

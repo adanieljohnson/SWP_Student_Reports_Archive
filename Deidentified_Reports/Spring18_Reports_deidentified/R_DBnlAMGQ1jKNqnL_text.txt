@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-03 21:54:24
+Author of this lab report is: Std_uXYlkQKH
+ID: R_DBnlAMGQ1jKNqnL
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of Solution Salinity on Photosynthetic Activity in Spinach Chloroplasts
+
+Abstract:
+Certain environmental conditions should be established in order for photosynthesis to occur efficiently. Soil salinity is one of these environmental conditions that may reduce photosynthetic activity if it exists unnaturally due to its interaction with plant enzymes. To test this theory, the process of photosynthetic electron transfer was measured by the Hill reaction in order to observe the experimental rate of photosynthesis. It was found that the increase in salinity did not significantly decrease the photosynthetic rate within the chloroplasts even though theoretically, it should have. Several experimental errors may have contributed to these results. 
+
+Introduction:
+During photosynthesis, light is absorbed by the chlorophyll molecules and the reaction induces a series of several electron transport complexes aided by carriers such as NADPH to create a proton gradient. This proton gradient powers ATP synthesis and the ATP is then used to synthesize glucose [Johnson: 2018]. Thus, photosynthesis is a vital biological process for plant survival because it ensures that plants have the necessary nutrients in order to carry out growth and other functions. However, certain environmental conditions should be established in order for this process to be fully effective and beneficial. While it has been observed that some plants are able to alter their gene expression for various photosynthetic genes in response to various environmental stressors, like drought and NaCl stresses, some plants have a lower ability to tolerate these stressors than others. The presence of NaCl also creates ion toxicity within the plant’s cells which may severely affect the plant’s metabolic and photosynthetic pathways because a high concentration of Na+ inhibits many enzymes. Some plants are able to avoid these effects by preventing the NaCl’s entry into the cell or by trapping it in the vaculus but again, not all plants are able to do so. [Chaves: 2009]. Thus, it is important to test the effects of NaCl stress directly on chloroplast activity in order to observe the effect for plants that are unable to prevent the salt’s entry into the cell.  The process of electron transfer will be measured by the Hill reaction in order to observe the experimental rate of photosynthesis. Additionally, DCPIP will be used as the alternative electron acceptor for this experiment. DCPIP allows us to visualize the activity of photosynthesis because it’s reduction during the process of participating in photosynthetic reactions causes its color to slowly change from blue to colorless. This change in color can then be used to measure the solution’s absorbance which correlates to photosynthetic activity. [Johnson: 2018]. We hypothesize that with an increase in NaCl concentration, photosynthetic activity in the chloroplast will also decrease and eventually stop altogether due to the salt’s interaction with the electron transport chain.
+
+Materials and Methods:
+We removed the large central veins from 4 medium-sized spinach leaves, rinsed the leaves, and blotted away excess moisture. The spinach leaves and 10 ml of cold grinding buffer were then added to a mortar and pestle and the contents were grinded into a thick paste. An additional 10 ml of grinding buffer was added, and the mixture was mixed into a slurry then strained through three layers of cheesecloth into a beaker. 50 ml of the filtered liquid was transferred from the beaker to a chilled 50 ml centrifuge tube marked “A” and spun at 200 x G (1200 rpm) for 3 minutes at 4℃. . The supernatant was poured out of the tube marked A into a second chilled 50 ml centrifuge tube marked “B” and tube B was centrifuged at 1000 x G (2800 rpm) for 10 minutes at 4℃. . The supernatant out of tube B was then poured into another 50 ml centrifuge tube marked “C”, while being sure to not disturb the pellet.  20 ml of grinding buffer was then added to the pellet and it was suspend by stirring gently with a transfer pipet. This solution was used for the next step of the experiment because it has the highest chloroplast concentration.  To quantify the reduction in photosynthesis, a Hill Reaction was performed with a positive control of solution with chloroplasts and 0 mM NaCl concentration as well as a negative control of solutions with no chloroplasts and 0 mM, 50 mM, and 100 mM NaCl concentrations. We labeled 13 large test tubes and added 2 ml of reaction buffer to all the tubes and 2 ml of DCPIP to all of the tubes except tube 1. Then 8 ml of water were added to tube 1 and 5 ml of water to tubes 2-13. For the reaction mixtures, no salt solution was added to tubes 2-4, 1 ml of 0 mM salt solution was added to tubes 5-7, 1 ml of 50 mM salt solution was added to tubes 8-10, and 1 ml of 100 mM salt solution was added to tubes 11-13. Lastly, 100 ul of the enriched chloroplast solution was added to the blank tube (tube 1) as well as tubes 4-13 and each was immediately mixed. The mixtures were then transferred to spectrophotometer cuvettes. Immediately, the spectrophotometer was set to 600 nm and blanked with tube 1 then absorbance measurements were taken of all other tubes for “A (t=0).” The samples were placed in adequate lighting and the absorbances were measured after 10 minutes “A (t=10)” and then again after another 10 minutes “A (t=20).” The results were analyzed using a Tukey-Kramer one-way analysis of variance for the three experimental groups.
+
+Results:
+The solutions with no chloroplasts had an average percent change over time in photosynthetic activity of 1.16 ± 0.48 %. The 0 mM solution had an average percent change over time in photosynthetic activity of 1.60 ± 1.39 %, the 50 mM solution had an average percent change over time in photosynthetic activity of 2.19 ± 2.36 %, and the 100 mM solution had an average percent change over time in photosynthetic activity of 2.87 ± 3.41 %. Overall, these experimental results were found to be insignificant (p = 0.584).
+
+Discussion:
+The experimental results were found to be insignificant (p = 0.584) because the percent change in absorbance, which is reflective of the percent change in photosynthetic activity, didn’t vary or all of the solutions meaning that photosynthesis was occurring. These results also show that the variation in the photosynthesis which was occurring at different rates depending on the NaCl concentration present was insignificant as well. In conclusion, this experiment showed that the increase in solution salinity does not inhibit photosynthetic activity within spinach chloroplast even though theoretically, it should do so.  However, this process is not immune to human and experimental error and several aspects may have contributed to these results. Firstly, the NaCl solutions may have been too dilute and thus the NaCl was unable to have an impactful effect on the biological processes within the chloroplasts. The process of NaCl entry into the chloroplasts may have required more than 30 minutes meaning that the effects may have not been observed because the NaCl interacted with the cell but didn't have a chance to impact the electron transport chain. Additionally, the photosynthetic activity within a tube containing chloroplasts and DCPIP at normal environmental conditions should have also been observed in order to ensure that the chloroplasts themselves were not defective [Seemann: 1985].  In order to make this experiment more effective, chloroplasts should be extracted from a plant that is known to be affected by salinity to insure that the plant’s defense mechanisms do not alter the observed data. The concentration of the NaCl solutions and the wait time of the reaction should also be increased to ensure that the NaCl is able to fully interact with the chloroplasts. Exploring these effects is significant in the grand scheme of environmental consciousness because soil salinity levels have been increasing due to the presence of heavy metals in unregulated industrial and agricultural wastewater runoff [Yan: 2018]. With this increase in salinity, it is important to understand the effects on plant photosynthesis in order to ensure that the growth of natural vegetation can be sustained while our environmental conditions continue to change.
+
+Literature Cited:
+Chaves, M.M;  Flexas, J; Pinheiro, C. 2009. Photosynthesis Under Drought and Salt Stress:  Regulation Mechanisms From Whole Plant to Cell. Annals of Botany. 103:551–560  
+Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake  Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), Web.  
+Seemann, J.R; Critchley, C. 1985. Effects of Salt Stress on the Growth, Ion Content,Stomatal  Behaviour and Photosynthetic Capacity of a Salt-Sensitive Species, Phaseolus vulgaris L. Planta. 164: 151-162.  
+Yan, X; Liu, M; Zhong, J. 2018. How Human Activities Affect Heavy Metal Contamination of  Soil and Sediment in a Long-Term Reclaimed Area of the Liaohe River Delta, North China. Sustainability. 10:338-340.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=214p.png&Size=26071&Type=image%2Fpng&F=F_3EhZpHWtrryIqtk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The percent change in absorbance for chloroplast solutions in varying NaCl concentrations shows that the changes in photosynthetic activity caused by the salt’s presence was insignificant. 
+
+*************************************************************************

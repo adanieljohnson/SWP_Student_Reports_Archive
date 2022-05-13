@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-08 12:00:22
+Author of this lab report is: Std_CrOeI1Rv
+ID: R_2rGEHiBgwiZkXAm
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Gastrocnemius muscle and the effect of injecting acetylcholine raising the minimum voltage potential.
+
+Abstract:
+The gastrocnemius muscle is a skeletal muscle that demonstrates the functions and relationship of how the nervous system and muscular system work together. Acetylcholine (Ach) is a neurotransmitter that is released and the neuromuscular junction which causes the muscle to contract at a certain voltage threshold, so it tested to see if an excess amount of neurotransmitter would lower the voltage threshold. The control groups remained under normal conditions and were measured by an electrophysiological recorder in order to find it minimum voltage threshold and then 2 mg/mL was injected afterwards and recorded again to see if there was a difference. The average voltage threshold on non-injected muscles were 0.16V and the average of injected muscles were 0.31V. The results were significant at a p-value of 0.013, so the data shows that an increase in Ach in muscles will increase the voltage threshold. The hypothesis states that when acetylcholine is injected into the gastrocnemius muscle, then the voltage threshold will be lowered because the excess chemical gradient will start an action potential quickly. 
+
+Introduction:
+The neuromuscular system has nerves and muscles that work together through electrochemical signaling. They work together because stimuli respond to external and internal factors by sending electrical signals through the nervous system until it reaches the muscular system. These electrochemical signals are sent through motor neurons at the neuromuscular junctions. Neurotransmitters called acetylcholine (Ach) is released and causes action potentials by activating sodium and potassium channels which cause the release of calcium ions which cause the muscle to contract. However, when these neurotransmitters are released, the action potential has to reach a minimum voltage potential in order for a muscle to contract. A question arises then is that what influences the minimum voltage potential and how can it be lowered? This is important to know because this can alter the voltage threshold of muscle contractions and cause some serious effects such as seizures, performance decrements, or in many cases permanent brain damage. [Bhupendra 2005] The hypothesis states that if there is excess acetylcholine released in the muscles, then the minimum voltage potential will decrease because an excess chemical gradient will require less electrical signaling to start an action potential. 
+
+Materials and Methods:
+The procedure is done and recorded through the system of iWorx because it acts as an electrophysiological recorder. This experiment will have three frog legs that are all kept in room temperature and constantly kept moist with frog Ringer’s solution. Each leg will be set up individually so that the gastrocnemius muscle is raised at a 90-degree angle and that the sciatic nerve does not come into contact with any metal. Each frog leg will be tested for their minimum voltage potential and then they will each be injected with 2 mg/mL of acetylcholine (Ach) and tested for the minimum voltage potential to see their differences. When each frog leg is prepared and set up with the gastrocnemius muscle isolated and connected to the force transducer, the frog leg will start at 0.000V and be sent signals at 0.05V increments until each of the minimum voltage thresholds are reached and recorded. The independent variable is the volume of acetylcholine injected into the gastrocnemius muscle and the dependent variable is the minimum voltage potential; this experiment is a paired t-test.
+
+Results:
+By the end of the trial, the had an average difference of 0.15V from the experimental group compared to the control group. The range of voltage in the experimental group was 0.14V and the range of voltage in the control group was 0.08V. The voltages of the experiential and control groups of frog legs 1 & 2 were very similar, frog leg 3 is an outlier by having a higher voltage for the experimental and control group. The average of the control group compared to the experimental group was statistically significantly different (t-value = 8.660254, df = 2, one-tailed p-value = 0.013072). 
+
+Discussion:
+Based on the experimental results, the hypothesis was not supported because the experimental groups that contained excess acetylcholine (Ach) had a larger voltage threshold compared to the control group. The p-value shows how the data was significant because it was below 0.05. The null hypothesis was not able to be rejected because the voltage threshold was not lowered due to excess acetylcholine, it was instead increased. This does not support previous research because when Ach is infused into the gastrocnemius muscle, the capillary filtration coefficient should have increased which would increase capillary permeability and therefore increase the blood flow of the neurotransmitters. [Kjellmer 1965] When these neurotransmitters reach the neuromuscular junctions, the spread of Ach diffusion is lower than the rate of Ach binding to the Ach receptors, showing that when there is excess Ach it should lower the voltage threshold since the cleft will become super-saturated. [Matthews-Bellinger 1978] The outcome in this experiment could be that since there was excess Ach surrounding the axon terminal of the neuromuscular junction, its blocked ion channels in order to reset to electrochemical equilibrium for another action potential to occur. In this case, the Ach disrupts the process of chemical and electrical equilibrium for an action potential to occur after the initial threshold was reached. This data found is important to know because Myasthenia gravis, a chronic autoimmune neuromuscular disease, is due to a shortage of Ach receptors which causes a weakness in skeletal muscles. Theoretically, an excess concentration of Ach should lower the voltage threshold but it is observed that chronic elevations of Ach from organophosphorus poisoning actually results in down-regulations of the Ach receptors which would increase the voltage threshold of muscle stimuli. [Martyn 1992] So according to this research, injecting Ach into the muscle could have cause a degradation of Ach receptors which would have lowered the rate of Ach binding sites and raise the voltage potential for muscle stimuli. This is important to know because when treating diseases such as Myasthenia gravis, it is important to know how concentrations of Ach and Ach receptors effect muscle regulation and how they can be altered to act normally. Since the data was significant, a hypothesis to test for a future lab could be in testing different concentrations of acetylcholine to inject into the gastrocnemius muscle in order to test which concentration lowers the threshold. 
+
+
+Literature Cited:
+1.	Bhupendra P. Doctor, Ashima Saxena. 2005. Bio scavengers for the protection of humans against organophosphate toxicity. Chemical-Biological Interactions. 157-158: 167-171. 
+2.	I. Kjellmer, H. Olderam. 1965. The Effect of Some Physiological Vasodilators on the Vascular Bed of Skeletal Muscle. Acta Physiologica. 63: 94-102.
+3.	J. Matthews-Bellinger, M M Salpeter. 1978. Distribution of acetylcholine receptors at frog neuromuscular junctions with a discussion of some physiological implications. The Journal of Physiology. 279: 197-213.
+4.	JA Martyn, DA White, GA Gronert, RS Jaffe, JM Ward. 1992. Up-and-down regulation of skeletal muscle acetylcholine receptors. Effects on neuromuscular blockers. Europe PMC. 78: 216-218.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-07+at+7.02.09+PM.png&Size=23946&Type=image%2Fpng&F=F_eh8CtJvlTQK2oa5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+The effect of non-injected and injected (2 mg/mL) acetylcholine (Ach) on the voltage threshold of the gastrocnemius muscle. The muscle injected with excess Ach had higher much higher voltage thresholds, with an average voltage of 0.31V, compared to the muscle not injected with excess, which had an average voltage of 0.16V. The non-injected muscle acts as the control group and the injected muscle acts as the experimental group. *************************************************************************
+
+
+

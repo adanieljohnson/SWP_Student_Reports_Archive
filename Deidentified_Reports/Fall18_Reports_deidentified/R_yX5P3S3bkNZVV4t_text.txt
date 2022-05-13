@@ -1,0 +1,101 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-09-26 13:47:10
+Author of this lab report is: Std_GoAL9sHK
+ID: R_yX5P3S3bkNZVV4t
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The Effects of IGR Based Ecdysterone Inhibition on Growth and Development in Manduca sexta
+
+Abstract:
+Manduca sexta is a holometabolous insect that experiences several larval instars throughout its developmental process, which are largely governed by the balance of juvenile hormone (JH) and ecdysterone (20E). Ecdysterone, the focus of this paper, controls molt behaviours/ability and is especially important in a developmental period known as the “commitment pulse”. The objective of this experiment is to determine the effect of 20E inhibition in the Manduca sexta caterpillar. To study this, we exposed the caterpillars to constant environmental conditions, with our independent variable being the addition of AzaGuard (a 20E inhibitor IGR) to the food of the experimental group. With the inhibition of 20E, we expected the caterpillars to be unable to properly grow and develop, and never enter their pupal stage. Our results found that over the course of 15 days, the experimental group of caterpillars exposed to 20E inhibitors were unable to pupate and develop at the rate of the uncontaminated control group. Our experiment further supported the strong existing evidence that inhibition of the 20E hormone interrupts normal development in larval Manduca sexta caterpillars. 
+
+
+Introduction:
+The Manduca sexta caterpillar (tobacco hornworm) is a highly invasive pest threatening much of the continental US, feeding on common plants such as tomato, eggplant, peppers, and as it’s common name suggests, tobacco plants [Byron: 2018]. 
+The tobacco hornworm is a holometabolous insect, experiencing five characteristic larval growth stages called instars, which lead to eclosion and then to a reproductively fit adult [AD Johnson: 2018]. During Manduca sexta’s development, two major hormones play a key role in their growth and development: juvenile hormone (JH), and ecdysterone (20E) [AD Johnson: 2018]. JH (produced in the corpus allata) mainly regulates type of molt during development, while 20E (produced in the prothoracic glands) regulates the timing of molt in larvae  [AD Johnson: 2018]. Throughout development, these hormones alternate in bodily dominance and determine vital milestones in developmental processes. When the caterpillar reaches the 5th larval instar in its development, for the first time, the bodily levels of 20E slightly rise above JH levels, causing what is known as the “commitment pulse” [AD Johnson: 2018]. After the commitment pulse occurs, the caterpillar enters a stage known as wandering, were they stop searching for food and eating, and begin to become more sedentary, preparing them for pupation [Levine: 1990]. Once they begin eclosion, they form an outer cuticle known as a pupa, and begin their transformation into an adult moth.
+Since Manduca sexta is such a harmful force in north american agriculture, insect growth regulators, or IGRs, are commonly used as a form of pesticide. IGRs function by mimicking or inhibiting hormones in larval insects, preventing them from developing into adults and yielding new generations of equally invasive offspring [NPIC: 2015]. 
+The IGR we focused on during this experiment was azadirachtin, or “AzaGuard”, a chemical that is believed the halt the production of 20E during Manduca sexta development. AzaGuard is a commercially used IGR that has been found successful in killing Manduca sexta larvae because it inhibits the secretion of 20E in Manduca [BioSafe Systems LLC, 2011]. Since the rise of 20E levels over JH during the commitment pulse is imperative in allowing the body to begin pupal development and grow into an adult [Bollenbacher: 1981], we believed that using AzaGuard would render the affected caterpillars unable to grow, develop, and eventually pupate to the extent of non-affected caterpillars. By interrupting the necessary ratio of JH to 20E, pupation should never occur due to the inability to time a molt and therefore grow.
+
+
+Materials and Methods:
+First we gathered two containers each with four quadrants, and lids for the whole container. When closed, these containers would provide individual environments for each caterpillar (control or experimental). We then poked holes in each quadrant to allow for air exchange so the caterpillars could breath. Then we collected 80 grams of general caterpillar feed and weighed out 10 grams for each quadrant across both containers. To introduce our main independent variable of the experiment, we pipetted 7 drops of 1:1250 AzaGuard solution into the four quadrants of what will be our experimental group container. To create equal levels of moisture in both experimental and control group containers, we then pipetted 7 drops of distilled water into each quadrant of what will be the control group container. After this we used metal spoons to mix and then condense the moistened food into a corner of each quadrant so there would be living room for Manduca sexta. 
+Once the food was prepared, we randomly selected 8 Manduca sexta of varying weights, all within their 4th or 5th larval instar, but before their commitment pulse. We then took initial masses of our caterpillars in a weigh boat on a zeroed balance (in grams). We decided to record their masses rather than any other measurement (like length) because that was most indicative measure to determine any differences in growth and development. After this we placed them in a 25ºC incubator, of which they would spend the rest of the experiment in (not including when we measure and observe their progress). We continued to monitor our caterpillars over the next 14 days (just to clarify the experiment was 15 days total), making sure to refresh their food supply complete with their added liquids, and remove any excrement.  
+After our data collection period ended, we froze the remaining caterpillars (alive, dead, or pupae) and disposed of them, since they are a highly invasive species especially in North Carolina. After organizing our group’s data we calculated each caterpillar’s maximum change in weight. We then entered those numbers into a single tailed two sample t test, and also took the standard deviation of our values to determine statistical significance between the control and experimental groups. 
+To make this easier to conceptualize and possibly reproduce, please reference Figure 1 which maps out our experiment’s general layout.  
+
+
+Results:
+In days 1-2 of this experiment, both caterpillar groups developed with a similar upward trend. However, by days 4-5 the experimental caterpillars began to steadily decreased in body mass. The control caterpillars experienced a spike in body mass and then a gradual decrease (Figure 3).
+ 	The maximum change in body mass was much greater in the control group than the experimental group. (5.14g for the control and 2.86g for the experimental) (Figure 4). These values are statistically significant as the error bars in Figure 5 do not overlap, and the single tail two sample T test value is p=0.0086. This suggests that the difference in body mass between groups is highly unlikely to occur under a null hypothesis.
+	The control caterpillars also pupated at a higher rates than the experimental group. Figure 2 expresses that ¾ control caterpillars pupated while all experimental caterpillars did not. In fact, ¾ experimental caterpillars died. Figure 6 provides visual evidence for pupation between the two testing groups. 
+
+
+Discussion:
+The results of this experiment support our initial hypothesis that the inhibition of 20E in Manduca sexta will result in less successful growth and the inability to pupate. 
+Regarding the first part of our hypothesis which predicted lesser growth and development in the caterpillars, please reference Figures 3 and 4. The maximum change in weight in the caterpillars refers to the difference in body mass they experienced from the point at which they were the smallest, to the point at which they were the largest. The average maximum change in body mass for the control group was much higher than that of the experimental group.  In Figure 3, the main difference between the growth patterns of the two testing groups is the control group’s spike in body mass occuring at around days 4-5 of the experiment. With all controllable environmental factors being constant between the two testing groups, it is clear that the variable most likely responsible for these differences is the AzaGuard solution mixed in with the food of the experimental group.  Ecdysterone has been found to increase in Manduca Sexta immediately before molt, suggesting that it is responsible for the timing of molt [Bollenbacher: 1981]. With the inhibition of 20E caused by the IGR, the experimental caterpillars are thusly unable to molt, and therefore grow and develop body masses like that of the control group. The spike in the body mass of the control is most likely due to their increased consumption of food, and subsequent loss of water stored in the body, all to prepare for pupation [Bollenbacher: 1981]. Figure 5 further supports the claim that AzaGuard has a measurable and significant effect on the growth of Manduca sexta. With all other factors being constant between groups besides the introduction of AzaGuard into the food, it is most likely the inhibition of the 20E that is responsible for this disparity in body mass. 
+The second part of our hypothesis stating that the 20E inhibitor most likely had an
+impact on the pupation of the caterpillars is also convincing. Figure 2 indicates pupation success in the control group while showing pupation failure in the experimental group. Since 20E is responsible for molt timing, and therefore the molt into a hard cuticle pupae, ecdysterone is imperative for pupation [Bollenbacher: 1981]. Then of course, without 20E, since it was inhibited by the Azaguard, pupation would be especially difficult to occur for the experimental group. In reference to purely qualitative evidence, please look at Figure 6. As shown, all experimental caterpillars look discoloured, stiff, and even juvenile in appearance. Even though caterpillar 1 of the experimental group looks discoloured, it was most likely near death and could have not pupated due to environmental stressors, or extraneous anomalies that were not accounted for in this experiment. This further supports that the inhibition of 20E has holistic impacts on the health and development of Manduca larvae.  
+	Even though the statistical evidence and qualitative evidence to support the hypothesis is grounded, there were still some errors in our experimental processes. The relatively small sample size of both experimental and control groups left us with the minimum N value (4) for a statistically accurate T test. Also, the occurrence of caterpillar death for reasons unrelated to the experiment is prevalent, so the addition of more caterpillars into each group would diffuse the significance of this unpredictable event.  In future experiments, possibly increasing the caterpillar sample sizes in each group to at least 6 would create even more statistically firm results. During our data collection period, Hurricane Florence rendered us unable to enter the lab and collect daily results for days 10-12, so repeating this experiment with purely daily data recordings could be beneficial.    
+	With the results of this experiment still strongly supporting the theory that inhibition of 20E in Manduca sexta renders the organism unable to develop properly and pupate, there are many possible applications of this knowledge. IGRs are used as pesticides to target specific species that damage crops [Siddall: 1976]. As mentioned earlier, the invasiveness of Manduca sexta is a problem that could more surely be alleviated. With this experiment supporting the already strong foundation of knowledge regarding IGRs and their effect on insects, there is now more confidence that these chemicals work in disabling growth mechanisms in harmful insects like this. Even though this experiment is simply another reinforcement of the effects of 20E inhibition in Manduca sexta, this contributes to a broad scientific understanding of the impacts of IGRs on the Manduca life cycle. 
+
+Literature Cited:
+1. Byron MA. Entomology and Nematology Department, University of Florida. Accessed September 24, 2018. https://entomology.ifas.ufl.edu/creatures/field/hornworm.htm
+
+2.Oregon State University. National Pesticide Information Center. Accessed September 23, 2018. http://npic.orst.edu/ingred/ptype/igr.html
+
+3.Levine RB, Weeks JC. 1990. Hormonally Mediated Changes in Simple Reflex Circuits During Metamorphosis in Manduca. Journal of Neurobiology. 21:1022-1036.
+
+4.Bollenbacher WE, Smith SL, Goodman W, Gilbert LI. 1981. Ecdysteroid titer during larval-pupal-adult development of the tobacco hornworm, Manduca sexta. General and Comparative Endocrinology. 44: 306-302. 
+
+5.Biosafe Systems LLC. 2011. AzaGuard Specimen Label. http://florawww.eeb.uconn.edu/msds/azaguard_label.pdf 
+
+6.Siddall JB. 1976. Insect growth regulators and insect control: a critical appraisal. Environmental Health Perspectives. 14:119-126. 
+
+7.Johnson AD. Hormone Regulation. Comparative Physiology Bio114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2, (updated August 12, 2018) pp. 5-16. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure1.png&Size=210371&Type=image%2Fpng&F=F_3qBAiu6wiwxWZXR
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=242188&Type=image%2Fpng&F=F_3g0MJrqoAqkiJKc
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+3.png&Size=217072&Type=image%2Fpng&F=F_s69uUCSNLmpzIUF
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+4.png&Size=60154&Type=image%2Fpng&F=F_3PoyBLdayLfp8wM
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+5.png&Size=70875&Type=image%2Fpng&F=F_3kMURgF4hWkoh5E
+
+Figure 6: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+6.jpg&Size=76023&Type=image%2Fjpeg&F=F_1IzxSJR0ALCgJPJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Our experimental design.
+
+Figure 2: Daily mass measurement of Manduca sexta. (Omit days 10-12, inability to access lab due to Hurricane Florence).
+
+Figure 3: Growth chart over 15 days for all Manduca sexta participating in experiment. “Control #” refers to the control group that wasn't exposed to a 20E inhibitor, “Exp #” refers to the experimental group that was treated the 20E inhibitor (AzaGuard). 
+
+Figure 4: Maximum change in weight for Manduca sexta over 15 day testing period including averages for groups and standard deviation values.
+
+Figure 5: Average maximum change in weight for control and experimental Manduca sexta groups. The p value of the single tail T test is p = 0.0086.
+
+Figure 6: Manduca sexta caterpillars on day 15 of the experiment after final measurements have been taken. Control caterpillars 2-4 have pupated, control 1 was still alive. All experimentals did not pupate, caterpillar 1 survived while 2-4 were most likely dead. 
+*************************************************************************
+
+
+

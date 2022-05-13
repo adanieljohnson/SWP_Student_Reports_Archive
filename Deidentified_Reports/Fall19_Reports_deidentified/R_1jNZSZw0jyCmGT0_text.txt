@@ -1,0 +1,75 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-29 16:28:25
+Author of this lab report is: Std_2pvlNbYb
+ID: R_1jNZSZw0jyCmGT0
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The effect of light-dependent herbicide Atrazine on photosynthesis
+
+Abstract:
+In the experiment, we used herbicide Atrazine to test its light-induced characteristic and its impacts on Photosystem II activity. Atrazine blocks photosynthetic electron transport which ultimately stops the photosynthesis and leads to plant death. In the lab, three groups of samples with different amount of herbicide were used in both bright and dark environment. We used Hill reaction to measure the Photosystem II activity by recording absorbance. Result were not significant to conclude that Atrazine is a light-dependent herbicide. However, there were still differences between groups both in light – groups not received herbicide versus groups received herbicide. The experiment could be improved by changing the reactants or the procedure. It is essential to learn the function of herbicides because they could both contribute to or damage agriculture and environment. 
+
+Introduction:
+Cell is the basic structural and functional unit of all organisms. Cells can be classified into eukaryotes and prokaryotes. Eukaryotic cells have membrane – bounded organelles such as nucleus, Golgi apparatus, endoplasmic reticulum and etc. Two most important organelles are mitochondria and chloroplasts which provide a large amount of energy and resources to the cells. 
+In this experiment, we mainly focused on the chloroplast which conducts the photosynthesis only in plant cells. Photosynthesis sustains virtually all life on planet Earth providing the oxygen we breathe and the food we eat. Two major reactions are carried out in the process of photosynthesis – the light-dependent reaction and the Calvin cycle [Johnson: 2016]. Light-dependent reaction takes place in Photosystem II and the electrons are excited by photons from the light. Electron carriers like ATP and NADPH2 carries the electrons from Photosystem II to Photosystem I to start the Calvin cycle to generate glucose molecules. In this experiment, we studied the effect of herbicide Atrazine on chloroplast and photosynthesis. Herbicides used to control plants, usually the unwanted weed in agriculture. Atrazine is an herbicide of the triazine class. The triazines effectively block photosynthetic electron transport at the level of the Photosystem II acceptor site [Rensen: 1990]. Researches have shown that Atrazine’s inhibitory is significantly depend on light intensity [Mayasich: 1986]. 
+Our biological question is to study the effectiveness of Atrazine when the light is present or not. In order to measure the activity of electron transport chain that takes place in Photosystem II, the Hill reaction was used. An alternative electron acceptor 2,6-dichlorophenol indophenol (DCIP) was used since the oxidized DCIP changes color from blue to colorless so that we were able to detect the inhibition in Photosystem II by any decrease in the light absorbance.
+
+
+Materials and Methods:
+4 leaves of spinach without veins and 20 mL of grinding buffer were added to a mortar & pestle. The paste was added to a centrifuge tube and was centrifuged twice. The chloroplast pellet at bottom of the tube was collected. 
+We labelled 10 tubes and separated them into 4 groups – #1 blank, #2-4 under the light without herbicide (control group), #5-7 under the light with herbicide and #8-10 in the dark with herbicide. Specific amounts of water, reaction buffer, herbicide and DCIP were added to each tube for the Hill reaction. Solution was transferred to correspond cuvettes. We blanked the spectrophotometer using the blank and measured the absorbance of all samples at 600 nm. We placed cuvettes #1-7 under the light, #8-10 in the dark drawer. After every 10 minutes, the absorbance was collected again until we got 4 sets of data. The percentage change for each sample was calculated and the percentage changes at 30 minutes were used in a two-sample t-test for p-value and further conclusion.
+
+
+Results:
+The percentage change for every 10-minute interval was calculated and shown in Fig. 1. For the group that did not receive herbicide, the absorbance value declined with a percentage change of 5.65±8.39 at the 30-minute time point. The absorbance values did not change much for the groups that received herbicide, with a percentage change of 0.2±1.32 under the light and -0.26±1.00 in the dark at 30-minute point. The p-value was 0.16 when comparing both groups in light and for the groups both received herbicide, the p-value was 0.33. 
+
+Discussion:
+According to the p-values we obtained from the experiment, both results were over 0.05 which were insignificant so that we concluded that our experiment was insufficient to prove Atrazine’s effect changes when the light is present or not. 
+Theoretically, according to the function of DCIP and Atrazine, the percentage change in absorbance for the samples did not receive herbicide in the light should be significant since there was light to excite the electrons to provide energy to start the light-dependent reaction. The alternate electron acceptor DCIP was able to change color from dark blue to colorless when it received electrons which led to a decrease in the overall absorbance value. On the other hand, the percentage change for the samples received herbicide in the light should be 0 as the electron transport was blocked [Rensen: 1990]. Without electrons, DCIP was not able to be oxidized and change color. Since herbicide Atrazine is light-dependent, the sample in the dark should have some changes as the herbicide did not function. However, we realized that even though the herbicide would not function, we still could not reach to a conclusion as the electrons were not excited without the light. Changing two variables at a time would not be sufficient enough to get a conclusion. 
+Even if p-values were not significant, we still observed a huge difference on the graph shown in Fig. 1. The percentage change for samples without herbicide in light were much higher than changes for the samples received herbicide in light. This difference implied that the herbicide did work and affected the electron transport process. 
+There are a few reasons that might explain our result. First of all, the Atrazine was a cloudy solution and the cloudy state was stable for a long time [Nagaraju: 2007]. Less light was allowed to pass through a highly turbid or colored solution than through a clear solution [Bassiri: 2019]. The turbid Atrazine solution affected the true result of the absorbance which led to the insignificant final result. Second, DCIP might not be working during the experiment since we did not observe the obvious changes for the samples in the control group. Also, the Atrazine’s effectiveness could decrease as it was bought years ago. All these factors could contribute to the final results of our experiment. In order to improve our experiment, we can change to new solutions of Atrazine and DCIP. In addition, during the experiment, we can leave the Atrazine in the tube without mixing to avoid the turbidity. 
+Learning the function and effectiveness of herbicide Atrazine is necessary as Atrazine is the most heavily used applied agricultural pesticide for crop production in the United States [Rusiecki: 2004]. Researchers have found Atrazine contamination levels were positively associate with stomach cancer incidence [Leeuwen: 1999]. We have to be really careful when using Atrazine. For example, if the agriculture is grown in a place with low light intensity, then use Atrazine might not be a good option compared with other herbicides since it is not effective without enough light intensity. As a result, more Atrazine will be added to reach the level of effectiveness and ecosystem will be contaminated.
+
+
+Literature Cited:
+1. Johnson Matthew P. 2017. Essays Biochem. Photosynthesis. 60(3). pp. 255-273.
+2. Mayasich J. M., Karlander E.P., Terlizzi Jr. D. E.1986. Aquatic Toxicology. Growth responses of Nannochloris oculate droop and phaeodactylum tricornutum bohlin to the herbicide atrazine as influenced by light intensity and temperature. 8. pp. 175-184. 
+3. Vencill W.K. 2002. Herbicide handbook. Weed Science Society of America. 
+4.              . Atrazine – Background and Updates. Accessed October 25, 2019. &lt; https://www.epa.gov/ingredients-used-pesticide-products/atrazine-background-and-updates#cumulative&gt;. 
+5. Leeuwen J. A. Van, Waltner-Toews D., Abernathy T., Smit B., Shoukri M. 1999. International Journal of Epidemiology. Associations between stomach cancer incidence and drinking water contamination with atrazine and nitrate in Ontario (Canada) agroecosystems, 1987-1991. 28. pp. 836-840. 
+6. Rusiecki Jennifer A., Roos Anneclaire De, Lee Won Jin, Dosemeci Mustafa, Lubin Jay H., Hoppin Jane A., Blair Aaron, Alavanja Michael C. R. 2004. Journal of the National Cancer Institute. Cancer Incidence Among Pesticide Applicators Exposed to Atrazine in the Agricultural Health Study. 96. pp. 1375-1382. 
+7. Bassiri Eby, Spectrophotometer. Accessed October 25, 2019. &lt; https://www.sas.upenn.edu/labmanuals/biol123/Table_of_Contents_files/8b-EnzymeKinetics-Spec.pdf&gt;
+8. Nagaraju Dongari, Huang Shang-Da. Journal of Chromatography A. 2007. Determination of triazine herbicides in aqueous samples by dispersive liquid-liquid microextraction with gas chromatography-ion trap mass spectrometry. 1161. pp. 89-97. 
+9. Rensen J.J.S. van. 1990. Herbicides interacting with photosystem II. Cambridge University Press.
+10. Johnson AD, Mallison S. 2016. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+14.29.05.png&Size=245340&Type=image%2Fpng&F=F_OePOGyx10bJC2n7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: the average and standard deviation of the percentage change of the absorbance at different time intervals for 3 sample groups. *************************************************************************
+
+
+

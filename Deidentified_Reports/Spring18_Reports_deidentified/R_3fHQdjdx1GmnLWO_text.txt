@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-13 15:32:41
+Author of this lab report is: Std_V2XuU5nu
+ID: R_3fHQdjdx1GmnLWO
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title:  The Effect of Calcium Channel Blocker on Rana pipiens Frog Muscle Twitch
+
+Abstract:
+In this experiment, we used freshly amputated Rana pipiens frog legs in order to measure the effect of calcium on their muscle twitch threshold. We examined the effect of an injected calcium channel blocker, 5 M D-600 methody-verapamil, on the muscle contraction of the gastrocnemius muscle of three different frog legs. The muscle contractile mechanism depends on the release of several different organic chemicals within the muscle fiber, including calcium. This led us to hypothesize that if we block the calcium channels in the frog leg muscle, it would take longer for the muscle to reach twitch threshold than it would have without the calcium blocker. Through thorough analysis of our attained data, we determined that this experiment did not support our hypothesis because there was no significant increase in twitch threshold in the experimental frogs that were injected with calcium blocker.
+
+Introduction:
+The neuromuscular system is one of the fastest responding systems in the body as it can respond to stimuli within milliseconds. A way to examine the effect of different stimuli on muscle contraction is through experimental stimulation of frog legs. In order to perform our experiment, we used the Rana pipiens frog, also known as the leopard frog, which can be found in several parts of the United States and Canada. When dissected, the frog leg has a clearly distinguishable gastrocnemius muscle which can be stimulated to induce muscle contraction. The effect on the frog leg twitch can clearly demonstrate the effects of an outside stimulus such as an electrical impulse that is sent through the gastrocnemius muscle. [Johnson: 2016] Physiologically, this process works when the nerve impulse arrives at the neuromuscular junction causing the release of acetylcholine in the muscle which can then bind to its receptors. This opens sodium channels which then create an action potential that travels down the muscle fiber, opening calcium channels and letting the calcium rush in. [Squire: 2010] This process leads to the contraction of the muscle. Hypothetically, were the calcium to be inhibited the muscle would not be able to activate the contractile mechanism of the muscle fiber, preventing the myosin thick filaments to grab onto the actin thin filaments. [Hichcock: 1973] This experiment tests this hypothesis through the use of a calcium inhibitor on the muscle. This group hypothesized that if the frog’s gastrocnemius muscle is injected with calcium inhibitor, the twitch will take longer to reach threshold.
+
+Materials and Methods:
+In order to perform this experiment, we received three different, freshly amputated Rana pipiens legs. We used frog Ringer’s solution on the legs throughout the procedure in order to keep the tissue and muscle moistened. After dissecting each leg and securing them on the dissecting pan, we suspended each one with a force transducer and inserted probes hooked into an iWorx machine connected to a software on one of the team member’s laptop. We stimulated each leg at 0.1 v intervals, measuring how high of a stimulus it took until a twitch response was recorded. Additionally, we recorded the response amplitude at each stimulus interval after the first twitch until 0.7 volt was reached. After this was recorded for each frog leg, we injected each with 5 M of D-600, a calcium channel blocker, and let the blocker take effect for 10 minutes. After ten minutes, the previous procedure was performed again on each frog leg, and the same data of stimulus and response values was recorded. We analyzed the data attained by using a paired t-test.
+
+Results:
+Comparison of the data attained from the control frog legs and from the experimental frog legs that were injected with calcium blocker showed no clear results. If you reference Figure 1 which compares the twitch threshold for each frog before and after being injected with calcium channel blocker, you will notice that the data recorded showed that the experimental legs #1 and #3 that contained the calcium blocker took 0.1 volts more of stimulus before reaching twitch threshold than the initial control version of the same #1 and #3 legs did. However, experimental leg #2 reached threshold at the same stimulus voltage as it had as its initial control version without the calcium blocker. Additionally, I ran a paired t-test comparing the stimulus at which the muscle reached twitch threshold. The 1-tailed paired t-test revealed that within 2 degrees of freedom the T-value of our data was 1.73, and the P-value was 0.112. This high P-value revealed our results to not be statistically significant.
+
+Discussion:
+Through analysis of the recorded observations, it can be concluded that our hypothesis was not supported. The data suggests no clear increase in voltage at which twitch threshold occurs for any of the frogs. While the voltage increased slightly for experimental frog legs #1 and #3, it was not significant enough to suggest that the calcium inhibitor actually affects the twitch threshold of the muscle. This is supported by the high P-value of 0.225 that the paired t-test showed. Other studies have found that the release of calcium plays such a key role in allowing the contractile mechanism to work by being what causes the release components in frog muscle to have an effect on the twitch process [Hollingworth. 2013], therefore we hypothesized that blocking the calcium channels would delay the reaching of twitch threshold of the experimental frog legs. There are two calcium channels that have been found to play a necessary part in the contraction of muscles [Carlo. 2016], so if they are inhibited it can be hypothesized that the twitch threshold will be affected. However, our data suggested no clear effect of the calcium blocker on twitch threshold, suggesting they did not have a significant enough effect on the calcium channels to cause a change. Perhaps, the calcium blocker did not play as significant a role on the muscle contraction due to not enough being injected into the muscle. The lack of a significant increase in threshold could also be due to us not leaving the calcium blocker in for long enough to take effect before recording our data. Past research has led to conclusions that inhibiting calcium in the muscle of frogs will have an effect on the decay of free calcium because of the active transport of Ca2+. [Zot. 2016] If in this procedure we did not let the calcium inhibitor in for long enough before testing the twitch threshold, the lack of a clear change could have been due to the inhibitor not having time to affect the active transport of Ca2+. To support our hypothesis, this experiment could be run again ensuring that enough calcium blocker is injected in and giving it more time to take effect on the muscle. Furthermore, I did notice an increase in the amplitude of the initial twitch response from that of the control frog legs to the response of the experimental frog legs. Perhaps the actual effect of calcium inhibitor on the frog leg is on the amplitude of the twitch response, not on the twitch threshold. This experiment could also be run again in order to test this hypothesis regarding a possible change in amplitude due to the calcium being blocked.
+
+Literature Cited:
+1. Carlo C. Pua B. Magaly R. Marino D. 2016. Differential effects of contractile potentiators in action potential-induced Ca2+ transients of frog and mouse skeletal muscle fibers. Journal of Muscle Research and Motility. 37: 169-180.
+2. Hichcock SE. 1973. Regulation of muscle contraction: effect of calcium on the affinity of troponin for actin and tropomyosin. Accessed March 29, 2018. &lt;https://pubs.acs.org/doi/abs/10.1021/bi00737a022&gt;.  
+3. Hollingworth S. Baylo S. 2013. Comparison of myoplasmic calcium movements during excitation-contraction coupling in frog twitch and mouse fast-twitch muscle fibers. The Journal of General Physiology. 141: 567-583.
+4. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest Univeristy, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016). pp. 17-19.   
+5. Squire JM. 2010. Muscle Contraction: Regulation. John Wiley & Sons Ltd. University of Bristol, Bristol, UK. Accessed March 29, 2018. &lt;http://www.els.net/WileyCDA/ElsArticle/refId-a0000674.html&gt;.
+6. Zot HG. Hasbun JE. 2016. Modeling Ca2+ bound troponin in excitation contracting coupling. Front. Physiol. 7:406.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-13+at+3.31.54+PM.png&Size=351535&Type=image%2Fpng&F=F_3COcIVxkva5CySf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Calcium Channel Blocker on Rana pipiens Leg Twitch Threshold. This graph displays the differences between the twitch threshold for each frog leg before and after injection of the calcium blocker into the muscle. This graph also displays the error bar for each set of data, which represents +/- one standard deviation. The paired t-test revealed a p-value that was not statistically significant.
+
+*************************************************************************

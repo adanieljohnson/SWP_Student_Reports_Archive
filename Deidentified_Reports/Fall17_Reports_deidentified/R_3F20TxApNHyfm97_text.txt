@@ -1,0 +1,49 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a lab report.
+Date submitted: 2017-11-15 13:40:45
+Author of this lab report is: Std_IfbYKtBR 
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Investigating the Impact of the Demonstration of Aggressive Behavior on the Specific Metabolic Rate of Crayfish 
+
+Abstract:
+This experiment sought to determine the impact on the demonstration of aggressive behavior from a larger crayfish on the specific metabolic rates of smaller crayfish. The metabolic rate of an organism is the total amount of energy it consumes in order to sustain physiological processes, and can be determined through measuring the oxygen consumed by the organism in a given span of time by measuring the amount oxygen dissolved in its aquatic environment through the use of dissolved oxygen meters. Because the specific metabolic rate of an organism is subject to influence by external factors, it was predicted that stress induced by threatening behavior from a larger member of the species would result in an increase in the specific metabolic rate of the small crayfish. This was tested through calculating the specific metabolic rates of three small crayfish, both with and without the presence of a larger crayfish. A paired T-test found no significant statistical difference between the two data sets, and thus the biological null hypothesis was supported.  
+
+
+Introduction:
+No matter what their source for the energy may be, all organisms on earth face the common challenge of extracting energy from their environment in order to continue performing the various processes which allow the organism to maintain homeostasis and survive. The term metabolism is used to describe the entire process of energy capture, conversion into useful forms, and distribution among the individual cells or the organism. The term metabolic rate is used to encompass the total amount of energy being expended by all the physiological processes of an organism at a given time. Because the internal physiological processes of an organism are subject to interference and change by factors in the external environment, so too is the metabolic rate of the organism. When the cells of an organism require energy, they obtain the energy through breaking one of phosphate bonds contained in a molecule of ATP, the molecular apparatus which is used to store and distribute usable chemical energy to the cells. Therefore, the ATP utilized by an organism in a given amount of time is an accurate depiction of the energy being used for physiological processes, or the metabolic rate of that organism. However, the amount of ATP an organism is using need not be measured directly. Oxygen plays a critical role in the production of ATP, and thus oxygen consumption can be used to determine the amount of ATP an organism has produced. Therefore, oxygen consumption offers a window into the total energy use of the organism, an effective way to determine its metabolic rate [AD Johnson : 2017]. Oxygen consumption can be easily measured through the use of dissolved oxygen meters, and thus experiments of this nature are most easily performed on aquatic animals. This experiment sought to investigate the effect of aggressive behavior on the metabolic rate of crayfish. The aggressive behavior and rigid dominance structure formed by interacting crayfish has long been noted and subject to study. In a study investigating the factors which impact the aggressive behavior of crayfish, it was determined that among the chief purposes of aggressive behavior is the enforcement of the rigid dominance structure which characterizes crayfish social groups, and that the dominance order, and therefore the demonstration of aggressive behavior, is directly related to the size differences between the interacting crayfish [Bovbjerg : 1953]. Because a pattern of aggression towards smaller members of the same species is a trait observed universally in crayfish social interactions, and therefore is an obstacle which smaller crayfish face often, a knowledge of how these interactions impact the metabolic rates of the victimized crayfish could lead to a better understanding of how this environmental factor, which is largely unique to this species, impacts the energy usage of the individuals in the lower regions of this dominance structure. It was predicted that exposure to a significantly larger crayfish would induce stress in a smaller crayfish, thus increasing its metabolic rate through generation of a fight-or-flight response. 
+
+
+Materials and Methods:
+The testing chamber was filled with room temperature water, and then placed in a dishpan containing room temperature water. A small crayfish was then weighed and placed into the testing chamber, a dissolved oxygen probe was placed into the chamber, and the top was sealed. A baseline reading of the water’s oxygen concentration was then taken, after allowing time for the reading to stabilize. The oxygen concentration was then recorded every five minutes for twenty minutes. Then, the probe was removed, and the water from the chamber was poured into a graduated cylinder in order to determine its volume. The testing chamber was then refilled, and the process was repeated again, but this time a much larger crayfish was placed into the dishpan, separated from the smaller one by the testing chamber, but still within plain view. The entire process was then repeated for two more small crayfish, with the large crayfish staying the same in every trial in which it was involved. The specific metabolic rates of the crayfish of each trial were then calculated as a function of the product of oxygen consumed in mg/L and the volume of the water in liters divided by the product of the time period spanned by the measurements in minutes and the weight of the crayfish in grams. When the specific metabolic rates of the crayfish both with exposure to a larger crayfish and without exposure were calculated, the two groups of data were compared using a paired T-test.
+
+
+Results:
+After performing a paired T-test on the two groups of data, the P value was determined to be .3486. The data collected appears erratic, with no clear trend emerging. The specific metabolic rates of the smallest and largest crayfish were higher in the absence of the larger crayfish, and a slight rise in rate can be observed in the crayfish of median weight. 
+
+
+Discussion:
+The P value of .3486 yielded from the paired T-test implies that there was no significant statistical difference in the specific metabolic rates of the two groups, thus rejecting the hypothesis put forward at the onset of the experiment and supporting the biological null hypothesis. It was immediately apparent by looking at the data that the hypothesis would not be supported by the results, as there was no general supporting trend to the results. Two of the crayfish had their metabolic rates lowered slightly on exposure to the larger specimen, and one saw only a modest rise. It is possible that these results were yielded by a flawed experimental procedure. The two crayfish involved in the experimental trials were not forced to interact, as they were given license to move freely about the testing apparatus in which they were placed. This may have led to a general lack of interest in both crayfish, as the larger one may have been less inclined to show sustained aggressive behavior in a foreign environment where distractions exist which may have caused the observed behavior to deviate from the expected behavior. In addition, the aggressive behavior shown in social interactions between crayfish is not determined by size differences alone. A study on the motivations for aggression pointed not only to size, but sex as a major determinant in the demonstration of aggression [Bovbjerg : 1953]. Although the exposure to a larger crayfish did not produce the expected rise in metabolic rate due to the implementation of a fight or flight response, it is now apparent that the study was confounded by variables which could have been controlled for. Results aligning more with predictions may have been produced if the crayfish were placed in apparatuses which forced them to interact more, as well as if they were given time to become acclimated to their new environment before the experiment was performed. It would also be beneficial to ensure that all the test subjects are of the same sex, to ensure sexual competition is present as a motivating factor for the demonstration of aggression. 
+
+
+Literature Cited:
+1. Johnson AD. Metabolism and Gas Exchange. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 17.2 (updated August 2, 2017), pp 37-39. 
+2. Bovbjerg , Richard V. “SOME FACTORS AFFECTING AGGRESSIVE BEHAVIOR IN CRAYFISH.” University of Chicago Press , University of Chicago, pp 127-136. 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Crayfish.png&Size=53797&Type=image%2Fpng&F=F_enEIefIuvcfUQux
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph shows the differences in the metabolic rates of the same crayfish under both control and experimental conditions. It can be seen that there was no clear trend in the data, as the lightest and heaviest crayfish experienced modest drops in their metabolic rates under experimental conditions, with the median weight crayfish being the only one to show the predicted rise, though a very modest, statistically insignificant one. 
+
+*************************************************************************

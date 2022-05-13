@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a lab report.
+Date submitted: 2017-11-16 11:57:00
+Author of this lab report is: Std_i6bPR4mT
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The Effect of the Temperature of the Surrounding Environment on the Specific Metabolic Rate of Procambarus sp.
+
+Abstract:
+Changes in the environment result in increased metabolic rates because the organism will consume more oxygen and expend more energy in order to accommodate to the changing and stressful environment. Oxygen consumption can be used to determine the specific metabolic rate which is a measure of the amount of energy expended by the organism in relation to their body mass. In this study we examined the specific metabolic rate of Procambarus sp. in cold water (10°C) and room temperature water (22°C). The results showed no statistically significant difference in the specific metabolic rate between the two water conditions (p = 0.7949), which
+suggests that temperature does not have an effect on the specific metabolic rate of Procambarus sp. The slight average decrease in specific metabolic rate in the cold water could also suggest that less energy was expended and less oxygen was consumed, however, this would require further research.
+
+
+Introduction:
+The term metabolism refers to the biochemical process of combining nutrients with oxygen in order to release the energy necessary for bodies to function. The amount of oxygen consumed is directly proportional to the amount of energy expended by that animal. The amount of energy expended by the animal is the specific metabolic rate [Sadava: 2017]. There are a variety of different factors that influence the specific metabolic rate of a given organism. A study published by Humberto Villarreal examined the difference in oxygen consumption of Cherax tenuimanus. (a species very similar to Procambarus sp.) in cold water compared to the oxygen consumption in room temperature water. He concluded from his study that oxygen consumption by of the Cherax tenuimanus at 18°C was 60% of the rate at 22°C and 26°C. This study gave evidence supporting the hypothesis that oxygen consumption in colder water is less than it is at room temperature. Villarreal also concluded that the heartbeat rate was lowest at 18°C and highest at 22°C. He claimed that there was evident stress of the organism at 26°C [Villarreal: 1990]. In order to further examine this, we tested whether or not temperature has an effect on the specific metabolic rate of Procambarus sp. We hypothesized that Procambarus sp. will have a lower specific metabolic rate in colder conditions.
+
+
+Materials and Methods:
+Room Temperature Water Conditions:
+Three small (~2-5g) Procambarus sp. were used in this experiment. Each Procambarus sp. was
+weighed and then placed into a screw-top glass testing chamber filled completely with room temperature water (~22°C). The oxygen consumption of each individual Procambarus sp. was recorded, using a dissolved oxygen probe, at baseline and in five minute intervals for 20 minutes. After this was completed the volume of the water in the container was measured using a graduated cylinder. This is the control group.
+Cold Water Conditions:
+The same three Procambarus sp. were used again but under cold water conditions (~10°C). The same procedure was followed for the cold water conditions as was for the room temperature water conditions (as previously described) with the addition of the chamber being placed in an ice bath. This is the experimental group.
+Calculating Specific Metabolic Rate:
+Specific metabolic rate was calculated using the following equation: SMR=[O2(mg/L)*volume H2O (L)] Time(min)*weight(g), where O2 is the change in oxygen consumption, volume H2O is the volume of the container, and weight is weight of the organism.
+Statistical Analysis:
+In order to test if the results are significant, a paired-two-sample t-test was applied to the specific metabolic rate. We determined if there were significant differences between the specific metabolic rates of Procambarus sp. in room temperature water conditions compared to cold water conditions.
+
+
+Results:
+The specific metabolic rate of each Procambarus sp. was calculated in room temperature water conditions and in cold water conditions. The average specific metabolic rate of the Procambarus sp. in room temperature water conditions was 0.00422436 while the average specific metabolic rate in cold water conditions was 0.003793333 (Figure 1). The specific metabolic rate for the Procambarus sp. in room temperature water conditions was slightly higher than in the specific metabolic rate for Procambarus sp. in cold water conditions but not significantly. There were no statistically significant differences in the specific metabolic rate between the Procambarus sp. In room temperature water and Procambarus sp. in cold water (sample size= 3, df = 2, p= 0.7949).
+
+Discussion:
+After conducting this experiment, our results were considered inconclusive with our p value of 0.7949 considered to be insignificant. Two out of the three Procambarus sp. tested had lower specific metabolic rates in the cold water in comparison to the water at room temperature. Oxygen consumption over the 20 minute period was on average slightly higher for the Procambarus sp. in room temperature water, so the Procambarus sp. were expending more energy under these conditions. Although our experiment did not result in conclusive evidence of specific metabolic rate decreasing in colder water conditions, I am lead to believe that this would be proven true with further testing. According to Villarreal, the specific metabolic rate and oxygen consumption of Cherax tenuimanus was lower in cooler temperature. His experiment may have been more conclusive do to his sample size of 60 Cherax tenuimanus [Villarreal: 1990]. In order to improve this experiment in the future I would increase the number of Procambarus sp. tested, therefore, increasing the sample size. Typically, the greater the sample size the more conclusive the data. One limitation to this lab may have been that the starting oxygen content was measured prior to fully stabilizing, This would account for why in some circumstances, our oxygen content of the water went up after 5 minutes. In order to further this study I would like to test an array of temperatures rather than just the two that were tested. This could lead to a study examining the extent to which the specific metabolic rate of a Procambarus sp. changes of a gradient.
+
+Literature Cited:
+Johnson (2017). BIO114 Laboratory Manuel, Edition Ver. 17.2, 19.
+
+Sadava, D. E., Hillis, D. M., Heller, H. C., & Hacker, S. D. (2017). Life: The Science of Biology. New York: Freeman.
+
+Villarreal, H. (1990). Effect of temperature on oxygen consumption and heart rate of the australian crayfish Cherax tenuimanus (Smith). Comparative Biochemistry and Physiology Part A: Physiology, 95(1), 189-193. doi:10.1016/0300-9629(90)90031-m
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=SMR.png&Size=37909&Type=image%2Fpng&F=F_6GnY0BOt0crw4g5
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 Specific Metabolic Rate in cold water and in room temperature water
+
+*************************************************************************

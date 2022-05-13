@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-26 10:30:33
+Author of this lab report is: Std_IJ7Do3Mu
+ID: R_1FRQQRJ3Qht0PPP
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The Effect of Colored Light On Photosynthetic Activity in Chloroplasts of Spinicia oleracea
+
+Abstract:
+Plants rely on the photosynthetic activity of the phytochromes and photoreceptors in their chloroplasts to optimize the energy transduced from variable amounts, directions, and wavelengths of light. This experiment was designed to investigate the different receptors of light that exist in chloroplasts and how they reacted differently to different wavelengths of light by comparing chloroplasts kept in the dark to chloroplasts left in natural sunlight, under a green lightbulb, and under a red lightbulb. It was hypothesized that the green light would have the smallest increase in photosynthetic activity because chloroplasts reflect green light. In order to test this research question we used a sample of Spinacia oleracea (spinach) leaves mixed with Dichlorophenol indophenol (DCPIP) to determine the photosynthetic activity of the chloroplasts under each color of light by reading absorbance using a spectrometer. We found that the chloroplasts displayed their highest levels of photosynthetic activity in natural sunlight, followed closely by green and then red light, therefore refuting our hypothesis that green light would have the smallest increase in photosynthetic activity. 
+
+
+Introduction:
+Plants capture and store energy from the sun via photosynthesis, and this energy is released through the metabolism of glycolysis in the cytoplasm and respiration in the mitochondria of plants and animals. Photosynthesis involves redox reactions in which electrons are transferred through an electron transport chain. The energy from the moving electrons pumps photons across a lipid bilayer to generate a gradient to synthesize ATP. Carrier molecules such as NAD+/NADH and NADP+/NADPH help transport energy around molecules. 
+
+All the components of photosynthesis occur in the chloroplasts. The light-dependent reactions use absorbed photons of different wavelengths to generate reducing power in NADPH and generate a proton gradient. The light independent reactions (The Calvin Cycle) use enzyme complex Rubisco creates 6-carbon glucose molecules via combination of 5-carbon ribulose phosphate and 1-carbon CO2. In photosystem II, energy from absorbed photons of light cause electrons to leave chlorophyll and move to plastiquinone and cyctochrome b6f. The proton gradient is created by the cyctochrome b6f and from free protons released after hydrolysis of oxidized chlorophyll. In photosystem I, energy carried by photons excited chlorophyll molecules and produces NADPH. As previously discussed, the light dependent reactions of photosynthesis operate in nature under normal sunlight. 
+
+In this experiment, we will test how different colors of light affect the activity of chloroplasts. Plants can use photoreceptors to detect and respond to changes in wavelength, direction, and duration of light reaching their chloroplasts in order to maximize the energy absorbed (Galvão & Fankhauser, 2015), (Shikata et al., 2014). Phytochromes are sensors activated by red/far red wavelengths of light (Galvão & Fankhauser, 2015), which then create cascades of transcription factor and subsequent genome changes (Shikata et al., 2014), but plants do not have designated green light receptors, so we believe that green light will have the smallest effect on the photosynthetic activity of chloroplasts because most of the light will be reflected. 
+
+We will compare these two light absorption rates and chloroplasts under sunlight to complete darkness, which will serve as controls. 
+
+
+Materials and Methods:
+First we placed a mortar and pestle, a 150-250mL beaker, and 3, 50 mL centrifuge tubes into an ice bucket to cool. Then we removed the veins from 4 large Spinacia oleracea (spinach) leaves and rinsed with water. Next we used the mortar and pestle to grind the leaves into a paste with the addition of 10mL of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8). We added another 10mL of grinding buffer before straining the mixture through a cheesecloth. Then we prepared our aliquots of chloroplast. We placed 1.7mL of spinach liquid into microtubule A and spin it at 1200 rpm in the centrifuge, after making sure to balance the centrifuge. Pour out the supernatant out of tube A and into the second chilled 50mL centrifuge tube marked B. Then we moved 200 μL of the liquid from B and centrifuged the 50mL sample of chloroplast suspension at 2800rpm for 10 minutes. This sample was used for the remainder of our experimentation. Next we prepared our test tubes. We created one tube for the blank with 8mL of water and 2mL of reaction buffer (100mM phosphate, pH 6.5). We created 9 tubes with chloroplasts in them, 3 for each color of light (natural sunlight, green light, red light) with 6mL of water, 2mL of 130mM Dichlorophenol indophenol (DCPIP) and 2mL of reaction buffer. The last 3 tubes were chloroplasts to be kept in the dark, with 5 mL of water, 2 mL of 130 mM DCPIP and 2 mL reaction buffer. We added 100 μL of enriched chloroplasts to each tube. We mixed each tube immediately then transferred the mixtures to spectrometer cuvettes and measured the absorbance at 600nm. We measured absorbance again at 10 minutes, 20 minutes, and 30 minutes, placing the tubes under their respective light colors. 
+
+
+Results:
+We analyzed our results as changes in percent absorbance of DCPIP over time. Because chloroplasts react with the DCPIP, the darker the color of the sample after each time interval, the less photosynthetic activity that occurred, because chloroplasts remove the color from the DCPIP.
+
+In order to determine the significance of our results it was necessary to run a two sample t test with each color of light as compared to the dark chloroplast, which served as a control. The tests were based on the average percent change over the entire 30 minute period. The p value for sunlight was 0.075, the p value for green light was 0.014 and the p value for red light was 0.024. 
+ 
+
+Discussion:
+In this experiment the dark samples served as the control because they would have no light activity and therefore the highest absorbance because they are not reacting with DCPIP. The sunlight chloroplasts were analyzed against the two colors of light both to test how light that plants do not have specific phytochromes for would react differently, and how non-natural colors of light differ from the natural sunlight that plants normally received. The absorbance of the dark chloroplast tubes did not have a large percent decrease over time, because their conditions were not conducive to chloroplast activity. 
+
+Both green and red light showed slightly less change than the chloroplasts in sunlight, indicating that the sunlight is the most optimal color of light for chloroplast activity. However, our hypothesis was refuted because the green light chloroplasts showed a greater increase in photosynthetic activity than the red light chloroplasts. In addition, not all results showed statistical significance, which weakens the reliability of our experiment. The green and red light values were significant (0.014 and 0.024 respectively), and the sunlight value’s insignificance (0.075) could be attributed to the fact that the vials kept in the dark were exposed to sunlight briefly when we had to take them out to measure the absorbance. For certain periods these two vials were exposed to the same type of light, which could have caused the dark chloroplasts to be more active than if they had truly been in total darkness for the duration of the experiment. 
+
+Other research studies have found that dark-adapted plants have different phytochromes for the absorption of varying colors of light (Kircher, 1999), and because spinach is not a dark-adapted plant, the phytochromes in it that are made to absorb large amounts of sunlight may have been hyper-sensitive to the small amount of sunlight that they did receive when they were not in total darkness. In regards to our refuted hypothesis, one study completed by Wang and Folta found that green light does increase plant growth (which would also increase photosynthetic activity) because many plants that growth in the underbrush receive sunlight as it is passing through the green leaves of the plants positioned above them (Wang & Folta, 2013). This could have been the cause of the red light having the lowest photosynthetic activity.  
+
+
+
+Literature Cited:
+Galvão, V. C., & Fankhauser, C. (2015). Sensing the light environment in plants: photoreceptors and early signaling steps. Current Opinion in Neurobiology, 34, 46–53. https://doi.org/10.1016/j.conb.2015.01.013
+Kircher, S. (1999). Light QualityDependent Nuclear Import of the Plant Photoreceptors Phytochrome A and B. THE PLANT CELL ONLINE, 11(8), 1445–1456. https://doi.org/10.1105/tpc.11.8.1445
+Shikata, H., Hanada, K., Ushijima, T., Nakashima, M., Suzuki, Y., & Matsushita, T. (2014). Phytochrome controls alternative splicing to mediate light responses in Arabidopsis. Proceedings of the National Academy of Sciences, 111(52), 18781–18786. https://doi.org/10.1073/pnas.1407147112
+Wang, Y., & Folta, K. M. (2013). Contributions of green light to plant growth and development. American Journal of Botany, 100(1), 70–78. https://doi.org/10.3732/ajb.1200354
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-24+at+4.11.53+PM.png&Size=149209&Type=image%2Fpng&F=F_394avmzEj6ugrvj
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=photosynthesis.png&Size=77533&Type=image%2Fpng&F=F_1CIauDaAyfhIjDg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 2. Graph of Percent absorbance of DCIP. Each variable group’s initial absorbance reading was considered the 100% level, and as the chloroplasts reacted with the DCPIP, they can be observed decreasing as compared to the original percentage. Each group also has a standard deviation represented through the error bars. 
+*************************************************************************
+
+
+

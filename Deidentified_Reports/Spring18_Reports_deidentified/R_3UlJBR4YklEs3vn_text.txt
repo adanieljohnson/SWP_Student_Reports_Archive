@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-22 11:21:23
+Author of this lab report is: Std_1XgJzQ3d
+ID: R_3UlJBR4YklEs3vn
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The effect of Martin’s IGR, an analog of juvenile hormone, on growth and development of manduca sexta: application of Martin’s IGR had little to no effect on growth and development 
+
+Abstract:
+This experiment focused on the effects of different hormones on the life cycle of manduca sexta.  Juvenile hormone affects the development of the caterpillars and ecdysone regulates the molts in caterpillars. We hypothesized that by increasing juvenile hormone the growth of the caterpillars would be less than the caterpillars that had no added JH. In our experiment we used Martin’s IGR, an analog of JH, and added it to the food for half our caterpillars(4) for the experimental group. After 7 days we weighed and measured the length of our caterpillars.  Our results showed no significant differences between the control group and experimental  group.  The statistical tests run in this experiment deemed our results to show no significant evidence of increased JH led to decreased growth and development.  After further research we learned that there are multiple factors that affect growth in addition to JH so manipulating JH alone would not produce noticeable results.  
+
+
+Introduction:
+The goal of the experiment was to learn about hormones and how manipulating the levels of a hormone can have an affect on the organism.  My lab group decided to investigate the effect of hormones on the growth and development on the growth and development of an organism.  We chose to test the effects of Martin’s IGR, an analog of JH, on Manduca sexta caterpillars.  During the lifecycle of the manduca sexta JH and ecdysone fluctuate to signal different changes in the caterpillars life.  Ecdysone regulates the timing of molting by spiking up right before a molt to signal a molt.  JH regulates the type of molt experienced by the caterpillar and when the caterpillar is ready to turn into an adult. JH is high until the larval enclosure and stays very low except for a small jump after the commitment pulse. [Johnson: 2018] The commitment pulse is occurs when the caterpillar has grown enough and has adequate nutrients to turn into a pupa. [Johnson 2018] The commitment pulse occurs at a point right after the 5th larval instar and is indicated by a small jump in ecdysone.[Johnson: 2018]  Once the commitment pulse has occurred it cannot be undone because the process is all or nothing.  After the commitment pulse the caterpillar turns into a pupa, which will start developing into an adult.  It is for that reason that some insecticides utilize IGR, an analog of JH, to prevent insects from reaching adulthood so that they cannot successfully reproduce or develop into pests. [Thompson: 2005] In another experiment where IGR was used in bee colonies it was found that when IGR was applied there was a decreased population due to fewer sexually mature bees being present [Thompson: 2005] Similarly in our experiment we will be treating the manduca sexta with an analog of JH, Martin’s IGR, which will hopefully show similar results of lessened growth and development in the caterpillars treated with JH.  We hypothesize that if Martin’s IGR (analog of JH) is added to the food of the caterpillars then they will not grow as large as the caterpillars that did not receive the added hormone.
+
+
+Materials and Methods:
+The methods of this experiment began with selecting 8 Manduca sexta caterpillars that were similar in weight and length.  Then we randomly chose 4 caterpillars for the control group (normal food with 6 drops of water) and 4 caterpillars as the experimental group (food with 6 drops of Martin’s IGR).  We placed each caterpillar in their own labeled enclosure made out of plastic containers with a notecard separating them and gave them each 10 grams of the designated food.  They were kept in an incubator at 25 degrees Celsius with 12 hours of light and 12 hour darkness. Each day their length, weight, and visual appearance was recorded.  Every other day they were given new food and the old food was disposed of.  After 7 days their final weight, length, and visual appearance was recorded. After the data was collected, averages with standard deviation were found and a 2 tailed T-test was run for length and weight. The p-values for the 2 tailed t-tests were recorded with .05 for the degrees of freedom.  
+
+Results:
+	No significant differences were seen between the length of the control and treatment caterpillars.  The masses showed a noticeable difference, but a statistical test must be done to show if there is significance.  A 2-tailed T-test was used to determine if there was significance to the data collected for length.  The T-value for the test for length was 0.238 with a P-value of 0.891.  The degree of freedom used was .05. A 2-tailed T-test was also used to determine if there was significance to the data for weight.  The T-value for weight was 1.46 with a P-value of 0.196.
+
+Discussion:
+Overall, our data did not support our hypothesis that increased JH would cause caterpillars to be shorter and have a lower mass.  The averages for length were very close showing no noticeable difference, but the average weight showed nearly a 1 gram difference that might’ve been significant.  However, after performing a 2-tailed T-test for length and weight it was determined that the data showed no significance when using an alpha of .05.  An alpha of .05 is used because if there is less of a 5% chance of the data occuring the way it did then there is significant evidence that the event did not happen by chance alone.  Our tests both had a p-value of over .05 so our data was insignificant.  In another experiment caterpillars were starved once they reached a certain mass before the commitment pulse to see how it would affect their levels of JH.  JH was shown to increase after food was taken away due to the caterpillar not being strong enough for the commitment pulse.[Browder: 2001] This experiment shows that JH has an affect on growth and when development occurs.  The results from this experiment support our original hypothesis.  If we were to do the experiment again we would add more drops of Martin’s IGR to make sure the hormone is affecting the organism.  We would also monitor their growth over a longer period of time so that there would a better opportunity for them to grow and develop.  Only letting them grow for a week may have limited the difference between the two groups.  If we were to change a variable it would be the type of hormone used.  Ecdysone may have had a more noticeable impact on the caterpillars.  This experiment is relatable on a broader scale to many insecticides.  There is a market for products that can get rid of pests naturally and without harming those in contact with them.  JH is a component of many of those products. 
+
+Literature Cited:
+1. Browder M.H. The role of low levels of juvenile hormone esterase in the metamorphosis of Manduca sexta. Accessed February 20, 2018 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC355895/ 
+
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated Jan 5, 2018), 5-14
+
+1. Thompson H. The Effects of Four Insect Growth-Regulating (IGR) Insecticides on Honeybee. Accessed February 20, 2018 https://link.springer.com/article/10.1007/s10646-005-0024-6 
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+2+caterpillars.png&Size=29835&Type=image%2Fpng&F=F_0P4wtb7AnpK9Tvf
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+1+caterpillars.png&Size=39335&Type=image%2Fpng&F=F_0vuOAZM0gyQsQvP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average Length of the Control and Experimental Caterpillars 
+Figure 1:The graph above shows a visual representation of the average length of the control and experimental caterpillars so that they can be compared more easily. The error bars represent the standard deviation of the data.  The control caterpillars had a slightly higher average, but it was not significant and may have been up to chance.
+Figure 2: Average Weight of the Control and Experimental Caterpillars 
+
+The graph shows a visual representation of the average weight of the control and experimental caterpillars so that they can be compared more easily. The error bars represent the standard deviation of the data.  The control caterpillars had a higher average mass by .95g which appears to potentially be significant.
+
+
+
+*************************************************************************

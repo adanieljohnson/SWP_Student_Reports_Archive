@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-09-25 17:09:22
+Author of this lab report is: Std_za5EMLxj
+ID: R_3kiExALLAF02L5X
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effect of Juvenile Hormone Mimic on Manduca Sexta
+
+Abstract:
+In our experiment we investigated the roll of Juvenile Hormone mimic on the length of Manduca Sexta caterpillers in a two-week span, and we hypothesized that the Juvenile Hormone mimic would have a significant effect on the caterpilars growth. We separated 8 caterpillars into 2 groups, one who was not given JH and the other who was given JH. We then ran a 2-sample 2-sided T-test on the percent change on the caterpillar’s length, so that the beginning length wouldn’t be a confounding variable. Based off of this, we got a p-value of greater than 0.05 when we had a confidence level of 95% so therefore we rejected the null hypothesis. We then concluded that more research needs to be done in order to accurately determine JH’s influence on the Manduca Sexta Species’ length.  
+
+Introduction:
+Hormones play a big roll in the life of an organism, especially as they progress from a juvenile to an adult.  One of these organisms is the Manduca Sexta, or the Tobacco Hornworm. The relative levels of Juvenile Hormone (JH) and Ecdysone (E) control the molting process, which allows the caterpillar to transform into an adult moth [Cite Lab Book]. Large levels of JH relative to Ecdysone levels, lead to a larval molt, whereas large Ecdysone levels relative to JH leads to an adult moth being formed [Citation 1].  In a larval molt, the organism develops further which could have an impact on the organism’s length, width, etc. In the common fruit fly, Drosophila melanogaster, giving them a JH mimic at varying concentrations depending on the specific mimic used, caused the larvae to not undergo eclosion[Citation 2]. Due to this we predict that giving a caterpillar a JH mimic would lead to a change in the caterpillar’s length.
+
+Materials and Methods:
+Eight Caterpillars were randomly selected and randomly assigned to be in two groups, the control group and experimental group. The Manduca Sexta were measured every day in the afternoon. Each caterpillar was put in a small container with a lid and given food as needed or when the food dried out. The hornworm in the control group were given 10 g of food with three drops of water, while the caterpillars in the experimental group were given 10 g of food with 3 drops of the JH mimic. Waste was cleaned out of their cage as needed, and data was collected for 15 days. Then, the two groups were compared through a 2-sample 2-sided T-test using the percent change in length, which accounts for differences in the starting length of the caterpillars. 
+
+Results:
+The experiental group had an average percent change of roughly 159.5% with a s = ± 40.72, while the control group had an average percent of 111.42% with a s = ± 34.64. The 2-sample 2-sided T-test we ran had a H0= the JH mimic will have no effect on the caterpillar’s length and a Ha= the JH mimic will have an effect on the caterpillar’s length. We used an alpha = 0.05. The t-test we ran gave the results (df=6,t=1.800652,p=0.1218), so we failed to reject the null hypothesis because the p-value was greater than 0.05. 
+
+Discussion:
+	Due to the result of 2-sample 2-sided t-test leading us to fail to reject the null hypothesis we concluded that 3-drops of the JH mimic doesn’t significantly affect a caterpillar’s length. Our results are similar with a previous experiment that found that growth was unaffected in Drosophila melanogaster by increases in JH levels during the first through third instars [Citation 4]. Although the previous experiment occurs at a specific stage in the caterpillars life cycle, the two experiments lead to the same conclusion. Three drops of the JH mimic did not cause a significant difference could be because we continually added JH so the caterpillar didn’t go through another larval molt or an adult molt and instead just grew. The lack In addition to this, we did not run a long term experiment so it is unclear as to whether their would be a separation in the catterpillar’s/moth’s length as time progressed, which could be investigated in a future experiment. Also, within a laval instar phase, the caterpillar might only be capable of growing up to a certain size without the occurance of another larval molt which wouldn’t be disproven by our results and could be investigated in a future experiment. Our experiments importance lies less on what it shows but more on what it doesn’t show, which is that in appears like a caterpillar won’t continue growing when it is not allowed to molt which means that there are internal mechanisms that regulate how much a caterpillar and/or organism is able to grow and that JH/E don’t stop the cateripillar from growing further within its current stage. 
+
+Literature Cited:
+1.	Willis JH.1974. Morphogenic action of insect hormones. Annual Reviews. 1:93
+2.	Riddiford LM, Ashburner M. 1991. Effects of juvenile hormone mimics on larval development and metamorphosis of Drosophila melanogaster. Science Direct. 82:1
+3.	Johnson AD. Cell Structure. Comparative Physiology Bio 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 12, 2018), pp. 11–12.
+4.	Tan A, Tanaka H, Tamura T, Shiosuki T. 2005. Precocious metamorphosis in transgenic silkworms overexpressing juvenile hormone esterase. PNAS. 102:11752-11755 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-09-25+at+5.07.49+PM.png&Size=63045&Type=image%2Fpng&F=F_NXYDgOTY6nvv0Ah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1:  Effect of Juvenile Hormone Mimic on the average percent change in length of Manduca Sexta. The error bars represent 1 standard deviation from the mean. *************************************************************************
+
+
+

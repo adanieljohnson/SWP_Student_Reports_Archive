@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-15 22:17:51
+Author of this lab report is: Std_QDUIE6dR
+ID: R_b76MzRKcoVVDV9n
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effects of juvenile hormone administration on Manduca sexta larvae
+
+Abstract:
+Hormones play an important role in many organisms, and insects are no exception.  Juvenile hormone has proven to play a particularly large role in larvae development and pupation.  In this experiment, we demonstrate the effect of JH on the pupation and weight gain of Manduca sexta larvae, as we administer JH to larvae who are close to pupation.  The expectation was that such administration would prevent pupation, and lead to larger weight gain in the experimental larvae than in the larvae who were not administered JH.  Our data showed a significant difference (one-tail, two-sample p-value = 0.018851) in weight gain between the experimental and control groups (the experimental group, on average, had a greater increase in weight).  That difference, combined with our observations of the experimental group remaining in the larvae stage, indicates that JH administration could prevent many insects from reaching adulthood.  Such a significant finding could help protect crops from predatory pests, as it could keep such pests in a larval (and harmless) stage.
+
+Introduction:
+This experiment demonstrates and evaluates the influence of certain hormones (specifically juvenile hormones) on the development of insects.  Hormones, in both humans and insects, are signals sent by the body to begin the transition from youth to adult.  In humans, such a phase is known as puberty; in insects, the phase constitutes molting or pupation (when the larva forms a cocoon and reemerge from it as an adult).  In this experiment, we will be studying Manduca sexta (the tobacco hornworm), and how it is affected by administration of a juvenile hormone around the later larva stage.  Manduca sexta has been studied to such an extent that it is known as the “lab rat” of insects [Riddiford: 2003] and the role that juvenile hormone (JH) plays in its development has been established.  Such prior research, combined with the relatively small amount of care that Manduca sexta larvae require, are why the insect is used as the model organism in the experiment.  JH remains at a high level in hornworm larvae until the 5th instar (larvae phase), as it combines with ecdysteroids to play a large role in larvae development [Johnson: 2018]. It then drops precipitously, then rises slightly, then disappears at pupation [Riddiford: 2003].  Pupation thus occurs when the corpora allota stops secreting JH – at this time, the larva weighs about 5 pounds [Nijhout: 1974].  To test the effect of continuous high JH levels on pupation, we will be administering methoprene (a juvenile hormone) to 5th instar larvae and tracking the results of our administration.  We as a group hypothesize that if we feed Manduca sexta caterpillars (larvae) food containing methoprene, it will inhibit pupation in the caterpillars that consume it, and they will grow to be larger than the caterpillars in the control group (who are not given methoprene).  With methoprene acting as JH in the experimental larvae, they will continue to grow while the control larvae are pupating, and the experimental larvae will show a greater change in weight.
+
+Materials and Methods:
+We gathered 8 Manduca sexta caterpillars and measured their initial weights before placing them in their designated compartments.  The control group was placed in one 4-compartment container, and the experimental group was placed in the other.  We then measured 10 grams of food for each caterpillar and placed the food in the compartments.  However, for the experimental group, we put 5 drops of methoprene into each one’s food.  We then closed the containers (while poking air holes in the top) and returned the caterpillars to their in-class habitat.  Each day, a member of the group measured the weight of each caterpillar, making sure that they all had enough food, and occasionally cleaning out the compartment (the experimental group defecated a great deal).  We measured and fed the caterpillars for two weeks, from September 5th through September 18th.  On the 18th, we measured the ones that were not pupating or dead, threw the caterpillars out, and cleaned out the containers.  We then used a one-tail, two-sample t-test to find the difference in weight change among the caterpillars, as well as the standard deviation in weight change.  Unfortunately, we appeared to make an error in our care of Control #3, as it resembled the experimental caterpillars, rather than the control subjects.  While we were careful not to contaminate different food samples, it is possible that any early meal for Control #3 contained methoprene, which led to #3’s experimental appearance.
+
+Results:
+All 4 experimental caterpillars grew much larger than is to be normally expected, and were bright blue, with a pulsing nerve.  3 of the control caterpillars remained somewhat small, and pupated during the observation period – however, Control #3 resembled the experimental subjects in color and size and died before pupation.  Our mean value of weight gain in the control group was 3.0875 ± 3.7101 grams (Fig. 1), and our mean value of weight gain in the experimental group was 8.425 ± 1.5438 grams (Fig. 1).  Our one-tail, two-sample t-test showed a df of 6, a t-value of 2.656, and a P-value of 0.018851, meaning that the mean of the control group’s weight gain was statistically significantly different than the experimental group’s weight gain.  
+
+Discussion:
+Our hypothesis, that feeding caterpillars with methoprene-laced food will give them greater weight than the control group, as well as inhibit their pupation, was supported in the experiment.  Besides the observations that favored our hypothesis, the statistically significant P-value of weight gain demonstrates that such gain is relevant, and that methoprene is responsible for it.  Such a finding has been previously documented, as past investigations have found that larvae tend to stay at around 5 grams once JH level plummets before pupation, so JH administration would logically increase their weight a great deal [Nijhout: 1974].  As falling JH levels lead to the commitment pulse, which arises from signals that indicate that the larva is ready for pupation [Johnson: 2018] a consistently high level of JH would mean that the commitment pulse never occurs.  As a result, the larva's body is never "told" that it has the size and stored nutrients to begin pupation, and it instead continues to grow.  Our experiment could demonstrate a pattern in most, or all, insects; if JH plays a prominent role in the maturation of every insect, using it for regulation could prevent numerous pests from reaching adulthood.  The tobacco hornworm, for instance, is a pest in youth (it chews on tobacco plants), but harmless in adulthood (as a moth).  But for an insect that is a pest as an adulthood, administration of JH could prevent it from reaching adulthood, and thus could protect certain plants from parasitic pests.
+
+Literature Cited:
+Literature Cited:
+1. Riddiford LM, Hiruma K, Zhou X, Nelson CA.  2003.  Insights into the molecular basis of the hormonal control of molting and metamorphosis from Manduca sexta and Drosophila melanogaster.  Insect Biochemistry and Molecular Biology.  33: 1327-1338
+
+2. Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2018), pp 12.
+
+3. Nijhout HF, Williams CM. 1974. Control of moulting and metamorphosis in the tobacco hornworm, Manduca sexta (L.): cessation of juvenile hormone secretion as a trigger for pupation. Journal of Experimental Biology. 61: 493-501
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=image.png&Size=8779&Type=image%2Fpng&F=F_3fUyEGNNNdjP99V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Effect of methoprene on the change in mass of Manduca sexta larvae.  The larvae that were fed with water-laced food (blue bar), on average, demonstrated less of an increase in mass then the larvae that were fed with methoprene-laced food (orange bar).  4 larvae were placed in each group, and were fed and observed for 2 weeks.  The total change in mass of each caterpillar was found by subtracting its weight on the first day of measurement from its weight on the last day of measurement.  Each bar is the mean value of the change in mass of the 4 caterpillars in the group; error bars are ± 3.7101 s.d. for the water-fed group, and ± 1.5438 s.d. for the methoprene-fed group.*************************************************************************
+
+
+

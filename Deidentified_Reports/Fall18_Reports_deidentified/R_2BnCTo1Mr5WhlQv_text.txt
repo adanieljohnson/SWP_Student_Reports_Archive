@@ -1,0 +1,101 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-22 13:42:18
+Author of this lab report is: Std_iYdPHBsj
+ID: R_2BnCTo1Mr5WhlQv
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Effect of different types of salt on rate of photosynthesis in spinach chloroplasts
+
+Abstract:
+Photosynthesis can be affected by many different factors, the presence and concentration of solutes being one of them. Solutes can affect the cell environment by pulling water in or out of the cell, creating an environment that can diminish the rate of photosynthesis. In examining the effect of different types of salt on the rate of photosynthesis, we found that with a concentration of .4 moles/L, Iodized salt, Kosher salt, and Sea salt did not have a significant effect on the rate of photosynthesis compared to the rate of photosynthesis in an environment without salt. However, considering that the effect of solutes on the rate of photosynthesis is concentration-dependent, we believe that a higher concentration would have a more noticeable effect on photosynthesis. We also believe that different types of photosynthetic organisms would be affected differently by different salts and concentrations. In conclusion, iodized, kosher, and sea salt did not significantly affect the rate of photosynthesis at a concentration of .4 moles/L, but it is possible that they could have different effects at higher concentrations. 
+
+Introduction:
+Photosynthesis is a biological process that occurs in the chloroplasts of plant cells using carbon dioxide, water, and light energy to make oxygen and glucose for the cell to use to make ATP. This process occurs in the chloroplasts of plant cells, specifically in the thylakoid membrane of chloroplasts. During photosynthesis, an electron goes through the electron transport chain through a series of coupled redox reactions, moving from areas with high energy levels to areas with low energy levels, releasing energy along the way, before finally reaching an electron acceptor at the end. In considering this, we can apply the Hill Reaction to measure the rate of the reaction using DCIP. The Hill Reaction replaces the final electron acceptor with DCIP. Initially, DCIP is a dark blue color (2 H2O + 2 DCIP), then becomes colorless once it accepts an electron (2 DCIPH2 + O2). By measuring the difference in color, we can quantitatively measure the rate of photosynthesis. 
+	The environment of the cell has a significant impact on the rate of photosynthesis. Factors such as pH [Haraguchi: 1996]¹ light availability [Bohning: 1956]² color of light [Kinzie: 1987]³ availability of oxygen [Bjorkman: 1966]⁴ and water availability [Raviv: 2001]⁵can have significant effects on the process. In relation to water and solute concentrations, a cell can be hypertonic, hypotonic, or isotonic. Hypertonic environments occur when there is a higher concentration of water, and thus a higher osmotic pressure, in the membrane than outside the cell. This can happen when there are a lot of solutes in the membrane, pulling water into the cell. Hypotonic environments occur when there is a higher osmotic pressure outside of the membrane than in the cell. This can be caused by dehydration, or by proteins outside of the cell, pulling water out of cell. Isotonic environments occur when osmotic pressure inside of the membrane and outside of the membrane are at equilibrium. 
+	Considering how ions, proteins, and other solutes can greatly influence the cell’s environment and condition, salt often has a similar effect on a cell, and thus, on the rate of photosynthesis. Small concentrations of salt actually demonstrated increased rates of photosynthesis, but eventually reached a level above optimal threshold in which it diminished the rate of photosynthesis, concluding that there is an optimal salt concentration for photosynthesis to occur [Garcia: 2017]⁶. Water in cells moves toward the highest concentration of salt. In one study, the effect of salt on the rate of photosynthesis in cyanobacteria was examined, finding that stress from salt inhibited the activity of Photosystem II, and that higher concentrations of salt had more drastic effects on this area [Sudhir: 2004]⁷ However, the question arises: can different types of salt have different effects on the basic processes, or rate, of photosynthesis?
+	Iodized salt, kosher salt, and sea salt all have the chemical formula for sodium chloride, NaCl. However, there are small differences between each one. Iodized salt is about 98% NaCl, with small amounts of iodine added for nutritional value. Kosher salt does not contain any added iodine. Sea salt comes from evaporated sea water. While sea salt is mostly NaCl, it contains some other minerals such as zinc, potassium, calcium, magnesium, and/or iron based on where it was harvested. 
+	Using this information, do different types of salt affect plant cell’s differently, and thus, affect the rate of photosynthesis differently? Our hypothesis is that if we add iodized, kosher, and sea salt to separate groups of chloroplasts, then the rate of photosynthesis will be different for each group.
+
+
+Materials and Methods:
+There were two main parts to carry out our experiment. In the first part, an enriched sample of chloroplasts was prepared to be used in the second part, in which the rate of photosynthesis was based on the presence of different salts. 
+	In order to create an enriched sample of chloroplasts, we grinded spinach leaves in grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0), before straining the sample, creating a slurry. The slurry was then centrifuged twice to remove debris from the sample, creating an enriched sample of chloroplasts that we used for the second part of our experiment.
+	For the second part of our experiment, we prepared the following 13 test tubes (attached at the end in a chart):
+
+Each test tube with salt contained .4 mM salt in water, or .4 moles/L. Once all test tubes were prepared, we set the spectrophotometer at 600 nm wavelength before adding 100 uL of enriched chloroplast solution from part one to all test tubes, immediately mixing before adding to cuvettes and measuring absorbances. After zeroing the spectrophotometer with the blank, we measured the absorbances if the solutions. Once all were measured, we placed all tubes under light. Every 10 minutes for 30 minutes, we re-blanked and re-measured the absorbances of each cuvette.
+	We used 3 two-sample t-tests in all, one for each experimental group (iodized, kosher, and sea salt), using a 95% confidence interval. This compared the difference between the experimental group and the control group in order to determine if there was a significant difference between the two. 
+
+
+Results:
+Statistical Test Results:
+Each group of salt was compared to the Control group using a two-sample T-test.
+Iodized salt: (P-value of 0.356, df of 4, T-value of 0.396).
+Kosher salt: (P-value of 0.104, df of 4, T-value of 1.49).
+Sea salt (P-value of 0.454, df of 4, T-value of 0.121).
+
+Our results reflect the rate of photosynthesis in environments with different types of salt, as seen in Figure 1. Iodized salt had very similar results to the control group, which had no salt. Kosher salt seemed to have a greater rate of photosynthesis compared to the control group, while sea salt had a lower rate of photosynthesis compared to the control group, as seen in Figure 2.
+
+Discussion:
+Our results did not support our hypothesis. Overall, each group had relatively the same trends in rates of photosynthesis, with general increases in photosynthetic activity. While there were some differences observed in the rates of photosynthesis, especially in Kosher salt and sea salt in comparison to the control group, which had no salt, none of these observations can be considered statistically significant. The small differences that we see can be attributed to the small differences in each type of salt. But considering that each salt group had about the same trends in photosynthetic activity as the control group, we can assume that the lack of differences comes from the concentration of salt that we used for each sample. Salt concentrations have an effect on the rate of photosynthesis [Li: 2008]⁸, and since the salt had almost no effect on photosynthesis, we should re-do our experiment with higher salt concentrations. Had the salt had more of an effect on photosynthetic activity with higher salt concentrations, we would have expected all of the salt groups to have lower percent changes than the control group. This would have been because of how salt affects photosynthesis. Salt affects the activity of photosystem II, specifically in electron acceptors in the electron transport chain [Allakhverdiev: 2000]⁹ 
+	Iodized salt had very similar changes in absorbance as the control group did, reflecting very similar rates of photosynthesis between the two. Understanding this relationship, we can conclude that iodized salt has very little effect on the rate of photosynthesis. Kosher salt, on the other hand, caused larger changes in absorbance compared to the control, suggesting a higher rate of photosynthesis than the control. While these differences cannot be considered statistically significant, these findings still suggest that kosher salt has a smaller effect on inhibiting photosynthesis than iodized salt. More so, it suggests that kosher salt has a higher optimal concentration than iodized salt does. Sea salt had an opposite effect, causing smaller changes in absorbance compared to the control, suggesting a lower rate of photosynthesis (despite not being considered statistically significant). Contrasting from kosher salt, these findings suggest that sea salt has a greater effect on inhibiting photosynthesis, and thus, has a lower optimal concentration.
+	Based on these results, we can conclude that the type of salt does not affect the rate of photosynthesis in itself. However, based on other studies, the concentration of salt can have a drastic effect on the rate of photosynthesis, increasing the rate at some low concentrations, but eventually reaching a threshold that was beyond optimal concentration, causing the rate to dramatically decrease.
+	Based on the results from this experiment, there are a lot of directions were could take in studying the effect of types of salt on the rate of photosynthesis. In this experiment, we used the same concentration for each type of salt (.4 moles/L). From here, we could test what the optimal concentration is for each type of salt, determining whether each type has its own optimal concentration for photosynthesis. Taking a different route, we could test how sea salt affects the rate of photosynthesis in different types of plants. Considering that sea salt comes from the sea, where there are plants that use photosynthesis despite salt concentrations in the water, we could assume that salt-water plants, such as seaweed, have higher rates of photosynthesis (compared to spinach) when sea salt is present since they are used to conditions in which sea salt is present. Likewise, if the rate of photosynthesis in salt-water plants is affected differently by different types of salt. 
+
+
+Literature Cited:
+1. Haraguchi A. March 1996. Effect of pH on photosynthesis of five Sphagnum species in mires in Ochiishi, northern Japan. Springer Netherlands. 16(1): 10-14.
+
+2. Bohning RH, Burnside CA. October 1956. The effect of light intensity on rate of apparent photosynthesis in leaves of sun and shade plants. American Journal of Botany. 43(8): 445-556.
+
+3. Kinzie III RA, Hunter T. February 1987. Effect of light quality on photosynthesis of the reef coral Montipora verrucosa. Springer-Verlag. 94(1): 95-109.
+
+4. Bjorkman O. July 1966. The Effect of Oxygen Concentration on Photosynthesis in Higher Plants. Physiologia Plantarum. 19(3).
+
+5. Raviv M, Blom TJ. May 2001. The effect of water availability and quality on photosynthesis and productivity of soilless-grown cut roses. Scientia Horticulturae. 88(4): 257-276.
+
+6. Garcia JDS, Dalmolin AC, Franca MGC, Mangabeira PAO. July 2017. Different salt concentrations induce alterations both in photosynthetic parameters and salt gland activity in leaves of the mangrove Avicennia schaueriana. Elsevier: Ecotoxicology and Environmental Safety. 141:70-74.
+
+7. Sudhir P, Murthy SDS. 2004. Effects of salt stress on basic processes of photosynthesis. Department of Biochemistry, Sri Venkateswara University, Tirupati-517 502, India. Photosynthetica 42 (4): 481-486.
+
+8. Li N, Chen S, Zhou X, Li C, Shao J, Wang R, Fritz E, Huttermann A, Polle A. May 2008. Effect of NaCl on photosynthesis, salt accumulation and ion compartmentation in two mangrove species, Kandelia candel and Bruguiera gymnorrhiza. Elsevier: Aquatic Botany. 88(4): 303-310.
+
+9. Allakhverdiev SI, Sakamoto A, Nishiyama Y, Inaba M, Murata N. July 2000. Ionic and Osmotic Effects of NaCl-Induced Inactivation of Photosystems I and II in Synechococcus sp. American Society of Plant Biologists. 123.3.1047.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+1.42.12+PM.png&Size=160772&Type=image%2Fpng&F=F_2xWNeYRMtD783WE
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+1.42.33+PM.png&Size=212627&Type=image%2Fpng&F=F_2sclNZVvMfbgzbA
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-22+at+1.39.59+PM.png&Size=80826&Type=image%2Fpng&F=F_1Qc5H8wTzVihg69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1:
+Change in Absorbance in Relation to Salt Type in 10 Minute Intervals over 30 Minutes. While this is what we measured in our experiment, we are not so much focused on these values in themselves, but rather on the difference in value of each bar, which is represented in Figure 2.
+
+
+Figure 2:
+Percent change in the rate of photosynthesis in 10 minute intervals based on the type of salt used. The percent change reflects the differences of each value in the Figure 1, in other words, it reflects the rate of photosynthesis. While these are not directly what we measured, it demonstrates the value of what we measured and how we can understand our measurements.
+*************************************************************************
+
+
+

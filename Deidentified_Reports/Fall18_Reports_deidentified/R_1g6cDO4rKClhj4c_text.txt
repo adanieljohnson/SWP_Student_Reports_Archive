@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 15:06:32
+Author of this lab report is: Std_nzrfiAUT
+ID: R_1g6cDO4rKClhj4c
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Impact of Increase in Calcium concentration on muscle contraction of Rana pipiens gastrocnemius.  
+
+Abstract:
+The contractile cycle is a widely studied muscle function, as it is the basis of understanding wholesale muscle movement in many organisms. The Rana pipiens frog, as a vertebrate, relies on this very contractile cycle to move and function. This experiment focused on the muscle contraction of the gastrocnemius in the Rana pipiens leg, analyzing the effect of increased calcium concentration on strength of the muscle’s contraction. The amplitude of muscle twitch before and after calcium injection of three frog legs were recorded using a myogram, and later evaluated using a paired t-test. The resulting insignificant p-value did not support the hypothesis, that addition of calcium ion to the gastrocnemius would cause a difference in muscle contraction strength. It was concluded that further experimentation should be done with the frog leg in a pool of calcium ion solution, in addition to or in place of injection.
+
+Introduction:
+Nerves and muscles, in both vertebrates and invertebrates, are important in allowing organisms to sense and respond to stimulus from internal and external environments [Johnson: 2018]. In the somatic neuromuscular system, skeletal muscles consist of thousands of myofibrils, and are innervated by motor neurons at neuromuscular junctions; these myofibrils are the sites of muscle contraction [Johnson: 2018]. Muscle contraction is facilitated by excitation-contraction coupling [Johnson: 2018]. This process involves propagation of action potentials from muscle neurons, release of acetylcholine from neuromuscular synapses, and subsequent release of calcium from internal storage sites in muscle fibers, thus facilitating a contractile response of the muscle fibers [Sadava: 2018]. Contraction involves three periods: latent, contraction, and relaxation, with the contractile twitch occurring after an approximately 10 millisecond period of latency. Contractile response of a muscle fiber relies heavily on calcium ions, which bind to troponin, exposing myosin-binding sites and providing a signal that increases myosin cross-bridge attachment to those binding sites, allowing for a power stroke to begin [Zot: 1987]. Calcium ions are referred to as the final activators during muscle contraction, as its concentration levels regulate both contraction and relaxation [Ebashi: 1968]. In relaxation, when calcium ions are returned to its intracellular holding regions, for example the sarcoplasmic reticulum, the muscle relaxes [Johnson: 2018]. The goal of this experiment is to analyze the impact of calcium ions on the gastrocnemius muscle of the Rana pipiens, hypothesizing that if calcium ions is injected into the gastrocnemius muscle of one frog leg, then it will have different muscle contraction strength (twitch) than before it was treated with additional calcium. This experiment contributes to research assessing how changes in concentrations of calcium ions impact muscle contraction, further exploring the impact of calcium on the muscle contractile cycle. 
+
+Materials and Methods:
+Three Rana pipiens frog legs were degloved and dissected to expose the sciatic nerve and the gastrocnemius muscle was detached from the Achilles tendon. Special care was taken to prevent contact of metal with sciatic nerve to prevent reduced functionality. Ringer solution was used to keep frog legs moistened. The gastrocnemius of the first fog leg was then tied and hung from a force transducer at a 90-degree angle. The sciatic nerve was then rested on probe needles and was stimulated using a single pulse at 10 voltage levels, starting at 0.2 volts, and increasing by 0.2 volts. Muscle twitch was recorded ten times, each at different voltage levels. Subsequent amplitude of contraction was computed from the myogram and recorded at each voltage level (T2-T1). 0.1 mL of Calcium ion solution was then injected into the frog leg. The frog leg was rested for 1 minute, then muscle twitch was recorded 10 times at the same voltage levels. This process was repeated for all three frog legs. A paired t-test was computed using the muscle contraction amplitude recorded at a 1.4-volt pulse for the 3 frog legs before and after calcium was injected. 
+
+Results:
+While conducting the experiment, it was observed that there each frog leg had a different twitch amplitude for the same pulse, with frog leg 1 exhibiting the lowest response of the three. (Figure 1 and Table 1). There was also an observed decrease in twitch amplitude before and after calcium was injected into each frog leg, an average difference of -0.268 for all three frog legs (t-stat = 2.013, df = 2, P = 0.182) (Table 2). Table 1 shows the amplitude of muscle twitch recorded at 1.4 volts for the three frog legs, as well as the difference in amplitude before and after calcium solution was injected. This difference is represented Figure 1. Despite this decrease, the p-value computed was 0.182, which is insignificant. 
+
+Discussion:
+The hypothesis, that if calcium ions is injected into the gastrocnemius muscle of one frog leg, then it will have different muscle contraction strength (twitch) than before it was treated with additional calcium, was not supported. Thus, the null hypothesis is supported, meaning that there is no significant difference in strength of muscle contraction with addition of calcium ions to the gastrocnemius. Research has been provided to show calcium’s vital role in muscle contraction, specifically, its concentration levels control the initiation and termination of muscle contraction [Ebashi: 1968]. There is also much evidence showing the necessity of ATP in muscle contraction, as it binds to myosin heads and releases them from binding sites on actin [Ebashi: 1968]. Without ATP, there is little source of energy to generate a contraction. In this experiment, there was an observed decrease in muscle contraction after calcium solution was injected, and a general decrease in amplitude of twitch after several pulses were applied, which are worth explaining. Each frog leg received 20 pulses in total, which applied a lot of stress on the frog legs that had a set reservoir of energy available.  It is possible that continuous application of pulses simply decreased the available ATP necessary to allow for full contraction. The concentration of calcium used may not have been enough to cause a significant shift in the already decreasing strength of contraction. The calcium ions may not have circulated properly from its injection site in the gastrocnemius to have any effect; perhaps that was because the one-minute waiting period was insufficient, or that injection was not the right method of calcium ion application. It is also possible that adding calcium ions simply does not have an effect on muscle contraction. Future modifications to this experiment would be to place the frog leg in a pool of calcium ion solution, to assess if the decrease in muscle contraction is due to increase in calcium ion concentration, or simply a lack of ATP. The impact of calcium ions in muscle contraction of both vertebrates and invertebrates is crucial to understanding how muscles contract, and further experimentation on the effect of increased calcium concentration on the contraction cycle is worth exploring.
+
+Literature Cited:
+1. Johnson AD. Neuromuscular control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated May 1, 2016), pp. 17-18. 
+2. Nerve and Muscle Function. Core Laboratories Web Site. Accessed October 30, 2018. &lt;http://www.wfu.edu/Academic_ departments/Biology&gt;
+3. Sadava DE, Hillis DM, Heller CH, Hacker SD. 2017. Musculoskeletal systems. Life: The Science of Biology, 11th ed. Boston: Sinauer Associates. pp 1004.  
+4. Zot AS, Potter JD. 1987. Structural aspects of troponin-tropomyosin regulation of skeletal muscle contraction. Annual Review of Biophysics and Biophysical Chemistry. 16: 535-559.  
+5. Ebashi S, Endo M. 1968.  Calcium ion and muscle contraction. Progress in Biophysics and Molecular Biology. 18: 123-183.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+report+2+Figure+1.png&Size=207283&Type=image%2Fpng&F=F_26mQh8T6je5Or6Q
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+report+2+table+1.png&Size=132142&Type=image%2Fpng&F=F_3M5KZbURjcWpL10
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+report+2+table+2.png&Size=194359&Type=image%2Fpng&F=F_2sXcuaDwO9lfD4F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Amplitude of gastrocnemius twitch recorded at 1.4 volts for 3 Rana pipiens legs before and after 0.1 mL Ca2+ solution was injected.   
+Table 2: Computed results of paired t-test. Shows average twitch amplitude for all 3 Rana pipiens legs before and after Ca2+ solution injection, average difference between twitch amplitude before and after Ca2+ solution injection, df, t-value, two tailed p-value.  
+Figure 1: Amplitude of gastrocnemius muscle twitch of 3 Reina pipiens before and after injection of calcium solution, measured at 1.4 voltage pulse.
+
+*************************************************************************
+
+
+

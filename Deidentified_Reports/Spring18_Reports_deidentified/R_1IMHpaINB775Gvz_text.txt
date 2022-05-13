@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-11 15:07:19
+Author of this lab report is: Std_C2jTxCCH
+ID: R_1IMHpaINB775Gvz
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: The Effects of Signaling Pathways during Phototaxis of a Physarum polyceophalum
+
+Abstract:
+Signaling pathway is a communication process that regulates all the basic activates of the cell and help initiate all of the actions of the cell. Two important pathways are the cAMP-mediated pathway and IP3-mediated pathway. The cAMP-mediated pathway involves the molecule, PKA, which triggers the activation of an enzyme while IP3-mediated pathway contains the molecule, PLC, which cleaves a membrane phospholipid to produce a second messenger. By using neomycin, an inhibitor of PLC produced during IP3 and an inhibitor of protein kinase A produced during cAMP, it hypothesized that neomycin will block the movement of Physarum during phototaxis. The distance migrated was measured by having a small opening of light on the plate to produce movement in the organism. Both of the pathways were blocked allowing to see which organism with each inhibitor does not move. Our results showed that there was a significant difference for the organism with neomycin because it had a low p-value. This shows that IP3 pathway was blocked during phototaxis because IP3 results in the activation of IP3 receptors and the release of Ca2+ in the organism.
+
+Introduction:
+Signaling pathways describes a group of molecules in a cell that collude to work to control one or more cell function. The first molecule in the pathway receives a signal which cascade to activate another molecule. While there are many pathways that happen in a cell, specifically, we will be looking at the cAMP-mediated pathway and IP3-mediated pathway. The cAMP-mediated pathway is a G-protein coupled pathway that is activated by adenylate cyclase that converts ATP into cAMP [Johnson 2016]. The cAMP activates protein kinase A which initiates many enzymes [Johnson 2016]. Curcumin inhibits protein kinase A produced during the cAMP pathway[Johnson 2016]. The next pathway is the IP3-mediated pathway, another second major G-protein coupled pathway, that involves PLC which cleaves a membrane phospholipid to produce two-second messenger molecules [Johnson 2016]. For each of the pathways, the enzyme that is activated by each pathway would help produce movement in the organism during phototaxis [Johnson 2016]. Phototaxis is the movement of a motile organism in response to light [Johnson 2016]. The Physarum polyceophalum, the model organism,  is a helpful organism to use in studies due to the fact that it does not use hormones or a nervous system to respond to certain environmental triggers [Johnson 2016]. The physarum permits for the analysis of which signaling pathway is used more frequently during the phototaxis process. During phototaxis, the physarum has been shown to avoid areas of light and move away from the dark [Hader 1985]. It has been shown that IP3 is specifically involved in the sensory transduction of phototaxis in the model organism and controls the open and closing of the action cation gates [Zinchenko and Alexandrovich 1985]. Since IP3 has seen to produce more calcium during movement which is needed to produce movement, the inhibition of PLC will no longer cause the activation of calcium, therefore producing no movement.  By producing a segment of light on the organism's petri dish, we are able to measure the effect of each respective signaling pathway on the Physarum. We hypothesized that the IP3-mediated pathway will produce the movement of the organism during phototaxis and therefore cause no motion in the Physarum. By using neomycin, an inhibitor for PLC produced during the IP3 pathway and curcumin, an inhibitor for protein kinase A produced during cAMP pathway, we will be able to see which pathway is used during the process of phototaxis. We predict based on this knowledge that neomycin will inhibit the movement of Physarum during phototaxis and curcumin will have no effect on the movement of Physarum.
+
+Materials and Methods:
+This study was performed by acquiring 9 PDA plates, 1 mL of curcumin stock, 1 mL of neomycin stock and 3 test tubes. Prior to the experiment, the Physarum was grown in stock plates with oatmeal as a food source. The PDA plates were prepared by diluting each of the solutions to 20x to 1x and placed on the agar plate. The culture was placed on the agar plate, after waiting 10 minutes for the dilutions to stick to the agar, two on each plate, each being 1cm by 1cm squares. The 9 PDA plates were completely wrapped in foil, leaving a small hole of empty foil allowing for light to pass through each plate. The plates were then left for 18 hours in a lightbox and observed after the 18 hours was over. After all the data was collected, the equation average distance (mm)/time elapsed (hours) was used to determine the rate of phototactic migration in physarum. The statistical test that was used was a two sampled t-test. The independent variable was a presence of an inhibitor and the dependent variable was the distance of migration in mm.
+
+Results:
+The results from the following experiment showed that neomycin compared to the control had a significant value. The two-sample t-test that was performed concluded that there is no significant difference between the control and curcumin (t-stat:0.618, df: 10, p:0.550). On the other hand, the two-sample t-test that was performed concluded that there is was a significant difference between the control and neomycin (t-stat:4.10, df: 10, p:0.002). Regarding this data, it is to be concluded that the curcumin did not have a statistical difference while neomycin did, also shown in Figure 1.
+
+Discussion:
+Due to our statically significant results, we can accept our alternate hypothesis that neomycin will have an effect on the distance migrated during phototaxis. A reason that the neomycin blocked the movement of the Physarum could be because there are two types of calcium channels that are present in many animals cells have been ryanodine receptor as well as the IP3 receptor. The activation of PLC results in the activation of IP3 and then the Ca2+ which triggers cell motility [Kochegarov 2016].  Calcium has a major role in phototaxis because the influx of calcium levels have been shown to be involved in the sensory transduction of phototactic orientation in the Physarum [Hader 1985]. With the inhibition of PLC produced during IP3 pathways, calcium would not be activated by PLC therefore not activating calcium, inhibiting movement [Hader 1985].  The cAMP-mediated pathway was not affected due to the fact that these pathways have been found to help in oscillation of mitosis rather than cell motility [Akitaya et al. 1985]. The IP3 pathway is more involved with cell motility than cAMP which holds true to the fact that PLC inhibition had a significant difference rather than inhibition of protein kinase A. Some evidence of error in our experiment could be the PDA plates had a confounding variable in this study that resembled some form of overgrown bacteria and produced no movement in the control group. The other treatments did not seem to be affected by the competing bacteria but could have inhibited the growth of the physarum, reducing food source. Due to this error of the control, we used data from a previous experiment of phototaxis of control to compare the data. This could affect the outcome of the experiment because it was two different cultures of Physarum collected over different time periods and different length of times. Although the procedure for each experiment was the same, the data could be skewed because of this error. The next logical step for this study would be running another experiment testing the inhibition of PLC on a water agar plate. The water agar plate did not seem to have extra bacteria growth while the PDA plates did have growth of another bacteria. Seeing the different results that could be collected from the inhibitions the actions of PLC on water agar could produce more reliable data. To reduce the error produced in this experiment, it could be noted to properly make the PDA without a bacteria growth and having more than one stock plate to use for the three different replicate. Overall, understanding the different signaling pathways in Physarum can be able to help further studies of understanding human signaling pathways. While Physarum does not use hormones or a nervous system to respond to certain environmental triggers, it is helpful to understand signaling pathways without these, hopefully leading to more in-depth studies of how hormones and a nervous system play a role in signaling pathways.
+
+Literature Cited:
+1.	Akitaya, T., et al. "Oscillations in intracellular ATP, cAMP, and cGMP concentration in relation to rhythmical sporulation under continuous light in the myxomycete Physarum polycephalum." Microbiology 131.1 (1985): 195-200.
+2.	Häder, Donat. "Role of calcium in phototaxis of Physarum polycephalum." Plant and cell physiology 26.7 (1985): 1411-1417.
+3.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake
+4.	Kochegarov, Andrei. (2016). Studies of intracellular Ca2+ pools and their role in the contractile activity of myxomycete Physarum polycephalum.. 10.13140/RG.2.2.19644.85126.
+5.	Zinchenko, V. P. Andrei Alexandrovich. Diss. The Russian Academy of Sciences, 2000.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.16.18+PM.png&Size=96237&Type=image%2Fpng&F=F_3IQAHNfah76W2Dr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The average distance migrated between three different treatments of Physarum during phototactic migration. The p-value for curcumin is .550 (P &gt; 0.05), being non-significant and the p-value for neomycin is .002 (P &gt; 0.05), being significant. The error barriers represent the standard deviation, 2.805. 
+
+*************************************************************************

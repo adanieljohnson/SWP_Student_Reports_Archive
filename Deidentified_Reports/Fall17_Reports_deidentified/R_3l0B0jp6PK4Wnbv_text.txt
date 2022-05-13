@@ -1,0 +1,51 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-30 21:10:17
+Author of this lab report is: Std_kEtM4STG
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effect of Lanthanum Chloride (LaCl₃) on Twitch Threshold and Twitch Amplitude of Rana pipiens Gastrocnemius Muscle
+
+Abstract:
+Previous studies have shown that La³⁺ binds to Ca²⁺ binding sites blocking the Ca²⁺ channel, therefore, preventing proper muscle contractions from occurring. In this experiment, we hypothesized that, if LaCl₃ is injected into the Rana pipiens leg, then the twitch threshold and twitch amplitude applied to its nerve will be weaker. 1 mM of LaCl₃ was used on Rana pipiens legs to block the Ca²⁺ channels and data was analyzed with a one-tailed paired t-test. An increase of 0.07 mV in twitch threshold and a decrease of 0.018 mV in twitch amplitude after the injection of the treatment was observed, but these values were not significant enough to state that there is a difference in mean twitch threshold (paired t-test: t-stat=1.85, SD=0.412, df=2, P=0.206) and twitch amplitude (paired t-test: t-stat=0.232, SD=0.520, df=2, P=0.838) before and after the treatment. These observations may be due to the low concentration and insufficient time allowed for the treatment to have its effect on the muscle. The low concentration and insufficient time caused only a few Ca²⁺ channels to be blocked allowing the muscle to contract even in the presence of the treatment. 
+
+
+Introduction:
+Organisms use their nervous system to respond to changes in their environment. Their nervous system has the ability to send signals rapidly, produce specific responses, and send action potentials. Action potentials (APs) are electrical signals generated in the motor neurons of the spinal cord and travel through neuromuscular junctions. When an AP arrives at a neuromuscular junction, depolarization occurs causing the release of acetylcholine (ACh), a neurotransmitter commonly found in muscles, from the presynaptic nerve terminal. ACh diffuses and binds to the receptors on the muscle fiber causing sodium (Na⁺) channels to open and generate an AP in the muscle fiber. The AP spreads along the muscle fiber causing the release of calcium ions (Ca²⁺) from the sarcoplasmic reticulum (SR). The release of Ca²⁺ causes the muscle to contract [Johnson: 2016].  Rabbit aortic smooth muscle exposed to 1.5 mM of lanthanum ion (La³⁺) was found to have La³⁺ bind to the Ca²⁺ binding sites instead of Ca²⁺, therefore preventing the “re-binding and reuptake of Ca²⁺” and inhibiting proper muscle contractions [Goodman: 1971]. Hollow internal organs, such as the organs of the digestive system, the bladder, and blood vessels, are composed of smooth muscle and its muscle fibers are not arranged to appear striated. Muscles that provide skeletal support are composed of skeletal, or striated, muscle and have muscle fibers arranged to appear striated. Smooth muscles differ most from skeletal muscle in that, when an AP is fired, in one cell, AP are fired in the neighboring cells. Rana pipiens legs consists of the sciatic nerve and the gastrocnemius muscle. When the sciatic nerve is stimulated or when the gastrocnemius muscle is stimulated, the twitch response of the gastrocnemius muscle is visible, making the Rana pipiens a suitable organism for this experiment. In our experiment, we examined the effects of lanthanum chloride (LaCl₃), a Ca²⁺ channel blocker [Johnson: 2016], on the muscular response of the Rana pipiens legs. We hypothesize that, if 1 mM of LaCl₃ is injected into the Rana pipiens leg, then the twitch threshold and the twitch amplitude applied to its nerve will be weaker since more Ca²⁺ channels blocked by the LaCl₃ treatment will lead to weaker muscle contractions. 
+
+
+Materials and Methods:
+For this experiment, three Rana pipiens legs were obtained and maintained on ice. The skin of the Rana pipiens leg was pulled back to reveal the muscles underneath. The sciatic nerve was carefully exposed and separated from the connective tissues of the inner thigh muscles. The gastrocnemius muscle was separated from the tibialis anterior and cut at the Achilles tendon. The Achilles tendon was then tied to a string and suspended to the force transducer (FT302) of the iWorx electrophysiology (EP) recording equipment. The sciatic nerve was placed on the sleeve probe and covered with a rubber sleeve. Ringer’s solution was used throughout the experiment when need to maintain the moisture of the legs. The iWorx software was used to measure the twitch threshold and the twitch amplitude. For each of the three legs, the twitch amplitude was first set to 0.1V and increased in 0.1V increments until a muscle twitch was detected. The twitch amplitude was then increased or decreased in 0.01V increments until the twitch threshold was determined. The twitch threshold and the twitch amplitude applied to the nerve was then recorded. The same three Rana pipiens legs were then injected with 0.2 mL of 1 mM LaCl₃ into the gastrocnemius muscle and given approximately 10 minutes to spread through the muscle. The same method of measuring the twitch threshold and stimulus amplitude used before the injection was used after the injection. The results were analyzed using a one-tailed paired t-test. 
+
+
+Results:
+There was an increase of 0.07 mV in the mean twitch threshold of after the injection of LaCl₃ in the Rana pipiens legs (Figure 1). There was a decrease of 0.018 mV in the mean twitch amplitude after the injection of LaCl₃ in the Rana pipiens legs (Figure 2). The twitch threshold and twitch amplitude for all the legs were recorded based on the twitch observed on the gastrocnemius muscle, but twitch was also observed in the lower portion of the legs after injection.There is no significant difference in the mean twitch threshold of the Rana pipiens leg before and after the injection of lanthanum chloride (Figure 1, t-stat = 1.85, df = 2, P = 0.206). There is also no significant difference in the mean twitch amplitude applied to the nerve of the Rana pipiens leg before and after the injection of lanthanum chloride (Figure 2, t-stat = 0.232, df = 2, P = 0.838).
+
+
+Discussion:
+Based on our observations and statistical testing, we cannot support our hypothesis which stated that, if 1 mM of LaCl₃ is injected into the Rana pipiens leg, then the twitch threshold and the twitch amplitude applied to its nerve will be weaker, and cannot reject our null hypothesis, which states that, if 1 mM of LaCl₃ is injected into the Rana pipiens leg, then there will be no significant difference in the mean twitch threshold and twitch amplitude applied to the nerve of the control and the treatment groups. Although LaCl₃ may have the effect of weakening muscle contraction, as seen in a previous experiment with the use of La³⁺ ion [Goodman: 1971], in our experiment, these results were not observed. This contrast in results may have been due to the fact that the concentration of LaCl₃ was too low or the amount of time for the treatment to be absorbed by the muscle was insufficient for blocking Ca²⁺ channels. In the experiment performed by Goodman, 1.5 mM of La³⁺ was used [Goodman: 1971], whereas, in our experiment, 1.0 mM of LaCl₃ was used. Goodman’s use of a higher concentration of La³⁺, as opposed to our use of a lower concentration of LaCl₃ may have contributed to the observation. Because of the low concentration and insufficient time of absorption of the LaCl₃, the treatment blocked only some of the Ca²⁺ channels and not enough to significantly weaken the twitch threshold and twitch amplitude. There were fewer Ca²⁺ channels that were blocked causing sufficient firing of action potentials across the postsynaptic membrane allowing for the muscle to contract. In a future experiment, we would like to increase the concentration of LaCl₃ and also increase the amount of time allowed for the treatment to have its effects on blocking more Ca²⁺ channels.
+
+
+Literature Cited:
+1. Johnson AD. Neuromuscular Control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 19-35.2.
+2. Goodman FR. & Weiss GB. 1971. Effects of lanthanum on 45Ca movements and on contractions induced by norepinephrine, histamine and potassium in vascular smooth muscle. Journal of Pharmacology and Experimental Therapeutics. 177(2): 415-425.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=35662&Type=image%2Fpng&F=F_cwEtbgPX6e95Zch
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=37103&Type=image%2Fpng&F=F_43jOBOu0uJRLd6R
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The twitch threshold measured in volts of three Rana pipiens legs, with lanthanum chloride treatment (experimental) and without (control). The error bars represent the standard deviation. The bars represent the twitch threshold. The difference in mean between the control (n=3) and experimental (n=3) was not significant (paired t-test: t-stat=1.85, SD=0.412, df=2, P=0.206). 
+Figure 2: The twitch amplitude measured in volts of three Rana pipiens legs, with lanthanum chloride treatment (experimental) and without (control). The error bars represent the standard deviation. The bars represent the twitch amplitude. The difference in mean between the control (n=3) and experimental (n=3) was not significant (paired t-test: t-stat=0.232, SD=0.520, df=2, P=0.838). 
+
+
+*************************************************************************

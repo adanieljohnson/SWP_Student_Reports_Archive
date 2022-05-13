@@ -1,0 +1,85 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-03-07 20:27:00
+Author of this lab report is: Std_KHfOEWgR
+ID: R_3Dqm2jChqYKTzJS
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: Greater nitrogen concentration in soil has no effect on root to shoot ratio of Pisum sativum
+
+Abstract:
+Every environment on earth contains a certain amount of limited resources. As a result, plants must make tradeoffs to best allocate the limited resources available to best survive in their ecosystem. One way to analyze how plants allocate their resources is by looking at their root to shoot ratio. The root to shoot ratio of plants typically reflects what is the best combination to obtain and allocate the limited resources available. In this experiment, the field pea, Pisum sativum, was used to test whether changing a plants environment resulted in a different root to shoot weight ratio. In this case, the environmental change was the addition of nitrogen to the soil, which was compared to plants grown in normal soil. A one tailed, two sample t-test was used to analyze the results. Ultimately, the root to shoot weight ratio of the nitrogen addition group was not significantly less than the control group, suggesting that nitrogen availability does play a large role in root to shoot ratio. However, field peas are legumes that can fix nitrogen from the air, which could explain for greater than expected root to shoot ratio.
+
+Introduction:
+In order to grow, all plants require certain resources that can be divided up into two categories: those that are acquired above ground or those that are acquired below ground. The structure responsible for above ground resource collection are shoots, which includes the stem and leaves, and they secure sunlight as well as produce sugars through the process of photosynthesis. Conversely, roots are responsible for below ground resource acquisition, such as obtaining water or essential nutrients like nitrogen and phosphorus.
+	
+One important aspect of all ecosystems is that all of the resources within one individual area exist in a fixed amount. This concept is known as resource limitation [Johnson 2016]. The limited resources of each region determines which species can survive in that specific environment. Because environments have limited resources, the species that live in that environment must make certain tradeoffs in order to best distribute these limited resources. This pattern in which they assign these resources is known as resource allocation [Johnson: 2016]. Based on the environment and resources available in the environment, it is possible to predict how plants allocate their resources. For example, if a plant lives in a hot, arid region, it will most likely have larger roots than shoots so that they can better obtain water, which is more scarce than the extremely abundant sunlight.
+
+The plant used in this experiment is Pisum sativum, also known as the field pea. The field pea is a practical organism to use for this type of experiment because it grows relatively quickly, so it can be observed in a two week period. Field peas are a member of the legume family [Pavek: 2012]. Legumes are a certain category of plants that contain Rhizobia, which is a nitrogen-fixing bacteria. In this reaction, nitrogen is captured via the atmosphere by these Rhizobia that then turn it into ammonia, which can then be converted to ammonium, which is usable by the plant. This nitrogen can then be used by the plant for nutrients [Peoples: 1995]. This makes legumes particularly useful in agriculture as they help to put more nitrogen in the soil for other plants to use.
+
+Nitrogen is primarily obtained via the roots of the plant from the soil. The root to shoot ratio is readily change by plants according to nitrogen availability in the environment [Ågren: 2003]. This provides one major question: how does nitrogen affect the root to shoot weight ratio of field peas? In theory, the roots of plants in a nitrogen rich environment would be smaller than normal due to nitrogen being more accessible. Therefore, they would have a lower root to shoot ratio. As such, we hypothesize that plants grown in soil with a higher nitrogen concentration will have a lower root to shoot ratio than plants grown in normal soil.
+
+
+Materials and Methods:
+To begin this experiment, we obtained four small planters and placed them in a larger planter to keep the individual planters together. All four planters were filled about three quarters full with soil. The planters were then labeled, with two being experimental and two being control. We then added 2.5g of Nitrate of Soda to the experimental planters and mixed the pellets evenly throughout the soil. A handful of field peas were then added to each of the four planters and mixed into the soil. Each of the planters received an equal amount of miracle grow. The planters were then placed into the greenhouse and watered daily for two weeks.
+	
+After two weeks of growth, we collected the field peas in order to determine the root to shoot ratio of the plants. First, we harvested the plants by carefully removing them from the soil. This was done by washing the dirt covered roots in a basin of water, making sure to not tear any of the roots. After cleaning the dirt off, three individual plants from each planter were selected, for a total of six plants per treatment and a grand total of twelve pea plants. Next, the root was separated from the shoot of each plant by cutting right underneath the seed pod on each plant. Once separated, the root and shoot of each plant were massed in order to determine the root:shoot ratio for each plant. Once all the data has been collected, a one tailed, two-sample t test was performed with the control and additional nitrogen serving as the two groups being compared.
+
+
+Results:
+As displayed in Figure 1, the control plants had an average root to shoot ratio of 0.5855 +/- 0.1636. The plants grown in additional nitrogen had an average root to shoot ratio of 0.4948 +/- 0.09243. There was no significant difference between the average root to shoot ratio of the field peas grown in additional nitrogen than the root to shoot ratio of the control field peas (df=10, p=0.1323, t-value=1.1821, a-value=0.05). The general trend shows that the root to shoot ratio of the field peas grown in additional nitrogen was typically less than the root to shoot ratio of the control field peas.
+
+Discussion:
+The hypothesis that the addition of nitrogen to soil would cause root to shoot ratio to decrease due to smaller roots is rejected by the results of this experiment. It was found that the field peas grown in soil with a higher nitrogen concentration did not have a significantly smaller root to shoot ratio than field peas grown in normal soil. This means that there was not enough evidence provided to conclude that the addition of nitrogen had a non-random effect on root to shoot ratio in the field pea plants.
+
+Previous studies have observed multiple different outcomes when different species of plants are cultivated in soil with greater nitrogen concentration. For example, when grown in a nitrogen rich environment, birch trees were shown to increase their shoot fraction, thus decreasing their root to shoot ratio [Ågren: 2003]. This makes sense as less resources must be allocated to the roots to help in obtaining nitrogen because it is more readily available in the soil. On the other hand, tomatoes did not experience nearly as drastic a change in shoot fraction as the birch trees did, which suggests that the nitrogen concentration does not have a great effect on the root to shoot ratio of tomatoes [Ågren: 2003]. This could be considered a possible reason for the greater root to shoot ratio than was expected as nitrogen may simply not have a large effect on the resource allocation tactics of field peas.
+	
+Similarly, another reason for the root to shoot ratio of the plants grown in higher nitrogen concentration to be greater than expected is that Pisum sativum are legumes. This nitrogen captured and fixed by Rhizobia can then be used by the plant for nutrients [Jensen: 1986]. Because the field peas are legumes, there would be less of a response to additional nitrogen in the soil as they already receive a significant portion of their nitrogen through this nitrogen-fixing process. As a result, root length would not decrease, thus root to shoot ratio would not decrease.
+	
+Going further, one study determined that although an increased presence of nitrogen in soil resulted in decreased root weight ratio for many species of plants [Reynolds: 1996]. However, their results led them to believe that nitrogen was not the main cause of this change in root weight ratio and that other factors such as maximum growth rate and habitat fertility were much more impactful on the plants. Overall, they determined that the plants allocated their resources to be able to adapt more to other situations, and that their plasticity in terms of root weight ratio was not very important [Reynolds: 1996].
+	
+Ultimately, this experiment displayed that an increased nitrogen content in the soil did not result in a smaller root to shoot ratio in field peas. In order to better understand the full effect that nitrogen has on the growth of field peas, a future study could be conducted to determine what sort of environment best supported increased root growth in field peas. Because legumes are important to agriculture and help to create nitrogen rich soil for other plants to be grown in, if an ideal root growing ecosystem was determined, farmers would be able to reproduce that ecosystem in order to maximize root growth in field peas. By increasing root size, more nitrogen fixing would occur, resulting in more nitrogen in the soil, which could potentially aid the growth of other crops.
+
+
+Literature Cited:
+Ågren G.I. Franklin O. 2003. Root : Shoot Ratios, Optimization and Nitrogen Productivity. Annals of Botany. 92(6): 795-800.
+
+Jensen, Es. “The Influence of Rate and Time of Nitrate Supply on Nitrogen Fixation and Yield in Pea (Pisum Sativum L.).” Fertilizer Research, vol. 10, no. 3, 1986, pp. 193–202.
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+
+Pavek, P.L.S. 2012. Plant guide for pea (Pisum sativum L.). USDA-Natural Resources Conservation Service. Accessed February 17, 2019.
+
+Peoples, M. B., et al. “Biological Nitrogen Fixation: An Efficient Source of Nitrogen for 
+Sustainable Agricultural Production?” Management of Biological Nitrogen Fixation for the Development of More Productive and Sustainable Agricultural Systems, 1995, pp. 3–28.
+
+Reynolds, H. L., and C. Dantonio. “The Ecological Significance of Plasticity in Root Weight Ratio in Response to Nitrogen: Opinion.” Plant and Soil, vol. 185, no. 1, 1996, pp. 75–97.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-06+at+5.06.49+PM.png&Size=55702&Type=image%2Fpng&F=F_1poHY7Dz91Bcw8m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The root to shoot mass ratio of Pisum sativum. Over a two week period, the control plants were grown in normal soil and the nitrogen added plants grew in soil with a greater nitrogen concentration. Error bars represent one standard deviation.*************************************************************************
+
+
+

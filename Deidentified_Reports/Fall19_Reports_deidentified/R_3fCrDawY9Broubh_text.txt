@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-29 07:59:05
+Author of this lab report is: Std_N14bcMjZ
+ID: R_3fCrDawY9Broubh
+Course number: BIO102L
+TA: TA_VP4awTgP
+*************************************************************************
+Title: How Light Intensity Affects Photosystem 2 Performance In Spinach Leaves
+
+Abstract:
+Photosystem 2 is a part of the light-dependent reaction of photosynthesis. Oxidation-reduction reactions take place in the photosystems and photons are captured from light to be converted to chemical energy. We tested to determine if light intensity affected the performance of photosystem 2 of spinach leaves. We used the chloroplasts from spinach leaves and measured their absorbance using a spectrophotometer in response to different treatments. A triplicate consisted of no chloroplasts and 0% light, the second set consisted of chloroplasts and 0% light, the third consisted of chloroplasts and 50% light, and the fourth consisted of chloroplasts and 100% light. The results showed that the sample with chloroplast and 100% light had the largest percent changes in absorbance thus reflecting more activity in photosystem 2. Moreover, the averages were statistically different (P=0.0075), therefore, the null hypothesis was rejected and light intensity does affect the performance of photosystem 2 in photosynthesis.
+
+
+Introduction:
+Photosynthesis is the process in which plants obtain energy from the sun by converting light energy to chemical energy. The first stages of photosynthesis are light dependent and light independent reactions. Light dependent reactions are separated into two systems: photosystem 1 and photosystem 2.  Due to this reaction being light dependent, different light intensities may affect the photosystem 2. In this experiment we are testing to see how the variation of light exposed to a plant affects the performance of photosystem 2 in spinach leaves. We hypothesize that as the intensity of light increases from dark to light, the rate of photosynthesis will increase due to an increase of activity in photosystem 2 because it’s responsible for capturing photons from light. We will test this by exposing plants to lights of different intensities by putting mesh over lamps. 
+
+This is useful for growing plants in greenhouses and controlling the exposure to light to grow the healthiest crops and plants. If less light intensity shows results of higher rates of photosynthesis and a better performance of photosystem 2, it would encourage gardeners to have tinted walls for greenhouses or to control the plants’ exposure to light. 
+
+
+Materials and Methods:
+Obtaining Chloroplasts
+
+To test our hypothesis, we prepared the chloroplasts for treatments by deveining the spinach leaves and adding 10ml of cold grinding buffer and ground the leaves into a thick paste with a cool mortar and pestle. We added 10ml more of the grinding buffer to the slurry we produced and strained it with cheesecloth. Next, we transferred 200μl of the filtered liquid into the Sample A microtube and stored it on ice while we centrifuged the remaining mixture for 3 minutes at 200 x g at 4ºC. We poured the supernatant out of tube A into tube B and centrifuged this sample for 10 minutes at 1,000 x G at 4ºC. 
+
+Exposing Chloroplasts To Treatments
+ 
+We exposed our spinach chloroplasts to 3 different treatments: 1 set of triplicates was exposed to 100% light under a lamp, another set was exposed to 50% light under a lamp with a mesh preventing exposure to half of the light, and a set that was in complete darkness. 4 test tubes, including a blank, did not have chloroplasts. Each triplicate consisted of 2ml of 100mM phosphate reaction buffer, 2ml of 130mM DCIP and 6ml of water while the blank consisted of 2ml of 100 mM phosphate reaction buffer and 8ml of water, and chloroplasts. 
+
+We transferred samples of each tube into cuvettes, blanked the spectrophotometer, and measured their absorbances to serve as our time 0 data points. After recording the data we put each of the triplicates in their respective treatments and waited for 10 minutes. We repeated this step twice more to have data points for time 0, 10, 20, and 30.
+
+We used the paired t test because we compared two averages that came from the same group but with 2 variables being manipulated: light intensity and the time each absorbance was taken.
+
+
+Results:
+The y axis represents the percent change and is measured against the x axis which represents the time over a 10 minute interval. The graph reflects the percent change of absorbances of samples with no chloroplasts and samples with chloroplasts from spinach leaves exposed to 3 treatments: 0% light, 50% light, and 100% light. The results show that the samples without chloroplasts had the lowest percent change of absorbance and the chloroplasts with 0% light also had very low percent changes of absorbance. The chloroplasts exposed to 50% light had a larger percent change and the chloroplasts exposed to 100% light had the largest percent change which gradually increased over time. 
+
+The mean percent change of absorbances of the group after the exam was significantly greater than before the exam (df = 12; P = 0.0075).
+
+
+Discussion:
+Figure 1 represents the percent changes of absorbances of chloroplasts from spinach leaves in 10 minute intervals. The yellow line represents the sample that contains chloroplasts and exposed to 100% light which served as the positive control. This line steadily increases across the x axis because the absorbances of the chloroplasts increased every 10 minutes it was measured, thus increasing the percent change. The increase in absorbance reflects more light being able to pass through the sample which shows that photons were captured which allowed light energy to change to chemical energy. This shows that the performance of photosystem 2 increased at each interval because more light passed through the sample which represents an increase in photosynthesis. 
+
+In comparison, the blue line, which represents the negative control and the sample with no chloroplasts in 0% light, had a small percent change in absorbances because it remained close to 0 on the y-axis. This means that the combination of no light and no chloroplasts influenced photosystem 2 because it captured less photons from the light due to less exposure to light. 
+
+The orange line showed a similar trend except it had a larger difference in the percent changes of the absorbance. This is because the orange line represents the sample exposed to 0% light as well but included chloroplasts. The presence of chloroplasts increased the absorbance over time because it is responsible for converting light energy to chemical energy, thus increasing the plant’s ability and probability of  capturing photons from light. 
+
+The grey line represents the sample that was exposed to 50% light and included chloroplasts which displays data more similar to the positive control. The grey line steadily increases between 10 and 20 minutes but plateaus between 20 and 30 minutes because the photosystem 2 performance decreased in comparison to the first 10 minutes. Due to its exposure to more light and the presence of chloroplasts, the sample had an increase of photosystem 2 activity 
+
+The t-test was used to compare two averages that came from the same group with the following results: df = 12; P = 0.00075. The P value was less than 0.05 which allows us to reject the null hypothesis that light intensity does not affect the performance of photosystem 2. In conclusion, the results show that light intensity affects the performance of photosystem 2 because the p value displayed that the differences in means of percent changes were statistically different.
+
+
+Literature Cited:
+http://www.plantphysiol.org/content/73/2/329.short
+https://www.sciencedirect.com/science/article/pii/S000527281200028X
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+7.32.15+AM.png&Size=35804&Type=image%2Fpng&F=F_3KvI1ph3vO8au2U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1*************************************************************************
+
+
+

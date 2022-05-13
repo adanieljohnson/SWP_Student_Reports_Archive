@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 22:49:06
+Author of this lab report is: Std_CO1TBHuz
+ID: R_1jJvOvEwXwEzpTa
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Change in Threshold and Twitch Intensity Amplitude in Rana pipiens Legs When Given a Ca++ Channel Inhibitor
+
+Abstract:
+Ca2+ is an ion that is important in the process of muscle contraction. Ca2+ channel inhibitors can stop Ca2+ from reaching the microfilaments in the muscle and decrease muscle contraction. This can affect the threshold amplitude of a contraction and the intensity of the contraction at threshold. In this experiment, the effect of Ca2+ channel inhibitor lanthanum chloride on the change in threshold and intensity of contractions at threshold is tested on the gastrocnemius muscle of Rana pipens. Our predictions were that Ca2+ channel inhibitor will decrease the threshold amplitude and intensity of the contraction compared to a normal leg of a Rana pipens. Using a stimulation transducer connected to the nerve of the frog leg to send stimuli to the leg and an injection of lanthanum chloride to the muscle, the contraction of the frog leg was measured. From the data collected, the frog legs showed no significant difference is threshold amplitude and intensity amplitude. This shows that when given the Ca2+ channel inhibitor, the frog leg would still contract, meaning that there is no significant change in contraction when given the inhibitor.
+
+
+Introduction:
+The somatic neuromuscular system is made of skeletal muscles that are innervated by motor neurons. Nerves stimulate muscle contractions through a process called excitation, which involves an action potential stimulating a muscle, releasing acetylcholine, the action potential moving down the muscle fiber, releasing Ca2+ and the reuptake of the Ca2+. We can use myograms to record muscle contractions by attaching a force transducer to a muscle or nerve, which can stimulate the muscle (like an action potential) and measure the force generated overtime. Myogram graphs include a latent period, a contraction period, and a relaxation period. The latent period is before a stimulation occurs, the contraction period is when the muscle shortens, and the relaxation period is when the muscle lengths. Using the transducer and the myogram graphs, we can figure out the lowest stimulation amplitude (threshold) a contraction will happen and the intensity of that contraction, or twitch amplitude [Johnson: 2018].
+	Ca2+ is an ion important for the process of muscle contraction. It is said to control the last step to activate the muscle contraction. When the action potential travels down the muscle fiber and allows for Ca2+ to be released from the T-system into the sarcoplasmic reticulum and contract the muscle by binding to muscle microtubules [Ebashi: 1968]. Lanthanum is an element that is considered to be a Ca2+ channel inhibitor. When a solution that contains Lanthanum is given to a muscle, it reduces the contraction of the muscle [Kirkpatrick: 1975].  Ca2+ channel inhibitors, like lanthanum, can decrease muscle contraction, causing the muscle to stay in a relaxed state [Fovaeus: 1986]. 
+	Rana pipiens, or Northern leopard frog, has a gastrocnemius muscle and sciatic nerve that is easily accessible in their leg to study the effect of stimulating a twitch [Johnson: 2018]. Using this frog leg, we can study the effect of lanthanum chloride (Ca2+ channel inhibitor) on muscle contraction, specifically the threshold amplitude needed to have the muscle contract and the intensity level of the muscle contraction. With the information on muscle contraction and Ca2+ channel inhibitor, we predicted that when a Ca2+ channel inhibitor is placed in the muscle of a Rana pipiens leg, the threshold amplitude and intensity of the contraction will decrease compared to a normal leg of a Rana pipens.
+
+Materials and Methods:
+To conduct this experiment, we took two frog legs and pulled the skin down and off the legs. After the skin was removed and some Ringer’s solution was sprayed onto the leg, the inner thigh muscle and nerve were separated (still attached to the leg). After separating these parts and restricting the leg with pins and tension from muscle connected to a force transducer, electrode pins connected to a stimulator (IXTA) were placed on the nerve in the frog leg. Next the stimulator was connected to a computer program LabScribe, and a recording program was set up to record the threshold amplitude and twitch amplitude of the frog leg. The original parameters were 3-5 pulses, 0.0 amplitude, 1 Hz frequency, and pulse width 5 milliseconds. With these parameters, the program was fired and recorded the response of the leg. The amplitude was then increased by 0.1 steps until the threshold amplitude is found. At this threshold amplitude, we took the twitch amplitude of the 3-5 responses (contraction of the leg) as control 1. The leg muscle used for control 1 was then injected with 0.1 mL of 1 mM lanthanum chloride and allowed to rest for 10 minutes (treatment group 1). After ten minutes, the leg went through the same stimulation process and muscle contraction. Measurement of threshold amplitude and twitch amplitude were recorded under treatment group 1. This entire process was then repeated on a second leg (control 2 and treatment group 2). Once all the measurements were recorded, a paired t-test was conducted on the data to find if there was a significant difference between the control and treatment groups.
+
+Results:
+After recording the twitch amplitudes and the threshold amplitude (first muscle contractions) of the control frog leg muscle and nerve and the Ca2+ channel inhibited frog leg muscles, there was no significant difference found in amplitude voltage values. Frog leg muscles that were given the lanthanum chloride had similar threshold amplitude values to the control frog muscles. The average threshold for the control frog legs was 0.165±0.0606 Volts and the average threshold for the lanthanum chloride injected frog legs was 0.183±0.1258 Volts. Also, the twitch amplitude average values were similar between each leg used; the normal leg average being 0.331±0.2880 Volts and the lanthanum chloride injected frog leg average being 0.596±0.4595 Volts. Once the paired t-test was completed, the average threshold amplitude and the average twitch amplitude of the Ca2+ channel inhibited frog leg muscle, were not statistically significant from the average threshold amplitude and the average twitch amplitude of the normal frog leg muscle (Threshold amplitude: t-stat=0.428, df= 2, P-value=0.710) (Twitch amplitude: t-stat= 2.675, df=2, P-value=0.116).
+
+Discussion:
+Looking at the results from the threshold amplitude and the twitch intensity amplitude between the frog leg muscle that received a lanthanum chloride or did not, we can say that out results do not support the hypothesis that there would be a decrease in threshold amplitude and the twitch intensity amplitude in the legs injected with lanthanum chloride. This was concluded by a paired t-test through the p-value; threshold amplitude being P=0.710 and twitch intensity amplitude being P=0.116. With all the sources saying that Ca2+ channel inhibitors would decrease these measurement, our threshold amplitudes were the same values, and the twitch amplitude values were not consistent (the treatment group showing a slight increase in twitch intensity). This could be because there was not enough of the lanthanum chloride Ca2+ channel inhibitor in the frog leg to shut down all the Ca2+ channels, thus keeping the same threshold values and about the same twitch amplitude values.
+Tension plays a part in changing the twitch and tetanus of muscle contractions. With decreased force(tension), muscle fiber could shorten [Rüdel: 1969]. This means that when different forces are placed on the muscle (force transducer), the twitch amplitude can change. In our experiment, the twitch amplitudes (intensity of contraction) increased with treatment group, and were not consistent differences with similar trials. This could be due to a different amount of force being applied to the muscle in different trials. 
+There were two sources of error in this experiment. The first one is that we did not have a constant force on the frog leg; the force transducer was adjusted each time a leg was put on it or put back on it. Another source of error could have come from the disease that the frog legs had. To conduct this experiment again, I would try and find a way to have the same force applied to all the muscles. This is hard to do, since each muscle is not exactly the same length and is not tied to the same amount of string that is hooked up to the force transducer. The second change I would make to the experiment is to have a lot more trials to compare. We were only able to conduct and look at four trials of this experiment, and they were with potentially infected frog legs. I would try to have more trials with healthy frogs.
+Ca2+ channel inhibitors decrease the amount of Ca2+ that can be used to contract a muscle. With a small amount of these inhibitors, muscle contractions were still able to occur. This could be important for frogs that are in an environment that can introduce then to a Ca2+ channel inhibitors. With only a small amount, the frogs would still be able to contract their muscles and move around. Theoretically, this means that if an animal is placed in a similar environment, they would still be able to move around and function.
+
+Literature Cited:
+Ebashi, S., Endo, M. “Calcium and Muscle Contraction.” Progress in Biophysics and Molecular Biology. 1968. 123-166. 
+
+Fovaeus, M., Andersson, K. E., Bartra, S., Morgan, E., Sjögren, C. “Effects of Calcium, Calcium Channel Blockers and Bay K 8644 on Contractions Induced by Muscarinic Receptor Stimulation of Isolated Bladder Muscle From Rabbit and Man.” The Journal of Urology. 1986. 798-803. 
+
+Johnson, D. A. “Hormone Regulation.” Comparative Physiology Bio 114 Laboratory Manual. 2018. 5-14.
+
+Kirkpatrick, C. T. “Excitation and contraction in bovine tracheal smooth muscle.” The Journal of Physiology. 1975. 
+
+Rüdel, R., Taylor, S. R. “The influence of stimulus parameters on contraction of isolated frog muscle fibres.” The Journal of Physiology. 1969. 499-513.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+1.28.35+AM.png&Size=64774&Type=image%2Fpng&F=F_Q0NBkVYXgU3PpER
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+1.37.50+AM.png&Size=64273&Type=image%2Fpng&F=F_2WY9lKNYoAt85yS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average twitch amplitude (intensity of contraction) in control Rana pipiens legs and ones that were injected with lanthanum chloride. The measurement was found by measuring the contraction amplitude on the myogram generated by the frog leg twitch. The standard deviation shows that there was large deviation between amplitude found in each sample. With this data, a paired t-test was conducted (t-stat= 2.675, df=2, P-value=0.116).
+
+Figure 2. The average threshold amplitude (first contraction) in control Rana pipiens legs and ones that were injected with lanthanum chloride. The measurement was found by measuring the amplitude when the first contraction occurred on the myogram generated by the frog leg twitch. The standard deviation shows that there was large deviation between amplitude found in each sample. With this data, a paired t-test was conducted (t-stat=0.428, df= 2, P-value=0.710).
+
+*************************************************************************

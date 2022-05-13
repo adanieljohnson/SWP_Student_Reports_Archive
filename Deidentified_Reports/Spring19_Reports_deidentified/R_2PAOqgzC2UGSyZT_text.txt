@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-26 11:42:23
+Author of this lab report is: Std_tQX5pXab
+ID: R_2PAOqgzC2UGSyZT
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The Effects of Glyphosate on Photosynthesis in the species of Spinacia oleracea (spinach), Brassica oleracea var. sabellica (kale), and Brassica oleracea, var. acephala (collard greens).
+
+Abstract:
+Photosynthesis is the process in which plants obtain energy from light to power their functions. In this experiment we tested the effects glyphosate, the active ingredient in Round-Up, on photosynthesis, specifically if it would inhibit the reaction occurring within Photosystem II. Using DCIM decolorization and the Hill reaction measured the absorbance of an assay to determine if glyphosate is statistically significant in inhibiting the photosynthetic processes of Spinacia oleracea (spinach), Brassica oleracea var. sabellica (kale), and Brassica oleracea, var. acephala (collard greens).
+
+Introduction:
+Photosynthesis is the process by which plants, some protists, and certain bacteria obtain energy from the sun. Organelles called chloroplasts house the process of photosynthesis, more specifically, photosynthesis takes place in the protein complexes Photosystem I and Photosystem II which are located in the thylakoid membrane of the chloroplast. In this lab we tested the effect of the herbicide Round-Up which uses glyphosate as it’s active ingredient on the enriched chloroplasts from the leaves of Spinacia oleracea (spinach), Brassica oleracea var. sabellica (kale), and Brassica oleracea, var. acephala (collard greens). Round-Up should target the activity that occurs within Photosystem II where enzymes capture the light to energized electrons. We hypothesized that the greener the leafy vegetable was the more photosynthesis would occur and the less it would be inhibited by the herbicide. As kale and collard greens come from the same species, we expect them to be similarly affected by the herbicide tested. Similar studies in which glyphosate has been tested for its effects on photosynthesis have shown that in low concentrations photosynthesis is stimulated while if the concentration is higher it shows significant inhibition of photosynthesis in freshwater green alga, Scenedesmus quadricauda Berb 614 [Wong, 2000]. It should be noted the Round-Up is a type of herbicide that is commonly used in North America to kill weeds and grass and it is often marketed to safe to use around gardens and vegetables, which is why we predict that it will do little to inhibit photosynthesis in the vegetables we are testing.
+
+Materials and Methods:
+For this lab we extracted the chloroplasts from three types of leafy greens. Using the leaves from spinach, kale, and collard greens respectively we removed the central vein and crushed about 4 medium leaves with a mortar and pestle in 10mL of grinding buffer (400mM sucrose in tricine buffer pH 8) until no large chunks remained. Once that was done, we added more grinding buffer to create a slurry that was drained and then centrifuged at 1,000 x G for 10 minutes at 4 degrees Celsius. Once it had been centrifuged the supernatant was drained and an additional 20mL of grinding buffer was added to resuspend the pellet. Once we had extracted and enriched the chloroplasts, we performed a Hill Reaction and DCIP decolorization. We use DCIP because the chemical starts out blue but as the bonds rearrange within the molecule the structure that determines its blue color is removed. We started with 22 test tubes labeling one as blank, and three in each of the following categories no chloroplasts, spinach no herbicide, kale no herbicide, collard greens no herbicide, spinach with herbicide, kale with herbicide, collard greens with herbicide. The blank tube had only 8 mL of water and 2 mL of reaction buffer (100mM phosphate, pH 6.5). Each of the tubes for the no chloroplasts and chloroplasts without herbicide contained 6 mL of water, 2 mL DCIP, and 2 mL reaction buffer. Finally, in the tubes set aside for the herbicide we used 5 mL of water, 2 mL DCIP, 2 mL of reaction buffer, and 1 mL of 1.06M glyphosate (Round-Up). One we were ready to begin the assay we add 100 micro liters of the chloroplast noted on the test tube to each tube, transferred to cuvettes and recorded the absorbances from a spectrophotometer set at 600nm. The results which you can see in Figure 1.
+
+Results:
+In order to test the effects of glyphosate on photosynthesis in the 3 types of leafy greens we performed an assay and tested the absorbance at 600nm, we then noted the absorbance at an initial time 0, the absorbance after 10 minutes after 20 minutes, and after 30 minutes for each type of green with and without herbicide. From there we were able to calculate averages and the percent change after each time the absorbance was measured, the results you see displayed in Figure 1. Using a two-sample, two-tailed t-test it was determined that collard greens is the only group to show statistical significance as it is the only one with a p-value less than 0.05. The biggest general trend from this experiment would be that when the herbicide is present production seemed to increase rather than decrease.
+
+Discussion:
+As briefly mentioned in the results our experiment shows a general trend of no inhibition from the herbicide rather than decreased production when the herbicide Round-Up is present. Although this result was not initially accounted for in our hypothesis current scientific literature seems to be in agreement with this result. In the study performed by Wong which tested glyphosate among other herbicides effects on photosynthesis in freshwater algae show that when used at a lower concentration such as the 1.06M concentration we used in this experiment, photosynthesis would be stimulated rather than inhibited [Wong,2000]. One thing that was not accounted for in the planning of this experiment was that kale and collard greens have a film like cover that makes them hard to grind with mortar and pestle. While the initial hypothesis is rejected due to the lack of statistical significance shown it can be amended to say that it can be expected that with a concentration over 2M glyphosate would inhibit photosynthesis of the leafy greens used in this experiment perhaps with the greenest of the vegetables being the least inhibited. Therefore, if this experiment were to be redone it should be done either with a greater concentration of Round-Up or with a different herbicide entirely.
+
+Literature Cited:
+Wong, P.K. “Effects of 2,4-D, glyphosate and paraquat on growth, photosynthesis and chlorophyll–a synthesis of Scenedesmus quadricauda Berb 614.” Chemosphere, vol. 41 no. 1-2, Jul. 2000, pp. 177-182. www.sciencedirect.com, https://doi.org/10.1016/S0045-6535(99)00408-7
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=50512&Type=image%2Fpng&F=F_qKMgY9e7Ill15Sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Percent Chang of the absorbance at the time specified. Standard error bars represent percentage at 5%. P-value from a two-sample two-tailed t-test performed on each type of vegetable shows statistical significance with a p value less than 0.05 at 0.0477 for collard greens*************************************************************************
+
+
+

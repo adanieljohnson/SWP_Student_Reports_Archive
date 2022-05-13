@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-09-24 23:19:42
+Author of this lab report is: Std_6UJPaChQ
+ID: R_2rI5TIEaDo3qZy4
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The Increased Effect of Precor-Methoprene on Manduca Sexta Weight
+
+Abstract:
+The JH hormone regulates the metamorphosis of Manduca caterpillars by dictating its pupation. Precor-methoprene is an example of a JH analog. Our study serves to observe the effect of precor-methoprene on a Manduca Sexta’s mass. We predicted that a Manduca caterpillar fed a diet of 10 drops of methoprene for every 10 grams of food will have a larger weight than a Manduca caterpillar fed a standard diet of food. Over a two week period, we found that this increase in methoprene led to heavier caterpillars. This is likely due to the JH hormone’s ability to keep the caterpillar in its larvar stage, inhibiting pupation and thus gaining weight. 
+
+
+Introduction:
+The juvenile hormone is a long chain of organic molecules produced by the corpus allata. It regulates the type of molt of a Manduca caterpillar and controls its metamorphosis. JH levels stay high up until the 5th larvar instar, where the 20E hormone rises and the caterpillar experiences its commitment pulse. At this stage, the caterpillar begins pupation. In a study of young caterpillars of the Papilio Xuthus, it was found that with treatment with a JH analog at the beginning of the fourth instar stage, the insect repeated its mimetic pattern [Futahashi: 2008]. Although the study focused on insect color patterns, this color switch was associated with the progression of larvar stages. This leads us to believe that with a treatment of a JH analog, the mass of a caterpillar could be affected. In our experiment, we want to see the effect of the JH hormone on the mass of Manduca caterpillars, using Precor-methoprene as our JH analog. Our control group for comparison is caterpillars fed standard food with no presence of methoprene. If Manduca caterpillars are fed food with 10 drops of Precor-methoprene for every 10 grams of food, then they will weigh more than those fed standard food.
+
+
+
+Materials and Methods:
+Eight Manduca Sexta caterpillars weighing between 1.2 and 1.8 grams were selected and randomly divided into two groups of four. We placed each group into a separate container with four sections (one for each caterpillar) after poking holes in the sides to ensure air flow. We fed each caterpillar one of two diets: the four control caterpillars were fed a standard diet of 10 grams of caterpillar food mixed with 10 drops of distilled water, and the four experimental caterpillars were fed a diet of 10 grams of caterpillar food mixed with 10 drops of Precor-methoprene. All eight caterpillars were kept in the same incubator at 25 degrees Celcius. Each day, we measured and recorded the caterpillars’ weights. We also wrote down other general observations about their size, movement, and color. We used a one-tailed, two-sample t-test to compare the average change in weight between the control and experimental groups. 
+
+
+Results:
+Average weight change (control): 4.1025 g +/- 0.837 g
+Average weight change (experimental): 8.7525 g +/- 3.2057 g
+Df: 6
+T-value: 2.8064
+P-value: 0.01545 
+
+
+Discussion:
+Because we found a p-value of less than 0.05, the data are significant and we can reject the null hypothesis. The data reveal that if Manduca sexta caterpillars are fed food with 10 drops of Precor-methoprene per 10 grams of normal food, their weights increase. Our hypothesis was therefore supported. One explanation of these results could be that because methoprene is a JH analog, the experimental caterpillars stayed in the larvae stage for longer, thus gaining weight and not pupating. This explains their comparatively large weight to the control caterpillars who were fed normal food and pupated within a week. Our results line up with the previous study that found that with treatment of JH, young caterpillars of the swallowtail butterfly repeat their mimetic pattern and thus do not begin pupation [Futahashi: 2008]. These results could be useful to farmers who are trying to control the Manduca population because a ratio of 10 drops of methoprene to 10 grams of food will inhibit metamorphosis of the caterpillar. A possible future study could be adding varying levels of Precor-methoprene to the food and seeing how much is necessary to inhibit pupation. 
+
+
+Literature Cited:
+1. Futahashi, R., & Fujiwara, H. (2008). Juvenile hormone regulates butterfly larval pattern switches. Science, 319(5866), 1061-1061.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=jh+.png&Size=30735&Type=image%2Fpng&F=F_3dKhmylN5VTlpTB
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=hormones.png&Size=34781&Type=image%2Fpng&F=F_2bFczmAIDsNbJbb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average changes in weights for the four control caterpillars fed 0 drops
+of methoprene and the four experimental caterpillars fed 10 drops of methoprene.
+Figure 2: Average changes in weight of Manduca caterpillars fed 0 drops of methoprene (control group,
+n=4) vs Manduca caterpilars fed 10 drops of methoprene (experimental group, n=4). Error bars
+represent +/- one standard deviation.*************************************************************************
+
+
+

@@ -1,0 +1,96 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-08 16:59:53
+Author of this lab report is: Std_fmqWtvia
+ID: R_2YPSYxcmI80gA41
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: The Impact of Herbicide Inhibition in Chloroplast Samples of Spinacia oleracea
+
+Abstract:
+Herbicides are used daily in the real world for industrial farming or even in backyard gardens.  Herbicides are essential for destroying unwanted vegetation (usually used as weed killer).  When it comes to herbicides it is essential to look at how different herbicides impact photosynthesis.  This experiment tests a home-made herbicide, Roundup, and acid rain on Spinacia oleracea and measures the absorbance of each herbicide at 10, 20, and 30 minutes under blue light.  These inhibitors are also measured along with a mixture of chloroplasts and no herbicides.  The percent change of absorbance is then calculated to compare the varying effects of the mixtures on photosynthesis.  We hypothesize that the three herbicides will disrupt the rate of photosynthesis and will show a smaller percent change in absorbance over 30 minutes compared to the chloroplasts without herbicide.  We also hypothesize that acid rain will show the least percent change over 30 minutes.  The results conclude that the Roundup herbicide had the smallest percent change over time showing the strongest impact on the rate of photosynthesis.  Using an ANOVA statistical test, the p-value for the data was 0.295 which showed that the data was not statistically significant.
+
+Introduction:
+Animals must get food into their systems in order to have the necessary energy for survival.  Plants create energy which is used by animals, and they replenish their energy constantly from the ultimate energy source, photosynthesis.  During photosynthesis, plants convert energy from the sun into organic molecules which is used as fuel for the plant.  The absorption of energy is happened in the chloroplasts.  Photosynthesis occurs in reactions that happen in the chloroplasts which focus on splitting of water into oxygen, protons, and electrons [Johnson: 2016].  These excited protons and electrons then move through the an electron transport chain generating the energy needed to produce ATP and NADPH [Johnson: 2016].  These energy storage molecules are then used by the enzymes of the Calvin cycle, made up of chemical reaction steps of carbon fixation, reduction, and regeneration [Johnson:2016].  The carbon atoms from carbon dioxide eventually form three-carbon sugars, and these sugars are able to make glucose [Johnson: 2016].  At this point, an organism is able to obtain and store energy which is needed to be broken down and made into more ATP.  The breaking down into ATP process is known as cellular respiration, occurring in the mitochondria [Johnson: 2016].  Photosynthesis and respiration work together to keep plants functioning by allowing plants to achieve their energy needs.
+	Our experiment looks at how the process of photosynthesis and the electron transport chain within photosynthesis can be affected by changes in environmental factors and conditions.  In order to test whether the photosynthesis reduction reactions are affected by these changes, 2,6-dichlorophenol indophenol (DCIP)  is used.  Because of its high affinity for electrons, DCIP can be used as a redox dye and a substitute for NADP+ (normally the last electron carrier in photosynthesis) [Krysa: 2015].  DCIP is blue when oxidized and becomes colorless when reduced, therefore the reduction can be observed and a change in light absorbance can be measured using a spectrophotometer.
+	When looking at changes of photosynthesis activity due to changes in environmental conditions, herbicides are known to slow down the process of photosynthesis.  This experiment looks to test the impacts of acid rain, homemade herbicide, and common store bought herbicide (Round-up) on photosynthesis of Spinacia oleracea leaves.  Spiniacia oleracea (spinach) is part of the family Amaranthaceae, grown in moist and fertile soil, and is native to Central and Western Asia [Roberts: 2016].  Spinach is commonly grown in many parts of the world, and it is easily studied because of its easy access and strong photosynthetic performance in both light and dark conditions [Roberts: 2016].  However, like all photosynthesis processes, the photosynthesis of spinach leaves can be disrupted by herbicides.  The first herbicide, glyphosate but commonly known as Roundup, is the most widely used herbicide in the US [Gomes: 2016].  Roundup is known to cause the inhibition of CO2 assimilation, disrupt the carbon reduction cycle, and cause changes in metabolism [Gomes: 2016].  Roundup can also indirectly impact photosynthesis by causing chlorophyll damage [Gomes: 2016].  The main affect from Roundup is the development of oxidative stress which can lead to the destruction of vital photosynthesis processes.  The second herbicide is the home-made herbicide which contains vinegar and clove oil.  This herbicide is commonly used for weed control, particularly for weed control in sweet corn, potatoes, and onions [Evans: 2008].  It has been found that the home-made herbicide is known to affect the cell membranes of plants, causing the breakdown of tissue [Evans: 2008].  Research has shown that 5-10% vinegar in the herbicide is effective for small weeds, and higher concentrations of vinegar have been found to improve weed control for larger areas of weed [Evans: 2008].  The last herbicide is acid rain which has been known to disrupt photosynthesis and cause the death of plants [Zhang: 2018].  Research has shown that acid rain lowers leaf water content, destroys chloroplasts, and inhibits chloroplast ATP synthase activity to stunt plant growth [Zhang: 2018].
+	In this experiment, the impacts of the different herbicides on photosynthesis are examined over time under blue light.  Blue light is essential for chlorophyll in photosynthesis and is seen in nature midday during the peak of sunlight and growth [Poudel: 2008].  Blue light is great for chloroplast development during this timr, and studies have shown that blue light causes the highest number of plant stomata out of all the light colors [Poudel: 2008].  When looking at photosynthesis under blue light, the herbicide effects of photosynthesis can be compared to the different mixtures of herbicides that have different pHs.  The comparison is made by comparing each different herbicide mixed with enriched chloroplasts to each other and also by comparing these different herbicides mixtures with a non-herbicide mixture with enriched chloroplasts.  Research shows that low pH levels completely destroy plants due to the high acidity which causes a greater disruption of photosynthesis [Zhang: 2018].  This can allow predictions to be made about acid rain which has the lowest pH value out of the three herbicides.  We hypothesize that the three herbicides mixtures will disrupt the rate of photosynthesis which will show a smaller percent absorbance change over 30 minutes in comparison to the non-herbicide mixture.  We also hypothesize that acid rain will show the smallest percent change over 30 minutes.
+
+
+Materials and Methods:
+In this experiment, five medium-sized spinach leaves were used.  The first step was to remove the large central vein and rinse the leaves.  The leaves were then put into a chilled mortar and pestle with 10mL of cold grinding buffer (400mM sucrose in Tricine buffer, pH 8.0) where the leaves were grinded into a thick paste.  10mL of cold grinding buffer was added to the thick paste then strained through three layers of cheesecloth into a chilled beaker.  The green liquid remaining in the beaker was transferred into a 50mL tube and centrifuged for 13 minutes.
+	While the spinach paste was centrifuging, reaction mixtures were prepared for 16 large test tubes.  Test tube 1 was the blank tube which contained 8mL of water, 2mL of reaction buffer (100mM phosphate, pH 6.5).  Then for test tubes 2-4, known as the no chloroplasts test tubes, were prepared with 6mL of water, 2mL of DCIP (130mM), and 2mL of reaction buffer, and these tubes were the negative control of the experiment.  Test tubes 5-7, the chloroplasts with no herbicide test tubes, were prepared with 5mL of water, 2mL of DCIP, and 2mL of reaction buffer.  Test tubes 8-10, the chloroplasts with acid rain test tubes, were prepared with 1mL of 25% nitric acid, 5mL of water, 2mL of DCIP, and 2mL of reaction buffer.  Test tubes 11-13, the chloroplasts with homemade herbicide test tubes, had the same mixture as acid rain but were mixed with 1mL of the home-made solution (4mL white vinegar pH 2.4 and 2mL of clove oil) instead of the 1mL of nitric acid.  Test tubes 14-16, the chloroplasts with synthetic herbicide test tubes, were mixed the same way but were mixed with 1mL of Roundup instead of nitric acid or the homemade-made solution.  After centrifuging, 100mL of the enriched chloroplasts were added all of the test tubes with the exception of no chloroplast test tubes (tubes 2-4).  Once the chloroplasts were added, each tube was mixed and were then transferred to spectrophotometer cuvettes for absorbance readings.
+	After blanking the spectrophotometer with test tube 1, the absorbance was recorded for all of the samples at 600nm as time zero data.  All of the samples were then put into a rack under blue light, and the absorbance readings were repeated at 10 minutes, 20 minutes, and 30 minutes for all of the samples.  After gathering all of the absorbance data, percent changes were calculated between each time of absorbance readings, and an ANOVA test was used to test the data for significance.  The ANOVA test was legitimate due to the fact that the test was run with the negative control.  The function of the ANOVA test was to compare the absorbances of the groups with chloroplasts to the groups with chloroplasts plus each herbicide.
+
+
+Results:
+Our data showed absorbance readings from the five solutions at 10, 20, and 30 minutes under the blue light.  These absorbances allowed for calculations of percentage changes from time 0 to 10 min, 20 min, and 30 min as seen above in Table 1 and graphed as scatter points in Figure 1.  It is seen in trends in the graph and the table that all of the solutions, except the solution with no chloroplasts, had an increasingly negative percent change as time increased.  Using the ANOVA test, our percent change data gave us a p-value of 0.295 which showed that there was no statistical significance in the data.  We knew that our statistical test was accurate due to our usage of a negative control, but because of this statistical insignificance, our hypothesis that acid rain would show the smallest percentage change over 30 minutes was not supported.  Looking at the results, the -44.46%15 changes in absorbance of the control samples with the chloroplasts was a much larger percent change than the solutions with the herbicides.  This indicated that the herbicides were somewhat effective and had an impact on photosynthesis due to much smaller percent changes.  The acid rain sample showed a -29.63%-4.05 change in absorbance and the home-made herbicide showed a -29.77%-7 change in absorbance which were both 14% lower in absorbance than the control, indicating an effect on photosynthesis.  Instead of acid rain showing the smallest percent change of 30 minutes, Roundup showed the most inhibition and the strongest effect on photosynthesis with a -19.22%-3.39 change in absorbance which was more than 20% lower than the control group.  Looking back at our p-value of 0.295, we could not conclude our data to be statistically significant, but due to the overall trends we were able to still interpret results and draw conclusions from them.
+
+Discussion:
+As mentioned in the introduction, the reduction process of electrons moving through the electron chain is measured by DCIP which turns from dark blue to colorless when reduced.  This electron chain process is integral for photosynthesis, and the impact of the herbicides was shown in the changes of DCIP.  Herbicides did not allow the enriched chloroplasts to reduce DCIP.  This was shown in the test tubes with herbicides which had more color than those with no herbicides and chloroplasts.  From this, the data from the spectrophotometer was able to show the change of absorbance in relation to photosynthesis occurring, and the smaller percent change in absorbance in the test tubes over the time period showed a greater effect of herbicide on photosynthesis.
+	Focusing on DCIP of the reduction process, it was observed that DCIP was more clear when acid rain was added and not initially blue like the other samples.  This caused a smaller absorbance initially for the acid rain test tubes and also for small changes in absorbance to cause high percent changes due to the small numbers.  This initial small absorbance could have been related to the concentrations of the specific herbicides that were used.  Also, Roundup could have had a more photosynthesis damaging formula than the home-made herbicide and acid rain. Past studies have shown different observations of photosynthesis based on different concentrations and dilutions of the herbicides.  Looking back at Evans’s study, the home-made herbicide had many different impacts on photosynthesis based on concentration [Evans: 2008].  This was examined as different concentrations of vinegar and clove-oil had changing effects based on the different weeds of the different crops and also on the size of the area of weeds [Evans: 2008].  Also, Zhang’s experiment on acid rain, using samples made to mimic the different types of acid rain which occurs in different environments, looked at acid rain’s impact on the lives of plants [Zhang: 2018].  It was observed in the experiment, similarly to Evans’s study, that different solutions of acid rain had different results on photosynthesis in different climates [Zhang: 2018].  Both of the studies show that the effective concentrations of the herbicides on photosynthesis vary between different plants in different environments.  It is possible that when choosing different herbicides for the experiment that the best possible concentration/dilution was not chosen for the spinach leaves in the laboratory environment.  For example, the 1:4 dilution of Nitric Acid may have not been the most effective amount which could have contributed to the smallest percent change.
+	Sources of error could have been human error when transferring the vials to the spectrophotometer with smudge marks on them which could affect the absorbance numbers.  Another source of human error could have been different concentrations than anticipated put into the test tube mixtures due to amount of reagents inside being not precise.
+	The overall purpose of the lab was to look at which of the three herbicides decreased the rate of photosynthesis the most.  Because Roundup was the most effective and our hypothesis that acid rain would be the most effective was not correct, another experiment could be run to retest the acid rain hypothesis.  This new experiment would need to take in account different concentrations of each herbicide in order to test to see if a different concentration of acid rain is most effective towards photosynthesis inhibition for spinach leaves.  For example, instead of 1 group of 3 test tubes for each herbicide, there could be 3 groups of 3 test tubes of different concentrations/dilutions for each herbicide.  The blue light was used for the experiment, but the next experiment could test the photosynthesis activity under different wave lengths of light by comparing chloroplast samples of each of the different wavelengths.
+	In the end, this experiment allowed for us to look at herbicides and to understand how herbicides impact photosynthesis in a greater scope.  This experiment also allowed for us to compare the effects of different herbicide on photosynthesis, which is a skill used by scientists to determine which herbicides to use for large scale farming.  Understanding herbicides is essential for all types of farming which leads to our daily food supply and usage of the best herbicide possible for farming has an impact on both health and efficiency for the world population.  Herbicides can also can be found in the form of acid rain which comes from industrial burning that causes pollution and leads to acidic rainfall which can damage crops.  A better grasp of acid rain can lead to a better understanding of pollution which is a growing issue in the world.  Scientists must improve knowledge of herbicides and improve herbicide technology in order to tackle the future growing problems of lack of food supply and worsening pollution.
+
+
+Literature Cited:
+Evans GJ, Bellinder RR. 2008. The potential use of vinegar and a cloe oil herbicide for week 
+control in sweet corn, potato, and onion. Weed Technology. 23: 120-128.
+
+Gomes MP, Juneau P. 2016. Oxidative stress in duckweed (Lemna minor L.) induced by 
+glyphosate: Is the mitochondrial electron transport chain a target of this herbicide? 
+Environmental Pollution. 218: 402-409.
+
+Johnson, MP. 2016. Photosynthesis. PubMed: Essays in biochemistry. 255.
+
+Krysa J, Baudys M, Mills A. 2015. Quantum yield measurements for the photocatalytic 
+oxidation of Acid Orange 7 (A07) and reduction of 2,6-dichlorindophenol (DCIP) on 
+transparent TiO2 films of various thickness. Catalysis Today. 240: 132-137.
+
+Poudel PR, Kataoka I, Mochioka, R. 2008. Effect of red- and blue-light-emitting diodes on 
+growth and morphogenesis of grapes. Plant Cell, Tissue, and Organ Culture. 92: 147-153.
+
+Roberts JL, Moreaua R. 2016. Functional properties of spinach (Spinacia oleracea) 
+phytochemicals and bioactives. Food and Function. 7: 3337-3353.
+
+Vecchia FD, Babato R, Rocca NL, Moro I, Rascio N. 2001. Responses to bleaching herbicides 
+by leaf chloroplasts of maize plants grown at different temperatures. Journal of Experimental Botany. 52: 811-820.
+
+Zhang F, Hu H, Wang L, Zhou Q, Huang X. 2018.  Effects of rare earth and acid rain pollution 
+on plant chloroplast ATP synthase and element contents at different growth stages. Chemosphere. 194: 441-449.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+4.00.05+PM.png&Size=108819&Type=image%2Fpng&F=F_1ooM0asvKy97S60
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+4.01.12+PM.png&Size=92981&Type=image%2Fpng&F=F_11hd4o2btwAN0Dn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: A scatter point graph looking at the average percent change of absorbances for each group tested with standard deviations.
+
+Table 1: The percent changes in absorbances of each of the different samples at 10 minutes, 20 minutes, and 30 minutes under blue light with standard deviations.
+
+*************************************************************************
+
+
+

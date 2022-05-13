@@ -1,0 +1,90 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-10 15:29:22
+Author of this lab report is: Std_h9624nuf 
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Sodium butyrate does not affect growth in slime mold 
+
+Abstract:
+Cell-cell communication is an important aspect of growth in organisms and cells use different pathways for different responses. One common pathway involved in growth is the calcium-activated intracellular calcium channel pathway. This pathway can be inhibited by sodium butyrate, a short chain fatty acid, and previous literature has shown either significant induction or inhibition of cell growth in the presence of sodium butyrate under different cell conditions and cell types. In this experiment, we studied the effect of sodium butyrate on Physarum polycephalum, commonly known as slime mold, by comparing the surface area growth of P. polycephalum in regular PDA plates compared to sodium butyrate soaked PDA plates. The results showed no significant affect, either growth or lack thereof, of sodium butyrate on slime mold, which ran counter to previous literature. It might be worth using higher concentrations of sodium butyrate as previous literature had at least a 1000-fold higher concentration. Studies on the effect of sodium butyrate are important in drug development for the control of cell growth in certain diseases, such as cancer. 
+
+Introduction:
+Cell-cell communication is an important aspect of growth in organisms. It is critical that cells are able to receive external signals and respond accordingly in order to elicit the necessary response. There are many different signaling pathways that affect cell and organismal growth, and among those pathways is the Ca2+-activated intracellular Ca2+ channels. In this pathway, Ca2+ second messenger triggers the release of Ca2+ from calcium channels in the smooth endoplasmic reticulum . Calcium that diffuses in from the external environment is not enough to trigger a response; but it can bind to a specialized calcium receptor on the smooth endoplasmic reticulum which opens a calcium channel and dramatically changes the calcium concentration in the cytosol. The high calcium concentration affects calcium dependent enzymes which in turn mediates various aspects of cell activity. One such activity is the promotion of metaphase during cell division [Stathopulos: 2013]. Thus, calcium is an important second messenger and enzyme affecter in cell growth and, as a result, it is important to study how it functions in living organisms. 
+
+In this experiment, we will specifically study the effects of Ca2+-activated intracellular Ca2+ channels on growth in Physarum polycephalum, commonly known as slime mold. This is a great model organism to study the effects of different stimuli on behavioral activity because even though it does not have a nervous system, it exhibits behaviors similar to those seen in eusocial insects likes bees and ants. They are much easier to grow, handle and observe than human or other cells, allowing us to perform experiments that are not otherwise feasible, or potentially even toxic [Alim: 2017]. 
+
+Previous literature has indicated that calcium signaling in general is responsible for the different behavioral phenotypes related to social strategies in slime mold, among those strategies being growth and expansion [Vogel: 2015]. Little research on the effects of sodium butyrate on calcium ion channel function and behavioral responses has been conducted on slime mold specifically. However, there is an abundance of research conducted on various vertebrate, including human, cells. It was discovered in the early 80s that during mitosis, sodium butyrate acts a fixative on condensed chromosomes and (1) stops growth and (2) immediately inhibits DNA synthesis [Jalouzot: 1981]. This likely occurs as a result of sodium butyrate blocking the calcium ion channel and thus preventing the necessary enzymatic activity (involved in metaphase) that results from increased concentration of calcium in the cytosol. Since then, there have been conflicting studies that have shown both induction and inhibition of cell growth in human, rat, and rabbit cultures, each study with varying local conditions. An early study found that sodium butyrate inhibited growth of cultured rabbit articular chondrocytes with increasing concentrations of sodium butyrate (1-5mM) [Larno: 1984]. A different study that looked at rat anterior pituitary cells found that interactions between sodium butyrate and growth hormones increased metabolic activity and by extension, cell growth [Miletta: 2014]. The particular conditions associated with this experiment was that the rats had to be starving. In this scenario, it seems that sodium butyrate, a short chain fatty acid that is high in energy, worked with a particular growth factor in order to increase cell function. However, a recent study on human nasopharyngeal carcinoma cells (tumor cells) found that sodium butyrate can prove to be a promising chemotherapeutic agent because it induces apoptosis in cells that are ever-growing [Huang: 2017]. The exact method by which this occurs could involve sodium butyrate promoting store-operated Ca2+ entry which enhances the influx of calcium, thus inducing apoptosis. This was concluded because inhibiting store-operated Ca2+ entry countered the apoptotic effect of sodium butyrate. 
+
+It seems as though different local condition surrounding the cells result in cells responding somewhat differently to sodium butyrate. The conditions present in our experiment allow normal, slime mold cells to grow in the presence of food and in the presence of sodium butyrate. Since the cells are normally growing and are under no stressful conditions other than sodium butyrate, we expect that sodium butyrate will decrease the overall growth of slime mold, as noted in Larno's 1984 study. Sodium butyrate should work to block the release of calcium from the calcium ion channel, thus not allowing certain extracellular signals (such as those required for growth) to induce a cellular response. 
+
+
+Materials and Methods:
+Agar Plate Preparation: 12 PDA agar plates were used in this experiment. 6 of the 12 total plates were used as the control and the other 6 were soaked with inhibitor. The control plates were prepared by adding 5mL of distilled water to each of the 6 plates. The experimental plates were prepared by adding 5mL of 100μM sodium butyrate. The pates were allowed to sit for 10 minutes, then all excess fluid was drained from each plate. A singular 1cm x 1cm square was cut out from each of the 12 agar plates. 
+Experimental Set Up: One plate of slime mold was used. 12 1cm x 1cm squares of slime mold were cut out of the slime mold plate and inserted into each of the 12 agar plates. Selection of slime mold included areas where oats (as food) were present. Each plate was then covered in foil and placed in an incubator at (temperature). The slime mold was allowed to sit for about 36 hours. 
+Data Collection: Photos were taken of each plate and the images were run through ImageJ. The surface area was calculated for each plate and was used as the measure for growth. 
+Statistical Analysis: An unpaired two-tailed T-test between the control and experimental groups was used to determine if sodium butyrate inhibitor affected growth of the slime mold. Significance was determined at p-values less than or equal to 0.05. 
+
+
+Results:
+The results of this experiment show little difference in surface area coverage of slime mold between control and experimental groups (Figure 1). The average surface area for the control group was 1553 +/- 730.7mm2; the average surface area for the experimental group was 1556 +/- 395.2mm2. A two-sample T-test with sample size=12, df=10, and t-valuec=0.0349, showed a p-value of 0.973. 
+
+Discussion:
+The results of this experiment show no statistically significant effect of sodium butyrate inhibitor on growth in slime mold. In fact, the average surface area of slime mold for water-soaked and sodium butyrate-soaked PDA plates was almost the same, with no observed trends in either increased or decreased growth. This suggests that sodium butyrate does not have an effect on growth in slime mold, which is unlike what previous literature has suggested. 
+
+The differences observed between previous literature and our experiment can be accounted for in the experimental design. First, all the previous literature used vertebrates as their study organism. Even though slime mold should respond normally to external stimuli, provided that they are not under inhibitory environments like the kind we are testing, there are still critical differences between single celled organisms like slime mold and whole-body multi-cell organisms. It could be the case that the concentration of sodium butyrate (100 M) was not great enough to significantly affect cell function. Previous literature used 1-5mM concentrations, which is 1000-fold more concentrated [Larno: 1984]. This could be one reason why we should have seen significant results, despite differences in type of organism, but did not.	
+
+If the results cannot be explained by differing concentrations of sodium butyrate used, another factor could be the local conditions surrounding the study cell. In the rabbit study, researchers specifically looked at the cells associated with cartilage formation [Larno: 1984]. This study was testing the effect of a sodium butyrate drug, which is meant to significantly alter cell function. In this study, researchers observed decreased cell growth, which is what we expected since these cells were not under any other kind of stress. The tumor study also studied the effect of a sodium butyrate chemotherapeutic drug, and noticed similar results, even though these cells were under "stress" conditions, with uncontrollable growth [Huang: 2017]. Again, based on these results, we would expect sodium butyrate to decrease cell growth. But again, the concentrations used in these two studies were much larger and this study in particular studied tumor cells, which have very different cell function and make different use of calcium channels. The rat study, however, saw increased cell growth (via increased metabolism) in rat anterior pituitary cells, but under conditions of starvation, also a "stress" condition [Miletta: 2014]. Either way, previous literature suggests that sodium butyrate should have some kind of effect on growth, whether it induces or inhibits growth. 
+
+Based on our results, there is no way to determine what the effect of sodium butyrate at the cellular level is. Future studies could use higher concentrations, within the limits of cell viability, to see if there is an effect. There was also son contamination by an unknown species, which could have altered the results or not - there is no way to tell. However, an understanding of sodium butyrate's affect at the cellular level can prove important. If it turns out that sodium butyrate does inhibit cell growth, drugs that utilize it could help control rapid, uncontrolled cell growth as seen in cancer and other disease. 
+
+
+Literature Cited:
+1.	Alim, K., Andrew, N., Pringle, A., Brenner, MP. (2017) Mechanism of signal propagation in P. polycephalum. Proceedings of the National Academy of Sciences, 114 (20) 51365141; DOI:10.1073/pnas.1618114114
+
+
+2.	Huang, W., Ren, C., Huang, G., Liu, J., Liu, W., Wang, L., … Jiang, X. (2017). Inhibition of store-operated Ca2+ entry counteracts the apoptosis of nasopharyngeal carcinoma cells induced by sodium butyrate. Oncology Letters, 13(2), 921-929. http://doi.org/10.3892/ol.2016.5469
+
+
+3.	Jalouzot, R., & Toublan, B. (1981). Multiple effects of 5 mM sodium butyrate on Physarum polycephalum macroplasmodia. Cell and Tissue Research,214(1). doi:10.1007/bf00235156
+
+
+4.	Larno, S., Ronot, X., Adolphe, M., & Lechat, P. (1984). Effects of sodium butyrate on growth and cell-cycle kinetics of cultured rabbit articular chondrocytes. Journal of Cellular Physiology,120(3), 384-390. doi:10.1002/jcp.1041200317
+
+
+5.	Miletta, M. C., Petkovic, V., Eblé, A., Ammann, R. A., Flück, C. E., & Mullis, P. (2013). Butyrate Increases Intracellular Calcium Levels and Enhances Growth Hormone Release from Rat Anterior Pituitary Cells via the G-Protein-Coupled Receptors GPR41 and 43. PLoS ONE,9(10). doi:10.1371/journal.pone.0107388
+
+
+6.	Stathopulos, P. B., & Ikura, M. (2013). Structural aspects of calcium-release activated calcium channel function. Channels,7(5), 344-353. doi:10.4161/chan.26734
+
+
+7.	Vogel, D., Nicolis, S. C., Perez-Escudero, A., Nanjundiah, V., Sumpter, D. J., & Dussutour, A. (2015). Phenotypic variability in unicellular organisms: From calcium signalling to social behaviour. Proceedings of the Royal Society B: Biological Sciences,282(1819), 20152322. doi:10.1098/rspb.2015.2322
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=lab+report+2.png&Size=24164&Type=image%2Fpng&F=F_2XaJXdiyc9tqbYi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Distilled water vs. sodium butyrate bar graph of average surface area coverage (mm2) of P. polycephalum. The average surface area of P. polycephalum is graphed (dWater=1553 mm2; NaBu=1565 mm2) with standard deviation error bars (dWater=730.7 mm2, NaBu=395.2 mm2). A two-sample t-test with sample size of 6 indicated a t-value=0.0349 where df=10, p-value of 0.973. 
+
+*************************************************************************

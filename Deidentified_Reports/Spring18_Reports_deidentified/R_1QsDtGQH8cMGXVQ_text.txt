@@ -1,0 +1,84 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-06 08:10:07
+Author of this lab report is: Std_d6vnLGUx
+ID: R_1QsDtGQH8cMGXVQ
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Effect of colored light on photosynthetic rate of [Spinacia oleracea] (spinach) chloroplasts
+
+Abstract:
+Photosynthesis is key in the processes that contribute to life. It allows plants to convert light energy to into chemical energy. We wanted to extract chloroplasts and examine their isolated ability to carry out this photosynthetic process under varying environmental factors (colored light) with the easily extractable chloroplasts of [Spinacia oleracea]. We hypothesized that the samples under just red or blue light would have a faster rate of photosynthesis than green or white, because blue and red light waves tend to be absorbed by the molecules in the chloroplasts, therefore increasing the rate of photosynthesis more rapidly. We calculated the percent change in absorbance of our samples after 30 minutes under their respective treatment lights.  There was significant difference between our white color and green color treatment groups, but our hypothesis that blue and red light would have the fastest rate was not supported. 
+
+
+Introduction:
+Photosynthesis is a fundamental life process. Organisms that conduct photosynthesis, like [Spinacia oleracea], are able to capture solar energy along with water and CO2 and utilize them to produce glucose, water and oxygen. Therefore, the products of photosynthesis contribute to energizing the plant and enriching its environment, and factors that produce changes in photosynthesis can have great effects on the plants’ production and growth. The most common environmental effector of photosynthesis, that many organisms are subjected to, is light conditions. Photosynthesis can be summarized into three different processes: 2 light dependent reactions and a light independent reaction. 
+
+Light dependent reactions take place within the thylakoid membranes in the chloroplasts of plant cells. They are mainly responsible for creating the proton gradient that allows ATP to be made within the cell. In photosystem II, when photons of light hit a pigment molecule, chlorophyll, in the thylakoid membrane, the energy from the photon is used to push electrons out. However, the photon energy is ultimately used to cleave water molecules and pump the freed H+ across the thylakoid membrane. Photosystem I uses the energy from light photons to donate electrons to the acceptor NADP+ in order to produce NADPH, but these electrons are continually replenished by the electrons from chlorophyll molecules in photosystem II (Johnson, 2018).
+
+	The rate at which NADP+ is reduced to NADPH is a good indicator of the rate of photosynthesis because if light conditions were to affect photosynthetic activity the rate of reduction would be altered. Though it is difficult to measure NADP, sometimes photosystem I will donate its electron to another acceptor. In this lab setting we were able to utilize an alternate electron acceptor, DCPIP. DCPIP has a dark blue color that absorbs light at 600nm, but becomes colorless with reduction. Thus when DCPIP is employed as an electron acceptor for the photosystem, the rate at which it is being reduced can be measured by light absorbance at 600nm and is directly indicative of the rate of photosynthetic activity (Johnson, 2018). By generating a percent change from initial absorbance to final, we were given the ability to quantify the rate of photosynthesis per sample. 
+
+The amount of each color light wave that is absorbed by the chloroplasts varies. Chlorophyll molecules tend to absorb light in the red and blue ranges of the light spectrum. A previous study showed that red and blue light produced more productive photosynthesis and plant growth, while green light had the opposite effect, and actually slowed the rate of photosynthesis (Yang et al., 2016). 
+
+Given that chlorophyll molecules often absorb red and blue light waves and reflect green, we wanted to examine and measure the effect on photosynthesis that light color had. We hypothesized that the samples under just red or blue light would have a faster rate of photosynthesis (higher percent change light absorbance) than green light, because blue and red light waves tend to be absorbed by the molecules in the chloroplasts, therefore increasing the rate of photosynthesis and decreasing absorbance more rapidly. Since white light contains all the colors and is most reflective of sunlight we decided to use it as a control. 
+
+
+Materials and Methods:
+To test the hypothesis, a system was created using chloroplast samples extracted from spinach leaves. In order to isolate the chloroplasts, we grinded spinach leaves with grinding buffer (20mL) and filtered out the solid material. We centrifuged the solution once to remove debris, spun at 200 x G for 3 minutes at 4˚C, and poured out the supernatant. We centrifuged it a second time to form the pellet that contained the chloroplasts, spun at the same conditions. We added 200 μl of chloroplasts to 12 test tubes (3 for each color treatment and white light) along with 2 mL of DCPIP and reaction buffer. We set up four different lamps, each with one color bulb of the four treatments. Initially, we took a baseline absorbance reading of all of our samples at time 0 and then put three under each color light (white, blue, green, red) and we continued to record the absorbance every 10 minutes for 30 minutes. 
+
+We collected these measurements in order to calculate photosynthetic activity through percent change in absorbance. We used the following equation: % change = [(Absorbance at time zero – Absorbance at time ‘N’)/ Absorbance at time zero] x 100%.
+
+To complete a statistical analysis measuring the variance of photosynthesis between light colors, we used an ANOVA comparing the percent change in light absorbance after 30 minutes. This tested our null hypothesis that percent change in absorbance values will not vary across samples in different colored light. We set our significance level at 0.05. 
+
+
+Results:
+Based on the data there seemed to be an apparent trend in white light having the highest percent changes in absorbance. The ANOVA produced the following results (F-value= 5.05, d.f. = 3, P-value = 0.03) to report the statistical analysis of the variance between photosynthetic activity under experimental colored light conditions (Figure 1). The Tukey-Kramer reported difference between the control group and green light.
+
+
+Discussion:
+The results of the ANOVA supported our statistical hypothesis that there was significant variance between the colors, however trends in our data did not support our expectation that red and blue light would have the highest rates of photosynthesis. The greatest variance in our data was between the mean percent change absorbance under white light and green light. While the averages are significantly different, according to the Tukey-Kramer, one lower point value in the sample data for green light had a very low percent change, bringing down the average. The large range in data points leaves the green light group with a standard error almost ten times the size of the other groups (Figure 1). Therefore, we believe that to be able to claim there is a significant difference between the effect of white and green light on photosynthesis, the experiment would need to be repeated with a greater sample size and a test for homogeneity and normality of the data before conducting the ANOVA. 
+
+Our expectation was that the chloroplasts would have the highest photosynthetic activity under the red and blue light, however our results demonstrate that white light produced the highest percent change. Similarly, in an experiment on lettuce [Lactuca sativa L. var. capitate], white light provided better growth conditions than red and blue light (Lin et al., 2013). Another experiment produced results closer to our expectations, reporting that plants had an increased photosynthesis rate and a greater amount of growth when grown under a red LEDs with some blue. However, their ultimate conclusions were reflective of our data in that, plants under white light had the most growth and production compared to the other colors (Goins et al., 1997). 
+
+The general trend we found of white light producing the most photosynthetic activity is favorable for photosynthetic organisms in the natural environment because solar energy is most often in the form of white light due to its source, the sun. Thus, the chloroplasts that have optimum activity in the same light that their environment provides will be ideal for their plant’s growth and energy. 
+
+
+Literature Cited:
+1.	Johnson A.D. 2018. 214.2: Photosynthesis. Cell Biology Lab Manual. Department of Biology Wake Forest University, Winston-Salem, NC. 
+
+2.	Yang LY, Wang LT, Ma JH, Ma ED, Li JY, Gong M. 2016. Effects of light quality on growth and development, photosynthetic characteristics and content of carbohydrates in tobacco [Nicotiana tabacum L] plants. Photosynthetica 55 (3): 467-477. 
+
+3.	Lin KH, Huang MY, Huang WD, Hsu MH, Yang ZW, Yang CM. 2013. The effects of red, blue, and white light-emitting diodes on the growth, development, and edible quality of hydroponically grown lettuce [Lactuca sativa L. var. capitate]. Scientia Horticulturae 150: 86-91.
+
+4.	Goins GD, Yorio NC, Sanwo MM, Brown CS. 1997. Photomorphogenesis, photosynthesis, and seed yield of wheat plants grown under red light-emitting diodes (LEDs) with and without supplemental blue lighting. Journal of Experimental Botany 48: 1407-1413. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=fig1.png&Size=33133&Type=image%2Fpng&F=F_3KwNcnU5PCPgKig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Effect of light color on average percent change in absorbance of spinach chloroplast samples.
+The control (yellow bar) shows the mean percent change absorbance in white light conditions. The other three bars refer to the mean percent change absorbance of blue, green, and red light conditions respectively. Each bar is the mean percent change in absorbance; error bars are s.d. 
+
+
+*************************************************************************

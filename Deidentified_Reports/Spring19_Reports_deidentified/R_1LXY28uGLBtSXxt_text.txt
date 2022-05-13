@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-28 18:24:21
+Author of this lab report is: Std_jTupfDh1
+ID: R_1LXY28uGLBtSXxt
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The effect of PH change on the effectiveness of chloroplasts in spinach
+
+Abstract:
+The effectiveness of the photosynthetic process in plants depends on a large variety of factors, one of which is the pH of the environment in which the plant is placed. If a plant is placed in a nonoptimal pH, its photosynthetic process may not be as efficient as it would be otherwise. This is due to the fact that nonoptimal conditions may effect the plants ability to move high energy electrons and establish a concentration gradient. The ideal pH for spinach leaves is 6.5-6.8. We hypothesized that changing the pH of the environment of spinach leaves would cause them to be less effective in carrying out photosynthesis. We ran an Anova Test, and the results supported the null hypothesis. However we did discover some interesting trends in our data that pointed towards the importance of an optimal pH environment to photosynthesis. 
+
+Introduction:
+Photosynthesis is a three step process in which plants use light to drive the synthesis of ATP. The first two stages are light dependent reactions in which light is used to excite an electron. In PS2, energy is absorbed by an electron from light, and this electron is moved from the chlorophyll to the plastoquinone [Esper, 2006]. The oxidized chlorophyll is then reduced, and the free protons are pumped across the thylakoid membrane to establish a proton gradient [Esper, 2006]. The electron is then passed on to PS1, where it again leaves the chlorophyll and travels through a complex to NADP+ to form NAPDH [Esper, 2006]. This reaction removes H+ from the chlorophyll, further increasing the proton gradient. This established gradient is then used to drive carbon fixation in the Calvin-Benson cycle. Energy for cell processes is synthesized by a process known as glycolysis [Esper, 2006]. PS2 activity is measured by the reduction of plastoquinone or the production of oxygen [Lab Manual]. The Hill reaction can be used to measure the activity of PS1 by measuring the reduction of NADP+ to NADPH2, which is accomplished using an enzyme assay. For the purpose of our experiment, NADPH is switched with DCIP, which has the same chemical properties [Lab Manual]. Using DCIP allows for quantitative measure through a color change. While performing the assay, the absorbances of the samples is measured at 600nm. The effectiveness of chloroplasts in synthesizing energy from photosynthesis is influenced by a variety of factors, one of which is pH [Miller, 1984]. The chloroplasts of spinach leaves were the subject of our experiment. The most effective pH for spinach leaves is 6.5-6.8 [Kromer, 1995]. We are curious how changing the pH environment of the spinach leaves impacts the effectiveness of the chloroplasts. We measured the absorbance of samples at a pH of 4, 7, and 10 in order to better understand the influence of pH on chloroplasts. We hypothesize that the effectiveness of the chloroplasts will be reduced when the pH of the solution is changed from that optimal for spinach leaves. 
+
+Materials and Methods:
+The experiment required a mortar and pestle, a medium sized beaker, and three 50 mL centrifuge tubes into ice to cool. First, we removed the veins from four spinach leaves. The leaves are then added to the mortar with 10 mL of grinding buffer and ground into a pasty substance. We then added an additional 10mL grinding buffer and mix into a slurry. The slurry was then filtered through cheesecloth. The remaining liquid was transferred into a centrifuge tube and spun at 200 x G for 3 minutes at 4˚C. The supernatant was then poured out into a second tube, leaving the debris at the bottom of the tube. The remaining liquid is then centrifuged again at 1000 x G for 10 minutes at 4˚C. The supernatant was then poured into a clean tube and placed on ice. 15mL of grinding buffer was then added in order to resuspend the pellet in the slurry. The sample was then split into three different centrifuge tubes, and 5mL of pH buffers of 4, 7, and 10 were added to each tube respectively. Each tube was then spun again at the same conditions as before, 1000 X G for 10 minutes. Then three replicates at each pH and one blank were prepared according to the following table.
+Reagent	Blank (1)	pH 4 (3)	pH 7 (3)	pH 10 (3)
+Water	10 mL	6 mL	6 mL	6 mL
+130 mM DCIP	none	2 mL	2 mL	2 mL
+Reaction Buffer	2 mL	2 mL	2 mL	2 mL
+
+100 ul of enriched chloroplasts (found in previous centrifuge tube) were added to each of their specific pH samples. Each tube was mixed, and the initial absorbance was measured at 600 nm. The absorbance was then remeasured every 10 minutes for 30 minutes. The results were recorded, and measured using an Anova Test. 
+
+
+Results:
+According to the Anova Test, there was no statistical different in recorded absorbances of the chloroplasts of spinach leaves at different pH levels (P=.056, Df=8, FS=4.847). The results of the Anova Test would then support the null hypothesis that pH level does not impact the chloroplast activity in spinach leaves, as the P value is higher than .05. The results of the Tukey Kramer test also established that there was no significant difference between any of the three groups. Despite the results of the test, Figure 1 displays several interesting trends that support the alternative hypothesis. The pH of 7, which is closest to the optimal pH of spinach, is the only sample that remained consistently negative (Fig. 1). The final percent changes of the nonoptimal pH samples both ended as positive values, however the percent change of the optimal pH ended in a positive value (Fig. 1). Both of these trends would support the idea that spinach chloroplasts are most effective at performing photosynthesis in their optimal pH of around 7. 
+
+Discussion:
+The results of our Anova and Tukey Kramer tests supported our null-hypothesis and did not support the alternative hypothesis that the effectiveness of Chloroplasts in performing photosynthesis would change if the pH environment was changed from optimal. These results, or lack thereof, could be contributed to a variety of factors. One of which is that we did not give the assay enough time to fully demonstrate the effectiveness of changing pH. The graph indicated a clear trend in percent change evidenced by the consistent negative value of the pH of 7 (Fig 1.). Had we given the experiment more time to play out, it could have led to statistically significant results as the chloroplasts would have been in a nonoptimal environment for an extended period of time. This would cause the photosynthetic process to be even less effective as time went on [Miller, 1984]. The contrast of trends presented by the graph (Fig. 1) in pH 7 and the pH’s of 4 and 10 can be contributed to spinach leaves responding to a nonoptimal photosynthetic environment [Kromer, 1995].. This nonoptimal environment would inhibit the ability of the chloroplasts to effectively perform photosynthesis and transfer high energy electrons in order to form a concentration gradient [Miller, 1984]. This means they would be less effective in oxidizing DCIP, therefore leading to higher overall absorbance levels in pH’s of 4 and 10, as opposed to the pH of 7. This trend can be seen in the graph of percent changes of time (fig. 1). In terms of future testing, I would repeat the same test using more samples. This would allow for higher degrees of freedom and more accurate test results. I would also measure the absorbances of the samples every 10 minutes over the course of an hour which would allow for a more developed understanding of the effectiveness of chloroplasts in different pH levels over time. 
+
+Literature Cited:
+Kromer, Silke. "Respiration during photosynthesis." Annual review of plant biology 46.1 (1995): 45-70
+
+Miller, ANTHONY G., DAVID H. Turpin, and DAVID T. Canvin. "Na+ requirement for growth, photosynthesis, and pH regulation in the alkalotolerant cyanobacterium Synechococcus leopoliensis." Journal of bacteriology 159.1 (1984): 100-106.
+
+Esper, Berndt, Adrian Badura, and Matthias Rögner. "Photosynthesis as a power supply for (bio-) hydrogen production." Trends in plant science 11.11 (2006): 543-549.
+
+Lab Manuel (Need Citation)
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-28+at+4.03.23+PM.png&Size=37038&Type=image%2Fpng&F=F_31WNloapoetyNcQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The percent change over time of the absorbance measured in the chloroplasts of spinach leaves at different pH levels over 10 minute increments. *************************************************************************
+
+
+

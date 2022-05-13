@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-21 21:58:09
+Author of this lab report is: Std_ds5nstLX
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Short-term exposure to extreme temperatures does not affect the rate of photosynthesis in Brassica oleracea
+
+Abstract:
+Photosynthesis is the central process of metabolism in plants. It is therefore important to be able to investigate how different conditions affect its function. The Hill Reaction is one method that involves an electron acceptor that changes color as it accepts electrons from the electron transport system of photosynthesis. In this experiment, the Hill Reaction was used to investigate the differences in photosynthetic activity of Brassica oleracea at cold temperatures (-10 C and 0 C) and hot temperatures (35 C and 50 C), as well as at room temperature as a control. There was no significant difference between any of the treatments at the end of the 30-minute period (p = 0.797). Thus, it was concluded that the short amount of time allotted in this experiment was not sufficient to observe any changes. Furthermore, the changes in photosynthetic activity observed in other experiments may have been a result of long-term changes to gene expression, which take longer than 30 minutes to occur. Future experiments should therefore investigate the same treatments but for a longer amount of time.
+
+Introduction:
+Photosynthesis is a biochemical process that uses energy from sunlight to generate NADPH and ATP then uses these molecules to synthesize sugar molecules. It is an essential process for both plants and animals. Plants use photosynthesis to generate sugars which can be used in other biochemical processes. Animals consume these plants, and plants are the source of sugars on which animals are dependent for survival. Photosynthesis is therefore an important topic of study in the agricultural industry because a plant’s ability to photosynthesize properly is vital for a maximal crop yield.
+ 
+Kale (Brassica oleracea), a leafy green related to cabbage, has been studied extensively because of its increasing popularity and suggested health benefits. Recently, studies have suggested that kale may have the potential to prevent certain types of cancer [Odongo et al.: 2017]. It is therefore necessary to determine the optimal conditions in which to grow kale in order to ensure consistent production. Temperature must be considered when analyzing conditions for plant growth, as different plants respond to varying temperatures differently. A previous study [Steindal et al.: 2015] found that, when acclimated to low temperatures, kale leaves have an increased content of simple sugars. An increased sugar content is a desirable effect because it leads to a better taste. However, the authors of this study failed to connect their findings to photosynthetic output, despite the fact that the sugars they studied are produced by photosynthesis. 
+	
+Because photosynthesis is essential for the survival of plants, it is necessary to measure the effects that temperature has on the occurrence of photosynthesis. In this experiment, the Hill Reaction was used to examine the regulatory effects that low and high temperatures have on photosynthesis. The hypothesis for this experiment is that photosynthesis will occur at an increased rate in lower temperatures than in higher temperatures.
+
+
+Materials and Methods:
+For this experiment, a single leaf of B. oleracea purchased from a local grocery store was used. The leaf was ground in 400 mM sucrose in Tricine buffer (pH 8.0) using a mortar and pestle. Cheesecloth was used to remove large bits of plant matter. The remaining liquid was centrifuged at 200 G for 3 minutes. The supernatant was then centrifuged again at 100 G for 10 minutes. This differential centrifugation resulted in a pellet that contained chloroplasts (the contents of the pellet were confirmed using phase contrast microscopy). The pellet was resuspended in of 400 mM sucrose in Tricine buffer. This solution was used to perform the Hill Reaction.
+	
+This experiment consisted of five temperature treatments, described in Table 1. Each treatment was performed in triplicate. Absorbances were measured using a Genesys 20 spectrophotometer set to 600nm. Measurements were taken at 0, 10, 20, and 30 minutes for each treatment. The reactions were performed in 100 mM phosphate buffer (pH 6.5). 130 mM 2,6-dichlorophenolindophenol (DCPIP) was used as the electron acceptor for this reaction. 
+
+Results were recorded as percent change from the original absorbance. A one-way ANOVA test was performed for each recording and a Tukey-Kramer post-hoc test was performed for each ANOVA to determine which groups were significant from each other. Outliers were eliminated using Dixon’s Q test at the 95% confidence level. For the purposes of analysis, outliers were replaced by the average of the two remaining values.
+
+
+Results:
+Each treatment resulted in a decrease in absorbance at 600nm at the end of the experiment. The average percent change for each treatment is shown in Figure 1. There was no significant difference between treatments after 30 minutes (p = 0.797). No significant difference between treatments was found at 10 minutes (p = 0.642), nor at 20 minutes (p = 0.900). Figure 2 shows the average percent change at each recording for each treatment, along with standard deviation. One outlier was eliminated from the 35°C group (Q = 0.980, Qcrit = 0.970).
+
+Discussion:
+The results from this experiment suggest that temperature does not have a direct effect on the process of photosynthesis, at least at the temperatures and time intervals tested. The lack of statistical significance from the control at any of the time intervals suggests that time did not have any effect on the temperature dependence of this reaction. To explore this further, a future experiment could involve growing these plants at different temperatures and performing the same procedure using samples at different stages of development. A study by Steindal et al. [2015] found differences in the amounts of products of photosynthesis in plants that had been allowed to acclimate to cold temperatures and plants that had not, so using a similar acclimation method may yield significant results.
+	
+Other studies [Holaday et al.: 1991; Rodriguez et al.: 2014] also discovered changes in the levels of several molecules associated with photosynthesis in plants that were grown at different temperatures. Furthermore, another study by observed changes in both chloroplast structure and chlorophyll levels after 5 days at 1°C [Garstka et al.: 2007]. These experiments, along with the experiment by Steindal et al. mentioned earlier, involve long-term exposure to extreme temperatures, while the kale used in this experiment was only exposed for 30 minutes. Therefore, the lack of significance between the different temperature groups in this experiment suggests that temperature only has an indirect effect on photosynthesis by altering the expression of some of the enzymes involved. This effect likely would not be observed in a 30-minute time period, as changes in gene expression often occur in the long term.
+	
+In this experiment, it was concluded that temperature does not have any short-term effects on photosynthesis of B. oleracea crops, but it could have long-term effects. Short-term exposure to extreme temperatures, such as heat overheated agricultural machinery or overcooled water, should therefore not have substantial effects on the survival of kale crops. While events like this may occur rarely, this information should still be useful for ensuring maximal crop yield.
+
+
+Literature Cited:
+1. Garstka M, Venema JH, Rumak I, Gieczewska K, Rosiak M, Koziol-Lipinska J, Kierdaszuk B, Vredenberg WJ, and Mostowska A. 2007. Contrasting effect of dark-chilling on chloroplast structure and arrangement of chlorophyll-protein complexes in pea and tomato: Plants with a different susceptibility to non-freezing temperature. Planta. 226: 1165-1181.
+
+2. Holaday SM, Martindale W, Alred R, Brooks AL, and Leegood RC. 1991. Changes in activities of enzymes of carbon metabolism in leaves during exposure of plants to low temperature. Plant Physiology. 98: 1105-1114. 
+
+3. Odongo GA, Schlotz N, Herz C, Hanschen FS, Baldermann S, Neugart S, Trierweiler B, Frommherz L, Franz CMAP, Ngwene B. 2017. The role of plant processing for the cancer preventive potential of Ethiopian kale (Brassica carinata). Food & Nutrition Research. 61:1-11.
+
+4. Rodriguez VM, Soengas P, Cartea E, Sotelo T, and Velasco P. 2014. Suitability of a European nuclear collection of Brassica oleracea L. Landraces to grow at high temperatures. Journal of Agronomy and Crop Science. 200: 183-190.
+
+5. Steindal ALH, Rødven R, Hansen E, and Mølmann J. 2015. Effects of photoperiod, growth temperature and cold acclimatization on glucosinolates, sugars and fatty acids in kale. Food Chemistry. 174: 44-51.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.png&Size=46491&Type=image%2Fpng&F=F_2pWaLl0ZChee1MS
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=55596&Type=image%2Fpng&F=F_T7znTlQt2gsMqUF
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=96135&Type=image%2Fpng&F=F_UXZQcNbyoV118hX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Description of each treatment used for this experiment. 
+Figure 1: Average percent change for each treatment with error bars showing standard deviation.
+Figure 2: Average percent change for each treatment at 10, 20, and 30 minutes. The error bars show standard deviation.
+
+
+*************************************************************************

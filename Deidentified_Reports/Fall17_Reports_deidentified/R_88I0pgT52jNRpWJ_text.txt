@@ -1,0 +1,52 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-03 20:11:21
+Author of this lab report is: Std_eQGO6VbX
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The Effect of Aggression on the Specific Metabolic Rate of Procambarus Sp. 
+
+Abstract:
+The purpose of this experiment was to determine how the presence of a large Procambarus Sp. affects the oxygen consumption of a small Procambarus Sp. Oxygen consumption is directly proportional to the amount of energy an organism expends and can be used to find the specific metabolic rate of an organism. We examined the effect of aggression/ stress on the oxygen consumption of a small Procambarus Sp. We were able to measure the oxygen consumption with a dissolved oxygen probe. We hypothesize that the oxygen consumption of the small Procambarus Sp. will be affected if it sees a large Procambarus Sp. near it. Our data showed that the oxygen consumption of small Procambarus Sp. increases in the presence of a larger Procambarus Sp. however, our results were statistically insignificant and we determined that the presence of a larger Procambarus Sp has no effect on the specific metabolic rate of a small Procambarus Sp (p=0.251080). 
+
+Introduction:
+The metabolic rate of an organism refers to the amount of energy used to maintain all of the body’s physiological processes [Johnson AD: 2017]. One way to measure an organism’s specific metabolic rate is to examine oxygen consumption. During the cellular respiration process, glucose is converted to energy. As a part of these reactions, ATP is converted from low to high energy. In order for this process to occur, electrons are transferred from the electron transport chain to the molecular oxygen we inhale, thereby converting the oxygen into water [Johnson AD: 2017]. The relationship between oxygen and energy production shows that the amount of oxygen consumed is directly proportional to the amount of energy expended. Some animal groups create dominance hierarchies in which one organism, usually through some form of aggressive behavior becomes the leader of the group [Issa:1999]. In general, the trend shows that dominance is directly proportional to size; the larger crayfish tends to dominate, the smaller, more submissive crayfish [Bouvbjerg:1956]. With this information in mind, we expect that a large crayfish will dominate a small crayfish. This in turn will affect the specific metabolic rate of a small crayfish. Additionally, when two brown trout were placed in a confined area, the results showed that the subordinate fish had a significant increase in SMR. The more aggressive the dominant fish, the greater the increase in SMR of the subordinate fish [Slowman:2000]. We chose to measure the specific metabolic rate of the crayfish species Procambarus Sp. This a good model organism because it is easy to affect and measure their metabolism. Additionally, they tend to exhibit aggressive behavior often. Based on this information, we hypothesize that the presence of a large Procambarus Sp. will have an effect on the oxygen consumption of the small Procambarus Sp. 
+Materials and Methods 
+
+
+Materials and Methods:
+To begin the experiment, we chose three small crayfish (each serving as its own control) and 1 large crayfish to act as the aggressor. We then weighed each of the small crayfish, placed one of the small crayfish in the glass chamber, and then filled the chamber with room temperature water (22°C). After this we placed the filled chamber in a pan with more room temperature water and inserted the dissolved oxygen probe into the top of the chamber. Then we proceeded to measure the oxygen consumption every 5 minutes for 20 minutes. Once we finished measuring the oxygen concentration, we recorded the volume of water that was in the chamber and calculated the specific metabolic rate. We then repeated this process with the same crayfish but this time put the larger crayfish inside the pan that the chamber sat in, to antagonize the smaller crayfish. We then determined the specific metabolic rate once again. We repeated this process with the other two small crayfish as well. After collecting all the data, we performed a paired two-tailed T-test to further analyze our data. 
+Specific Metabolic Rate= [∆O₂ (mg/L) x volume H₂O (L)] / Time (min) x weight (g)
+ 
+
+Results:
+The general trend of our data showed that the oxygen consumption of Procambarus Sp. increased in the presence of a larger crayfish.  The average SMR before the physiological stimulus was applied was 0.00111533 mg O ₂ * g⁻¹ * min⁻¹, while the average SMR after the physiological stimulus was applied was 0.00156667 mg O₂ * g⁻¹ * min⁻¹ (Figure 1). The standard deviation of the control group was 0.000338851 while the standard deviation of the experimental group was 0.00051316 (Figure 1). The p-value was 0.25108, meaning our data is statistically insignificant because the p-value is higher than 0.05. 
+
+Discussion:
+Our hypothesis was not supported because our data proved to be statistically insignificant. Similar to our experiment, another study found energy expenditure to increase in submissive cichlid fish in the presence of an antagonist fish. This is likely due to prevention of attacks and injury [Grantner: 1998].  Although the small and large Procambarus Sp. did not directly come in contact with each the other, it’s likely that just the presence of the large Procambarus Sp. caused the small Procambarus Sp. to perceive a threat and experience stress. The presence of the perceived threat caused the small Procambarus Sp. to increase oxygen consumption and thereby increase its specific metabolic rate. Additionally, another study examined how the agonistic behavior of Siamese fighting fish affects oxygen consumption. When the fish expressed aggressive behavior (tail beating, dorsal spread, and gill cover erection) towards their mirror image, the rate of oxygen consumption significantly increased. In contrast with our experiment, the study also showed that the routine metabolism of fish who won the fight was higher than losers. It also showed that although winners and losers of the fight did not initially have significant differences in the expenditure of energy, the next day, winners of the fight showed higher metabolic rates. However, similar to our study, male fish who did not have direct contact with another fish showed signs of an increased metabolic rate [Castro: 2006]. Our experiment was limited by sample size and experiment time. If we had more crayfish to test or had measured oxygen consumption our results could have differed. Furthermore, the large crayfish was not extremely aggressive which we could not control for. In order to improve the experiment in the future, we could increase the number of small Procambarus Sp. that are exposed to an aggressor. Additionally, we could examine how the oxygen consumption of a large Procambarus Sp. is affected in the presence of another large Procambarus Sp. The results of this experiment can be used to examine the energy costs of submissive behavior in the presence of an aggressor. 
+
+Literature Cited:
+Bovbjerg, R. V. (1956). Some factors affecting aggressive behavior in crayfish. Physiological Zoology, 29(2), 127-136.
+Ros, A. F., Becker, K., & Oliveira, R. F. (2006). Aggressive behaviour and energy metabolism in a cichlid fish, Oreochromis mossambicus. Physiology & behavior, 89(2), 164-170.
+Johnson AD. Unit 3 Metabolism and Gas Exchange. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated 8/15/17) pp. 37-44.
+Castro, N., Ros, A. F., Becker, K., & Oliveira, R. F. (2006). Metabolic costs of aggressive behaviour in the Siamese fighting fish, Betta splendens. Aggressive Behavior, 32(5), 474-480.
+Grantner, A., & Taborsky, M. (1998). The metabolic rates associated with resting, and with the performance of agonistic, submissive and digging behaviours in the cichlid fish Neolamprologus pulcher (Pisces: Cichlidae). Journal of Comparative Physiology B: Biochemical, Systemic, and Environmental Physiology, 168(6), 427-433.
+Issa, F. A., Adamson, D. J., & Edwards, D. H. (1999). Dominance hierarchy formation in juvenile crayfish Procambarus clarkii. Journal of Experimental Biology, 202(24), 3497-3506.
+Sloman, K. A., Motherwell, G., O'connor, K., & Taylor, A. C. (2000). The effect of social stress on the standard metabolic rate (SMR) of brown trout, Salmo trutta. Fish Physiology and Biochemistry, 23(1), 49-53.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=30611&Type=image%2Fpng&F=F_eJAuLfh9hO1AIHr
+
+
+
+
+
+
+
+
+Figure Legends: 
+ Figure 1. The average specific metabolic rate of a small Procambarus Sp. before and after exposure to a physiological stimulus (aggression). The error bars represent the standard deviation of the average SMRs before and after exposure to a large Procambarus Sp. while the bars represent the change in specific metabolic rate. 
+
+*************************************************************************

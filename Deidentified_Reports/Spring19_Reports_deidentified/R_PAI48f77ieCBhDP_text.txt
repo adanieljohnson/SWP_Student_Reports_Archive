@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-01 22:27:40
+Author of this lab report is: Std_7pjEtZhf
+ID: R_PAI48f77ieCBhDP
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The effect of tubocurarine on Rana pipiens legs gastrocnemius muscle threshold potential
+
+Abstract:
+Acetylcholine is a neurotransmitter binds to nicotinic ion-channel receptors to release sodium and begin the process of a muscle contraction, which occurs in the skeletal muscle,  and initiate action potential. Tubocurarine is an acetylcholine antagonist and prevents the binding, and therefore makes it more difficult for a muscle contraction to occur. It was hypothesized that a leg from Rana pipiens, or Northern Leopard Frog, injected with tubocurarine would have a higher threshold than a frog leg without tubocurarine. Three frog legs were tested with 0.2 mL of tubocurarine solution and tested with various voltages to find the threshold. The initial threshold and the threshold after the frog legs were injected with tubocurarine were compared. The results were not statistically significant (df: 2, t-test: 0.10, p-value: 0.93). Tubocurarine did not impact the threshold voltage of frog legs. The impact of tubocurarine is affected by dosage, and is important because of the relaxation it can provide in the skeletal muscle for convulsions, but at dangerously high dosages it can lead to paralysis. 
+
+
+Introduction:
+The skeletal muscle system is present and important in vertebrates and invertebrates, and contains myofibers and is controlled by motor neurons [Johnson: 2018]. Acetylcholine is a neurotransmitter, which send signals to other cells, and is released by the motor neurons to activate muscle contractions [Johnson: 2018]. Acetylcholine binds to nicotinic ion-channel receptors on the muscle cell membrane that allows the ion-channels to open and let sodium ions flow into the muscle cell and initiate the steps that go into a muscle contraction [Johnson: 2018]. The opened sodium channels create an action potential inside the muscle fiber, which then signals the release of calcium ions from the sarcoplasmic reticulum and activates a contraction of the muscle fiber [Johnson:2018]. Tubocurarine is a nicotinic antagonist, as it binds to nicotinic cholinergic receptors and blocks synaptic transmission at the neuromuscular muscle, so acetylcholine cannot trigger muscle contractions [PubChem: 2005]. It competes with acetylcholine for the receptors, and prevents the depolarization in the postsynaptic cell necessary to begin an action potential for the contraction to begin [PubChem: 2005]. Without acetylcholine action potential cannot be generated and calcium ions are not released. It would take a stronger signal to initiate the muscle contraction. Rana pipiens, or Northern Leopard Frog, legs were used because they use the same neuromuscular system as humans, so the effects the frog legs experience as a result of the experiment are indicative of what would happen in a human muscle [Johnson: 2018]. Frog legs contain a sciatic nerve that can be seen by the naked eye and a gastrocnemius muscle that could be tested on. Since tubocurarine prevents acetylcholine from initiating muscle contraction if a frog leg is injected with tubocurarine then the threshold voltage for the contraction will be higher.
+
+
+Materials and Methods:
+Three frog legs were degloved and the gastrocnemius muscle and the sciatic nerve were located by gently splitting the leg in half. The muscle was cut while leaving some tendon so a string could be attached to the tendon to string up the muscle to the force transducer, and the electrodes were attached to the muscle, making sure the sciatic nerve was not in contact with the electrodes. The electrodes were hooked up to a computer system to administer voltage to the frog leg and read the reaction. Each frog leg was tested for their initial threshold voltage, starting at 0.1V and increasing the voltage by 0.1V and then 0.01V to exact the threshold voltage. Then, the frog legs were injected with 0.2 mL of 1mM tubocurarine solution, and the initial threshold was tested again using the same methods as the frog legs without tubocurarine. A one-tailed paired t-test was used to calculate the results. 
+
+
+Results:
+Two out of three trials with the legs injected with tubocurarine experienced a lower threshold voltage and had a difference .10V or more when compared to the initial threshold voltage (figure 1). The contractions also decreased when the legs were injected with tubocurarine. Frog leg number one experienced a difference of 0.10V but was shocked at 9V with no response before the machine was fixed (figure 1). The one-tailed paired t-test was used, and the results are not significant statistically (df: 2, t-test: 0.10, p-value: 0.93). 
+
+
+
+Discussion:
+The hypothesis that tubocurarine would increase the initial threshold voltage was not supported as the results were not statistically significant (df: 2, t-test: 0.10, p-value: 0.93). It could be due to the function of tubocurarine or other errors experienced during the experiment.
+Sources of error include not having a high enough concentration of tubocurarine to make a difference in threshold. The first frog leg that was tested could have been damaged and negatively impacted our results. The electrodes being used to test voltage shocking the frog leg but was not recording any data. We shocked the frog leg at 9 volts while looking for a threshold, which is over 8 volts higher than the threshold we received for the three frog legs. Shocking the frog leg at such a high voltage may have desensitized the tubocurarine solution in the frog leg. By decreasing the sensitivity of the tubocurarine would have allowed acetylcholine to function properly and require less voltage for the muscle to contract.
+Tubocurarine also affects potassium ion-channels, which prevents repolarization after a muscle contraction and prevents the restoration of the resting membrane potential, preventing another action potential from initiating a new contraction of the muscle [Nohmi: 1984]. If tubocurarine were acting upon the potassium ion-channels instead of the acetylcholine then the initial threshold would not be affected by the tubocurarine, but rather the ability to continue to contract muscles. 
+Neuromuscular blocking agents are used as an anesthesia in order to relax the skeletal muscles, so it is important that tubocurarine, a neuromuscular blocker, works in making muscle contraction more difficult to ensure complication do not occur while a patient is under anesthesia [Toxnet: 2013].
+
+
+Literature Cited:
+Johnson AD. Neuromuscular Control. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17–18.
+Nohmi, Mitsuo and Kuba, Kenji. 1984. Tubocurarine blocks the Ca2+-dependent K+-channel of the bullfrog sympathetic ganglion cell. Brain Research. Volume 301, Issue 1: 146-148.     
+PubChem. Compound Summary for CID 6000. Accessed March 6, 2019. &lt;https://pubchem.ncbi.nlm.nih.gov/compound/6000&gt;
+Toxnet. HSDB: Tubocurarine. U.S National Library of Medicine. Accessed March 6, 2019. &lt;https://toxnet.nlm.nih.gov/cgi-bin/sis/search2/r?dbs+hsdb:@term+@rn+@rel+57-95-4&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Legs.PNG&Size=24020&Type=image%2Fpng&F=F_7VbyGGIeVUKfslP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The effect of tubocurarine on frog leg muscle contraction threshold voltage necessary for contractions. The frog legs were tested for their initial threshold, and then injected with 0.2 mL of 1 mM tubocurarine and tested again. The initial threshold, in blue, is the control and the threshold after injection of 0.2mL of 1 mM tubocurarine is the experimental. *************************************************************************
+
+
+

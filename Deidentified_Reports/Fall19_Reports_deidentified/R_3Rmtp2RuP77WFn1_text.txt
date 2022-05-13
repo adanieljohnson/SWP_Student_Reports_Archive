@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-28 22:27:36
+Author of this lab report is: Std_ONalElI2
+ID: R_3Rmtp2RuP77WFn1
+Course number: BIO102L
+TA: TA_VP4awTgP
+*************************************************************************
+Title: The Effects of Red, White and Blue Light on Photosystem II Activity in Spinacia oleracea
+
+Abstract:
+Photosynthesis requires light energy, water, and carbon dioxide. Light energy is captured by chlorophyll contained in the chloroplasts in plants. Light energy absorbed by Photosystem II results in high energy electrons that are carried through an electron transport chain. Different colors of light affect Photosystem II activity in various ways. If Spinacia oleracea, commonly known as spinach, is treated with blue light, white light, and red light, it is hypothesized that white light will have affect Photosystem II activity optimally, followed by blue light, and then red light. The experiment was conducted by enriching chloroplasts by centrifugation followed by running a Hill reaction assay to quantify Photosystem II activity. It was found that chloroplasts treated with red light had the highest percent change, but only chloroplasts treated with red light in comparison to no chloroplast and chloroplasts treated with white light had a p-Value that showed a statistically significant difference between the groups. The initial hypothesis was rejected by the statistical results.
+
+Introduction:
+Plants undergo photosynthesis in order to generate nutrients and energy needed for growth and cellular respiration. Photosynthesis requires light energy, water, and carbon dioxide. Chloroplasts in plants contain a substance known as chlorophyll; light energy is captured by the chlorophyll. “Light energy absorbed by Photosystem II causes the formation of high-energy electrons. These electrons are transferred along a series of acceptor molecules in an electron transport chain.” [2019: Britannica] Different colors of light are known to affect Photosystem II activity in plants in various ways. Typically, plants are grown in white light, like that from the sun. White light is a mixture of a wide range of different wavelengths (colors). Green light is known to have little or no effect on plant growth, while red (639 nm) and blue (470 nm) light are known to strongly influence plant development and physiology. [Muneer:2014] It is hypothesized that Photosystem II activity in the leaves of Spinacia oleracea, commonly known as spinach, will be affected by different light colors. If the chloroplasts from spinach undergo photosynthesis under white light, blue light, and red light, then Photosystem II activity will be optimal in white light, lower in blue light, and the lowest at red light. It is hypothesized that white light will be optimal because it has a mixture of all wavelengths (400nm-700nm); blue light will result in lower Photosystem II activity because it has only one wavelength (470nm) but will be higher than red because of its high energy. Red will result in the lowest Photosystem II activity because it has the lowest energy wavelength (630nm). 
+
+Materials and Methods:
+Spinach was obtained from a farmer’s market prior to experimentation. The experiment followed a set of methods broken up into three parts. The first part was enriching the chloroplasts by centrifugation. A mortar and pestle, a beaker, and three fifty milliliter centrifuge tubes were placed on ice to chill. Four or five spinach leaves had their central veins removed (and discarded) and were washed and blotted dry. The spinach leaves were added to the mortar with ten milliliters of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) and ground into a thick paste. An additional ten milliliters of grinding buffer was added, and then the slurry was strained into a chilled beaker through two pieces of cheese cloth. The strained liquid was transferred into a chilled fifty milliliter centrifuge tube (Tube A) and was spun at 200 times the force of gravity for three minutes at four degrees Celsius.  The supernatant was poured out of Tube A into a second chilled tube (Tube B) and the pellet was left in the bottom of Tube A. Tube B was centrifuged at 1,000 times the force of gravity for ten minutes at four degrees Celsius. The supernatant was discarded carefully, and Tube B with the pellet was placed on ice. Twenty milliliters of grinding buffer was then added to the pellet and was suspended by gentle stirring.
+The second part of the procedure involved running a Hill reaction assay to quantify Photosystem II activity. Thirteen large test tubes were labeled following Table 1. and were then placed into a rack.
+ 
+Three replicates were prepared according to Table 1 but only one replicate was made of the blank. The assay began once all of the reagents in the above figure were added in addition to the chloroplasts, which were only added to the blank tube and tubes four through twelve, and once they were mixed. The mixtures were transferred into thirteen cuvettes, and the spectrophotometer, a machine that measures absorbance, was blanked. All cuvettes were then measured for their initial absorbance and were recorded. Each of the tubes were placed either under white light, red light, or blue light in accordance to the figure above. Tube one (the blank) tubes two through four, and tubes five through seven were placed in white light. Tubes eight through ten were placed under red light, and tubes eleven through thirteen were placed under blue light. From time zero, at ten minutes, twenty minutes, and thirty minutes, all of the tubes were measured with the spectrophotometer, the data was recorded, and they were placed back under their appropriate lighting. 
+	Part three of the experiment involved analyzing results for the experiment. The percent change in absorbance at ten, twenty, and thirty minutes was calculated with the following formula:
+Percent Change = [(Absorbance at time zero-Absorbance at time ‘N’)/Absorbance at time zero] x 100
+Following the collection of percent changes, a two-paired t-test was ran to determine the statistically significant differences between the replicates under the different types of light.
+
+
+Results:
+There was no statistically significant difference between any of the light colors except chloroplasts in red light in comparison to no chloroplasts (P = 1.1013E-10) and chloroplasts in red light in comparison to chloroplasts in white light (P = 0.02525). Our other p-Values, as shown in Table 1, indicate that there was no statistically significant difference between any of the other groups. It was also noted that, over a period of thirty minutes, the chloroplasts in red light had an average percent change of 91.9%, as shown in Table 2, which was a greater percent change than no chloroplasts, chloroplasts in white light, and chloroplasts in blue light, as depicted by Figure 1.
+
+Discussion:
+The hypothesis says that if the chloroplasts from spinach undergo photosynthesis under white light, blue light, and red light, then Photosystem II activity will be optimal in white light, lower in blue light, and the lowest at red light. The hypothesis was rejected based on the p-values, because they showed that there was no statistically significant difference between chloroplasts treated with blue light in comparison to no chloroplasts, chloroplasts treated with blue light in comparison to chloroplasts treated with white light, and chloroplasts treated with blue light in comparison to chloroplasts treated with red light. There was only a statistically significant difference between chloroplasts treated in red light in comparison to chloroplasts treated in white light and chloroplasts treated in red light in comparison to no chloroplasts. Red light impacted Photosystem II activity far higher than predicted, surpassing the effects of blue light and white light. Blue light has had the highest effect on plant growth in other studies, often significantly higher than red light and other colors of light. [Muneer: 2014] Other studies have suggested that red light may actually have an effect on plant growth, especially in spinach, radish, and lettuce. [Yorio: 2001] 
+	Our methods worked well for the experiment because the absorbances and percent changes were easily kept track of throughout the experiment. In the future, studies may be done that increased the size of replicates to ensure more accurate results. Future studies may also completely isolate the chloroplasts in a particular color of light and may expand to test more colors of light and their effects on Photosystem II activity. 
+	The experiment, although the results do not have statistically significant differences between all light groups, may show that there are colors of light that need more testing to determine how they affect Photosystem II activity. The results of experiments such as this could have important impacts on the future of farming and agriculture. For example, if red light is further tested and proven to have a significant impact on Photosystem II activity, and even broader, plant growth, then greenhouses may become “redhouses.”
+
+
+Literature Cited:
+        Yorio, N., Goins, G., Kagie, H., Wheeler, R. and Sager, J. (2001). Improving spinach, radish, and lettuce growth under red light-emitting diodes (LEDs) with blue light supplementation. - PubMed – NCBI. Available at: https://www.ncbi.nlm.nih.gov/pubmed/12542027 [Accessed 27 Oct. 2019].
+
+	Muneer, S., Kim, E., Park, J. and Lee, J. (2014). Influence of Green, Red and Blue Light Emitting Diodes on Multiprotein Complex Proteins and Photosynthetic Activity under Different Light Intensities in Lettuce Leaves (Lactuca sativa L.).NCBI. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3975419/ [Accessed 27 Oct. 2019].
+
+	Encyclopedia Britannica. (2019). Photolysis | chemical reaction. Available at: https://www.britannica.com/science/photolysis [Accessed 27 Oct. 2019].
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-28+at+8.33.47+PM.png&Size=348527&Type=image%2Fpng&F=F_3ERUzxDGMu5WNIE
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-28+at+8.30.08+PM.png&Size=234533&Type=image%2Fpng&F=F_3EcdxjNZCksOtPE
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-28+at+8.29.44+PM.png&Size=324389&Type=image%2Fpng&F=F_2qegTZ6mfkcGTAE
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.jpg&Size=17031&Type=image%2Fjpeg&F=F_31GHNuygQP4rRvv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Reagent Table
+Table 2. Two-Tailed p-Values
+Table 3. Percent Change in Photosystem II Activity After Thirty Minutes
+Figure 1. The percent change in photosynthetic activity (Photosystem II) over thirty minutes was the highest for the chloroplasts in red light at 91.9%, followed by the chloroplasts in blue light at 21.9%, and the chloroplasts in white light at 20.8%. The percent change over thirty minutes of no chloroplasts was the smallest at 3.16%.*************************************************************************
+
+
+

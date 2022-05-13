@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-13 13:38:05
+Author of this lab report is: Std_kEtM4STG
+ID: R_3kazMcJ4uwLRLHj
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Determining the Optimal Temperature Range for Spinacia oleracea Using the Hill Reaction
+
+Abstract:
+The purpose of this experiment is to determine the optimal temperature range at which Spinacia oleracea, or spinach, chloroplast will perform photosynthesis. In order to determine this optimal temperature range, PSII activity was measured using the Hill reaction and DCIP as the alternative electron acceptor. The isolated chloroplast was incubated at 5 temperatures: 0°C, 12°C, 25°C, 35°C, and 60°C. Absorbances were measured before incubation and then after 10, 20, and 30 minutes of incubation. The rate of percent change in absorbance between 0 and 10 minutes, 0 and 20 minutes, and 0 and 30 minutes was used to run an ANOVA statistical test. From the statistical analysis, the optimal temperature range for PSII activity was determined to be between 12°C and 35°C. Reasons for decreased activity at low (0°C) and high (60°C) temperatures include alterations in the chloroplast membrane, electron carrier and acceptors, or essential proteins associated with PSII. 
+
+Introduction:
+Photosynthesis is the process plants use to convert light energy into chemical energy to produce glucose. This process occurs in the chloroplast and consists of 3 stages: 1) light-dependent photosystem I (PSI), 2) light-dependent photosystem II (PSII), and 3) light-independent Calvin-Benson Cycle. During the light-dependent reaction, PSII absorbs light energy causing electrons to leave the chlorophyll. The electrons are carried by plastoquinone (Q) to the cytochrome b6-f complex, which then passes the electron to plastocyanin (pC). 
+The purpose of this study is to determine the optimal temperature range at which Spinacia oleracea, or spinach, chloroplast activity is greatest. In order to measure chloroplast activity to determine this optimal temperature range, the Hill reaction is used. The Hill reaction takes advantage of the idea that PSII passes electrons to alternative electron acceptors. The Hill reaction is: 2H2O+2A--&gt;2AH2+O2. The alternative electron acceptor, “A”, used for this experiment is 2,6-dichlorophenol indophenol (DCIP). DCIP is dark blue in color and absorbs light at 600nm. When DCIP is reduced to DCIPH₂, bonds reorganize to conjugated C=C bonds. This causes DCIP to change in color from dark blue to colorless. A decrease in absorbance at 600nm indicates this reduction. 
+Plant photosynthetic tolerance to temperature depends largely on the type of plant and its original environment [Öquist:1983]. Spinach is a plant species that can grow at relatively low temperatures [Boese:1990]. Previous studies have examined the effects of temperature in spinach growth and photosynthesis. Spinach grown at 5°C and 16°C had changes in morphology but no changes in photosynthetic activity [Boese:1990]. Another study found that the optimal temperature range for growth of wheat is between 15°C and 45°C [Kobza:1987]. According to these previous studies and findings, we hypothesize that the optimal temperature range at which spinach chloroplast activity is greatest is be between 5°C and 45°C. 
+
+Materials and Methods:
+Spinach leaves were dissolved with 10mL of grinding buffer and 400mM sucrose in Tricine buffer at pH 8. Another 10mL of grinding buffer was added to further liquify the solution. The solution was centrifuged at 1200rpm in an RT-7 centrifuge for 3 minutes at 4°C. The resulting supernatant was centrifuged at 2800rpm for another 10 minutes at 4°C. 20mL of grinding buffer was added to the resulting pellet consisting of the enriched chloroplast. 6mL of water, 2mL of DCIP, 2mL of 100mM pH 6.5 phosphate reaction buffer, and 100µL of the enriched chloroplast was added to each sample. The samples were incubated for 30 minutes at 5 temperatures: 0°C, 12°C, 25°C, 35°C, and 60°C. The absorbances of the samples were measured at 600nm before incubation and then after 10, 20, and 30 minutes. This process was repeated for all 3 trials at each tested temperature. The rate of percent change in absorbance was measured between 0 and 10 minutes, 0 and 20 minutes, and 0 and 30 minutes of incubation. ANOVA with an alpha value of α=0.05 was used for statistical comparison of chloroplast activity of the samples at the varying temperatures.   
+
+Results:
+At 12°C, 25°C, and 35°C, the rate of change in absorbance decreased with time and displayed a general downward trend. However, at 0°C, the rate of percent change in absorbance increased between 0 and 20 minutes of incubation. Similarly, at 60°C, the rate of change in absorbance had an upward trend between 0 and 30 minutes of incubation (Figure 1). The ANOVA statistical analysis resulted in an overall p-value of 0.024. The ANOVA also showed that the temperature ranges of 12°C-35°C and 25°C-35°C were significant.
+
+Discussion:
+In this experiment, the optimal temperature range was found to be between 12°C and 35°C. According to our results and statistical testing, our hypothesis stating that the optimal temperature range will be between 5°C and 45°C is supported. The ANOVA test compared the rate of percent change in absorbances of samples at all 5 tested temperatures (0°C, 12°C, 25°C, 35°C, 60°C) to each other. The ANOVA test indicated that 12°C to 35°C and 25°C to 35°C were statistically significant temperature ranges. 
+A previous study determined that the optimal temperature range for photosynthetic activity of barley chloroplast is between 2°C and 38°C [Nolan:1976]. This optimal temperature range of barley chloroplast activity is comparable to the optimal temperature range of spinach chloroplast activity since both are cold-tolerant species. The determined temperature range is the most optimal for the proper functioning of proteins and enzymes associated with PSII. 
+Spinach chloroplast incubated at low (0°C) or high temperatures (60°C) may have observed decreased chloroplast activity due to the changes in the chloroplast membrane as a result of these extreme temperatures [Nolan:1976]. The chloroplast membrane is composed of many essential proteins and enzymes necessary for the light-dependent reaction. Extreme temperatures cause degradation and decreased activity of these proteins and enzymes. 
+Decreased activity of the electron acceptor at 0°C and 60°C is another possible cause of the observed decrease in chloroplast activity [Nolan:1976]. Another study found that increased temperatures inhibit the activity of plastoquinone, an electron carrier, therefore, decreasing PSII activity [Bukhov:1999]. Electron carriers are responsible for passing electrons to the appropriate proteins during the PSII reaction. When the electron is passed to the electron acceptor NADP+, it is reduced to NADPH, which is used as a form of energy for light-independent reaction and production of glucose. Decreased activity of electron acceptors alters this electron transfer process and photosynthesis. 
+Another study found that incubating spinach PSII membrane between 40°C and 50°C causes thermal inactivation of oxygen evolution and photosynthesis. At 40-50°C, the 33kDa protein, essential to the transfer of electrons from water, is released, therefore inhibiting the electron transfer process [Enami:1994]. This may contribute to the decreased spinach chloroplast activity observed when the samples from our study were incubated at 60°C. 
+	Alterations in the chloroplast membrane, electron carrier and acceptors, and essential proteins associated with PSII caused by incubation at very low and high temperatures are all possible reasons for the observed decreased chloroplast activity. In order to determine a specific cause for the decreased chloroplast activity is required. For instance, proteins or electron carriers associated with the light-dependent reaction can be removed or inhibited. 
+
+Literature Cited:
+1.Öquist G. 1983. Effects of low temperature on photosynthesis. Plant, Cell and Environment. 6: 281-300. 
+2.Boese SR. 1990. Effect of growth temperature and temperature shifts on spinach leaf morphology and photosynthesis. Plant Physiology. 94: 1830-1836. 
+3.Kobza J. 1987. Influence of leaf temperature on photosynthetic carbon metabolism wheat. Plant Physiology. 83: 69-74.
+4.Nolan WG. 1976. Multi-temperature effects on Hill reaction activity of barley chloroplasts. Biochemica et Biophysica Acta (BBA)-Bioenergetics. 440: 461-475. 
+5.Bukhov NG. 1999. Heat sensitivity of chloroplasts and leaves: leakage of protons from thylakoids and reversible activation of cyclic electron transport. Photosynthesis Research. 59: 81-93. 
+6.Enami I. 1994. Is the primary cause of thermal inactivation of oxygen evolution in spinach PSII membranes release of the extrinsic 33 kDa protein or of Mn?. Biochemica et Biophysica Acta (BBA)-Bioenergetics. 1186: 52-58.  
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=46817&Type=image%2Fpng&F=F_1MZ09GeeF9rDoYK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Absorbance of enriched spinach leaf chloroplast samples incubated at 0°C, 12°C, 25°C, 35°C, and 60°C measured over a time period of 30 minutes. Chloroplast incubated at 0°C (dark blue point) and 60°C (light-blue point) observed small changes in absorbance with time. Chloroplast incubated at 12°C (orange point), 25°C (gray point), and 35°C (yellow point) observed greater changes in absorbance with time. Absorbances of each sample were measured before incubation and then after every 10 minutes of incubation. Rate of percent change of absorbances were measured between incubation times of 0 and 10 minutes (t0-t10), 0 and 20 minutes (t0-t20), and 0 and 30 minutes (t0-t30). Each point represents average rate of percent change in absorbance of 3 trials performed for samples at each temperature. The rate of percent change in absorbance between 12°C-35°C was significant (ANOVA: 12°C-35°C=significant, 25°C-35°C=significant, P=0.024). Error bars represent standard deviations in absorbance at each incubation time for each temperature. *************************************************************************
+
+
+

@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-21 01:43:04
+Author of this lab report is: Std_MyJaqXdt 
+ID: R_sHdyntqoveTYP05
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Effect of Tubocurarine on the Threshold Amplitude of Rana pipiens 
+
+Abstract:
+The Rana pipiens contract their muscles through the use of neurotransmitters that generate action potentials. In this lab, we measured the effect that the muscle paralytic tubocurarine had on the threshold amplitude of the gastrocnemius muscle of a R. pipien leg. We hypothesized that if tubocurarine is injected into the R. pipien leg, then the muscle threshold amplitude will be lower. To test this, a computer software was used to shock the exposed sciatic nerve in the three R. pipiens, acting as both the control and experimental group, and the data was recorded on the program. A two sample T test was then used to measure the significance of the data. Our hypothesis was supported because the threshold amplitude was lower when the R. pipiens were injected the tubocurarine. 
+
+Introduction:
+The Rana pipiens muscle cells are made up of thousands of myofibrils, which are composed of thick and thin myofilaments that contain myosin, actin, troponin, and tropomyosin. In order to process information, the R. pipien use nerves impulses that arrive at the neuromuscular junction and release acetylcholine from the presynaptic terminal. [Johnson: 2016] Once the Acetylcholine binds to the receptor, the sodium channels begin to open. This process, once complete, generates an action potential that releases Ca2+, thus resulting in the contraction of the muscle fiber. It has been found that the muscle paralytic tubocurarine affects acetylcholine release from motor nerve terminals at the neuromuscular junction, therefore decreasing the ability of the muscle to contract. [Prior: 1995] The muscle contractions result in a threshold amplitude being reached, which details the amount of voltage. Our hypothesis is that if tubocurarine, a muscle paralytic, is injected into the R. pipien leg, then the muscle threshold amplitude will be lower. We speculate that the tubocurarine will decrease the amplitude because it will block the receptors to the acetylcholine and this information will show how a muscle paralytic impacts the ability of a R. pipien’s muscle to contract. 
+
+Materials and Methods:
+In order to carry out this experiment, my lab group obtained three R. pipien legs from the same species that were relatively that same size. The R. pipien’s were placed in a dissecting pan and their skin was removed in downward motion; we then separated the inner thigh muscles to expose the sciatic nerve and separated the gastrocnemius from the foot to allow the muscle to hang from the stand. Throughout this process the tissues were kept moist with frog Ringer’s solution, and the sciatic nerve was handled carefully to prevent damage. Each R. pipien leg was first used as the control, then injected with the paralytic to make it the experimental group.  Lab Scribe, a computer application, controlled and recorded the amplitudes(volts) of the muscle contractions. Shocks were delivered to the sciatic nerve with the voltages: 0, 0.1, 0,2, 0.3, 0.4, 0.5, 1.0, 2.0, 3.0, 4.0, 5.0, and 6.0. In certain circumstances, the voltages were altered in order to get a more accurate threshold. The amplitudes were then recorded by the computer and the data was entered into the lab notebook. After the experiment was complete, the data was entered into a two sample T test to determine if it was statistically significant. 
+
+Results:
+Throughout the course of the experiment, we found that the experimental group had a lower threshold overall when compared to the control group. The average threshold for the experimental group was .442V, while the control group was higher at .661V. For group 1 the control threshold was 1.16V and the experimental was .898V, group two control was .541V and experimental was .293V, and group three control was .282V and experimental was .137V. (Figure 1) The R. pipien that were injected with the tubocurarine, had muscle contractions that were less forceful than the control group. Our two sample T test proved the results was statistically significant (t-stat= 5.918, df= 2, P= 0.2739).
+
+Discussion:
+The hypothesis is that if tubocurarine, a muscle paralytic, is injected into the R. pipien leg, then the muscle threshold amplitude will be lower was supported because the results was statistically significant. The tubocurarine had an effect on the muscles because it blocked the receptors to the Acetylcholine, therefore limiting the potential to contract. The tubocurarine inhibits the acetylcholine release from motor nerve terminals at the neuromuscular junction and decreases the contractibility of the muscle. [Prior: 1995] The R. pipien control groups had a higher threshold average because their acetylcholine was not obstructed, therefore it was allowed to travel along the pathway and activate the action potential. The voltage was higher with the first group of The R. pipien and proceeded to decrease with each group. A potential explanation for this is that the sciatic nerve was exposed to the elements longer and because of this it did not have the ability to react as quickly. This information about the capability of muscle paralytics and how they impact muscle contraction could be used in the future to help humans. A potential application of this process could be used for individuals who have muscle twitches/spasms because it would allow the threshold to be lower and the contractions to not occur as often. 
+
+Literature Cited:
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+Prior, Chris, et al. “Prejunctional Actions of Muscle Relaxants: Synaptic Vesicles and Transmitter Mobilization as Sites of Action.” General Pharmacology: The Vascular System, vol. 26, no. 4, 1995, pp. 659–666.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-21+at+1.01.14+AM.png&Size=413621&Type=image%2Fpng&F=F_3Ed3Bm9WdLyiBWa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1- This graph represents the threshold for both the control and experimental groups for all three a R. pipien. The control group is the color blue and the experimental is red, and the black lines are the error bars.*************************************************************************
+
+
+

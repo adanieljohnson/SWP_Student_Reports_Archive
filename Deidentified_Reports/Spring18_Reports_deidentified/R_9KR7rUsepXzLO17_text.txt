@@ -1,0 +1,74 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-22 15:50:56
+Author of this lab report is: Std_SUM2H1Fa
+ID: R_9KR7rUsepXzLO17
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The Effects of Azaguard on Manduca Sexta
+
+Abstract:
+In this study, we investigated the insecticide Azaguard. We wanted to see and test the effect of Azaguard on Manduca Sexta, also known as the the tobacco hornworm. The hormone that Azaguard was expected to influence and target was ecdysterone, 20E, which is known to control molting. Our experiment was a 7 day study where we measured and observed the lengths and weights of 8 Manduca Sexta caterpillars. We predicted that AzaGuard, since it is an IGR , that it would make Manduca Sext grow improperly because it blocks 20E thus making the caterpillars unable to molt. It was found that Azaguard has a serious effect on the growth of the caterpillars. Over our 7 day test, the experimental group tended to lose weight and shrink in length. They often became discolored and became inactive. We can not conclusively state that Azaguard prevents molting because 2 of the 4 experimental groups molted during the experiment.
+
+
+Introduction:
+Manduca Sexta, also known as the tobacco hornworm, is a pest and found throughout the United States. It has a 39-48 day life cycle divided into 4 parts: egg, larvae, pupae, and adult (Johnson, 2016). Within the larva stage, there are 5 instar stages that Manduca Sext must go through before molting into a pupae. In insects, molting is reliant on two hormones: brain hormone (BH) and ecdysterone (20E). BH is produced in the corpus cardiacum; The BH activates prothoracic glands which release ecdysterone, directing the precise timing of molting (Riddliford L.M, Hiruma K, Zhou X. Nelson CA. 2003). A rise in ecdysterone resultings in molting and is key contributor to the commitment pulse. During the 5th instar stage, low levels of juvenile hormone (JH) and an increased levels of 20E result in a commitment pulse. The commitment pulse determines when a caterpillar is ready to become a pupae (Johnson, 2016).
+The chemical used in the this experiment is AzaGuard. It is an IGR that blocks 20E thus making the caterpillars unable to molt and it is commonly used as an insecticide. After consuming food containing AzaGuard, the Manduca Sexta will fail to grow properly and molt.
+
+
+Materials and Methods:
+To start the lab, we obtained 4 identical cylindrical plastic containers, labeling two of the as control and two of them as experimental. Next we placed an index card down the middle of each plastic container, splitting each container into 2 sections (4 containers, 8 sections). Then, we selected 8 caterpillars that were all similar in size and placed one caterpillar in all 8 sections. Next we prepared the food for the caterpillars; we weighed out approximately 10g of food per caterpillar (80g for 8 caterpillars). With 40g of the 80g of the food, we made the control group’s food. For every gram of the control’s food we added 10 drops of water (400 drops of water for 40g of food). Next we divided the 40g into fourths and equally distributed the food into 4 sections of the containers, making them our control group. With the last 40g of food, we created our experimental group’s food. For every gram of the experimental food we added 7 drops of Azaguard (280 drops of Azaguard for 40g of food). Next we divided the 40g into fourths and equally distributed the food into 4 sections of the containers, making them our experimental group. For the next week, once a day, we kept track and recorded the mass and length of every caterpillar in a excel spreadsheet. We used a standard ruler measure the caterpillars. We used electronic scales to weigh the caterpillars. All equipment used was provided by the laboratory.
+
+
+Results:
+A general trend found throughout the data was that the control group gained weight and grew longer till day 5. After day 5, the caterpillars in the control group ran out of food. After day 5, the control caterpillars lost weight and grew at slower pace. During the first 4 days, the experimental group also tended to gain weight and grew longer, but after day 4, they lost or maintained their weight and shrink in length. We ran a two tailed T-test to find P values and standard deviation. The standard deviation of the control is 1.03 (weight) and 0.927 (length).  The standard deviation of experimental is .0994(weight) and 0.302 (length). The P value for the weight data is 0.0121 so we had a over 95% confidence value. The P value for the length data is 0.0316 so we had a over 95% confidence value. All caterpillars started the experiment green and healthy. By day 3, one control molted and two experimental molted. After day four, the experimental group started looking a bit discolored and became inactive. This trend continued as they got worse as the week progressed. After day 4, the control group were still green and active but they appeared bloated till day 5.
+
+
+Discussion:
+During the first 5 days the control groups grew steadily because they had a steady supply of food. The control groups appeared bloat around day 5 because they were able to eat at will. Without food, the caterpillars were forced to eat the index cards for food. The index cards were not as nutritious causing them to lose weight and making them grow less. The experimental group gained weight and grew in length the first 4 days because the experimental group did not eat enough food containing Azaguard. The molting done by the two experimental groups came as a surprise. This result is similar to study on how certain pesticides affect Spotted Wing Drosophila (SWD), Azaguard was ineffective at suppressing SWD life cycle; it did not prevent the SWD from molting (Collins J.A, Drummond F.A. 2015).  The decline in the weight and length of the experimental groups after day four was due to the Azaguard. Azaguard made caterpillars eat less food than control groups. The control group in 7 days only managed to consume 76.98% of their food , while the control ate a 100% their food by day 5. This would explain, the loss of weight, shrinking, discoloration and inactivity experienced by the experimental caterpillars.Our data and trends found when exploring how Azaguard effects weight and length are statistically relevant. Both P values obtained, 0.0121 and 0.0316, show that we higher than 95% confidence interval. We can conclude that Azaguard reduces growth of the caterpillars in both length and weight. We cannot confirm if Azaguard prevents molting by blocking the hormone 20E.
+
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), 7-13pp. 
+
+2. Riddliford L.M, Hiruma K, Zhou X. Nelson CA. 2003 Insights into the Molecular Basis of the Hormonal Control of Molting and Metamorphosis from Manduca Sexta and Drosophila Melanogaster. Elsevier, Volume 33, Issue 12, December 2003, 1327-1338pp.
+
+3. Collins J.A, Drummond F.A. 2015. Spotted Wing Drosophila Control, 2014. Arthropod Management Tests, Volume 40, Issue 1,1 December 2015, 1pp
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+3.45.12+PM.png&Size=79493&Type=image%2Fpng&F=F_4YFk4ZIwe7hnPRb
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+3.45.21+PM.png&Size=63227&Type=image%2Fpng&F=F_bechzKIRWOqVCD3
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+3.45.30+PM.png&Size=99319&Type=image%2Fpng&F=F_bdC0VmpNsLrnirX
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+3.45.40+PM.png&Size=73239&Type=image%2Fpng&F=F_ab1UQlmsmtxrYnb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1) Weight Averages 
+Figure 2) Length Averages 
+
+Graph 1) Weight Averages 
+Graph2) Length Averages 
+
+*************************************************************************

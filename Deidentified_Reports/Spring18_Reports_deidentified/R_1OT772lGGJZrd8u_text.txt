@@ -1,0 +1,95 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-11 11:40:23
+Author of this lab report is: Std_GbCthm66
+ID: R_1OT772lGGJZrd8u
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Lidocaine injection into gastrocnemius of Rana Pipiens delays muscle contraction though blockage of voltage gated sodium channels.
+
+Abstract:
+Action potentials are the cause of muscle contraction; they operate by using ions such as sodium that enter the cell though voltage gated sodium channels which cause depolarization of the cell leading eventually to muscle contraction. In this experiment, we studied the effects of lidocaine on the voltage gated sodium channels of the gastrocnemius muscle in a Rana Pipiens frog. We hypothesized that an injection of lidocaine would block the channels and result no fired action potential. We found that it was hard to block all of the channels in the leg however, our study was successful in blocking some of the channels and therefore in delaying the response by delaying threshold amplitude of the action potential. This information can be generalized to other medical studies that deal with using lidocaine as a local anesthetic as well as a neuropathic pain reliever. 
+
+
+Introduction:
+Muscle contractions are stimulated by action potentials in a process that is referred to as excitation- contraction coupling. The beginning of this process is the depolarization of the cell that occurs only when the voltage gated sodium channels open and allow an influx of sodium into the cell. Once the cell has depolarized the action potential is started and runs all the way action potential reaches the muscle cell, the action potential spreads throughout the muscle cell and results the release of calcium from the sarcoplasmic reticulum which in turn activates the tropomyosin and myosin heads leading to muscle contraction [Johnson:2018]. There are many substances that can be used to alter this process, one of which being Lidocaine. In the medical field, Lidocaine is used as a local anesthetic because it works by binding to and inhibiting voltage gated sodium channels in the neuron [PubChem:2018]. In this experiment, we will use frog legs to research and observe the effects of a lidocaine solution on muscle contraction, specifically muscle twitches and their amplitudes. We will be able to see first-hand how lidocaine can prevent pain as well as work as a local anesthetic by seeing how well it is able to block the voltage gated sodium channels. We hypothesize that an injection of lidocaine will block the voltage gated sodium channels and result in action potentials that do not fire therefore stopping muscle contraction in the gastrocnemius muscle of the Rana Pipiens frog leg. We chose to use the Rana Pipiens frog for this experiment due to its highly developed gastrocnemius muscle, a result of the extension of the legs in the similar movements of swimming and hopping [Bashor, Kamel, and Peters:1996]; and the ability of this muscle to be easily separated from the rest of the leg, a trait that is common in most species of frogs. Specifically, we are using the Rana Pipiens species due to their easy and efficient breading capabilities as well as easy availability and access for our purposes.  
+
+
+Materials and Methods:
+We began by installing the LabScribe software onto our computer. After Labscribe was installed, we connected the computer to the technology provided on the lab table and opened the LabScribe program. 
+We used legs from the Rana Pipiens species of frog. We used a solution that consisted of lidocaine dissolved in Frog Ringer’s solution that resulted in 25mM Lidocaine. 
+LabScribe Software Preparation:
+After opening the program, we made sure the setting was set to FrogNerveMuscle. To ensure the software was set to this setting, we clicked on settings, chose AnimalMucle, and then chose the first option for FrogNerveMuscle. 
+Next, we checked that the values for the stimulus parameters were correct. We set the pulse amplitude (Amp) to 0.000V. We set the number of pulses (# pulses) to 1. We set the Frequency (F(Hz)) to 1. We set the pulse width (W) to 5 ms. In order to change each of these settings, we used the arrow buttons to the right of the window that displays the value of the parameter and then once they were set we clicked the “apply” button to finalize the changes we made. 
+After we had the program set up, we prepared the specimen. 
+Specimen Preparation: 
+We began to prepare the frog leg by degloving the leg. In order to do this, we peeled the skin at the top and then used a chem wipe to hold the muscle at the top. Then we gently pulled the frog skin down the leg, using a little more force at the knee joint. The skin came off easily using this method.
+The second step was exposing the sciatic nerve of the frog. First we flipped the frog leg to is ventral side and then used our finger tips to pull apart the thigh muscle by grabbing each side of the cleft and pulling gently. Once the inside of the thigh was exposed, we identified the sciatic nerve and pulled it out slightly. We made sure not to use any metal objects on the nerve so we could avoid damaging it. See picture 1 in order to see what the end result of this step looked like.
+The third step in the specimen preparation was detaching the gastrocnemius muscle and attaching the string. To begin we used scissors to clear out the connective tissue in the gap between the gastrocnemius muscle and the tibialis anterior muscle. Next we used the scissors to detach the gastrocnemius muscle by cutting towards the toes. We made sure to leave the majority of the Achilles Tendon attached to the gastrocnemius muscle in order to have a place to attach the string. To attach the string, we placed a piece of string about 30 cm long under the piece of Achilles tendon attached to the gastrocnemius muscle and then carefully tied a knot around the top of the tendon, securing the string to the muscle. Then we tied a loop in the end of the string that was not connected to the muscle. 
+The last step of the specimen preparation was to suspend the gastrocnemius from the force transducer and then attach the probes. To suspend the gastrocnemius from the force transducer we hung the leg from the loop attached to the tendon and then lowered the ring stand so that the frog leg was completely flat on the tray. To secure the frog on the tray, we placed 4 pins in the thigh of the frog leg being extremely careful not to touch the sciatic nerve when doing so. See Picture 2 for a visual example of our frog set up. To place the probes in place, we gently lifted the sciatic nerve, and placed the red probe first under the nerve. Then we repeated this process for the black probe. At the end of each probe there was a wire that the sciatic nerve was just placed on top of. Again see Picture 2 for a visual representation of this description.
+Preforming the Experiment:
+We checked the stimulator preferences in LabScribe and made sure they were set to the correct number of pulses, pulse amplitude, frequency, and pulse width (See LabScribe software preparation for correct settings). After ensuring the numbers were correct we clicked apply to set the changes. Next we clicked “record” to stimulate the nerve with the set amplitude. Once the muscle had been stimulated, we clicked “stop”.  We recorded the stimulus and the response at each stimulus in a chart in our lab notebook. In order to measure the response, we measured the amplitude of the twitch. 
+Then we increased the amplitude to 0.1V and clicked “apply” to set the change. After the change was set, we clicked “record” to stimulate the nerve and then “stop” after 3 seconds. We continued this process, increasing the voltage each time until we reached threshold which we determined to be either 0.01 (in most cases) or the first time the recorded value changed from 0.0 to 0.a where a is some number greater than 0. 
+We repeated this process for each frog leg, twice. The first time we used as the control value. Then we injected the leg with 0.1mLs of Lidocaine. We waited 5 minutes to allow the lidocaine to become effective and then we repeated the entire process of recording the stimulus and the response. To determine if the experiment was statistically significant, we used a paired t-test. 
+
+
+Results:
+Each frog leg experienced a delay in threshold amplitude after receiving the lidocaine treatment. Each figure below correlates to each frog leg that was tested. 
+Figure 1 correlates specifically to Frog leg 1. In this leg, the control—or the leg without lidocaine—reached threshold at a stimulus amplitude of 0.1. This threshold was 0.013. Once the leg had been injected with lidocaine, it didn’t reach threshold until a stimulus amplitude of 0.7. The threshold was 0.016. 
+Figure 2 correlates specifically to Frog leg 2. In this leg, the control—or the leg without lidocaine—reached threshold at a stimulus amplitude of 0.2. This threshold was 0.017. Once the leg had been injected with lidocaine, it didn’t reach threshold until a stimulus amplitude of 0.3. The threshold was 0.121. 
+Figure 3 correlates specifically to Frog leg 3. In this leg, the control—or the leg without lidocaine—reached threshold at a stimulus amplitude of 0.2. This threshold was 0.804. Once the leg had been injected with lidocaine, it didn’t reach threshold until a stimulus amplitude of 0.375. The threshold was 0.209.  
+The first frog leg took much longer to reach threshold with the lidocaine than the other two legs but each reaction was delayed. 
+To analyze the data, we ran a paired t-test and received a p-value of .267. 
+
+
+Discussion:
+As noted before, each frog leg that was tested showed delayed results once the lidocaine had been injected. Our hypothesis—the lidocaine would inhibit the action potential from firing due to the blockage of voltage gated sodium channels—was not entirely supported but was also not disproven. It is very unlikely that every single voltage gated sodium channel became blocked by the lidocaine in the 5 minutes we waited, and therefore the action potential would still fire—it would just be delayed; these were the results that we received from our test. In order to test the significance of our study we conducted a matched pairs T-test. This test resulted in a P-value of .267 which is not significant at the 0.05 alpha level on which we were conducting the test. 
+Our results mirrored the results of the neuropathic pain experiment conducted by Theodore Roummins and Anthony M Rush. In their experiment, without lidocaine 50% of the channels remained available for activation from an action potential. With lidocaine only 20% were available for activation, meaning 80% of voltage gated sodium channels were inactive. These result come from a human embryonic kidney [Roummins and Rush:2007]. 
+It is important to note that in between the control and lidocaine tests of this frog the probes were moved slightly which could affect the data in the sense that it makes it harder to replicate the exact conditions used in the control test. However, this error does not appear to have greatly skewed the results of our study. 
+If this study were to be repeated, we could wait longer between the injection of the lidocaine and the stimulation of the gastrocnemius muscle. This could possibly alter the effectiveness of delaying the action potential by increasing the number of channels blocked. 
+We conclude that our study was efficient in observing the effects of lidocaine on voltage gated sodium channels in the gastrocnemius of the Rana Pipiens frog species. While our p-value was not statistically significant, and our hypothesis was not entirely correct, our results are very similar to other studies performed in the field. Our study, along with other studies, enhance our understanding and use of lidocaine in modern medicine. 
+
+
+Literature Cited:
+1.	Johnson AD. Neuromuscular Control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 17. 
+2.	_____. National Center for Biotechnology Information. PubChem Compound Database. Accessed March 27, 2018. https://pubchem.ncib.nlm.nih.gov/compound/3676
+3.	Bashor DP, Kamel LT, and Peters SE. 1996. Hopping and swimming in the leopard frog, Rana pipiens: I. Step cycles and kinematics. Journal of Morphology. 230:1-16. 
+4.	Roummins TR and Rush AM. 2007.Voltage-gated sodium channel blockers for the treatment of neuropathic pain. Stark Neurosciences Research Institute, Indiana University, School of Medicine. Neurotherapeutics 7: 1597-1612. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=200452&Type=image%2Fpng&F=F_3esEthh33PixXOP
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture2.png&Size=585276&Type=image%2Fpng&F=F_1flwLy0BhNrUTkV
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph1+Final.png&Size=37428&Type=image%2Fpng&F=F_2zHg6AaOeHzCDNc
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph2+Final.png&Size=38496&Type=image%2Fpng&F=F_1mwMqJenafRYthW
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph3+Final+.png&Size=38889&Type=image%2Fpng&F=F_1OjbkmAyMkjxGxe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure  1 Methods- Specimen Preparation- Exposing of the Sciatic nerve end result. 
+Figure  2- Methods- Preparation of the Specimen- Suspension of the Gastrocnemius and placement of the probes. 
+Figure 3 Frog 1: Changes in Threshold Amplitude. The blue line correlates to the control leg, or the leg before treatment. The orange line correlates to the leg after receiving Lidocaine. This graph represents the change in threshold for the first fog leg only. 
+Figure 4 Frog 2: Changes in Threshold Amplitude. The blue line correlates to the control leg, or the leg before treatment. The orange line correlates to the leg after receiving Lidocaine. This graph represents the change in threshold for the second frog only. 
+Figure 5 Frog 3: Changes in Threshold Amplitude. The blue line correlates to the control leg, or the leg before treatment. The orange line correlates to the leg after receiving Lidocaine. This graph represents the change in threshold for the third frog only. 
+
+
+*************************************************************************

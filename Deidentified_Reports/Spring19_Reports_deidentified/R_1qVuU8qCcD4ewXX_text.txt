@@ -1,0 +1,104 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-03-08 00:51:19
+Author of this lab report is: Std_SUM2H1Fa
+ID: R_1qVuU8qCcD4ewXX
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: The Effect of Nitrate on the Root to Shoot Weight Ratio of Pisum Sativum
+
+Abstract:
+Due to limited resources of their environments, Pisum sativum, like many plants, are forced to undergo evolutionary cost-effective trade-offs and allocate their resources. For Pisum sativum, one of these limited resources is nitrogen. In Pisum sativum, nitrogen is primarily absorbed via the roots in the form of nitrate (NO3-) and ammonium (NH4+). To investigate how nitrogen-rich soil affects Pisum sativum’s ability to allocate resource  and grow, 2.5 grams of Hi-Yield Nitrate of Soda, which is 16% nitrate nitrogen, was placed into soil with seeds of Pisum sativum and allowed to grow for two weeks; after the two weeks, the root to shoot weight ratio of the plants in nitrate soil were compared to their respective control groups. To measure the root and shoots of the plants, we separated the plants above where the shell of the seed was. It was predicted that field peas, Pisum sativum, will have a lower root to shoot ratio when placed in nitrogen-rich soil compared to other field peas that were in normal untreated soil. Ultimately, no significant difference was discovered between the root to shoot weight ratio of Pisum sativum, therefore, our data was not successfully able to prove that nitrogen lowers the root to shoot weight ratio.
+
+
+Introduction:
+In ecological communities, there are a limited amount of resources that are present and available such as nitrogen.  Limited resources lead organisms to make cost-effective trade-offs.  Species such as Pisum sativum must resource allocate to effectively distribute their limited resources. For plants, resource allocation patterns change depending on the variable in the immediate external environment such as soil content and exposure to sunlight. [Johnson:2016].  
+
+	Two distinct places where a plant can resource allocate are the roots and shoots.  Shoots are composed of the plant’s stems and leaves which both play a vital role for photosynthesis, a way to convert sunlight energy into sugar glucose.  A high rate of resource allocation to the shoot suggests that light is not plentiful; light is the resource most worth competing for. Roots, on the other hand, are located in the soil helping plants stay in one place and absorb water, minerals and ions/molecules for nutrients. A high rate of resource allocation to the roots suggests that water-scarce resource, therefore, making it resource worth competing for [Johnson:2016].  A method of measuring resource allocation for plant growth is to measure the root to shoot ratio. The root to shoot ratio value is calculated by taking the biomass of the shoot of the plants and divide that number by the biomass of the roots [Johnson:2016].
+
+Field peas, Pisum sativum, are a common domesticated annual legume plant that is grown all over the world. They are primarily grown as a food source due to their high fiber, protein, vitamin and mineral content [Pavek:2012]. Like many plants in the legume family, field peas, have a symbiotic relationship with rhizobia bacteria allowing them to take up nitrogen gas (N2) from the atmosphere and convert it into nitrate (NO3-) and ammonium (NH4+) which end up in the soil [Masson-Boivin:2009]; The process of N2 converting into NO3- or NH4+ is called nitrogen fixation [Mengel:2001]. The nitrate and ammonium act as a fertilizing agent by adding nitrogen-based nutrients into the ground [Masson-Boivin : 2009].  
+
+	Nitrogen is a common component and nutrient in many fertilizers due to nitrogen’s ability to promote plant growth. In taking nitrogen is vital due to nitrogen’s role in amino acids, nucleotides (DNA and RNA), proteins, chlorophyll, and the photosynthetic pathway.  Due to vital role nitrogen plays in essential macromolecules and physiological processes, plants need sources of nitrogen to grow and function. [Baethgena:1995].  
+
+	Understanding how plants resource allocate based off their environment could lead to more effective methods of growing plants. In our experiment, we hope to answer the following question: Does increasing the concentration of nitrogen by adding nitrate to soil affect the root to shoot ratio of field peas? It was predicted that field peas will have a lower root to shoot ratio when placed in nitrogen-rich soil compared to other field peas that were in normal untreated soil.
+
+
+Materials and Methods:
+Preparing Plants:
+First, we obtained four containers that had openings that allowed for water drainage. Next, we label two of the containers control and two of the containers experimental.  Then, we filled all four of the containers two-thirds of the way with soil. Next, measured out 2.5 grams of Hi-Yield Nitrate of Soda, which is 16% nitrate nitrogen, pellets for each of the experimental group (five grams total). Then, we placed and mixed in 2.5 grams of Hi-Yield Nitrate of Soda pellets in each of the experimental groups. Next, we added a handful of field pea seeds into each of the four containers.  Next, we filled the last third of all four of the containers with soil; the containers were full at this point.  Next, we watered each of the containers till the soil of each container was saturated.  Lastly, we added an equal amount of miracle grow to each container.
+
+
+Incubation of the Plants:
+Immediately after preparing the plants, we placed all the containers in a greenhouse incubator. For the next two weeks, we watered the plants everyday. We watered each container until the soil of each container was saturated.    
+
+
+Measuring the Roots and Shoots:
+First, we removed the containers from the greenhouse. Next, we carefully removed the control plants from their containers. We put the soil and roots of those plants in water to break up the vermiculite and soil. Next, we carefully separated three whole plants from the clump for each of the control containers (six whole plants). Next, we separated the shoot from the roots from each of the plants; we separated the plants under where the shell of the seed was. Next, we weighed and recorded each plant's roots and shoots and calculated their weight root to shoot ratio via Excel. Next, we repeated the procedure for the experimental plants
+Lastly, after all the root to shoot weight ratios were collected for the control and experimental group, we compared the average root to shoot weight ratio of the two group by running a two sample, one-tailed T-test.
+
+
+Results:
+As shown in Figure 1, the average root to shoot weight ratio of the control group was 0.5855土0.1575 (n=6). The average root to shoot weight ratio of the nitrate group was 0.495土0.073 (n=6). Compared to the mean of the nitrate group, the mean of the control group’s root to shoot weight ratio was 15.46% larger.  The mean of the control group was not statistically significantly different than that of the experimental group(t-stat=1.182, df=10, p=0.132). Based off of figure 1, nitrate did not have a significant impact on the root to shoot weight ratio of field peas. The general trend shows that the root to shoot weight ratio of the field peas grown in a nitrate-rich soil was typically less than the root to shoot weight ratio of the control field peas.
+
+
+
+Discussion:
+It was predicted that field peas plants in soil with a higher concentration of nitrate would have a lower root to shoot weight ratio than field peas plants in untreated soil. It was found that field peas grown in nitrate-rich soil did not have a significantly lower root to shoot ratio than field peas grown in normal soil. Ultimately, our experiment did not support our hypothesis.  
+
+In research published in Annals of Botany, scientist researched how the root to shoot weight ratio was affected by different nutrients and found that different plants react to nitrogen in different ways. In high nitrogen-rich environments, birch trees showed a rapid decrease in their root to shoot ratio while tomato plants saw minimal changes [Ågren:2003]. The birch trees had a smaller value for the root to shoot weight ratio due to allocating less resources to their roots due to the high levels of nutrients in the soil.Unlike birch trees, tomato plants had a higher capacity to store nitrogen, therefore, they had no immediate physiological use for the nitrogen. Similar to tomatoes, nitrogen may not play a major role in the resource allocation of field peas. Field peas may rely on nitrogen less than other plants resulting in a higher than expected root to shoot weight ratio.
+
+One potential reason why field peas have a larger root to shoot weight ratio than expected is due to being nitrogen fixators.  In a study published in The Soil Biology and Biochemistry Journal, scientist discuss the role of rhizobacteria in nitrogen fixation and plant growth.  They found that the rhizobacteria are able to capture nitrogen gas from the atmosphere for the field peas; the nitrogen gas is converted into ammonia and ammonium allowing the plant to use this nitrogen as a nutrient and to stimulate growth [Chanway:1989]. Due to field pea’s ability to fixate nitrogen, they receive a significant amount of their nitrogen intake from the atmosphere, therefore, their roots do not have to absorb as much nitrogen as a normal plant. This would result in the roots of the field peas being less long and weigh less.  
+
+	 In conclusion, there was no significant difference between the root to shoot weight ratio of field peas, therefore, our data was not successfully able to prove that nitrogen lowers the root to shoot weight ratio. To improve the experiment, I believe that having more time would have allowed for more distinct changes to occur. In addition to that, having plants with different concentrations of nitrogen would allow for better analysis of nitrogen’s effect on field peas. For potential and future experimentation, it would be interesting to investigate field peas ability to fixate nitrogen and how it affects its total nitrogen intake. Understanding field peas relationship with nitrogen paired with its ability to put nitrogen in the ground could lead to more efficient farming. Planting plants that are non-nitrogen fixators with nitrogen fixators, like field peas, could produce more crops due to high levels of nitrogen and give an incentive to end the practice of monoculture.
+
+
+Literature Cited:
+Ågren G.I. Franklin O. 2003. Root : Shoot Ratios, Optimization and Nitrogen Productivity. Annals of Botany. 92(6): 795-800
+
+Anderson E.L. 1988. Tillage and N fertilization effects on maize root growth and root:shoot ratio. Plant and Soil. 108 (2): 245-251
+
+Baethgena W.E. Christianson B.C. García-Lamot A. 1995. Nitrogen fertilizer effects on growth, grain yield, and yield components of malting barley. Field Crop Research. 43(2-3): 87-99 
+
+Chanway C.P. Hynes R.K. Nelson. L/.M. 1989. Plant growth-promoting rhizobacteria: Effects on growth and nitrogen fixation of lentil (Lens esculenta moench) and pea (Pisum sativum L.). Soil Biology and Biochemistry. 21(4): 511-517.
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+
+Masson-Boivin C. Giraud E. Perret X. Batut J. 2009. Establishing nitrogen-fixing symbiosis with legumes: how many rhizobium recipes?. Cell Press: Trends in Microbiology. 17(10): 458-466
+
+Mengel K. Kirkby E.A. Kosegarten H. Appel T. 2001. Nitrogen. Principles of Plant Nutrition, 5th ed. Boston: Kluwer Academic Publishers. Pp 397-398.
+
+Pavek, P.L.S. 2012. Plant guide for pea (Pisum sativum L.). USDA-Natural Resources Conservation Service. Accessed February 17, 2019. &lt;https://plants.usda.gov/plantguide/pdf/pg_pisa6.pdf &gt;
+
+
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-08+at+12.18.22+AM.png&Size=109095&Type=image%2Fpng&F=F_CdWB46G9GYKRlCx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The bar graph compares the average root to shoot weight ratio between field peas treated with nitrate and field peas with no treatment. The error bars represent the standard deviation values for untreated and nitrated treated groups. The nitrate group was treated with 2.5g of Hi-Yield Nitrate of Soda, 16% nitrate nitrogen, pellets.*************************************************************************
+
+
+

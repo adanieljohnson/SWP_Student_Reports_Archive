@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-29 01:30:10
+Author of this lab report is: Std_IuGkAOSl
+ID: R_3PcSegALMdZXtNW
+Course number: BIO102L
+TA: TA_VP4awTgP
+*************************************************************************
+Title: The effect of salinity in water on chloroplast activity in Spinacia oleracea.
+
+Abstract:
+Spinacia oleracea is a major crop and understanding the effects of salinity on its photosynthetic activity is important, especially with rising sea levels. Because of this, we wanted to examine how NaCl solutions would affect the activity of the chloroplasts of Spinacia oleracea. We evaluated the effect of NaCl on the activity of chloroplasts in Spinacia oleracea by using a Hill reaction and measuring absorbance on a spectrophotometer. We used solutions of 0mM NaCl, 100mM NaCl, and 200mM NaCl and allowed the chloroplasts to photosynthesize in full light for 30 minutes. Our results reflected a rise in photosynthetic activity with an increase in concentration of NaCl. We found a 9.0% increase in chloroplast activity in the 200mM NaCl sample. This contradicted our hypothesis that with increased NaCl concentration, the chloroplast activity would decrease. 
+
+Introduction:
+Photosynthesis is a process that impacts all organisms and with rising sea levels it is important to analyze the possible consequences the increased salinity of soil could have on this process. High soil salinity can lower plant growth rate and vitality. This is due to a low photosynthetic rate and lower the ability for CO2 fixation [Stiborová 1987]. When Spinacia oleracea is grown in a saline solution for three weeks, photosynthetic activity is lowered [Downton 1985]. The amount of NaCl in the solution is important to the effect it has on plants. In experiments with mulberries, low salinity increased CO2 uptake, but at higher salinity, it decreased CO2 uptake [Agastian 2000]. This information raises the question that how would the chloroplast activity of Spinacia oleracea be affected when put in a saline solution for a short period of time. For our experiment, we put our chloroplasts in three different concentrations of NaCl. We hypothesized that increased salinity would decrease the activity of chloroplasts in Spinacia oleracea.
+
+Materials and Methods:
+Concentrated and enriched chloroplasts were made by stripping the main vein of the leaf and then grinding and centrifuging. To grind our spinach, we used 20mL of grinding buffer in a chilled mortar and pestle to form a slurry. We filtered the slurry through cheese cloth and put it in a 50mL centrifuge tube. This sample was centrifuged at 1200 rpm for 3 minutes at 4 degrees Celsius. We poured the supernatant into another tube and centrifuged the new tube at 2800 rpm for 10 minutes at 4 degrees Celsius. We disposed of this supernatant and then resuspended the pellet using 20mL of grinding buffer. These chloroplasts were then added to the test tube solutions right before measuring absorbance.
+
+13 solutions were made to test different levels of salinity using a Hill Reaction. All solutions were made with mL of reaction buffer and all tubes except the blank had 2mL of 130mM DCIP. To make the different saline solutions we added a 0mM NaCl solution to 6 tubes, a 100mM NaCl solution to 3 other tubes, and a 200mM NaCl solution to 3 other tubes. After making these solutions, we added 100L of the enriched chloroplasts to the blank, 3 of the 0mM tubes, 3 of the 100mM tubes, and 3 of the 200mM tubes. 
+
+Immediately after adding chloroplasts we measured the absorbances on a spectrophotometer. We recorded those results and waited 10 minutes and measured again. We waited another 10 minutes and remeasured and then another 10 minutes. The total wait time was 30 minutes between the first measurement and the last.
+
+We ran a two-tailed t-test to measure the p value of our results. We also calculated the percent change between each time.
+
+
+Results:
+Overall, our chloroplast activity went up with time because the lower the absorbance the higher the activity due to the Hill Reaction. In addition, we found that the higher the salinity the higher the chloroplast activity. These trends can be seen in Figure 1. Our percent change between 0 minutes and 30 minutes was generally less than 1% except for the 200mM group which was 9.0% for the average as seen in Table 1. Our p vales for this experiment were p=0.167 for the 200mM sample and p=0.587 for the 100mM sample.
+
+Discussion:
+Overall the results of our experiment do not support our hypothesis. Our results indicated the opposite of our hypothesis. The presence of NaCl increased the chloroplast activity rather than decreasing it. However, our results were not statistically significant for our hypothesis or the opposite of our hypothesis. This could be due to the amount of time we measured. Other experiments found a decrease in activity in chloroplasts in 200mM NaCl solution over 3 weeks [Downton 1985]. Measuring for 30 minutes could have not been enough time for the NaCl to lower the photosynthetic rate and CO2 fixation ability. Testing for a longer time period would also help reflect the effect that salinity would have in vivo. The concentration of NaCl in our solution could have also caused our results. A low level of salinity has been found to increase the CO2 uptake and increase photosynthetic activity [Agastian 2000]. Using concentrations around 400mM may give us a more defined answer to the effect of salinity on photosynthetic activity. Future experiments will focus on measuring for longer amounts of time and using higher concentrations of NaCl. This will help us understand the relationship between salinity and photosynthetic activity.
+
+Literature Cited:
+1.	Stiborová M, Ditrichová M, Brezinová A, 1987. Effect of heavy metal ion son growth and biochemical characteristics of photosynthesis of barley and maize seedlings. Springer Netherlands. 29, pp. 453.
+2.	Downton WJS, Grant WJR, Robinson SP, 1985. Photosynthetic and stomatal responses of spinach leave to salt stress. Plant Physiology. 77, pp. 85-88.
+3.	Agastian P, Kingsley SJ, Vivekanandan M, 2000. Effect of salinity on photosynthesis and biochemical characteristics in mulberry genotypes. Photosynthetica. 38, pp. 287-290.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+1.28.09+AM.png&Size=112218&Type=image%2Fpng&F=F_3qWKH4TIFxlWKX4
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=51791&Type=image%2Fpng&F=F_1jvTet7ZFQx2X2n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. This is the percent change in absorbances for the absorbance at 0 minutes and 30 minutes. Most showed a slight increase in activity except for the 0mM NaCl sample which was slightly decreased. 
+
+Figure 1. This is the average absorbance of each sample over 30 minutes. There is not a clear difference in the samples until 30 minutes. The sample with the highest absorbance is the no chloroplast sample followed by the 0mM sample, then the 100mM sample, and the 200mM sample.*************************************************************************
+
+
+

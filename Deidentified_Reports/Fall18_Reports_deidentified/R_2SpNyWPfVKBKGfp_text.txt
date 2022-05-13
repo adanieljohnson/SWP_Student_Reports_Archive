@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-25 11:52:02
+Author of this lab report is: Std_MF08cxFt
+ID: R_2SpNyWPfVKBKGfp
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Effect of Salinity on Brassica oleracea var. sabellica Reduction of DCPIP
+
+Abstract:
+This experiment seeks to determine if there is a difference in DCPIP reduction in Brassica oleracea var. sabellica due to a change in sodium chloride concentration. The changes in absorbance were measured using a spectrophotometer and recorded over a thirty minute time period. A lesser percent decrease in absorbance reflects less reduction of DCPIP and therefore less photosynthetic activity. It was hypothesized that greater salinity levels would decrease the reduction of DCPIP. The percent decrease in absorbance calculated over this time period was lowest for the 0.6M NaCl environment; however, the evidence was not statistically significant enough to determine a strong correlation between higher salinity levels and decreased DCPIP reduction.
+
+Introduction:
+Photosynthesis is the cellular process that plants perform in order to synthesize sugar from carbon dioxide and water. In this process, solar energy is captured through the absorbance of photons to begin the electron transport chain. The photons excite the electrons in chlorophyll, thus generating a proton gradient across the inner thylakoid membrane of the chloroplast. This gradient drives the electron transport chain, in which water passes electrons to electron carrier NADP- to form NADPH (reduction). At the end of the chain, photophosphorylation of ADP to produce ATP occurs via the ATP synthase. ATP and NADP are then used to reduce carbon dioxide to produce sugar. The synthesized glucose and oxygen, a key byproduct of this electron transport chain, are inputted into glycolysis to start the process of cellular respiration to produce ATP [Dickson: 2000]. A way in which the rate of electron transfer in chloroplasts can be measured is by using electron acceptor DCPIP. DCPIP is a blue dye with maximum absorbance at 600nm wavelength; when it becomes reduced, it loses its blue pigment and becomes colorless. Therefore, as photosynthesis continues to occur, DCPIP becomes increasingly less colored.  In order to measure the photosynthetic activity of the chloroplasts in kale, Brassica oleracea var. sabellica, DCPIP was added to each tube of solution. Then, using a spectrophotometer, the absorbances of the solutions can be measured to determine to what extent DCPIP is reduced. This experiment seeks to determine the effect of different salinity levels on Brassica oleracea var. sabellica. A previous study found that when placed in a salt medium, pea plants experienced decreased DCPIP reduction [West: 1976].  If salinity levels are increased using sodium chloride, reduction of DCPIP in Brassica oleracea var. sabellica will decrease.
+
+Materials and Methods:
+Four kale leaves were obtained and their central veins were removed. They were rinsed with water and then blotted dry. 10 ml of 400 mM sucrose in Tricine buffer (pH 8.0) was used to grind the kale into a thick paste using a mortar and pestle. An additional 10 ml of grinding buffer was added and grinding was continued. The paste was filtered into a chilled beaker through a cheesecloth and then transferred to a 200 μl microtube on ice. The remainder of the liquid was placed in a 50 ml centrifuge tube; it was then spun for 3 minutes at 200 x G and 4℃. The supernatant was collected in a second chilled 50 ml tube and the solid debris at the bottom was left. The 50 ml tube containing chloroplast suspension was then spun for 10 minutes at 1,000 x G and 4℃. Again, the supernatant was poured into another chilled 50 ml tube without disturbing the pellet. 20 ml of grinding buffer was added to the pellet; it was then suspended by gently stirring using a pipet. 200 μl of the resuspended pellet were then transferred to a microtube and stored on ice. 
+	Ten tubes were obtained; one was the blank control, three were 0M NaCl, three were 0.3 M NaCl, and three were 0.6M NaCl. To the blank tube, 8 ml of deionized water and 2 ml of pH 6.5 reaction buffer were added. To the 0M tubes, 6 ml of deionized water, 2 ml of DCPIP, and 2 ml of pH 6.5 reaction buffer were added. To the 0.3M tubes, 4.5 ml of deionized water, 2 ml of DCPIP, 2 ml of pH 6.5 reaction buffer, and 1.5 ml of 2M NaCl were added. Lastly, to the 0.6 M tubes, 3 ml of deionized water, 2 ml of DCPIP, 2 ml of pH 6.5 reaction buffer, and 3 ml of 2M NaCl. 200uL of the chloroplast concentrate were then added to each tube. Immediately after the contents of the tubes were added, the blank was used to zero the spectrophotometer before measuring the absorbances of the treatment tubes. The wavelength of absorbance for all twelve treatment tubes were measured and recorded. The tubes were then left in light for 10 minutes before recording their absorbances again. This process was repeated after 20 and 30 minutes as well, and the changes in absorbances were calculated after each 10 minute interval. The statistical significance of the difference in percent change in absorbance caused by each salt concentration was determined using an ANOVA test.
+
+
+Results:
+These results show that the 0.6M concentration of NaCl environment had an overall less percent change in absorbance over the 30 minute period than did the 0.0M concentration and 0.3M concentration (Figure 1).  The tubes with a concentration of 0.0M NaCl showed an average of 59.01% ± 14.1 decrease in absorbance over the 30 minute period, and the 0.3M NaCl tubes showed an average of 58.56% ± 8.04 decrease in absorbance -- there was very little difference between the two (Table 1). The tubes with a concentration of 0.6M NaCl displayed a decrease in DCPIP absorbance of 38.87% ± 2.77 (Table 1). The ANOVA test to determine the difference in DCPIP absorbance between salinity levels resulted in a p-value of 0.067. 
+
+Discussion:
+A decrease in DCPIP absorbance is associated with photosynthetic activity. The greater the rate at which DCPIP is being reduced, the greater the percent decrease of absorbance. Therefore, because the 0.6M NaCl environment had the smaller decrease in DCPIP absorbance, it produced the least photosynthetic activity of the three concentrations. However, because the p-value obtained using the ANOVA test was just above the point where it would be determined to be statistically significant (p=0.067), the null hypothesis cannot be rejected. There is a 6.7% chance that this difference in DCPIP absorbance could be due to random chance, and not in fact to the differing salinity levels. 
+This data still displays that there was an observable decrease in reduction of DCPIP in the 0.6M NaCl concentration in comparison to the 0.0M and 0.3M NaCl environments, even if it cannot be deemed statistically significant evidence that greater salt concentration leads to a decrease in DCPIP reduction. It is still likely that this heightened salt molarity could potentially lessen the efficiency of photosynthesis. A previous study stated that salt is suspected to have a direct effect upon processes involved in electron transport and possibly photophosphorylation, which ultimately would decrease the photosynthetic activity and efficiency [El-Sheekh: 2004]. However, this hypothesis was refuted by other studies, one of which concluded that in spinach, increased saline conditions do not result in a major decrease in photosynthetic potential and that photosynthetic rates of the plant could possibly be reduced by other factors such as stomatal closure, inhibiting the uptake of carbon dioxide [Robinson: 1983]. For example, changes in the sea environment due to climate change may result in changing salinity levels of specific areas. This may cause certain sea plants to inhabit environments that they are not accustomed to. Understanding how changes like these could impact the survival of plants is important for scientists to comprehend. Further studies on the photosynthetic activity comparing DCPIP reduction in differing conditions can lead to a better understanding of what conditions can either aid or inhibit plant growth. Greater information regarding this topic can provide the scientific community new ways to manipulate photosynthetic activity to impact overall plant growth. 
+
+Literature Cited:
+1. Dickson, L.G. Encyclopedia Articles: Photosynthesis. Accessed: October, 24, 2018. &lt;http://www.life.illinois.edu/govindjee/encyc/encarta.htm&gt;
+2. West, J., Hill, R. 1964. Carbon Dioxide and the Reduction of Indophenol and Ferricyanide by Chloroplasts. Plant Physiology. 42: 819-826.
+3. El-Sheekh, M. M., 2004. Inhibition of the Water Splitting System by Sodium Chloride Stress in the Green Alga Chlorella Vulgaris. Braz. J. Plant Physiology. 16: 25-27.
+4. Robinson, S. P., Downton, W. J. S., Millhouse, J. A. Photosynthesis and Ion Content of Leaves and Isolated Chloroplasts of Salt-Stressed Spinach. Plant Physiology. 73: 238–242.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+11.50.31+AM.png&Size=44499&Type=image%2Fpng&F=F_30dYP6ktXL8wGlF
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+11.50.52+AM.png&Size=138904&Type=image%2Fpng&F=F_1rrdrLogR5XcVHu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. The mean percent decrease in wavelength absorbance at each time interval for each treatment applied ±1 standard deviation.
+Figure 1. Average percent change in the absorbance of DCPIP using chloroplasts from Brassica oleracea var. sabellica in each salt concentration after 10, 20, and 30 minutes. Error bars represent ±1 standard deviation from the mean.*************************************************************************
+
+
+

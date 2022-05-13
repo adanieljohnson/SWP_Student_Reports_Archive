@@ -1,0 +1,52 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-17 23:01:19
+Author of this lab report is: Std_uauq4zz8
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of 1 mM Lanthanum Chloride on Muscular Response and Twitch Amplitude in the Gastrocnemius Muscle of a Frog Leg
+
+Abstract:
+Effects of 1 mM Lanthanum Chloride on Muscular Response and Twitch Amplitude in the Gastrocnemius Muscle of a Frog Leg. The objective of this investigation was to determine whether Lanthanum Chloride, a calcium blocker, would decrease the strength of muscle contraction of a Rana Pipien’s gastrocnemius muscle. The hypothesis for the experiment is that if we would inject 1mM of our independent variable Lanthanum Chloride, then the dependent variables muscular response and twitch amplitude will be significantly weaker. This was proposed because Lanthanum Chloride is a calcium channel blocker and if Ca2+ is not present then the muscle will not contract since it is a necessary mechanism in the muscles ability to shorten. The procedure for this experiment requires the frog leg to be immobilized and suspended, and then the sciatic nerve is stimulated with the iworx software. In conclusion, we found that there was no statistical difference in the twitch threshold and stimulus response between the control and experimental groups ( 1mM Lathanum Chloride)
+
+Introduction:
+Nerves and muscles allow organisms to quickly sense and respond to their internal and external environments. This ability for animals to have rapid responses in their neuromuscular control is due to a few key steps in the excitation-contraction coupling process. First, action potentials traveling along an axon within a nerve arrive at the neuromuscular junction. Next, depolarization of the neuron causes release of acetylcholine (ACh) from the presynaptic nerve terminal and ACh diffuses to the muscle fiber where it binds with its receptor on the membrane of the muscle fiber, opening sodium channels that generate an action potential in the muscle fiber. Then the action potential spreads throughout the length of the fiber, stimulating the release of Ca2+ from the sarcoplasmic reticulum. Afterwards, the release of Ca2+ activates the contractile mechanism of the muscle fiber. Myosin filaments use energy from ATP cleavage to walk along actin filaments. The movement of millions of myosin heads over and over causes the entire myofibers to shorten. Lastly, a re-uptake of Ca+2 back into the sarcoplasmic reticulum allows the muscle fiber to relax once again. In a case study, the investigators designed an experiment dealing with this process that looked at the effects of Lanthanum on intestinal smooth muscle contraction. They found that Lanthanum inhibited muscle contraction by blocking Ca2+ which prevents the muscle from shortening [Weiss: 1969]. With this being said, we wanted to create an experiment isolating the gastrocnemius muscle of a Rana pipiens’s leg and see what effects Lanthanum Chloride had on muscle contraction. Our hypothesis for the experiment is that if we would inject 1mM of our independent variable Lanthanum Chloride, then the dependent variables muscular response and twitch amplitude will be significantly weaker. We predict this to happen because Lanthanum Chloride is a calcium channel blocker and if Ca2+ is not present then the muscle will not contract. 
+
+Materials and Methods:
+To set up this experiment, acquire a Rana pipien’s leg and peel off the skin. Next, expose the inside of the thigh by pulling on opposite sides of the cleft. This should expose the white sciatic nerve and its accompanying blood vessels. Gently separate the sciatic nerve from the rest of the muscles. Then detach the gastrocnemius muscle from the Tibullus anterior by moving the scissor back and forth between the muscles to clear the connective tissue, and then cut towards the toe detaching the gastrocnemius muscle and keeping the Achilles tendon. Now cut a piece of string approximately 20 cm long; afterwards, tie a knot around the Achilles tendon so that there is loop that can suspend the leg. Hang the leg on the ring stand so that the frog leg is sitting on the tray. Subsequently, pin across the tibia bone and Tibullus anterior to immobilize the leg. After, adjust the string to a 90-degree angle using the precision tension mechanism. Now that the setup is complete the stimulus amplitude can be applied to the nerve. Using the iworx software on the computer, apply a stimulus amplitude of 0.0V and go up in 0.1 V increments until there is a response. The lowest stimulus amplitude that yields a response is the twitch threshold. Record the value that the twitch threshold produces this is the strength of response. After recording this information inject the frog leg with .2 ml of lanthanum chloride using a syringe and wait 10 minutes. After waiting 10 minutes, repeat the stimulation process and collect the twitch threshold and strength of response for the treatment frog leg. Repeat this setup and stimulation process for two more frog legs and record the data. Lastly, a one tailed paired t-test was used to compare the twitch amplitudes of the control frog legs and the twitch amplitudes of the treatment frog legs. Also, a one tailed paired t-test was used to compare the strength of response of the control and treatment groups.
+
+Results:
+Figure 1: The Twitch Threshold measured in Volts with Lanthanum Chloride Treatment (experimental) and without (Control). Error bars represent the standard deviation. Difference between control (n=3) and experimental (n=3) means were not significant (one-tail paired T test, t=1.848, p=.205).
+
+Figure 2: The Stimulus Amplitude measured in Volts with Lanthanum Chloride Treatment (experimental) and without (Control). Error bars represent the standard deviation. Difference between control (n=3) and experimental (n=3) means were not significant (one-tail paired T test, t=.231, p=.838).
+
+  The first graph shows the averages of the twitch amplitudes for the control and experimental groups. The control had a much smaller average twitch amplitude at .137V compared to the experimental average twitch amplitude of .206V. Furthermore, the standard deviation of the control was .068V and experimental standard deviation was .12V which means the control had less variation in its data points then the experimental group. However, even though there was a difference in mean twitch threshold it was no statistically significant because the p-value of .205 was not less than the alpha of .05. The second graph shows the averages of the stimulus amplitude (response) for the control and experimental groups. The control had a greater stimulus response of .415V compared to the experimental average of stimulus response of .397V. In addition, the standard deviations of the two groups were .412V for the control and .520 for the experimental, which means the data points for the control has less variation. However, even though there was a difference in mean twitch threshold it was no statistically significant because the p-value of .838 was not less than the alpha of .05.
+
+
+Discussion:
+After analyzing the results, our hypothesis that if we would inject 1mM of our independent variable Lanthanum Chloride, then the dependent variables muscular response and twitch amplitude will be significantly weaker cannot be statistically supported. The results of the twitch threshold being lower for the control and the stimulus response being greater for the control both fit our prediction, but the difference was not great enough to yield significance. Our results differ from the study performed by Weiss and Goodman because they found that Lanthanum inhibited muscle contraction by blocking Ca2+ which prevents the muscle from shortening [Weiss 1969]; conversely, our results didn’t show any significant difference when Lanthanum Chloride was present. In the future, we do more trials of this experiment testing different concentrations of Lanthanum Chloride to get a better understanding to see if this calcium blocker really results in significantly weaker contractions.
+
+
+Literature Cited:
+GOODMAN, F. R., & WEISS, G. B. (1971). Effects of lanthanum on 45Ca movements and on contractions induced by norepinephrine, histamine and potassium in vascular smooth muscle. Journal of Pharmacology and Experimental Therapeutics, 177(2), 415-425.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chart-7.png&Size=7687&Type=image%2Fpng&F=F_9ALILb7CziLdOnP
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chart-8.png&Size=8487&Type=image%2Fpng&F=F_6M8sOU9zpONcepv
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The Twitch Threshold measured in Volts with Lanthanum Chloride Treatment (experimental) and without (Control). Error bars represent the standard deviation. Difference between control (n=3) and experimental (n=3) means were not significant (one-tail paired T test, t=1.848, p=.205).
+
+Figure 2: The Stimulus Amplitude measured in Volts with Lanthanum Chloride Treatment (experimental) and without (Control). Error bars represent the standard deviation. Difference between control (n=3) and experimental (n=3) means were not significant (one-tail paired T test, t=.231, p=.838).
+
+
+*************************************************************************

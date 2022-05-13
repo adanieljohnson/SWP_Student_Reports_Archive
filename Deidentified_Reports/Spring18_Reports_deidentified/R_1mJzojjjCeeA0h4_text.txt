@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 21:01:38
+Author of this lab report is: Std_kGNQ4PQX
+ID: R_1mJzojjjCeeA0h4
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The effect of Tetraethyl ammonium chloride (K+ Channel Blocker) on tetany of frog leg Gastrocnemius muscle
+
+Abstract:
+Tetany, uncontrolled muscle contraction which leads to seizure, can have severe damage to human body even fatal effect if it is on heart muscle. TEAC, a potassium channel blocker is an effective medicine which relieve the symptom by blocking the potassium ion inside the cell thus increase the relaxation/repolarization period. In this experiment, the effect of TEAC is being tested on frog gastrocnemius muscle because it is easy to obtain and separate the muscle from the bone structure. Two frog legs, the same leg function as both control and treatment group to decrease the variance caused by difference in legs, are being tested on using iWorx software to fire constant stimulus and observe the volume of tetany, relaxation time, and frequency required for tetany. The prediction is that the TEAC treatment group will have longer relaxation time, lower volume and lower frequency. The data collected are analyzed using with in group paired t-test and the result suggest that TEAC only increase the relaxation time but not the frequency of volume of tetany. TEAC can be used as an effective medicine to decrease the symptom of cramp or seizure but the specific dosage and effective time needs further investigation.
+
+
+Introduction:
+Tetraethyl ammonium chloride is a potassium channel blocker which is mainly used in treatment of cardiac arrhythmia, irregular heartbeat (Waller 2013). Muscle movement, contraction and relaxation, is the reason for any voluntary or involuntary movement in the body, and the mechanism of muscle contraction is the depolarization and repolarization of membrane potential in nerve cell which induces the release of acetylcholine, a neuron transmitter which initiate muscle contraction. Potassium, in this case, is in control for the repolarization of nerve cell. The majority of potassium ions lies within the cell membrane so when the electrochemical balance is high, the potassium ion floods out of the membrane through potassium channel to reset the membrane potential to a negative resting potential. Tetraethyl ammonium chloride, a potassium channel blocker, function to predominantly block the potassium channel (Lenz 2000) therefor trapping most of the ion inside the cell membrane and increases the time period of repolarization.  This experiment is going to investigate how tetraethyl ammonium chloride effect the tetany of muscle. Frog leg Gastrocnemius muscle is used for investigation because it is easy to obtain and separate from the bone. Tetany, the state of maximum muscle contraction reached through spatial or temporal summation, is usually a state of involuntary contraction of muscle induced by diseases which decrease the inhibition from neuron, this symptom can be fatal if appeared on the heart muscle. Because tetraethyl ammonium chloride increases muscle relaxation period by prolonging the repolarization period, theoretically, the muscle after injecting the chemicals will contract weaker but reach tetany at a lower stimulation frequency due to the higher membrane potential at the next stimulation compare to the muscle without injection. TEAC reacts rapidly with the muscle upon injection, 5 minutes is enough for the reaction to take place (Haeusler G 1980).  Muscle tetany is going to be reached using iWorx software by constantly firing stimulation at different frequency (Hz), and the volume of muscle contraction, relaxation time for muscle can be obtained through analysis of the myogram.
+
+
+Materials and Methods:
+The experiment uses a within subject comparison model to test the hypothesis that TEAC will decrease the intensity of tetany and allowing muscle to reach tetany at lower stimulation frequency. Altogether 2 frog legs, each leg both used for control and treatment group, are used in this experiment. Using the same frog leg avoid the variation of muscle contraction due to the differences in different frog leg. After peeling the skin and attach the Gastrocnemius muscle in to a strong, the nerve is separated out and attached to the electrode which are connected to the computer. The amplitude for stimulation is 1.5 (Lab 2), and the #pulses is set to zero indicating a constant firing of stimulation, after setting up, pulses are being fired at different Hz starting form 1 and increases by 1 increment per time.   After recording the Contractile Force of tetany, the frequency of stimulation required and the time of relaxation period, stop the firing and inject the muscle with 5 ml of 100mM TEAC at various place through out the muscle, let the muscle sit for 5 minutes. Then run the exact same experiment as above to record the Volume of tetany, the frequency required and the time of relaxation period.
+
+
+Results:
+For both leg, the contraction is visible before the injection of TECA but become transparent upon injection. The relaxation period at 1Hz Frequency increases for both leg, and the volume of tetany decreases for both leg; the frequency at which tetany is almost unchanged in both leg as the difference is small. As shown in figure one, tetany in control group muscle shows a logarithmic curve with a sudden increase and a plain, however, tetany in TEAC treatment group shows a sudden increase and sudden decrease directly after the muscle contraction as shown in figure two.  Because the experiment was down on the same frog leg for both control and treatment group, paired t-test is the chosen statistical analysis. For the relaxation time, there is a significant increase between the control and the TEAC treatment group (df=1, t-stat=59, p =0.0108). For the Maximum contraction of tetany, there is no significant difference (df=a, t-stat=1.36, p=0.404). And for the Frequency of tetany, there is no significant difference (df=1, t-stat=1, p=0.5).
+
+
+Discussion:
+The result of the experiment didn’t support the hypothesis that injection of TEAC will decrease the Volume of tetany and decrease the frequency required, as shown in the statistical test, neither result is significant from each other which suggest that TEAC doesn’t change the frequency or volume of tetany. However, TEAC does effect the relaxation period of the the muscle, increase the relaxation period in both leg by 0.150msec, which is statistically significant suggesting TEAC does have a strong impact on the relaxation frog leg muscle. This finding is further supported by the tetany graph of the TEAC treatment group, as shown in figure 2, the tetany is reached but followed by sudden decrease in muscle activity, suggesting that potassium channel blocker inhibit maximum muscle contraction and force it into relaxation. These findings correspond to a research on potassium relaxation in smooth muscle (Clinton R, 2005). The pig muscle experiment submerges the muscle into potassium fluid and find an increase in relaxation period, both this experiment and our experiment has the same basic mechanism, increase the potassium content in cell body, however, our experiment is more effective and easier to produce because submerge of the muscle requires lots of fluid and the time the chemicals require to enter the cell is much longer while injection is a much more efficient way as explained in introduction.   As time proceed, the muscle starts to fatigue despite being ejected by the TEAC, so the differences in frequency and tetany can be explained by muscle fatigue.   In conclusion, the result of this experiment, despite not supporting the hypothesis, can be used as a reference for TEAC as a chemical to relax uncontrolled muscle contraction, it can be used to reduce the symptom of seizure and cramp after extreme exercise. But in order for TEAC to be function as a commercial medicine, more experiment on the effective dosage and effective time period should be done such as how does the concentration effect muscle tetany, and for how long does the medicine work through injection/oral.
+
+
+Literature Cited:
+1. Waller, Derek G.; Sampson, Tony (2013). Medical Pharmacology and Therapeutics E-Book. Elsevier Health Sciences. p. 144. ISBN 9780702055034.  
+2. Lenz TL, Hilleman DE (July 2000). "Dofetilide, a new class III antiarrhythmic agent". Pharmacotherapy. 20 (7):77686. doi:10.1592/phco.20.9.776.35208. PMID 10907968.  
+3.Haeusler G, Thorens S. 1980. Effects of tetraethylammonium chloride on contractile, membrane and cable properties of rabbit artery muscle  
+4.Clinton R. 2005. Potassium Relaxation of Vascular Smooth Muscle from DOCA Hypertensive Pigs  
+ 5.Johnson AD.  Neuronmuscular Control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers.18.1 (updated May 1, 2018), pp. 17-34
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+8.59.47+PM.png&Size=131571&Type=image%2Fpng&F=F_2du0bM10rqVkH7P
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+8.59.29+PM.png&Size=41386&Type=image%2Fpng&F=F_0uBxEgcOD208MTf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig.1 Tetany in Control group(left) and treatment group (right) 
+Fig.2 Gastrocnemius muscle contraction before and after TEAC
+
+*************************************************************************

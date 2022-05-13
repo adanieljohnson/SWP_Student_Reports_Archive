@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-15 20:25:56
+Author of this lab report is: Std_zcnUO5kw
+ID: R_W3Ap5dVylwHFeuZ
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The change in voltage due to the increased stimulation of the Sciatic Nerve and Gastrocnemius Muscle seen in Rana Pipiens
+
+Abstract:
+The goal of this experiment is to find whether there is a direct connection between increasing Ca+2 by a calcium activator to the voltage it outputs seen on the gastrocnemius muscle on the Rana Pipien. Six trials were conducted in this experiment consisting of three control and three experimental groups to determine if there is a significant change between not having calcium activator to having a calcium activator.  This experiment found no statistical evidence to support this claim, which would require further testing to conclude whether there is a direct connection.
+
+Introduction:
+The Northern Leopard Frog scientifically known as the Rana Pipien, is a mixture of a green and brownish frog with dark round spots on its back. Rana Pipiens are vertebrates, and like most vertebrates and invertebrates, several thousands of myofibrils are needed to create functional groups to maintain its skeletal muscles [Moo 2017]. Skeletal muscles consist of motor neurons which extend and eventually join at neuromuscular junctions, which allows for nerve impulses to be carried out in order to release acetylcholine (ACh). ACh then will bind to a receptor, which opens sodium channels to create action potentials that then spreads through the entire length of muscle fiber.
+
+The muscle is able to shorten when Ca+2 is released from the sarcoplasmic reticulum leading to the activation of the contractile mechanism, which allows for the re-uptake of Ca+2 to enter back into the sarcoplasmic reticulum causing the shortening [Cota 1984]. In this experiment, a myogram was used to detect nerve and muscle changes occurring on a molecular and cellular level. A myogram is a visual recording of all the stages within a single muscle twitch. These recordings are collected by connecting the gastrocnemius muscle to the force transducer and observing the voltage output based on the inputted stimulations (amperes). 
+
+During the myogram, there are three distinct phases: latent, contraction, and relaxation periods. The latent period begins initially until the start of the contraction, which leads to the contraction period. In the contraction period, the muscles shorten due to the changes within the fibers leading to the relaxation period, which allows for the muscle to return to its normal length. Our group isolated the gastrocnemius muscle of the Rana Pipien to test the nerve function of the leg to see the effects of stimulation before reaching tetanus. We hypothesize that an increase in calcium via a calcium activator will increase the voltage of the muscle.
+
+
+Materials and Methods:
+In this experiment, three Rana Pipien legs were used to compare the change of voltage due to a control and experimental group at the gastrocnemius muscle. Each leg was placed in a dissecting pan alongside a pair of tweezers, ringer’s solution, 20mm string, and holding pins. Six trials were conducted, three of which were the control group and the other was the experimental group. The control group received no calcium activator whereas the experimental group used the calcium activator A23187 at a concentration of 100mM. The three legs were first used as the three trial control groups before injecting 0.1mL of concentration for the additional three experimental groups. The paired two-sample T-test was used to compare and analyze the difference between the control and experimental groups to determine whether there is a significant change.
+
+Results:
+The two-sample T statistical test was used to compare the voltage outputted by the control and experimental group (with calcium activator). This data was entered into an excel spreadsheet that was then summarized by finding the mean value of each specific stimulus within all three trials (three being the control, the other three being the experimental). Notable observations included the varying sensitivity between each leg. Leg #1 was extremely sensitive compared to Leg #2 and Leg #3. Notable general trends showed a slight decrease in voltage output after adding the calcium activator in Leg #3 and #2. Leg #1 showed a slight increase or constant voltage output after adding the calcium activator.
+
+
+Discussion:
+In our experiment, our group hypothesized that the addition of a calcium activator, A23187 would cause a dramatic increase in voltage outputs compared to receiving no calcium activator. Our null hypothesis was rejected indicating that there was no statistical data that could support our hypothesis. The p-value was found using the two-sample t-test was 0.188, which is not significant to concluding that adding a calcium activator will increase the voltage output. 
+
+One of the reasons that contributes to our data not being statistically significant is that our control groups varied significantly between each other. The results of each control group could be due to the sensitivity that was observed between each legs. The more sensitive legs (Leg #1 and slightly Leg #2) were more responsive in leading more consistent values whereas Leg #3 was less responsive. This could be due to human error of slightly misplacing the force transducer on the gastrocnemius muscle, which could have yielded different results. Another human error could be not effectively using the Ringer’s solution when needed. Leg #3 was the final leg to be tested, and we probably did not use the Ringer’s solution on the leg until it was time to hook it to the transducers. 
+
+If this experiment were to be replicated, the legs chosen should have similar control groups before adding the calcium activator. This will provide favorable results in order to draw a correlation between whether or not the calcium activator will increase the voltage output. Also, it would be helpful to have three people conducting the trials on the myogram simultaneously. This will reduce the chances of legs being dehydrated from the lack in Ringer’s solution. Future areas of study should consider whether the calcium activator injection concentration can be increased or decreased to find if there is an optimal concentration of Ca+2 that will affect the voltage in the experiment group [Cota 1984].
+
+
+Literature Cited:
+Moo, Eng Kuan, et al. “In Vivo Muscle Force and Muscle Power during Near-Maximal Frog Jumps.” PLoS ONE, vol. 12, no. 3, Mar. 2017. PubMed Central, doi:10.1371/journal.pone.0173415.
+
+Cota, G., et al. “Calcium Channel Inactivation in Frog (Rana Pipiens and Rana Moctezuma) Skeletal Muscle Fibres.” The Journal of Physiology, vol. 354, Sept. 1984, pp. 99–108.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Image+3-15-19+at+8.24+PM.jpg&Size=32171&Type=image%2Fjpeg&F=F_2TtSjfkVV7iaH5V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure I: This line graph displays the mean voltage output for all six trials from 0 amps to 4 amperes. *************************************************************************
+
+
+

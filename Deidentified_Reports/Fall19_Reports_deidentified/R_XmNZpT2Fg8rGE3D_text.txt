@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-29 17:32:23
+Author of this lab report is: Std_ZguLcTp9
+ID: R_XmNZpT2Fg8rGE3D
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: Effect of High Temperatures on Chloroplast Activity of Spinacia Oleracea
+
+Abstract:
+To perform certain functions and survive, organisms need to generate and store energy. Plants utilize photosynthesis to absorb the photons from sunlight and convert the light energy into glucose. Environmental factors that alter oxidation/reduction reaction rates within the photosystems of chloroplasts will alter overall photosynthetic rates in plants, which drastically affects plant growth. In our lab, we measured spinach PS-II activity at different temperatures. We hypothesized that at hot temperatures, photosystem II activity of spinach chloroplasts would be reduced. 3 test tubes were used for hot temperature assays, and 3 for room temperature assays, and one blank. Enriched chloroplasts after centrifugation of ground spinach leaves were added to the test tubes containing electron acceptor DCIP and buffers and their absorbances were measured in 10-minute intervals for 30 minutes. An ANOVA test was used to determine significance in difference between means. It was found that mean percent changes in absorbance at room temperature were much higher than those at hot temperatures, with significant differences in them. Our hypothesis was supported, because heat may damage the photosystem’s components and acceptors and was supported by a study on warming effects on plant diversity.
+
+Introduction:
+To perform certain functions and survive, organisms need to generate and store energy. Organisms can obtain energy through the consumption of animals or produce their own energy sources. Autotrophs like plants, some protists, and photosynthetic bacteria utilize photosynthesis to absorb the photons from sunlight and convert the light energy into chemical, or glucose. To proceed forward, photosynthesis depends on light-dependent and light-independent reactions. Light-dependent reactions involve Photosystem II and Photosystem I, which are responsible for energizing electrons and activating certain molecules that create a proton gradient. In photosystem II, the excited electrons reduce plastoquinone and the hydrolysis of water drives the electrons from the plastoquinone to cytochrome b6f, which in turn transfers the electrons to plantacyanin where a proton gradient is established [Mühlbauer: 1998]. Photosystem I involves the transfer of electrons, reduction of NADP to NADPH, and the creation of a proton gradient. The light-independent reaction uptakes carbon from the atmosphere using Rubisco (RuBP) and uses the activated molecules from the light-dependent reaction to create glucose. The efficiency of these reactions helps to determine the chloroplast activity of an autotroph organism [Mühlbauer: 1998].
+    Any environmental factors that alter oxidation/reduction reaction rates within the said photosystems will alter overall photosynthetic rates in plants, which drastically affects plant growth. Therefore, it is our duty to determine which environmental factors affect these redox reactions. Previous experiments have been done to test this, and one experiment, for example, was carried on a species of interest: the Spinacea Oleracea, also known as spinach, and it was found that when its chloroplasts were put in the dark away from any light, the rate of electron transport from photosystem II to electron acceptor DCIP was reduced, thus its photosynthetic rates were reduced in light of the fact that there was no light energy to excite the electrons in photosystem II to be accepted by DCIP to keep the process going efficiently [Bohning: 1956]. In order to measure the activity of the chloroplasts, the activity in Photosystem II can be observed by using an alternative electron acceptor. The alternative electron acceptor can determine whether a substance is reduced or not, through the process of a Hill reaction. An example of an alternative electron acceptor is 2,6-dichlorophenol indophenol (DCIP). DCIP is an aromatic, blue compound that absorbs light at 600 nm. The absorption leads to the dissociation of double-bonded carbon atoms, causing the molecules to become colorless. The color loss can allow for the measurement of DCIP reduction, as seen in the decreased levels of absorbance.
+    In our lab, we measured the same plant species’ photosystem II activity, but in a different environmental factor: temperature. This is especially important for understanding climate change and its long term effects on plants’ photosynthetic and growth rates. Increases in temperature generally increase plant photosynthetic rates; however, extreme temperatures can be harmful when beyond the physiological limits of a plant which will eventually lead to higher desiccation rates [Du: 2011]. Subsequently, we hypothesized that at hot temperatures, photosystem II activity of spinach chloroplasts would be reduced because it may damage the photosystem’s components and acceptors and denature enzymes along the way, thus reduces photosynthetic rates [Mathur: 2011].
+
+Materials and Methods:
+First, a mortar and pestle, a medium sized-beaker, and 50 mL centrifuge tubes were packed into crushed ice to cool. While the mortar and pestle cooled, the central veins of four medium-sized spinach leaves were removed, and the spinach leaves were placed in the mortar and pestle. The leaves were ground with 10 mL of grinding buffer, pH of 8. The solution was ground until it became a paste. The solution was filtered through a cheesecloth and was poured into a centrifuge to be spun twice in order to remove as much debris as possible to obtain a sample of only enriched chloroplasts. Then, seven test tubes were labeled and set aside. The first test tube was a blank which contained 8 mL of water, no DCIP, and 2 mL of reaction buffer. The next three test tubes were labeled “hot” and contained 8 mL of water, 2 mL DCIP, and 2 mL of reaction buffer. The next three were labeled “room temp” and contained 8 mL of water, 2 mL DCIP, and 2 mL of reaction buffer. After the assays were created, 100 microliters of enriched chloroplasts were added to all test tubes, except the blank. The assays absorbances’ were measured by a spectrophotometer at a wavelength of 600 nm. Afterward, the assay solutions from the “hot” test tubes were placed in a hot water bath (45℃) and lamp for 10 minutes, and the rest were placed under a lamp at room temperature for 10 minutes and the absorbances were measured again. The process was repeated twice. A one-way analysis of variance (ANOVA) test was used to determine the statistical significance of the means between the groups at their respective time intervals.
+
+Results:
+The results of the experiment are outlined in the figure as follows. Throughout the experiment, the absorbances for the room temperature test tubes drastically decreased, indicated by the increasing mean percent change in their absorbances. The absorbances for the hot temperature test tubes remained consistent and did not fluctuate as compared to the room temperature test tubes. The reported averages and standard deviations for the room temperature group were 7.00 +/- 2.08 after 10 minutes, 15.24 +/- 3.12 after 20 minutes, and 27.09 +/- 3.13 after 30 minutes (Figure 1). The reported averages and standard deviations for the hot group were 0.56 +/- 0.36 after 10 minutes, 1.06 +/- 0.34 after 20 minutes, and 1.54 +/- 0.53 after 30 minutes (Figure 1). Additionally, the ANOVA test determined that there was a significant difference (P = 0.012) in the mean percent changes of both groups at all time intervals.
+
+Discussion:
+After experimenting on Spinacea oleracea and collecting data, we concluded from the fact that the activity of photosystem II was functioning efficiently at room temperature (color loss of DCIP → decreased absorbance → increased photosynthetic rates) as opposed to that at hot temperatures, along with statistically significant differences in their means, that our hypothesis was supported, and the null hypothesis was rejected respectively. This could be because spinach, considered to be a cool-weather crop, responded negatively to hot conditions: high temperature injured the function of the donor and acceptor sides in the photosystem II of photosynthetic apparatus (electrons could not be excited to a higher energy state and be accepted by 2,6-Dichlorophenolindophenol), leading to the decrease of photosynthetic efficiency, and being one of the main mechanisms for the damage of photosynthetic apparatus in spinach leaves under high-temperature stress [Du: 2011]. This conclusion is supported by a study on an important environmental topic: climate change. In the United States and most other parts of planet Earth, average temperatures are increasing very slowly and are projected to continue to rise at a rapid rate. This could potentially prove to be detrimental to certain plant growths and biodiversity as a whole [Wolkovich: 2012]. Our experiment done on Spinacea Oleracea could potentially demonstrate how serious global warming and climate change are. For that reason, actions must be taken to prevent global warming such as reducing the emission of greenhouse gases into the atmosphere, buying energy-efficient appliances and automobiles, etc. In addition, future experiments have the potential to be performed on how plants could continue to grow normally in somewhat extreme temperatures.
+
+Literature Cited:
+Mühlbauer, Stefan Klaus, and Lutz Andreas Eichacker. “Light-Dependent Formation of the Photosynthetic Proton Gradient Regulates Translation Elongation in Chloroplasts.” Journal of Biological Chemistry, vol. 273, no. 33, Aug. 1998, pp. 20935–40.
+   Bohning, R. H., and Christel A. Burnside. “The Effect of Light Intensity on Rate of Apparent Photosynthesis in Leaves of Sun and Shade Plants.” American Journal of Botany, vol. 43, no. 8, 1956, pp. 557–61.
+   Du, Guo-dong, et al. “[Effects of high temperature on leaf photosynthetic characteristics and photosystem II photochemical activity of kernel-used apricot].” Ying Yong Sheng Tai Xue Bao = The Journal of Applied Ecology, vol. 22, no. 3, Mar. 2011, pp. 701–06.
+   Mathur, S., et al. “Effects of High Temperature and Low PH on Photosystem 2 Photochemistry in Spinach Thylakoid Membranes.” Biologia Plantarum, vol. 55, no. 4, Oct. 2011, p. 747.
+   Wolkovich, E. M., et al. “Warming Experiments Underpredict Plant Phenological Responses to Climate Change.” Nature, vol. 485, no. 7399, May 2012, pp. 494–97.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+3.46.25+PM.png&Size=47571&Type=image%2Fpng&F=F_3F4YXeGww9fSWug
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Effect of different temperature conditions on photosystem II activity of spinach leaves' chloroplasts. Each marker is mean percent change in spectrophotometer absorbance values of 3 replicates from each group. After treating the groups respectively with hot water bath and room temperature conditions and measuring absorbance at 10-minute intervals for 30 minutes, the mean percent changes in absorbance of the assay solutions from the room temperature group were 7.00 after 10 minutes, 15.24 after 20 minutes, and 17.09 after 30 minutes. On the other hand, those of the hot temperature group were 0.56 after 10 minutes, 1.06 after 20 minutes, and 1.54 after 30 minutes. Error bars are +/- 2.08 for the room temperature group after 10 minutes, +/- 3.12 after 20 minutes, and +/- 3.13 after 30 minutes. Error bars are +/- 0.36 for the hot temperature group after 10 minutes, +/- 1.06 after 20 minutes, and +/- 1.54 after 30 minutes.*************************************************************************
+
+
+

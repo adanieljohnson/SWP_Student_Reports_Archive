@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 12:21:02
+Author of this lab report is: Std_Efcbed1W
+ID: R_2xRBDXfJPlep9o2
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The Effects of Lidocaine on the Threshold of the Contraction of the Rana pipens Gastrocnemius Muscle
+
+Abstract:
+In this experiment, we tested the effects of Lidocaine on the threshold of the gastrocnemius muscle of the Rana pipiens. The Rana pipiens is a species of frog that, like all vertebrate animals, relies on Na+ to trigger contraction of the skeletal muscle. In order to test the importance of Na+ in the threshold for muscle contraction, three legs were injected with Lidocaine, and we determined the threshold before and after the injection. The main hypothesis of this experiment was that the gastrocnemius muscles would have a much larger threshold for contraction after the injection of Lidocaine compared to before. We measured the effects of this drug using iWorx data system. We found that in general that the thresholds were higher after the injection, however our data was not statistically significant, so our hypothesis was not supported. This experiment is important in showing the tendency of Lidocaine to increase the threshold for skeletal muscle contraction.
+
+Introduction:
+The Rana pipiens, like all vertebrates, utilizes skeletal muscles in order to move its body and perform the activities necessary for survival. Skeletal muscles contract using a system involving actin and myosin, which are proteins that slide to cause the muscle to shorten. Skeletal muscles are innervated by motor neurons, which extend into the muscle and innervate myofibers in the muscle. This synapse is called the neuromuscular junction. A nerve stimulates muscle contraction through excitation-contraction coupling. This process occurs when an action potential arrives to the motor neuron, which triggers the opening of Na+ channels. This causes depolarization, which causes the voltage gated Ca2+ channels to open and release Ca2+ into the cell. The Ca2+ triggers the fusion of acetylcholine vesicles with the presynaptic membrane. Acetylcholine enters into the neuromuscular junction and binds to receptors on the muscle cell. This depolarizes the muscle fibers, which opens the K+ channels, which further depolarizes the cell. This triggers the opening of the voltage-gated calcium channels. Ca2+ activates the myosin and actin to slide to shorten the muscle. In order for a muscle to contract, it is necessary for a large amount of depolarization to occur. If there is not enough depolarization, the muscle will not reach its threshold and the muscle will not contract. 
+	Lidocaine is a drug that blocks Na+ voltage-gated channels. This inhibits Na+ from entering into the motor neuron, which prevents the Ca2+ channels from opening, which inhibits the acetylcholine from going into the neuromuscular junction, which could affect the entire system of muscle contraction. In order to determine the impact of blocking Na+ voltage-gated channels, we need to isolate a muscle and determine the minimum threshold required for muscle contraction. In this experiment, the independent variable is whether or not Lidocaine was injected into the leg, and the dependent variable is the minimum stimulus necessary for contraction to occur. 
+In conducting this experiment, we will determine if the blocking the Na+ voltage-gated channels with Lidocaine will influence the threshold of muscle contraction. We are asking this in order to get a better understanding of the impact of Na+ voltage-gated channels in the skeletal muscles of the Rana pipiens, which could give insight to the functioning of skeletal muscles in the human body as well. It is predicted that when the frog leg is injected with Lidocaine, the leg will require a higher simulation voltage, meaning the threshold is higher. 
+
+
+Materials and Methods:
+In order to conduct this experiment, three Rana pipiens legs were prepared with frog ringer solution. This is important in order to keep the leg hydrated, which allows the muscle to contract properly. The skin of the frog was pulled down its leg, towards its feet in order to expose the gastrocnemius muscle and sciatic nerve. Its thigh was then gently separated so that the sciatic nerve was visible. Next, the gastrocnemius muscle was separated from the rest of the leg and the achilles muscle was cut. A string was then tied around the gastrocnemius muscle and onto the force detector. The leg was then pinned to the dissection tray, leaving the gastrocnemius muscle at a 90° angle to the tray. The two pin electrodes were then laid on the sciatic nerve and the probes were pinned in place. We then conducted three trials in order to determine the minimum stimulation voltage required in order to generate a contraction. We determined the minimum voltage to be the threshold. We measured the strength of the contractions as well. Then, the gastrocnemius muscle was injected with 0.1 mL of 20mM Lidocaine. It was injected partly at the top of the muscle, partly at the bottom, and one drop was placed on the sciatic nerve. The frog was left for five minutes in order for the Lidocaine to thoroughly spread throughout the leg. We then conducted three more trials using iWorx data system to determine the new threshold for muscle contraction. We then completed the entire process above with two different legs. At the end of the experiment, a Paired t-test and standard deviation was used to analyze the data and determine statistical significance.
+
+
+Results:
+
+The results from this experiment and the subsequent statistical testing reveal a trend in our data when comparing before the Lidocaine was injected and after. As seen from Figure 1, the average threshold was greater in the experimental group (1.83 ± 1.37 V) compared to the control group (0.194 ± 0.11 V) (Figure 1). We also determined that the difference between the average control and experimental threshold was 1.64 ± 0.11 V (Figure 1). Table 1 shows that the average threshold of each leg was higher after the injection of Lidocaine as compared to before. In the first leg, the average control threshold (0.11± 0.00) was lower than the average threshold after the lidocaine was injected (1.05 ± 0.007) (Table 1). In the second leg, the average control threshold (0.33 ± 0.007) was also lower than the average threshold after the lidocaine was injected (1.03 ± 0.212) (Table 1). In the third leg, the average control threshold (0.143 ± 0.007) was again lower than the average threshold after the lidocaine was injected (3.41 ± 0.00) (Table 1). 
+Although the average threshold of all legs and the average threshold of each individual leg is higher for the experimental group, as shown from Table 2, the difference was not significant (p-value= 0.183, t-value=2.003).
+
+
+Discussion:
+Our hypothesis was not fully supported from this experiment because the difference in thresholds before and after the injection of the Lidocaine was not statistically significant. Although it was not fully supported, there still appears to be a tendency of the threshold of the contraction of the gastrocnemius muscle to increase after the injection of Lidocaine. This can be seen in Figure 1, where the control group average threshold is much lower than the experimental group. Something that skewed our data was that when injecting the third leg with Lidocaine, there was speculation as to whether or not the syringe was actually inside the muscle, so we injected the muscle again with Lidocaine. As visible in Table 1, our average experimental threshold for this leg was much larger than for the other two legs (3.41 vs 1.033 and 1.053). This increased the variability in the experimental group, which affected both our p-value and t-value. 
+A 1974 study in which researchers determined the effects of a sodium deficient Rana pipiens muscle, and then the effects of the subsequent addition of caffeine shows a similar trend. When they injected sodium blocker into the muscle, they noted a complete inability of the muscle to contract [Chapman, Miller: 1974]. A follow up study could be to repeat this study, however ensure that the Lidocaine was only injected into the leg once. Additionally, we could test the effects of differing levels of Lidocaine injected into the gastrocnemius muscle of the rana pipiens. We could also test the effects of injecting Lidocaine into cardiac muscle. This information is important because it reveals a tendency of Lidocaine to decrease the contraction threshold of the gastrocnemius muscle. This could give clarity to the importance of Na+ channels in muscle movement and also give insight on how increased levels of Lidocaine could possibly prevent all movement. Lastly, because most muscle systems are similar to that of the Rana pipiens, this experiment is very useful in giving insight into the muscle functioning of not only a single species, but many of them.
+
+
+Literature Cited:
+Johnson AD. Hormone regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston - Salem, NC. 18.1: 6-13.
+Chapman R. A., Miller D. J. “The Effects of Caffeine on the Contraction of the Frog Heart”. J Physiol, vol. 242, 1974, pp.589-613.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+12.19.28+PM.png&Size=32484&Type=image%2Fpng&F=F_tVyRmHuq8ecV6JH
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+12.19.32+PM.png&Size=14969&Type=image%2Fpng&F=F_3lDJl4rJFvKzM4B
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+12.19.40+PM.png&Size=101588&Type=image%2Fpng&F=F_3k4YkU2wQ9DPYxG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. The average and standard deviation control and experimental contraction thresholds of the three different legs, and the average difference between the control and experimental groups. Also contains p-value and t-value, which are the results of the paired t-test. 
+Table 2.  The results from the statistical tests, the p-value and paired t-test value.
+Figure 1. Average threshold for contraction of the control and the experimental groups. The whiskers represent the standard deviations of the averages.
+
+
+*************************************************************************

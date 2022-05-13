@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 17:13:05
+Author of this lab report is: Std_YE1NbQa4 
+ID: R_3MPEj2f0rknsM6P
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The effect of injecting a 2% Sevin solution into the gastrocnemius muscle of Rana Pipien on the threshold amplitude of the muscle 
+
+Abstract:
+The effect of an insecticide on different organisms is important when deciding whether regular use of this insecticide should be allowed. Sevin, an insecticide containing Carbaryl, is a widely used insecticide that could have potentially harmful effects on the ecosystem. In this experiment, the effect of Carbaryl as an Acetylcholinesterase (AChE) was tested by comparing the minimum average threshold of a gastrocnemius muscle of a Rana Pipien with a 2% Sevin solution injected with the average minimum threshold of a regular gastrocnemius muscle of a Rana Pipien. The hypothesis that the gastrocnemius muscle injected with the 2% Sevin solution would have a higher threshold was supported because it had a threshold of .293333333+/.07023769 volts while the regular gastrocnemius muscle had a threshold of .15667+/-.03214555 volts. The p-value calculated was .037622, indicating that the data found was significant. These findings continue to paint a broader picture of carbamate insecticides and how they could potentially affect the living organisms that they inadvertently target. 
+
+Introduction:
+This experiment tests the minimum voltage needed to illicit a contraction in the Gastrocnemius muscle in Rana Pipiens. This minimum voltage needed to illicit a contraction is called the threshold. The contractions of the muscle are the result of motor neurons binding to muscles in the neuromuscular system. The neuromuscular system allows organisms to respond to their environment within milliseconds. The somatic neuromuscular system involves skeletal muscle which consists of myofibers. Motor neurons innervate skeletal muscles by attaching to the neuromuscular junctions, ultimately stimulating muscle contraction. When motor neurons attach to the muscle, Acetylcholine (ACH) is released and binds to the Acetylcholine receptors on the muscle. When Acetylcholine (ACH) binds, Calcium (Ca2+) is released from the sarcoplasmic reticulum, creating an action potential. This ultimately causes the muscle to contract. This process can be altered by a variety of drugs such as Sevin. Sevin is an insecticide that contains Carbaryl, which inhibits Acetylcholinesterase (AChE) and commonly used in agriculture [Zinkl: 1987]. Under normal circumstances, after Acetylcholine (ACH) binds to its receptor, Acetylcholinesterase (AChE) breaks it down into Acetate and Choline. When carbaryl, a molecule that resembles Acetylcholine, binds to the Acetylcholinesterase (AChE), it prevents Acetylcholine (ACH) from being able to be broken down by the enzyme [Extension Toxicology Netowrk: 1993]. Because of this, the Acetylcholine (ACH) will remain in the Acetylcholine (ACH) receptor, preventing any other Acetylcholine (ACH) molecule from binding to the receptor and creating a larger action potential [Extension Toxicology Network: 1993]. This causes a buildup of Acetylcholine (ACH) in the synapse. The excess Acetylcholine (ACH) molecules then bind to receptors in the presynaptic neuron, causing the neuron to stop producing more Acetylcholine [Extension Toxicology Network: 1993]. Injecting the Rana Pipien legs in the gastrocnemius muscle with a .2 mL of a 2% solution of Sevin will result in a higher threshold (V). This is because the Carbaryl in Sevin slows down the binding and breaking down of Acetylcholine (ACH), resulting in a lower action potential. More voltage is required to illicit the same response from the muscle because the action potential is lower than that of a normal muscle. 
+
+Materials and Methods:
+The steps for preparing the Rana Pipiens’ gastrocnemius muscle were followed in order to begin the experiment. After this, the twitch threshold could be determined using direct stimulation of the gastrocnemius muscle. The program was used to deliver a .01 V shock directly to the gastrocnemius muscle and the muscle reaction was recorded. The shock amplitude was then increased by .01 V increments until a muscle twitch in observed. This initial muscle twitch was recorded as the threshold. Then, the gastrocnemius muscle of the same frog was injected with .2 mL of the 2% Sevin solution. The gastrocnemius muscle was then directly shocked with an amplitude of .01 V. The amplitude was increased by .01 V increments until the initial muscle twitch was observed. The amplitude for that threshold was then recorded. These steps were repeated for two more frogs and the threshold voltages were recorded both with and without the presence of Sevin. Then, a paired t-test was conducted in order to compare the average threshold with and without the 2% Sevin. The presence of 2% Sevin solution in the experiment was the independent variable and the resulting threshold voltage was the dependent variable. 
+
+Results:
+In this experiment, the threshold, or the minimum voltage required for a muscle response, was calculated through an observable twitch in the gastrocnemius muscle. One observational difference that occurred with the group that had been injected with .2 mL of the 2% Sevin solution was that the muscle did not react to any amplitude at first. In order to see any result, the muscle had to be shocked with an amplitude of 5 V. Then, the shocks were decreased to see the minimum threshold that resulted in a muscle twitch. A paired t-test was conducted because two sets of data were being taken from the same frog: the threshold for a single frog before the injection of a 2% Sevin solution and after. The average threshold for the frogs with 0 mL of the 2% Sevin solution injected was about .15667+/-.0321455 (figure 2). The average threshold for the frogs with .2 mL of the 2% Sevin solution injected was about .29333+/-.07023769 (figure 2). A two-tailed p-value was calculated to be .037622. A two-tailed p-value was used because the data was not collected over time. The t-value was calculated to be 5.008947. The degrees of freedom, which measures how many variables can be subject to change, was determined to be 2. 
+
+Discussion:
+The hypothesis that injecting the Rana Pipien legs in the gastrocnemius muscle with a .2 mL of a 2% solution of Sevin will result in a higher threshold (V) was supported because there was a significant difference between the control and experimental group, with an average of .293333333+/-.07023769 volts when the muscle was injected with Sevin and only an average of .15667+/-.03214555 when the muscle did not contain Sevin. This means that the null hypothesis that injecting a 2% solution of Sevin would have no effect on the threshold was rejected. The two-tailed p-value found was less than .05 and the standard deviations did not overlap, meaning that the data collected during this experiment was significant. This means that there is a high likelihood that the difference found was not due to chance. Because the data was significant, it can be inferred that the presence of Carbaryl in the form of Sevin in the neuromuscular junction requires a higher minimum voltage to obtain the same twitch as a muscle that was not injected. This occurred because the binding and breaking down of Acetylcholine (ACH) was slowed down by the binding of Carbaryl to the Acetylcholinesterase (AChE). If the organism was alive when injected with the Carbaryl, there would have been a drastically different result. The electrical impulse continues to fire until it is limited by acetylcholinesterase (AChE) [Extension Toxicology Network: 1993]. If the Acetylcholinesterase (AChE) is inhibited, it cannot limit the firing of electrical impulses, resulting in uncontrolled muscle twitches and sometimes even death [Extension Toxicology Network: 1993]. This is concerning because carbamates such as Carbaryl-containing Sevin are some of the most popular insecticides used for pest control [Zinkl: 1987]. According to previous studies, Carbaryl and other pesticides are present in both freshwater ecosystems due to runoff and chemical spills [Eichelberger: 1971] and even in some of the food that humans consume [Johnson: 1963]. While the small amounts in food and water may not be lethal to humans, many other fish, amphibians, and small mammals are put at risk as a result. In order to determine the true danger of carbamates, especially Carbaryl, more studies have to be conducted on smaller animals living in the ecosystems that are affected. 
+
+Literature Cited:
+Extension Toxicology Network. 1993. Cholinesterase Inhibition. http://pmep.cce.cornell.edu/profiles/extoxnet/TIB/cholinesterase.html. 
+
+Zinkl, J.G., Shea, P.J., Nakamoto, R.J., Callman, J. 1987. Brain Cholinesterase Activity of Rainbow Trout Poisoned by Carbaryl. Environmental Contamination and Toxicology. 38: 29-35. 
+
+Johnson, D.P., Critchfield, F.E., Arthur, B.W. 1963. Determination of Sevin Insecticide and Its Metabolites in Poultry Tissues and Eggs. Insecticide Residues in Meat and Eggs. 11: 77-80. 
+
+Eichelberger, J.W., Lichtenberg, J.J. 1971. Persistence of Pesticides in River Water. 5: 541-544. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-19+at+5.11.48+PM.png&Size=18209&Type=image%2Fpng&F=F_2TKImk7uEtrfO7s
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-19+at+5.12.09+PM.png&Size=11221&Type=image%2Fpng&F=F_3Rg6F4ARHd3qnVS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The effect injecting 2% Sevin solution into the gastrocnemius muscle of Rana Pipiens has on the average threshold (V)
+Figure 2: Calculated Average Minimum Threshold prior to and after injection of 2% mL of Sevin solution *************************************************************************
+
+
+

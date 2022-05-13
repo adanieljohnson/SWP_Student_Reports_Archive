@@ -1,0 +1,100 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-24 04:09:31
+Author of this lab report is: Std_9ljrz3p4
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The affects of high and low temperatures on photosystem II in Brassica oleracea and Ocimum basilicum.
+
+Abstract:
+It is currently debated how much of an effect temperature has on the light-dependent reactions in photosynthesis. We sought to explore this by running Hill Reactions at high, low, and room temperatures on kale, a temperature resistant plant and basil, a temperature sensitive plant. A spectrometer was used to measure the absorbance of each trial over the course of half an hour in order to determine the rate of photosynthesis. Or results support that photosystem II in kale did seem to be affected by temperature, but we were unable to fully support our hypothesis due to an experimental flaw in the basil groups.
+
+Introduction:
+When considering environmental factors affecting photosynthesis, sunlight is the most obvious variable often explored. However, there are many other factors which contribute to the process, many of which have not yet been tested enough that we fully understand their consequences. In this experiment, we sought to test air temperature and its effect on photosynthesis. 
+
+Many previous studies have already demonstrated temperature to have significant effects on plant growth. Both abnormally warm and cold temperatures have the ability to inhibit photosynthesis [Ivanov:2017; Rodriguez:2015]. In these experiments, plants were raised over several weeks and their growth was used to determine temperature’s effect on their ability to photosynthesize. What this technique fails to answer, however, is which specific aspect of photosynthesis is being inhibited. 
+
+Some research has suggested that temperature only affects the light-independent reactions involved in photosynthesis 
+[Markings:2017]. These experiments argue that the inhibition is purely due to enzymatic reactions being either slowed down by cooler temperatures or stopped due to denaturation of proteins at high temperatures. However, some recent studies have suggested that temperature may not solely affect light-independent reactions, but it may also have some effect on photosystems I and II [Ivanov:2017]. 
+
+For our model systems, we sought out two plants we anticipated would react differently to temperature stressors. We chose Brassica oleracea (kale) for or our temperature resistant sample which, due to its biennial life cycle, is particularly fit to deal with seasonal changes and has been observed to display temperature resistant nature in previous experiments [Rodriguez:2015, Arnison:1990]. For a temperature sensitive sample, we used Ocimum basilicum (basil) which has been shown to react to temperature changes [Kalisz:2016]. In using these two different samples, our experiment sought to both 1) determine if light-dependent reactions are affected by difference in temperature and to 2) see if these effects differ between plants considered temperature resistant and temperature dependent. 
+
+Current research has shown that temperatures over 40°C almost completely inhibit photosynthesis while cooler temperatures (between 0 and 10°C) inhibit photosynthesis, but to a lesser degree [Markings:2017]. To measure the rate of photosynthesis, we employed the Hill Reaction, which utilizes 2,6-diclorophenol indophenol (DCPIP), to measure the rate at which ATP is produced in the chloroplasts. In this reaction, DCPIP replaces the proton acceptor NADP+. The typically blue DCPIP accepts protons after they pass through ATP synthase, turning into DCPIPH¬2 and becoming colorless [Johnson:2015]. This allows us to use a spectrometer in order to measure the amount of DCPIP present as it is converted to DCPIPH2.
+ 
+Based on current research suggesting temperature’s possible effects on photosystem II and our knowledge of how kale and basil typically react to abnormally high and low temperatures, we expected 1) for each plant to show significant a decrease in photosynthetic rate at high and cold temperatures when compared to room temperature and for 2) basil to have a more drastic reaction than the temperature resistant kale. 
+
+
+Materials and Methods:
+In order to carry out the Hill Reaction, we needed first to create a paste containing the chloroplasts of each plant. We did this by grinding 4 leaves of each with their own mortar and pestle and 20mL of a cold grinding buffer of 400mM sucrose with tricine, an 8.0pH buffer. The paste was then strained through three layers of cheesecloth and placed into a chilled beaker. 
+
+A centrifuge was run twice, first for 3 minutes at 1200rpm and at 4°C and secondly for 10 minutes at 2800rpm at 4°C in order to isolate the pellet, in this case the chloroplasts from the supernatant. The pellet was then extracted and suspended in 20mL of grinding buffer to create our trial solution.
+
+After the solutions were prepared, they were separated into their corresponding test tubes. For each condition, Kale Cold, Basil Cold, Kale Room, Basil Room, Kale Hot, and Basil Hot, we ran three test tubes. Each test tube contained 6mL of water, 2mL 130mM DCPIP, and 100µL of its respective chloroplast, except for three tubes which served as controls at room temperature and thus contained no chloroplasts. 
+
+The spectrometer was set to 600nM and blanked before each test tube was run to obtain a time-zero absorbance. Each test tube was then placed in its respective condition. The cold tubes were placed in an ice bath with a thermometer that read 0°C and the hot tubes placed in a hot water bath set to 45°C. Each test tube’s absorbance was recorded every 10 minutes. 
+
+After all data was collected, a one-tailed ANOVA test was used to determine statistical significance while a Tukey-Kramer post hoc test identified which experimental groups showed significant difference from one another. Particularly, we sought to see how absorbance at cold and hot temperatures differed from the room temperature of each type of plant. 
+
+
+Results:
+ A statistically significant difference between groups as determined by one-way ANOVA (F(5,12) = 43.505, p = 2.80E-7). 
+
+A Tukey-Kramer post hoc found there to be a statistically significant difference between the Kale Room and Kale Hot groups, but not the Kale Room and Kale Cold groups. The same test determined there to be no statistically significant difference between either the Basil Room and Basil Hot or Basil Room and Basil Cold groups. 
+
+The Tukey-Kramer post hoc test also found the Kale Room and Kale Cold groups to be the only groups with a statistically significant difference from the Control group. 
+
+
+These differences can be seen in Figure 1 and Figure 2. 
+
+Discussion:
+These tests provide evidence to partially support our initial hypotheses.
+
+In this experiment, a statistical difference from the control group signifies that photosynthesis is occurring, since the control group is DCPIP without any chloroplasts to protonate it. This means that, based on our Tukey-Kramer post hoc, the Kale Room and Kale Cold groups were the only groups to photosynthesize. The Kale Room and Kale Cold groups were also significantly different from one-another, perfectly fitting the model predicted by previous studies in which high temperatures shut down photosynthesis while lower temperatures slow the process down [Markings:2017]. This can be more easily seen in Figure 1. 
+
+In the Basil groups, however, this same trend was not seen. Instead, it would appear that photosynthesis did not occur in any of the experimental groups, as none show a statistically significant difference from the Control. This can also be seen in Figure 2. We expected for the Basil groups to be more temperature sensitive, but the fact that the Basil Room group displayed no photosynthesis seems to suggest that there was some experimental error. 
+
+We are unsure of where this error occurred, but as it affected all groups equally, it likely occurred prior to their separation into their experimental groups. It is possible that an error occurred during the centrifuging process or in the suspension of the pellet, resulting in too few chloroplasts in the experimental solution to photosynthesize. It is also possible that our plant sample was dead before we even created our solution. We would need to re-run this experiment in order to secure more accurate data to properly analyze our second hypothesis which looks at the difference in temperature sensitivity between the two plants. 
+
+Despite this issue, our first hypothesis can still be partially supported by our kale data. The significantly different rates of ATP synthesis in Photosystem II shown by the DCPIP absorbencies supports recent studies which claim that temperature not only affects light-independent reactions, but also plays an important role in the light-dependent reactions of Photosystems I and II [Ivanov:2017]. This also serves to support findings by Rodriguez [2015] claiming that kale is more temperature resistant to chills than to overheating. 
+
+In order to more fully support our first hypothesis and to provide evidence in regards to our second hypothesis, we must re-run our basil experiments in order to obtain reliable data. Until then, we can only reliably partially support our initial hypothesis that the light-dependent reactions are affected by temperature just as the light-independent reactions.
+ 
+Other possible future avenues include those first explored by Hew [1969] and more recently Sage [2007] in which independent variables of light and darkness were employed to look at their combined effects with temperature. Both studies found that plants in darkness were less affected by heat increases than those in light. Neither, however, studied the effects of chill in light or darkness. This seems like a gap considering that chills are more likely to occur in darkness after the sun has set. Further investigation into this area could help farmers better understand how their crops will react to heatwaves and frosts so that they may better plan their planting. 
+
+
+Literature Cited:
+4. Arnison P G, Keller W A. 1990. A survey of the anther culture response of brassica-oleracea l. cultivars grown under field conditions. Plant Breeding. 104:125-133. 
+
+7. Hew C, Krotkov G, Canvin D. 1969. Effects of temperature on photosynthesis and CO2 evolution in light and darkness by green leaves. Plant Physiology. 5:671-677.
+
+1. Ivanov A, Velitchkova M, Allakhverdiev S, Huner N. 2017. Heat stress-induced effects of photosystem I: an overview of structural and functional responses. Photosynthesis Research. 133:17-30. 
+
+6. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+5. Kalisz A, Jezdinsky A, Pokluda R, Sekara A, Grabowska A, Gil J. 2016. Impacts of chilling on photosynthesis and chlorophyll pigment content in juvenile basil cultivars. Horticulture Environment and Biotechnology. 57:330-339
+
+3. Markings S. 2017. The effect of temperature on the rate of photosynthesis. Nature. 
+
+2. Rodriguez V, Soengas P, Alonso-Villaverde V, Sotelo T, Maria E, Velasco P. 2015. Effect of temperature stress on the early vegetative development of Brassica oleracea L. BMC Plant Biology. 15:145-157. 
+
+8. Sage RF, Kubien DS. 2007. The temperature response of C(3) and C(4) photosynthesis. Plant Cell Environ. 9:1086-106.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Photosynthesis+1.PNG&Size=33422&Type=image%2Fpng&F=F_9zt7m2GLNTRZk8d
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Photosynthesis+2.PNG&Size=28937&Type=image%2Fpng&F=F_1B1DiD67oHPCJUN
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph shows the differences in DCPIP absorbance over time, and thus the rate of photosynthesis, in kale at different temperatures versus the control group (no chloroplasts present). Lower absorbance signifies photosynthesis is occurring while stable absorbance signifies a lack of photosynthesis. 
+
+Figure 2: This graph shows the differences in DCPIP absorbance over time, and thus the rate of photosynthesis, in basil at different temperatures versus the control group (no chloroplasts present). Lower absorbance signifies photosynthesis is occurring while stable absorbance signifies a lack of photosynthesis. 
+
+*************************************************************************

@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-22 23:28:59
+Author of this lab report is: Std_AjCtbidJ
+ID: R_2dSgXmx1LC9O6Tf
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of pH on the Rate of Photosynthesis in Kale Leaves
+
+Abstract:
+The purpose of the experiment was to measure the effect acidic (pH 4) and basic (pH 10) conditions have on the rate of photosynthesis in Kale leaves. This was done by measuring the reduction of DCIP in the Hills reaction; DCIP is an oxidized blue compound and DCIPH2 a colorless reduced compound. Due to the color change during reduction, DCIP can be measured as a decrease of light at absorbance at 600nm using a spectrophotometer. During the experiment, the rich chloroplast of the Kale leaves was isolated using a centrifuge, DCIP and different pH solutions were added to the chloroplast mixture, and the absorbances at different pH levels were measured. Two two-sample one tailed t-test measuring the statistical significance in the decreasing direction between pH 4 and pH 6.5 and one between pH 10 and pH 6.5 were conducted. Both one-tailed t-tests showed that there was no statistical significance between the control and both experimental groups. The experiment highlights that for the rate of photosynthesis to really be affected by pH, it was has to be placed in either very acidic (&lt; 2.0 pH) or very basic (&gt; 12.0 pH) conditions. 
+
+Introduction:
+In the experiment Brassica O’leracea, Kale, is the plant used to study the effect different levels of pH has on the rate of photosynthesis. Photosynthesis is the way plants, protists, and bacteria use sunlight to capture and store energy from carbon dioxide and water [Johnson: 2016]. Photosynthesis is divided into light dependent and light independent reactions. For this experiment, the light dependent reaction is studied, specifically, photosystem II and photosystem I. The first system of the light dependent reaction is photosystem II where light causes electrons to leave the chlorophyll and move to the plastoquinone, a copper-containing protein electron carrier [Johnson: 2016]. The oxidized chlorophyll causes the cleavage of water molecules to produce oxygen and more electrons, replacing the ones lost due to chlorophyll. Afterwards, H+ ions from water are pumped into the thylakoid membrane. Reduced plastoquinone, then transfers its electrons to another protein carrier cytochrome b6f. Both of these electron carriers pump electrons into the thylakoid membrane contributing to the proton gradient needed to produce ATP [Johnson: 2016]. The second system is photosystem I, where excited electrons leave the chlorophyll and travel to NADP+ in order to produce NADPH, the reduced form of NADP+ [Johnson: 2016]. The high energy electrons that are stored in NADPH produced in photosystem I and the H+ gradient produced in photosystem II aids the production of ATP. The ATP and NADPH produced from the light dependent reaction is then used in the light dependent reaction to combine 1-carbon CO2 with 5-carbon ribulose phosphate to create glucose, a 6-carbon molecule [Johnson: 2016]. In this lab, the rate of photosynthesis will be measured on the reduction of DCIP to DCIPH2 using the Hill reaction. DCIP acts as a substitute to the final electron carrier of photosynthesis NADPH+. The reason why NADP+ is not used is because it is harder to measure its absorbance. DCIP is an oxidized blue compound, while DCIPH2 is a colorless reduced compound. Due to the color change, DCIP can be measured as a decrease of light at absorbance 600nm [Johnson: 2016].
+Recent research suggests that low pH levels have a strong negative effect on the rate of photosynthesis on plants. Specifically, low pH may decrease the leaf’s ability to absorb CO2 because it damages the photosynthetic electron chain during photosystem I and II. CO2 is the key reactant to produce glucose during the light independent reaction of photosynthesis [Long: 2017]. In addition, at both low and high pH levels the reduction of DCIP is low, yielding a slower rate of photosynthesis, measured by the reaction velocity of DCIP reduction [Hitoshi: 2015]. The rate of photosynthesis, measured by the reduction of DCIP in the hill reaction, is decreased in both acidic conditions (pH 4) and basic condition (pH 10) due to the denaturing of enzymes necessary to carry out the light dependent reaction of photosynthesis. 
+
+Materials and Methods:
+In this experiment, pack three 50 mL centrifuge tubes, a mortar and pestle, and a beaker into crushed ice. While the mortar and pestle are cooling, obtain four kale leaves and remove the central veins from them. Then rinse and blot the remaining leaves with tap water. After the leaves are dry add them to the mortar along with 10 mL of pH 8 grinding buffer until the leaves are grinded into a thick paste. Then add an addition 10 mL of pH 8 grinding buffer and strain the solution through three layers of cheesecloth into a chilled beaker. Transfer the solution in the chilled beaker into a 50 mL centrifuge tube and spin at 1200 rpm for 3 minutes at 4ºC in a centrifuge. Afterwards, pour out the supernatant into a second chilled 50 mL centrifuge and centrifuge the second tube at 2800 rpm for 10 minutes at 4ºC. Next, resuspend the pellet found in the bottom of the centrifuge in 15 mL of pH 8 grinding buffer. Then aliquot the solution into three 5 mL volumes in three conical tubes. Add 6 mL of pH 4 into one tube, 6 mL of pH 6.5 in another, and in the final tube add 6 mL of pH 10. Afterwards, centrifuge each tube at 2800 rpm for an additional 10 minutes and resuspend each pellet in about 3 mL of pH buffer to increase the chloroplast concentration. Transfer 100 microliters from each of the three centrifuge tubes using a micropipette, separated into three sections of three test tubes, leaving an extra test tube to serve as the blank, and another two tubes with no chloroplast to serve as negative control groups, a total of 12 tubes. Add 6 mL of water to all tubes, except 8 mL for the blank. Then add 2 mL of 130 mM DCIP to all tubes except for the blank and add 2 mL of reaction buffer (100 mM phosphate, pH 8.5) to all the tubes. Mix each tube after adding chloroplast and transfer the mixtures to the spectrophotometer cuvettes. Then, blank the spectrophotometer at 600 nm using the blank tube and measure the absorbances at time zero and after 30 minutes, remembering to blank the spectrophotometer again at 30 minutes. The statistical tests used are two two-sample one tailed t-test measuring the statistical significance in the decreasing direction between pH 4 and pH 6.5 and one between pH 10 and pH 6.5. 
+
+Results:
+The average change in absorbance of the chloroplasts in the pH 4 solution after 30 minutes was   calculated to be -0.01467 ± 0.01402 nm. The average change in absorbance of the chloroplasts in the pH 6.5 solution after 30 minutes was -0.004667 ± 0.005033 nm. Lastly, the average change in absorbance of the chloroplasts in the pH 10 solution after 30 minutes was -0.00133 ± 0.0005774 nm. For the pH 10 solution with no chloroplast, that change in absorbance after 30 minutes was 0.002 nm, and for the pH 4 solution with no chloroplast the change in absorbance was -0.001 nm. Two two-sample one-tailed t-tests were performed to test the significance in one direction (decreasing) between the acidic and control pH and basic and control pH. Comparing pH 4 and pH 6.5, the results were statistically insignificant (t-stat=1.16335, df=4, P=0.154677). Comparing pH 8 and pH 6.5, the results were also statistically insignificant (t-stat=1.39606, df=4, P= 0.15903).
+
+Discussion:
+The results do not support the hypothesis that the rate of photosynthesis would decrease in both an acidic (pH 4) or basic environment (pH of 10). The results from the bar graph depict several general trends that do not support our hypothesis. According to the graph there was a larger absorbance change after 30 minutes for the Chloroplast in Light pH 4 compared to in a pH of 6.5 and 10 (Fig 1.). This rejects our hypothesis as there should have been more absorbance change in the control group (pH 6.5), which was placed in a neutral environment. A larger absorbance change would mean that more photosynthesis took place within the 30 minutes. The hypothesis was further rejected because the p-values obtained through the one tailed t-test between pH 4 and pH 6.5 was 0.154677, while between pH 10 and pH 6.5 was 0.15903. Both p-values obtained were statistically insignificant as they were above 0.05. Having a p-value above 0.05 means that the null hypothesis was supported. This means that there was no significant change in the rate of photosynthesis between the control group (pH 6.5) and experimental groups (pH 4 and pH 8). In addition, both t-stat obtained through the one-tailed t-tests were low. T-stat gives us an idea of if the results are significantly different from each other. A relatively low pH is more likely to mean there is no significant difference. A large T-stat would have been desired in the experiment. Nevertheless, the negative control groups testing pH 10 and pH 4 in no chloroplast yielded minor changes in absorbance. This proves that photosynthesis does not occur without chloroplast, the organelle in plants that contains chlorophyll where photosynthesis takes place.  
+Although the results were not as expected the experiment did highlight that the pH’s chosen to prove our hypothesis were not acidic or basic enough. Using a pH of 2 for the acidic condition and pH of 12 for the basic condition would have yielded better results and possibly statistically significant data. Measuring the reaction velocity of DCIP reduction in the redox reaction between DCIP and Reductive Acid (RA), at pH’s between 6.8 and 11.7 the reaction in the reduction of DCIP was determined to be the fastest. Specifying, that pH does play a role in the rate of photosynthesis in plant. At a relatively neutral slightly high pH, the reduction of NADH+ or DCIP works more efficiently [Hitoshi: 2015]. In addition, the more acidic the solution was the slower the velocity rate of DCIP reduction was. Indicating, that an acidic solution is not the desired environment for photosynthesis to take place [Hitoshi: 2015]. It has also been shown that low pH condition enhances light educed damage to Photosystem II and the degradation of proteins in the chlorophyll’s electron transport chain. Low pH in turn contribute to photoinhibition, the plants decrease in photosynthesis efficiency [Spetea: 1997]. The degradation of proteins will reduce the rate of photosynthesis as they are responsible for transporting excited electrons from the chlorophyll in order undergo the oxidative redox reaction to produce NADPH from NADP+. The high energy electrons stored in NADPH are necessary for the production of glucose during the light independent reaction of photosynthesis. In conclusion, the results acquired from the experiment do not help highlight the optimal pH for the rate of photosystem. However, for a future experiment it may be clever to measure the rate of photosynthesis, tested by the reduction of DCIP in the hill reaction, with very acidic (&lt; 2.0 pH) and very basic (&gt; 12.0 pH) conditions.  
+
+Literature Cited:
+1. Hitoshi OT. 2015. Studies on the reduction of 2,6-dichlorophenolindopheno by reductic acid, 
+using a stopped-flow method. Agricultural and Biological Chemistry. 46: 1465-1468.
+
+2. Johnson AD. Plant Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, 
+Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+
+3. Long An. 2017. Effect of low pH on photosynthesis, related physiological parameters, and 
+nutrient profiles of citrus. Frontiers in Plant Science 8. 8:185.
+
+4. Spetea CS. 1997. Low pH accelerates light-induced damage of photosystem II by enhancing 
+the probability of donor-side mechanism of photoinhibition. Biochimica et Bipophysia Act (BBA) – Bioenergetics. 1318: 275-283
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+11.58.20+PM.png&Size=42717&Type=image%2Fpng&F=F_1d5BaqihKzVG1Vl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The bar graph represents the average change in absorbance between 30 minutes and at time zero for each pH measured. The error bars exemplify standard deviation. *************************************************************************
+
+
+

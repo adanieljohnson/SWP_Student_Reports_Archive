@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-28 11:29:00
+Author of this lab report is: Std_crq1DUke
+ID: R_1f7Snq5SiZCIFUP
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The insignificant effect of light manipulation by color on the signaling properties of Physarum polycephalum
+
+Abstract:
+In this experiment, we studied the Physarum polycephalum species of plasmodium that exhibits a strong likeness to human signaling processes. We decided to focus specifically on the effect of changes in light stimulation in the phototaxis, or growth due to the introduction of a certain type of light, property of the slime mold. We utilized potato dextrose sugar (PDA) plates in order to provide a medium for travel, introducing a cube of physarum slime mold sample to each of twelve PDA plates. We placed each in environments of either regular light, no light, red light, or blue light. The results proved to have a general trend of a higher length of growth in the dark (positive control) and blue light samples. However, our one-way anova test with an alpha value of 0.05 produced insignificant results, with a p-value of 0.184. 
+
+
+Introduction:
+The Physarum polycephalum are multicellular plasmodium that are frequently-used models for chemical signaling and growth, based on its ease of cultivation and distinct similarities to the human signaling process. The slime mold itself does not contain a central nervous system, but instead uses signaling properties to extend actin microfilaments and undergo various forms of taxis. These include chemotaxis, in response to factors such as nutrition or positive chemical stimuli present in the sample, phototaxis, in response to light stimulation, and gravitaxis, in response to the force of gravity. This species has been documented as thriving in dark, moist environments, so this remains a factor in the control environment for experimentation on the species [Hato: 1976]. If placed in the correct control environment, the plasmodium is unlikely to move without one of the aforementioned stimuli, and the introduction of one of these causes movement by starting the reproductive cycle of physarum, characterized by the formation of spores and eventually undergo mitosis. Starving a plasmodium causes the movement across a chosen medium, and the organism will become sedentary after it has been fully nourished, assuming no other stimulus is introduced [Guttes: 1961]. In our experiment, we chose to focus on the phototaxis property of physarum, specifically the different types and wavelengths of light introduced by changing the coloration of the light itself. In order to test our theory, we focused on two colors of light—blue and red—along with positive and negative controls from which to compare our data. Generally speaking, the plasmodia will have decreasing reactions with light the farther away from the source of illumination [Wohlfarth-Bottermann: 1981], so we placed the entire plate in the intended light treatment, intending to measure overall length rather than direction of movement. We hypothesized that, when compared with the negative control, the blue light sample would exhibit the most growth, due to its darker color that would be found in the ideal environment for normal physarum populations. 
+
+
+Materials and Methods:
+We obtained twelve potato dextrose sugar (PDA) plates and we also collected one physarum stock plate. We turned the plates over and labeled three of them “negative control, light”, three of them “positive control, dark”, three of them “blue light”, and the final three “red light”. We also drew one 1x1cm square in the approximate center of each plate’s bottom side, afterwards turning the plate back over and taking off the plate. We used a spatula sterilized with ethanol to cut a square along the labeled 1x1cm markings in each of the twelve PDA plates, sterilizing between each cut. We then sterilized again and cut twelve squares of the same size (1x1cm) out of the physarum stock plate and placed each of these squares in the twelve holes in the PDA plates. We replaced the lid and taped the plate closed. We covered the positive control plates completely with aluminum foil and left the negative control plates uncovered, placing all six of these plates in a light box. Then, we wrapped the three red light plates in red cellophane and the three blue light plates in blue cellophane, and placed these six plates alongside the controls in the light box. We checked growth after 24 and 48 hours, and after 48 hours we used a ruler to measure the longest strand (in mm) of physarum growth from the bottom of each plate. We then performed a one-way anova test with this data, using an alpha value of 0.05 [Johnson: 2018].
+
+
+Results:
+Our average length for the dark plate sample was 11.67mm, with a standard deviation of 5.77mm. The average length for the regular light sample was 2.67mm and a standard deviation of 4.62mm. Our average and standard deviation for the red light sample were, respectively, 4.00mm and 4.58mm, and the blue light had an average of 6.00mm with a standard deviation of 4.00mm (Figure 1). Therefore, the dark (positive control) and blue light samples had the longest strand lengths, on average, while the regular light (negative control) samples had the shortest, on average. The one-way anova test gave us a categorization of insignificant for all samples, with a p-value of 0.184. 
+
+
+Discussion:
+Because of the insignificance in each test comparison, we are ultimately unable to reject our null hypothesis, meaning that the lengths were not significantly different enough from each other to imply a relationship, though we did see a general trend in the data. Our original alternate hypothesis was blue having the longest strands, on average, when compared to the regular light and red light samples, and the general trend of the data appeared to follow this trend, with a 6.00mm average being higher than the 4.58mm and 2.67 averages of the light samples other than the dark positive control (Figure 1). Research has suggested that the changes in colors—and therefore the changes in wavelengths—has caused a specific change in the sporulation activity of physarum samples, characterizing a notable relationship between light and the growth process of the species [Wormington: 1976]. This sporulation process is crucial for growth and movement, and the specific stage of mitotic activity with which the stimuli are integrated is important to the inhibition or stimulation of movement. Studies have clarified that light stimulus from ultraviolet light is highly effective if included at the beginning of mitotic division [Devi: 1968]. Therefore, after a certain number of days, our samples could have reached a maximum strand length, after the light stimulation has affected sporulation and mitotic division to a certain extent. We hypothesized that the blue light would have the highest success rate in growth stimulation due to the dark, moist environments preferred by the physarum in nature, and this seemed to be accurate based on the results of our experiment. However, studies have shown that the physarum have various types of photoreceptors that are distinguished between sporulation and phototaxis, as light with shorter wavelengths has been demonstrated to promote sporulation but inhibit phototaxis, and blue light has a shorter wavelength than red light [Hato: 1976]. Therefore, it is likely that different measures of wavelength, such as in green, yellow, or purple light, could have given us further data on the exact relationship between wavelength and phototaxis. Because we did not notice any growth after the first 24 hour period, it is likely that these samples can occasionally take longer than one day to exhibit growth factors, and it would likely be beneficial to observe them in their natural environments. 
+
+
+Literature Cited:
+1. Devi VR, et al. 1968. Effects of ultraviolet light on mitosis in Physarum polycephalum. Experimental Cell Research. 50: 589-598.
+2. Guttes E, et al. 1961. Morphological observations on growth and differentiation of Physarum polycephalum grown in pure culture. Developmental Biology. 3: 588-614. 
+3. Hato M, et al. 1976. Phototaxis in True Slime Mold Physarum polycephalum. Cell Structure and Function. 1: 269-278.
+4. Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC.
+5. Wohlfarth-Bottermann KE. 1981. The pathway of photosensory transduction in Physarum polycephalum. Cell Biology International Reports. 5: 365-373.
+6.. Wormington WM, Weaver RF. 1976. Photoreceptor pigment that induces differentiation in the slime mold Physarum polycephalum. Department of Biochemistry, University of Kansas. 73: 3896-3899. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-12+at+8.40.36+PM.png&Size=47594&Type=image%2Fpng&F=F_3D0ww41irtcJe76
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph depicts the average length, in mm, of the longest strand of each plate sample. The black bar represents the dark sample (positive control), the yellow represents the regular light sample (negative control), the red represents the red light sample, and the blue represents the blue light sample. The individual standard error bars are given, and represent the sample lengths’ deviations from the means of each plate category, on average.*************************************************************************
+
+
+

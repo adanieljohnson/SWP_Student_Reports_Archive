@@ -1,0 +1,49 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-06 21:44:48
+Author of this lab report is: Std_pA7fq7Y5
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Affects of a Colder Environment on the Specific Metabolic Rate for Procambarus Sp. 
+
+Abstract:
+Global Warming is changing environments all across the world and subjecting living organisms to different environments. With this in mind, we wanted to observe how the Specific Metabolic Rate of an ectotherm, specifically Procambarus sp, varies when subjected to a colder environment. We hypothesize that if Procambarus sp is exposed to a colder environment, then the specific metabolic rate will be lower than the specific metabolic rate at room temperature. We observed this by measuring the oxygen consumption of a Procambarus sp, commonly called a crayfish, over a 20 minute period in two separate closed water chamber, one at 10 and 22 degrees Celsius. We then calculated the Specific Metabolic Rate for each Crayfish from the amount of oxygen consumed. Our data does not have enough statistical evidence to make a conclusion because our p-value was 0.81, which is much higher than the 95% confidence interval.  This extremely high p-value results in the rejection of our hypothesis and we can conclude that a decrease in temperature, in our specific temperature range, has no effect on specific metabolic rate.
+
+
+Introduction:
+With the controversy of global warming changing the environments across the world, scientists are wondering how that will affect the region's inhabitants. One study found that many ectotherms in regions that are experiencing a rise in temperatures, are expending more energy which is an increase in their Specific Metabolic Rate [Dillon 2010]. We were then hoping to see if this positive correlation between temperature and specific metabolic rate would translate to lower temperatures and a lower specific metabolic rate. We can measure the specific metabolic rate easily by measuring the amount of oxygen consumed by the ectotherm. When a closed environment has a certain amount of dissolved oxygen, we can measure the amount of oxygen consumed by the crayfish. This is important because during aerobic respiration, oxygen is needed to take the low energy electrons off the Electron Transport Chain when the electron is done giving up its energy. If no oxygen is present, the electron is left on the Electron Transport Chain and aerobic respiration comes to a halt. This helps us determine that the amount of oxygen consumed is directly proportional to the amount of energy expended by that ectotherm during respiration [Nelson 2016]. The amount of energy expended by the ectotherm is the specific metabolic rate, which is what we are trying to observe. These findings from other experiments sparked our curiosity and made us contemplate that if we cooled the environment to below room temperature, would we see a lowering of the metabolic rate? We then hypothesized that if we make the environment 10 degrees Celsius, then the specific metabolic rate will be lower in the colder environment than the specific metabolic rate at room temperature environment. Lastly, we chose to use the Procambarus sp in our lab because they are readily available and have noticeable variations in metabolic rates due to different environments.
+
+
+Materials and Methods:
+First we weighed the Procambarus sp, crayfish, and placed the crayfish in the water chamber overflowing with an oxygenated, 22º Celsius water. We placed the dissolved oxygen probe in the closed chamber and recorded the initial dissolved oxygen levels and then again at the 5, 10, 15, and 20-minute mark.  We then took the crayfish out of the water chamber, measured the volume of water and placed the crayfish in a different closed water chamber that was overflowing with oxygenated 10-degree Celsius water. We again measured the dissolved oxygen at the initial time, 5, 10, 15, and 20-minute mark.  We lastly took out the crayfish and measured the volume of the water chamber and calculated the Specific Metabolic rate for the crayfish in the two different environment. We calculated the Specific Metabolic rate by taking the change in dissolved oxygen and multiplying it by the volume of water in the chamber. Then taking that product and dividing it by the product of time and the weight of the crayfish. Then we repeated each of these steps for the two other crayfish. Lastly, we ran a paired, two tailed T-test to see if our results were significant enough to support our hypothesis. 
+
+
+Results:
+Seen in Figure 1, the average Specific Metabolic Rate was 0.0042 O2g-1min-1 at room temperature and 0.0038 O2g-1min-1at 10 degrees Celsius. We observed that this experiment showed a very low standard deviation of 0.00086 in the control experiment and then a bit higher standard deviation of 0.00195 in the cold water experiment. Lastly we found a P-Value of 0.81021 (T-stat=0.2734 df=2). We were able to detect a decrease in specific metabolic rate for each crayfish when it was subjected to the cold environment.
+
+
+Discussion:
+With the data that we collected, we do not have enough statistical evidence to support our hypothesis. This is because we obtained a P-Value of .81021, so we do not have enough statistical evidence to reject our null hypothesis. There is other experiment’s that contradicts the results found in our experiment. For example, another experiment states that the Teleost Fish, an ectotherm, consumes 6 times less oxygen at 0 degrees Celsius than 30 degrees Celsius [Clarke 1999]. This experiment was similar to ours because they experimented on another ectotherm and observed how the oxygen consumption was affected by a decrease in temperature. However, this experiment was different because they were able to achieve significant data that supported their hypothesis and also they were experimenting on the relationship between the oxygen consumption based on their body mass at different temperatures. There were a couple flaws that we experienced during our experiment, for example, it was very hard to keep the cold environment the same temperature for each Crayfish. We had to continuously add ice to the bath to keep it at the same temperature. This differentiating temperature could affect the preciseness of our data because a change in 1 or 2 degree Celsius can affect the amount of the oxygen consumed by the crayfish. Another flaw that we experienced was that the readings of the initial dissolved oxygen levels were not very accurate. It took a while for the Dissolved Oxygen probe to determine the initial dissolved oxygen in the environment and during that time the Crayfish was breathing and continuously lowering the amount of oxygen in the chamber. For future research I want to increase the number of crayfish we use, which will give us more accurate results. Lastly, I would like to run the experiment with a water chamber that can maintain a consistent cold environment instead of having to regulate the temperature with ice. This will give us a more consistent environment between each Crayfish, which will give us more precise data. Finally, this research is relevant because with the change of environments due to global warming, many ectotherms will be exposed to changing environment. This research will demonstrate how Crayfish, an ectotherm, are able to adapt to a different environment. 
+
+
+Literature Cited:
+Clarke, A. and Johnston, N. M. (1999), Scaling of metabolic rate with body mass and temperature in teleost fish. Journal of Animal Ecology, 68: 893–905. doi:10.1046/j.1365-2656.1999.00337.x  Dillon, Michael E., George Wang, and Raymond B. Huey. "Global metabolic impacts of recent climate warming." Nature467.7316 (2010): 704-706.
+Nelson, J. A. "Oxygen consumption rate v. rate of energy utilization of fishes: a comparison and brief history of the two measurements." Journal of Fish Biology 88.1 (2016): 10-25.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-12-06+at+9.24.38+PM.png&Size=47365&Type=image%2Fpng&F=F_1NvRfKbCDL8R4AB
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Effects of the Specific Metabolic Rate, (O2g-1min-1), for the Procambarus sp. in the control temperature and then the 10-degree Celsius temperature. The bars show the Specific Metabolic Rate at room temperature, which was 0.0042 O2g-1min-1 and at the cold temperature, which was 0.0038 O2g-1min-1. The error bars show the standard deviation from the mean for each environment.
+
+
+*************************************************************************

@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-22 01:13:15
+Author of this lab report is: Std_VpQq8KK0
+ID: R_2tMz7DMPQ28L3jM
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: High concentration caffeine injections into gastrocnemius of Rana pipiens does not cause significantly higher electrical activity in muscle fibers
+
+Abstract:
+Muscle function involves the connection between motor neurons and muscle fibers. Calcium released from the sarcoplasmic reticulum on muscle fibers plays a direct, important role in contractions. In this experiment, researchers tested the effect of caffeine on the contraction of the gastrocnemius in Rana pipiens. Researchers hypothesized that caffeine would increase the muscle contraction length. The results indicated that there was not a statistically significant difference between electrical currents in the group treated with caffeine and the control group. This suggests that the electrical activity caused by the movement of ions did not significantly differ between the groups. The concentration of caffeine used here was relatively high, producing tetany. In the future, an experiment that uses a lower concentration of caffeine could be performed as many studies have used relatively low concentrations compared to the one used here. 
+
+Introduction:
+The nervous system plays an important role in muscle contractions. Motor neurons in the central nervous system propagate their axons and innervate muscle fibers. These neurons release acetylcholine (Ach), a neurotransmitter important for muscle function. The point at which axons release neurotransmitter onto muscle fibers is called the neuromuscular junction. [Johnson: 2018]. Acetylcholine binds to receptors located on muscle tissue and triggers the release of sodium, causing an action potential. The action potential triggers the release of calcium from the sarcoplasmic reticulum, a storage site. This calcium release from the sarcoplasmic reticulum causes the direct contraction of muscles. A muscle fiber is composed of thick myosin filaments and thin actin filaments, which slide past each other, causing a contraction of striated muscle. The sliding of the filaments is caused by cross bridges, the binding of myosin to actin. [Brenner: 1987]. In this experiment, researchers decided to stimulate the gastrocnemius muscles of Rana pipiens and test the effects of caffeine on contraction when injected directly into the muscle.  Researchers hypothesized that caffeine will cause a higher contraction length in the gastrocnemius muscles of frogs than in the control group when stimulated with pin electrodes. 
+
+Materials and Methods:
+A total of three frogs was used in this experiment. Electrodes were placed in the gastrocnemius of the first frog and connected to an electrophysiological recorder, which shocked the muscle. This frog formed part of the control group. The same frog was used, and its gastrocnemius muscle was then injected with 0.1mL of 200mM caffeine and it was shocked again. Researchers recorded the muscle contraction amplitude in volts. The same procedure was performed on the other two frogs. Electrical current is a good indicator of the activity taking place in neurons and muscles. When shocked, action potentials indicate sodium ions crossing a membrane, and they carry with them electrical current. Because the same organisms were used as the control and treatment group, a paired t-test will be used to determine if there is a significant difference in the muscle contractions between the control group and the group injected with caffeine.
+
+Results:
+The mean amplitude for the treatment group for the three frogs was 0.884V+/-0.089V. For the control group, the mean was 0.527V+/-0.254V. (Fig.1). A paired t-test was used to analyze data because the same organism was used as the treatment and control. The mean electrical current for the control group was statistically significantly different from the mean electrical current for the experimental group (t-value =2.5976, df = 2, P = 0.1225). We obtained a p-value of 0.1225, higher than the alpha p-value of 0.05.
+
+Discussion:
+Researchers hypothesized that caffeine-treated muscles would show higher contraction length, which was not supported by the results. The p-value was higher than the alpha level of significance. This indicates that the mean electrical current for the control was not statistically significantly lower than the treatment group’s electrical current. We would fail to reject the null hypothesis and conclude that there is not enough evidence to support the alternate hypothesis, which states that caffeine influences muscle contraction in a frog’s calf muscle. A previous study states that caffeine affects the release of calcium from the sarcoplasmic reticulum. The study used frogs as their model organism. They examined and tested the effects of caffeine on frog skeletal muscle fibers. [Klein: 1990]. In a different study, the concentration of caffeine caused different changes in calcium concentration in muscles. They concluded that low concentrations of caffeine caused the direct release of calcium from the sarcoplasmic reticulum while high concentrations increased the effects of twitch tension or tetany. [Konishi: 1987]. The effects of caffeine can range from beneficial to potentially dangerous, and calcium deposits can often result from high caffeine-intake. These deposits can cause muscle and bone weakness. [Tajima: 2010]. In this experiment, a high concentration of caffeine (200mM) was used, which caused the muscles in the model organisms to undergo tetany. In future experiments, lowering the caffeine concentration could potentially cause a significant difference between treatment and control groups.
+
+Literature Cited:
+1.	Johnson AD. Nerve and Muscle Function. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-18.
+2.	Brenner B, Eisenberg E. "The mechanism of muscle contraction. Biochemical, mechanical, and structural approaches to elucidate cross-bridge action in muscle." Basic research in cardiology 82 (1987): 3.
+3.	Klein MG, Simon BJ, and Schneider MF. "Effects of caffeine on calcium release from the sarcoplasmic reticulum in frog skeletal muscle fibres." The Journal of physiology 425.1 (1990): 599-626.
+4.	Konishi M, Kunihara S. “Effects of caffeine on intracellular calcium concentrations in frog skeletal muscle fibres” Journal of physiology vol. 383 (1987): 269-83.
+5.	Tajima Y. “Coffee-induced Hypokalaemia” Clinical medicine insights. Case reports vol. 3 (2010): 9-13.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frogmuscle.JPG&Size=29163&Type=image%2Fjpeg&F=F_2tahieUO7IC7BYC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The mean amplitude (measured in volts) in Rana pipiens gastrocnemius before and after caffeine injections. When frogs were injected with caffeine, a higher electrical current flowed in the frog muscles. Standard deviation bars are shown.*************************************************************************
+
+
+

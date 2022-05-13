@@ -1,0 +1,79 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-23 18:38:52
+Author of this lab report is: Std_YAhJvNGH
+ID: R_3lsQzdgOQhnLkSb
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: Testing the Effects of NaCl on Spinacia oleracea Electron Transport in Light Dependent Photosynthetic Reactions
+
+Abstract:
+The objective of this experience was to determine if NaCl has a significant effect on Electron Transport for Spinacia oleracea. We hypothesized that there would be a significant difference between the difference concentrations of NaCl solutions when compared to one another and to the control. To test this hypothesis, we performed an assay putting enriched spinach chloroplasts in different NaCl solution concentrations (10%, 25%, and 50%). We then determined the percent change of electron transport by using a secretomotor to obtain the absorbance of the different solutions at the beginning and end of 30 minutes. After using the hill reaction equation to obtain percent change in absorbance, we performed an ANOVA statistical test. From this statistical test determined that the percent change of electron transport over 30 minutes while exposed to different NaCl concentrations was not statistically significant. When the concentrations were compared to one another and the control group there was no statistical difference supporting the null hypothesis. While our results were not significantly significant, we think that if the chloroplasts were infused with NaCl for a longer period of time then there may be a different result. 
+
+Introduction:
+Biological processes require additional energy from an additional source in order to operate accurately and efficiently. In plants and animals, this energy is generated from three major sources, chemical energy in covalent bonds, energy stored as an oxidation-reduction potential, and through an electrical or chemical gradient across a bilayer. Plants, some protists, and certain bacteria utilize photosynthesis as a way to seize all three functional energy forms from the sun. This stored energy is released through glycolysis via the cytoplasm, and through respiration that occurs in the mitochondria. (1)
+	Photosynthesis is a three-step process, in which the first two steps are light dependent reactions that involve and the use of absorbed photons to generate electron carriers in the form known as NADPH. Electrons carried by NADPH can be transferred to multiple different electron carriers. The measurement of the transportation of electrons can be used to determine ATP production during photosynthesis by the Hill reaction equation. We will use our understanding of the transfer of electrons and the to understand how salinity affects the rate of electron transport for Spinacia oleracea. Spinacia oleracea was used as our model organism because it is easily accessible and simple to measure. 
+	One of the most prominent environmental stressors today is salinity affecting agricultural soils. (2) Salt affects the agricultural production of crops. Because food scarcity is a large issue the world is facing right now, salt affecting agricultural production good be extremely detrimental to food insecure societies. With this in mind, we developed an experiment that tests NaCl effects on electron transport in Spinacia oleracea to better understand if the destructive quality of salt for plants.
+	In the experiment conducted by (3) Kalaji, H. M. et al. in 2011, the NaCl salt treatment significantly decreased the rates of photosynthesis and photosystem II based on chlorophyll florescence data. Another source that showed that salt may have a significant effect on photosynthetic activity is the P. Mehta et al. article written in 2009, that demonstrated that salinity had harsh effects on Photosystem II in wheat leaves. Based on the results of both these articles we wanted to conduct our own experiment testing how different concentrations of NaCl could affect enriched spinach chloroplasts over the course of 30 minutes. We wanted to know if these results would be similar to the P. Mehta et al. and Kalaji H.M et al. studies where the spinach chloroplasts electron transport would be affected. 
+
+
+Materials and Methods:
+To conduct this experiment, we began by cooling a mortar and pestle, a medium sized beaker (150-250ml) and three 50ml centrifuge tubes using crushed ice. While these items cooled we removed the large central veins on the spinach leaves, rinsed the remaining leaves, and blotted of the moisture on them. After that, we added the leaves, plus 10ml of grinding buffer solution (400mM sucrose intracrine buffer, pH 8.0). We then grinded the leaves into a thick paste and added 10ml more of the grinding solution. After that, we mixed the slurry solution and drained it using a cheese cloth into the beaker. To transfer the liquid in the cheese cloth, it must be squeezed a few times. When this is finished transfer the liquid into a centrifuge tube marked tube A and spin the tube at 200 x G for 3 minutes at 4˚C. After the supernatant is done spinning, put it out of tube A and into tube B. Then spin the contents of tube B at 1000 x G for 10 minutes at 4˚C. When finished pour the new supernatant into tube C and place tube B on ice. Add 20 more ml of buffer solution to tube C stirring gently. This pellet sample is the most rich in chloroplasts and we will use these to perform our assay. Next the concentrations of the salt solutions need to be prepared for the assay as shown in the table below:
+Percentage Concentration of NaCl	10% NaCl	25% NaCl	50% NaCl
+Amount of NaCl	200µl of NaCl	500µl of NaCl	1000µl of NaCl
+Amount of Water	1800µl of water	1500 µl of NaCl	1000µl of NaCl
+After you make these concentrations, you need to make the test tube of the assay as states in the table:
+Reagent	Blank	1-3
+3 tubes	4-6
+3 tubes	7-9
+3 tubes	10-12
+130mM DCIP	None	2ml	2ml	2ml	2ml
+Reaction Buffer 100mM phosphate, pH 6.5	2ml	2ml	2ml	2ml	2ml
+2M NaCl (aq)	none	2ml (10%)	2ml (25%)	2ml (50%)	none
+Water	10ml	6ml	6ml	6ml	6ml
+After making these test tubes for the assay, add 100µl of tube C (enriched B pellet) to each test tube. Then transfer each of the mixtures into spectrophotometer cuvettes. Immediately blank the mixture then measure the absorbance of all samples. Leave all the cuvettes with the mixture under a UV light then measure their absorbances every ten minutes for 30 minutes. Record your absorbances. Once you’ve obtained your results conduct a a two tailed two sample t-test to analyze your data.
+
+
+Results:
+	The statistical test we used to analyze our results was a one-tailed ANOVA to compare the means of our experimental and control groups to one another. Our results are displayed in figure 1, where the percentage rate of change for the four experimental groups were averaged for each NaCl concentration and a control group. We first used the Hill’s reduction equation to obtain the percent rate of change for each experimental group, then we averaged the three trials together to obtain the average percent rate of change. Although there seems to be a slight visual difference in the graph between control and treatment groups, based on the ANOVA statistical test, the difference between the means of the different groups is was not significant because our p value was greater than 0.05 our alpha value. ((f-stat= 3.509, degrees of freedom=11, p-value=AA0.069.)
+
+Discussion:
+Our null hypothesis was supported by the ANOVA statistical test as our p-value was greater than our alpha value. I think that our results were not significant because the amount of time our chloroplasts were in the NaCl solutions. This is contrary to the other studies we researched, as both saw significant changes in electron transport after exposure to salts. After further research of the previous studies, plants had to be affected for long periods of time in order for their electron transport systems to be affected. Meaning that the 30 minutes our enriched chloroplasts were exposed to NaCl solutions did not have much effect on the transfer of electrons.
+	While our experiment didn’t bring any significant results, the effect of salinity is an important topic as the world continues to face more problems concerning pollution. To further our research, we would test the NaCl solutions for a longer period of time to ascertain if that brought significant changes to the data. 
+
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+2.	Shrivastava, P., & Kumar, R. (2014). Soil salinity: A serious environmental issue and plant growth promoting bacteria as one of the tools for its alleviation. Saudi journal of biological sciences, 22(2), 123-31.
+3.	Kalaji, H. M., Bosa, K., Kościelniak, J., & Żuk-Gołaszewska, K. (2011). Effects of salt stress on photosystem II efficiency and CO2 assimilation of two Syrian barley landraces. Environmental and Experimental Botany, 73, 64-72.
+4.	Mehta, P., Jajoo, A., Mathur, S., & Bharti, S. (2010). Chlorophyll a fluorescence study revealing effects of high salt stress on Photosystem II in wheat leaves. Plant physiology and biochemistry, 48(1), 16-20.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+6.38.00+PM.png&Size=52460&Type=image%2Fpng&F=F_8iA81miLQQdmYX7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 Displays the average rate of change for each NaCl treatment group and the control after 30 minutes under the UV lamp. The rate of change for each of the treatments was determined by the Hill’s reduction equation. Then, the average was obtained for each of the treatment groups by averaging each of the 3 trials for each concentration dilutions. The data averaged for the control groups was 51.3, 36.3, and 42.6. The data averaged for the 10% NaCl group was 23.6842105, 32.8813559, and 27.5. The data averaged for the NaCl 25% group was 13.9784946, 31.2056738, and 27.4247492. The data averaged for the 50% NaCl group was 35.2727273, 15.4676259, and 28.4132841. The data bars represent the average percent rate of change for each treatment group and the error bars represent the standard deviations of all the treatment groups, control=43.4 with a standard deviation of 7.531932023, NaCl 10%=28.0 with a standard deviation of 4.62072729, NaCl 25%=24.2 with a standard deviation of 9.05421501, NaCl 50%=26.4 with a standard deviation of 10.0572036. The average percentage change values have been rounded to be more easily read on graph. The results from the one-tailed ANOVA statistical test were (f-stat= 3.509, degrees of freedom=11, p-value=0.069.*************************************************************************
+
+
+

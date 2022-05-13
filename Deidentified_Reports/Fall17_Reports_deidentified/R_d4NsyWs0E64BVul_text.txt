@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 12:20:36
+Author of this lab report is: Std_9kqaFWyL
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The Effect of Acetylcholine Esterase Inhibitor on Rana pipiens Maximum Muscle Contraction
+
+Abstract:
+The purpose of this lab is to learn more about the neuromuscular system, specifically the effects of acetylcholine esterase (AChE) inhibitor on the gastrocnemius muscle of Rana pipiens. The experiment was conducted using three Rana pipiens leg muscles. Each were treated with AChE inhibitor after a baseline for maximum muscle contraction was determined before the treatment by conducting five pulses at the stimulus that yielded the maximum contraction. Then, the maximum stimulus was repeated and contraction amplitude was found after the treatment of AChE inhibitor was injected in the muscle. The experiment was conducted three different times on three different Rana pipiens leg muscles. Leg 2 had a p-value of 0.0643 it did not yield statistically significant data. Leg 1 produced a p-value of 0.0064 and leg 3 produced a p-value of 0.0001 yielded statistically significant data, but the data yielded opposite results. Therefore, the data was inconclusive and the data did not support the hypothesis. This could be due to the inhibitory effects of multiple choline derivatives. 
+
+Introduction:
+Rana pipens is commonly known as the Northern Leopard Frog and was used in this experiment because the animal is easy to manipulate and cultivate in a lab environment. In this experiment there is a focus on the gastrocnemius muscle in the Rana pipiens leg. Acetylcholine is a neurotransmitter that controls the opening and closing of calcium ion channels in a motor neuron. The diffusion of calcium ions induces the depolarization and the firing of an action potential in a motor neuron. Muscles contain many motor neurons. In order to increase muscle strength and create a higher muscle contraction there has to be an increase in the firing rate of the motor neuron. Acetylcholine esterase is responsible for the removal of acetylcholine in order to close the calcium ion channels and stop muscle contraction [Sadava, et al.:2016]. Therefore, a choline esterase inhibitor treatment should leave the calcium ion channels open for a long period of time due to acetylcholine build up in the muscle cells. This allows calcium ion channels to stay open longer because the esterase can no longer remove the acetylcholine [Castillo & Katz:1975]. It is hypothesized that if acetylcholine esterase inhibitor increases the amount of acetylcholine and continues to keep calcium ion channels open in the gastrocnemius muscle, then it will yield a higher maximum contraction in the experimental group compared to the control.
+
+Materials and Methods:
+1.	Collect frog leg, place in dissecting pan, and dissecting pan, and dissect Gastrocnemius muscle and Sciatic nerve.
+2.	Use Ringer’s solution to keep the Rana pipiens leg moist during the lab.
+3.	Use LabScribe to record the maximum contraction of the Rana pipiens muscle.
+4.	Set parameters to 1 pulse, frequency 0.5Hz, pulse width (W) 5ms, pulse amplitude 0.000V.
+5.	Determine the threshold stimulus of the muscle by increasing the amplitude by 0.5Hz until the threshold is found.
+6.	Find maximum contraction by increasing the amplitude from the threshold until the peak of period does not increase.
+7.	After the maximum contraction is found, conduct five pulses at the maximum contraction and record the amplitude.
+8.	Wait a minute.
+9.	Inject 0.2ml of ACh Esterase inhibitor solution (2% solution of Sevin) using a syringe.
+10.	Repeated steps 1 and 6 for each Rana pipiens leg muscle.
+11.	Use paired t-test to present statistical data for each Rana pipiens leg maximum muscle contraction.
+
+Results:
+In leg one of the Rana pipens, the average maximum contraction before the treatment of AChE inhibitor was 1.2438 volts with a standard deviation of 0.0322 volts and after the treatment the average maximum contraction was 1.1130 volts with a standard deviation of 0.0865 volts, as seen in Figure 1. In leg one the p-value was 0.0064, as seen in Figure 1. In leg two the average maximum contraction before the treatment of AChE Inhibitor was 1.7128 volts with a standard deviation of 0.0029 volts and after the treatment there was a maximum contraction of 1.7098 volts with a standard deviation of 0.0041 volts, as seen in Figure 2. In leg three the average maximum contraction before the treatment of AChE inhibitor was 1.4356 volts with a standard deviation of 0.0055 volts and after the treatment there was an average maximum contraction of 1.4722 volts with a standard deviation of 0.0080 volts, as seen in Figure 3. In leg three the p-value was 0.0001, as seen in Figure 3.
+
+Discussion:
+The hypothesis was not supported because the data was only significant regarding leg 1 and leg 2, but the results were opposite of each other. The majority of the data concluded that the muscle before the treatment yielded a higher maximum contraction compared to the treated muscle, with the exception of leg 3. This can be explained through the competitive process between inhibitors and choline derivatives. In the reaction between an inhibitor and a choline derivative it has been found that the inhibitor has a drug-like inhibitory effect that relaxes the muscle. The inhibitor and the cholinesterase react in a two-step process where initially AChE inhibitor creates an action potential by acetylcholine’s natural opening of the calcium ion channels, but then in a second step the reaction slows done because the inhibitor floods the synapse with calcium ions by blocking the reuptake of acetylcholine and inhibits the cell from firing more action potentials. The increased rate is of firing therefore creates a lower volt maximum contraction because there is not enough action potential being fired before the muscle is exhausted [Castillo & Katz: 1957]. One way to make the experiment yield more conclusive data is to conduct the experiment on more Rana pipiens legs. Also, there is a possibility that the amount of calcium was taken up and the leg was fatigued before the after treatment trials. This could have hindered the amplitude of the maximum muscle contraction in the after treatment trials.
+
+Literature Cited:
+1.	Katz, B., and R. Miledi. "The Nature of the Prolonged Endplate Depolarization in Anti-Esterase Treated Muscle." Proceedings of the Royal Society B: Biological Sciences 192, no. 1106 (1975): 27-38. doi:10.1098/rspb.1975.0149.
+2.	Castillo, J. D., & Katz, B. (1957). Interaction at End-Plate Receptors between Different Choline Derivatives. Proceedings of the Royal Society B: Biological Sciences, 146(924), 369-381. doi:10.1098/rspb.1957.0018
+3.	Sadava, D., Hillis, D., Heller, H., & Hacker, S. (2016) Life The Science of Biology. (11th ed.) Sunderland, MA: Sinauer Associates, INC. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=leg1.png&Size=42309&Type=image%2Fpng&F=F_8p0iQkWyGSNghBb
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=LEG2.png&Size=38527&Type=image%2Fpng&F=F_0oEP4SBrVAEXjdX
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=LEG3.png&Size=44724&Type=image%2Fpng&F=F_4Tv2Zp3O611XuiF
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 displays the average maximum contraction in amplitude of the first gastrocnemius muscle of Rana pipiens before and after the treatment of ACh Esterase Inhibitor. There were five maximum contractions collected for each treatment then averaged to conclude the mean maximum contraction. the average maximum contraction of the control was 1.2438 volts with a standard deviation of 0.0322 volts and after the treatment of AChE inhibitor the average maximum contraction was 1.1130 volts with a standard deviation of 0.0865 volts. The p-value was 0.0064. 
+
+Figure 2 displays the average maximum contraction in volts of the second gastrocnemius muscle of Rana pipiens before and after the treatment of ACh Esterase Inhibitor. There were five maximum volts collected for each treatment then averaged to conclude the mean maximum contraction in volts. The average maximum contraction of the control was 1.7128 volts with a standard deviation of 0.0029 volts and after the treatment of AChE inhibitor there was a maximum contraction of 1.7098 volts with a standard deviation of 0.0041 volts.  
+
+Figure 3 displays the average maximum contraction in volts of the third gastrocnemius muscle of Rana pipiens before and after the treatment of ACh Esterase Inhibitor. There were five maximum contractions collected in volts for each treatment then averaged to conclude the mean maximum contraction in volts for both groups. The average maximum contraction of the control was 1.4356 volts with a standard deviation of 0.0055 volts and after the treatment of AChE inhibitor there was an average maximum contraction of 1.4722 volts with a standard deviation of 0.0080 volts. The p-value was 0.0001.
+
+*************************************************************************

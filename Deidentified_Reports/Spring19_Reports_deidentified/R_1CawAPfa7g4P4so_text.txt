@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 18:29:45
+Author of this lab report is: Std_woCN9r8u
+ID: R_1CawAPfa7g4P4so
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effects of a Sodium Channel Blocker on the Strength of Muscle Contractions in Legs of Rana pipiens 
+
+Abstract:
+Rana pipiens have a similar structure to the human nervous system. Lidocaine is a sodium channel blocker that will affect the contractions since it will not allow calcium to flood the muscle. If lidocaine is injected into the gastrocnemius muscle of the frog leg and dropped onto the sciatic nerve, the muscle should not contract as much. Three frog legs were compared by using a set stimulus and comparing the contraction when lidocaine was injected versus when it was not. The results showed a decrease in the strength of the contraction, however the p-value of a paired t-test was 0.06881 which does not disprove the null hypothesis. Due to errors that occurred after injecting the muscle with lidocaine, the results could be significantly different. This experiment could affect human treatment in overactive muscle contractions.
+
+Introduction:
+The nervous system of the Rana pipiens is composed of a brain, a spinal cord, and nerves that branch out across the whole body of the frog. The gastrocnemius muscle is the major muscle in the calf of frog legs. There are nerves that are within the muscle itself, but the gastrocnemius is also connected to the sciatic nerve. The sciatic nerve connects the spinal cord and the gastrocnemius directly [Johnson: 2002]. The sciatic nerve, and all nerves within the gastrocnemius, all have action potentials running through them from the brain. Each action potential can potentially signal a contraction or relaxation. A neuron decides to fire when it has been stimulated by enough action potentials to depolarize the neuron. Once that has happened, the action potential travels down the axon to the next neuron and the process is repeated until it reaches the target cells, the muscle cells in the gastrocnemius in this case. When the action potential arrives at the muscle cell, instead of depolarizing the next neuron, it depolarizes the neuromuscular junction. This in turn releases acetylcholine (ACh), a neurotransmitter. ACh binds to its receptors which opens sodium ion channels. This then depolarizes the myofibers in the muscle cells which allows calcium ions to be released. Once the calcium is released, it allows for actin and myosin fibers within each myofiber to slide past each other, otherwise known as the sliding filament theory [Sadava: 2011]
+	An action potential can be simulated by sending voltages through either the sciatic nerve or the gastrocnemius muscle directly. In this experiment, voltages will be sent, and the strength of the muscle contraction will be collected. As seen above, sodium plays a major role in the translation of an action potential from a neuron into the contraction of the muscle. A sodium channel blocker, such as lidocaine, will be used in this experiment to determine its effects on the strength of muscle contractions [Cummins: 2007]. The amplitude of the contraction should be lower since if sodium is blocked, then ultimately calcium cannot be released, and the muscle won’t contract. Therefore, our hypothesis is if we inject the gastrocnemius muscle with lidocaine, and drop lidocaine on to the sciatic nerve, there will be a decrease in the strength of the muscle contractions. Since the nervous system of a frog leg is similar to that of humans, this experiment could provide information into issues with human nervous systems.
+
+
+Materials and Methods:
+Obtain three frog legs of a similar size, this is to try and have as much similarities between the frog legs and to remove any possible discrepancies that could occur.  Using tongs, fully remove the skin by peeling the skin back away from the muscle and bones. Gently, pull apart the thigh to separate the quadricep and the hamstring; the division should already be visible and can be pulled apart simply. Once the two muscles are separated, find the sciatic nerve which is a white filament in between the muscles and is connected to the knee. Lay the sciatic nerve to the side away from the muscles by clearing any membranes that are keeping it close to the thigh muscles. Pin down the frog leg by angling the pins into an X with the muscle in between. This is to ensure that the frog leg remains in place and that any instruments used will also be stabilized. With one sharp blade of a pair of scissors, gingerly glide it down in between the calf muscles in the frog leg. Ensure that the gastrocnemius muscle is fully separated from any other tissues or muscles in the calf. Using scissors, detach the gastrocnemius muscle by removing the Achilles tendon from the foot of the frog leg. The Achilles is the white tendon behind the ankle of the foot, with the scissors cut off as much of the tendon without cutting the gastrocnemius muscle itself. Using a piece of thread, carefully tie a knot around the base of the gastrocnemius near what was the whole Achilles. Tie a larger loop with the rest of the string. Attach this loop vertically until taut so that the gastrocnemius muscle is perpendicular to the rest of the leg. Using Frog Ringer’s Solution, make sure that the entire frog leg remains moist throughout the experiment, a squirt or two from a bottle every five minutes will be sufficient. 
+	Using an electrophysiological recorder, place the two pins into the gastrocnemius muscle. Then send stimuli starting at 0.1 amps until the frog leg twitches and record the values. This will be the threshold for the leg. Add 0.1 amps and record the new values three times to get an average. Then, inject the gastrocnemius muscle with 1 milliliter of lidocaine and drop a few drops onto the sciatic nerve. Adjust the height at which the thread is holding the gastrocnemius muscle since with the lidocaine it becomes heavier. Now using the value 0.1 amps above threshold, record the amplitude of the muscle contraction and take the average of that as well. Repeat for the other two frog legs. 
+	Calculate the averages for the strength of the muscle contractions in amplitudes for the control and treatment of each frog leg. The change between the voltages of before and after lidocaine was injected can be compared using a paired t-test. A double bar graph for each of the three legs was created to show a visual of the experiment. The p-value of the paired t-test was also determined to support or refute the hypothesis.
+
+
+
+Results:
+The experiment conducted analyzed the effects of lidocaine on the strength of muscle contractions. Figure 1 depicts three frog legs and the strength of their muscle contraction for both treatment and control. The values for the treatment of lidocaine was smaller in all three legs (0.0013, 0.001, 0.0017) in comparison to the control values (0.0183, 0.027, 0.011). The two-sample paired t-test compares the effects of the treatment in comparison to the control values. If the p-value for this statistical test is greater than 0.05, the experiment fails to reject the null hypothesis. The p-value for this experiment was 0.06881.
+
+Discussion:
+	This lab examined the effects of lidocaine, a sodium channel blocker, on muscle contractions of frog legs from the Rana pipiens species. This could be examined by taking a set stimulus value and comparing the contraction of the leg when injected with lidocaine versus when not. The hypothesis was that by adding lidocaine, the muscle contraction strength will decrease because the sodium channels will be blocked, and the contraction will not be able to proceed. Figure 1 shows the difference in strength between the control and the treatment within each leg. There is a decrease in the amount of force in the contraction when lidocaine is added. Our statistically significant result did not disprove the null hypothesis however. There are a few reasons that this could have occurred. When conducting the experiment with the lidocaine already added, there were a few times that the leg did not twitch, and the sensor did not record the value. Therefore, this suggests that the stimulus was too small to actually make the muscle contract. This would affect the data since the average of the stimulus for the treatment would be lower since it would have been a 0 for the contraction. We chose to ignore these ‘ghost contractions’ so that we could determine a concrete value.
+	By conducting a paired t-test, the difference between the control and treatment could be analyzed. The statistics showed that the experiment did not support the hypothesis. However, due to the errors listed above, a few other experiments could be conducted to further continue this study. First, a more precise recorder could be used to capture small twitches, or instead a higher value could be examined between the control and treatment. Furthermore, more experiments could be conducted to examine the overall efficacy of lidocaine. Since humans have a similar nervous system, this could help with overactive muscles.
+	
+
+
+Literature Cited:
+1.	Cummins TR. Setting up for the block: the mechanism underlying lidocaine's use-dependent inhibition of sodium channels. J Physiol. 2007; 582(Pt 1):11.
+2.	Johnson, AD. Hormone Regulation. Comparative Physiology. Department of Biology, Wake Forest University, Winston-Salem NC. Version 18.2 (updated August 2, 2018) pp. 35-40
+3.	Sadava, David E. Life: The Science of Biology. Sunderland, Mass: Sinauer Associates, 2011. Print.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+leg+%282%29.png&Size=12308&Type=image%2Fpng&F=F_Ti1MF4H0hhxvVWV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The difference in muscle strength contraction for the control and treatment of each frog leg. Control frog legs (blue bars) have no noticeable differences. Treatment frog legs (orange bars) have 1 mL of lidocaine, a sodium channel blocker, injected and dropped onto the gastrocnemius muscle and sciatic nerve. Muscle contractions were measured using an electrophysiological recorder. *************************************************************************
+
+
+

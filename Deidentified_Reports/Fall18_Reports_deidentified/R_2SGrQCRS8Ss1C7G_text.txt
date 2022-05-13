@@ -1,0 +1,75 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-25 12:42:29
+Author of this lab report is: Std_9WtlsL87
+ID: R_2SGrQCRS8Ss1C7G
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Effect of Sodium Bicarbonate Concentration on Photosynthesis Rate of Spinach
+
+Abstract:
+Photosynthesis, an essential process of plants to harvest energy, can be affected by a range of factors. This experiment examined the effect of sodium bicarbonate on the photosynthesis rate. The null hypothesis was that the increase in sodium bicarbonate concentration does not increase the photosynthesis rate, while the alternative, which is expected, is that the photosynthesis rate should significantly increase. The result of an ANOVA test with a p-value of 0.161&gt;0.05 suggests there is no significant difference. It turned out that sodium and bicarbonate have the opposite effect of photosynthesis rate, which can explain the insignificant results of this experiment.
+
+Introduction:
+	Photosynthesis is one of the most important ways for the plants to harvest energy. The chloroplast is the main site where photosynthesis takes place. The process can be simplified as the conversion of carbon dioxide and water to sugar and oxygen under light. This reaction scheme indicates that several variables can influence the rate of photosynthesis, for example, the concentration of water, the intensity and the wavelength of the light input, and not limited to these. 
+	In the case of carbon dioxide, because all of the carbons in the organic product, sugar, from photosynthesis come from carbon dioxide, the concentration of carbon dioxide should affect the rate of photosynthesis. For soybeans, an elevated level of carbon dioxide results in an increase in photosynthesis rate, biomass, and yield of seeds [Allen et al: 1987]. It is reasonable to say that an increase in carbon dioxide concentration should result in a larger rate of photosynthesis for most plants.
+	Sodium bicarbonate is a compound that slowly releases carbon dioxide, so the addition of sodium bicarbonate to plant should increase the photosynthesis rate, as adding sodium bicarbonate is essentially adding carbon dioxide. In this experiment, spinach leaves were treated with sodium bicarbonate to examine the effect of sodium bicarbonate on plants. The null hypothesis is that an increase in sodium bicarbonate concentration does not increase photosynthesis rate, while the alternative hypothesis is that such increase should result in an increase in photosynthesis rate. The alternative hypothesis is expected.
+	The rate of photosynthesis can be quantified in several ways, for example, the consumption of carbon dioxide or the production of sugar. However, these measures can be hard to obtain and can be disrupted. In the case of sugar production, while producing sugar as the product of photosynthesis, the plant itself is breaking down sugar to produce energy. In other words, the measure of sugar production may not give a precise result. Instead, in this experiment, the rate of photosynthesis was determined by measuring Hill reaction. Hill reaction essentially describes the process of that electron transport chain pass electrons to carriers. In the case photosynthesis, the electron transport chain can pass electrons to DCPIP, an alternative electron receptor other than NADP+. 
+	DCPIP solution has a blue color with an absorbance of 600 nm. After DCPIP receives electrons and gets reduced, it turns colorless. Thus, the absorbance change at 600 nm over time indicates the rate of photosynthesis. The absorbance can be measured by a photo-spectrometer. In this way, photosynthesis was quantified.
+
+
+Materials and Methods:
+	Chloroplast sample was prepared with spinach leaves. The central veins of the leaves were removed, and the other parts of the leaves were washed with water. The remain parts of the leaves were then grinded to in a cold mortar & pestle with the addition of 10 mL of grinder buffer, which is made of 400 nM sucrose in Tricine buffer. The leaves were grinded to pestle; after another 10 mL of grinder buffer was added, the spinach slurry was filtrated through a piece of cheesecloth. The strain was dumped, and the filtrate was collected in a cold 50 mL centrifuge tube, labeled as A. 
+	The sample in the tube was centrifuged at 200G for 3 minutes. The liquid in the tube after the centrifuge was transferred to another centrifuge tube, labeled as B, while the debris at the bottom of the tube was discarded. Tube B was then centrifuged at 1000G for 10 minutes. The supernatant in tube B was removed and the pellet at the bottom of the tube was resuspended by 20 mL of grinding buffer. Chloroplast sample was prepared.
+	10 test tubes in total were prepared and labeled as blank, and from 1 to 9; each of the 10 test tubes had 100 uL of chloroplast sample. The blank tube only contained 8 mL of water and 2 mL of reaction buffer, which is 100 mM phosphate solution. Test tube 1-3 were chloroplast with 0 M sodium bicarbonate, which was prepared as 6 mL of water, 2 mL of DCPIP, 2 mL of reaction buffer. Test tube 4-6 were chloroplast with 0.5 M sodium bicarbonate, which was prepared as 6 mL of water, 2 mL of DCPIP, 2 mL of 0.5 M sodium bicarbonate solution. Test tube 7-9 were chloroplast with 1.0 M sodium bicarbonate, which was prepared as 6 mL of water, 2 mL of DCPIP, 2 mL of 1.0 M sodium bicarbonate solution. 
+	Immediately after all of the 10 test tubes were prepared and mixed well, the absorbance of each sample was measured by pouring some of the solutions to a cuvette, which was put into the photo-spectrometer set at 600 nm. After this first measurement, the 10 cuvettes with samples inside were put under sunlight. Measurements of absorbance were taken after 10, 20 and 30 minutes.
+	With the data collected, an ANOVA test was conducted.
+
+
+Results:
+The result of an ANOVA test on the % change of absorbance of the three treatments after 30 minutes suggests there is no significant difference among them, with a p-value of 0.161&gt;0.05, a variance component (%) of 33.39 among groups and 66.51 within groups.
+	According to Figure #1, the % change of 0.5 M sodium bicarbonate was the largest among the three treatments. Although the treatment of 1 M sodium bicarbonate increases the % change of absorbance, the difference was not as large as the 0.5 M treatment.
+
+
+Discussion:
+Discussion
+	The large p-value of this experimental result does not give sufficient evidence to reject the null hypothesis that an increase in sodium bicarbonate concentration does not result in an increase in photosynthesis rate, while the alternative hypothesis cannot be accepted. 
+	When sodium bicarbonate is dissolved, there will be two ions formed in water, sodium ion and bicarbonate ion. The two ions have a different effect on plants. In the case of sodium ion, the elevated level of it can be toxic to plants, and thus decrease the rate of photosynthesis [Bie: 2004]. On the other hand, the bicarbonate supplement can increase photosynthesis rate [White et al: 2013]. It seems like sodium ions and bicarbonate ions have the opposite effects on plants in the case of the rate of photosynthesis. In other words, the addition of sodium bicarbonate to the chloroplast is not a simple addition of carbon dioxide, of which the concentration can increase the rate of photosynthesis. 
+	The opposite effect of sodium ions and bicarbonate ions can be one of the reasons that the result of this experiment is not significant, while there can be other errors involved. For example, the solution in the test tube was mixed, but not perfectly well. 
+As the effect of sodium bicarbonate to plant photosynthesis is more complicated than assumed, further experiments and studies are suggested. For example, a comparison experiment between sodium bicarbonate and sodium sulfate can be conducted to examine the effect of bicarbonate ions to the plants. 
+
+
+Literature Cited:
+1.	Allen Jr, L. H., Boote, K. J., Jones, J. W., Jones, P. H., Valle, R. R., Acock, B., ... & Dahlman, R. C. (1987). Response of vegetation to rising carbon dioxide: Photosynthesis, biomass, and seed yield of soybean. Global Biogeochemical Cycles, 1(1), 1-14.
+2.	Bie, Z., Ito, T., & Shinohara, Y. (2004). Effects of sodium sulfate and sodium bicarbonate on the growth, gas exchange and mineral composition of lettuce. Scientia Horticulturae, 99(3-4), 215-224.
+3.	White, D. A., Pagarette, A., Rooks, P., & Ali, S. T. (2013). The effect of sodium bicarbonate supplementation on growth and biochemical composition of marine microalgae cultures. Journal of applied phycology, 25(1), 153-165.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Capture.PNG&Size=21175&Type=image%2Fpng&F=F_1pA36LlplRQu4HM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure #1 shows the % change of absorbance of the three treatments over a 30-minute period. For each treatment, an average of the three samples was taken.*************************************************************************
+
+
+

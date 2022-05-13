@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-08 16:16:31
+Author of this lab report is: Std_zGRUbOlb
+ID: R_Df2GMBOyGHZ86eR
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title:  Effect of Differing Wavelengths of Light on Photosynthetic Rate in Enriched Chloroplasts
+
+Abstract:
+Plants have evolved the ability to turn visible light into energy through the process of photosynthesis.  Chlorophyll, the pigment in chloroplasts, absorbs a variety of differing wavelengths of light.  We aimed at finding the effect of these differing wavelengths of light on the rate of photosynthesis.  For this experiment, DCIP was added to cuvettes with spinach chloroplasts, which were exposed to differing light colors for 30 min. Every ten minutes the cuvettes were placed in a spectrophotometer set at 600nm and the absorbance of DCIP was measured. The white light and green light were found to have the largest %change in absorbance, while red was found to have the lowest %change.  The large change in absorbance indicates high photosynthetic activity, therefore those exposed to white and green light exhibited the highest photosynthetic rate.  
+
+Introduction:
+The radiation emitted from the sun in the form of light provides our planet with all the energy it needs to support complex life.  Light is in the form of electromagnetic energy that travels in wave form.  In the range of electromagnetic radiation, known as the emission spectrum, there is a small strip of which is visible light, that is light that can be detected by the naked human eye.  Visible light has wavelengths that range from 400-700 nanometers [Sliney 2016].  Over millions of years plants evolved the ability to use this visible light from the sun to create their own energy in a process known as photosynthesis.  This process combines Water and CO2 with light energy to create glucose and O2 during a series of light dependent and independent reactions.  In plants, this process usually occurs mainly in the leaves, where chloroplasts (the photosynthetic organelle) capture the energy from sunlight, convert it to glucose, and store the energy in the form of ATP and NADPH.  Chloroplasts contain a pigment called chlorophyll that absorbs all wavelengths of light except green light, which is reflected giving chloroplasts their green appearance.  When light energy is absorbed by the chloroplasts, it may excite certain electrons in Photosystem 2, which travel through a series of enzyme complexes that use the energy from the excited electron to create a H+ proton gradient.  This gradient is utilized by an enzyme ATP synthase to create ATP [Evans 2017].  Our research question was does the wavelength of light absorbed by chloroplasts have an effect on their photosynthetic rate? While it is already known that light intensity is a limiting factor in the rate of photosynthesis, wavelength may influence the rate of photosynthesis because different wavelengths of light have different energy.  Shorter wavelengths have higher frequency which means they are higher in energy, whereas longer wavelengths have lower frequency and therefore less energy.  In our experiment we enriched chloroplasts from spinach leaves and tested the rate of photosynthesis using a variety of different light colors.  We hypothesized that white light and blue light would yield the highest rate, while green light and no light would have the lowest rate.
+
+
+
+Materials and Methods:
+The first step in this experiment was to isolate our chloroplasts.  We were provided with spinach leaves for this experiment, which we first broke down using a mortar and pestle with 20 ml of grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) and then filtered through cheesecloth into a 50 ml centrifuge tube.  We then spun the centrifuge for 3 min at 4 degrees C at 200 x G.  Next, we removed the supernatant into another 50 ml centrifuge tube which was then spun for 10 min at 1000 x G at 4 degrees C.  After discarding the supernatant, we added another 20 ml of grinding buffer to the pellet and mixed by pipette.  We then set up a Hill reaction procedure to measure Photosystem 2 reduction activity.  We set up 4 groups of tubes, each with three replicates, consisting of 6 ml water, 2 ml reaction buffer (100 mM phosphate, pH 6.5), 100 ul of chloroplast mix, and 2 ml of DCIP.  The DCIP served as our alternative electron acceptor for the Hill reaction. Oxidized DCIP is a dark blue compound with an aromatic ring structure that absorbs light maximally at 600 nm. Reducing it to DCIPH2 reorganizes the bonds to conjugated C=C bonds, making the molecules colorless. This color loss lets us measure DCIP reduction to DCIPH2 directly, as a decrease in light absorbance at 600 nm.  Each group of 3 replicates were assigned a different color of light; white, red, green, and no light.  We then set up a group (same composition) with no chloroplasts under white light, as well as a blank (only containing reaction buffer and water) for our spectrophotometer.  We took initial readings of all 16 of our tubes in the spectrophotometer(600nm) and recorded them.  We then set up our tubes in their respective locations and measured absorbances every ten minutes for 30 minutes.  We then analyzed and compared these changes in absorbances using a graph and a two-sample t test.  
+
+Results:
+In order to see if the different colors of light had an effect on the photosynthetic rate of our enriched chloroplast, we analyzed all of the absorbance readings taken from the groups in differing light and chloroplast conditions and calculated the mean %change for each group.  Decreasing absorbances in an indication of photosynthetic activity.  As seen in figure 1, there was a trend of decreasing absorbances in the samples exposed to all wavelengths of light, with white light decreasing the most with an average of 20% change in absorbance, followed by green with an average of 8.5 % change, and then red light with an average of 2.5 % change in absorbance.  The tubes containing no chloroplasts and chloroplasts in the dark saw no decrease in absorbance (average increase of 1.6 %) indicating no photosynthetic activity, ensuring that our Hill Reaction was run correctly.  Figure one also indicates a faster increase in photosynthetic activity in the first 10 minutes for white light and green light compared to the other groups.  The increase in the photosynthetic rates were significant (p=.05) for all our light exposed groups when compared to both the no chloroplast group and the dark group.  
+
+
+
+Discussion:
+The absorbances readings recorded measured the amount of DCIPoxidized in the cells. As photosynthesis occurred, electrons were donated to the DCIPoxidized, forming DCIPH2 reduced. DCIPoxidized is able to absorb light from the spectrophotometer at 600 nm, hence that it why it was calibrated at 600 nm [Brown 1961].  Our results seemed to be in line with what was predicted, white light having the highest photosynthetic rate, and no light/ no chloroplasts having the lowest rate. However, the rate of photosynthesis in green light was higher than red light, which is not in line with our hypothesis.  The reason a green light was used was because chlorophyll absorbs all colors of light except for green and yellow [Chiras, 1993].  One explanation for why we saw higher photosynthetic activity in green light than red light could be due to the removal of tubes from light when taking absorbance readings.  The white light from the classroom could have caused the rate of photosynthesis to increase for a little before being put back under directly green light.  Another explanation could be that the red-light source was too far away from the tubes, decreasing the light intensity and therefore the photosynthetic activity [Bidwell, 1979].  If we can understand and control the intricacies of photosynthesis, then we can then start to better understand the role that these organisms play in issues such as climate change, create agricultural crops that can grow in adverse natural conditions, and even aid in medicine development and solar energy conversion.  
+
+
+
+Literature Cited:
+Bidwell, R. G. S. 1979. Plant Physiology. (MacMillian Publishing Co., NY, NY) 726 p.  Chiras, Daniel D. 1993. Biology: The Web of Life. (West Publishing Co., St. Paul, Mn) 896 p  Abeles FB, Brown AH, Mayne BC. Stimulation of the Hill reaction by carbon dioxide. Plant Physiol. 1961 Mar;36(2):202–207  David H Sliney, 1982. Optical Radiation. Vol 2. PP 142-150
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+1.png&Size=152110&Type=image%2Fpng&F=F_zdx1H3QmKDHkU3n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+This graph shows the %change of the absorbances taken evry 10 min for a 30 min period for each group of tubes*************************************************************************
+
+
+

@@ -1,0 +1,85 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-08 16:39:14
+Author of this lab report is: Std_xRYy2EXB
+ID: R_1BSobukuVu1Hc4F
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: The effect of temperature on the rate of Photosystem II reduction in Spinacia oleracea
+
+Abstract:
+Photosynthesis is a multi-step process composed of light dependent and light independent reactions in thylakoid. It can be affected by many internal and external conditions like surrounding temperature. The main objective of the study is to determine the effect of temperature on the rate of Photosystem II reduction. It was hypothesized that for Hill reaction, the percentage absorbance change over time would be lower at both low and high temperatures compared to room temperature. Comparing the three temperature groups (0, 25, 40℃), there is significant difference in % absorbance change over time (p&lt;0.05). The hypothesis for heating effect is supported, as the % absorbance change over time for the high temperature group is significantly lower compared to the room temperature group (q= 3.73&gt;2.89). But the hypothesis for chilling effect is opposed, as there is no significant difference in % absorbance change over time between low and room temperature groups (q=1.12&lt;2.89).  
+
+Introduction:
+
+Photosynthesis is the three-stage process where light energy is converted into chemical energy in the form of organic molecules. The chemical reactions of photosynthesis can be categorized into light-dependent and light-independent reactions. 
+
+During the light-dependent reactions, the energy from absorbed photons from sunlight activates chlorophyll molecules in photosystem II of thylakoid membrane. This leads to the ejection of electrons from the reaction center of Photosystem II to the primary electron acceptor called Q which then reduces plastoquinone (Pq) [Berthold: 1981]. Reduced plastiquinone transports its electrons to cytochrome b6f which pumps protons across the thylakoid membrane into the thylakoid lumen and establishes proton graidnets [Berthold: 1981]. The accumulated protons then move down electrochemical gradient through ATP synthase, powering the synthesis of new ATP molecules from ATP synthase complexes through chemiosmosis. 
+
+The activity of photosystem II can be affected by environmental factors, including light intensity, soil composition, and temperature, etc. In this investigation, the effect of temperature on the reaction rate of Photosystem II is examined. The photosystem activity can be measured with Hill reaction using 2,6-dichlorophenol indophenol (DCIP) as the alternative electron acceptor. DCIP is selected because it is blue in its oxidized state and turns colorless when Pq passes electrons and reduces it [Rosinger: 1981]. The change in absorbance can be an indirect approach to measure the movement of electrons and reduction rate. So to be more specific, the hypothesis is that the percentage absorbance change over time would be lower at both low and high temperatures compared to room temperature. And spinach is selected as the sample because of their appropriate size and abundance of chloroplast content. 
+
+
+Materials and Methods:
+A mortar & pestle, a 150 ml beaker and a 50 ml centrifuge tubes are placed into ice bath to cool.  During cooling, 4 medium-sized spinach leaves are deveined and rinsed with tap water. After approximately 10-min cooling, spinach leaves are grinded with motor and pestle with 10ml of cold grinding butter (400 mM sucrose in Tricine buffer, pH 8.0) until there are no large chunks of leaves left. The spinach slurry is then mixed with another 10ml of grinding buffer and strained through three layers of cheesecloth into the chilled beaker. The spinach mixture is poured into the centrifuge tube and centrifuged for 20 minutes at 2000rpm. During centrifuging, test tubes are prepared with the following volumes: the blank (1 tube) contains 8ml water and 2ml reaction buffer(100 mM phosphate, pH 6.5); and each experimental tube (15 tubes) contains 6ml water, 2ml 130 mM DCIP and 2ml reaction buffer(100 mM phosphate, pH 6.5). The supernatant is discarded and the pellet is resuspended with grinding buffer. 100uL of this solution is added to each test tube. 
+
+After blanking the spectrophotometer at 600nm with the blank, the absorbances of all samples are measured and recorded as time zero data. The experimental tubes are split into 3 groups: 5 test tubes are placed in ice bath (0℃), 5 test tubes are placed are place in a rack at room temperature (25℃),5 test tubes are placed in heating bath (40℃). Every 10 minute, the spectrophotometer is blanked with the blank sample at 600nm and absorbances of all samples are measured and recorded until 30 minutes is reached. After each measurement, each group of test tubes should be put back to the ice bath, the rack, or the heating bath. 
+
+All absorbance mesurements are recorded in the raw data table. Average absorbances over time for all treatment groups are calculated and displayed in Table 1. And % changes in absorbances against time for all treatment groups are calculated with % change = [(Absorbance at time zero – Absorbance at time ‘N’ )/ Absorbance at time zero]  x 100% and displayed in Figure 1. Two factor ANOVA without and with Replication and Tukey’s HSD test are used to  compared temperature groups over time,and the level of significant was set to p&lt;0.05.
+
+
+Results:
+According to Table 1, the average absorbance continues to decrease over 30 minutes for both treatment groups at low and room temperature. For the group at high temperature, the average absorbance decreases largely over the first 10 minutes by over 0.06, but starts to increase for the last 20 minutes. 
+
+In Figure 1, at the first 10 minutes, the average % change in absorbance is highest at room temperature and lowest at low temperature. At 20 minutes, the average % changes in absorbance at both low and room temperature are larger compared to the ones at 10 minutes. And % absorbance change for low temperature group becomes the largest at the end of 30 minutes. However, the average % absorbance change for the high temperature group continues to decrease for the last 20 minutes. 
+
+According to two-factor ANOVA without replication, the p-value for average % absorbance change among temperature groups over time is 0.01(&lt;0.05). And the p-value for average % absorbance change within each temperature group over time is 0.02(&lt;0.05). And according to two factor ANOVA with replication and Tukey’s HSD test (q critical value= 2.89), the q values comparing room and high temperatures, room and low temperature, and high and low temperatures are respectively 3.73(&gt;2.89), 1.12(&lt;2.89), and 2.60(&lt;2.89).
+
+
+Discussion:
+It is hypothesized that significant decreases in percentage absorbance change over time caused by both chilling and heating effects would be shown. Overall, the hypothesis is supported because there is significant difference in % absorbance change over time among the three temperature groups. Specifically, the hypothesis for heating effect is supported, as the % absorbance change over time for the high temperature group is significantly lower compared to the room temperature group. But data opposes the hypothesis for chilling effect, as there is no significant difference in % absorbance change over time between low and room temperature groups and % absorbance change at the end is even higher at low temperature.  
+
+One possible explanation is temperature-induced change in lipid fluidity in thylakoid membrane. In the study by Nolan, the temperature-induced change in photosystem activity at temperature above 35℃ has a destructive nature because high temperature may cause dissociation of chlorophyll-protein complexes [Nolan:1976]. This conformational change results in large decrease in activation energy for reduction reaction in photosystem II. 
+
+For chilling effect, the result can be explained by the fact that spinach is a chilling-resistant plant. As shown in the study by Rosinger, pea which is a chill-resistant plant showed a large increase in the activation energy (kJ mol-1) for electron transport activities of isolated chloroplasts when temperature was decreased from 25℃ to 12 ℃ [Rosinger: 1982]. The increase in the activation energy is probably because low-temperature-induced rotational freedom in thylakoid membrane lipids may be favorable for electron transport. 
+
+Improvements could be made by testing on larger number of spinach leaves and prepare DCIP solution with a higher concentration. 
+
+
+Literature Cited:
+1.Deborah A. Berthold，Gerald T. Babcock，Charles F. Yocum.1981. A highly resolved, oxygen‐evolving photosystem II preparation from spinach thylakoid membranes. FEBS Letters. 134: 231-234.
+2. William G. Nolan, Robert M. Smillie. 1976. Multi-temperature effects on hill reaction activity of barley chloroplasts. Plant Physiology. 440: 461-475. 
+3. C. H. Rosinger, J. M. Wilson and M. W. Kerr. Changes in the Temperature Response of Hill-Reaction Activity of Chilling-Sensitive and Chilling-Resistant Plants after Hardening. 1982. Oxford University Press. 33: 321-331. 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.png&Size=117636&Type=image%2Fpng&F=F_2f7Cu60IZX6jyLV
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=230785&Type=image%2Fpng&F=F_b2SLpeywllss0N3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Average Absorbances over time for each of the three treatments (low temperature, room temperature, and high temperature)
+
+Figure 1. The % change in absorbances against time for each of the three treatments (low temperature, room temperature, and high temperature)*************************************************************************
+
+
+

@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-16 17:57:26
+Author of this lab report is: Std_NRIXyTdK
+ID: R_31dAnA3wlnIIOsc
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Adding methoprene to the diet of the Manduca sexta altered the growth rate by increasing weight
+
+Abstract:
+Pest control is highly important in aiding the production of crops from an economical standpoint. Insect Growth Regulators serve as an alternative form of more harmful methods of pest control such as insecticides and pesticide. In this experiment, the effects of Martin’s IGR were observed on the Manduca sexta, which contains methoprene that behaves as a synthetic form of juvenile hormone. Juvenile hormone is found in low concentrations in these insects when they begin their development through metamorphosis into a pupal and adult moth, making it an essential component among Manduca sexta maturation. In this experiment, methoprene was given to four tobacco hornworms approximately the same size, while water was given to four control tobacco hornworms. The expectations were that the increased levels of juvenile hormone would decrease the growth rate of the insects, however the results revealed that adding Martin’s IGR caused the insects to increase in weight compared to the control group, resulting in a p-value of .00652. This experiment revealed that the small concentrations of methoprene added during the larvae stage supports the continual weight gain leading up to pupation rather than causing a stunt in growth, however increasing the hormone ultimately prevented further molting.
+
+Introduction:
+This experiment observes the effects of a synthetic hormone that affects the maturation of the tobacco hornworm. Tobacco hornworms are insects that belong in the Order Lepidoptera, scientifically known as the Manduca sexta. This insect serves as a model organism for observing the effects of manipulating hormonal growth because it visibly transforms through stages of life as levels of two hormones change throughout their holometabolous life cycle. Hormones regulate the growth and development that affect the behavior and physiology of the organism, and these specific hormones produced by the Manduca sexta regulates the growth process controlled simultaneously by the two hormones ecdysterone and juvenile hormone [Johnson:2016]. The growth of the Manduca sexta occurs in molts until the final transformation from the larvae stage to the pupa and adult stage is initiated through the commitment pulse. Before the commitment pulse, juvenile hormone levels remain fairly high during the larval stages while the insect eats abundantly to increase in weight in order to prepare for proper maturation. Once its body has determined it is properly nourished and large enough, the juvenile hormone levels drop and ecdysterone levels rise, which initiates metamorphosis from larvae to pupa [Johnson:2016]. This calls into question how the holometabolous life cycle would be affected if one of these hormones are manipulated. 
+The larvae form of the Manduca sexta is commonly known as the tobacco hornworm due to the damage it causes to plants such as tobacco and tomatoes, which classifies this larvae form as a pest [Bryon:2017]. One method in reducing the harmful effects of pests such as the tobacco hornworm is by manipulating the hormones that prevent proper development through Insect Growth Regulators (IGRs) [EPA:2001]. In this experiment, the holometabolous cycle will be manipulated by adding an IGR to the tobacco hornworm called methoprene, and the difference in the weights of each caterpillar from the beginning to the end of the experiment will be dependent on whether the caterpillars are given methoprene in their diet. Such as any IGR, methoprene is different from pesticides because it is not directly toxic to the insect, however it still alters how an insect matures through its typical life cycle [EPA:2001]. One study was done on an another arthropod named Neomysis integer (mysid crustaceans) in the juvenile form, which also uses ecdysteroid to regulate molting. They were either given .01, 1, or 100 μg of methoprene/1. By the end of the experiment there was a decrease in weight for the mysid crustaceans given 100 μg, revealing that additional juvenile hormone can cause “morphogenetic abnormalities” in an arthropod [Ghekiere:2006]. The higher levels of juvenile hormone had a counteracting effect on the normal weight gain of the mysid crustacean that overwhelmed their bodies through increased levels of the hormone, causing them to shut down as demonstrated in their weight loss. Therefore, if juvenile hormone levels are increased in the diet of tobacco hornworm through introducing methoprene, the caterpillar’s weight will decrease over time due to the overwhelmingly higher levels of juvenile hormone. 
+
+Materials and Methods:
+Eight tobacco hornworms were chosen from the lab that were approximately the same size and were divided into a control and experimental group. Both groups had its own container with four compartments that each housed one tobacco hornworm, each labeled 1 through 4 for identification purposes. Before placing them into their compartments, four breathing holes were poked through each compartment for air circulation. Each insect was then weighed in grams and placed back into their designated compartment. 10 grams of food were measured for all 8 tobacco hornworms and from there four servings were given six drops of water as the control groups diet using a pipette. The other four servings of food were each given six drops of Martin’s IGR. After distributing food, they were stored in an incubator at 25 °C that exposed them to light during the day and dark during the nighttime for two weeks. Every day each tobacco hornworm’s weight was recorded and food was redistributed when needed. A one-tailed two sample t-test was used to determine if the average difference in the beginning and ending weights for the experimental group was smaller than the average difference in weights for the control group in order to test the effects of adding more juvenile hormone to the diet of the tobacco hornworm.
+
+
+Results:
+Overall, the experimental group given the Martin’s IGR appeared much larger and swollen compared to the control group by the end of this experiment. The experimental group grew steadily with small amounts of fluctuation in weight during the middle of the experiment, but they overall increased towards a much higher weight than they began with. The control group became much smaller and skinnier with also demonstrating small weight fluctuation in the middle of the experiment. During the final days leading up to their pupation, the control group’s overall weight loss began to slow until their weight began to decrease in very small increments, and the experimental group’s weight also remained steady showing little gain or loss as the experiment concluded. On the 10th day of the experiment, the control group began to pupate therefore all data for the tobacco hornworms were finalized on the 9th day. The results of the experiment revealed the experimental group of tobacco hornworms to have an average of 7.375 ± 1.9467  and the control group to have an average of 2.21± 1.621 (Fig 1). The two sample t-test revealed that the mean of the control group was statistically significantly different than that of the experimental group (t-stat= 4.078, df= 6, P= .00652).
+
+Discussion:
+The results of this experiment concluded that the mean of the experimental group was statistically significantly different than the mean of the control group of tobacco hornworms, however this only proved that the averages of the control and experimental groups were in fact different. Our hypothesis was not supported because the eight tobacco hornworms that were given Martin’s IGR had a mean difference in weight that was significantly higher than the eight tobacco hornworms in the control group. Their increase in weight can be explained by the small concentration of methoprene actually contained within the Martin’s IGR that initiated little reaction from the tobacco hornworms due to the high juvenile hormone levels already present during their larvae stage. When these high levels are present, the tobacco hornworm is already working to gain an appropriate amount of weight to undergo pupation, therefore the small amounts of methoprene added simply enhanced their normal weight gain as seen through the experimental groups immediate swelling. Unlike the mysid crustaceans given 100 μg of methoprene, the tobacco hornworms bodies were not thrown off by the overload of juvenile hormone because the concentration of methoprene given was so diluted [Ghekiere:2006]. Instead, the tobacco hornworm bodies were able to adjust to the small increase in juvenile hormone allowing it to further support their growth in its larvae stage.This presents similar results to the reaction of the mysid crustaceans given .01 and 1 μg of methoprene/1, as they also did not present any weight decline [Ghekiere:2006]. Regardless of their weight gain, the experimental group was not able to pupate as the control group did due the general increase in methoprene that prevented juvenile hormone levels from dropping and initiating the commitment pulse. In conclusion, increasing methoprene in greater concentrations than the tobacco hornworm body can use beneficially can overwhelm their bodies and conclude in rapid weight reduction as suggested through the Neomysis integer experiment  [Ghekiere:2006]. In this case of tobacco hornworms, adding small amounts of methoprene caused their weight to increase slightly more than normal, while still preventing further molts by locking them in their larvae stage. These results demonstrate that the level of toxicity and harm an IGR can bring to the pest is dependent upon how concentrated the synthetic hormone is contained within this chemical. Furthermore, if IGRs contain a concentration similar to that found within the Martin’s IGR used within this experiment, then the IGR may have less toxic effects than one with a much larger concentration. 
+
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 6-14.
+2. Byron MA, Gillett-Kaufman JL.Tobacco hornworm, Maduca sexta (Linnaeus); tomato hornworm, Manduca quinquemaculata (Haworth). University of Florida. Accessed September 24, 2018. &lt;http://entnemdept.ufl.edu/creatures/field/tobacco_hornworm.htm&gt;
+3. EPA. June 2001 Update of the March 1991 Methoprene R.E.D Fact Sheet. Accessed September 24, 2018. &lt;https://www3.epa.gov/pesticides/chem_search/reg_actions/reregistration/fs_PC-105401_1-Jun-01.pdf&gt; 
+4. Ghekiere A, Verslycke T, Fockedey N, Janssen CR. 2006. Non-target effects of the insecticide methoprene on molting in the estuarine crustacean Neomysis integer (Crustacea: Mysidacea). Journal of experimental marine biology and ecology, 332:226-234.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+114+Chart+Revision.png&Size=24780&Type=image%2Fpng&F=F_endWavml8nhP3y1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect on tobacco hornworms through adding 6 drops of Martin’s IGR to diet. Four tobacco hornworms were placed in each group, stored in an incubator at 25 °C for 2 weeks. Weight of each was taken daily and difference in weight was found from the starting to final day of the experiment. Each bar represents the mean weight of the 4 tobacco hornworms from the treatment group (Martin’s IGR) and the 4 from the control group (water). Error bars for group given Martin’s IGR is ±1.9467 s.d. and for group given water is ±1.621 s.d.*************************************************************************
+
+
+

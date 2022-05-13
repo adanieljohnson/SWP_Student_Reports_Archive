@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-10 09:05:28
+Author of this lab report is: Std_uXYlkQKH
+ID: R_2ZIfZOi49iULd7Y
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of Electrical Charge on Physarum polycephalum Movement
+
+Abstract:
+Cellular signal transduction determines an organism’s response to external and internal stimuli and thus controls the organism's behavior and growth. Several environmental conditions can affect these pathways including electrical charge. To test the effect of electrical charge on Physarum polycephalum movement, a gel electrophoresis plate with equidistant physarum wells was used. The physarum movement on the electrophoresis plate was insignificant (p = 0.609) when compared to the movement on the control, however there was a consistent trend of movement towards the negative charge. However, the physarum should have experienced significant movement towards the negative charge due to the organism's positive nature. To enhance this experiment for more representative results, a control plate that better mimics the experimental plate should be used. 
+
+Introduction:
+Signal transduction pathways are critical to biological life because they allow cells, and thus organisms, to respond to stimuli in their internal and external environments. However, if certain phototactic, chemotactic, or electrotactic conditions are not ideal, then these pathways may be disturbed or inhibited from performing their assigned function. Therefore, it is important to study the effect that these environmental conditions may have on pathway efficiency. In order for such studies to occur efficiently in a laboratory setting, a model organism must be used. Physarum polycephalum is a good model organism to use because it’s physiology shares traits with human cells and other eukaryotic organisms. It is also easy to care for and it’s simplified nature allows it’s behavior to be explored easily without the use of a microscope [Johnson: 2018]. 
+While the physarum chemotactic and phototactic behaviors have been studied extensively, the effect of electrical charge has not been greatly explored. Thus, gel electrophoresis was was performed to determine whether physarum exhibits movement preference towards a positive or negative charge. This method of observing organism movement is a valid set up because the plate has a positive charge and one end and a negative charge at the other end, however, these charges aren't tied to a particular chemical. Therefore, the experiment can be controlled for the physarum reacting due to the presence of a particular chemical rather than the specific charge [Smithies: 1959]. We hypothesized that the physarum would experience greater movement towards the positive charge. 
+
+
+Materials and Methods:
+To begin, we grew a healthy physarum culture in a petri dish. Three 1 x 1 cm^2 equidistant cubes where then cut in the water agar plate and removed. Flakes of oatmeal were then evenly distributed on the plate. This even distribution accounts for the confounding variable of the physarum possibly moving towards a food source. Three 1 x 1 cm^2 squares were cut out of the physarum culture plate and placed into the empty wells that were created in the water agar plate. The side wells were then filled with SB buffer until the edge of the plate’s top was reached. We were sure not to overlay the agar with buffer in order to avoid affecting the physarum activity. The apparatus was set to 23 volts, which is the system’s lowest possible voltage, so that the physarum movement is not inhibited by excessive charge. The distances traveled on the electrophoresis agar were then compared to the distance traveled on a control plate from a phototactic experiment previously performed using an ANOVA test. The control plate was a petri dish containing physarum and a food source that was left to grow naturally for 24 hours. 
+
+
+Results:
+The experimental movement of the physarum on the electrophoresis was insignificant when compared to the movement of the physarum on a control plate after growth for 24 hours (p = 0.609). When compared in a bar graph, it can be seen that they physarum movement on the gel electrophoresis plate (12.3 ± 9.61) was less than the physarum movement on the control plate (15.7 ± 4.04) after 24 hours. The Tukey-Kramer test should significance between these two groups of movement.
+
+Discussion:
+The experimental results when comparing the physarum movement towards the negative charge to the organism’s controlled movement were insignificant (p = 0.609) meaning that the physarum movement towards the negative charge was clearly favored over the movement in the positive charge direction. However, the Tukey-Kramer’s test report of significance between the experimental and control groups identifies that the growth towards the negative charge did not occur to an extent that is similar enough to natural physarum movement, signifying that some type of movement inhibition did occur overall. If the negative charge was explicitly a positive growth factor, then the physarum would have moved farther towards the negative charge than it would have naturally moved in the control group. While it is difficult to claim that the physarum was explicitly attracted to the negative charge since the physarum movement on the electrophoresis plate was less than the movement within the control group or that the growth was strictly inhibited in the positive direction, it can be claimed that physarum did overall prefer to grow in the negative direction. 
+However, there is some biological explanation to these results. When investigated under electrophysiological methods, it was found that the overall composure of the physarum organism is positively charged [Fingerle: 1982]. Due to this natural positive charge, it can be reasoned that the positive charge in the electrophoresis repulsed the physarum and caused its movement towards the negative charge. 
+In order to improve the results of this study, a control apparatus setup that is identical to the experimental apparatus, on a gel electrophoresis plate and without the electrical charge, should be used. Thus, the overall movement can be equally compared within a positive control system that is identical to the experimental system without the experimental factor (electrical charge) to avoid the effect of a confounding variable that may results from using a petri dish versus a gel electrophoresis plate.
+
+
+Literature Cited:
+Fingerle J; Gradmann D. “Electrical Properties of the Plasma Membrane of Mico Plasmodia of Physarum-Polycephalum.” Journal of Membrane Biology. 68.1 (1982): 67-77.
+
+Johnson AD. Signaling. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), Web.
+
+Smithies, O. "An improved procedure for starch-gel electrophoresis: further variations in the serum proteins of normal individuals." Biochemical Journal 71.3 (1959): 585.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio.PNG&Size=811981&Type=image%2Fpng&F=F_1pY937vCcegVbqy
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio2.PNG&Size=17559&Type=image%2Fpng&F=F_126cMsePnEsDJ7t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Apparatus set up for the water agar plate with three equidistant wells of physarum down the middle and flakes of oatmeal equally distributed.
+
+Figure 2. The average distance traveled (mm) by the physarum on the electrophoresis water agar in the direction of the negative charge verses the average distance traveled (mm) by the physarum on a control water agar plate after 24 hours of growth. The error bars are representative of the variation in results within the three trials.
+
+
+*************************************************************************

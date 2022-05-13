@@ -1,0 +1,78 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 00:20:08
+Author of this lab report is: Std_KBbwhS2U
+ID: R_3PzvN1Z67gQ7npO
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The effect of Lidocaine on the sodium channels in the sciatic nerve of a frog leg
+
+Abstract:
+This study investigates the role of sodium channels in the motor neurons that control leg muscle contraction by testing the effect Lidocaine, a sodium channel inhibitor, has on the sciatic nerve and ultimately the contraction of the gastrocnemius muscle in a frog leg.  We hypothesize that if the gastrocnemius muscle of a frog leg is injected with Lidocaine then the sodium channels in the sciatic nerve will be inhibited and the muscle response will be lower. To test this hypothesis, the standard contraction of two frog legs stimulated at different amplitudes (2V and 0.5V) were recorded.  The gastrocnemius muscles were then injected with Lidocaine and stimulated at different amplitudes (2V and 0.5V). The contraction of the two legs after treatment was recorded.  It was concluded that the injection of Lidocaine resulted in a lower response (lower standard contraction) from the muscle than the response pre-contraction. This reveals that sodium ions are responsible for the depolarization of muscle cells that results in the propagation of action potentials across an entire muscle.  Overall, the hypothesis was proven correct because the null hypothesis could be disproven and the data was statistically significant (p=0.018576).
+
+Introduction:
+The neuromuscular system consists of nerves and muscles responsible for an organisms’ response to its’ internal and external environments.  The system functions because of the organization of nerves and muscles into individual motor units.  These motor units consist of a single axon in a motor neuron and all the myofibrils it synapses with [Johnson: 2018]. When an action potential reaches a motor axon, all the myofibrils attached to it will be stimulated to contract. Myofibrils, connected by connective tissue, make up skeletal muscle.  Skeletal muscle cells are synapsed by motor neurons that extend to individual myofibrils and create neuromuscular junctions [Johnson: 2018]. At these junctions, action potentials are propagated that will eventually spread through the entire muscle, causing it to contract.  Action potentials spread via depolarization.  Depolarization is caused by the release of acetylcholine from the presynaptic nerve terminal. This opens sodium ion channels on the post synaptic membrane and, in turn, the concentration of sodium ions in the post synaptic cell increases [Johnson: 2018].  This causes calcium ions to be released from the sarcoplasmic reticulum which ultimately leads to muscle contraction [Johnson: 2018].  
+Six scientists tested the effects of Lidocaine on intracellular calcium ions in airway smooth muscle and the tension produced in the muscle by acetylcholine [Kai: 1993].  To test this, the investigators dissected strips of trachea from adult pigs and increased their extracellular Ca2+ concentration by the addition of CaCl2.  Lidocaine was then applied to the muscle five minutes before Ach was applied to measure its’ effect on tension in the muscle.  The researchers observed that cumulative application of CaCl2, Lidocaine, and tension induced by Ach resulted in rapid increases of Ca2+ and muscle tension followed by a steady decline of both [Kai: 1993]. The cumulative application of Lidocaine to the tracheal strips ultimately resulted in a concentration-dependent reduction in calcium ions and muscle tension [Kai: 1993]. This study proves that Lidocaine affects motor neurons by inhibiting sodium ion channels that, in turn, inhibit calcium ion channels.  When Ca2+ concentration decreases, the muscles experiences less contraction and tension [Johnson: 2018]. 
+The experiment described below tests the effect injecting Lidocaine into the gastrocnemius muscle of a frog leg has on sodium ion channels in the sciatic nerve and, ultimately, contraction of the gastrocnemius muscle.  Discovering the effects of Lidocaine, a sodium channel inhibitor, on the contraction of a muscle will help to explain the role of sodium ion concentration in depolarization and the propagation of action potentials across muscle cells. We hypothesize that if the gastrocnemius muscle of a frog leg is injected with Lidocaine, a sodium channel inhibitor, then the sodium ion concentration will decrease in the muscle fibers, causing the muscle response to lower. 
+
+Materials and Methods:
+To carry out the experiment, the gastrocnemius muscle and sciatic nerve from two frog legs were isolated via dissection. The skin was pulled towards the foot, the inner thigh muscles were separated revealing the white sciatic nerve, and the nerve was freed from its’ connecting tissue. The frog legs were moistened with frog Ringer’s solution and connected to a force transducer which was connected to a computer running LabScribe to produce myograms.  A standard stimulation experiment was then carried out using pin probes inserted into the gastrocnemius muscle.  A myogram of the muscle response was recorded to determine the standard contraction of the muscle after it had been stimulated with 2 volt single pulses of constant duration. The muscle was stimulated two more times and responses were recorded. This data serves as the data for the control because it represents the muscle response before it had been injected with Lidocaine.  
+After the control data had been recorded for the first frog leg, the gastrocnemius muscle was injected with 0.1mL of Lidocaine.  The standard stimulation experiment was continued and the injected frog leg was stimulated three times.  The standard contraction of the muscle after each stimulus was recorded.  The above steps were repeated on a second frog leg. However, it was stimulated with 0.5 volt single pulses of constant duration in an attempt to obtain statistically significant results.  After sufficient data was collected, the standard contractions of the control muscles and treatment muscles were compared using a paired T-test. 
+
+
+Results:
+Overall, the data shows that the gastrocnemius muscle before injection has a greater average standard contraction than the muscle after it has been injected with Lidocaine. In addition, it was observed that the muscle receiving a 0.5V stimulus had a much greater average decrease in standard contraction after injection.  The response of the first leg pre-injection is 0.2213V and response of the first leg post-injection is 0.09 V. The response of the second leg pre-injection is 0.638 V and the response of the second leg post-injection is 0.039 V. This proves that the treatment legs had a minimal response compared to the control leg. 
+After performing a paired T-test using the average responses of the control and treatment groups, it was determined that the t-value is 3.432966 and the p-value of the results is 0.018576.  Because the p-value is less than 0.05, or 5%, it is concluded that the data is significantly different and, therefore, the results are statistically significant. 
+
+
+Discussion:
+In conclusion, the hypothesis was proven correct because the null hypothesis could be disproven (p=0.018576). The standard contraction of the treatment was lower than the standard contraction of the control. This means that the muscle response in both frog legs after they had been injected with Lidocaine decreased compared to their response before injection. This reveals the role of Na+ ions in muscle contraction.  The opening of sodium ion channels and the subsequent spreading depolarization causes action potentials to propagate throughout the muscle cell. These action potentials reach all the myofibrils that make up a muscle via neuromuscular junctions and the entire muscle contracts [Johnson: 2018].  Therefore, when Na+ ion channels are inhibited by an inhibitor, such as Lidocaine, the post synaptic cell will not be depolarized and action potential will not fire.  The muscle will relax, not contract [Johnson: 2018]. 
+According to a study on the effects of Lidocaine on intracellular calcium ions in airway smooth muscle, referenced in the introduction of this report, the role of Lidocaine in inhibiting sodium ion channels and, therefore, calcium ion channels, is of interest clinically because it can aid in the reduction of bronchoconstriction [Kai: 1993]. This is due to the fact that Lidocaine causes muscle relaxation by inhibiting the release of acetylcholine, the opening of sodium ion channels, and the inducing a decrease in calcium ion concentration in the sarcoplasm [Kai: 1993].  
+Moving forward, this experiment can also be applied by investigating effective ways to relieve muscle cramps. Muscle cramps are due to extended muscle contraction from a build-up of calcium ions in the sarcoplasm that are not being reabsorbed by the sarcoplasmic reticulum.  A sodium channel inhibitor, such as lidocaine, could be used to relieve muscle cramps by ending depolarization in the presynaptic cell and inhibiting the release of calcium ions from the sarcoplasmic reticulum.  This would prevent contraction and relieve painful muscle cramps. 
+
+
+Literature Cited:
+1.	Johnson AD. 2016. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.  
+2.	Kai T, Nishimura J, Kobayashi S, Takahashi S, Yoshitake J. 1993. “Effects of Lidocaine on Intracellular Ca2+ and Tension in Airway Smooth Muscle.” The Journal of the American Society of Anesthesiologists. Vol.78. 954-965.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+12.18.04+AM.png&Size=57767&Type=image%2Fpng&F=F_3JauBum0G6Ek78A
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+12.18.13+AM.png&Size=54815&Type=image%2Fpng&F=F_1n1uspiaGop6h5z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Lidocaine on the contraction of the gastrocnemius muscle 
+in frog leg one. The sciatic nerve was stimulated with 2 volt single pulses of 
+constant duration three times for the treatment and three times for the control.  
+The bars represent the standard contraction for the leg without lidocaine
+(control) and the leg with lidocaine (treatment). 
+
+Figure 2. Effect of Lidocaine on the contraction of the gastrocnemius muscle 
+in frog leg two. The sciatic nerve was stimulated with 0.5 volt single pulses of 
+constant duration three times for the treatment and three times for the control.  
+The bars represent the standard contraction for the leg without lidocaine
+(control) and the leg with lidocaine (treatment). 
+
+
+
+*************************************************************************

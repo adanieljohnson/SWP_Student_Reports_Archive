@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-27 08:59:04
+Author of this lab report is: Std_pzF9kRNM
+ID: R_3fr4kFt0X4VgGEz
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Changing the life cycle of Manduca Sexta Caterpillars by Adjusting their Levels of Juvenile Hormone
+
+Abstract:
+Manduca sexta caterpillars were treated with a Juvenile Hormone to determine if they grow more or less than Manduca sexta that do not receive the hormone.  We hypothesized that the treatment group would weigh less because we believed that elevated levels of IGR would cause the range of Juvenile Hormone to be outside of its normal range, resulting in abnormalities.  We split up six caterpillars into two groups, a treatment and a control.  The treatment group received the IGR, while the control did not.  Our p-value for the experiment ended up being p=0.1365.  We realized that our hypothesis was the opposite of what happened, since the Manduca sexta in the treatment group grew more than those in the control group.  The caterpillars grew more probably because Juvenile Hormone promotes the uptake of food, so the treatment caterpillars felt more of a need for food.  Also, the treatment caterpillars kept eating while the control caterpillars were preparing their body for pupation, resulting in the treatment caterpillars eating more than the control caterpillars.
+
+Introduction:
+M. sexta is an insect in the Order Lepidoptera, also known as the “tobacco hornworm”, that undergoes holometabolous development [Johnson:2018].  The two main hormones that influence the growth of M. sexta are Ecdysterone and Juvenile Hormone [Johnson:2018].  These insects deliver a commitment pulse that signals they are large enough to pupate into a moth from a caterpillar, which foreshadows the change in hormones that they release [Johnson:2018].  Juvenile Hormone is present during the larval stages of the M. sexta to allow growth and prepare it for metamorphosis, while Ecdysterone production increases after the 5th and final larval stage [Riddiford:2003].  At this point, Juvenile Hormone drops off in production.  IGR, an insect growth regulator, contains Juvenile Hormone [Johnson:2018].  If more IGR is administered into the diet of the M. sexta, will it weigh less than a caterpillar that does not receive the treatment?  Our hypothesis is that the treatment group will weigh less because we believe that elevated levels of IGR will cause the range of Juvenile Hormone to be outside its normal range, resulting in abnormalities.  We expect a change in weight in our treatment M. sexta because they will deviate from homeostasis with elevated levels of JH, resulting in different levels of needs than normally required.  We study this topic because if we can figure out a way to limit M. sexta from developing into adulthood by decreasing their required food intake, it would be beneficial to humans and other organisms since they are pests as larvae.
+
+Materials and Methods:
+We picked out six, 11-12 day old M. sexta caterpillars weighing 0.5-1.5 grams.  We randomly divided them into two separate groups, a control and a treatment.  We put each caterpillar into its own part of a plastic container, separated from one another.  We poked holes in the container so that the caterpillars could breathe.  We fed each caterpillar one of two diets every other day.  The 3 caterpillars in the control group received 10 grams of food, along with 10 drops of water in their food.  The 3 caterpillars in the treatment group received 10 grams of food, along with 5 drops of water and 5 drops of IGR in their food.  All caterpillars were kept in the same incubator at a constant temperature, in a daily 12-hour dark:12-hour light cycle.  We measured the weight of both groups of caterpillars every day for a week and then every other day for another week.  We used a two-tailed t-test to determine if the weight difference between the treatment and control groups was significant.  For the t-test, we determined the total weight gain for each caterpillar from starting weight to highest weight and averaged these numbers for the three caterpillars in each group, resulting in a weight for the treatment and a weight for the control.
+
+Results:
+The average weight gain for the control group was 9.477 grams, while the average weight gain for the treatment group was 11.973 grams (Fig. 1).  As more IGR is put into the food of a caterpillar, it will gain more total weight over time (Fig. 1).  The control group had a standard deviation of 0.816 grams, while the treatment group had a standard deviation of 1.715 grams (Fig. 1).  The two-tailed p-value for our experiment turned out to be p=0.1365.  This p-value shows that the experiment is not statistically significant.
+
+Discussion:
+We determined that our hypothesis was not supported, since our treatment group caterpillars actually gained more weight than our control group (Fig. 1).  Also, our p-value was too high to be significant.  5 drops of IGR does not have a significant effect on growth, even though we thought it would.  IGR originally delays growth, but because pupation takes longer to occur in M. sexta treated with it, these caterpillars gain weight longer and don’t begin to lose weight compared to the control.  The amount of Juvenile Hormone that an M. sexta caterpillar receives may alter gene expression, possibly resulting in it having abnormalities [Orth:2003].  The treatment group had the largest average weight change, and it never pupated at the time that the control group did.  An error that we committed was not feeding and weighing the caterpillars every day.  If we fed the caterpillars daily, we would have received more accurate numbers and would have had a more accurate, and possibly more significant, p-value.  Another error was not starting with larvae that were the exact same weight.   If we started with caterpillars that were the same weight, then we could generalize our data more and accept the results as being almost completely correct.  The only other difference that we would have to account for in this scenario is that the caterpillars would also need to be in the same stage of development while they are the same weight.  In the future, experimenters should add more drops of IGR to see more into how they affect growth and use more subjects to get a more precise average in weight gain over two weeks.  If we get a more precise average, then we could generalize the results more and determine a p-value that is closer to the value that it should be without any confounding variables.
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated Augest 2, 2018), pp. 6-12.
+2.	Orth AP, Tauchman SJ, Doll SC, Goodman WG. 2003. Embryonic expression of juvenile hormone binding protein and its relationship to the toxic effects of juvenile hormone in Manduca sexta. Insect Biochemistry and Molecular Biology. 33: 1275-1284.
+3.	Riddiford LM, Hiruma K, Zhou X, Nelson CA. 2003. Insights into the molecular basis of the hormonal control of molting and metamorphosis from Manduca sexta and Drosophila melanogaster. Insect Biochemistry and Molecular Biology. 33: 1327-1338.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph.png&Size=12215&Type=image%2Fpng&F=F_28Ysdihv0Bo1oiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average of the difference in weight between the starting weight and largest weight for each caterpillar in each group*************************************************************************
+
+
+

@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-28 13:39:10
+Author of this lab report is: Std_7lurrAp5
+ID: R_ywHh9ULcq3imcDL
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Smaller Wavelengths Cause a Stronger Phototaxic Response in Physarum polycephalum
+
+Abstract:
+	In this experiment, we measured the distance travelled of a Physarum under different light conditions, including blue light, red light, and yellow light. We were observing which light elicited the greatest phototaxic response in the Physarum based on the average furthest distance travelled. There are certain lights that have already been proven to elicit certain responses in the Physarum – for example, ultraviolet light is harmful to the Physarum and is therefore avoided by the organism. We hypothesized that yellow light would elicit the shortest distance moved by the Physarum because of its tendencies towards negative phototaxis, while blue light would result in the greatest distance travelled because it has the closest wavelength to a dark environment, which is what the Physarum prefers.  Our results showed that blue light had the greatest average distance travelled, but our hypothesis was ultimately rejected due to our results being insignificant. 
+
+Introduction:
+	Signal transduction pathways allow cells to appropriately respond to their environment based on the internal and external signals they receive. In this experiment, we observe the Physarum polycephalum, which is a mold with multiple nuclei contained within a single plasma membrane [Johnson: 2018]. The Physarum obtains nutrients by consuming other micro-organisms, such as bacteria and yeast [Chapman: 1983]. Since the Physarum perceives bacteria as a nutrition source, it acts as a positive stimulus and will therefore travel towards it. The Physarum nuclei undergo mitosis in unison, which allows the Physarum to have a sense of directionality when it travels. The continuity of the Physarum allow the mass to travel and move as a whole, which makes it easily observable through a microscope. This benefits research in human network and communication systems, as the Physarum has shown similarities with how humans process efficient pathways and relay them to complex projects, such as railroad systems [Becker: 2011]. The Physarum contains a network of tubes that receive chemical signals from nutrients to circulate throughout the organism [Tero: 2006]. When food sources are presented as stimuli in the agar plate, the organism calculates the most efficient route possible towards the food. There are certain stimuli, such as food, that are positive stimuli for the Physarum [Tero: 2006]. Physarum process light as a negative stimulus and therefore move away from it via a process called negative phototaxis. The opposite, positive phototaxis, would occur if the Physarum moved towards the light. Different colors of light (measured by wavelengths) may change the phototaxis of the Physarum by the way it is absorbed, because the Physarum will perceive different types of light based on wavelength. For example, white light is absorbed by the plasmodium, which generates a photoreceptor signal that stimulates the formation of dormant forms of bacteria, making the wavelength of white light a negative stimulus [Starostizk: 1994]. There are other wavelengths of light that inhibit this formation of bacteria – for example, the high energy wavelengths in ultraviolet light damage the Physarum’s genetic code and therefore harm mitosis and reproduction [Funderud: 1978]. The Physarum will sense this as a negative stimulus and migrate away from it. Blue light has a lower wavelength than white light, and since the Physarum will see lower wavelengths as positive stimuli, it will travel more towards lights with wavelengths similar to that of blue light. In this lab, we hypothesize that yellow / natural light will have the least average movement due to its wavelength and that blue light will have the greatest, due to previous knowledge of the Physarum’s phototaxic tendencies dependent on wavelength. 
+
+Materials and Methods:
+We obtained twelve PDA plates and labeled them in groups of three: “no light”, “red light”, “blue light”, and “plus light”. On the bottom of each plate, we drew a line down the middle, then continued to draw two boxes in the first third and second third of the line. These boxes were one centimeter by one centimeter. We then removed one of the squares from the agar plate and replaced it with a square from the Physarum culture plate, also one centimeter by one centimeter. We repeated this for all the plates, sterilizing the spatula between each square transfer. We then placed lids on the plates and used tape to secure them, wrapped the “dark” plates in foil and placed them in a dark drawer to ensure no light. We wrapped the other plates in foil and cut a small square in the top of the foil so that some light could enter. We placed them in an incubator with natural light, blue light, or red light. We returned after 24 hours and measured the distance travelled by the longest strand of the Physarum in each plate. We measured this again 24 hours later. This was measured in millimeters, and we averaged the distances travelled of each sample. We used a one-way ANOVA test for the data of 24 hours to determine the differences and significance of our results with an alpha of 0.5 [Johnson: 2018].
+
+Results:
+Our results show the average distances travelled by the longest strand of Physarum in the sample. We measured these distances over the span of two days; while day one had no results due to no movement, day two did. Figure one represents the average distances travelled in each plate, with the colors of the bars representing the color of the light the Physarum was absorbing. The black bar represents the control, the yellow bar represents natural light, the red bar represents red light, and the blue bar represents blue light. As seen in figure one, our results showed that the sample under yellow light moved the least, while the sample under blue light travelled the most. The sample in no light (black) is our control and is therefore not considered when analyzing results. 
+
+Discussion:
+Our hypothesis was not supported due to our p-value being less than 0.05. Therefore, our hypothesis that yellow light will result in the least movement was incorrect. Our results did show a trend that might lead to a supported hypothesis because the yellow light had the least average movement, however. Upon further studies, we believe our hypothesis would be supported. In the future, we might track movement for a week instead of just two days, or by ensuring a better sample of Physarum. Similar studies have been conducted and have found results that support our hypothesis, which lead us to believe repeating this experiment would produce significant results. One of these studies was designed to research the effect of  wavelengths on Physarum movement and reproduction; it showed that blue light stimulated movement while UV light and red light inhibited it [Häder: 1984]. These researchers depicted the movement of each Physarum culture, which showed more movement and growth in the cultures exposed to blue light wavelengths. Additionally, the Physarum sample provided was faulty, which led to errors in growth of the Physarum. We were made aware of this after results and measurements were collected among other groups. We could have starved the Physarum, as previous studies have shown that a starved Physarum is more likely to move around the plate while a nourished Physarum remains sedentary [Guttes: 1961]. Our Physarum had oatmeal in their sample plate, so they were not starved at the start of the experiment. Since food is a positive stimulus for chemotaxis, this could complicate its phototaxis behaviors. The samples may have also been kept in natural light, which is proven to be negative for the growth of Physarum [Häder: 1984]. Additionally, Physarum grows best in specific temperatures. When kept at an unideal temperature (such as 37 Celsius), the onset of mitosis is delayed and therefore hinders growth [Brewer: 1968]. The Physarum sample could have also been genetically faulty – if the genes axeA and axeB in Physarum are mutated, the Physarum will not grow properly, as part of its growth is under genetic control [McCullough: 1978]. This experiment has applications for further studies regarding making decisions based on efficiency or speed, as the Physarum exhibits a similar signal transduction pathway system to humans. The Physarum, like humans, find the most efficient way to positive stimuli and to stay away from negative stimuli. One study including Physarum was connected to the world’s colonization and trade route formation before technology was available, such as the Silk Road and Asia Highway [Adamatzky: 2012]. The Physarum exhibits behaviors applicable to humans in that it desires nutrients such as food (positive chemotaxis) and stays away from harmful stimuli (ultraviolet light that damages its DNA). There was also an experiment relating the way the Physarum moves to movement in the human body in response to stimuli, such as peristalsis [Alim: 2013]. This study integrated the peristaltic wave of the Physarum to the peristaltic wave in the human body, finding a connection between the wavelength of the peristaltic wave and the most optimal transport throughout the human body. Just as the human body finds the most efficient way to transport substances, the Physarum finds the most efficient way to transport itself. The results of our experiment, although they were rejected, paired with the findings of other experiments could lead to more research regarding Physarum’s signaling pathways and its application to the world today.
+
+Literature Cited:
+1.	Adamatzky, A. 2012. International Journal of Bifurcation and Chaos. The World’s Colonisation and Trade Routes Formation as Imitated by Slime Mold. 22(8): 1-26. 
+2.	Alim K., Amselem G., Peaudecerf F., Brenner M., Pringle A. 2013. Proceedings of the Natural Academy of Sciences. Random Network of Peristalsis in P. polycephalum. 110(33): 13306-13311. 
+3.	Becker, M. 2011. IEEE Congress of Evolutionary Computation. Design of fault tolerant networks with agent-based simulation of Physarum polycephalum. 1-7.
+4.	Brewer, E.N., Rusch, H.P. 1968. Experimental Cell Research. Effect of elevated temperature shocks on mitosis and on the initiation of DNA replication in Physarum polycephalum. 49(1): 79-86.
+5.	Chapman, A., Coote, J.G. 2983. FEMS Microbiology Letters. Growth of Physarum polycephalum on different strains of bacteria and a yeast. 19(2-3): 221-224. 
+6.	Funderud S., Andreassen R, Haugli F. 1978. Nucleic Acid Research. DNA replication in Physarum polycephalum: bidirectional replication of DNA within replications. 5(3): 713-721.
+7.	Guttes E., Guttes S., Rusch H.P. 1961. Developmental Biology. Morphological Observations on growth and differentiation of Physarum polycephalum grown in pure culture. 3(5): 588-614.
+8.	Häder D.P., Schreckenbach T. 1984. Plant and Cell Physiology. Phototactic Orientation of Plasmodia of the Acellular Slime Mold, Physarum polycephalum. 25(1): 55-61.
+9.	Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (Updated August 13, 2018).
+10.	McCullough C., Dee J., Foxon J. 1978. Journal of General Microbiology. Genetic Factors Determinig the Growth of Physarum polycephalum Amoebae in Axenic Medium. 106: 297-306.
+11.	Starostzik C., Marwan M. 1994. Journal of Bacteriology. Time-rewsolved detection of three intracellular signals controlling photomorphogenesis in Phaysarum polycephalum. 176(17): 5541-5543. 
+12.	Tero, A., Kobayashi R., Nakagaki T. 2006. Physica A: Statistical Mechanics and its Applications. Physarum solver: A biologically inspired method of road-network navigation. 363(1): 115-119. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+for+lab2.png&Size=93383&Type=image%2Fpng&F=F_3PBto3DIffgvJv8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average Distance Travelled (mm) by Physarum. This figure shows the average of the distances traveled by the longest strand in each sample. The color of the bar correlates to color of the light the sample was absorbing. Standard deviations are shown in the error bars, and the one-way ANOVA test with an alpha of 0.5 showed our p-value was 0.184. *************************************************************************
+
+
+

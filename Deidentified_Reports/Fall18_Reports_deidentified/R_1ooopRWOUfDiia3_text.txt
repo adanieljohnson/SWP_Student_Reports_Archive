@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-11 00:11:59
+Author of this lab report is: Std_LtLOrmxm
+ID: R_1ooopRWOUfDiia3
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The Effect of Juvenile Hormones on Manduca sexta Development
+
+Abstract:
+Hormones control much of what goes on in the bodies of organisms. For this reason, it is important to understand the effects of specific hormones. In this experiment, the hormone being examined is juvenile hormone (JH), specifically with regards to the species Manduca sexta. The expectation was that the addition of hormones to Manduca sexta’s food would cause a change in their weight when compared to a group with no additional hormones. The caterpillars were measured each day for two weeks and kept in a fridge at the same temperature. The data proved this claim by showing a significant difference in weight after 15 days of measurement of the caterpillars using a two-sample two tailed t-test. It was concluded that the addition of JH did in fact alter the weight of the caterpillars significantly, as well as it prevented those in the experimental group from pupating and fully developing. 
+
+
+Introduction:
+Manduca sexta, colloquially known as tobacco hornworms, are a species of insect in the order Lepidoptera. This experiment will focus on the study of those that experience their larval form as caterpillars. The time from egg to adult moth is approximately 19-23 days, depending on environmental conditions [Kingsolver:2007]. Manduca sexta go through various stages and forms of development throughout the process. Passage from the larval, to pupal and finally to moth requires a process called molting [Johnson:2016]. When this process happens is all dependent on hormones. 
+	The two hormones that play a large role in the development process of Manduca sexta are Ecdysterone (20E) and Juvenile Hormone (JH). Ecdysterone is produced by groups of cells in the back of an insect’s head called the prothoracic glands [Johnson:2016]. This hormone regulates the timing of the molting. The second hormone, JH, is produced by a pair of glands called the corpus allata. JH regulates the type of molting during development. These two hormones work together through the five larval instars [Johnson:2016]. During the fifth larval instar, JH drops very low, and a small rise in 20E, called the commitment pulse, marks the start of pupation. Tobacco hornworms weigh about 1g at the outset of the final (5th) larval instar. After 4-5 days of continuous feeding… mature larvae attain live weights ranging from 8 to 10 g [Nijhout:1974]. This experiment will serve the purpose of investigating how an excessive amount of JH added to a Manduca sexta diet will affect the growth and development process. 
+	The hypothesis for this experiment is if additional JH is added to a Manduca sexta diet, there will be a change in the weight. The control group in this experiment will be four caterpillars that are fed normal food with no added hormones. The independent variable will be the amount of JH added to the caterpillars’ food, and therefore the dependent variable will be the observed changes in weight. 
+
+
+Materials and Methods:
+The materials were gathered and holes were poked in the sides of each of the cells of the containers as to provide air to the Manduca sexta. Each individual cell was labeled with the numbers 1-8, 1-4 being the experimental and 5-8 being the control group. 10 grams of prescribed food was measured out for each cell. To add the reagent, five drops of JH was added to each of the cells labeled 1-4, making it so that food was now 5% JH. In order to keep achieve the same consistency in the control and experimental, 5 drops of water was added to cells labeled 5-8. After mixing the food for each cell it was formed into a clump and placed in the corner of the compartments. Each caterpillar was measured for an initial weight and that weight was recorded in a spreadsheet for 15 days. 
+Each day, the caterpillars were removed from their compartments and measured. These weights were recorded on the same spreadsheet as the initial weights for comparative purposes. If the food ran out, new food was made using the steps previously mentioned. When an excessive amount of feces was found in the cells,that was removed. 
+In order to analyze the collected data, a two-tailed two sample T-test was performed with a significance level of 0.05. The highest weight recorded was subtracted from the initial weight measured for each caterpillar. Using these differences, an average weight change was calculated, as well as the standard deviation, error bars, and a significance value. 
+
+
+Results:
+The mean amount of growth in terms of weight for the control group between Day 1 and the highest weight over the 15 days was 7.6475g. The standard deviation of the weights for the control group was found to be 2.7293. The mean growth in weight between Day 1 and the largest weight over the 15 days for the experimental group was calculated to be 13.625. The standard deviation for the experimental group was found to be 1.376. Using these data points, a two-tailed two sample t-test was performed. Using a t-value of 3.911, the p-value was calculated to be 0.007881. 
+	When observing the caterpillars, caterpillar #5 was consistently the smallest, and always had a ring-shaped structure around its neck. All of the caterpillars grew throughout the process in the sense that none of their growth’s were stunted. The caterpillars in the experimental group were larger than those in the control group. By the last day, most of the caterpillars in the experimental group were turning a whitish-green color. Most of the caterpillars in the control group were starting to pupate, and caterpillar #8 was fully pupated on the last day. Overall there was a difference in the weights and sizes of the caterpillars in the experimental group that received the added hormones and the control group which did not. 
+
+
+Discussion:
+Our hypothesis that if additional JH was added to a Manduca sexta diet, there would be a change in the weight of the caterpillars, was supported. We observed a significant change in the weight of the caterpillars in the experimental group that was substantially larger than the growth of the control group. This was supported also by the two-tailed two sample T-test that was performed, resulting in a statistically significant result with a p-value of 0.007881, which was less than the predetermined significance level of 0.05. In addition, when observing the qualities of the caterpillars over the course of the two weeks, it was evident that the caterpillars with the 5% hormone diet were substantially and consistently bigger than those with the 0% hormone diet. 
+Typically, Manduca sexta have 5 larval instars. In a normal caterpillar, JH levels stay relatively high up until the 4th larval instar [Johnson:2016]. Near the end of that phase of development, the JH levels start to drop, and by the time the caterpillar reaches the 5th larval instar, the JH levels have dropped very low, which facilitates the commitment pulse [Johnson:2016]. Due to the fact that the caterpillars in the experimental group were fed additional hormones by way of added JH to their foods, their JH levels never dropped at the end of the 4th larval instar and beginning of the 5th, and therefore they just continued to grow, and never pupated. In contrast, caterpillar #8 in the control group fully pupated, as well as the other caterpillars in the control group were close to their pupation by the end of the experiment. 
+According to a study done by a group of scientists in 2015 on the topic of variation of size and age in Manduca sexta, nutrient dependent growth is stimulated and controlled by hormones and growth factors, and therefore disruptions of this can be accredited to changes in those factors [Wyatt:1996]. In this study, it was stated that majority of the mass accumulates during the last larval instar of development. Therefore, in the context of this experiment, the caterpillars in the experimental group may have reached the last larval instar quicker than those in the control group, but again, would not have been able to pupate and complete development because of their excessive amount of JH hormone.This study also focused not only on nutritional alterations, but also physiological factors. It concludes that molting and metamorphosis are triggered by size [Wyatt:1996]. With regards to this experiment, this can be proven by the fact that the caterpillars in the experimental grew more in the same amount of time as the control group. 
+
+
+Literature Cited:
+1. Nijhout, FH and Williams CM. 1974. Control of moulting and metamorphosis in the tobacco hornworm, Manduca sexta (L): cessation of juvenile hormone secretion as a trigger for pupation. J. Exp. Biol. 493. 
+2. Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15-16.
+3. Wyatt, GR and Davey, KG. 1996. Cellular and molecular actions of juvenile hormone. Advances in Insect Physiology. Vol. 26: 2-5.
+4. Kingsolver, JG. 2007. Variation in growth and install number in field and laboratory Manduca sexta. Proc Biol Sci. 977-981.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=30193&Type=image%2Fpng&F=F_8cfa9KhH6umjqRr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This figure above displays the average change in the weights of the Manduca sexta, separated by the control group (blue), and the experimental group (orange) 
+*************************************************************************
+
+
+

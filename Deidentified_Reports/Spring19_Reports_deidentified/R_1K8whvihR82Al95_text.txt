@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-04-03 22:05:43
+Author of this lab report is: Std_cBn21wkA
+ID: R_1K8whvihR82Al95
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Tubocurarine Significantly Decreases the Amplitude of Twitch Response on Gastrocnemius Muscle
+
+Abstract:
+Muscles contract based on Acetylcholine contacting the receptors at the neuromuscular junction. In this study, we look at the effect of tubocurarine, a muscle paralytic, on the twitch response of the gastrocnemius muscle in a frog leg. The hypothesis was that the injection of tubocurarine would significantly decrease the amplitude of the threshold of the muscle. The data showed that the amplitude did significantly decrease, and the hypothesis is supported. 
+
+Introduction:
+Muscles are the main organs of movement in vertebrates. They are made up of thousands of myofibrils, which are circular multicellular aggregates of cells. Each muscle is innervated by motor neurons, which axons run directly from a specific vertebra. At the neuromuscular junction, the nerve impulses release acetylcholine (ACh), then binds with the receptor on the muscle. It then causes an action potential in the muscle. The action potential releases calcium ions (Ca2+) from the sarcoplasmic reticulum, which then activate the contracting motion.  The amount of contraction of a muscle is based upon the summation of action potentials. Temporal summation occurs when multiple action potentials occur from the same excitatory neuron in a close amount of time. Spatial summation occurs when multiple excitatory neurons close to each other fire action potentials. The contraction does not occur until the threshold is reached. Once the threshold is reached, the action potential will go down the axon, and the muscle can contract.   Tubocurarine is used as a muscle paralytic. At lower concentrations, tubocurarine competes with ACh at the binding receptors at the neuromuscular junction, which will decrease the contraction of the muscle. At larger concentrations, it produces an essential blockade of the receptor, completely paralyzing the muscle [Tualne Univeristy: 2018]. Based off the background information, we hypothesized that if tubocurarine muscle paralytic was injected into the frog leg, the amplitude of the threshold will be significantly lower than if there was no paralytic injected.
+
+Materials and Methods:
+To begin the experiment, three legs were used, with the procedure done on each leg. Each frog leg was placed in a dissecting pan, and the skin was removed in a downward motion using a probe. Using scissors and a scalpel, the sciatic nerve was exposed from its connective tissue and the gastrocnemius muscle was separated from the foot and tied to a string and hung on the force transducer. The string was taut enough that if the muscle were to contract, it would be visible. An electrode was placed close to the nerve to stimulate the muscle.  Once set-up was complete, the muscle was stimulated starting at 0 mV and increasing by 0.2 mV until the highest amplitude was found. After the highest amplitude was determined, the tubocurarine paralytic is injected into the muscle, then we waited for 5 minutes before stimulation. Again, the muscle was stimulated until the highest amplitude was recorded. This process was repeated on all three legs, and a paired t-test was run on the data to determine if the data was significant.
+
+Results:
+At the end of the experiment, the amplitude of response decreased in all three legs, with an average decrease of 39.9%. In the first leg, the amplitude decreased from 1.16 volts to 0.898 volts, the second from 0.541 volts to 0.293 volts, and the third from 0.282 volts to 0.137 volts (Figure 1). When the paired t-test was run, the data showed a significant difference between the control and experimental voltages (t-stat = 0.625855, df = 4, P = 0.027379).
+
+Discussion:
+Our hypothesis, that the amplitude of the threshold of the frog leg would be significantly lower if tubocurarine paralytic was injected, was supported. The amplitudes did decrease, and the difference in amplitudes were supported at a 95% confidence level. A study has shown that tubocurarine reaches equilibrium quickly, meaning that at low concentrations it does not have a significant effect [Colquhoun: 1979]. This supports the idea that there is a certain level that tubocurarine will not affect the muscle contraction. Another experiment to do could be to determine the concentration necessary to completely paralyze the muscle. This would be important in the context of disabling a muscle in a medical environment. To do the experiment, it would be necessary to find a way to remove the tubocurarine from the leg in order to run the test with a higher concentration.
+
+Literature Cited:
+1.	Colquhoun, D, Sheridan, RE. 1979. Kinetic effects of tubocurarine on skeletal muscle at high agonist concentrations. British Journal of Pharmacology. 68(1): 143P-144P.
+2.	d-Tubocurarine (Prototype Nondepolarizing Neuromuscular Blocker). March 17, 2019. &lt;http://tmedweb.tulane.edu/pharmwiki/doku.php/tubocurarine_-_prototype_blocker&gt; 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+Lab+-+Figure+1.png&Size=10761&Type=image%2Fpng&F=F_xGyHVJZCyDIXJxD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of tubocurarine paralytic on the twitch amplitude of the gastrocnemius muscle. Each leg has control amplitude on the left and experimental amplitude on the right.*************************************************************************
+
+
+

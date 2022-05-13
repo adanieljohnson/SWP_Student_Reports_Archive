@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-01 14:42:23
+Author of this lab report is: Std_fB9t7q3e
+ID: R_2DRA8T2ncz4iPnd
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Effects of Sevin on the Time Between Contractions in Frog Gastrocnemius Muscles
+
+Abstract:
+The purpose of the experiment is to determine how Sevin, an Acetylcholinesterase, affects the amount of time it takes for the frog gastrocnemius muscle to contract consecutively when exposed to a .1V shock and increasing frequencies of shocks. Frog gastrocnemius muscles and human gastrocnemius muscles work in the same fashion, utilizing calcium, acetylcholine, and other neurotransmitters to start contraction of the muscle (source).  Because of these parallels, this experiment is important to us as scientists due to the implication the results have on humans. Our results poorly reflect our research and our hypothesis that the addition of Sevin would cause tetany to occur quicker in the Gastrocnemius muscle. The application of our experiment results is insignificant because of this deviation from the scientifically excepted outcome.
+
+Introduction:
+Sevin is an acetylcholinesterase inhibitor, which is an enzyme responsible for breaking down acetylcholine. Acetylcholine is released into nerve synapses at neuromuscular junctions and then binds to synapse receptors at these junctions [Johnson:2018]. This is the initial action that prompts muscle contraction. Following this is the activation myosin and actin due to calcium release [Raynment:1993]. The calcium binds to troponin, unblocking the myosin binding sites on the actin [Raynment:1993]. This prompts the myosin head to bind with actin. Once this binding has occurred, the myosin head has a conformational shape change, resulting in the myosin and actin filaments sliding past one another [Raynment:1993]. This sliding is the muscle fibers contracting. With Sevin present, acetylcholine in synapse receptors will be unable to be broken down and allowing this cycle to become continuous. This constant stimulation wears the muscle out quickly, causing the muscle to fatigue and become unable to contract. This is what is known as tetany. The chemical in Sevin that causes this is carbaryl because carbaryl is an acetylcholinesterase [Tang:2002].   Because of this, our group believed that the addition of Sevin into the frog gastrocnemius muscle would cause tetany to occur quicker than if Sevin wasn’t introduced.
+
+Materials and Methods:
+First, we peeled down the frog skin from the top of the leg near the sciatic nerve to the bottom. Next, using a scalpel, we cut the inner gastrocnemius muscle down to the achilles tendon, leaving some attached to the muscle. Then, we pinned down the frog leg using pins to prevent it from being lifted, moved around, etc. during the experiment and tied a string to the excess Achilles tendon, and then to the ring stand. The stand was adjusted so the gastrocnemius muscle is extended upward from the rest of the leg. After the preliminary set up, we placed the shocking mechanism directly on the sciatic nerve and began the tests. The myogram was started and frogs were shocked at a constant .5 volts but at 2, 4, 5, 10, 25, 50, and 100 hz respectively. We Recorded data in data table for each frog leg during the experiment. We then Repeated the steps above for each of the 3 legs being tested. After testing all 3 legs, we injected the gastrocnemius muscle with 0.1ml Sevin. The .1 ml was divided and injected in 2 different places in the muscle. The Sevin is injected to the same 3 legs as used before. After the Sevin was injected into all 3 legs, we waited five minutes until testing again. In this time, we Re-pinned our first frog leg and tied the string back to the ring stand. After the 5 minutes were up, we placed the shocking mechanism on the sciatic nerve and began the myogram. Then we shocked with the same voltage as step 7 and we used the same frequencies as step 7. We recorded the experimental group data in data table for each frog leg. Finally, we analyzed the two groups using a paired t-test.
+
+Results:
+In our results, our group didn’t see any significant change in the amount of time between contractions from the control group to the experimental group.  The p-value received from the paired t-test between the control and experimental group was 0.118, which is larger than the significance standard of 0.05. (fig.2). All differences in the averages, excluding averages for 50 hz , were equal to or less than 3.4 ms (fig.2). It is important to note that all the experimental group’s averages were higher or equal to the control group’s averages (fig.1). Also note that the time between contractions definitively decreases as frequency of the shocks increase (fig.1). 
+
+Discussion:
+The results were resoundingly different than the hypothesis. However, it is very unlikely that an acetylcholinesterase such as Sevin has no effect on muscle contraction, which heavily relies on acetylcholine usage. There is a plethora of potential reasons to why our data for both the control and experimental group is very similar. The two most possible reasons are a flaw with the injecting the Sevin and/or the five-minute wait that is required after injection wasn’t satisfactory. These reasons are the most likely due to the results from the experimental group being almost identical to the control. The similarity suggests that the Sevin didn’t spread throughout the entire muscle because the myogram detected little to no change when the muscle was stimulated. In studies where humans have been exposed to carbaryl, the toxic substance found in Sevin, it has been confirmed that this molecule, bound with hydroxide, is a harmful acetylcholinesterase, warranting labels signifying how toxic it is [Tang:2002]. Knowing this, it is highly unlikely that the similarity between the two groups is natural and normal for this particular experiment. However, the decrease in time between contractions due to an increased frequency was expected. The increased frequency wears out the muscle more because the shocks stimulate more contractions, and as a result, keeps acetylcholine bound to receptors more frequently. 
+
+Literature Cited:
+1.	Johnson AD. Comparative Physiology. BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 19-34.
+2.	Tang J, Cao Y, Rose RL, Hodgson E. 2002. In vitro metabolism of carbaryl by human cytochrome P450 and its inhibition by chlorpyrifos. Chemico-Biological Interactions. 141: 229-241.
+3.	Raynment I, Holden HM, Whittaker M, Yohn CB, Lorenz M, Holmes KC, Milligan RA. 1993. Structure of the actin-myosin complex and its implications for muscle contraction. Science. 5117: 58-65
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=f+leg+graph.PNG&Size=15137&Type=image%2Fpng&F=F_3oyxJtwxO9CYAXy
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+leg+data.PNG&Size=37187&Type=image%2Fpng&F=F_tFBFtMfwppaq1uF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Graph of Time Between Contractions(ms) for different frequencies. 
+Figure 2: Paired T-Test Results for Average Time Between Contractions*************************************************************************
+
+
+

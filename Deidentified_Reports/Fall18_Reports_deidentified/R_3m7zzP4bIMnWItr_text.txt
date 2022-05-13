@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-07 19:56:51
+Author of this lab report is: Std_2erZExd5
+ID: R_3m7zzP4bIMnWItr
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The Effects of Varying Amounts of Glyphosate and Paraquat on Brassica oleracea Leaves
+
+Abstract:
+Kale leaves, Brassica oleracea, go through photosynthesis in order to survive and grow. The process of photosynthesis includes using light, carbon dioxide, and water in order to produce glucose, water, and molecular oxygen. Herbicides are used to stop the growth of these plants and kill them. Two specific herbicides, Glyphosate and Paraquat are frequently compared when researching herbicide effectiveness. We believe that by varying the level of herbicide, the rate of photosynthesis will decrease as the concentration of herbicide increases, and there will be no difference between the herbicides. We used absorbance in order to determine the rate of photosynthesis, where a high absorbance would mean a low rate of photosynthesis. We measured the absorbance when we first made the solutions and again after 20 minutes in the sunlight. We found that the amount of herbicide added was not significant, but the difference between the Glyphosate and Paraquat were significant. These results show us that Glyphosate is more effective than Paraquat when it comes to the treatment of Kale leaves. 
+
+Introduction:
+Plants, bacteria, and some protists capture and store energy through photosynthesis. Photosynthesis requires carbon dioxide and water in order to produce glucose, water, and molecular oxygen. During photosynthesis, chloroplasts absorb sunlight, electrons get excited, a proton gradient is formed, and the electrons are stored as NADPH. The general process of electron transfer and light is the Hill Reaction, where water is combined with an electron receptor to create a reduced form of the electron receptor and O2 [Biology Core Resource Guide: 2018]. We aim to see if there is a difference in absorbances when Kale (Brassica oleracea) is treated with either Glyphosate or Paraquat. In previous experiments, scientists have found that Paraquat is more toxic than Glyphosate at varying concentrations, and it stunts the growth and photosynthesis of Scenedesmus quadricauda, freshwater green algae [Wong: 2000]. In another experiment done with Daphnia magna and D. spinulata, similar results were found, where Paraquat was more toxic than the Glyphosate [Alberdi: 1996]. However, in an experiment done on ‘Grasslands Wana’ cocksfoot, ‘Grasslands Maru’ phalaris, and ‘Grasslands Tahora’ white clover, the researchers saw no significant difference between the two herbicides, and the only differences came at the varying rates of the two herbicides [Barker: 1988]. We will be measuring the rate of photosynthesis using the absorbance of the solution. We expect that the rate of photosynthesis of the Kale leaves will decrease at an increased concentration of herbicide, and there will be no difference between the two herbicides.
+
+Materials and Methods:
+To begin this experiment, we grinded up our Kale leaves into a paste using a grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0). We then centrifuged the solution at 1200 rpm for 3 minutes at 4 degrees Celsius. We removed the supernatant and centrifuged that sample at 2800 rpm for 10 minutes at 4 degrees Celsius. We placed this sample on ice while we made 21 test tubes. 1 tube had no herbicide, 8 mL of water, 0 mL of DCIP (the reducing agent), and 2 mL of the reaction buffer. 3 tubes had no herbicide, 6 mL of water, 2 mL of DCIP, and 2 mL of reaction buffer. The rest of the tubes had 1, 3, or 5 mL of either Glyphosate or Paraquat; 5, 3, or 1 mL of water (based on the amount of herbicide), 2 mL of DCIP, and 2 mL of the reaction buffer. 100 microliters of the chloroplasts we made using the centrifuge were placed into every test tube, and they were shaken to make sure the chloroplasts were mixed in with the rest of the solution. We measured the absorbance of the tubes at time 0 at 600 nm using the Genesys 20 Spectrophotometer. We placed all of the tubes in sunlight for 20 minutes and measured the absorbance of the solutions again at 600 nm. In order to determine the statistical significance of our experiment we used paired t-tests. 
+
+Results:
+In our results, we saw that the Kale treated with glyphosate always had a higher absorbance than the Kale treated with Paraquat. The varying levels of herbicide for each herbicide showed us no change in absorbance. A high absorbance means there is less electron transport occurring, and therefore less photosynthesis activity. There was no significant difference in the starting absorbances of the solutions. Glyphosate showed higher absorbances than Paraquat after 20 minutes (Figure 1. p=0.00199; paired t-test). There seemed to be very minimal differences in effectiveness at increasing concentrations. There was a significant difference between Glyphosate and our control group (Figure 2; p=0.009; paired t-test), but not between Paraquat and the control group (Figure 3; p=0.845; paired t-test). Overall, we did not see a major difference in results between varying levels of herbicide, but rather a major difference between the two types of herbicides. 
+
+Discussion:
+Our hypothesis was not supported because there was a significant difference seen in the effect of the different herbicides, and there was no difference in the effect of varying levels of herbicides. Our results differed from the previous studies we found because the Glyphosate was more effective in ending photosynthesis than the Paraquat was, which is the opposite of what was originally found [Wong: 2006], [Alberdi: 1996], [Barker: 1988]. However, the studies we looked at did not look at Kale leaves like ours did, so that could have had an effect on the results. Based on our findings, the most effective herbicide for Kale leaves is Glyphosate. The difference between our two herbicides in terms of effectiveness was significant (Figure 1), showing that the Glyphosate was more effective than the Paraquat. The Glyphosate was shown to have a significant effect on the rate of photosynthesis of the leaves (Figure 2), whereas Paraquat was about as effective on the rate of photosynthesis as if we had added no herbicide to the solution (Figure 3). The Paraquat could have just needed more than 20 minutes to begin to slow the rate of photosynthesis, or the herbicide may not be as effective on Kale. Our results show that if someone is trying to get rid of their Kale plants, Glyphosate would work better than Paraquat. This is an advantage for people who are trying to get rid of their Kale plants because Paraquat is much more toxic to humans than Glyphosate. 
+
+Literature Cited:
+Biology Core Resource Guide, Photosynthesis; 2018; 18.2
+P.K. Wong, Effects of 2,4-D, glyphosate and paraquat on growth, photosynthesis and chlorophyll–a synthesis of Scenedesmus quadricauda Berb 614. Chemosphere; 2000; 41:1-2:177-182.  
+J.L. Alberdi, M.E. Sáenz, W.D. Di Marzio, M.C. Tortorelli; Comparative Acute Toxicity of Two Herbicides, Paraquat and Glyphosate, to Daphnía magna and D. spinulata. Bulletin of Environmental Contamination and Toxicology; 1996; 57:229-235.  
+D.J. Barker, D.F. Chapman, C.B. Anderson, and N. Dymock; Oversowing ‘Grasslands Wana’ cocksfoot, ‘Grasslands Maru’ phalaris, and ‘Grasslands Tahora’ white clover in hill country at varying rates of paraquat and glyphosate. New Zealand Journal of Agricultural Research; 1988; 31:4:373-382.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-07+at+7.31.09+PM.png&Size=35023&Type=image%2Fpng&F=F_YSkHPAzXKfpT2i5
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-07+at+7.30.52+PM.png&Size=30231&Type=image%2Fpng&F=F_2Wu1GYtc27Hycxv
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-07+at+7.52.43+PM.png&Size=28802&Type=image%2Fpng&F=F_22ulfxvM1kkcVgO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Chloroplasts from Kale (Brassica oleracea) leaves were treated with varying amounts of either the herbicide Glyphosate or Paraquat. This figure represents the average absorbance of each group of herbicides tested. The error bars represent the standard deviation (Glyphosate: ±0.0075 and Paraquat: ± 0.023). The difference in the Paraquat and Glyphosate were statistically significant (p=0.00199; paired t-test).  
+Figure 2. Glyphosate was one of the herbicides we used to treat the Kale (Brassica oleracea) leaves. Glyphosate is sold under the brand name Roundup. The error bars represent the standard deviation of the average of each amount of Glyphosate added. There is a significant difference between the leaves treated with Glyphosate and the control (p=0.009; paired t-test). 
+Figure 3. Paraquat was one of the herbicides we used for this experiment. The error bars represent the standard deviation of the average for each group with varying levels of Paraquat added. There is not a significant difference between the control group and the leaves treated with Paraquat (p=0.845; paired t-test).*************************************************************************
+
+
+

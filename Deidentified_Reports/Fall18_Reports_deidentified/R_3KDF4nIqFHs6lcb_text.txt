@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-24 00:38:24
+Author of this lab report is: Std_uNL06PG5
+ID: R_3KDF4nIqFHs6lcb
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of Diuron on photosynthesis of Spinach Leaves in Different Condition
+
+Abstract:
+The purpose of this lab is evaluating the effects of diuron on spinach leaves, Spinacia oleracea,  an inhibitor, on the reduction of DCPIP therefore mimicking photosynthesis. We will be carrying out a 2 sample t-test to determine significance between no chloroplast vs. chloroplast in light and no chloroplast vs. chloroplast in light plus diuron. I hypothesize that no chloroplast vs. chloroplast in light plus diuron will have little to no change in percent absorbance change because diuron will inhibit photosynthesis therefore there will be a reduction of photosynthesis and that absorbance will be small (meaning that the absorbance reading will be a small value). I also hypothesize that no chloroplast vs. chloroplast in light will stay the same and not change because photosynthesis is inhibited and not reduced in this case because DCPIP would inhibit photosystem and not allow color change. Implicating that there could be more effects than just to the photosystem of the plants affected but to also the ecosystems around these plants. 
+
+Introduction:
+The purpose of this lab is evaluating the effects of diuron on spinach leaves, Spinacia oleracea,  an inhibitor, on the reduction of DCPIP therefore mimicking photosynthesis. Diuron is a urea herbicide that is absorbed through plant roots and then translocated to the aerial parts when applied to soil surrounding the plants making it a herbicide used for agricultural and nonagricultural weed control [Jin et al., 2016]. Diuron also “is heavily used in areas adjacent to estuaries” [Williams, Carranza, Kunzelman,Datta, & Kuivila., 2008]. Implicating that there could be more effects than just to the photosystem of the plants affected but to also the ecosystems around these plants. 
+Diuron inhibits the reduction of NADP+ that is required for CO_2 fixation by blocking photosystem II electron transfer from the primary accepter to the secondary acceptor [Jin et ., 2016]. Photosystem II of green plants oxidizes water and reduces plastoquinone, when inhibitors prevent binding there is a reduction of photosynthesis [Venlthuys, 1981]. Diuron blocks the electron flow from photosystem II preventing the binding of electrons to advance photosynthesis. DCPIP works the same as diuron where it mimics an electron acceptor preventing electrons to move on to the next step in photosynthesis. We will study this through enriching chloroplasts with centrifugation and then isolating 3 samples of those chloroplasts in different conditions such as no chloroplast, chloroplast in light, chloroplast in light and diuron. Then measuring the absorbance of each sample. Because the absorbance will let us know is photosynthesis has been affected or not we know that the absorbance decreases or in this case exhibits a blue hue or becomes clear which means that photosystem II is at work. And when absorbance increases, photosystem II is being inhibited, producing a darker blue hue. 
+We will be carrying out a 2 sample t-test to determine significance between no chloroplast vs. chloroplast in light and no chloroplast vs. chloroplast in light plus diuron. I hypothesize that no chloroplast vs. chloroplast in light plus diuron will have little to no change in percent absorbance change because diuron will inhibit photosynthesis therefore there will be a reduction of photosynthesis and that absorbance will be small (meaning that the absorbance reading will be a small value). I also hypothesize that no chloroplast vs. chloroplast in light will stay the same and not change because photosynthesis is inhibited and not reduced in this case because DCPIP would inhibit photosystem and not allow color change. 
+	
+
+
+Materials and Methods:
+Exercise 1: Enriching Chloroplast with Centrifugations
+Place mortar and pestle, medium-sized beaker (150-250 mL size), two 50mL centrifuge tubes into the crushed ice to cool. While the materials are cooling remove the large central veins from 4 medium-sized spinach leaves. Throw the veins away and rinse the remaining leaf pieces with tap water. Blot off excess moisture from the leaves. When the mortar & pestle are cold wipe them dry and then add the spinach leaves. Then add 10mL of cold grinding buffer (400mM sucrose in Tricine buffer, pH 8.0) to the mortar. Grind the spinach with the buffer until it is a thick paste with no large chunks left. Add an additional 10 mL of grinding buffer and then mix the spinach to a slurry, Strain the entire volume of the green slurry through 3 layers of cheesecloth into a chilled beaker. Then transfer the green liquid into a chilled 50 mL centrifuge tube marked “A” and then spin it at 200 X G (200 times the force of gravity; 1200 rpm in the RT-7 centrifuge) for 3 minutes at 4 degrees Celsius. Make sure to properly balance the centrifuge with balance tubes. Once done, pour the supernatant out of the marked “A” into a second chilled 50 mL centrifuge tube marked “B”. Do not transfer the debris at the bottom of the tube “A”. Then centrifuge the 50 mL tube containing chloroplast suspension ( Tube “B”) at 1,000 X G (2800 rpm in RT-7 centrifuge) for 10 minutes at 4 degrees Celsius. Add 20 mL of the grinding buffer to the pellet and suspend it by stirring gently with a transfer pipet. Save all materials as this will be used in exercise 2. 
+
+Exercise 2: Quantifying Photo
+
+Label 10 large test tubes, blank and 1-0 then place in tube rack. Turn on the spectrophotometer and set it to read at 600nm. Make three replicates of each of the following reaction mixes (Table 1.) (notice only 1 replicate of the blank). 
+
+
+Add the 100uL of the enriched chloroplasts prepared in Exercise 1 to blank test tube and tubes 4-9. Mix each tube immediately by swirling the tube. Transfer the mixture to the spectrophotometer cuvettes. Blank the spectrophotometer immediately at 600 nm with the blank tube, then measure each sample and place the tubes back under light. After 10 minutes, blank spectrophotometer with blank and read and record absorbance of each sample at 600 nm. 
+Place the tubes back under the lamp (light). After 10 more minutes (20 minutes), blank the spectrophotometer. Then measure the absorbance a second time for all samples and place back in proper places. After another 10 minutes (30 minutes) blank the spectrophotometer and measure absorbances for all samples and record data. Record data on a table and then use a 2 sample 1 tailed t-test of an equal variance in order to determine significance. 
+
+
+
+Results:
+According to Figure 1, chloroplast in light had a negative change in absorbance, with a % change of absorbance of -97.9. The error for chloroplast in light was small compared to plus chloroplast in light and plus diuron, +/-0.88. Plus chloroplast in light and plus diuron, started with a negative % change of -25 but then stayed at around -8 % change. No chloroplast had a change in absorbance around 1% during the 30 minutes. 2 T-test’s were determined between no chloroplast vs. chloroplast in light (t-stat: 227, df=4, p=1.02 E-9) and no chloroplast vs. chloroplast in light plus diuron (t-stat=2.68, df=4, p=0.055).
+
+Discussion:
+The purpose of this lab was to analyze the rate of photosynthesis under different variables, diuron and light. No chloroplast vs. chloroplast in light was statistically significant with a p-value of 1.02 E-9 meaning that there was a significant difference in the values of control and chloroplast in light. Chloroplast in light, in Figure 1, had a -97.456% change after the 30 minutes. This was supported by our p-value being less than .05. This meant that the hypothesis was supported, photosystem II was inhibited and had no change in absorbance over the time. These values were also different from the controls as the absorbance of the experimental value started significantly lower than no chloroplast. The p-value for the difference in values between our control and plus chloroplast plus diuron was p=0.055, meaning that there was so significant difference in those two sets of data. Our data was not significant it did not support our hypothesis that there would be no difference in the change in absorbance of no chloroplast and chloroplast plus diuron in our results. Even though in Figure 1, plus chloroplast in light plus diuron over 30 minutes had a -8.27% change in absorbance, our p-value does not attribute to this. This could be due to a limitation in our methods. We could have allowed for more time of exposure of the diuron. For example, a study exposed their subject to diuron for 90 days whereas we only exposed the spinach leaves to diuron for a duration of 30 minutes. Their results concluded that “the effective PSII quantum yield has drastically reduced resulting in the complete inhibition at the higher dose… Similarly, the electron transport rate was also completely paralyzed in the same conditions” [de Lima et al., 2017]. For future experiments we could also experiment with the concentration of the herbicide and measure the reduction of photosynthesis in other ways. 
+	This experiment serves to demonstrate the effects of a herbicide that is used in bigger settings such as crop control and in daily agricultural workings. Diuron can also have greater effects to ecosystems when used, “In northeastern Australia identified high levels of diuron as the likely cause of a massive mangrove die-off” [Williams, Carranza, Kunzelman,Datta, & Kuivila., 2008].
+
+
+Literature Cited:
+1.	Velthuys, B. R. (1981). Electron‐dependent competition between plastoquinone and inhibitors for binding to photosystem II. FEBS Letters, 126(2), 277-281.
+2.	Jin, Y., Chen, S., Fan, X., Song, H., Li, X., Xu, J., & Qian, H. (2017). Diuron treatment reveals the different roles of two cyclic electron transfer pathways in photosystem II in Arabidopsis thaliana. Pesticide biochemistry and physiology, 137, 15-20.
+3.	Williams, S. L., Carranza, A., Kunzelman, J., Datta, S., & Kuivila, K. M. (2009). Effects of the herbicide diuron on cordgrass (Spartina foliosa) reflectance and photosynthetic parameters. Estuaries and coasts, 32(1), 146-157.
+4.	de Lima, D. A., Müller, C., Costa, A. C., Batista, P. F., Dalvi, V. C., & Domingos, M. (2017). Morphoanatomical and physiological changes in Bauhinia variegata L. as indicators of herbicide diuron action. Ecotoxicology and environmental safety, 141, 242-250.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+12.33.10+AM.png&Size=336784&Type=image%2Fpng&F=F_2xAindlPF0eGXuK
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+12.37.49+AM.png&Size=101640&Type=image%2Fpng&F=F_3NJbkOXo8tkVE84
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Mixtures for replicates
+Figure 1. Change in absorbance over 10 minute increments in three different conditions, no chloroplast, chloroplast in light and chloroplast in light plus diuron. There is greater variation in plus chloroplast in light plus diuron (SD+/-10.55). Chloroplast in light has less variation with SD+/-0.88. Chloroplast in light had a negative change in absorbance. 2 T-test’s were determined between no chloroplast vs. chloroplast in light (t-stat: 227, df=4, p=1.02 E-9)
+ and no chloroplast vs. chloroplast in light plus diuron (t-stat=2.68, df=4, p=0.055).
+*************************************************************************
+
+
+

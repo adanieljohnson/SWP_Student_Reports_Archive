@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-19 15:07:55
+Author of this lab report is: Std_5Tc0nDLI
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Observing the Effects of Lanthanum Chloride on Frog Muscle Contraction
+
+Abstract:
+     Muscle fibers are composed of individual myofibrils which produce muscle contraction through shortening of contractile units called sarcomeres. The rate of muscle contraction can be affected by the interior chemical environment of the muscle. The purpose of this lab was to observe the effects of lanthanum chloride, a calcium channel blocker, on the contraction of a Rana pipiens gastrocnemius muscle. It was hypothesized that lanthanum chloride would increase the threshold voltage of the muscle, or the voltage at which a contraction occurred. The muscle was connected to a force transducer and the threshold voltage was determined. After this 0.2mM lanthanum chloride was injected into the muscle and the procedure was repeated. It was found that p=0.5 and t=0, meaning that the difference between the means of the control and treatment groups was not statistically different. The results implied that lanthanum chloride was not an effective calcium channel blocker and that the hypothesis was not supported.
+
+Introduction:
+     Skeletal muscle in invertebrates and vertebrates is composed of thousands of individual myofibers bound together by connective tissue to form skeletal muscles. Motor neurons innervate myofibers at locations called neuromuscular junctions, where action potentials (AP) traveling along the axon arrive and the depolarization of the neuron causes the release of acetylcholine (ACh) from the pre-synaptic membrane. ACh diffuses to the muscle fiber and binds to its receptor, opening Na⁺ channels that generate an action potential in the muscle fiber. This spreads throughout the length of the fiber and stimulates the release of Ca²⁺ from the sarcoplasmic reticulum. Ca²⁺ activates the contractile units of the muscle fiber, as myosin units use energy from ATP cleavage to move actin filaments. Later, re-uptake of Ca²⁺ into the sarcoplasmic reticulum allows the muscle fiber to relax.
+     To monitor the actions of a muscle or nerve, a myogram is used. This is a visual representation of the stages of a muscle twitch. It is collected by connecting the muscle to a force transducer, which converts mechanical energy into an electric signal. Muscle contractions are impacted by the fluid surrounding the fiber as well as the interior chemical environment. It would be interesting to observe the effects of an altered internal chemical environment of a frog’s skeletal muscle [Johnson: 2017]. In this experiment, a 0.2 mM lanthanum chloride solution was injected into a northern leopard frog’s (Rana pipiens) gastrocnemius muscle to observe its effects on muscle contraction. Rana pipiens was a model organism as its gastrocnemius muscle contraction can be readily and easily observed, and its movement depends largely on this contraction. Lanthanum chloride acts a calcium channel blocker. Previous studies have examined its effect on muscle contraction, as one study in Murcia, Spain found that a calcium channel blocker verapamil blocked the rapid Ca²⁺ release pathway in the sarcoplasmic reticulum [Fernandez: 1987]. Another study observed the effect of calcium channel blockers lanthanum chloride and nifedipine on human femoral vein contraction. The researchers found that lanthanum chloride and nifedipine were able to reduce muscle contractions by 90% and 50%, respectively, meaning both effectively blocked calcium ion channels [Glusa: 1987]. Therefore, it was hypothesized that frog legs injected with lanthanum chloride would have a higher threshold voltage, or the voltage needed to be reached before an AP could be produced a muscle, than without any injection because Ca²⁺ is necessary for muscle contraction and its absence would lower the potential for contraction. The dependent variable in this experiment was the threshold voltage of each muscle, and the independent variable was the presence or absence of lanthanum chloride in the muscle.
+
+Materials and Methods:
+I.	Three frog legs (Rana pipiens) were procured and degloved manually and with forceps. The gastrocnemius muscle of each was separated and cut with scissors at the end of the Achilles tendon.
+II.	The end of the tendon was tied with a string to a force transducer so that the muscle was raised vertically at a 90° angle.
+III.	Pin electrodes were inserted into the muscle so it could be stimulated directly.
+IV.	The BNC connector of the pin electrodes was connected to the software box, which in turn was connected to a computer.
+V.	The LabScribe program was used to record muscle contractions. The following parameters were set:
+i.	Pulse amplitude (Amp) = 0.000 V
+ii.	Number of pulses = 1
+iii.	Frequency (F(Hz)) = 1
+iv.	Pulse width (W) = 5ms
+VI.	The leg was stimulated at 0.000 V and then increased at intervals of 0.1 V until the threshold voltage was found.
+VII.	After the leg was tried as a control, a needle was used to inject the gastrocnemius muscle with 0.2mM lanthanum chloride.
+VIII.	Ten minutes after injection, the treated leg was tested using the same procedure. This was repeated for all legs.
+IX.	A paired-T test was used to analyze the data between the control group (pre-injection) and treatment group (post-injection).t
+
+
+Results:
+	Treatment 1 saw an increase in threshold voltage from Control 1 from 0.3 V to 0.5 V, while Treatment 2 and Control 2 reached the same threshold voltage at 0.4 V. Treatment 3 decreased in threshold voltage compared to Control 3 from 0.5 V to 0.3 V. Using a paired T-test, it was found that the mean threshold voltage of the control group was not significantly greater than that of the treatment group. (t=0, p=0.5, degrees of freedom=2). 
+
+
+Discussion:
+     The data did not support the initial alternative hypothesis. The first treatment increased the control threshold by 0.2 V, and decreased the amplitude by 0.025 Amp. Treatment two remained at the same voltage of 0.4 as control 2 and increased the amplitude by 0.036 Amp, while the third treatment decreased the voltage by 0.2 V and increased the amplitude by 0.128 Amp. While the first treatment seemed to confirm our initial hypothesis, the subsequent treatments removed any sort of pattern capable of being thoroughly analyzed. In previous studies, researchers found that dantrolene, a ryanodine receptor inhibitor, inhibited skeletal muscle contractions by 70-90% in the frog Rana temporaria. Because the ryanodine receptor is essential to the release of Ca²⁺ from the sarcoplasmic reticulum, its inhibition would naturally decrease the ability of the muscle to contract, thus increasing the voltage necessary to engender a contraction [Nasledov: 2007]. It is possible that the lanthanum chloride was not applied the all of the muscle area, which would explain why threshold voltage either stayed the same or decreased because then some Ca²⁺ could have exited the sarcoplasmic reticulum from unblocked calcium ion channels and influenced the muscle contraction. It may have been necessary to increase the concentration of lanthanum chloride used, as the concentration used had already been increased from 0.1mM to the value which was used, 0.2mM. Therefore, this concentration used may not have been enough to produce the predicted effect on the muscle. Furthermore, some human error may have played a part because the pin electrodes used in the experiment are known to not work well if not placed in the muscle correctly, which may have impacted the data collected. Since the results of this experiment were contrary to those previously found, it is likely that they can be taken as an outlier and not accurately reflect the effect of lanthanum chloride on muscle contraction. However, this experiment must accept the null hypothesis that the addition of lanthanum chloride did not affect the threshold voltage of R. pipiens. Further experiments could observe the effect of an increased concentration of lanthanum chloride on muscle contraction, in order to determine a concentration that would efficiently show the previously observed effects of the calcium channel blocker.
+
+
+Literature Cited:
+Fernandez-Belda, F., & Gomez-Fernandez, J. (1987). Effect of the Calcium-Channel Blockers on Calcium Accumulation in Sarcoplasmic Reticulum of Skeletal Muscle. Biochimica et Biophysica Acta, 903 (3), 473-479. doi: 10.1016/0005-2736(87)90054-x
+
+Glusa, E., & Markwardt, F. (1987). Effects of Calcium Channel Blockers on the Contractile Response to Dihydroergotamine in Isolated Human Femoral Veins. Naunyn Schmiedebergs Archives of Pharmacology,335(5). doi: 10.1007/bf00169119
+
+Johnson AD. Nerve and Muscle Function. Comparative Physiology Bio 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 17.2 (updated August 2, 2017), pp 19-23.
+
+Nasledov, G.A., Katina, I. E., & Zhitnikova, Y. V. (2007). Changes in the Functioning of the Electromechanical Connection During Tetanic Contraction. Neuroscience and Behavioral Physiology, 37(2), 153-159. doi:10.1007/s11055-007-0163-8
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-19+at+3.07.01+PM.png&Size=94531&Type=image%2Fpng&F=F_aXjeTjVYqq3HwFf
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-19+at+3.07.10+PM.png&Size=46597&Type=image%2Fpng&F=F_cOADqzBbxx97eTj
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph shows the threshold voltage of each frog leg before (control) and after (treatment) injection of lanthanum chloride.
+
+Table 2: This table shows the threshold voltage reached in every subject, as well as its corresponding amplitude.
+
+*************************************************************************

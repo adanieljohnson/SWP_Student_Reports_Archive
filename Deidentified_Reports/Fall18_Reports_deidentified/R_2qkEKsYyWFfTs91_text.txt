@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-15 17:07:08
+Author of this lab report is: Std_5WSZ54s9
+ID: R_2qkEKsYyWFfTs91
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Impact of Tubocurarine on Muscle Contractions in Rana pipens 
+
+Abstract:
+This study examined the impact of tubocurarine, an ACh receptor inhibitor, on the muscle contraction mechanism. To do this, the gastrocnemius muscles of Rana pipens were injected with tubocurarine and myograms were collected via a stimulator and force transducer to be analyzed. The alternative hypothesis stated that tubocurarine application would prevent contractions, and this hypothesis was supported by the results. Tubocurarine is an ACh receptor inhibitor, preventing the passage of ions through the channel. These ions contribute to the action potential needed for contraction. Thus, the muscle contraction response after the injection was drastically reduced. 
+
+
+Introduction:
+The reception of the neurotransmitter acetylcholine (ACh) is a fundamental part of muscle contraction. When ACh binds to its receptor (a ligand-gated ion channel), potassium is able to leave and sodium is able to enter the postsynaptic cell.  This movement of ions makes possible the action potential that leads to contraction [Hall: 1993]. This experiment involves the use of a stimulator to apply an electrical stimulus to a frog leg, and a force transducer to aid in the recording of myograms, which are representations of muscle contraction responses [Johnson: 2018]. However, the gastrocnemius muscle of the experimental group were injected with tubocurarine, a known muscle paralytic. This is due to its interaction with nicotinic receptors, which are receptors that can be bound by Acetylcholine [Cary: 1997]. Tubocurarine is an inhibitor, preventing transmission at synapses when it combines with ACh receptors. It can also, under high negative potential conditions, act as an antagonist to ACh by blocking channel openings [Armstrong: 1979]. This effect is enhanced by the fact that tubocurarine often binds repeatedly to several ACh receptors because the physical barrier of the nerve terminal makes it difficult to immediately diffuse out of the synaptic cleft [Jenkinson: 1960]. It was hypothesized that the application of tubocurarine to the muscle would prevent contractions, causing paralysis. 
+
+
+Materials and Methods:
+In this experiment the independent variable was the presence or absence of tubocurarine in the gastrocnemius of the frog leg, and the dependent variable was the contraction response. At the beginning of the lab, the stimulator and force transducer (mounted on a ring stand) were connected to the computer that was used to record myograms. Then three frog legs were prepared on the dissecting pan beneath the force transducer. This preparation involved the degloving of the legs, the exposure of the sciatic nerve, and the detachment of the gastrocnemius and part of the achilles tendon at the end closest to the feet. A string was then tied around the part of the achilles attached to the gastrocnemius so that there was a loop that could later be attached to the force transducer. Then the first leg was pinned to the dissection pan, and the corresponding string hung upon the force transducer at about a 90 degree angle. Finally, the sciatic nerve was draped over stimulator electrode. After these preparations had been made, the computer was used to apply electrical stimulation via the stimulator to the sciatic nerve in increasing amplitudes (0mV, 0.1mV, 0.2mV, 0.3mV, 0.4mV, 0.5mV, 1mV, 2mV, 3mV, 4mV, 5mV). The responses were recorded. This process was repeated for the other two legs, comprising the control group. Then the gastrocnemius muscles of each leg were injected with 3ml of 1ml tubocurarine. A drop of tubocurarine was also placed on each of the sciatic nerves. Then, the stimulation and recording process was repeated for the three legs, now injected with tubocurarine. This data comprised the experimental group. Averages for contraction responses at each amplitude were taken for the control and experimental groups, and a paired t-test was performed. 
+
+Results:
+The results show great difference between the contraction responses of the control and experimental groups in that the control group displays stronger responses. This is clearly exhibited in every mean besides those derived at the stimulus amplitude of 0mV (as all contraction responses were 0mV at this amplitude). For example, as displayed in figure 1, at the stimulus amplitude 0.1mV (the smallest tested above 0mV) the control group mean response is 0.281mV, and the experimental group mean response is 0.993mV. Similarly, at the 5mV stimulus amplitude (the largest tested), the control group mean response is 0.995mV, and the experimental group mean response is 0.175mV. After performing a paired t-test, it is clear that the results are significant, as the means for the experimental group are clearly smaller than those of the control group (t-stat=1.21271E-05, df=20, P=0.00001). 
+
+Discussion:
+As the data are significant, the alternative hypothesis is accepted. Tubocurarine does prevent muscular contraction, or at least greatly inhibits it. This apparent in the consistent difference between muscular response in the presence and absence of tubocurarine (stronger and weaker responses, respectively). It can be inferred that many of the ACh receptors in the injected legs were competitively inhibited, preventing the passage of sodium and potassium through the channel portion of the protein [Armstrong: 1979]. This prevention of ion passage prevents the depolarization needed to produce the action potential, and thus the contraction response. For this reason, it is likely that tubocurarine would make an effective muscle relaxant for medical procedures. Another application is the treatment of nicotine addiction. Nicotinic receptors, though designed to bind ACh, also bind nicotine. Due to this, tubocurarine is not merely an antagonist to ACh, but also to nicotine, and can be used in combination with other methods to treat withdrawal [Cary: 1997]. 
+
+Literature Cited:
+Johnson AD. Neuromuscular Control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-20
+
+D.L. Armstrong, H.A. Lester. 1979. The kinetics of tubocurarine action and restricted diffusion within the synaptic cleft. The Journal of Physiology.  Vol. 
+
+Zach W. Hall, Joshua R. Sanest. 1993. Synaptic Structure and Development: The Neuromuscular Junction. Cell. Vol. 27
+
+D.H. Jenkinson. 1960. The Antagonism Between Tubocurarine and Substances Which Depolarize the Motor End-Plate. The Journal of Physiology. Vol. 152 
+
+H.Frederik Nijhout, Carroll M. Williams. 1974. Control of Moulting and Metamorphosis in the Tobacco Hornworm, Manduca sexta (L.): Cessation of Juvenile Hormone Secretion as a Trigger for Pupation. Journal of Experimental Biology. 
+
+
+Douglas D. Cary. 1997. Nicotine Addiction Treatment. Cary Pharmaceuticals Inc.  
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-15+at+5.05.51+PM.png&Size=429062&Type=image%2Fpng&F=F_3j1mL3NNFoa8ou7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+1 Muscle contraction (measured in mV) in response to increasing stimulus amplitude (measured in mV). The control group (blue bars) was not injected with tubocurarine, while the experimental group (orange bars) was injected with tubocurarine. Each bar represents a mean contraction response at a particular stimulus amplitude (SE=0.10666408). *************************************************************************
+
+
+

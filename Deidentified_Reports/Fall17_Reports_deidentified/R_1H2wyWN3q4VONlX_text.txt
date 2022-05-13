@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-24 18:22:43
+Author of this lab report is: Std_qKxWbTq3
+Course number: BIO102L
+TA: TA_Zz1lFW4y
+*************************************************************************
+Title: The Effects of Colored Light on Rate of Photosynthesis in Spinach Leafs
+
+Abstract:
+The purpose was to determine if the color of light has an effect the rate of photosynthesis of plants.  We chose to use three different colors of light: white, blue and red. There was a blank, a sample without chloroplast under each light condition, and three samples with chloroplast under each light condition.  Each sample had an initial absorbance reading, one following ten minutes under its assigned light color, after ten more minutes (20 minutes total), and then again after another ten minutes (30 minutes total). The statistical ANOVA test did not produce a significant difference, meaning the null hypothesis was not rejected. After calculating the change in absorbance over time, it was determined that white light had the highest rate of photosynthesis while the red light had the lowest rate of photosynthesis in spinach plants. 
+
+
+Introduction:
+Energy is stored in three forms: 1) chemical energy within covalent bonds, 2) storage of energy as redox potentials, and 3) gradient across a lipid bilayer. 
+All organisms directly or indirectly gain energy from external sources. For instance, plants capture energy from sunlight, using photosynthesis. After the energy is stored it can be released into the cytoplasm of the cell via glycolysis and respiration. First, chloroplasts absorb the energy that radiates from the sun through chlorophyll molecules. Next, the electrons leave the carrier molecules and trigger reactions that cleave water to release the remaining electrons on carriers and to create a larger proton gradient. Then the electrons are stored as NADPH. ATP synthesis is powered by the proton gradient produced across the lipid bilayer earlier on in the cycle. Finally, the NADPH and ATP are used to synthesize a 6-carbon glucose from 1-carbon carbon dioxide molecules. In plants, the ATP synthesized is consumed in the process of glucose synthesis. 
+Three factors that affect the rate of photosynthesis include light intensity, carbon dioxide concentration and temperature. In addition, the gender of the plant can also affect the rate of photosynthesis in plants [Luning & Dring, 1975]. Light energy is absorbed by photosynthetic organisms in order for them to produce a form of energy they can use. Pigments absorb wavelengths of light differently, some may be reflected while others are absorbed. For example, plants appear green to the human eye because they are reflecting the green light back to us. The intensity of light impacts the rate of photosynthesis due to the pigments in the plant. 
+Our goal for this experiment is to determine whether plants have a higher rate of photosynthesis under blue, red or white light via analysis of absorption. We hypothesize that the white light will have the highest rate of photosynthesis while the red light will produce the lowest rate of photosynthesis in spinach plants. 
+
+
+Materials and Methods:
+To begin the experiment, place a mortar and pestle, 150-mL beaker and 2 50-mL centrifuge tubes into ice. While the items are cooling in ice, remove the large central vein from four medium-sized spinach leaves, rinse them with tap water, and blot dry. Remove the mortar and pestle, wipe dry, and begin grinding the spinach leaves. Next, add 10-mL of cool grinding buffer and grind until a paste forms; then, add another 10-mL of grinding buffer and grind. Strain the green spinach mixture with cheesecloth. Transfer the remaining liquid into a cold, 50-mL centrifuge tube. Then spin the sample at 200xG for 3 minutes. Afterwards, pour the supernatant from the first centrifuge tube into the second centrifuge tube. Then centrifuge the second tube at 1000xG for ten minutes. When complete, remove the liquid so that only the pellet remains and add 20-mL of grinding buffer and stir. 
+For the second part of the experiment, label thirteen test tubes and thirteen spectrophotometer cuvettes, 0-12. Prepare the following mixtures in the correctly labeled test tubes.
+Add 100- μl of enriched chloroplast to the test tubes labeled 0 and #4-12, then mix well. Transfer each to its matching spectrophotometer cuvette and measure the absorbance (at 600nm). Place samples #1, 4-6 under blue light, #2, 7-9 under red light, and #3, 10-12 under white light, each set-in a test tube rack. The blank, or 0, will not be placed under a specific light color. After 10 minutes, transfer to the respective spectrophotometer cuvette and measure the absorbance. Place each test tube back under its appropriate light color and let sit for another 10 minutes (totaling 20 minutes). Measure the absorbance in the respective spectrophotometer cuvette and repeat the process once more after another 10 minutes (totaling 30 minutes). Record all data in table. 
+
+Results:
+In the samples with chloroplasts, the raw data showed an increasing rate of photosynthesis from red light to blue light, and blue to white light in respective order. Therefore, the raw data failed to reject the hypothesis; meaning that samples under white light will have the highest rate of photosynthesis while the red light will produce the lowest rate of photosynthesis. An ANOVA statistical text was run[p=0.126]. The p-value was greater than 0.05, meaning the statistical results also supported the hypothesis.
+
+Discussion:
+ The results, that photosynthetic rate from highest to lowest was as follows: white, blue, red. These results were caused by the facts that different wavelengths of light and the plants ability to absorb it. The visible spectrum ranges from 400nm – 700nm and can be seen by the human eye. Red light has the longest wavelength and least energy while blue is on the shorter end of the wavelength spectrum and has much more energy. In fact, red light has even been proven to cause dysfunctional photosynthesis processes in plants [Hogewoning, et al., 2010]. However, white light is made of various wavelengths found in many different colors of visible light. Chlorophyll have two specific absorption peaks: one around 450nm, the region of blue light, and one around 660nm, which the location of most red light. The ability of the pigment to absorb the different color light explains the outcome of the experiment. The pigment in the spinach leaves absorbed the blue light more readily than the red light; and the white light, a combination of many wavelengths, had an absorption and rate of photosynthesis higher than the other two colors. Another factor that contributed to the ability to truly see the rate of photosynthesis was having samples without chloroplast to compare to. The three samples without chloroplast, one under each color light, served to show if DCIP caused any color change without the presence of chloroplast.
+In future experiment, increasing the number of samples or even the time period in which the absorbance was observed and recorded would be ways to gather more accurate data. A larger amount of data would allow us to draw more general conclusions about photosynthesis rates in the presence of different colors of light.
+
+
+Literature Cited:
+Hogewoning, S. W., Trouwborst, G., Maljaars, H., Poorter, H., Ieperen, W. V., & Harbinson, J. (2010). Blue light dose-responses of leaf photosynthesis, morphology, and chemical composition of Cucumis sativus grown under different combinations of red and blue light. Journal of Experimental Botany,61(11), 3107-3117. doi:10.1093/jxb/erq132
+
+Luning, K., & Dring, M. J. (1975). Reproduction, growth and photosynthesis of gametophytes of Laminaria saccharina grown in blue and red light. Marine Biology,29(3), 195-200. doi:10.1007/bf00391846
+
+Okamoto, K., Yanagi, T., Takita, S., Tanaka, M., Higuchi, T., Ushida, Y., & Watanabe, H. (1996). Development Of Plant Growth Apparatus Using Blue And Red Led As Artificial Light Source. Acta Horticulturae,(440), 111-116. doi:10.17660/actahortic.1996.440.20
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-24+at+4.52.17+PM.png&Size=140239&Type=image%2Fpng&F=F_eaN5gBQaHbVwjhX
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-24+at+5.39.41+PM.png&Size=64148&Type=image%2Fpng&F=F_0xIoc3CTxakatzT
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-24+at+4.52.23+PM.png&Size=165169&Type=image%2Fpng&F=F_9v0zawIsyJwtdXv
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-24+at+4.52.31+PM.png&Size=99627&Type=image%2Fpng&F=F_1Ttwgwq9wpkXN09
+
+
+
+
+
+Figure Legends: 
+Table 2 is of the materials needed to make the solutions.
+
+*************************************************************************

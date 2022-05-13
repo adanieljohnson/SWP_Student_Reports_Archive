@@ -1,0 +1,44 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-29 23:02:18
+Author of this lab report is: Std_XAAmImZZ
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Caffeine on Gastrocnemius Contraction in Rana pipiens
+
+Abstract:
+The objective of the following experiment was to determine if there was a statistically significant difference in strength between gastrocnemius muscles without caffeine supplementation versus those with caffeine supplementation.  Legs of Rana pipiens were tested by Labscribe software to determine strength of contraction, and each leg would be tested against itself without caffeine versus with caffeine.   Prior to our experiment, it was found that caffeine promoted calcium ion levels and caused some muscular contraction.  We hypothesize that there will be some statistical significance between the frog leg contractions before and after injecting the caffeine.  We found there to be a noticeable trend in the contraction values where the caffeine supplemented contractions were higher than contractions without supplement.  Both qualitative results and graphical results from Labscribe show that the caffeine resulted in chemically induced tetany of the gastrocnemius muscle.  To determine if there was significance, a two-tailed, paired t-test was implemented to evaluate the differences in the legs.  From the two-tailed, paired t-test, a p-value of 0.043 was found, supporting our hypothesis and rejecting the null hypothesis.
+
+
+Introduction:
+We know that calcium levels allow the release of acetylcholine which will cause an action potential that travels all the way to the muscle, causing contraction.  This action potential is a surge of positive charge that will travel down the neurons and to the neuromuscular junction.  To observe the contraction, we will be using Rana pipiens, a species of frog that has been chosen because of the ease to isolate the sciatic nerve and gastrocnemius muscle of the leg.  A 1968 case study by A Weber and R Herz examined the effects of caffeine on calcium cation levels and the role caffeine played on muscular contractions [Weber and Herz: 1968].  Calcium cations are responsible for the release of neurotransmitters from axon terminals; because caffeine promotes contraction, Weber and Herz tested to see if the contractions were due to caffeine levels raising calcium cation levels [Weber and Herz:1968].  They found that additional caffeine levels in frog and rabbit legs (specific species not mentioned) caused an increased level of calcium cations, in turn sending neurotransmitters and creating a contraction [Weber and Herz: 1968].   From the knowledge that caffeine levels increase calcium levels and induce contraction, we would like to test the potential difference in strength of contraction of the gastrocnemius muscle under caffeine supplementation and without.  The strength of contraction will be measured in amplitude (V) by Labscribe 3 software.  Our independent, categorical variable will be the caffeine stimulation.  Our dependent, measurement variable will be the strength of contraction.  We hypothesize that with 1.0 V of stimulation, there will be a statistically stronger contraction in the experimental group than the control group.
+
+
+Materials and Methods:
+To begin, we exposed both the gastrocnemius and sciatic nerve of the Rana pipiens.  Then, set up the leg to the apparatus in which Labscribe 3 will be able to record the strength of contraction.  Next, attach the stimulating probe to the sciatic nerve of the Rana pipiens.  For the testing of the control group, send five pulses of 1.0 V to the sciatic nerve and measure the contraction of the gastrocnemius muscle.  After that testing, to the same leg, inject approximately 0.1 mL of caffeine (200mM caffeine in Ringer Solution) directly into the gastrocnemius muscle of the Rana pipiens.  After injection, send five pulses of 1.0 V to the sciatic nerve and measure the contraction of the gastrocnemius muscle.  Repeat with two more Rana pipiens legs.  In terms of statistical testing, use a two-tailed paired t-test to determine the statistical significance of the caffeine levels on contraction.  The paired t-test will evaluate the difference in the two groups.
+
+Results:
+There was no real trend in the values of the control trials.  The experimental trial results were higher than the control trial results for all three legs.  After injecting the caffeine, there was a visible and tactile difference in the gastrocnemius -- the muscle had expanded and became very tense/contracted.  When observing the strength of contraction after injection, there was some constant contraction regardless of stimulation. After running the paired, two-tailed t-test, we got a p-value of approximately 0.043 which is of statistical significance.
+
+Discussion:
+Our p-value of 0.043 allows us to support our alternate hypothesis and reject the null hypothesis that there will be no difference in contraction between the control group and the caffeine-injected, experimental group.   As observed, the gastrocnemius muscle underwent chemically induced tetany after the injection of caffeine.  Tetany is when the muscle is at a constant, maximum level of contraction, so we can deduce that the caffeine inducing tetany results in increased calcium cation level and muscular contraction levels.  This result of statistically stronger contractions ties back to and supports Weber and Herz’s findings of higher calcium cation levels and some muscular contraction.  Given that the release of calcium cations created an action potential that travels through the neurons all the way to the muscle, higher levels of contraction, as observed, indicate higher levels of calcium cations. Error should have been at a minimum in this lab because Labscribe software is generally accepted to be accurate.  Inaccuracies may have occurred in different amounts of caffeine injected or from differing setups in the preparation of the gastrocnemius muscle contraction.  For future study, differing levels of caffeine should be studied to determine if there is a threshold of caffeine and/or to determine if there is an ideal level of caffeine to maximize muscle contraction.  As we saw in our experiment, caffeine injection in the Rana pipiens gastrocnemius muscle induced tetanus and resulted in statistically stronger contractions of the gastrocnemius.  This new found knowledge may be applied to the more general field of neuromuscular science as different calcium promoters are studied for their effects on contraction strength.  Applications of our data may be in sports medicine and sports performance as supplementation of caffeine and other calcium promoters may be observed.  Also, caffeine and other calcium promoters may be studied in people who have different medical conditions that causes them to struggle with muscular contraction.
+
+Literature Cited:
+Weber, A., & Herz, R. (1968). The relationship between caffeine contracture of intact muscle and 
+the effect of caffeine on reticulum. The Journal of general physiology, 52(5), 750-759.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Revised+Graph.png&Size=35100&Type=image%2Fpng&F=F_9t63dWYgQbGZnIV
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Level of contraction in control groups and caffeine groups.  Each group had three Rana pipiens legs that were tested with five stimulations of 1.0 V.  Averages were taken for each trial and then compiled for averaging of the three legs.  For “without caffeine,” we got an average of 1.32 V with a standard deviation of 0.26 V, and for “with caffeine,” we got an average of 1.713 V with a standard deviation of 0.33 V.  Results without caffeine (blue bar) had no supplementation while the results with caffeine (red bar) received 0.1 mL of 200 mM caffeine in Ringer Solution.  From running a paired t-test, we got a p-value of 0.043
+
+*************************************************************************

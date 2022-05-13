@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 13:40:44
+Author of this lab report is: Std_r90QflId
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The effect of Sevin, an achytocolinesterae inhibitor, on muscular contractions of frog legs: application of acetylcholinesterase inhibitor results in higher amplitude and longer relaxation period
+
+Abstract:
+This experiment focused on the idea of what would happen to a muscle contraction and the following relaxation period if an Acetylcholinesterase inhibitor was injected into the muscle. Acetylcholinesterase is an enzyme that breaks up ACh into acetate and choline so that it does not over stimulate post-synaptic nerves and muscles. We hypothesized that an acetylcholinesterase inhibitor would prolong both the contraction period and the time to the relaxation period. In our experiment, we used an AChE inhibitor called Sevin and injected it into the gastrocnemius muscle of a frog leg, where each leg would be acting as its own control and experimental group. After running a series of test trials on the muscle, our results showed a consistent decrease in amplitude and fluctuating relaxation period times. The statistical tests run in this experiment deemed our results to be extremely insignificant, causing us to refer to other researchers for possible explanations. After referencing various other experiments, we determined that there were multiple variables that could have swayed our results, and that despite our experiment’s results, AChE inhibitor seems to prolong muscle contraction and relaxation time, supporting our original hypothesis. 
+
+Introduction:
+The goal of this experiment was to learn about muscle contractions in the body, and how they can be altered. My lab group decided to investigate whether acetylcholinesterase inhibitor has a large impact on muscle contractions. We chose to test frog legs, and their nerve/muscle responses to an Acetylcholinesterase inhibitor called Sevin. Through a process called excitation contraction coupling, we can see how a nerve stimulates muscle contractions, and also to see how ACh and calcium play a role in muscle contractions. In the process, action potentials from axons within a nerve come into contact with a neuromuscular junction, where the neuron depolarizes and causes ACh to be released from the presynaptic nerve terminal. The ACh then diffuses and binds with its receptor on the muscle fiber’s membrane, causing sodium channels to open and generate action potentials. The action potentials then stimulate calcium to be released from the sarcoplasmic reticulum, activating the contractile function of the muscle fiber. The myosin filaments use energy from ATP and rub against the actin filaments, causing the myofiber to shorten. The muscle can relax again once the calcium goes back into the sarcoplasmic reticulum, ending the excitation contraction coupling process. [Johnson 2016] Acetylcholinesterase is an enzyme that breaks up ACh into acetate and choline so that it does not over stimulate post-synaptic nerves and muscles. It does this by stopping the action potentials from reaching the muscle fibers. In another experiment involving neural regulation of AChE in rat skeletal muscles, researchers looked at how the amount of time collagen Q, a tail subunit of AChE, was present in the muscle affected the contraction. The longer the Collagen Q was present, the shorter the contraction was. If Collagen Q was inhibited, the muscle contraction would lengthen. [Trinkaus 2008] Similarly, in our experiment, we are using an Acetylcholinesterase inhibitor, which will hopefully increase the amount of ACh and make the muscle contract more. Despite the fact that in the previous experiment, rat skeletal muscles were used, we expect that our frog gastrocnemius muscles will respond in a similar manner. We hypothesize that both the muscle contraction period and the time to relaxation period will lengthen, as the blockage of acetylcholine in the muscle will stop the muscle from being able to relax.
+
+
+Materials and Methods:
+The methods of this experiments started with the preparation of the frog leg. The leg was placed in a dissecting tray where it was skinned with a pair of forceps. Then the inner thigh muscles were separated using a dissecting probe, helping to locate the sciatic nerve. Once the nerve was found, it was separated from the connective tissue around it using a dissecting needle and forceps. After the separation of the sciatic nerve, the gastrocnemius muscle was separated from the bone, and the achilles tendon was cut off from the bone, allowing it to be tied with a string from the force transducer. After being tied, two pins were inserted into the gastrocnemius muscle, one towards the bottom of the muscle and one in the upper middle of the muscle. The pins were connected to wires that plug into the BNC connector in the force transducer box. A probe also had to be properly connected to the sciatic nerve with the nerve touching both metal wires in order to get accurate results from the tests on the computer using the labscribe software. The amplitude and the relaxation period was then measured and recorded. After repeating the test five times, the muscle was injected with 2% solution of sevin, the acetylcholinesterase inhibitor. After letting the muscle sit for two minutes to allow the sevin to absorb, the same test measuring both the amplitude of the muscle contraction and the relaxation period were done five times on the treatment leg. There was a one minute resting period between each trial in order to try to avoid the fatiguing of the muscle. There were a total of three frog legs, and each leg was its own control and experimental group. Five trials were done per condition, meaning that there was a total of 10 trials per leg, five control and five treatment. Once the tests were completed and the amplitudes and relaxation times were recorded, the averages were found and paired T-Tests were run. The P-value, T-value, and degrees of freedom were then recorded. 
+
+
+Results:
+No general trend was noticeable, as the data fluctuated a lot between the control and treatment group trials for both amplitude and relaxation period; some experimental trials were longer than the control and some were shorter. It is important to note that in some trials, the frog leg didn’t respond to its original threshold, so a different threshold had to be found. The statistical tests used were Paired T-Tests. For the paired T test comparing the control and treatment amplitude, the degrees of freedom was 2, the T-Value was .532088, and the P-Value was.622846. For the paired T test comparing the control and treatment relaxation period, the degrees of freedom was 2, the T-Value was .164522, and the P-Value was .877299.
+
+Discussion:
+Overall, the data did not support our hypothesis. In all cases, the amplitude went down but the relaxation period was all over the place and very inconsistent. In some cases, the time of the relaxation period was longer. However, there were a fair amount of trials where the time of the relaxation period was shorter, demonstrating that our data doesn’t fully support our original hypothesis. After running statistical paired T tests, we determined that our results were insignificant, as our P-values for both tests were well above Alpha = .05. In order for our results to become significant, we would need more frog legs and need to run more trials of the test in order to determine a visual trend in our data. We would also need to receive a statistical result below .05 in order to determine that our data is significant. It is unclear what happened in our experiment, so we need to refer to other experiments that are similar to ours in order to understand the results. In another experiment, researchers used an AChE inhibitor called C-547 and tested its effects on the soleus and extensor digitorum longus muscles. The researchers discovered that when the C-547 was present, the muscle contraction was stronger, and the relaxation period was longer than when the C-547 was not present. [Petrov 2006] The results from this experiment support our original hypothesis, demonstrating that something went wrong with our experiment. In our experiment, we made the mistake of finding each leg’s individual threshold, rather than creating a control threshold for all of the legs. If we were to do the experiment again, we would make sure to set a high enough threshold so that the time and amplitude would not be affected, even as the muscle starts to become exhausted. In addition, we would get a larger sample size and run more trials in order to have more accurate and consistent data to use in our statistical tests. We also should have allotted more time between trials, allowing the muscle to rest between contractions to avoid the frog leg fatiguing. All of these variables could have possibly swayed our results, possibly explaining why we got the results we did. On a broader scale, there was an experiment done linking a high level of AChE in alzheimer’s disease patients. After doing various tests with a number of AChE inhibitors, researchers discovered that the characteristics of AChE in the brains of alzheimer’s patients was abnormal from the brains of non alzheimer’s patients. [Mimori 1995] This discovery led the researchers to hypothesize that there may be a link between high AChE levels in the brain and the presence of Alzheimer’s disease, demonstrating how our experiment involving AChE inhibitors connects back to other studies and other relevant scientific topics. 
+
+
+
+
+Literature Cited:
+1)Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), 19-34
+
+2)Trinkaus Miha, Pregelj Peter, Trkov Sasa, Sketelj Janez. Neural regulation of acetylcholinesterase-associated collagen Q in rat skeletal muscles. Journal of Neurochemistry 2008; 2535-2544. 
+
+3)Petrov KA, Kovyazina IV, Zobov VV, Bukharaeva EA, al e. Different sensitivity of miniature endplate currents of the rat extensor digitorum longus, soleus and diaphragm muscles to a novel acetylcholinesterase inhibitor C-547. Physiological Research 2006;55(5):585-9.
+
+
+4)Mimori Yasuyo, Shigenobu Nakamura, Motoko Yukawa. Abnormalities of acetylcholinesterase in Alzheimer’s disease with special reference to effect of acetylcholinesterase inhibitor. Behavioural Brain Research 1995; 25-30.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-18+at+5.09.38+PM.png&Size=62814&Type=image%2Fpng&F=F_1WSp7xZZgDGo0FD
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-18+at+5.17.38+PM.png&Size=65197&Type=image%2Fpng&F=F_ekrni8mn1L6Z2Kh
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average Amplitude Values between the control and treated frog legs
+The  graph above shows the average number of the control amplitudes and the average number of the treatment amplitudes out of 5 trials. The error bars represent the standard deviation of the data. The control amplitude was much higher on average than the treatment amplitude
+Figure 2. Average Relaxation time Values between the control and treated frog legs
+The graph above shows the average number of the control relaxation times and the average number of the treatment relaxation times. The error bars represent the standard deviation of the data. The treatment relaxation time was higher on average than the control relaxation time
+
+
+
+*************************************************************************

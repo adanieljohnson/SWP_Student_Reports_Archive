@@ -1,0 +1,74 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-09-27 19:49:35
+Author of this lab report is: Std_HR5ikflF
+ID: R_1MYsCrgwmCavCzQ
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Reintroduction of Precor Has no Effect on the Growth Rate of Manduca sexta
+
+Abstract:
+This study was designed to evaluate the effect of Precor on the growth rate of Manduca sexta lava. Manduca sexta is a moth of the family Sphingidae commonly used as model organism for experiment. Precor is an Insect Growth Regulator(IGR), an analogue of Juvenile Hormone. For this experiment, Precor was reintroduced to the Manduca sexta larva in the experimental group to evaluate its effect on the growth rate, and the hypothesis is that if an analogue of JH is reintroduced in the larval stage of the Manduca sexta, the growth rate of the larva will increase without progression into the pupal stage. One control group and one experimental group with the Precor in diets were used. However, the results failed to reject the null hypothesis, but supported the inhabitation function of Precor on the larva  development. A longer period of observation and recoding should be continued for more accurate conclusion.
+
+Introduction:
+Manduca sexta is a moth of the family Sphingidae present through much of the American continent, which is commonly known as the Carolina sphinx moth, the tobacco hawkmoth, tobacco hornworm, and the goliath worm. Manduca sexta has a short life cycle, lasting about 30 to 50 days, and they have five life stages, which are egg, larva, pre-pupa, pupa, and adult. 
+Also, Manduca sexta has become a model organism for experiments due to their large size and relative ease of rearing.[Bollenbacher:1981]
+Juvenile hormones are long chain organics molecules produced mainly by a pair of glands located on either side of the foregut, called the corpus allata. Juvenile hormone plays crucial roles in the development of insects. It inhibits the development of adult characters during larval and pupal development by governing metamorphosis and modifying the actions of 20-hydroxyeceysone.[Wyatt:1996]
+For a further understanding of how the extra amount of juvenile hormone can affect the growth of Manduca sexta, the hypothesis that the reintroduction of Precor to the larval stage of Manduca sexta can results in an increased growth rate into the pupal stage. For that hypothesis, the expected result would be an increased growth rate of Manduca sexta. The hypothesis for this experiment would be if an analogue of Juvenile Hormone (Precor) is reintroduced in the larval stage of the Manduca sexta, the growth rate of the larva will increase without progression into the pupal stage. 
+
+
+Materials and Methods:
+Eight Manduca sexta caterpillars were selected and divided into two groups with four caterpillars in each. One group became the control group, the other four became the experimental group and each caterpillar was placed in its own separate rearing jar. We fed each caterpillar in one of two diets. The four caterpillars in the control group received 10g of GLM food with 5 drops of water, while the other four in the experimental group received 10g of GLM food with 5 drops of Juvenile Hormone analogue, Precor. The food was made in spheres with water or hormone evenly distributed in it. When the food was used up, we fed them another 10g of GLM food with five drops of water in the control group and five drops of juvenile hormone in the experimental group. At the same time, all caterpillars were stored in the same incubator under the same condition. After starting to feed them, the length and weight of each caterpillar were measured each day in the following fifteen days, as the growth rate is represented by both weight and length. Then analyzed the data collected and compared the growth rate between the control group and experimental group by using a two-sample t-test to evaluate the hypothesis.
+
+Results:
+All eight caterpillars gradually grew and they became heavier and longer in the fifteen days of observation but with different growth rates, which is represented by the change in weight and length. All the four caterpillars in the control group entered the pupa stage on the thirteenth day, while the four caterpillars in the experimental group were still in the larval stage. The summarized data recorded for the weight and length of eight caterpillars are shown in table 1 below. 
+Considering the change in growth rate, weight and length are two crucial factors to be measured. To better understand the change in the growth rate of each caterpillar, the weight and length are evaluated separately by using a two-sample t-test. In the two-sample t-test for weight, the result shows that the mean of the control group was not statistically different than that of the experimental group (t-stat=0.711, df=22, P=0.243). Similarly, in the two-sample t-test for length, the result shows that the mean of the control group was not statistically different than that of the experimental group (t-stat=1.044, df=22, P=0.154).
+The graphs Figure 1 and Figure 2 shown below summarize the results of weight and length change of both the control and experimental group during fifteen days respectively (three days missed because of the unattainable record).
+
+Discussion:
+Based on the evaluation of all results and data recorded, the null hypothesis that “the growth rate of the Manduca sexta larva will not increase without progression into the pupal stage with a reintroduction of Precor in the larval stage" is failed to be rejected. However, the results do support the inhabitation of Precor for the development of lava.
+Considering the trend of growth rate change, both weight and length of caterpillars in control and experimental group change dramatically in the fifteen days. In the evaluation of mean weight in both two groups, the p-value calculated is approximately 0.243 that much higher than a valid number 0.05. Also, in the evaluation of mean length in both two groups, the t-value calculated is approximately 0.154, also much higher than the valid number. 
+Based on the observation, the caterpillars in the control group started to pupate earlier than those in the experimental group. In the other word, the growth progress of caterpillars without being fed with Juvenile hormone is faster. In this case, therefore, the growth rate cannot match the growth progress. A scientific literature demonstrates that “cessation of Juvenile Hormone secretion as a trigger for pupation, and during the final larval instar of the tobacco hornworm, the presence of juvenile hormone (JH) inhibits the secretion of the brain's prothoracicotropic hormone (PTTH). The corpora allata cease to secrete JH when the larvae attain a weight of approximately 5 g “[Nijhout: 1974]. Compare to the results and interpretation above, the caterpillars in the experimental group lost weight in the last three days which potentially correspond to the maintenance of weight, and the growth rate is not much in concerned with the juvenile hormone. 
+Through evaluating the whole process of the experiment, several errors that potentially cause inaccuracy to appear. The biggest uncertainty is the interruption of data recording that three days of measurement were lmissed; therefore, the discontinuous process leads to the uncertainty of the results. The next logical step for this experiment would be a longer session for observation till all caterpillars become pupas.
+
+
+
+Literature Cited:
+1.	Bollenbacher WalterE. Ecdysteroid titer during larval-pupal-adult development of the tobacco hornworm, Manduca sexta, p302-306, 1981
+2.	R.Wyatt Gerard, Cellular and Molecular Actions of Juvenile Hormone. II. Roles of Juvenile Hormone in Adult Insects, p1-155, 1996
+3.	NIJHOUT H. FREDERIK, Control of Moulting and Metamorphosis in the Tobacco Hornworm, Manduca Sexta (L.): Cessation of Juvenile Hormone Secretion as a Trigger for Pupation, p493-501, 1974
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=table1.png&Size=47216&Type=image%2Fpng&F=F_1erclVqDlI26hUe
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure1.png&Size=20394&Type=image%2Fpng&F=F_3fNticXSA5FLcF8
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure2.png&Size=22312&Type=image%2Fpng&F=F_24MBnh90qCUtkRo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1 Mean weight and length of control group and experimental group of caterpillars in fifteen days
+Figure 1. Effect of Juvenile Hormone on the weight of caterpillars. Caterpillars in the control group (black bars) became heavier and then lost weight because of pupation. Caterpillars in the experimental group (grey bars) became heavier throughout the observed dates generally (remain stagnant on the third and fourth days).
+Figure 2. Effect of Juvenile Hormone on the length of caterpillars. Caterpillars in the control group (black bars) became longer in the first eleven days, then became pupa on the twelfth day (the nine on the x-axis in the graph). Caterpillars in the experimental group (grey bars) became longer generally and then shortened for a little bit.
+*************************************************************************
+
+
+

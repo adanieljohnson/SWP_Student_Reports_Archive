@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-02 18:26:48
+Author of this lab report is: Std_FrpJtTu7
+ID: R_4OwOEz2AR8CqqSl
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The inhibitory effect of Lidocaine on sodium release in the gastrocnemius muscle of Rana pipiens
+
+Abstract:
+Muscle contraction is a complex process which is mediated by the release of ions from gated channels in muscle fibers. In particular, the release of sodium ions triggers the generation of an action potential in the muscle which causes the muscle to contract. Researchers electrically stimulated the three Rana pipiens legs at the sciatic nerve to determine the threshold voltage for muscle contraction, after which two injections of 0.05mL of 25mM Lidocaine were administered to the gastrocnemius muscle. The threshold after treatment was determined, and the threshold of the control group and those of the treatment group were compared. It was hypothesized that the injection of Lidocaine would block the release of sodium in the muscles, causing a higher threshold voltage for stimulation in the treatment group than the control group. This result was anticipated because after an action potential is received at the neuromuscular junction, sodium is released, which triggers the action potential in the muscle fiber; without sufficient sodium present, the action potential in the muscle fiber would not occur, which would prevent the muscle from contracting. This hypothesis was supported by observation, but the statistical analysis, done via a paired t-test, showed that the increase in voltage 
+
+Introduction:
+was not statistically significant. 
+
+Vertebrates have three types of muscles: skeletal, or striated; cardiac; and smooth (Brooke et al., 1970). Skeletal muscle is comprised of myofibrils, clumps of cylindrical cells which have many nuclei, which are stimulated by a process known as excitation-contraction coupling (Brooke et al., 1970). This process involves the receiving of an action potential at the neuromuscular junction, at which the neurotransmitter Acetylcholine is released, which in turn triggers the opening of gated sodium channels which create an action potential in the muscle fiber. Without the opening of these sodium channels and the subsequent release of sodium, the action potential would not continue through the neuromuscular junction and as a result, the muscle would not be stimulated. 
+	
+After reading reports such as that of Cruz et al., where snail toxin was shown to have sodium-blocking effects, which caused reduced movement in stimulated muscles (Cruz et al. 1985), researchers were interested in exploring the effects of blocking sodium channels in muscles, specifically the gastrocnemius muscle of the Rana pipiens, or northern leopard frog. In R. pipiens legs, the gastrocnemius muscle is stimulated by the sciatic nerve. This is where the transfer of action potential from the motor neuron to the neuromuscular junction would occur. Researchers decided to use this particular area of the R. pipiens experimentally due to the simplicity of isolating the sciatic nerve and the clear visibility of stimulation in the large muscles of the leg. It was determined that Lidocaine will be used to block the release of sodium, and this subsequent stimulation will be compared to a control stimulation which will take place prior to the injection of Lidocaine into the leg; the resulting muscle contractions will be measured by voltage. Researchers hypothesize that injecting Lidocaine into the gastrocnemius muscle of the R. pipiens will inhibit the release of sodium from channels on the muscle fiber, and this will cause the threshold voltage for stimulation to increase. The threshold voltage in a muscle is defined as the amount of voltage required for the muscle to contract, and this threshold voltage, and how, if, and why it changes after treatment, will be the main focus of the study.
+
+Materials and Methods:
+Three R. pipiens legs were arbitrarily chosen and carefully degloved. An incision was then made lengthwise down each thigh muscle in order to identify and isolate the sciatic nerve. Care was taken to refrain from touching the sciatic nerve with metal instruments so as not to damage it; since the sciatic nerve, like all nerves, is sensitive to electricity, the surface charge on metal instruments like the ones used for dissection of the specimens could transport charge to the sensitive biological tissue and cause undesired muscle contraction. Each gastrocnemius muscle was freed from the surrounding tissue, and a cut was made according to the red dotted line in Figure 1 so that each gastrocnemius muscle was free at the lower end of the muscle, ensuring that some Achilles tendon remained at the end of each gastrocnemius muscle.
+
+Each leg was then pinned to a dissection mat such that the thigh and lower leg, except for the free gastrocnemius muscle, were flat to the mat and the gastrocnemius muscle could be suspended perpendicular to the mat. Thread was tied around the free end of the gastrocnemius muscle and attached to hooks on a Pasco Interface sensor. The tension in the thread was adjusted until the thread was taut. 
+	
+The central idea behind the method of the study is to apply a voltage to the sciatic nerve in order to imitate an action potential, which begins with an electrical signal. To prepare to apply an electrical voltage, the sciatic nerve was gently lifted and placed across the electrodes. Each leg was used as its own control, meaning that each leg was first stimulated without Lidocaine, during which the threshold voltage for each leg was determined and recorded along with the voltage of the leg’s contraction. 0.05mL of 25mM Lidocaine were then injected at each end of the gastrocnemius muscle, and researchers waited for ten minutes before stimulating the leg again in order to allow the Lidocaine to take effect. Each leg was then stimulated at the control threshold and the resulting contraction voltage was recorded. The new threshold voltage and subsequent contraction voltage for each leg was determined and recorded. 
+	
+Researchers decided to use a paired t-test to determine if the difference between the original threshold voltage and the new threshold voltage after the injection of Lidocaine was statistically significant. The raw data was transformed by averaging each original threshold voltage and each treatment threshold voltage for comparison. It is important to note that there was be no error recorded with the data: this is because even though elements like fatigue could cause uncertainty, the threshold voltage is a discrete value, and the apparatus used for this study was not precise enough to measure any potential error associated with the threshold voltage.
+
+Results:
+In general, two of the three legs did not experience a muscle contraction at the originally-determined threshold after the Lidocaine was administered. Additionally, when the Lidocaine-treated legs were stimulated at a higher voltage, two of the three legs experienced movement in the toes, while the remaining leg experienced movement only in the gastrocnemius muscle itself. As shown in Figure 2, the threshold voltage was generally higher for the treatment legs than it was for the control legs (t-stat = 1.89, DF = 2, p-value = 0.199).
+
+
+
+Discussion:
+Prior to beginning the experiment, it was hypothesized that injecting Lidocaine into the gastrocnemius muscle of R. pipiens would increase the threshold voltage for stimulation as compared to the threshold for stimulation for the control group. While each of the three legs did have a higher threshold for stimulation for the treatment group as compared to the control group, the statistical analysis, which was conducted via a two-sample t-test, showed that the increase in stimulation threshold was not statistically significant (t-stat = 1.89, DF = 2, p-value = 0.199). The p-value of 0.199 indicates that it is more likely that the data resulted from chance; therefore, the hypothesis was supported by observation but not by statistical analysis. 
+	
+It was observed that the treatment group thresholds were higher than the control group thresholds, and this is explained by noting that Lidocaine is a drug which blocks the release of sodium from gated channels in the muscle fibers. Without the release of sodium in the muscle fibers, the action potential would never be generated, thus preventing the contraction of the muscle. Since movement was observed in the treatment group muscles, it follows that an administration of 0.1mL of 25mM Lidocaine is insufficient to block the release of sodium totally; instead, it is more likely that the injection of Lidocaine partially inhibited the release of sodium from the muscle fibers. Since less sodium was released from the muscle fibers, a lower-voltage muscle contraction would be expected because a smaller action potential would be generated by the muscle. In particular, a voltage that was a threshold for the control muscle would be insufficient to stimulate a recordable response in the muscle after treatment with Lidocaine because the action potential generated by the muscle fibers would also be insufficient to cause muscle contraction. This details why researchers both anticipated and observed a higher threshold voltage for the treatment group than the control group, a result that agrees with other literature in which the measured action potential in muscle fibers decreased after blocking sodium channels (Sanchez et al. 1977).  In the study done by Sanchez et al., researchers inserted three micro-electrodes into the sartorius muscles of R. pipiens and inhibited sodium levels by replacing internal sodium sulfate solution with Tris aminomethane sulphate;  the delivered voltage and subsequent contraction of the muscle were recorded and, similar to the present experiment, it was found that muscle contractions measured after treatment were of a lower magnitude than the control when measured at the same applied voltage (Sanchez et al. 1977).
+	
+The conclusion of the experiment inspires further study in the future. In particular, researchers expressed interest in blocking other ions necessary for muscle contraction, such as calcium and potassium, as was done in experiment by Sanchez et al. (1977). Additionally, researchers were interested in pursuing alternate courses of study on the effects of Lidocaine on muscle which was chronically compressed or cramped (Kaji et al. 1995).
+
+Literature Cited:
+Brooke MH, Kaiser KK. 1970 Muscle fiber types: how many and what kind? Arch 				Neurol. 23:369–379. 
+
+Cruz LJ, Gray WR, Olivera BM, Zeikus RD, Kerr L, Yoshikami D, Moczydlowski E. 1985. Conus geographus toxins that discriminate between neuronal and muscle sodium channels. The Journal of Biological Chemistry. 260; 9280-9288. 
+
+Kaji R, Rothwell JC, Katayama M, Ikeda T, Kubori T, Kohara N, Mezaki T, Shibasaki H, Kimura J. 1995. Tonic vibration reflex and muscle afferent block in writer’s cramp. Annals of Neurology. 38; 155-162. 
+
+Sanchez JA, Stefani E. 1978. Inward calcium current in twitch muscle fibers of the frog. Journal of Psychology. 283; 197-209. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-02+at+6.25.34+PM.png&Size=568010&Type=image%2Fpng&F=F_1pWGsSBNqzMWXEC
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-02+at+6.25.43+PM.png&Size=67699&Type=image%2Fpng&F=F_e2scr9V9v5qXBe1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The leg anatomy of R. pipiens, with the sciatic nerve and gastrocnemius muscle shown. The red dotted line represents the incision made on each leg to free the lower end of the gastrocnemius muscle from the remainder of the lower leg and foot.
+
+Figure 2. Threshold Voltage for the Control Legs and the Treatment Legs. The blue bar represents the threshold voltage for the control legs and the orange bar represents the threshold voltage for the treatment legs (t-stat = 1.89, DF = 2, p-value = 0.199).*************************************************************************
+
+
+

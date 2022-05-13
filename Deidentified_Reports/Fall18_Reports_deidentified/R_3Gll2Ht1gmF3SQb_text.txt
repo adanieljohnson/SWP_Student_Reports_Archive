@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-20 15:15:36
+Author of this lab report is: Std_cxJXLj2I
+ID: R_3Gll2Ht1gmF3SQb
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effects of Tetraethylammonium Chloride on Muscle Contraction of Rana pipiens
+
+Abstract:
+Potassium is an essential ion in overall muscle contraction of an organism's skeletal muscles. It allows for an action potential to be carried along the axon of a motor neuron, and relay a message to contract to surrounding muscle fibers. Tetraethylammonium chloride is a chemical known to inhibit the proper functioning of potassium in muscle contraction. If potassium is blocked when an action potential is being carried along an axon, the muscle will not contract properly and the overall threshold value of the amount of stimulus required to activate the muscle, will increase. In our experiment, we injected three frog legs from the species Rana pipiens with 0.1mL of tetraethylammonium chloride and connected them to a force transducer to shock each leg at different volts in order to determine their threshold values before and after injection. In the end, through a one-tailed p-value of 0.13, which is greater than .01, we found that our results were not significant. This accurately represents our data, as the difference in average threshold values between control and experimental groups was small. Yet, the average threshold value of the control group (0.23 +/- 0.32 V) was larger than the threshold value of the experimental group (0.21 +/- 0.31 V) which was not what we hypothesized.
+
+Introduction:
+Skeletal muscles of both vertebrates and invertebrates are composed of fused cell aggregates called myofibers. These myofibers are bound by connective tissues to create the actual skeletal muscle. These muscles are then filled with motor neurons, with cell bodies located in gray matter of the spinal cord. Axons of the motor neurons extend from the spinal cord to surrounding muscle tissue, where they branch out and control when and how each muscle contracts and operates. 
+Potassium is one of many key ions that is essential for muscle contraction. Without potassium, muscles would never receive an action potential, and mobility would be inhibited. As an electrical impulse travels along the axon of a motor neuron, positively charged sodium ions flood into the inside of the cell. In order to counteract the input of sodium and maintain a proper action potential, sodium-potassium pumps actively pump out two potassium ions for each three sodium ions pushed into the cell. This process is what allows an axon terminal to release an action potential, and relay the message to begin contraction, to the surrounding skeletal muscles. 
+For this particular experiment, we isolated the gastrocnemius muscle and sciatic nerve of three Rana pipiens legs, in order to determine the effects of tetraethylammonium chloride (a chemical that inhibits the function of potassium) on each muscles threshold value (lowest pulse amplitude value in which contraction is still visible). 
+As tetraethylammonium chloride inhibits the proper function of potassium ions, it would then, in theory, inhibit a muscle's ability to send an action potential down the axon of a motor neuron, interfering with the overall contraction of the muscle. 
+As discovered in a previous study investigating the effects of tetraethylammonium chloride on muscle contraction, the chemical inhibited the output of potassium and caused overall thresholds to increase [Imaizumi: 1981]. Thus we can conclude that 0.1mL of tetraethylammonium chloride will interfere with the potassium in three different Rana pipiens legs, increasing the threshold for muscle contraction.
+
+Materials and Methods:
+In order to being our experiment, three frog legs of the Rana pipiens species were acquired and placed in a dissecting pan so the outer layer of skin could be removed. After the skin was removed, each leg was moistened with frog Ringer’s solution. Then, with a dissecting probe, the muscles of the inner thigh were separated, allowing us to find the sciatic nerve and acquainted blood vessels. From there, we separated the sciatic nerve from its connective tissues using a dissecting needle. The leg was then connected to a force transducer with the sciatic nerve placed over the electrical probes. Starting with a pulse amplitude of 0.4V, and then decreasing by 0.1V for each subsequent shock, each of the three Rana pipiens legs were shocked in order to determine the control threshold value. After the control threshold value was found for each leg, we injected the first leg with 0.1mL of tetraethylammonium chloride. Five minutes after  injection, the leg was reconnected to the force transducer and shocked at the control threshold pulse amplitude. From there, the pulse amplitude was decreased by 0.1V in order to determine the experimental threshold value. This process was then repeated for the other two legs, and data was recorded. When comparing the control and experimental threshold values for each of the three legs, we found the degrees of freedom, t-value, and one tailed p-value to determine if our results were significant or not. 
+
+
+Results:
+Observations: 
+	Through the conduction of our experiment, we were able to conclude that on average, the control threshold pulse amplitude was higher than the experimental threshold pulse amplitude for each Rana pipiens leg, as seen in the figure below.  For results of our statistical test, there were 2 degrees of freedom, the t-value was 2.5, and the one-tailed p-value was 0.13, or greater than .01.
+Also, the average data point for the control threshold was 0.23 +/- 0.32 V and 0.21 +/- 0.31 V for the experimental threshold values. 
+
+
+Discussion:
+Since the one tailed p-value calculated was greater .01, we failed to reject the null hypothesis and state that our results were not significant. This somewhat represents our data accurately, as there was a very small difference between average control threshold value and the experimental threshold value. However, this was not what we hypothesised, as we expected threshold values to increase after the injection of tetraethylammonium chloride. The chemical should have blocked the entry of potassium into the axon of the motor neuron, inhibiting a proper action potential to be carried down the axon and into the myofibers of the cell. This in turn should have increased the threshold of the Rana pipiens muscles, as a higher electrical impulse should have been required to actually stimulate a contraction in the muscle. These results can most likely be biologically attributed to sodium ions taking the place of potassium once the potassium was blocked. Sodium essentially went into overdrive to account for the missing potassium which allowed the muscle to still depolarize, and twitch using less voltage. Also, there were several issues with the Rana pipiens muscles themselves. Two of three of our muscles were inexplicably twitching even when no electrical shock had been administered. They essentially decided to contract on their own, which altered the actual value of our thresholds. These random twitches made it so that the difference in threshold values from the control group to the experimental were very small, and caused a numerical decrease, instead of an increase, as we had anticipated. 
+Our results were still bizarre even when compared to outside sources and previously conducted experiments. As found by Imaizumi and Watanabe in their 1981 experiment, muscles manipulated by tetraethylammonium chloride experienced an increase in the overall threshold value that resulted in contraction. They stated the increase was largely due to the occurrence of spike potentials or higher electrical values. [Imaizumi: 1981]. Due to these findings, we should have seen an overall increase on threshold values. However, we believe that sodium accounted for the missing potassium and made the muscle twitch even when a smaller electrical impulse had been administered. 
+
+
+Literature Cited:
+1.Imaizumi, Y and M Watanabe. “The effect of tetraethylammonium chloride on potassium permeability in the smooth muscle cell membrane of canine trachea” Journal of physiology vol. 316 (1981): 33-46.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-20+at+3.13.20+PM.png&Size=48283&Type=image%2Fpng&F=F_2ZIcMXVvNFGTzUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+*Figure 1. Effects of tetraethylammonium chloride on average threshold value of each of the three Rana pipiens legs investigated. The control threshold values were averaged together to create one bar, and the experimental thresholds were averaged to create the other. The error bars represent the standard deviation for the control and experimental groups and are +/- 0.32 V and +/- 0.31 V respectively.  
+*************************************************************************
+
+
+

@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-04-10 18:24:27
+Author of this lab report is: Std_G4sgJbcQ
+ID: R_2YPsfgRqw5QfWw4
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Temperature Dependence of Photosynthesis in Spinacia oleracea
+
+Abstract:
+Using Spinacia oleracea, commonly known as spinach, we tested the effects of varying temperatures on the activity of Photosystem II in chloroplasts. Specifically, we intended to determine the extend to which DCIP was reduced in the Hill Reaction, which turns it from blue to colorless. We hypothesized that out of three temperature conditions (1.5°C, 23°C, and 35.1°C), the chloroplasts treated in 35.1°C would have the highest activity of photosynthesis. This is because for most plant species, photosynthetic activity increases as temperature increases. We enriched our grounded spinach chloroplasts by spinning in a centrifuge at 200 times the force of gravity, or 1200 rpm in our RT-7 centrifuge. Then, we prepared 30 test tubes with water, 130 mM DCIP, and our reaction buffer of 100 mM phosphate. Our last step was a time trial, as we added the enriched chloroplasts to the tubes and monitored their absorbance at 600nm every 10 minutes, up to 30 minutes. Our hypothesis was proven correct, as the average percent change in absorbance of the warm water chloroplasts was greatest among the temperature conditions. Our p-value for the significance of the difference in average percent change in absorbance for the warm water versus the ice bath was 0.00015555, which passes the significance thres
+
+Introduction:
+In this lab, we will extract and enrich chloroplasts from Spinacia oleracea and then use them in a DCIP decolorization assay, which will be our model for redox reactions in Photosystem II. We will then measure the impact that temperatures of high and low extremes have on DCIP reduction. Photosynthesis consists of three processes that work harmoniously to provide energy to the plant. The two light-dependent reactions take place in PSII and PSI, using excited electrons from light to generate NADPH, and by producing a proton gradient, drive ATP synthesis [Shevela:2012]. The light-independent reactions, or Calvin Cycle, use the enzyme Rubisco and ATP and NADPH to combine CO2 with ribulose phosphate to create glucose [Johnson:2016]. We can measure chloroplast activity by measuring the uptake of CO2 and production of oxygen and glucose. However, we prefer to measure the activity of PSII by following the Hill reaction: 2H2O +2A —light—&gt; 2AH2 + O2, where A is an electron acceptor [Shevela:2011]. We will use DCIP to measure its reduction, as it turns colorless when reduced to DCIPH2 [Metacyc]. Specifically, the activity of the chloroplasts in Photosystem II will be observed by measuring the absorbance of our samples at 600nm, which is the wavelength at which DCIP best absorbs light when it has not been reduced [ScienceDirect].
+
+Chloroplast levels, as well as photosynthetic activity levels, have been shown to increase at or slightly above 20°C [Downton:1972]. This has been observed to occur at the plant’s desired growth (or optimum) temperature [Downton:1972]. This optimum growth temperature seems to be approximately 25°C [Downton:1972]. Additionally, the efficacy of photosynthesis is concave down, with a steep slope after the optimum temperature was reached [rsc.org]. Our lab’s goal is to determine the most optimal temperature (of room temperature, 1.5°C, and 35.1°C), for photosynthesis as determined by chloroplast activity. We will also have control groups of the same temperature treatments​ but in dark conditions. I hypothesize that the chloroplasts in the warm water bath of 35.1°C will nurture the highest increase in chloroplast activity, as it is around the preferred growth temperature
+
+
+Materials and Methods:
+We had 6 test groups: chloroplasts in an ice bucket, room temperature, and warm water bath, and then those three in the dark. We obtained 4 medium-sized spinach leaves, and removed the central vein, then crushed them with a mortar and pestle and pH 8 grinding buffer. After straining the mixture, we spun it at 200 times the force of gravity for 5 minutes at 4oC. We then prepared 31 test tubes with 5 replicates of the reaction mixes. For the blank, we added 8 mL water and 2mL of our reaction buffer (100 mM phosphate, pH 6.5). For all of the 30 treatment test tubes, we added 6mL water, 2mL 130 mM DCIP, and 2 mL reaction buffer.
+We then added 100 micrometers of the enriched chloroplasts to all of the tubes, and then measured the absorbance of all the tubes at 600nm, using tube 1 as a blank. This was Time Zero. We then placed the tubes in their appropriate light and temperature conditions. After 10 minutes, we blanked the spectrophotometer with tube 1 and measured absorbance of all the tubes. We repeated this until the tubes had been in the environment for 30 minutes. Our statistical test was a two-tailed t-test to compare photosynthetic activity, as indicated by absorbance, for each test tube and​ temperature environment in our experiment. 
+
+
+Results:
+T-tests showed that there was significance that the ice bucket (1.5°C) caused a disparity of photosynthetic activity from room temperature (p-value 0.016899533).     T-tests also showed significance in the disparity between the warm water bath (35.1°C) and the ice bucket (p-value 0.00015555) However, T-tests did not indicate significance in the disparity between the average percent change in absorbance of the warm water bath and room temperature (p-value 0.11603007). Our significance threshold was a p-value of less than 0.05. 
+
+
+Discussion:
+I believe my hypothesis was proven correct. I hypothesized that by introducing the enriched chloroplasts of Spinacia oleracea to an environment of warm water at 35.1°C, the photosynthetic activity would show the highest increase among the other temperature treatments. The statistical tests prove this, as the p-value for the effect of warm water versus cold water on the average percent change in absorbance of our chloroplasts was 0.00015555, which is well below the statistical significance threshold of 0.05. On another note, the effect of warm water versus room temperature (23°C) had a p-value of 0.11603007, which is not significant. As demonstrated by the article by RSC, once the optimal temperature has been reached- which we may have been reaching- the rate of photosynthetic activity begins to drop off rapidly [Rate of photosynthesis]. As Graph 1 displays, the chloroplasts treated with the warm water bath had by far the greatest average percent change in absorbance: 3225.694%, compared that of the room temperature chloroplasts (1786.038%), and of the ice bucket chloroplasts (380.841%). Clearly, it can be inferred that the ice bucket (1.5 °C) was least beneficial for photosynthesis, as 1.5 °C is much lower than the assumed optimal temperature of 25 °C. A study that best supports my hypothesis, as well as the outcome of this experiment is by KOUKI HIKOSAKA, KAZUMASA ISHIKAWA, ALMAZ BORJIGIDAI, ONNO MULLER AND YUSUKE ONODA, entitled TEMPERATURE ACCLIMATION OF PHOTOSYNTHESIS: MECHANISMS INVOLVED IN THE CHANGES IN TEMPERATURE DEPENDENCE OF PHOTOSYNTHETIC RATE. In this study, the authors dictated that light-dependent activity of photosynthesis was lower on the high and low ends of their functional temperature, yet was highest at an intermediate temperature [Hikosaka:2006]. The major finding in their study was that the main mechanism that plays a major role in this characteristic of photosynthesis is the activation energy of the maximum rate of RuBP carboxylation (Vmax) which is a key step in the Calvin Cycle [Hikosaka:2006]. To take our experiment to the next step, I would extend the experiment from a 30-minute study to a study taking over a few days, as I would like to see if the chloroplasts, especially in the ice bath, would die over time and eventually cause the plant to die. I think this is relevant, because if the chloroplasts do in fact die, then one could look into methods to prevent such a thing from happening in farming areas in colder or hotter climates. Another way to advance this experiment to see if temperature affects Photosystem I. Instead of using DCIP to measure the ​change in photosynthetic activity, we would have to measure the rate of reduction of NADP+ to NADPH2, as that is the mechanism involved in PSI. 
+
+
+Literature Cited:
+1. Downton J, Slatyer RO. 1972. Temperature dependence of photosynthesis in cotton. Plant Physiology, 50: 518–522.
+
+2. Hikosaka K, et al. 2005. Temperature acclimation of photosynthesis: mechanisms involved in the changes in temperature dependence of photosynthetic rate.” Journal of Experimental Botany. 57: 291–302.
+
+3. MetaCyc Reduced DCPIP. Accessed April 3, 2019. &lt;MetaCyc Reduced DCPIP, biocyc.org/compound?orgid=META&id=CPD-13079.&gt;
+
+4. Rate of photosynthesis: limiting factors. Accessed April 2, 2019. &lt;http://www.rsc.org/learn-chemistry/content/filerepository/cmp/00/001/068/rate%20of%20photosynthesis%20limiting%20factors.pdf &gt;
+
+5. 2,6 Dichlorophenolindophenol. Accessed April 3, 2019. &lt;https://www.sciencedirect.com/topics/medicine-and-dentistry/2-6-dichlorophenolindophenol&gt;
+
+6. Shevela D, Eaton-Rye J, Shen J. 2012. Photosystem II and the unique role of bicarbonate: A historical perspective. Biochimica et Biophysica Acta, 1134-1151.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-07+at+6.16.06+PM.png&Size=286589&Type=image%2Fpng&F=F_3L8cp1B6m35jN5e
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-08+at+12.27.36+AM.png&Size=96749&Type=image%2Fpng&F=F_1mQ5BRizMVLm4lH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average percent change in absorbance from time 0 to time 30.
+Graph 1: Mean percent change in absorbance of Spinacia oleracea in various light and temperature conditions. 
+*************************************************************************
+
+
+

@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-20 14:13:39
+Author of this lab report is: Std_yjw3ut1b
+Course number: BIO103L
+TA: TA_bc8EVX09
+*************************************************************************
+Title: Environmental Temperature and its Effect on the Root-to-Shoot Ratio of Growth in the Oilseed Radish
+
+Abstract:
+We sought to understand the effects on root-shoot ratio exhibited in oilseed radishes (Raphanus raphanistrum subsp. sativus) resulting from a high temperature treatment. In order to test the effects, we treated radishes to both a 27°C room temperature control and a 30°C treatment for two weeks while holding all other variables constant. We proposed that the radishes in the 30°C treatment would exhibit a higher toot-shoot ratio than those in the control. However, our hypothesis was not supported by our data, which showed no correlation between temperature and root-shoot ratio. However, weaknesses in the data render it inconclusive; only two replicates were made for each condition, weakening the data. Furthermore, a high p-value keeps the data from admissibility. A repeat of the same experiment with a greater number of replicates would strengthen the data, but may lead to no breakthroughs. Moving forward, experiments with treatments of higher and lower temperatures than those available to us should be designed.
+
+Introduction:
+When a plant grows, it must allocate its resources between the growth of roots and the growth of shoots. Because the resources of a plant are limited, this represents an essential tradeoff between the benefits of shoots and the benefits of roots. Many factors have been demonstrated to affect this resource allocation, including plant species, biome, soil type, level of light, and availability of water [Mokany: 2005]. Availability of water has been show to particularly influence the allocation of resources. Plants in areas of greater water availability allocate more resources to stem growth than root growth, as they do not need to grow branching roots to seek out water; plants in areas of lesser water availability will dedicate more resources to root growth, as they will need to touch more ground in order to obtain the appropriate amount of water [Barton: 2006]. The root-to-shoot ratio is a way to quantify resource allocation, comparing the biomasses of the grown roots and the grown shoots. Root-shoot ratios vary greatly, from as low as .1 observed in some forest types to as high as 26 in some cool temperate grasslands [Mokany: 2005].  
+	We sought to observe the impact of temperature specifically on the allocation between root and shoot growth. In order to test this, we set other environmental variables equal for all of our test subjects: plant species, soil quantity and quality, use of fertilizer, amount watered, availability and type of light, and space to grow. The only difference between the growth environments was therefore the temperature treatment. We wished to have a room-temperature control, a low-temperature treatment, and a high-temperature treatment. We hypothesized that if the plants were grown in temperatures further from the room-temperature control, they would exhibit higher root-shoot ratios. 
+For our test subject we chose the oilseed radish (Raphanus raphanistrum subsp. sativus). The oilseed radish was an ideal test subject because of its short germination period, rapid growth, and low space requirement [Jacobs: 2012]. The radish is also sensitive to the temperature of its growth environment, dying or sustaining damage if the temperature falls below 20°C and growing best in cool, moist soil [Jacobs: 2012]. The fast growth and temperature sensitivity of the oilseed radish thus made it a good candidate for our test of temperature’s effect on resource allocation.
+
+
+Materials and Methods:
+Oilseed radishes (Raphanus raphanistrum subsp. sativus) were selected as the test species. They were grown in plastic trays filled nearly to the lip with a base of soaked vermiculite and an upper layer of dry vermiculite. In the trays the radishes were planted five seeds to a hole in a 4x3 grid. Two replicates were planted for each growing condition, yielding four trays in all. Before being incubated, the seeds were treated with 50 milliliters of MiracleGro at 1x concentration per tray. Two trays went into an incubator set to 30°C and the two others went into an incubator set to 27°C. Due to equipment constraints, we did not have a “low-temperature” treatment.
+The radishes were incubated for two full weeks at their respective temperatures. They were watered everyday with 75 milliliters of tap water in each tray. Constant light was provided by the grow lights in the incubators. 
+After two weeks, the trays were removed from the incubators. The whole plants were removed from the trays with the vermiculite, and the vermiculite thoroughly rinsed off; great care was taken to keep any of the roots from being lost or ripped from any of the plants. Two bunches of five plants were selected from each tray. They were first weighed with the plants intact, and then the roots were separated from the shoots at the point of color change. Each bunch’s five shoots and roots were then weighed in order to find the root-to-shoot ratio. We ran two one-tailed t-tests and p-tests and found the mean ratios with standard deviation.
+
+
+
+Results:
+Table 1 shows the mean root-to-shoot ratios and their standard deviation with all of our values included. This information set included a very significant outlier, with a value of 1.04, compared to a mean, with that outlier excluded, of .14. Including this outlier leads to a mean ratio for the 30°C condition of .36, 250% of the mean with the outlier excluded. Furthermore, the standard deviation for this data set is .45, which is higher than the mean ratio itself. This led to the creation of Table 2, which displays the mean root-to-shoot ratios and standard deviation for both treatment datasets with the most outlying value removed. However, the outlier in the 27°C dataset was considerably closer to the mean than for the 30°C dataset, so its recalculated mean and standard deviation changed much less dramatically than for the 30°C dataset.
+	Table 3 shows the results of p-tests and t-tests performed on the datasets, both with outliers included and excluded. The p-value for the dataset with outliers included was .41, meaning that the results had a 41% probability of having occurred completely by chance. The t-value for the same dataset was .95, showing that the groups were very similar. The p-value for the dataset with outliers excluded was .35, indicating a lower probability of 35% that the results were due completely to chance. The t-value for the same dataset was 1.2, showing less similarity between the 30°C and 27°C treatments than with the outliers included. Regardless of whether outliers were included or excluded, the p-value was much greater than the accepted p-values of 5% or less.
+	Figures 1 and 2 are visual representations of the mean root-shoot ratios, with outliers included and outliers excluded, respectively. The blue bars represent the ratios and the error bars represent standard deviation.
+
+
+Discussion:
+Our hypothesis was not supported by our data. We predicted that the radishes growing in the 30°C treatment would exhibit a higher root-shoot ratio than the radishes growing in the 27°C treatment, but the processed data showed otherwise. When the outliers were excluded, the plants in the 30°C treatment actually showed a slightly lower root-shoot ratio than the 27°C treatment, .14 ± .026 versus .15 ± .016, respectively. Likewise, the p-value for that dataset was .35, much higher than the commonly accepted value of .05 or less. The t-value of 1.2 also showed great similarity between the two datasets. 
+When outliers are included in the datasets, the means are considerably more different, but still deeply flawed when attempting to prove the hypothesis. The standard deviation is itself higher than the mean for that dataset. The p-value of .41 is also much higher than the accepted value, showing a 41% chance that the results were due to chance. Furthermore, the outlier for the 30°C treatment is so far different from the other values of the set that it would be inappropriate to include it within our dataset.
+Another weakness in the data stems from the fact that we only had two replicates for each heat treatment. There was an early misunderstanding that led to us preparing only two replicate trays for each heat treatment, leaving our results highly susceptible to chance. Ideally we would have had at least three trays for both heat treatments, to have a larger pool of data from which to draw and ensure that our results were less likely due to chance.
+Because of the weakness of the data, it would be inappropriate to claim the inverse of our hypothesis, that the 27°C room temperature treatment leads to higher root-shoot ratio. Because the datasets are so similar with a t-value of 1.2 with outliers excluded (Table 3), and because the p-value is a high .35, our results would be inconclusive for proving that statement. It is very possible that temperature may not affect the root-shoot ratio at all.
+This seeming indifference on the part of the radish to the higher temperature treatment may be from a lack of heat-sensing organs due to the fact that heat is not as inextricably linked to plant growth as are light and water. Since the plant does not seek heat through either its roots or its shoots, it makes sense that a 30°C heat treatment would not affect the radish’s resource allocation. Because the desired environmental resources of water and light were essentially unchanged by the additional heat versus the room temperature control, the plant did not need to allocate more resources to the roots or the shoots in order to obtain its desired amounts of water and light. Another potential source of the similarity was the slight difference between the control temperature of 27°C and the high temperature of 30°C. It is possible that the difference between the two temperatures was simply not high enough to produce an appreciable difference in the root-shoot ratios. 
+Our experiment is one of a number of experiments that have examined the root-shoot ratios of plants in various growing conditions, with different factors scrutinized. In the introduction, I referenced the findings of other experiments that have observed various effects on root-shoot ratio. Our experiment studied the relationship of temperature to root-shoot ratio, and found no correlation.
+Future experiments could focus on addressing some of the weaknesses in our data. An experiment with the same heat treatments but with three or more replicates per treatment would strengthen our data, even if the conclusions from the data were unchanged. Other experiments would also be valuable to fulfill our original test design. Due to an equipment constraint, we were not able to treat subjects to a heat treatment below our room temperature control. In future experiments we would like to test radishes in a cold treatment to see if that would affect the root-shoot ratio. A future experiment could also treat radishes to a temperature further above our control. Our “high temperature” treatment of 30°C was only 3°C higher than our control, so more examination into the effects of higher temperatures than that would be appropriate.
+
+
+Literature Cited:
+1. Barton CVM, Montagu KD. 2006. Effect of spacing and water availability on root:shoot ratio in Eucalyptus camaldulensis. Forest Ecology and Management. 221: 52-62.
+
+2.  Jacobs A. Oilseed Radish Plant Fact Sheet. Accessed October 20, 2017. <https://plants.usda.gov/factsheet/pdf/fs_rasa2.pdf>
+
+3. Mokany K, Raison RJ, Prokushkin AS. 2005. Critical analysis of root : shoot ratios in terrestrial biomes. Global Change Biology. 12: 84-96.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1+Lab+report.png&Size=17968&Type=image%2Fpng&F=F_0OgRlU9rrERosXb
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+2+Lab+report.png&Size=18053&Type=image%2Fpng&F=F_8c8keeM6FYheP9X
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+3+Lab+report.png&Size=22606&Type=image%2Fpng&F=F_bHp3lApaBnZNsah
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+lab+report.png&Size=51797&Type=image%2Fpng&F=F_bBZdLDYaLk08GEZ
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2+Lab+report.png&Size=46767&Type=image%2Fpng&F=F_1Odtk5Lf7Y1lV2d
+
+
+
+
+Figure Legends: 
+Tables 1-2- mean root-shoot ratios (with and without outliers)
+Table 3- statistical analyses
+Figure 1 and 2- visual representation of data
+
+*************************************************************************

@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-02-28 22:10:29
+Author of this lab report is: Std_5DAkfD8y
+ID: R_2gDXwFiTU3G9yrr
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Ecdysone Blocker Azagurd Shows Little Influence on Manduca sexta Development
+
+Abstract:
+The Manduca sexta caterpillar is the ideal specimen to study hormonal influence on development. The Manduca sexta has a 5-instar development system and the developmental stages are directly related to hormones such as Ecdysone. We test here the idea that using the chemical Azaguard to block the production of Ecdysone will inhibit the development of the caterpillar, we will observe this by tracking trends in mass for our specimen. We do this by mixing the chemical into the caterpillar’s food for the treatment group while only giving the control group water mixed in with food. We see that when doing this, the mass of all specimen showed a general, downward trend. This trend is observed regardless of food and liquid they have been fed. This overall common trend leads us to believe that Azaguard did not inhibit development and thus had no effect on our caterpillars.
+
+Introduction:
+The Manduca sexta caterpillar is the ideal specimen to study hormonal influence on development. The Manduca sexta has a 5-instar development system and the developmental stages are directly related to hormones such as Ecdysone. We test here the idea that using the chemical Azaguard to block the production of Ecdysone will inhibit the development of the caterpillar, we will observe this by tracking trends in mass for our specimen. We do this by mixing the chemical into the caterpillar’s food for the treatment group while only giving the control group water mixed in with food. We see that when doing this, the mass of all specimen showed a general, downward trend. This trend is observed regardless of food and liquid they have been fed. This overall common trend leads us to believe that Azaguard did not inhibit development and thus had no effect on our caterpillars.
+
+Materials and Methods:
+For this lab we will be using 8 caterpillars; 4 control and 4 treatment. We will isolate the caterpillars individually giving each half of a round plastic container, the container being split with an index card. The caterpillars were measured for mass(g), length(cm), color, and presence of pupation prior to being placed in their individual areas. The caterpillars were then fed 10g of food, mixed with 10mL of liquid. This feeding and measurement process will be done every day during the lab and focus will be placed on the mass as that will be our main statistical data. The liquid is the independent variable as for the control group we simply give 10 mL of DI water to 10g food. For the treatment group, we gave 10mL of 1:1250 Azagaurd Ecdysone blocker to 10g of food. To ensure all other factors are the same, the caterpillars will all be placed in the same incubator for keeping throughout the week. As well as all food will be taken from the same container and given in equal amounts. The only differences will be the liquid added in with the food for each group. We will use our gathered measurements on mass to then analyze how the mass has changed for each individual, as well as change in mass for each respective group. To check to see if our data is significant, we will perform a two sample t-test.
+
+Results:
+From this lab we could see a clear correlation that over time, the caterpillars appeared to lose mass. This is true for all specimens except specimen 8 which showed an initial increase before then decreasing (Figure 1). When further focusing this information in to look at both groups and their average mass on each day, we also see a downward trend in mass over time, the downward trend being sharper for the control group (Figure 2). To further analyze this decrease, we can look at the overall change in mass (ΔMass (g)) for each specimen, we see that all specimens but specimen 8 had a negative ΔMass value (Figure 1). We can use these values of ΔMass to then do a two-sample t-test to look at how mass has changed in both the control and the treatment groups. For this t-test we get a t-value of 1.061009, a p-value of 0.329516, and 6 degrees of freedom. 
+
+Discussion:
+Our experiment gives us some interesting data. Our hypothesis that the Azaguard will cause the treatment group to show a lower overall increase in mass is disproved by our data. Our two sample t-test gave us a t value of 1.061009, this number tells us that our data is not significant. Both the treatment and control groups showed a general downward trend in mass over time showing that the Azaguard had little or no affect. While the treatment group did show less decline, we can see that this is due to the outlier in specimen 8 which showed an initial increase in mass. This outlier is likely because at the experiment start, specimen 8 was at an earlier developmental stage than the other caterpillars, evident by his smaller initial mass and initial increase in mass to that of which the other caterpillars began (Figure 1).  This outlier’s initial increase is the cause for the treatment group’s overall trend to be shallower than that of the control group and likely has nothing to do with the Azaguard chemical we tested. In a study by Joel Kingsolver analyzing the mass of Manduca sexta in relation to its life cycle. Kingsolver does this for both lab raised and wild type caterpillars. From his data we can see a clear correlation that the caterpillars rise in mass for their first 3 instars, but once in their last 2 instars, the caterpillars begin to decrease in mass (Kingsolver 2007). This trend is identical with what we see for our caterpillars to be in their final 2 instars at the star of our lab, and this also supports the idea that the initially smaller specimen 8 increased in mass at first because it had not yet reached the later instars until partway through our experiment where it then showed a decline in mass, consistent with the normal growth curve of Manduca sexta. We can use this information to prove that specimen 8 is simply an outlier as its growth is slightly later than that of our other caterpillars. The seen downward trend, along with accounting for the clear outlier of specimen 8, we can see that in our caterpillars there is no observed impact that the Ecdysone blocker has on our caterpillars. Some possible errors that may have resulted in skewed data were that the index cards used to separate the caterpillars became saturated and formed holes, which could possibly have led to the caterpillars switching sides in their containers. This could have led to the initial specimen 1 being measured for data as specimen 2 as it may have switched sides in the container. Other errors are that we did not get data on our true day 6, so our data is simply shifted a day forward to account for this missing day. While graphs show data for 7 days our experiment truly lasted 8 days and is simply shifted, by ignoring this missing day of data, our numbers may be skewed by this shift. To conclude, this lab allowed us to test the impact of Azaguard on Manduca sexta development. We concluded that our hypothesize was not supported and that the Azaguard had no noticeable impact on the caterpillars development. 
+
+Literature Cited:
+Kingsolver JG. 2007. Variation in Growth and Instar Number in Field and Laboratory Manduca sexta. Proc. Biol. Sci. 274:977–981.
+
+Suzuki Y, Koyama T, Hiruma K, Riddiford LM, Truman JW. 2013. A molt timer is involved in the metamorphic molt in Manduca sexta larvae. Proc. Natl. Acad. Sci. U. S. A. 110:12518–12525.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Lab+1+graph.PNG&Size=104188&Type=image%2Fpng&F=F_cMZrAFAUCmV3SU5
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Lab+1+graph+2.PNG&Size=39604&Type=image%2Fpng&F=F_bfJ7b8WSr9fTWER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Graph of individual specimen mass by day over full length of experiment. Shows data only for individual caterpillars and not group data. Mass results show a general downward trend for all specimen, except specimen 8. Figure 2: Graph of the average specimen mass by group for each day. Line for average mass of both control group and experimental group. Shows an overall downward trend in mass for each group, the drop in mass being slightly sharper in control. 
+
+*************************************************************************

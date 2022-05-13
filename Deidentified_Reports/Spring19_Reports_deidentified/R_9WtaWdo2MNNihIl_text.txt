@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-02 17:06:44
+Author of this lab report is: Std_VUvj1pMN
+ID: R_9WtaWdo2MNNihIl
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Caffeine-Induced Tetany is Not More Intense Than Tetany Without Caffeine
+
+Abstract:
+As the process of how a neuronal signal acts at the neuromuscular junction and turns into movement is already well known, questions arise as to how adding other chemical substances to such a system would affect this activity. This experiment focuses on the effects of caffeine upon injection into the muscle of rana pipiens when the sciatic nerve is stimulated. It is known that caffeine acts as a neuronal stimulant, and therefore it was hypothesized that the addition of caffeine would induce a tetanic state, however this tetany would be no stronger than tetany without caffeine. To test this hypothesis, three frog legs were used first as their own control by having their sciatic nerve stimulated without caffeine and recording the response in voltage. Next each leg was injected with caffeine and went through the same process so that these results could be compared. This method produced results that showed an average difference of about 0.1 V between the control and caffeinated leg responses. In analyzing the results with statistical testing, it was found that the differences in voltage were not significantly different with a p-value of 0.574, and therefore we could accept the hypothesis that caffeine-induced tetany is not more intense that tetany without caffeine.
+
+Introduction:
+In the sense that it is widely known how neurons and the neuromuscular junction operate, the rana pipiens, or Northern Leopard Frog, can be considered a model organism in this experiment. The sciatic nerve of the rana pipiens provides a simple means of testing its neurological system and is thus ideal for this lab [Johnson: 2018]. In order for a neurological signal to translate into a muscular movement, a series of events at the neuromuscular junction must take place. In brief summary, acetylcholine must be released by the presynaptic cell and received by the motor unit, thus causing a cascade in which an action potential results in the release of calcium into the sarcoplasm, thus causing muscular contraction [Johnson: 2018]. In terms of muscular contraction, the term “tetany” describes the maximal amount of contraction that can occur for a specific muscle. This would mean that calcium would be in excess amounts in the sarcoplasm for a lengthened period of time. Because of this knowledge of the cellular aspects of muscle contraction, our group began to deliberate on outside substances that may affect how muscles can be inhibited or excited. Eventually, we decided that we would want to experiment with caffeine. Our research question was how would the addition of caffeine to the muscle of the frog leg affect the strength of a response when electrically stimulated compared to a control leg? In order to formulate a hypothesis, more information on the effects of caffeine at the neuronal level is needed. Once entered into system, caffeine acts as an adenosine antagonist on the cellular scale, which means that it would decrease the effects of adenosine [Ribeiro: 2010]. Adenosine is a substance that decreases neuron activity, and therefore by acting against it, caffeine is an indirect stimulant of neuronal activity [Ribeiro: 2010]. With this knowledge, we were able to hypothesize on what the addition of caffeine would do. We predict that if caffeine is injected into the muscle of the frog leg then immediate tetany will occur, however because tetany is the maximum level of contraction, the overall voltage responses between control and caffeinated leg tests will be no different.
+
+Materials and Methods:
+For this experiment our group was given three legs for experimentation, each to act as its own control. As in the previous week, in which we practiced using the equipment, the skin of the frog leg was pulled down to expose the muscle and nerves. Once this had been done, it was necessary to rinse the tissue with Ringer’s solution periodically to keep it optimal for testing. In order to get clear access to the sciatic nerve, we used a probe to separate the thigh muscles and leave the nerve exposed. In order to actually test for the responses, it was necessary to set up the software so that it would be delivering stimulation in the form of Hertz, and would be able to record responses in voltage. To begin our actual testing, the sciatic nerve of the leg was laid on the two prongs of the probe and then an electrical load was applied and thus responses could be recorded. This was done for each leg at 10, 25, and 50 Hz and responses were noted and written down. This was completed on all three legs before any caffeine was added, so that each leg could then act as its own control. We then added 1.0 mL of caffeine into each leg muscle before placing the sciatic nerve back onto the probe and repeating the tests at the same Hz values for each leg again. In order to determine the statistical significance of our results for the comparison of the control and caffeinated legs we used paired T-testing with an alpha value of 0.05. In summarizing our results, we created a figure to compare summarized data from each round of testing, control or caffeinated, on the legs.
+
+Results:
+In examining the data and results from our experimentation, we are able to discern a few different trends. At first glance, it is fairly obvious that for two of the legs, legs 1 and 3, the average responses for the control and caffeine tests were quite similar, with the caffeine group having slightly lower voltage responses (Fig. 1). On the other hand, in leg 2, it can be seen that that caffeine tests had an average voltage response over 0.4 V more than the control test responses (Fig. 1). Overall, the average response for all of the control legs was 1.020 V, whereas the average response for all caffeine-induced legs was 1.117 V. In employing our statistical testing, which required paired t-testing, we calculated a p-value of 0.574.
+
+Discussion:
+After analyzing the statistical test and resulting p-value, we are able to say that our experimentation did in fact support our hypothesis that caffeine-induced tetany would not give a stronger response in voltage than tetany for a control leg. In explaining in the form of a null and alternate hypothesis, the given p-value warrants that we would accept our null hypothesis that the voltage responses from each group would be no different. This can be generally supported by the fact that it is known that tetany is defined as the maximal level of contraction of a muscle. Therefore, if the control muscles were reaching tetany at the same level of hertz, as it seems they were (Fig. 1), then each group would be responding with the maximum voltage, and therefore would not have overall different results. These results and our observations throughout the study do still support the introductory information, as the results did prove that caffeine acted as a muscle stimulant, and therefore would induce tetany [Ribeiro: 2010]. In comparison to other studies, our results fall in line with the results and biological explanations of other studies. According to one experiment on the papillary muscles of ferrets, the rapid injection of caffeine into the muscles created a strong influx of calcium from the sarcoplasmic reticulum into the sarcoplasm, resulting in contraction [Smith: 1988]. The study also states that the strength of responses did weaken over time [Smith: 1988]. This would account for the small decrease from control to caffeinated responses in legs one and three (Fig. 1). There was little that we felt needed to be changed about the experiment, however we did see a noticeable difference in the voltages for leg two (Fig. 1). Although this was dispelled by statistical testing, having more legs to test may produce different results or help to at least aid in strengthening population size for statistical analysis. Overall, this experiment does relate to the overarching body of scientific knowledge, as it proves that the effects of caffeine on the cellular level are indeed to block adenosine and stimulate neurons [Ribeiro: 2010]. It also supports the preexisting knowledge that tetany is the maximal level of contraction, as our results showed no difference in voltage response as described above.
+
+Literature Cited:
+1. Johnson AD. Hormone Regulation. BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-19. 
+2. Ribeiro J, Sebastiao A. 2010. Caffeine and adenosine. Journal of Alzheimer’s Disease. 20: 3-15. 
+3. Smith G, Valdeolmillos M, Eisner D, Allen D. 1988. Effects of rapid application of caffeine on intracellular calcium concentration in ferret papillary muscles. Journal of General Physiology. 92: 351.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-02+at+4.56.54+PM.png&Size=41420&Type=image%2Fpng&F=F_sUo5wKYUJGwx65r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparison between control and test (caffeine added) legs using average responses in Volts at different Hertz levels with an overall average difference of less than 0.1 Volts between the testing types*************************************************************************
+
+
+

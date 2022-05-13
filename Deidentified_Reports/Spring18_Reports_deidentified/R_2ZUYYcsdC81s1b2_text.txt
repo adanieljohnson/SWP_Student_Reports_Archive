@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-11 14:56:03
+Author of this lab report is: Std_EJXwqTwu
+ID: R_2ZUYYcsdC81s1b2
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: IP3 pathway inhibition by Neomycin and Physarum polycephalum motility
+
+Abstract:
+       Physarum polycephalum plasmodium is a slime mold known to exhibit IP3 activity to facilitate movement. Previous experimentation on the organism has shown that inhibition of the pathway can decrease or even halt the organism’s movement. The objective of this experiment is to expose Physarum polycephalum plasmodium to the IP3 inhibitor Neomycin and observe any changes in its normal chemotaxis toward food oat flakes compared to that of an inhibitor-free control. Results are evaluated via differences in percentage change of surface area at the beginning and end of a twenty-four-hour incubation period between conditions. A statistically significant difference between the percentage change in surface area Physarum growth between conditions was observed. Thus, it is concluded that Neomycin is an effective inhibitor of IP3 pathway and appears to override Physarum normal chemotaxis towards food. An interesting, yet statistically insignificant trend in the data in the experimental condition from pre to post-incubation suggests that Neomycin could induce negative chemotaxis and cause the Physarum to actively move away from the inhibitor; however, further experimentation is necessary to test this hypothesis.
+
+Introduction:
+       The inositol-1-4-5-triphosphate (IP3)- mediated G-protein signaling pathway is common in many cell types including Physarum polycephalum [Johnson AD: 2018]. The organism of interest is a distant relative of the eukaryotic cells in animals. Physarum are known to exhibit complex patterns of signal transduction and can theoretically reason without the need of a nervous system. In the plasmodial phase, the organism is yellow and flat with a 30-centimeter diameter. It lives within damp decomposing debris and can crawl using actin microfilaments at its leading edge to engulf bacteria and other organic materials [Johnson AD: 2018].
+       The IP3 signaling pathway is integral to the movement of Physarum polycephalum plasmodium [Matveeva: 2010]. The IP3 pathway regulates the contraction of myosin within the actomyosin cytoskeleton through a host of second messengers and target activations. In the case of chemotaxis, once the receptor is activated and Phospholipase-C produces IP3, IP3 goes on to dock in its receptor on phosphoinositide-kinase class I (PI3K) which induces the phosphorylation of phosphatidylinositol-4-5-biphosphate (PIP2) to phosphatidylinositol-3-4-5-triphosphate (PIP3). PIP3 accumulates in the leading edge of the plasmodium during movement and regulates the activity of proteins inducing movement there. Normally, PIP3 activation is reversed by phosphatidylinositol-3-phosphatase (PTEN) [3]. With inhibition of the pathway, a study by Matveeva et al [2010] found that the rate of oscillations in the leading edge of the plasmodium dampened significantly, despite the presence of glucose which should have induced positive chemotaxis. This result suggests that inhibition of the IP3 pathway can override the chemical signals that induce chemotaxis, such as with the presence of food. Another experiment conducted by Matveeva et al [2012] confirmed this conclusion through specific inhibition of PI3K to exhibit the tight coupling of the phospholipase C and PI3K pathways. The inhibitor was mixed thoroughly into the agar plates prior to plasmodium introduction and, once again, inhibition of PI3K resulted in less movement despite glucose stimulus, just as inhibition of phospholipase C did. Reduced oscillation rate was also observed.
+      The goal of this experiment is to further explore the effects of IP3 inhibition via the inhibitor Neomycin. It is hypothesized that when IP3-inhibited, Physarum will exhibit slowed or perhaps complete lack of movement compared to the control even when food is present. To assess the results, the surface areas of the Physarum polycephalum in the control condition without inhibitor will be compared to that of the experimental condition with Neomycin in a concentration of 1X in the agar plate after a 24-hour period. 
+
+
+Materials and Methods:
+       Two types of water agar plates were prepared, one with the treatment neomycin and the other with no treatment. There were three replicate plates for either condition. Physarum culture samples were placed in one of the six water agar plates and allowed to incubate for twenty-four hours (Table 1). After the incubation period, the surface area data was collected via a program called ImageJ. The percent change in the surface areas for either condition was averaged and tested for significance by two sample t-test where significance was defined as a p-value of less than .05. The averages of the surface area prior to incubation and post-incubation within conditions were also compared to the same parameters. 
+
+Results:
+       The difference in average surface areas (cm2) of the pre-incubation and post-incubation Physarum control conditions was found to be statistically significant with an upward trend. This displays an increase in growth over time as expected (Figure 2). The average surface areas (cm2) of the pre-incubation and post-incubation Neomycin-treated Physarum conditions were not found to be statistically different from one another; this shows perhaps an insignificant decrease in growth of Physarum over time given the slight downward trend from pre-incubation surface area to post-incubation surface area averages (Figure 3). The difference in average percentage change in surface area between control and experimental Physarum conditions was found to be very significant. The upward trend from control to experimental condition Physarum percentage change shows the Physarum in the control condition displayed significantly more growth over time and at a higher rate than the Physarum exposed to Neomycin inhibitor in the experimental condition (Figure 4). 
+
+Discussion:
+       The results of the t-test to determine whether a significant difference exists between the control and treatment conditions revealed the difference was very significant (P= .0018, P &lt; .05). Thus, we reject the null hypothesis and conclude that Neomycin is an effective inhibitor and significantly decreased Physarum’s percent change in surface area, despite the presence of food, via inhibition of the IP3 pathway. The mechanism for this reduced movement could have been due to inhibition of the IP3 G-coupled receptor, thus stalling the entire process—this result coincides with the findings of previous experiments on Physarum IP3-pathway inhibition like those presented by Matveeva et al in 2010 and 2012 [2,3]. However, the insignificant reduction in surface area from the treated condition Physarum prior to post-incubation suggests that the Neomycin may not only have overridden the positive chemotaxis toward food, but may have even induced some negative chemotaxis in that the Physarum withdrew if only slightly from the treated water agar (Figure 3); further experimentation would be required to test this hypothesis given the results here are insignificant and a clear conclusion cannot be confidently drawn. A mechanism for this negative chemotaxis to an inhibitor would also have to be investigated given that IP3 is only known to initiate movement, and thus its inhibition stalls movement; the pathway isn’t known to alter Physarum movement direction, so another pathway altogether may be responsible for this response if regularly observed.
+       Given that IP3 is not isolated to Physarum polycephalum, a deep understanding of its mechanism and role in cell movement could prove useful in other fields. For example, an experiment conducted by Murthy KS et al [1993] investigated the inhibition of IP3 and IP3-dependent Ca2+ mobilization in isolated gastric muscle cells by the cyclic nucleotides cAMP and cGMP. The cyclic nucleotides were found to inhibit the IP3-dependent pathway that results in the Ca+2 release necessary for contraction. Such a result could have human implications in the production of new muscle relaxants or provide insight as to the contraction-related origins of constipation. An experiment by Seiler SM et al [1987] investigated the effects of various concentrations of local anesthetics on IP3-induced Ca+2 release from isolated platelet membrane vesicles. While not directly investigated, subsequent studies could reveal their impact on the reduction of pain with respect to the extent of IP3 inhibition.
+
+
+Literature Cited:
+1.	Johnson AD. Unit 3: Signaling. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 4, 2018).
+2.	Matveeva NB, Teplov VA, Beylina SI. 2010. Suppression of the autooscillatory contractile activity of Physarum polycephalum plasmodium by the inhibitor of the IP3-induced Ca+2 release, 2-aminoethoxydiphenyl borate. Supplement Series A: Membrane and Cell Biology. 4(1): pp 70-76.
+3.	Matveeva NB, Teplov VA, Beylina SI. 2012. Coupling of Phospholipase C and PI3K/PTEN signaling pathways in Physarum polycephalum: the action of U73122 on motile and autooscillatory activity of Plasmodium. Supplement Series A: Membrane and Cell Biology. 6(3): pp 255-264.
+4.	Murthy KS, Severi C, Grider JR, Makhlouf GM. 1993. Inhibition of IP3 and IP-3-dependent Ca2+ mobilization by cyclic nucleotides in isolated gastric muscle cells. The American Journal of Physiology: Gastrointestinal and Liver Physiology. 264(5): pp G967-G974.
+5.	Seiler SM, Arnold AJ, Stanton HC. 1987. Inhibitors of inositol triphosphate-induced Ca+2 released from isolated platelet membrane vesicles. Biochemical Pharmacology. 36(20): pp 3331-3337.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28200%29.png&Size=94707&Type=image%2Fpng&F=F_1ln3Vtax3BQ0RC0
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28195%29.png&Size=119697&Type=image%2Fpng&F=F_1OrBqSJVG29m7BK
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28196%29.png&Size=122553&Type=image%2Fpng&F=F_x9Ljtn5IxF35nVf
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28197%29.png&Size=121393&Type=image%2Fpng&F=F_tX65yLXRcZ8BqMx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Captions included with figures
+
+*************************************************************************

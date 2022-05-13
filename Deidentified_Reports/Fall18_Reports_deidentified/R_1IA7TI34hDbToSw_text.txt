@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-30 12:26:02
+Author of this lab report is: Std_dsge9Xsr
+ID: R_1IA7TI34hDbToSw
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Insignificant Effect of Calcium Ion Availability on Physarum polycephalum Growth
+
+Abstract:
+Physarum polycephalum is a useful organism in modeling cell function in experimentation due to its similarity to human cells in its signaling pathways. In this experiment, the calcium signaling pathway was studied, specifically the effect of the availability of calcium ions on the ability of the physarum to move toward food and subsequently grow over an incubation period. Due to calcium’s role in the movement of physarum, it is hypothesized that a PDA plate injected with supplemental calcium will result in more physarum movement toward food, and thus growth, than a PDA plate injected with water or EDTA, a calcium inhibitor, which would result in the lowest observed growth. After incubating the three PDA plate groups for 48 hours, the growth was measured using imageJ software to calculate the area the Physarum spread over. A one way anova test at an alpha level of .05 resulted in a p-value of .831, indicating there was no signifigant difference in the growth of the physarum between the calcium supplemented, calcium inhibited, and control groups, perhaps due to an overabundance of food or calcium’s direct effect on movement being an inhibitory regulator rather than activating, causing the physarum to not spread towards food and grow within the incubation period.
+
+Introduction:
+Physarum polycephalum is an unusual organism in that its multinucleate syncytium allows each plasmodium to act as a giant cell, a useful property in experimentation as it allows one to study cellular level processes on a large, easily observable scale. In addition, the movement and behavior of the Physarum, despite its lack of a nervous system, has been shown to have several important similarities to human cells especially in signaling pathways, and thus has proved doubly useful in research. [Johnson 2018]. 
+In this experiment, the effects of the calcium signaling pathway on potential physarum growth will be measured. By adding physarum to a PDA plate to ensure no lack of food and injecting plates with supplemental calcium ions, EDTA and strontium chloride (a calcium inhibitor), and simply distilled water, it may be possible to measure the effect of calcium ion availability on Physarum growth, because it is known that there is a need for at least low levels of calcium for cytoplasmic streaming to function properly [Nachmias 1980], as the calcium signaling pathway is integral in the movement of the physarum via actin-myosin-ATP interaction that regulates the cytoplasmic streaming responsible for the ability of the organism to move toward nearby food, which it will use to grow [Kohama 2013]. It is thus hypothesized that the petri dishes with extra calcium will grow the most as the additional calcium will allow extended movement of the cell through increased cytoplasmic streaming and thus enable the organism to migrate toward more food and grow over an incubation period, while the organism with the calcium inhibitor will grow the least due to the inability to grow outward toward the additional food.
+
+
+Materials and Methods:
+In order to conduct the experiment, 9 100nm PDA petri plates were obtained. A flat spatula was then sterilized in a solution of 95% ethanol and wiped clean with a kimwipe. A 1cmx1cm piece was cut out of the middle of each of the 9 plates, with sterilizations in between. Three of the plates were injected with 4mL of distilled water, three were injected with 4mL of a solution of 1mL strontium chloride, 1mL EDTA and 20mL distilled water, and three were injected with 4mL of a 1mL calcium and 20mL distilled water solution. Then, 10 minutes was allowed for the chemicals to absorb into the plate, and before continuing the excess liquid was poured off. Afterward, a physarum plate was obtained and 9 1cmx1cm pieces were cut from the plate and placed using the metal spatula into the 9 PDA plates. The plates were then taped shut, wrapped in aluminum foil and placed in a black, opaque Ziploc bag and sealed. The bag was then placed in an incubator for 48 hours to allow growth.
+The software ImageJ was utilized to calculated the area of growth in centimeters of each of the plates after 48 hours.
+A one-way anova test was used with an alpha level of .05 to determine any statistical difference between growth area of the control, EDTA, and high calcium groups, with the Tukey-Kramer test being used to determine statistical differences between individual groups. 
+
+
+Results:
+The data in figure 1 suggest that growth was relatively similar for each group, with the EDTA group having the highest average growth, followed by the control group and then the high calcium group. However, the standard error bars are overlapping or at least close, indicating that the data may not be significantly different.
+Based upon a one-way anova test using an alpha level of .05, the p-value of .831 indicates no signifigant differences between groups, with the Tukey-Kramer Test indicating no signifigant differences between the control, EDTA, and high calcium groups.
+
+
+Discussion:
+Based on the p-value of .831 calculated using the one-way anova test at an alpha level of .05 and the data presented in figure 1, calcium appears to have no statistically signifigant effect on the growth of physarum, thus rejecting the hypothesis set forth. It is worth noting however, that growth in general was sporadic and much lower than anticipated even for the untouched control group of petri plates. This could possibly be due to the use of the nutrient infused PDA plates. It has been shown that a large availability of nutrients can limit the growth of Physarum as it will not migrate toward other food sources until the food around it has been fully depleted, though the exact reason for the lack of growth in this scenario is not completely understood [Carlile 1978]. Based on this, if food was present at locations some distance away from the physarum block rather than present throughout, the need to migrate would have been present and better allowed the growth under the different conditions to be observed. It is additionally possible, however, that the hypothesis was shown to be incorrect because calcium, while thought  to be important to the movement of the Physarum, has a limited role in increasing cytoplasmic streaming [Wohlfarth-Bottermann [1979], but rather regulates the cytoplasmic streaming by inhibiting the actin-myosin-ATP interaction that causes the physarum to move, especially at higher levels of calcium [Kohama 2013], which would account for the higher growth seen in the EDTA and strontium chloride plate and the lower growth observed in the calcium plate even though the difference was statistically insignificant. Further experimentation on this topic could include using a water agar plate with intentionally positioned food some distance away from the physarum block instead of the PDA plate as then the Physarum would have to move in order to continue to eat, which would better allow the effects of calcium on the movement and then growth of Physarum to be studied. Continuing to explore this topic would be useful, as it will allow further understanding of the calcium signaling pathway in Physarum, which is much like the pathway found in humans, and could provide useful insight and applications on the movement mechanisms of the human body while conducting studies on a much simpler organism. 
+
+Literature Cited:
+1.	Johnson AD. Signaling. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated Jan 1, 2018)
+2.	Kohama K, Shimmen T. 1985. Inhibitory ca2+-control of movement of beads coated withphysarum myosin along actin-cables inChara internodal cells. Protoplasma. 129: 88-91.
+3.	Nachmias VT, Meyers CH. 1980. Cytoplasmic droplets produced by the effect of adenine on Physarum plasmodia: Comparison with caffeine droplets and effect of calcium. Experimental Cell Research. 128: 121-126. 
+4.	Carlile MJ, Knowles DJC. 1978. Growth and Migration of Plasmodia of the Myxomycete Physarum polycephalum: the Effect of Carbohydrates, including Agar. Journal of General Microbiology. 108: 9-15.
+5.	 Wohlfarth-Botterman KE. 1979. Oscillatory contraction activity in Physarum. Journal of Experimental Biology. 81: 15-32.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Cellbiolabfinal.png&Size=10219&Type=image%2Fpng&F=F_2q2geL4vTjYM5h6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average Growth of Physarum area in centimeters for Control, EDTA (calcium inhibited) and High Ca (Calcium supplemented) PDA plates*************************************************************************
+
+
+

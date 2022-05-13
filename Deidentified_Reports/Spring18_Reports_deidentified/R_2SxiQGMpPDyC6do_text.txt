@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-21 17:43:07
+Author of this lab report is: Std_SEPCWI9K
+ID: R_2SxiQGMpPDyC6do
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Effects of Carbon Dioxide on Photosynthesis
+
+Abstract:
+Plants gain energy through the process of photosynthesis which primarily requires carbon dioxide, light, and water. This process is effected by many factors, including light intensity, temperature, and the concentration of gases present, specifically carbon dioxide. This experiment considers how increasing the concentration of carbon dioxide effects the photosynthetic activity in Brassica oleracea var. sabellica, or kale leaves. The leaves are ground into a solution and chloroplasts are isolated via a centrifuge. Several test-tube samples were created using DCPIP and a pH buffer, seltzer water, and the chloroplasts were added.  The absorbances of each sample was measured and a 2 sample t test was performed on these results. The statistic tests revealed a p value of p=0.002512. Increasing the concentration of carbon dioxide appeared to increase the rates of photosynthesis.
+
+Introduction:
+Plants perform cellular respiration through the process of photosynthesis. This process requires carbon dioxide, light, chlorophyll, and Manganese (II) ions (Mn2+) to convert carbon dioxide and water into glucose, water and oxygen [Johnson: 2017]. Plant photosynthesis is affected by many different factors including pathogens such as herbicides, temperature, light intensity, and carbon dioxide and other gases in the atmosphere. As carbon dioxide is converted into glucose energy and oxygen is released into the atmosphere according to equation 1. Previous studies have studied this phenomenon due to the growing levels of many atmospheric gases such as carbon dioxide. These studies have found that “higher concentrations of atmospheric carbon dioxide…boost crop yields by increasing the rates of photosynthesis, which spurs growth…” [Hille: 2016].
+	6CO2 + 6H2O  C6H12O6 + 6O2 + energy					(Eqn. 1)
+	The goal of this lab is to analyze how dissolved carbon dioxide gas effects the rates of photosynthesis in light reactions in Brassica oleracea var. sabellica leaves, commonly known as kale, over a period of time. Specifically, we studied how increasing concentrations of CO2 effects these rates in light reactions. The rates of photosynthetic activity were determined through examining the photosynthetic activity of the chloroplasts using spectrophotometry. Spectrophotometry is the process of using the amount of absorbance a solution to analyze its concentration. It uses light to probe molecules in a quantitative way to evaluate how they interact with light [Colyer: 2017]. Kale leaves are readily available and abundant in chloroplasts making it a useful reagent for to use for the experiment. Since carbon dioxide is a reactant in photosynthesis, we predicted that increasing the concentration of carbon dioxide will increase amount of photosynthetic activity in the chloroplast; therefore, increasing the increasing the rate of photosynthesis in the leaves. 
+
+
+Materials and Methods:
+To obtain a sample of chloroplasts the leaves from 1 bushel of Kale was ground to a slurry with a grinding buffer using a mortar and pestor. The sample was strained and spun in a centrifuge twice for about 15 minutes. After spinning, the supernatant was separated from the solid residue and placed in ice. (This supernatant contained enriched chloroplasts from the kale leaves). While cooling, two different concentrations, one high and low, of carbon dioxide solutions were created using Seltzer water.  For the higher concentration 20 mL of Seltzer water was combined with 20 mL of reaction buffer. The lower concentration was approximately half that of the first solution created and 10 mL of seltzer water was combined with 10 mL of water and 20 mL of reaction buffer. Once these dilutions were completed 9 solutions were prepared containing different quantities of 100 mM of 2,6-Dichlorophenolindophenol (DCPIP), water, reaction buffer and one of the CO2 dilutions. 100 µL of the enriched chloroplasts were added to each of the 9 solutions and a blank was made of water and the reaction buffer. These solutions were then mixed and transferred to cuvettes and an assay was ran on the solutions. Using the Genesys Spectronic 20, or Spec 20, the absorbances of each cuvette was read at a wavelength of 600 nm in 10-minute intervals. In between intervals the cuvettes were placed under a lamp to ensure that light sensitive photosynthetic reactions occurred. After completing the experiment a 2 sample t-test was used on the average percent change (over 30 min) in absorbance for the kale leaves without any CO2, our control factor, and the kale leaves in the high concentration of CO2. 
+
+
+Results:
+As shown in figure 1, the change in absorbance increase for all three parameters measured as you time increases. However, the change in absorbance also decreases as the concentration of CO2 increases. The data in the blue set for the control group was higher than the data of both the red and orange data set of the leaves placed in CO2 concentrations. Furthermore, the data in the orange set (for high concentration) was on average lower than the red data set (lower concentration). The average percent change in absorbance after 30 minutes for the control group, low concentration group, and high concentration group was 31.93%, 25.93%, and 15.91% respectively. The standard deviation for the control was 3.194 and the standard deviations for the low and high concentrations was 4.409 and 2.355 respectively. A two-sample t-test of this data revealed a t-value 7.034 with 4 degrees of freedom. This corresponded with a p value of p = 0.002152. 
+
+Discussion:
+This experiment revealed favorable results and it appeared that the change in absorbance decreased as the amount of carbon dioxide increased. Since the p-value (p = 0.002) obtained from our data was less than an alpha level of 0.05, our results was statistically significant, and we reject our null hypothesis. In addition, as photosynthetic activity increases the light should also increase, thus decreasing the amount of absorbance. Therefore, since the absorbance of the samples decreases as carbon dioxide increases, we can assume that the photosynthetic activity is increasing. These results are supported in other studies whose “data suggest that plants maintain a high photosynthetic capacity as the atmospheric CO2 level continues to rise” [Arp: 1991]. A more recent study also showed that the results were mixed and depends on species identity and the availability of other factors influencing the ecosystems [Newark: 2004]. While our results were statistically significant there are other factors that could there was some variation in our data and the standard deviations was different between each group. This error could have resulted from atmospheric CO2 levels in the air or the overhead fluorescent lights. The factors could have interacted with our sample and contributed to the decreasing change in absorbance in our data.
+
+Literature Cited:
+Arp, W. J. (1991). Effects of source‐sink relations on photosynthetic acclimation to elevated CO2. Plant, Cell & Environment, 14(8), 869–875. https://doi.org/10.1111/j.1365-3040.1991.tb01450.x
+Hille, K. (2016, May 3). Rising Carbon Dioxide Levels Will Help and Hurt Crops [Text]. Retrieved March 21, 2018, from http://www.nasa.gov/feature/goddard/2016/nasa-study-rising-carbon-dioxide-levels-will-help-and-hurt-crops
+Johnson A.D. (2018). 214.2: Photosynthesis. Cell Biology Lab Manual. Dept. of Biology Wake         Forest University, Winston-Salem, NC.
+Nowak, R. S., Ellsworth, D. S., & Smith, S. D. (2004). Functional responses of plants to elevated atmospheric CO2– do photosynthetic and productivity data from FACE experiments support early predictions? New Phytologist, 162(2), 253–280. https://doi.org/10.1111/j.1469-8137.2004.01033.x
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+kale.PNG&Size=42895&Type=image%2Fpng&F=F_3e81g6hhxk1hXRZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Plot of the Photosynthetic Activity of Brassica Oleracea over the span of 30 min for the control, low concentration of CO2, and high concentration of CO2. Plot shows the Change in Absorbance at 600 nm as a function of time in minutes. 
+
+*************************************************************************

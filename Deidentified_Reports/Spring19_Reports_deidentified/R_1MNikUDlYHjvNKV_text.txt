@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-03-06 18:41:03
+Author of this lab report is: Std_5DAkfD8y
+ID: R_1MNikUDlYHjvNKV
+Course number: BIO103L
+TA: TA_bc8EVX09
+*************************************************************************
+Title: Red light forces Secale cereale to allocate more resources to shoots
+
+Abstract:
+Plants allocate resources to the areas which need them the most in order to take in an adequate amount of a given resource. Light is a resource of upmost importance for plants to obtain energy. Red light has a longer wavelength and emits less energy than other light colors, including white light which has many wavelengths. This led us to research how plants in red light allocated their resources to cope with the decrease in available energy and how similar plants would respond to varying light conditions available in the natural environment. We found that when placing Secale cereale under white light and under all red light that the plants under red light had a lower root:shoot ratio. This means that the plants allocated more resources to the shoots to aid in the capture of energy from the light source. This finding can allow us to look at how natural light sources in the environment will affect the growth pattern of Secale cereale. 
+
+Introduction:
+Plants require many resources to grow such as water and chemical resources. However, these resources are limited, and plants must be able to adapt to deficiencies in certain areas. This adaptation to cope with deficiencies is seen in how the plants allocate their resources for growth is known as phenotypic plasticity [Johnson:2016]. Light is a resource or interest as colors of light come in a various wavelengths, the highest is blue at 440-490nm and the lowest is red light at 620-780nm [Reusch:2013]. We can assume that white light is simply a mixture of all wavelengths. The equation E=h×c/λ tells us that energy and wavelength are directly proportional, so shorter wavelengths will produce less energy [Light:2016]. The specific light environment of where a plant grows may significantly affect the wavelength of light the plant receives, and thus how effective the plant can harness energy. One plant that is a great study subject for this is Secale cereale or rye is a perfect study species for our experiment because it grows rapidly and can live in many different soil types [Forage:2019]. We can use rye to tell us how easily plants can harness energy from white light sources as compared to a source of only red light. The ability of plants to harness light can be determined by looking at the root:shoot ratio of plants which tells us what part of the plant must receive the most resources to adequately obtain the energy and nutrients required for survival. We hypothesize that when placing plants under white light sources and red only light sources, that plants in the red light will have a lower root:shoot ratio as they will allocate more resources to the shoots.
+
+Materials and Methods:
+For this experiment we filled 6 pots with vermiculite soil and then created 12 small indentions in each pot. We then planted about 4 Secale cereale or rye seeds in each hole. We then covered the holes with more vermiculite. Because vermiculite has no nutrients it served as a control for nutrient levels in each pot. As an additional control each pot received 50 mL of Miracle Gro solution prior to planting. Once the seeds were planted we then placed 3 pots in a box with a light source that emitted white light and 3 pots in a box with a light source that emitted only red light. All 6 pots were watered daily with enough water to adequately soak the vermiculite of each pot. After 2 weeks the pots were removed and then samples were taken from each pot. Each replicate consisted of 3 plants and one replicate was taken from each pot, resulting in 3 replicates of red light and 3 replicates of white light plants. Then plants were then weighed using a balance. Then each plant was cut just above the seed at the root:shoot junction. Then the shoots of the plants were weighed along with the roots being weighed. These values were then used to calculated the root:shoot weight ratio. The plant shoots and roots were then measured to find the longest shoot as well as the longest root from each sample. These values were then used to calculate root:shoot length ratio. We then used the calculated values to run a two sample, two tailed t-test to compare the values between red and white light for both length and weight root:shoot ratios. 
+
+Results:
+We found that plants grown in red light had a root:shoot weight ratio of 0.630934226 ± 0.069061196 and a root:shoot length ratio of 0.284720558± 0.022055982. We found that plants grown in white light had a root:shoot weight ratio of 0.771751752± 0.098230066 and a root:shoot length ratio of 0.374005305± 0.035364169.  The t-tests comparing the length root:shoot ratios showed a statistically significant p-value of 0.010323. For weight root:shoot ratios had an insignificant p-value of 0.056029. 
+
+Discussion:
+The results of our experiment supported our hypothesis that plants grown in red light would have lower root:shoot ratios. The significant p-value for length root:shoot ratio tells us that the root:shoot ratio for red light is significantly less than the root:shoot ratio than white light. The insignificant p-value for weight root:shoot ratio tells us that the ratio for red light is not significantly less than the ratio for white light. However, from the context of our length ratios and the general trend shown by our weight ratios, we can assume that with more trials the weight ratios will become significant. We can assume that this difference of root:shoot ratios occurred because the plants in red light were working to maximize their energy uptake from photosynthesis by changing their phenotype to allocate more resources to the shoots which perform photosynthesis. Other plants also exhibit similar responses to various light colors, including Polgonum persicaria which displayed increased plasticity to light harvesting areas for green shade areas as compared to areas with normal shade [Griffith:2005].While our data did reflect the trends, we expected there is still potential for human error and the small sample size to inhibit our results, but with more trials it is likely these issues will work themselves out. To further this research, we should conduct more trials to give our data more validity. We could use this research to apply to a broader scale and analyze how plants grow in various light conditions around the world and then analyze which environment would provide the most suitable conditions for the desired growth pattern of Secale cereale. 
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 18-20
+2. Reusch W. UV-Visual Spectroscopy. February 20, 2019. &lt;https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/uv-vis/spectrum.htm&gt;
+3. Forage Identification: Rye. March 6, 2019. http://www.uwyo.edu/plantsciences/uwplant /forages/small-grains/rye.html
+4. Light. February 20, 2019. &lt;https://astro.unl.edu/naap/hydrogen/light.html&gt;
+5. Griffith TM, Sultan SE. 2005. Shade Tolerance Plasticity in Response to Neutral vs Green Shade Cues in Polygonum Species of Contrasting Ecological Breadth. The New Phytologist. 166: 141-147
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=fig+1+report+1.PNG&Size=19874&Type=image%2Fpng&F=F_33ejgvTNThAt4ox
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=fig+2+report+1.PNG&Size=20456&Type=image%2Fpng&F=F_r3Bi2O8D3R0EhQB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Fig 1. Root:Shoot Weight Ratio. Shows values for root:shoot ratio using weight averages. (p=0.056029, t=2.031215, degrees of freedom=4). Shows insignificant difference. Error bars represent ±1 standard deviation. Fig 2. Root:Shoot Length Ratio. Shows values for root:shoot length ratio using averages of longest values of each replicate. (p=0.010323, t=3.710451, degrees of freedom=4). Shows significant difference. Error bars represent ±1 standard deviation.*************************************************************************
+
+
+

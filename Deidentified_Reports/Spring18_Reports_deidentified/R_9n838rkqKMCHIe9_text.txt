@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-03-13 17:55:13
+Author of this lab report is: Std_Mhwtxz57
+ID: R_9n838rkqKMCHIe9
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Analyzing the Effects of Excess Juvenile Hormone on Manduca Sexta Early Growth Stages
+
+Abstract:
+The Manduca sexta is a caterpillar species that relies on two hormones to promote growth and development during each of it's five instar-larvae stages. These two hormones are called juvenile hormone and ecdysteroids. The aim of this experiment was to determine if there was a dosage of the juvenile hormone that could be administered to the Manduca sexta that would, instead of promoting growth, actually stunt the growth of the caterpillar. a number of Manduca sexta caterpillars were selected for the experiment, half of which were fed a control diet of generic caterpillar food, and half of which were fed caterpillar food with a high dose of Precor, a juvenile hormone alternative. Each caterpillar was monitored for seven days and weighed daily. At the end of the seven days we compared the growth of the control group to the growth of the treatment group. We hypothesized that the dosage they received would be enough to stunt the growth of the caterpillars, or even prove to be fatal. However, a two-sample t-test showed that there was not statistical significance that showed the control group experiencing more growth than the treatment group, so our hypothesis was rejected. 
+
+Introduction:
+	The Manduca sexta caterpillar (also known as the "tobacco hornworm") is a caterpillar species indigenous to the North American continent. The life cycle of the Manduca Sexta is roughly 30 days, which makes them favorable for experimentation and observation (Grunert, Clarke, Ahuja, Eswaran, Nijhout, 2015.). The Manduca Sexta varies in size, with the maximal larval weight being about 11.3 grams +/- 1.5 grams (Grunert, Clarke, Ahuja, Eswaran, Nijhout, 2015.). There are two major hormones implicated in the growth of the Manduca Sexta larvae, juvenile hormone, and ecdysteroids. Both of these hormones are present in the 5 instar larval stages of the Manduca Sexta life cycle. Many experiments have been performed to understand the growth of this species of caterpillars, and it is apparent that the juvenile hormone is responsible for causing the caterpillar to grow during the instar larval stages, and the juvenile hormone is implicated in the transition between stages (Riddiford, Hiruma, Zhou, Nelson, 2003.). In this experiment, we are essentially trying to figure out the extent to which juvenile hormone increases growth in these caterpillars, and whether or not there is a threshold of the hormone that can be surpassed that will stunt the growth of the Manduca Sexta. It is important to understand the effect of juvenile hormone in this caterpillar because it is integral to the development of the caterpillar as well as to the duration of the life cycle. We hypothesized that an excess of juvenile hormone would actually have adverse effects on the growth of the Manduca Sexta, and therefore stunt it's growth rather than promote it. 
+
+Materials and Methods:
+For this experiment, a number of materials were required
+-	Four round plastic containers
+-	Four perforated lids
+-	Index cards
+-	Tape
+-	Manduca Sexta food
+-	A spoon
+-	A square mixing container
+-	Transfer pipets
+-	Precor (JH mimic)
+-	Eight Manduca sexta caterpillars
+We began this experiment by preparing the containers in which the caterpillars would live. Each plastic container was divided using an index card so that there were eight living spaces available. The spaces were then designated and labeled "Control 1-4" or "Treatment 1-4". 80 grams of food was weighed using an electronic scale, and the food sample was then divided into eight different portions. Four of the portions were saturated with 10 drops of distilled water and placed into the four living areas labeled "control 1-4". Four portions were mixed together with ten drops of Precor (a commercial product that mimics the effects of juvenile hormone) and were placed in the living areas labeled "treatment 1-4". Then each of the eight caterpillars was weighed on the electronic scale and the initial weights were recorded for each. The caterpillars were individually placed into one of the eight living areas. The four caterpillar-containing plastic containers were placed in an incubator that kept the temperature and light exposure constant. For seven consecutive days, the caterpillars were monitored and observed. Each day, all eight of the caterpillars' weights were measured and recorded using an electronic scale. 
+
+
+Results:
+In order to analyze the data statistically, a one-tailed t-test was employed. The growth of each Manduca sexta was determined by subtracting the weight of the caterpillar on day 7 from its initial weight on day one. The differences were then used for the t-test. The findings of the t-test concluded there was no statistical significance between the growth of the Manduca sexta and an overdose of juvenile hormone (df = 3, t stat = -0.123267, p-value = 0.45484518). The t-test showed that there was not enough statistical difference between the means of both the growth in the control group and the treatment group. In examining the data that was gathered by this experiment, it is clear that there is not any trend present between the growth of the treatment group and the addition of Precor to the diet. In looking at Figure 3, we see that while the treatment group did grow more during the seven day period, however, the amount of growth is not substantial enough to support our hypothesis. 
+
+
+Discussion:
+Our statistical test determined that there was not a substantial difference in growth between the treatment and control groups (Figure 2) therefore, we must assume that our null hypothesis was correct, and our biological alternate hypothesis was proven to be incorrect. Our data, shown in a bar graph format (Figure 3), also supports this result. The caterpillars that received a high dose of juvenile hormone did not show growth significantly lower than that of the control caterpillars. The reasoning behind our hypothesis was that while juvenile hormone does play a part in the growth of the caterpillars, that an excess of it would stunt their growth. However, as the statistics have shown, this is not the case. There is a possibility that our methods did not lead to results that are as accurate as possible. If the experiment were to be repeated, it would be helpful to use both a larger control group and a larger treatment group, as well as measure and monitor the caterpillars over a greater period of time. 
+As was stated in the introduction, Manduca sexta caterpillars grow to be between 6 and 15 grams, many of the caterpillars involved in this experiment were within that range, but a few were far below it. As this information was gathered from an experiment monitoring the Manduca sexta at metamorphosis, it can be assumed that the caterpillars that were not within the range were at a lower stage in the Manduca sexta life cycle (Grunert, Clarke, Ahuja, Eswaran, Nijhout, 2015.). However, in this experiment, we were testing the growth over a period of seven days rather than the comparative size of the caterpillars. In the article written in the Journal of Insect Science, low levels of juvenile hormone caused stunted growth in the Manduca sexta (Browder, D'Amico, Nijhout, 2001.). The idea behind our hypothesis was that there is a range necessary to have growth effects. We believed that anything under or over this range would cause stunted growth in the caterpillars, however, our experiment showed that either we did not reach the upper threshold of this range, or that no threshold exists, considering our caterpillars experienced normal growth despite the very high dosage of juvenile hormone (Figures one through three can be used to reference caterpillar growth). 
+	Conclusively, the experiment determined that the dosage of juvenile hormone was too much to implicate excess growth, but it was either not enough to trigger stunted growth in the Manduca sexta, or that there is no relationship between excess juvenile hormone and stunted growth. If we were to repeat this experiment, it would be wise to use a larger treatment and control group with at least ten caterpillars. It also would be an improvement to monitor and examine caterpillars from their hatching stage, so that each caterpillar would be growing during the same periods of the life cycle. Monitoring the growth over a longer period of time would also provide better data regarding Manduca sexta growth over time. 
+
+
+Literature Cited:
+Browder, M. H., D'Amico, L. J., & Nijhout, H. F. (2001). The role of low levels of juvenile hormone esterase in the metamorphosis of Manduca sexta. Journal of Insect Science, 1, 11.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC355895/
+
+Grunert LW, Clarke JW, Ahuja C, Eswaran H, Nijhout HF (2015) A Quantitative Analysis of Growth and Size Regulation in Manduca sexta: The Physiological Basis of Variation in Size and Age at Metamorphosis. PLoS ONE 10(5): e0127988. https://doi.org/10.1371/journal.pone.0127988
+
+Riddiford Lynn, Hiruma Kiyosji, Zhou Xiaofeng, Nelson Charles (2003) Insights into the molecular basis of the hormonal control of molting and metamorphosis from Manduca sexta and Drosophila melanogaster. ScienceDirect.
+https://www.sciencedirect.com/science/article/pii/S0965174803001413
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO+LABR+Fig+1.png&Size=15298&Type=image%2Fpng&F=F_87VZg7MNlA3xgVL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO+LABR+Fig+2.png&Size=33625&Type=image%2Fpng&F=F_efXalnGMZVslPzD
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO+LABR+Fig+3.png&Size=17920&Type=image%2Fpng&F=F_0D6G3XrR3WTzuQZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+(Figure 1: Average growth of caterpillars)
+(Figure 2: Paired two-sample t-test for means)
+(Figure 3: Bar graph comparing the average growth of control and treatment groups)
+
+*************************************************************************

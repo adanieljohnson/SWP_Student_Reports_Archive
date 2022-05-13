@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 15:54:02
+Author of this lab report is: Std_lfoGde59
+ID: R_4HmkU46reTR2OSB
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Effect of Calcium Blocker on Pulse Magnitude in Lithobates sphenocephalus Neuromuscular system
+
+Abstract:
+Extracellular calcium ions play a large role in creating action potential in neuromuscular systems. Calcium blockers used at high concentrations have been hypothesized to decrease the chance for action potential in skeletal muscle. This experiment uses legs from the southern leopard frog, Lithobates sphenocephalus, to observe whether calcium blockers decrease action potential after an electrical stimulation. It was hypothesized that the greatest responses of the control groups, those with no treatment, would be larger than those of the experimental groups with the calcium blocker injections. Each of 3 legs were stimulated before and after injection of the calcium blocker. Results showed no pattern of whether action potential decreased due to the injection of the blocker. The data varies within each trial to whether the experimental group decreased or increased; the paired t-test showed a p-value of 0.44, revealing the experiment showed no statistically significant relationship between calcium blockers and muscular action potential. This data conflicted the original hypothesis. To create a more accurate experiment, more trials would be used in the future to test the effects of calcium blockers on action potential. 
+
+Introduction:
+Calcium plays an integral role in signaling movement from neuron to muscle tissue. Calcium concentrations are low in the neuron, so flow of this ion into the cell, which is triggered by depolarization down the axon, crosses and shifts the large concentration gradient. In synaptic transmission, calcium must flow into the presynaptic terminus to signal the release of neurotransmitter to the post synaptic terminus. This neurotransmitter – in this case, acetylcholine – acts as an inhibitory signal that binds to acetylcholine receptors on the muscles’ post synaptic terminus. Acetylcholine reception opens AChR channels, causing sodium ions to rush into the muscle and potassium to flow out. This movement of ions triggers depolarization, allowing action potential in the muscle. Furthermore, calcium is important for beginning the process of action potential within various components of an organism’s muscular system. A study observing the effects of calcium on skeletal-muscular systems found: “although Ca+2 influx seems to be of little importance for twitch contraction, calcium entry blockers, when used at relatively high concentrations, may affect twitch contraction” [Godfraind: 1986]. This raises the question to whether the addition of calcium blockers has a significant effect on the action potential of a muscle. This experiment tests the effects of calcium on the sciatic nerve response of a Lithobates sphenocephalus leg using a calcium blocker injected into the surrounding muscle. It is hypothesized that the greatest responses of the control groups will be larger than those of the experimental groups with the calcium blocker. 
+
+Materials and Methods:
+In this experiment 3 frog legs were carefully dissected, removing the skin and specifically exposing the sciatic nerve. The first leg was connected to the FT-302 force transducer with the sciatic nerve of one leg laid on the transducer. Pulse magnitude was recorded with stimulation at 0 V, 3.0 V, and 5.0 V. Each pulse response strength was recorded in volts. Next, 0.2 mL of calcium blocker was injected into the gastrocnemius muscle of the same leg. The blocker was left to sit in the leg for 8 minutes before stimulated again; the tension of the frog leg after 8 minutes was adjusted accordingly. For the experimental data, the sciatic nerve response was recorded at 0 V, 0.5 V, 1.0 V, 3.0 V, and 5.0 V after injection of calcium blocker. This process was repeated for the other two legs, resulting in three trials with a control and experimental group for each leg. A one tailed paired T-test was used to test significance of the data with an alpha value of 0.05. 
+
+Results:
+Data from Figure 1 displays the highest response of the sciatic nerve with a range of 3 V to 5 V of applied electric stimulation. The experimental group represents the Lithobates sphenocephalus legs after injection of calcium blocker. Data from Leg 1 shows a significantly higher response than that of the experimental group, also exceeding those of all other responses in both groups. Leg 2 also shows a greater response in the control group than the experimental group, but the difference between groups within leg 2 is less extreme than that of leg 1. Both leg 1 and 2 show a greater response in control groups then experimental groups; however, leg 3 shows a greater response in the experimental group than the control. The highest response of the sciatic nerve across trials was not significantly greater in the control group than the experimental group (t-stat = 0.96, df = 2, P = 0.44).  
+
+Discussion:
+There is no consistent pattern in the data collected; leg 1 shows a significantly higher response than all others, possibly from human error when adjusting the tension of the leg to the force transducer. Without using data from this trial, trial 2 and 3 showed responses much closer in proximity of voltage, but still showing no general trend. Data from leg 2 supports the initial hypothesis while data from leg 3 conflicts it. The leg 2 trial shows a greater response in the control group than the experimental group, suggesting that the calcium blocker decreased the action potential in the sciatic nerve. However, because trial 3 showed a greater response in the experimental leg, other factors in the individual legs may have contributed to the responses recorded. A study conducted to observe the effects of calcium blockers on nonvascular tissues found that “contractions can be elicited by acetylcholine after a prolonged period (60 min) in Ca+2 free solution (543), indicating the presence of stocks of intracellular Ca+2”[Godfraind: 1986], suggesting that extracellular calcium movement into the presynaptic terminus is not essential to muscular depolarization. Though trial 2 is representative of the hypothesized data, the other trials reveal the importance of greater repetition in an experiment. With many more trials, general trends may have been revealed and there may have been less variation overall. 
+
+Literature Cited:
+1.	Theophile Godfraind, Robert Miller, Maurice Wibo. Calcium Antagonism and Calcium Entry Blockade. Page 341. October 30, 2018.
+&lt; http://pharmrev.aspetjournals.org/content/pharmrev/38/4/321.full.pdf&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+lab+2.png&Size=28487&Type=image%2Fpng&F=F_2QGIiBKnp8ni22f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Greatest  sciatic nerve reponse of Lithobates sphenocephalus leg from stimulated voltage pulse*************************************************************************
+
+
+

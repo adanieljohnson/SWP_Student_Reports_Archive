@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 15:44:13
+Author of this lab report is: Std_jArO1pRp
+ID: R_rqdKoKYr348Ms4V
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Added sodium to the muscle of a frog leg has no impact on the contraction force of a muscle
+
+Abstract:
+In this lab, we wanted to learn more about the neuromuscular system and neuromuscular control in organisms.  We wanted to look at the stimulus response, work, summation, and tetanus of a frog leg in response to different stimulus’s.  More specifically, we wanted to see if there was a difference in the force response of the frog leg when sodium was injected into the frog.  Most organisms, and in this case, frogs, have nerves and muscles that allow them to sense and respond to the internal and external environments.  Our hypothesis of this study was that if we increase the amount of sodium in a frog leg, then that muscle will contract with a stronger force.  In testing our hypothesis, we had a control group and an experimental group of frog legs.  After stimulating the control group of frog legs with different stimulus forces, we let the fog legs rest and then injected sodium into them and stimulated them again with the same stimulus forces.  According to our results, the average force response of our frog legs injected with sodium was about the same as the frogs legs without sodium, which rejects our hypothesis.  
+
+
+Introduction:
+In this lab, we wanted to learn more about the neuromuscular system and neuromuscular control in organisms. We wanted to examine the stimulus response, work, summation, and tetanus.  More specifically, if the addition of sodium to a muscular system would stimulate a faster or stronger force in the muscle.	  Nerves and muscles allow organisms to sense and respond to the internal and external environments.  Skeletal muscle of both vertebrates and invertebrates contain over thousands of myofibers, which are fused aggregates of cells.  These individual myofibers are bound together by connective tissue, which forms functional groups that create skeletal muscle.  Motor neurons innervate skeletal muscles, which have cell bodies that are located in the gray matter of the spinal cord.  The axons of these motor neurons go into a muscle and then branch out to innervate a few individual myofibers, which are at points called neuromuscular junctions.  Nerve impulses that arrive at the neuromuscular junction site stimulate a release of acetylcholine from the presynaptic nerve terminal.  This then binds with a receptor on the membrane of a muscle fiber, opening sodium channels.  These sodium channels generate an action potential in the muscle fiber.  That action potential then moves through the fiber which stimulates the release of calcium from the sarcoplasmic reticulum.  This calcium causes the muscle to contract and shorten [Johnson:2018].  
+	The hypothesis of this study was if we increase the amount of sodium in a frog muscle, then that muscle will contract with a stronger force.  
+
+
+Materials and Methods:
+The first step taken in this lab was getting 3 frog legs.  Then, the skin was taken off of each leg.  Following that, a dissecting probe was used to separate the inner thigh muscles.  Then the sciatic nerve was freed from its attaching connective tissue (while keeping the exposed tissues most with frog Ringer’s solution).  In this experiment, the exercise was to stimulate the muscle by action potentials generated in the nerve attached to the muscle.  The nerve was stimulated by single pulses of constant duration.  After separating the sciatic nerve from the muscle, the leg was hung up at a 90 degree angle.  The BNC connector of the the sleeve electrodes was then connected to the BNC-banana adaptor on the stimulator output.  The needle was then placed into the sciatic nerve.  Following that, the pulse amplitude was reset to .000V and the gastrocnemius muscle was stimulated through the sciatic nerve with single stimulus pulses of increasing amplitude.  The threshold voltage for nerve stimulation was then determined by increasing the stimulus voltage in 0.1V increments.  Then, at threshold, the muscles response to nerve stimulation was tested at 1.0V increments.  After letting the frog legs rest for 1 minute, .1mL of Na solution was injected into each frog leg.  The pulse amplitude was reset to .000V and the gastrocnemius muscle was stimulated through the sciatic nerve with single stimulus pulses of increasing amplitude.  Then, the threshold voltage for nerve stimulation was determined by increasing the stimulus voltage in 0.1 V increments.  The one-tailed paired T-test was used in this experiment. 
+
+
+Results:
+The average force response of the muscle to stimulus was about the same in the control group as the group with .1 mL of sodium solution in two out of the three frog legs (Fig. 1 and Fig. 2).  Table 1 shows that the average difference is 0.013 V, the N value is 3, the degrees of freedom is 2, the t-value is 0.4386, and the p-value is .703.  
+
+
+Discussion:
+According to our results, the average force response of our frog legs injected with sodium was about the same as the frogs legs without sodium.   Our hypothesis of this experiment was rejected.  This can be proven by the fact that the nerve signal (action potential), is a coordinated movement of sodium and potassium ions across the nerve cell membrane.  Since the inside of a cell is slightly negative, a disturbance can result in a few sodium channels to open.  Sodium ions enter the cell through the open sodium channels.  The positive charge that the sodium ions carry makes the inside of the cell slightly less negative.  Since the depolarization requires a certain threshold value, more sodium channels open.  Once the charge is balanced, the sodium ions stop flowing in.  Thus, the addition of sodium to a muscle does not have much of an impact on a muscle because the sodium channels close when the charge is balanced [Heilbrunn:1941].  Another reason for why the p-value was not significant could be due to tetany.  According to figure 2, at the lower stimulus forces, the frog legs had a higher force response.  However, as the stimulus force got higher and higher, the force response of the frog legs with and without added sodium evened out to be about the same.  A reason for this can be because the muscles got tired and tetany occurred.  Tetany occurs when the concentration of calcium ions in extracellular fluids falls below normal.  Thus, Calcium plays an important role in the proper functioning of the central nervous system.  In general, when the body does not get enough calcium, the nerves spontaneously discharge, which send impulses to skeletal muscles, which results in the contractions called twitching [Kamlan:2003].  A final reason for as to why our results were insignificant could be due to human error.  We could have made an error in conducting the experiment or added too much or too less sodium to the frog legs.  
+
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers.18.2 (updated August 2018), pp 17-19
+2.	Heilbrunn LV, Ashkenaz EW. 1941. The irritability of frog muscle in relation to the sodium ion. The University of Chicago Press Journals. 14:281-295
+3.	Kamlan M. 2003. Muscle Twitching caused by calcium deficiency. Tetany in Reptiles. 1. 1-5.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-14+at+3.42.42+PM.png&Size=62820&Type=image%2Fpng&F=F_2uPbFCLMGEcb3qE
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-14+at+3.42.50+PM.png&Size=31451&Type=image%2Fpng&F=F_3s18HI92DLGFklc
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-14+at+3.42.57+PM.png&Size=76066&Type=image%2Fpng&F=F_3e5jFRrbDHtC2ix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Force response of frog legs at 2 amps with control group and group with .1mL of Na solution
+Table 1 . average difference in control group vs experimental group with added sodium, P-value results and T-value results at 2 amps of voltage stimulation
+figure 2. Average force response of all 3 frog legs with and without .1mL of added sodium with stimulus force
+*************************************************************************
+
+
+

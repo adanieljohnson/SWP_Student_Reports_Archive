@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-03 17:02:39
+Author of this lab report is: Std_9eFDNQIz
+ID: R_2aXojw1UjOMY1X7
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Effect of Tubocurarine on the Maximum Threshold of Leopard Frog Gastrocnemius
+
+Abstract:
+Tubocurarine is a neuromuscular blocker derived from curare and has been the subject of many experiments and questions within the scientific community. In this lab, our goal was to determine the effects tubocurarine had on the threshold stimulus of muscle, particularly the gastrocnemius of the Northern Leopard Frog (Rana pipiens). Using three frog legs, we would remove the skin and use a stimulator the stimulate the muscle of each leg until we reached the maximum threshold, and then doing this again with each frog leg after injecting the muscle with tubocurarine. We had hypothesized that the maximum threshold stimulus of each frog leg after being injected with tubocurarine would be lower than it was before the injection, and our results supported this hypothesis with statistical significance. To find more detailed results on tubocurarine, this experiment could be repeated with varying levels of tubocurarine, and/or tested on different muscles to have a more thorough understanding of the blocker and its effects.
+
+Introduction:
+A muscle twitch begins first when nerve impulses arrive at the neuromuscular junction and cause a release of acetylcholine (ACh) from the presynaptic nerve terminal. When ACh binds to its receptor on the membrane of the muscle fiber, sodium channels open and generate an action potential in the muscle fiber. This action potential then spreads through the fiber and stimulates the release of Ca2+ from the sarcoplasmic reticulum. Finally, the released calcium ions activate the contractile mechanism of the muscle fiber, causing it to shorten. In this lab, we sought to discover the effects a chemical called tubocurarine on the maximum twitch threshold of the gastrocnemius of a leopard frog (Rana pipiens). Tubocurarine is neuromuscular blocker that in the past [Colquhon:1979] this experiment has led scientists to believe that tubocurarine has a competitive blocking action and an additional voltage dependent blocking action. It is believed that tubocurarine would cause the muscle to not twitch in reaction to stimulus [Katz:1967]. We hypothesize that the introduction of tubocurarine to the gastrocnemius of Rana pipiens will lower the voltage of the threshold stimulus of that muscle.
+
+Materials and Methods:
+To test our hypothesis, we first obtained a frog leg and carefully removed the skin, trying not to use metal tools to do so. Then we isolated the gastrocnemius and cut it at one end by the Achilles tendon, retaining as much of the tendon as possible. We then tied a string to the end of the muscle and attached it to the apparatus, bringing the muscle to a 90-degree angle with the dissection plate, making sure to pin down the rest if the leg as well.
+To determine the threshold stimulus of the gastrocnemius, we used clicked the stimulator preferences icon on the Labscribe toolbar downloaded to one of our group member’s computer and checked that the values were set to: Pulse amp should be 0.000 V, Number of pulses should be 1, Frequency (f(Hz)) should be 1, and Pulse width should be 5 ms.  To get a baseline we stimulated the muscle first with 0.000V, typing this number into the box labeled Mark and, making sure to press Apply, clicked record. We then changed the amplitude of the stimulus in 0.1 V increments up to 1.0 V then increased to 1.0 V increments until we found the max threshold. We recorded the muscle response to each level of stimulus and saved tye data file after we finished to ensure we had all our data securely. After determining the control threshold, we injected the gastrocnemius in multiple places with 0.1 mL of tubocurarine, letting the muscle rest for 5 minutes before repeating stall the steps mentioned before, then we ran a paired t-test to compare the results.
+
+
+Results:
+Our results showed that in three trials with a frog leg in each trial being used as the both control and then the treatment results, the threshold stimulus for the treated frog legs was lower than that of the frog legs when they had not been injected with tubocurarine [Figure 1]. When running a paired t test for the threshold stimulus, we found that the difference between the control and treatment stimulus was statistically significant (t-stat = 4.4205, df = 2, P = 0.0476).
+
+
+Discussion:
+Our results allowed us to reject the null hypothesis and support our alternative hypothesis that the injection tubocurarine of tubocurarine would cause a decrease in the threshold stimulus of the gastrocnemius of a Northern Leopard Frog. This makes sense since tubocurarine is a known neuromuscular blocker [Colquhoun: 1979], and logically this would mean that a muscle affected by this blocker would have a decreased reaction to stimulus. Tubocurarine is even believed to, in certain amounts, completely block any twitch in the muscle in reaction to stimulus [Katz:1967], so it would have been more abnormal if the results had not turned out the way they did. It is also important to note that our results were statistically significant lower values [Figure 1.], and not simply different, since this implies it could be lower or higher. Further implications of this study are that tubocurarine could be helpful in anesthesiology [Gray:1946], prevent patients who have been put under from having muscle spasms that could cause potentially fatal complications. In the future it would be beneficial to repeat this experiment with more trials and varying amounts of tubocurarine in order to gain a more overarching and detailed view of its effects. 
+
+Literature Cited:
+1.	Colquhoun, D., F. Dreyer, and R. E. Sheridan. “The Actions of Tubocurarine at the Frog Neuromuscular Junction.” The Journal of Physiology 293, no. 1 (1979): 247–84. https://doi.org/10.1113/jphysiol.1979.sp012888.
+2.	Katz, Ronald. “Neuromuscular Effects of D-Tubocurarine, Edrophonium and Neostigmine in Man.” Anesthesiology 28, no. 2 (March 1, 1967): 327–36.
+3.	Gray, T. Cecil, and John Halton. "A Milestone in Anæsthesia? d-Tubocurarine Chloride." (1946): 400-410.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-20+at+5.50.54+PM.png&Size=35804&Type=image%2Fpng&F=F_3NIphGvu7FiLLI7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The Response of Rana pipiens Gastrocnemius To Stimulus at the Threshold Voltage. *************************************************************************
+
+
+

@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-27 02:29:00
+Author of this lab report is: Std_2R1Jw0P1
+ID: R_1QuBoFSVte7jNl9
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effect of an ecdysterone inhibitor on the Manduca sexta’s molting process
+
+Abstract:
+Hormones are a chemical messenger in an organism's body that signals change. Ecdysterone is a hormone controls the initiation and continuation of an insect’s metamorphosis. In the conducted experiment, Manduca sexta consumed ecdysterone inhibitor in order to see if this had an impact on their development. The expectation was that the caterpillars would not undergo metamorphosis because the hormone that controlled its initiation was inhibited. Our data showed no significant difference in the control group (did not consume inhibitor) and the experimental group. This insignificance suggests that the results could have been subject to chance. However, previous studies state that other factors could be involved that would cause this result to happen, or that the conclusion could be wrong completely. Understanding the effect of hormones on a species development could lead to a breakthrough in how people solve many of the problems that this process presents.
+
+Introduction:
+The experiment evaluates the effect of azaguard, an ecdysterone inhibitor, on the Manduca sexta’s development. The molting process of the Manduca sexta has been studied for decades. The process contains four stages: egg/embryo, larvae, pupa, and adult. The Manduca sexta is a great species for experimentation because of its large size, artificial diet, and staged environment [Bollenbacher: 1981]. Various studies have inhibited and added additional hormones to the species in order to see if the molting process is affected [Baker: 1987]. Hormones are chemicals that are sent to receptors in the body that initiate change. The endocrine system is the key factor in hormone distribution. A series of events in the endocrine system initiate the molting process [Truman: 1981]. Ecdysterone is a naturally occurring ecdysteroid hormone that controls the timing of an insect’s molting process. Its primary role is to start and coordinate metamorphosis [Fujiwara: 1995]. The caterpillars are treated with the ecdysterone inhibitor and frequently weighed as a reflection of their development. In theory, the inhibition of ecdysterone should drastically alter the insects’ molting process. For the experiment, the dosage level of the azaguard is high, making it even more probable that the insect’s molting process will be affected. Therefore, if the Manduca sexta are exposed to an ecdysterone inhibitor during development, metamorphosis will be prevented.
+
+Materials and Methods:
+The Manduca sexta were placed in a plastic container, each separated by a compartment. Air holes were poked in the container to ensure oxygen access. Two groups of four Manduca sexta were used, one being a control group and the other being the experimental group. Both groups were fed when needed and monitored daily (their weights were recorded). The Manduca sexta were kept in an incubator when monitoring was not taking place. The difference in the groups was in their food. The control group was given ten grams of food as needed, mixed with ten drops of water. The experimental group was given the same amount of food under the same circumstances, but with ten drops of ecdysterone inhibitor rather than water. A one-sample t-test was used to analyze the results of the experiment.
+
+Results:
+The average rate of change for the control group varied individually but ultimately came to a group average of 0.212. The average rate of change for the experimental group was 0.01785. The average weight of the control group at the end of the experiment was 7.71 grams. The average weight of the experimental group at the end of the experiment was 1.4275. The one-sample t-test gave a p-value of 0.068162, meaning that the data was not significant. When observing the caterpillars on the final day, there was a significant difference in their appearances. The control group’s weight difference could be visually seen, as well as a difference in their energy levels. Figure 1 shows the trend in the caterpillar's growth, exhibiting the visual difference between the two groups. Eventually, after day 12, all of the experimental group were dead.
+
+Discussion:
+The hypothesis, that the Manduca sexta would not undergo metamorphosis, was not supported. Our one-sample p-value rejects the alternative hypothesis, suggesting that the data could have been due to chance. It is possible that the food could have dried before it was checked on certain days, causing a disparity between both groups. If the food is too dry, the caterpillars will not eat it. In a previous study, it was observed that ecdysterone inhibitor could have an impact on metamorphosis, but other factors are also involved. This includes poor eating habits and paralysis, which were observed in our experimental group as well [Sloman: 1993]. However, a past study found that ecdysterone inhibitor had an impact on Manduca sexta development [Schlüter: 1985]. The same ecdysterone inhibitor that our group used was implemented in this study. I believe that testing with a larger data set and a smaller amount of ecdysterone inhibitor could be useful, as this would show a larger range of numbers and test whether the enormous amount of inhibitor killed the caterpillars. It is important to apply these findings to other species physiology, as hormones play a huge role in many other organism’s developmental processes. For example, in humans, puberty is conducted through the sole fluctuation of hormones. An increased understanding of hormones in the developmental process could lead to changes in the way that we deal with many of the challenges that development presents. 
+
+Literature Cited:
+1. Baker, F. C., Tsai, L. W., Reuter, C. C., & Schooley, D. A. (1987). In vivo fluctuation of JH, JH acid, and ecdysteroid titer, and JH esterase activity, during development of fifth stadium Manduca sexta. Insect biochemistry, 17(7), 989-996.
+
+2. Bollenbacher, W. E., Smith, S. L., Goodman, W., & Gilbert, L. I. (1981). Ecdysteroid titer during larval-pupal-adult development of the tobacco hornworm, Manduca sexta. General and comparative endocrinology, 44(3), 302-306.
+
+3. Fujiwara, H., Jindra, M., Newitt, R., Palli, S. R., Hiruma, K., & Riddiford, L. M. (1995). Cloning of an ecdysone receptor homolog from Manduca sexta and the developmental profile of its mRNA in wings. Insect biochemistry and molecular biology, 25(7), 845-856.
+
+4. Schlüter, U., Bidmon, H. J., & Grewe, S. (1985). Azadirachtin affects growth and endocrine events in larvae of the tobacco hornworm, Manduca sexta. Journal of insect physiology, 31(10), 773-777.
+
+5. Sloman, I. S., & Reynolds, S. E. (1993). Inhibition of ecdysteroid secretion from Manduca prothoracic glands in vitro by destruxins—cyclic depsipeptide toxins from the insect pathogenic fungus Metarhizium anisopliae. Insect biochemistry and molecular biology, 23(1), 43-46.
+
+6. Truman, J. W. (1981). Interaction between ecdysteroid, eclosion hormone, and bursicon titers in Manduca sexta. American Zoologist, 21(3), 655-661.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Manduca+sexta+growth+chart+experiment+1.png&Size=117567&Type=image%2Fpng&F=F_1M3uJJmaQuGNbSz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. shows the growth of the caterpillars over time. The results of the graph show that the experimental group did not grow to nearly as high of weight as the control group, although they died a few days sooner. During the time frame that this experiment was conducted, the caterpillars would have transitioned from the fourth-instar larvae stage to the fifth-larvae stage. This is the estimated time that the commitment pulse would be sent out, initiating the molting process. The visible trend shows that the control group went through a process of growth, but the experimental group roughly stayed the same throughout most days.*************************************************************************
+
+
+

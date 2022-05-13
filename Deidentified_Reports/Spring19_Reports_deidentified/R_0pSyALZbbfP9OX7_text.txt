@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-02 18:06:04
+Author of this lab report is: Std_FOX634Ww
+ID: R_0pSyALZbbfP9OX7
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effects of Caffeine on Skeletal Muscle Contractions of Raina pipens
+
+Abstract:
+The neuromuscular system can respond to environmental stimuli in milliseconds. Adenosine stimulates the release of Ca++ which causes muscle fibers to shorten. However,  molecules like caffeine can block adenosine, leading to a build up of Ca++. We hypothesized if caffeine is injected into the gastrocnemius of the Raina pipens, the muscle will experience summation and tetany at a lower amount of hertz because since caffeine blocks adenosine, which will result in a buildup of Ca2+. Our hypothesis, if caffeine is injected into the gastrocnemius of the Raina pipens, the muscle will reach tetany faster and the number of volts will decrease was not supported. Even though two out of three legs had a lower number of volts for the experiment group the p-value was not significant enough to support a correlation between 1mg of caffeine injected and volts produced. Future research could be conducted to determine how much caffeine is needed in order to effect muscle contractions in a negative way. Future research could be beneficial in determining a healthy amount of caffeine in the diets of humans. 
+
+Introduction:
+The neuromuscular system can respond to environmental stimuli in milliseconds. In order for a muscle to contract, an action potential must be fired. [Johnson: 2018] Muscle contractions consist of three phases, a latent period, contraction period, and relaxation period. [Johnson: 2018] When the action potential spreads Ca++ is released which causes muscle fibers to shorten or contract [Johnson: 2018] Adenosine, a chemical found in cells stimulates the release of Ca++ [Dickerson: 1993] However, molecules like caffeine can block adenosine which prevents some Ca++ from being released, therefore the duration of action potentials are longer as the caffeine concentration increases. [Gubareff: 1965] How will adding caffeine to the gastrocnemius of the Raina pipens effect the number of volts that will cause the muscle to reach tetany? Observing how caffeine affects the muscle in of Raina pipens is important because the muscle contractions in Raina pipens are similar to muscle contractions in humans and both humans and Raina pipens have a sciatic nerve that controls the contractions of the gastrocnemius muscle. [Johnson: 2018] A lot of people consume caffeine on a daily basis and understanding how caffeine effects muscle contractions in Raina pipens can help determine how caffeine is affecting muscles in humans. The independent variable is the control group and experimental group which will be injected with caffeine and the dependent variable is the voltages that will be measured by an IWorx electrophysiological recorder. We hypothesized if caffeine is injected into the gastrocnemius of the Raina pipens, the muscle will experience summation and tetany faster therefore decreasing the number of volts produced. 
+
+Materials and Methods:
+We degloved the Rania pipens leg and used a dissecting probe to separate the inner thigh muscles in order to reveal the sciatic nerve. We followed detailed instructed in videos under “Specimen Preparation” on the Frog Muscle Page on the Biolab website. to properly dissect the Rania pipens leg and suspend the leg. The sciatic nerve and gastrocnemius were kept moist, but not drowning with frog Ringer’s solution. IWorx electrophysiological recorder was used to create a chart that shows the phases of a muscle contraction and how frequently contractions occur. The electrophysiological recorder was also used to determine the twitch threshold. The number of pulses was set to 1, number of frequencies set to 1 and the frequency was altered after each contraction. During week one, we determined the threshold for three Rania pipens gastrocnemius muscles by increasing the frequency by 0.1 volts until reaching 0.5 and then we increased the frequency from 1.0 to 5.0 volts. Afterwards, we tested the 3 Rania pipens legs at 2, 4, 5, 10, 25, 50, and 100 hertz. During week 2, we tested each Rania pipens gastrocnemius muscles at 10, 25, and 50 hertz. We chose these frequencies because during week one we discovered that at 10 volts resulted in fast contractions, starting to reach tetany, 25 resulted in maximum contractions, and 50 resulted in the start of fatigue. After determining the twitch threshold of the muscle without adding any outside environmental influences, we injected 1mg of caffeine into the leg. A control and experimental should be used for each induvial leg because each leg reaches threshold at different volts. A paired T-test will be used. We will inject caffeine into the gastrocnemius and record the amount of hertz that will cause the muscle to reach tetany. We conducted a paired t-test to determine if we should support our hypothesis. 
+
+Results:
+According to figure 1, the results found in leg 2 differed than the results found in leg 1 and 3. The average volts in the experimental in leg 1 and 3 were less than the control, however the average volts in the experimental of leg 2 was higher than the control. The average volts of the experimental group were not significantly different than the control (t-value= 0.621075, P-value 0.598).
+
+Discussion:
+Our hypothesis, if caffeine is injected into the gastrocnemius of the Raina pipens, the muscle will reach tetany faster and the number of volts will decrease was not supported. Even though two out of three legs had a lower number of volts for the experiment group, the p-value was not significant which suggests that there was not a significant correlation between injecting the gastrocnemius of the Rania pipens with 1 mg of caffeine and the average amount of volts. Therefore, a small amount of caffeine does not have much of an impact on muscle contractions. A possible reason for why our hypothesis was not supported could be there was not enough caffeine injected into the gastrocnemius to significantly impact the muscle contraction. In an experiment conducted by Clark and Olson, researchers injected different amounts of caffeine  into the papillary muscles in the right ventricle of kittens, and they discovered that low concentrations of caffeine speed up concentrations and high concentrations of caffeine prolonged the action potential [Clark: 1973] Another experiment  conducted by Gubareff  concluded in the that a small amount of caffeine injected into the atria of Cavia porcellus lead to a positive inotropic effect, however an increase in caffeine led to slower contractions [Gubareff: 1965]. Future research could be conducted to determine how much caffeine is needed in order to significantly slow down the gastrocnemius muscle contractions in Rania pipens. By understanding the amount of caffeine that could negatively affect the muscle contractions of Rania pipens, a ratio comparing the body mass to caffeine injected in the Rania pipens could be used to determine how much caffeine would negatively affect humans.  By understanding the amount of caffeine that negatively affects humans, humans can adjust their caffeine intake in order to live a healthier lifestyle. 
+
+Literature Cited:
+2.Clark A, Olson C 1973. Effects of caffeine and isoprenaline on mammalian ventricular muscle.  Department of Pharmacology, Harvard Medical School, Boston, Massachusetts. USA. 47 Pp 1-11   
+2. Dickenson JM, Hill SJ. 1993. Adenosine A1-receptor stimulated increases in intracellular calcium in the smooth muscle cell line. Br J Pharmacol. 108. Pp 85-92.
+2. Gubareff T, Sleator W. 1965. Effects of Caffeine on Mammalian Atrial Muscle and it’s Interaction with Adenosine and Calcium. The Journal of Pharmacology and Experimental Therapeutics. 148. Pp 202-214  
+1.Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated August 2, 2018), pp. 5–13.
+1. Muday J. Frog Nerve Muscle. Wake Forest University. Accessed April 2, 2019. &lt; #. Author or editor of material (NOT the Webmaster). Title of page. Physical location of data. Date accessed. &lt;web address&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=25422&Type=image%2Fpng&F=F_1jTH8wBxM4DfUaR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1- Average amount of volts produced by the gastrocnemius of Raina pipens. The average volts produced by the control and experimental group for each Raina pipens gastrocnemius. Each gastrocnemius muscle was tested at 10, 25, and 50 hertz.*************************************************************************
+
+
+

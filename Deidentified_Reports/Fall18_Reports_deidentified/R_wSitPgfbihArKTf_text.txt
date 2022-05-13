@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 14:17:25
+Author of this lab report is: Std_qy0OO2Gp
+ID: R_wSitPgfbihArKTf
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The Effects of a Cold Environment on Response Voltage of a Rana Pipien’s Gastrocnemius Muscle
+
+Abstract:
+This experiment investigates the effects of a cold environment on the response voltage of a muscle, specifically the gastrocnemius muscle of a Rana pipiens frog. The neuromuscular system of animals relies on fast electrical impulses to respond within milliseconds to a particular stimulus. Response voltage to electrical stimuli is an efficient way to test the effects of cold weather on a muscle. The hypothesis was that cooling the Rana pipien leg on an ice bath will result in a decreases response voltage shown on the electromyogram. This experiment tests the response voltage of three stripped frog legs at room temperature and after being chilled in an ice bath for five minutes using an electrophysiological recorder. The pin electrodes were placed into the gastrocnemius muscle for a direct stimulation. The paired t-test p-value was 0.41842 meaning that the results were not significant. Therefore, there was not a significant change in the response voltage of the muscles after being chilled. The hypothesis was not supported, and the information gathered can be applied to understanding if athletes or animals have decreased muscle force output in colder temperatures.
+
+Introduction:
+The neuromuscular system is an important part of human and animal function. The neuromuscular system relies on electrical impulses to respond within milliseconds to a stimulus. Studying the system is pertinent in understanding how muscles allow us to move. The major neurotransmitter involved in muscle movement is acetylcholine. Acetylcholine if ACh is released from the presynaptic nerve terminal, binds to a receptor on the membrane of the muscle fiber, generates an action potential, releases calcium, finally causing the contractile mechanism of the muscle fiber [Johnson: 2018]. Acetylcholine cannot be measured in the experimentation on the Rana pipiens leg as a model organism, however responses to electrical stimulation can be studied using an electrophysiological recorder and analysis of the electromyograms recorded. The Rana pipiens is a model organism for studying the neuromuscular functions and muscle activity of all animals. The temperature of the muscle can affect the power output of the muscle due to the supply of the O₂ to the muscles. Temperature also impacts mechanical power through its effect on the rate of ATP synthesis [Ferretti: 2008]. Therefore, at lower temperatures, less ATP can be produced and therefore decreases the force at which a muscle can contract. This experiment focuses on the effects of the cold temperatures on the response voltage of a frog muscle. We hypothesize that cooling the Rana pipien leg on an ice bath will result in a decreases response voltage shown on the electromyogram.
+
+Materials and Methods:
+Three Rana pipien legs were obtained and stripped of the skin exposing the muscles and nerves. The gastrocnemius muscle and sciatic nerve were separated from the rest of the leg and bone. A string was attached to the top of the muscle and strung up vertically while the rest of the leg was pinned down to prevent movement. The pin electrodes of the electrophysiological recorder were placed in the muscle of the first leg. The leg was tested with stimulation to find the minimum threshold for contraction. The device was set at a pulse amplitude of threshold + 1 (1.6 V), number of pulses at 1, frequency to 1, and pulse width to 5 ms. The muscle was tested three times at these settings. The leg was rested for 30 seconds in between each trial to prevent skewing of results from fatigue. This was repeated for the other two room temperature frog legs. For the cold (experimental) testing, one leg was placed in an ice bath at a temperature of 5°C for five minutes. The leg was quickly removed from the bath, set up for testing with pin electrodes in the muscle, and the same experiment was repeated at the same values on the electrophysiological recorder. The same process was repeated for the other two legs after being placed in the ice bath for five minutes. The results were examined with a paired t-test in order to compare multiple pairs of observations of one group. 
+
+Results:
+The results showed that the chilled Rana pipien legs did not produce a significantly less response voltage. The average change in response voltage between the room temperature and chilled legs was -0.1383 +/- 0.2369 V. These values along with average changes in control and experimental response voltage are shown in figure 1. Although a slight decrease in response voltage, the value is not significant based on the p-value. Physically the muscles looked a little less red after they had been chilled. The t-value is 1.01105, degrees of freedom is 2, and the p-value is 0.41842. Based on the p-value of the experiment, the results of the experiment are not statistically significant. 
+
+Discussion:
+Our hypothesis, that chilling the Rana pipien leg on an ice bath will result in a decreases response voltage shown on the electromyogram, was not supported. We observed no significant difference in the change of response voltage as demonstrated by the p-value. This suggests that when muscles are exposed to the cold, there is no change in the force output or contractile abilities of the muscles. It is possible that these results were observed because the legs did not spend enough time in the ice bath to create a clear difference in the response voltage. Perhaps if the legs had spent more time in the ice bath cooling, the muscles would have been cold enough to produce less response voltage. Another possible source of error is that the legs were chilled prior to the experiment beginning, so the room temperature legs were not truly at room temperature. The legs were being kept in the fridge, and there was little time between being taken out of the fridge and testing of the control legs. This could have caused a smaller observed change between the response voltage of the control and experimental legs. Past studies have found similar results in that no changes in metabolic output were observed when muscles were exposed to the cold despite the reduced rate of ATP synthesis that is observed at lower temperatures [Ferretti: 2008]. The study suggests that there is no significant decrease in response output due to a possible increase in the fraction of active muscle mass in the cold in order to combat the lack of ATP [Ferretti: 2008]. Comprehending the effects of cold weather on muscles is important in understanding if an athlete or animal will have difficulty in muscle force in colder temperatures. The results of this experiment can be applied to events such as the professional athletes and it is shown that preforming in the winter will not cause any less force exerted by the muscles. 
+
+Literature Cited:
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-18.  
+Ferretti, Guido. "Cold and muscle performance." International journal of sports medicine 13.S 1 (1992): S185-S187.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-30+at+1.29.00+AM.jpg&Size=28874&Type=image%2Fjpeg&F=F_RDcKbW3p9i91EMp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Change in response voltage (V) of room temperature and chilled frog legs. The room temperature frog legs were stripped and tested without any further variables and the response voltage values are displayed in the light blue bars. The chilled frog legs were placed in an ice bath for five minutes and then tested at the same stimulus parameters as the control legs. The response values for these trials are displayed in dark blue. Each bar is the mean change in voltage for the three trials conducted for each leg in both environments (chilled and room temperature). *************************************************************************
+
+
+

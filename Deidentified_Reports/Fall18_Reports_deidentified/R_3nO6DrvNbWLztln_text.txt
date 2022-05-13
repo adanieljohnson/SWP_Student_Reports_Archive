@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-12 14:54:42
+Author of this lab report is: Std_Zzz7902P
+ID: R_3nO6DrvNbWLztln
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Caffeine induced voltage and tetany increase in the gastrocnemius muscle of rana pipiens by opening voltage gated calcium channels
+
+Abstract:
+In this experiment, we observed the effects of a .1 mL injection of caffeine, a stimulant, into 3 seperate gastrocnemius muscles of Rana pipiens. We hypothesized that adding caffeine to the muscle would cause its voltage to increase and tetany to be induced. After attaching a probe to the sciatic nerve, we delivered shocks to the leg, observed a base voltage, then added the caffeine by injection and observed the results. Using a one-tailed paired t-test, we found that the caffeine did yield the results that we hypothesized. The voltages that we found in the legs after caffeine injection was higher than the legs before injection, and we observed tetany not only on our monitor, but physically in the legs; the muscle became very tight after the injection. We believe that caffeine increased the amount of voltage-gated calcium ion channel that were open, which caused the effects we observed. The results of this experiment are important due to the prevalence of caffeine in society and its effects on exercise. Our findings indicate potential positive and negative effects of caffeine on exercise, which is important information for the many people who both consume caffeine and exercise.
+
+Introduction:
+Muscles are controlled by signals from nerve cells, which generate action potentials that depolarize muscles. One of the ions used to depolarize a muscle is Ca++, and the amount of this ion that is released is controlled by caffeine.  In this experiment, we researched the effect of caffeine on muscle contraction and used the legs of Rana pipiens, a species of frog, to observe the effect. Like all muscles, the gastrocnemius muscle of the frog leg is controlled by the opening of voltage-gated ion channels, which are controlled by electrical signals sent through nerves - in this case, the sciatic nerve. In a prior study, caffeine has been shown to release Ca++ ions into the muscle cell [Bianchi: 1961]. Calcium ions are essential for muscle contraction because they remove tropomyosin from myosin's actin-binding sites, allowing them to bind and contract [Ebashi: 1968]. Caffeine is known to cause a sharp increase in Ca++ in the muscle, but observing this effect in a dissected muscle can show us more specific biological phenomena. One might assume that more Ca++ in muscle cells would make them more active, however we want to record any tetany that is caused by the rapid influx of caffeine into such a small muscle. Tetany causes the muscle to contract and produces cramps in the muscle. In this study, we will be measuring the change in muscle contraction in the legs and any tetany that the caffeine induces. We will use three different legs and inject each one with .1 mL of caffeine and observe the changes in voltage using hardware.  The results of our experiment will tell us how caffeine impacts the ability of the muscle to contract and how it induces tetany. We predict that adding caffeine to the muscles will increase the amount of Ca++ released into the muscle, causing it to contract more than normal, resulting in a higher voltage in the muscle. These repeated and rapid contractions will ultimately cause tetany in the muscle.
+
+Materials and Methods:
+After taking the skin off of the frog legs, we isolated the gastrocnemius muscle by separating the muscle from the inner thigh. We then isolated the sciatic nerve from the top of the thigh.  In order to keep the legs from becoming dehydrated, we occasionally sprayed the legs with Ringer’s solution. We suspended the muscle by the Achilles tendon at a 90 degree angle from the transducer. In order to get data onto LabScribe, we placed the needle probe on the nerve. We administered shocks on LabScribe at an amplitude of 1 V, number of pulses at 0, a pulse width of 5, a frequency of 1 Hz, and a holding potential of 0. After observing multiple muscle contractions without caffeine, we injected the muscle with .1 mL of caffeine and observed the voltage change. We repeated this experiment for three different legs. After recording our data, we used a 1 tailed paired t-test for each leg to determine if the changes in voltage after the caffeine injection were significant. 
+
+Results:
+Our results in all three trials confirmed our hypothesis that the caffeine increased the muscle's force and caused the muscles to go into tetany. We observed one specific physical response that indicated this: after completing the electrical stimulation and caffeine injection on all of the muscles, they felt very firm as if they were cramped. This phenomenon was observed on the computer-generated graph. After adding caffeine, the voltage steeply climbed until it leveled out and only displayed very small contractions. This plateau represents tetany. We found that, on average, the change in voltage in the leg muscles was an increase of .741 V with a standard deviation of .236. We used a 1-tailed paired T-test and found a t-value of 5.425, a p-value of .0162, and df = 4. Using a critical value of .05, we found our results to be statistically significant.
+
+
+Discussion:
+The results of our experiment confirmed our hypothesis that caffeine would both increase the voltage of the muscle and induce tetany in the muscle. Because our tests were statistically significant, we can infer that caffeine does have the effects on muscle tissue that we predicted. Our findings are consistent with established scientific knowledge on this topic. In the past, caffeine has been shown to increase the opening of voltage-gated calcium ion channels, which in turn increased the voltage of the muscle [Pacaud: 1989]. Using this knowledge and knowledge gained from the experiment, we are able to infer that caffeine intake has both positive and negative effects on muscle function. The increase in voltage means that the muscle twitch after caffeine is stronger, which could mean added strength or endurance. However, the tetany that we found in our experiment could manifest as muscle cramps. Finding the right amount of caffeine that still increases the overall voltage of the muscle without causing tetany would be a good follow-up experiment. If there is an optimal level of caffeine, it is less than .1 mL and would give the benefits of caffeine without the negative side effects. The results of this experiment give important information that can be used in exercise science. Many people who work out drink either coffee or supplements that contain caffeine in order to energize themselves before working out. Caffeine gives people energy, which may lead them to believe that their physical performance would be enhanced. However, knowing that caffeine has potential positive and negative effects on muscle performance is important for people trying to gain the most from their exercises.
+
+
+Literature Cited:
+1) Bianchi, C.P. "The Effect of Caffeine on Radiocalcium Movement in Frog Sartorius." The Journal of General Physiology 44, Issue 5 (1961): 845-858
+2) Picaud, P, G. Liorand, C. Mironneau, and J. Mironneau. "Noradrenaline activates a calcium‐activated chloride conductance and increases the voltage‐dependent calcium current in cultured single cells of rat portal vein." British Journal of Pharmacology 97, Issue 1 (1989): 139-146 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=leg1cropped.jpg&Size=13560&Type=image%2Fjpeg&F=F_Ao2h2WBMtDNGxA5
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=legs.png&Size=6729&Type=image%2Fpng&F=F_1ov5TqwgBRjDwBV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1: This figure displays the measure of the voltage of leg 1; it follows a pattern very similar to the other two legs. Before caffeine induction, the probe reads normal muscle contraction caused by the shock given to the muscle. The steep incline of voltage represents the caffeine being injected. After the caffeine was injected, the voltage leveled out, which is a graphical representation of muscle tetany. There are small bumps in the graph at this point, representing small muscle contractions caused by the deliverance of shocks.  
+
+Figure 2: This graph represents the average change in voltage in all three legs after adding caffeine. Each leg was given a 1 V shock and was injected with 1 mL of caffeine. On average, the addition of caffeine increased the voltage in the muscle by .741 volts. The t-value = 5.425, p-value = .0162, and df = 4. 
+*************************************************************************
+
+
+

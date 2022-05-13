@@ -1,0 +1,48 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-26 16:11:23
+Author of this lab report is: Std_5DE67gua
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Effect of elevated salinity on the photosynthetic activity in spinacia oleracea 
+
+Abstract:
+The global food chain and agriculture system relies on productive plant growth to meet the demands of an ever-growing society. In past studies salinity has been shown to negatively affect plant growth and productivity. In this experiment we want to test this principle on a micro level through chloroplast extraction from spinach leaves, spinacia oleracea. Four treatment groups were set up to do this: dark, light + detergent, light and light + salt. We hypothesized that if the extracted chloroplasts are exposed to high levels of salinity for a period of time, then we will see a decrease in photosynthetic activity. We found there to be a statistically significant difference in the percent change in absorption between the light and light + salt groups at all 3 time intervals tested. Overall, we saw this result align with other scientific literature on the topic and believe it is a reason to further study this phenomenon in order to avoid plant inefficiency in the future.
+
+
+Introduction:
+Chloroplast are essential to the energy production of plants across the world. Through chloroplasts, plants are able to run photosynthesis and produce energy for numerous daily functions. We are interested in testing the effect of salt, in this case NaCl, on the rate of photosynthesis in isolated spinach leaf chloroplast. Specifically, we are interested in how Na+ and Cl- ions might interact with electron transport in chloroplast membranes. It was found in a previous study done on the same topic that salt stress affects plant physiology at whole-plant and cellular levels through ionic and osmotic stress [Sudhir et al.: 2004]. Spinach leaves are a great model organism in an experiment of this kind as they provide a large amount of chloroplast that can be isolated and used for testing. Our independent variable here was the salinity of the solutions the chloroplasts were suspended in. To measure the amount of photosynthesis occurring in the cells, our dependent variable, we measured the absorbance of the solutions at certain time intervals throughout the experiment. Our initial hypothesis was that if chloroplasts are exposed to elevated levels of salinity, then their overall photosynthetic activity will decrease. 
+
+
+Materials and Methods:
+To extract chloroplasts from the spinach leaves they were first crushed using a mortar and pestle and grinding buffer. The paste was then strained and 200mL of the filtered solution was centrifuged at 200xG for 3 min at 4oC. The first centrifuged solution was dumped into another centrifuge tube, extracting 50mL to set aside. The solution was centrifuged again at 1000xG for 10min at 4oC. The resulting supernatant was transferred to another tube. The remaining chloroplast was used in the rest of the experiment. There were 4 treatment groups in the experimental design: Dark, light + detergent, light and light + salt. Both the dark and light + detergent groups act as the negative controls with light acting as the positive control. The light + salt group is the experimental treatment. Three test tubes were replicated for each treatment group to ensure quality data collection was be obtained. A blank was created for use in the spectrophotometer containing just water and 100mM phosphate reaction buffer. The dark group contained water, 130mM DCPIP, and the reaction buffer. The light + detergent group contained water, DCPIP, reaction buffer and detergent (Triton X-100). The light group contained water, DCPIP and reaction buffer. Finally, the light + salt group contained DCPIP, reaction buffer and 1.4M saline. The absorbance for the solutions was measured using a spectrophotometer set to 420nm. Each test tube absorbance was measured at time zero and then immediately placed into its treatment condition. The absorbance’s were read again at 10, 20 and 30 minute intervals, being placed back into the treatment conditions after each reading. The percent change in absorbance for each treatment group was calculated and one tailed unpaired t-tests were run on each. A q-test was also run on the light + detergent treatment group to determine if there was an outlier in the data.
+
+
+Results:
+The mean percent change in absorbance for our light group was 18.36 compared to 2.53 for our experimental group, light + salt. A one tailed unpaired t-test was run for the percent change in absorbance between the light and light + salt treatment groups for 10, 20 and 30 min intervals. At 10 min, p=0.0085 (=0.05) (t=4.82) (df=4) showing the difference to be statistically significant with p<0.05. At the 20 min interval, p=0.0073 (=0.05) (t=5.04) (df=4) showing the difference to be statistically significant with p<0.05. Finally, at the 30 min interval, p=0.0086 (=0.05) (t=4.81) (df=4) also showing the difference to be statistically significant with p<0.05. A q-test was run at each time interval for the light + detergent group as visual inspection of the data showed a possible outlier. For each time interval, Qexperimental>Qcritical (1.0>0.97), showing that there was in fact an outlier in the data.
+
+
+Discussion:
+Our overall goal in performing this experiment was to evaluate the effects of salinity on the process of photosynthesis. We were curious to see if electron transport in the thylakoid membranes would be interrupted or stopped due to the presence of Na+ and Cl- ions in solution. This interruption, we hypothesized, could have possibly fatal effects on the plant as a whole. In fact, in a previous study it was found that salt stress led to an accumulation of NaCl in the chloroplast of plants. This accumulation was found to be associated with a decrease in the photosynthetic electron transport activity in photosynthesis [Sudhir et al.: 2004]. In our experiment we found the same principal to be true. Through statistical tests we were able to observe a very statistically significant difference between our positive control, light, and our experimental group of light + salt. This points to the conclusion that there is in fact a negative effect of salt on the process of photosynthesis. This is also consistent with our original hypothesis. This can also be seen graphically in Figure 1. While most of our collected data was consistent among the different treatment groups, our light + detergent group showed some significant variation. A q-test was run to statistically determine whether or not an outlier was present. It did in fact show an outlier in our second test tube for light + detergent at all three time intervals. This most likely occurred from an error in the measurement of our solution components. Specifically, there was most likely not enough detergent added to this tube along with excess chloroplasts. This would result in the abnormally high percent change in absorbance that we observed. In future experiments, a study in a more macro system like a full plant or small group of plants would be logical to see if similar results can be seen when a full plant is exposed to elevated salinity levels. Also acting as a comparative study, testing plants with mutations that make them resistant to NaCl buildup should be done. The everyday implications of elevated soil salinity are far reaching although not always obvious. In fact, a 2000 study found that salinity is the major environmental factor limiting plant growth and productivity [Agastian et al.: 2004]. Simple activities like salt spreading in winter conditions to more complex systems of pollution can all have an equally expensive and meaningful impact on their environments. This calls for more investigation into solutions for this problem that has the potential to affect agriculture systems across the globe.  
+
+
+Literature Cited:
+Sudhir P, Murthy SDS. 2004. Effects of salt stress on basic processes of photosynthesis. Photosynthetica. 48. 481-486.
+
+Agastian P, Kingsley SJ, Vivekanandan M. 2000. Effect of salinity on photosynthesis and biochemical characteristics in mulberry genotypes. Photosynthetica. 38. 287-290.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-26+at+4.10.43+PM.png&Size=64160&Type=image%2Fpng&F=F_cH10YyookG3Vqx7
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Graphical display of averge percent change in absorbance for 4 tretament groups at 10, 20 and 30 minutes intervals
+
+*************************************************************************

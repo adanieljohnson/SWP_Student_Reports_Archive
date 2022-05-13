@@ -1,0 +1,45 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-01 18:32:31
+Author of this lab report is: Std_SCUEwY3I
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The effect of calcium channel activator on the gastrocnemius muscle twitch of the Rana Pipien frog
+
+Abstract:
+The purpose of this experiment was to design and execute an experiment to test the effect of calcium activator on the gastrocnemius muscle twitch of the Rana Pipien frog. We chose to use a calcium channel activator. We predicted that its effect on the acetylcholine (Ach) release would decrease the twitch threshold. Using three different frogs, we used each as control and experiment. We first measured the twitch threshold of the frog without the added calcium activator, we then injected 0.2ml of calcium activator and measured the threshold after stimulation. Our hypothesis was somehow confirmed as we could see less of an increase in the threshold of the experimental groups relative to the control groups. However, the results of this study were not statistically significant as the p value was not less than 0.05. More data is needed in order to fully confirm our hypothesis.
+
+Introduction:
+The objective of this experiment was to observe the effect of calcium activator on the muscle twitch. The organism used in this experiment was the Rana Pipiens (Northern Leopard frog). The frog was a good model organism for this experiment as it is large and once dissected, its muscle and nerve are easy to determine and manipulate. Its muscle fiber can also twitch for a long time in “the absence of extracellular calcium” meaning that long after the frog is dead, the muscle can still stitch when stimulated (Belanos, 1984). We predicted that by injecting calcium into the frog’s leg muscle called the gastrocnemius muscle, its twitch threshold would decrease. We considered the process of a muscle contraction: The cell causes the muscle contraction with an action potential in two major steps once it hits its threshold; first, the cell depolarizes and then, the cell hyperpolarizes. An action potential is triggered by a change in membrane potential which happens when sodium is released into the cell through the voltage gated sodium channels, following their concentration gradient and causing the cell to depolarize. These channels open when a stimulus hits the neuromuscular junction and releases Ach that bind to the receptors and opens the voltage-gated sodium channel while the potassium voltage gated channels are closed. The cell hyperpolarizes when the sodium voltage gated channels close and potassium voltage gated channels open. This causes negatively charged potassium ions to exit the cell, following their electrical gradient, and hyperpolarizes the cell to eventually go back to its resting potential (Johnson, 2017). A muscle cell contains myofibrils that are composed of multiple sarcoplasm where muscle contraction happens. When an action potential is triggered, the calcium flows into the cytoplasm of the myofibril, binds to the troponin and exposes the myosin receptor of the actin. Myosin then binds to the actin and releases Pi. This causes the myosin head to bend and push the actin which makes it slide by and the z line get closer to one another, this is called a power stroke. At the end of the power stroke, the ADP of the myosin head becomes an ATP which separates the myosin head from the actin and put it back into its normal shape. (Johnson, 2017) We predicted that the calcium activator would decrease the twitch threshold as the calcium channels would be opened by the calcium activators causing an influx of positively charged ions, resulting in the depolarization of the cell. 
+
+Materials and Methods:
+First, the frog’s skin was taken off of the frog’s leg to uncover the Gastrocnemius muscle and sciatic nerve. It was important that the frog’s leg was kept moistened with Ringer’s solution all along the experiment. For better manipulation of the nerve, the inner-thigh muscles were separated to let the sciatic nerve appear, looking like a thin white strip. The nerve was handled very carefully, as contact with metal could easily traumatize it. The gastrocnemius muscle is located at the back portion of the lower leg (by the frog’s calf) and for a better manipulation of it, it was separated from the frog’s leg with scissors right by the frog’s ankle, leaving the ankle. One end of a string was then tied around the muscle and the other end to a hook enabling the elevation of the previously detached ventral side of the thigh muscle. The non-elevated part of the frog’s leg including the thigh, the joints and ventral portion of the lower leg was pinned down onto the pad to maintain the organism during experimentation. Once the frog’s leg was in place, we placed the C-BNC-N2 around the sciatic nerve and stuck electrodes into the gastrocnemius muscle. We then activated the stimulator control panel and gradually increased the stimulus frequency until threshold. For the treatment group, we did the same procedure while injecting 100 nm of calcium channel activator into the muscle with a syringe. The 5.0mg of calcium was dissolved in 10ml of ethanol. The statistical test we used was a paired t-test. 
+
+Results:
+The figure showing our experimental results shows that, as the control group’s twitch threshold increases, the experimental group’s stays the same no matter the stimulation. We used a paired t-test that in which the t-value was of 1.511858, degrees of freedom of 2 and the p-value of 0.269703. Since the p value is not less than 0.05, our results were not significant.
+
+Discussion:
+The trend observed in the data is that in the experimental group, the twitch threshold increases less relatively to the control group. Therefore, our data cannot yet confirm our hypothesis. To truly confirm our hypothesis, we would need more data and a clear increase for the experimental group. So far, our results are not statistically significant. 
+Because we injected calcium, we assume that there was more calcium in the experimental group which made the cell muscle contractions more numerous and the threshold for its twitch lower. When is it released into the muscle, the DHP and ryanodine receptors can release the calcium into the cytoplasm which enables the muscle to contract. Some possible error in the experiment was that the frog legs could have been fatigued for twitch because each frog is used for control and experimental. Another could be that the three frog legs used could have been different in size which could have an effect on their muscle movement or nerve sensitivity. For the experiment to be more exact, we could have also compared the effects of calcium as an action potential activator with a different activator-chemical’s effect.  Another report done on muscle interaction between action potential activators and inhibitors can be compared to our study as it researched on the effect of excitation and depression of the muscle contractions. The experiment was done on Crayfish but can be compared to ours since it is the same neuromuscular process. Like in our experiment, they observed the release of Ach crossing the synapse for action potentials (DeMill & Delaney, 2005). When compared our experiment to the one on the interaction between facilitation and presynaptic inhibition, we should consider that we focused on the excitation of it synapse whereas DeMill’s experiment compared the activators and inhibitors regulating the receptors. 
+
+
+Literature Cited:
+- Bolaños, P., Caputo, C., Velaz, L. March 21, 1984. Effects of Calcium, Barium and Lanthanum on Depolarization-Contraction Coupling in Skeletal Muscle Fibres of Rana pipiens. 370, (39-60) 
+- Johnson, A.D. Spring 2017. Unit 3: Neuromuscular Control. Bio 114: Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC (53-64).  - - DeMill, Colin M., and Kerry R. Delaney. “Interaction between facilitation and presynaptic Inhibition at the Crayfish Neuromuscular Junction.” Journal of Experimental Biology, The Company of Biologists Ltd, 1 June 2005.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chart.png&Size=13558&Type=image%2Fpng&F=F_cOSlHrH0wfes4i9
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig. 1: This table shows the data from the three trials: The first one shows no difference between control and experimental group. The second and third bars show that the experimental groups stay constant compared to the threshold of the control groups which increase. 
+
+*************************************************************************

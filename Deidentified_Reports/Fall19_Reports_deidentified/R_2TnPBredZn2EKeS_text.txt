@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-29 18:29:00
+Author of this lab report is: Std_CJLhcOKQ
+ID: R_2TnPBredZn2EKeS
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: Soap Inhibits Photosynthesis in isolated Chloroplasts of S. oleracea
+
+Abstract:
+We hypothesized that unaffected isolated chloroplasts would perform photosynthesis at a significantly greater level than those treated with soap in S. oleracea. Photosynthesis is an important mechanism used by plants to generate energy and supply the atmosphere with oxygen. Chloroplasts are the factories of this process. By isolating them via centrifuging, two conditions (with and without soap) were measured on their absorbance, whereas added DCIP appears clearer when electron transfer of photosynthesis occurs. Over a 30-minute interval, data showed that there was a significant difference between the two conditions. Soap recorded relatively stable absorbance, equating a low percent change. Without soap dropped in absorbance and thus gave a large percent change. Further research should be conducted to apply soap to many facets of plant function. 
+
+Introduction:
+Photosynthesis is the fundamental basis for plant energy supply. Its implications range beyond them however, as Oxygen, vital to the world’s ecosystem, is the end product. Carbon Dioxide, a harmful chemical to most living animals, is taken up as the essential beginning component. Light is the principle driving force of this transformation. Humans rely on plants as a vital food source, where understanding plant health is important for increasing food production. Commercially, maximizing the efficiency of farming lowers costs and increases supply, thus it is critical that humans understand photosynthesis as a key component for plant health, thereby knowing what is harmful. 
+	Chloroplasts are the essential organelle responsible for photosynthesis, that initially evolved by an ancient eukaryotic host taking up a prokaryotic cyanobacterium [Pfannschmidt: 2003]. They importantly contain optimal structural properties for light harvesting. This allows for energy supply, which is needed for redox reactions that occur in the chloroplast and drive towards the end products of ATP and Oxygen [Allen: 2001]. Therefore, rendering the chloroplasts ineffective would result in the inability of energy consumption and cause the plant to die. 
+Soap is a household item used for killing bacteria and viruses to keep humans from getting sick. What if such a universally used compliance could be harmful to plants? Similar experiments have been conducted to test how common added unnatural components effect photosynthesis, such as herbicide [Hirschberg: 2014]. S. oleracea (Spinach) is a popular food across the world and easily accessible and usable, therefore making it the perfect model organism for testing. We hypothesized that when comparing unaffected isolated chloroplasts to those doused in soap, the latter would show significantly less evidence of photosynthesis.
+
+Materials and Methods:
+Store bought S. oleracea was kept in a refrigerator before being used for this experiment. A mortar & pestle, medium beaker, and two 50mL centrifuge tubes containing DCIP and cold grinding buffer were stored on ice prior to the experiment. We selected 4 large leaves and removed the stem and all large veins before drying and placing them into the mortar. After adding roughly 10mL of buffer, they were ground to a paste. Next, another 10mL of buffer was added and mixed before straining the liquid through a cheese cloth into the chilled beaker in order to remove any possible solid reside from the grinding. The remaining liquid was transferred to a centrifuge tube and spun at 200xG, 4°C for 3 minutes. The supernatant was transferred into a new centrifuge tube, making sure to leave debris at the bottom, and spun again at 1000xG, 4°C for 10 minutes. After, all product was removed except the pellet located at the bottom of the completed centrifuge capsule. 20mL of buffer was added to the pellet.
+	7 large test tubes were labeled as: 1 blank, 3 normal, and 3 soap. At this point, we turned on the spectrometer and set it to 600nm. Solutions were added to each tube as follows: The blank received 8mL water and 2mL reaction buffer. The 3 normal received 6mL water, 2mL 130mM DCIP, 2mL reaction buffer. The three soap conditions received 5mL water, 2mL 130mM DCIP, 2mL reaction buffer, 1mL soap. .1mL were added to each test tube, including the blank.
+	The contents of each tube were poured into corresponding, labeled cuvettes and absorbance was recorded, following setting the blank. All cuvettes were placed under a lamp. Re-blanking and absorbances were recorded every 10 minutes for a total of 30 minutes. We recorded percent change along with absorbance at each time interval and performed a two-tailed t test in order to determine significance between the soap and non-soap condition.
+
+Results:
+The data shows high percent change for the group with no soap, and low for those with soap. Three samples were used for each condition, so as to increase accuracy of results. Statistical tests were run at a 0.01 confidence for both measured absorbance (.00861&lt;0.01) and percent change (4.67E-6&lt;0.01). Degrees of freedom was set at 4. As indicated in figure 2, both of these values are statistically significant, whereas absorbance and percent change without soap recorded significantly larger values than the soap condition, per figure 1.
+
+Discussion:
+The statistical significance of the no soap condition having a larger percent change and absorbance than with soap suggests that some aspect of soap result in deactivation of the chloroplasts, so as to inhibit photosynthesis from taking place and causing the DCIP to allow for more visibility. This supports our initial hypothesis. 
+A major ingredient of soap is detergent, which has been implicated in causing extensive changes in photosynthesis [Branislav: 2010]. Specifically, they suggest that it causes “damage of the donor part of photosystem 2 in isolated chloroplasts.” This proves consistent with our results and implies that the detergent levels in the soap used were high enough to cause deactivation of photosynthetic processes, which would explain the low absorbance readings. Further studies should be conducted with soap to measure its range of effects on plants, such as with nutrient uptake, growth, and flowering.
+Soap is a household item adopted around the world by humans to inhibit the spread of disease. Its use is commonplace. The significance found in this study suggests caution when producing and disposing of soap, so as not to disrupt with plant life. Much discussion surrounds climate change and what we humans can do to lessen our disruptive footprint on this world. Certainly, scientific insight into this subject is needed to understand exactly how we might be harmful and what we can do to be mindful of it.
+
+Literature Cited:
+1. Pfannschmidt, T. (2003). Chloroplast redox signals: how photosynthesis controls its own genes. Trends in plant science, 8(1), 33-41.
+2. Allen, J. F., & Forsberg, J. (2001). Molecular recognition in thylakoid structure and function. Trends in plant science, 6(7), 317-326.
+3. Jovanic, B. R., Bojovic, S., Panic, B., Radenkovic, B., & Despotovic, M. (2010). The effect of detergent as polluting agent on the photosynthetic activity and chlorophyll content in bean leaves. Health, 2(05), 395.
+4. Hirschberg, J., Bleecker, A., Kyle, D. J., McIntosh, L., & Arntzen, C. J. (1984). The molecular basis of triazine-herbicide resistance in higher-plant chloroplasts. Zeitschrift für Naturforschung C, 39(5), 412-420.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.jpg&Size=17587&Type=image%2Fjpeg&F=F_1lgINMgnhcGzsLc
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+5.37.35+PM.png&Size=27232&Type=image%2Fpng&F=F_3EARMNQ60aQH3JB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average Absorbance is plotted with average % change. Absorbance without soap appears to have more percent change and smaller absorbance with time. Error bars are set at +/-
+1.
+Figure 2: A Two sample, two-tailed T test was performed for the 30 minute measurements. Both p values are statistically significant at &lt;.01.*************************************************************************
+
+
+

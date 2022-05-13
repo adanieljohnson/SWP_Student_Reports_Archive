@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-28 23:38:04
+Author of this lab report is: Std_R60xtZKf
+ID: R_32KIpbAWw78kmRC
+Course number: BIO102L
+TA: TA_9XefORUv
+*************************************************************************
+Title: The effects of low salinity on the activity of photosystem II in Spinacia oleracea 
+
+Abstract:
+Our experiment tested the effects of slightly increased salinity on the photosystem II activity in Spinacia oleracea chloroplasts. Research performed on spinach and other plants in the past had found a threshold at which increasing salinity began to decrease PS-II activity, and our experiment sought to verify the possibility of increasing PS-II through testing photosystem II activity at a concentration of salt below this threshold. Our hypothesis is that low salinity levels will statistically significantly increase PS-II activity. By use of DCIP to react with P-680 as an electron donor, we were able to compare decreases in absorbance for a group of chloroplasts with and without slightly increased salt. We found the chloroplasts in slightly increased salt had a significantly elevated percent decrease in absorbance and thus PS-II activity. This would support the claim and previous research detailing the threshold at which salt begins to decrease PS-II activity.
+
+Introduction:
+This experiment explored the effects of environmental conditions on the activity of photosystem II. Photosynthesis is an incredibly important process for plants, and chloroplasts allow them to convert photon energy into chemical energy stored in glucose bonds. This process is split into two main categories: the light-dependent reactions that provide a source of high energy electrons and the Calvin cycle that produces the final glucose molecule. Our experiment focused on the light-dependent reactions that take place in the Thylakoid membrane, specifically focusing on Photosystem II. The properties of Photosystem II have been well documented in the past, and this system is a series of membrane proteins that serve as an electron transport chain for high energy electron excited from the P-680 pigment in the Hill Reaction [Barber: 2002]. Moreover, Photosystem II also produces waste oxygen from water splitting reactions to supply the P-680 pigment with electrons [Barber: 2002]. While many pesticides use foreign chemicals to inhibit the activity of PS II and kill the target plant, we sought to investigate the effects of natural environmental conditions, namely salt upon the effects of PS-II. Previous research has indicated that low levels of salt stress, ranging from 50 to 400mM, increase the activity of PS-II [Baker 1978] while further elevated concentrations, inhibit the activity of PS-II [Sudhir 2004]. We investigate the effects of low concentrations of salt upon the photosystem II activity of isolated Spinacia oleracea chloroplasts, and we were able to use 2,6-dichlorophenol indophenol (DCIP) levels as a proxy measure of PS-II activity since it can serve as an alternate reactant for the Hill Reaction to supply the pigment with electrons. Our hypothesis is that low concentrations of NaCl would increase the activity of Photosystem II. 
+
+Materials and Methods:
+To start, we isolated chloroplasts from five spinach leaves. After grinding them with mortar and pestle in grinding buffer, strained out the chloroplasts suspended in grinding buffer from various more solid, large waste. We then performed various centrifugations until we were able to isolate the best condition of a high chloroplast, low debris density as determined in a previous lab via a hemocytometer. 
+Our control group was three test tubes with Hill Reaction buffer, water, chloroplasts, and DCIP (Table 1). Our treatment group was three test tubes containing Hill Reaction buffer, water, DCIP, and 0.1M NaCl (Table 1). We also made a blank with Hill Reaction buffer and water to blank the spectrophotometer and two negative controls, both without chloroplasts but one with 0.1M NaCl (Table 1). Upon the addition of chloroplasts, absorbance readings were taken at 600nm using a spectrophotometer for all tubes then all tubes were placed in 20214lz light. After 20 minutes, absorbance readings were taken again for all tubes, and the percent decrease in absorbance was calculated for each tube. Since DCIP is split and color is lost when PS-II is active, higher percent decrease in absorbance was taken as a signal of increased PS-II activity. Statistical significance between the percent decrease in absorbance of the control group and that of the treatment group was calculated via a two-sample, independent t-test. 
+
+
+Results:
+The mean percent decrease in absorbance of 600nm light over 20min was 17.2% for the control group with a standard deviation of 3.31%. The mean percent decrease in absorbance of 600nm light over 20 minutes was 62.2% for the treatment group in 0.1M NaCl, and the standard deviation for this group was 6.72%. Moreover, we found that the chloroplasts in 0.1M NaCl did have a significantly higher decrease in absorbance as the two-sample, independent t-test had a P-value of 0.001063, which is less than 0.05 (t-stat= 8.47, d.f.=4, P=0.001063). The percent decrease in the negative controls without chloroplasts and with and without NaCl were both negligible to none. Additionally, Figure 1 shows the difference in these two groups, and given the error bars of ±1 s.d., at least 68% of each data set is displayed without overlap of the two groups (Figure 1). Qualitatively, we observed while both conditions visually started very blue originally, by the end of the twenty minutes, the treatment group of chloroplasts in 0.1M NaCl were noticeably much clearer and visually much less blue. Our empirical absorbance readings verify these observations. 
+
+Discussion:
+Before the experiment, our null hypothesis was that the elevation of the salinity to 0.1M would have no effect on the activity of photosystem II, and our alternate hypothesis is was that the elevation of the salinity to 0.1M would have an effect on the activity of photosystem II. Our results show there was a statistically significant increase in the activity of photosystem II, and so we reject our null hypothesis and accept our alternate hypothesis. Since DCIP, which has high absorbance of 600nm light, can act as an electron donor to P-680 in the Hill Reaction, a larger percentage decrease in absorbance indicates more reactivity of P-680 and higher activity of PS-II as a whole as when DCIP donates its electrons, its distinctive blue color is lost. Our two sample, independent t-test found our results to be statistically significant, and more specifically, we found that the chloroplasts in 0.1M NaCl had significantly increased PS-II activity as compared to the control group. However, these results are supported by past research as well. Low levels of salinity, ranging from 50mM to 400mM have been shown to increase PS-II activity while concentrations above this threshold begin to decrease PS-II activity for spinach leaves [Baker 1978]. Since our salinity concentrations fall below the threshold at which PS-II is inhibited, they would increase the PS-II activity. Certain researchers in the past have posited that elevated cation concentrations will increase hydrophobic interactions within thylakoid membranes, and when low levels of NaCl are added, excitation decay by transfer to associated Chl will decrease, thus increasing total PS-II activity [Knox: 1975]. However, at higher levels of NaCl, radiationless decay of excitation is increased to a point that negates these effects [Knox: 1975]. These results are important for understanding both the chemical mechanisms by which the photosystems operate and for more practical applications of growing these plants. Understanding how environmental factors such as salinity affect the cellular processes of plants will allow farmers to maximize soil conditions and crop yield. Given this past research, it would be useful to further verify these results with a range of NaCl concentrations in the future in order to graph the activity of PS-II along various dosages of NaCl. Alongside this, another logical step would be exploring the effects of various other dissolved ionic compounds on the activity of PS-II to test if they match the observed properties of NaCl.
+
+Literature Cited:
+1. Barber J. 2002. Photosystem II: a multisubunit membrane protein that oxidizes water. Current Opinion in Structural Biology. 15: 523-530
+2. Baker NR. 1978. Effect of high cation concentrations on photosystem II activities. Plant Physiology. 62: 889-893.
+3. Sudhir P, Murthy SDS. 2004. Effects of salt stress on basic processes of photosynthesis. Photosynthetica. 481-486.
+4. Knox, RS. 1975. Excitation energy transfer and migration: theoretical considerations. Bioenergetics of photosynthesis. 183-220.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.PNG&Size=34932&Type=image%2Fpng&F=F_2vhKIVKpQYlXltD
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+1.PNG&Size=10147&Type=image%2Fpng&F=F_3EyuzUAOnu7EJNT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Volumes and Concentrations of Reagents in Samples and Controls
+
+Figure 1: The effects of 0.1M NaCl on the percent decrease in absorbance. The control condition contained and held constant all relevant buffers and concentrations except for 0.1M NaCl. Each bar represents the mean percent decrease in absorbance of 600nm light after 20min in 20214lz light; error bars are ±1 s.d.*************************************************************************
+
+
+

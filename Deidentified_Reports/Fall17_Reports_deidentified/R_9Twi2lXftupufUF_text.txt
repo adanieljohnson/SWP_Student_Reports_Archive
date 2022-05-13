@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 13:34:43
+Author of this lab report is: Std_jSsxCTUm
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The effects of caffeine on the amplitude of the Rana pipiens gastrocnemius muscle
+
+Abstract:
+In this experiment, we looked at the sciatic nerve and gastrocnemius muscle of two Rana pipiens legs. Rana Pipiens, commonly known as frogs in the Anura order, are considered to be the most diverse of the three amphibian orders. Frogs can be found throughout the world, in nearly every region. They are exceptional jumpers with long, powerful legs (Heying 2003). We observed their legs and how caffeine affects muscle contraction. In order to do this, we had to attach the sciatic nerve of the leg to the BNC connector which was linked to a stimulator and computer software (LabScribe). We stimulated the nerve with increasing frequencies in order to observe the amplitude differences. The amplitude is the speed/force of contraction of the leg. Next, we determined the effects of injecting each gastrocnemius muscles with 0.1mL of caffeine, utilizing amplitude testing with the same intervals as the control.  We hypothesized that the caffeine will increase the amplitude of the muscle contraction because previous experiments explore the ergogenic effect of caffeine during exercise (Jenky 1995). We received a very small standard deviation of amplitude for both legs and a P-Value of 0.0422. We concluded from our data and statistical testing, that caffeine increases the amplitude and strength of
+
+Introduction:
+The Rana pipiens is the ideal organism for visualizing muscle contraction because its large gastrocnemius is easy to manipulate. Its muscles are similar to that that of a mammalian muscles (Department 2002). Frogs also have large extensor muscles that they use during jumping. The gastrocnemius muscle, found in the leg, is composed of many muscle fibers. All of these fibers have their own unique threshold (Johnson 21). Threshold is the voltage of a stimulus eliciting a physical response. Not all muscle fibers are stimulated at the same voltage. When voltage is higher than the threshold, more and more fibers are stimulated. Eventually, the fibers will reach a constant stimulation at a certain threshold (Johnson 20). Muscle contraction is an important part of this experiment. Muscle cells are excitable and conduct action potentials. The neurotransmitter acetylcholine is released and binds to receptors in the postsynaptic membrane when an action potential arrives at a neuromuscular junction. Ion channels open in response to the acetylcholine making the cell depolarized. The voltage-gated sodium channels in the muscle fiber are stimulated and opened by this depolarization; sodium rushes in (Johnson 19). The T tubules are also stimulated, causing the conformation of the DHP receptor and the ryanodine receptor to release calcium from the sarcoplasmic reticulum. When the calcium diffuses into the sarcoplasm, the muscle contracts due to the troponin. 
+We will be using software to determine the amplitude, difference in voltage, between frogs with and without caffeine.  Caffeine is a natural stimulant often found in beans and leaves. For hundreds of years, people have created drinks using caffeine in order to feel more “awake” and “alert.” Caffeine can be consumed in energy drinks, coffee, tea, etc. It is a legal, unregulated, psychoactive substance that is becoming more and more popular around the world. Because of this, we believe that caffeine not only affects neurotransmitters and the brain, but it also affects skeletal muscles in the body. Biologically, caffeine causes an dose-dependent increase in release of calcium ions from the sarcoplasmic reticulum (Olorunshola and Achie 2011). The calcium then binds to troponin which, in turn, allow myosin to bind to actin. This process allows the filaments to slide past each other and the sarcomere is shortened. A shortened sarcomere contracts the muscle. 
+We hypothesize that the isolated Frog Sciatic Nerve – Gastrocnemius Muscle will show that the muscle amplitudes are increased when exposed to caffeine. We will attempt to display how our hypothesis was consistent with what actually happened during our experiment by comparing amplitude before and after the injection of caffeine in the gastrocnemius. 
+
+
+Materials and Methods:
+The Rana pipiens was degloved. We moistened the leg with frog Ringer’s solution periodically to keep it from drying out. The sciatic nerve was then exposed. We tied a string tightly to the top of the leg, close to the Achilles tendon. Then we looped the string onto the hovering hook so that the gastrocnemius muscle is stretched vertically. Then, we laid the nerve on the electrodes. We put the BNC connector of the sleeve electrodes attached to the BNC-banana adapter on the stimulator output of the IWX/214. We found the threshold. The frequency (F(Hz)) was set at 2 Hz, the number of pulses to zero, the pulse amplitude to the threshold, and the pulse width at 5ms. We recorded until we saw the effect of stimulating at a certain frequency. We recorded 5s for stimulus frequencies of 2, 4, 5, 10, 25, 50, and 100 Hz. We injected the same leg with 0.1mL of caffeine and waited 5-10 minutes. Then we repeated the same process as above now that the leg had caffeine. To statistically test the data, we ran a two-sample T-Test so we could compare the means of both legs.
+
+Results:
+A T-Test resulted in a P-value of 0.0422. As one can see, the general trends in both legs are that of increasing amplitude with the caffeine treatment. The treated legs have an amplitude nearly double of the untreated. The amplitude average of both legs display this. Physically, we observed that the treated legs felt very hard and swollen.
+
+
+Discussion:
+Between the raw data, averaged data, statistical test and physicality of the frog legs with caffeine, we can say with confidence that caffeine increased the amplitude and strength of the contraction of skeletal muscles in the frog leg. For every interval in both Rana pipiens legs, the treated legs had higher amplitudes. The caffeine did have an effect on the gastrocnemius muscle of the Rana pipiens. Our hypothesis was supported in this experiment. Caffeine is widely consumed because it can act as a stimulant. In this study, we found that a large dose of caffeine increases the force of contraction. This partially explains why people claims they feel “the jitters” after drinking caffeine; their muscles are contracting with higher amplitudes. After running statistical tests, we found a P-value of 0.0422 which means the difference is significant and the null hypothesis is not accepted. For our experiment, we only used two legs because the third leg’s sciatic nerve was damaged. In the future, it would be best to use more legs because the data collection would be greater. 
+
+
+Literature Cited:
+(1)	Department of Biology, Leidy Labs, University of Pennsylvania, 2002. The design of vertebrate muscular systems: comparative and integrative approaches [Internet]. [Cited 2017 Oct 13]. 
+
+(2)	Heying, H. 2003. Anura [Internet]. Animal Diversity Web. [cited 2017 Oct 13]. 
+
+(3)	Jenky 1995. Caffeine and the athlete [Internet]. Rice University. [cited 2017 Oct 10]. 
+
+
+(4)	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 19-21.
+
+(5)	Olorunshola, K, Achie, LN. 2011. Caffeine alters skeletal muscle contraction by opening calcium ion channels [Internet]. Maxwell Scientific Organization. [Cited 2017 Oct 13]. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+final+table.png&Size=27576&Type=image%2Fpng&F=F_1YpvYCIkKcBMNZX
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The treated and untreated averages of legs one and two. The error bars indicate a very small standard deviation.
+
+
+*************************************************************************

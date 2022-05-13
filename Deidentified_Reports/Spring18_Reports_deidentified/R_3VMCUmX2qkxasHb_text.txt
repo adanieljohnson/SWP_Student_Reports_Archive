@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-03-13 20:43:15
+Author of this lab report is: Std_hDTedbWB
+ID: R_3VMCUmX2qkxasHb
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effect of Azamax on the Growth of Manduca sexta
+
+Abstract:
+The juvenile and ecdysterone hormones are known to impact the physiology and behavior of the Manduca sexta though chemical signals. When either hormone is disrupted or inhibited, the organism is subjected to developmental change. It is hypothesized that if Manduca sexta were given an ecdysterone inhibitor, Azamax, then the insects will develop and molt at an inefficient rate compared to those left untreated. Eight caterpillars were divided into two groups of four. Four caterpillars were given control food and seven drops of Azamax daily, while the other four caterpillars ate a standard diet. A one-tailed, two-sample t-test was conducted to compare the growth and development between the control and treatment groups. The experimental group displayed limited and slowed physiological growth in comparison to the control. The percent difference in weight between the two treatment groups increased by just above 60% over the course of the study. This data coincides with previous assumptions that the presence of ecdysterone is critical to the development of the Manduca sexta. 
+
+Introduction:
+Hormone signaling regulates insect physiology and development. Manduca sexta, the tobacco hornworm, exhibits a holometabolous life cycle, using hormones to initiate and regulate metamorphosis throughout a timed life cycle [Johnson: 2018]. The caterpillar molts from various instar larva to pupa and finally into an adult moth within 48 days. This molting is initiated and controlled by chemical signals, hormones, that are received within the brain. Sensory information is processed and an output signal, via another hormone, is sent to a target organ or tissue. The particular hormones found within tobacco hornworms are known as ecdysterioids, and govern metamorphosis through both juvenile hormone (JH) and ecdysterone hormone (20E). These two hormones are the primary signaling molecules responsible for developmental, behavioral, and physiological change, although there remains much to study about these actions. Juvenile hormone is known to regulate the type of molt, and is typically present during larval life to allow growth and progression from one life stage to the next until the insect reaches an appropriate size for metamorphosis [Nijhout: 1974]. Ecdysterone hormone is known to primarily orchestrate the timing of the molting. When the normal activity of these hormones is disrupted, the caterpillar will likely display irregular development. If either hormone is eliminated entirely, the insect will likely die. Manduca sexta is an ideal model organism to study the effects of these hormones in due to the ease of study during the organism's developmental stage. This insect has been used in a variety of previous studies that have looked at hormone concentrations and their correlation to physiological effectiveness. The caterpillar can be easily weighed or measured in length to track, with a relatively high assurance of accuracy, whether the hormones are promoting or inhibiting the growth. It is known that the brief absence of JH will initiate metamorphosis, and is not responsible for changes in timing of metamorphosis [Riddiford: 2003]. Prior studies have looked at tissue samples from Manduca sexta treated with 20E in excess and when it was inhibited. These tissues underwent study for ten months. The tissues given added dosages of 20E underwent morphogenetic changes similar to those tissues left untreated. However, when tissues were given a hormone to inhibit 20E, development of the insect was halted [Judy: 1971]. Further research conducted on 20E is needed to confirm these findings. Based on published material on the Manduca sexta, we hypothesize that if given an ecdysterone inhibitor, Azamax, the insects will develop and molt at an inefficient rate compared to those left untreated.
+
+Materials and Methods:
+Eight Manduca sexta of similar development were selected for the study. Four received an ecdysterone inhibitor (Azamax), while the other four acted as a control for statistical comparison. The caterpillars were paired by control and treatment group, and placed into four habitats. The containers contained dividers to separate the pairs. The insects were fed and monitored daily for eight days. Every day, the habitats were cleaned and replenished with food. Each caterpillar received 10 grams of "control" food. Seven drops of Azamax was added to the control food of the treatment caterpillars. Before each feeding, all the caterpillars were weighed and documented as a means of tracking growth. All Manduca sexta habitats were stored in the same incubator. A one-tailed, two-sample t-test was conducted to compare the growth and development between the control and treatment groups. This allowed for the study of potential effects of the ecdysterone inhibitor and importance of the 20E hormone. 
+
+Results:
+The experimental group, treated with Azamax, displayed reduced growth, as measured by weight, over the period of study. There was a statistically significant difference in the average weight, measured at the end of the study, between the control treatment group and the experimental treatment group (p-value=0.006,  =0.05). This difference in average weight can be attributed to the later days of the study, in which the experimental treatment group displayed reduced growth, in weight, compared to the control treatment group (Fig. 1). In fact, the percent difference in weight between the two treatment groups increased by just above 60% over the course of the study (Fig. 2).
+
+Discussion:
+As predicted, the group of Manduca sexta that received the ecdysterone inhibitor demonstrated limited and slowed physiological growth compared to those that consumed a controlled diet. This can be attributed to the accepted knowledge that the presence of the 20E hormone is crucial to the timing and speed of insect growth [Judy: 1971]. A noticeable difference of growth between each day allowed this conclusion to be made. Without of the presence of ecdysterone, the caterpillars were significantly smaller in size because the inability to continue the molting developmental process. Had the study continued further, it is likely that the development of the treated caterpillars would plateau and they would eventually die. Additional study in this field may include the removal of the JH hormone or 20E in increments over a longer time period. The study of hormones in Manduca sexta is significant due to their presence in the environment. The Manduca sexta are pests in the larval stage, hence, if ecdysterone promotes growth, adding it to their environment would reduce their time as pests. On the other hand, if a chemical was added to the environment to block the 20E hormone, one would be able to remove them as pests. 
+
+Literature Cited:
+Johnson. "Comparative Physiology Bio 114 Laboratory Manual". 18.1 ed., 2018.
+Judy, Kenneth J., and Edwin P. Marks. "Effects of Ecdysterone in Vitro on Hindgut and Hemocytes of Manduca Sexta (Lepidoptera)." General and Comparative Endocrinology, vol. 17, no. 2, Oct. 1971, pp. 351-59. ScienceDirect, doi:10.1016/0016-6480(71)90145-6.
+Nijhout, H. Frederik, and Carroll M. Williams. "Control of Moulting and Metamorphosis in the Tobacco Hornworm, Manduca Sexta (L.): Cessation of Juvenile Hormone Secretion as a Trigger for Pupation." Journal of Experimental Biology, vol. 61, no. 2, Oct. 1974, pp. 493-501.
+Riddiford, Lynn M., et al. "Insights into the Molecular Basis of the Hormonal Control of Molting and Metamorphosis from Manduca Sexta and Drosophila Melanogaster." Insect Biochemistry and Molecular Biology, vol. 33, no. 12, Dec. 2003, pp. 1327-38. ScienceDirect, doi:10.1016/j.ibmb.2003.06.001.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.jpg&Size=20053&Type=image%2Fjpeg&F=F_abEmsjeE8RtwGwd
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure2.jpg&Size=22832&Type=image%2Fjpeg&F=F_a8Wi0GtkPcvNMhv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 - Weight (g) is shown as a function of the day of measurement. Values displayed represent the average weight of the four individuals within each treatment group. Error bars represent the standard deviation of the four individuals within each treatment group. Days of measurement begin on Friday (1) and extend to the next Thursday (7). 
+
+Figure 2- Percent difference in weight is shown as a function of the day of measurement. Values displayed represent the percent difference between the two treatment groups. Percent differences between the two groups increase as the study progresses. Days of measurement begin on Friday (1) and extend to the next Thursday (7). Average control standard deviation by day is: Friday- 0.270g, Saturday- 0.880g, Sunday- 1.17g, Monday- 0.958g, Tuesday- 1.38g, Wednesday- 1.27g, and Thursday- 0.316g. Average treatment standard deviation by day is: Friday- 0.0740g, Saturday- 0.290g, Sunday- 0.412g, Monday- 0.388g, Tuesday- 0.110g, Wednesday- 0.196g, and Thursday- 0.316g.
+
+*************************************************************************

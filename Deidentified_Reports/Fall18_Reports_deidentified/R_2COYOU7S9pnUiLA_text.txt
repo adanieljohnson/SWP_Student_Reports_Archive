@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 17:54:09
+Author of this lab report is: Std_FQz2U6TV
+ID: R_2COYOU7S9pnUiLA
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effect on Amplitude of twitch of Rana Pipiens by added injected caffeine into the leg muscle
+
+Abstract:
+The contractions of muscles is regulated by a chain reaction. Beginning with an action potential that elicits several step by step reactions and ends with the actin and myosin in muscle cells to slide past each other. If enough sliding occurs a muscle contraction will ensue. Previous research has shown that caffeine can have the potential in increase the strength of a muscle contraction. Based on the effect caffeine had on one contraction; we predict that 0.1 mL of 200mM injected caffeine in a frog leg muscle will have a higher average amplitude of twitch in 5 consecutive muscle contractions than a frog leg muscle with no caffeine added. We tested three frog legs, first we found their threshold for a contraction. Then we added .5V to that amplitude and proceeded to shock them with 5 pulses no caffeine then 5 pulses with caffeine. Our data supported our hypothesis and based on the paired t-test we ran, our results for the average increase in amplitude of the twitch control vs. the experimental were statistically significant. This conclusion came from our calculation of P-value with a 95% confidence interval utilizing the t-test. Biologically speaking since the caffeine stimulates the opening of ion channels it has a positive effect on the strength of a contraction.
+
+Introduction:
+Muscle contraction is occurs when to the actin and myosin filaments break and form which causing them to move past each other. For this to occur action potentials must be generated and arrive at a neuromuscular junction which in turn prompt action potentials in the muscle cells. This results in the release of Ca2+ ions located in the sarcoplasmic reticulum of the cell. Ca2+ is vital to muscle contraction because it binds to troponin a protein found in muscle cells. When this binding occurs it changes the conformation of troponin, which in turn exposes the myosin-binding sites on the actin giving way for the actin and myosin to slide past each other and induce muscle contractions. This cycle of actin and myosin interactions continues as long as there is ATP to promote the movement of the proteins. Previous research done on Rana pipiens, frogs, has shown that caffeine at varying levels can significantly affect the strength of a contraction. A study in particular showed that the concentration of caffeine between the 15-25 mg/mL significantly increased the strength of a contraction [Olorunshola: 2011]. However, we were interested in seeing how caffeine, a nerve stimulator, would be consistent and still have and increased strength of twitch after multiple contractions. Based on the effect caffeine had on one contraction; we predict that 0.1 mL of 200mM injected caffeine in a frog leg muscle will have a higher average amplitude of twitch in 5 consecutive muscle contractions than a frog leg muscle with no caffeine added. 
+
+
+Materials and Methods:
+We first prepared our frog legs.The process involved removing the skin of the frog leg with forceps. Then separating the inner thigh muscles in the frog leg which reveals the sciatic nerve. Our starting parameters for our myogram were as followed; Pulse Amp: 0 V, Number of pulses: 1, Frequency Hz: 1, Pulse width: 5 ms. We then determined the twitch threshold by direct stimulation of the muscle. We would shock the frog leg, if no contraction was seen we increase by .05V and shocked again. We repeated this until we observed a contraction. This was the preliminary step for each of the frog legs. We then added .5V to the frog legs threshold amplitude and changed the parameter of the myograms to; Pulse Amp: (Threshold + .5V), Number of pulses: 5, Frequency Hz: 1, Pulse width: 5 ms. Then we pressed fire and watched the myogram to ensure 5 contractions appeared, this was our control. Then we kept the myogram recording and injected 0.1ml 200mM caffeine into the frog leg muscle. After the caffeine was injected we shocked the frog again and 5 more contractions occurred. We recorded the difference in voltage for each contraction in the control and the experimental, getting a total of 10 contractions per frog leg, 5 in each. We then repeated these step for legs 2 and 3. We ran a paired t test on the average of the control vs experimental for each frog leg to determine if our results were statistically significant based on the 95% confidence interval. 
+
+
+Results:
+Our data showed a higher average amplitude of twitch in our experimental group compared to our control group in all three frog legs. We ran one paired t-test on on Fig.1 which showed that our results for the overall increase in amplitude of twitch were significant. Our statistical test showed (t-stat =6.49, df =2, P= 0.02). In frog leg 1 the difference in twitch was between the control and experimental was.99 mV. The difference for the second frog leg was 1.16 mV. Lastly, for frog leg 3 the difference was .67 mV. During the experiment we observed chemically induced tetany in the myogram after the caffeine was injected. 
+
+
+Discussion:
+Caffeine consumption is very typical present day psychoactive drug found in many food and beverages. Our data supported our hypothesis by showing that caffeine has a higher average amplitude of the muscle twitch over 5 repeated shocks; compared to, the frog leg with no added caffeine. Our paired t test showed that our results were statistically significant. Therefore we can conclude that added caffeine increases the strength of a contraction. Previous research that has been done has allowed us some insight on why this occurs. In our experiment, we observed that after the injection of caffeine, the frog leg went into a state of chemically induced tetany. Tetany is when the muscle undergoes intermittent spasms; this can be caused by an unbalance of ions such as magnesium, potassium and calcium. Research has proven that a main effect caffeine in the muscles cells is that it stimulates the opening of calcium ion channels [Olorunshola: 2011]. This means that when the action potential comes through and opens calcium ion channels to stimulate a contraction, the caffeine is also opening more calcium ion channels. This explains why the contraction is stronger because if more calcium ion channels are opened more calcium is released. The more calcium there is the more calcium available to bind to troponin which allows for the actin and myosin to bind and elicit movement. While our experiment gave good insights to the short term effects of caffeine, ideas for further research can be to study how caffeine affects the muscle contraction over a longer period of time. Instead of having 5 consecutive contractions, increasing to 20 or 30 contractions and seeing how the strength of the contraction changed throughout. 
+
+
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+2. Olorunshola, K. V., & Achie, L. N. (2011). Caffeine Alters Skeletal Muscle Contraction by Opening of Calcium Ion Channels, 3(5), 521-525.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-30+at+11.12.15+AM.png&Size=84954&Type=image%2Fpng&F=F_DpdDLpInpZiqGOJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average amplitude of twitch of 5 pulses in the control versus the experimental leg in the three frogs. The blue represents the control test and the orange represents the experimental test. The error bars represent standard deviation. *************************************************************************
+
+
+

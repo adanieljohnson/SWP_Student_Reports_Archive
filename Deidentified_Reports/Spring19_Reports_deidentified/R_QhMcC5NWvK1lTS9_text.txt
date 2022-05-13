@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-21 14:28:29
+Author of this lab report is: Std_q1bDv1dn
+ID: R_QhMcC5NWvK1lTS9
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The effect of Lidocaine, a sodium channel inhibitor, on the response of the gastrocnemius of the R. pipiens
+
+Abstract:
+In order to contract a muscle, sodium must be released into the neuromuscular junction to signal the action potential of the muscle cell.  Our experiment tests whether inhibiting voltage-gated sodium channels will decrease the response of the gastrocnemius of the R. pipiens.  We hypothesize that introducing lidocaine to the gastrocnemius of the R. pipiens will decrease the response of the muscle to an electrical stimulus.  Our testing found no statistically significant difference between the gastrocnemius response to shock before and after lidocaine was introduced (P = 0.105, t-stat = 0. 2.834, df = 2, α = .05).  However, the contraction was completely inhibited in two of the legs, indicating that the process was successful.  We could not support our hypothesis but recommend further testing with more subjects and stronger stimulus.  More subjects would decrease variability and increased stimulus would create a stronger initial response.  If found to work, Lidocaine can continue to be used in the field of anesthetics, relaxing and numbing muscle response during surgery or injury.
+
+Introduction:
+This experiment evaluates the effect of Lidocaine on muscle response of the leg of Rana pipiens.  The muscle used is the gastrocnemius muscle which receives its signaling from the sciatic nerve [Johnson: 2016].  A muscle is made up of a bundle of cylindrical myofibrils which contain sarcomeres, the mechanism that contracts and relaxes muscles [Johnson: 2016].  To signal contraction, the nerve releases acetylcholine (ACh) into the neuromuscular junction which then opens voltage gated sodium channels [Johnson: 2016].  The influx of sodium into the muscle cell initiates an action potential in the muscle fiber, contracting the muscle [Johnson: 2016].  Without the influx of sodium, the muscles will not release calcium from the sarcoplasmic reticulum, preventing the binding of actin to myosin and the overall contraction of the sarcomere [Gilly: 1996].  Lidocaine, first introduced in 1943, has greatly decreased the use of general anesthetic during surgery, allowing anesthesiologists to control the area of anesthetic [Lin: 2016].  It is currently the most widely used anesthetic since it can quickly reach the neuromuscular cells and inhibit action [Lin: 1996].  Lidocaine is a voltage-gated sodium channel inhibitor, preventing sodium influx into the cell and stopping contraction [Lin: 1996].  Research has shown that some cases of sudden infant death syndrome (SIDS) have been caused the inhibition of sodium channels in the respiratory tract [Männikkö: 2018].  We hypothesize that introducing lidocaine to the gastrocnemius of the R. pipiens will decrease the response of the muscle to an electrical stimulus.  If effective, Lidocaine may be able to be used in further research towards a cure for SIDS by allowing researchers to falsely inhibit and test new drugs and processes on other muscles before testing in infants.
+
+Materials and Methods:
+Three R. pipien legs were tested against themselves for both the control and experimental groups.  Each leg was stripped of the skin to reveal the gastrocnemius muscle.  The muscle was then severed at the Achilles tendon and suspended in the air by a small string on a force sensor.  An electrical probe was placed directly into the gastrocnemius.  The threshold of the gastrocnemius was found by beginning to shock the muscle at 0.1 V and increasing the voltage by 0.1 until a response is recorded.  The maximum response was then determined and recorded.  The leg was then shocked three more times, with the maximum response recorded at each.  Then, the muscle was injected with Lidocaine and tested again, five minutes later, at the same voltage signal.  The response was determined and recorded before being shocked three more times, recording the response at each interval. This process was repeated for each of the three R. pipiens.  The mean responses with and without lidocaine were calculated for each R. pipien.  A paired t-test was used on the differences between the average response of each R. pipien with and without lidocaine.
+
+Results:
+The mean difference between the response in the control and experimental groups was -0.0659 V (Fig. 1).  The mean standard deviation was 0.0102 (Fig. 1).  We used a paired t-test to analyze our results.  The control response of the R. pipiens was not statistically significant from the response of the R. pipiens with Lidocaine (P = 0.105, t-stat = 0. 2.834, df = 2, α = .05).  Leg 2 and 3 did not respond at all after the lidocaine was introduced to the system, while Leg 1 initiated a minimal response.
+
+Discussion:
+Our hypothesis, that Lidocaine will inhibit gastrocnemius response of R. pipiens, was not supported.  This could be because of the low sample size used in the experiment.  Using only three legs creates a greater chance for variability in the results.  If more subjects were used, the standard deviation would most likely have decreased as well, increasing the significance of the P-value.  Another explanation for error in the experiment could be attributed to an initial stimulus that was too low.  Legs 2 and 3 exhibited complete inhibition of the stimulus after the Lidocaine was introduced, indicating the Lidocaine was successful in inhibiting the sodium channels in the gastrocnemius.  If a higher stimulus was used to create a larger initial response, our hypothesis may have been statistically significant as the difference between the response and no response would have been greater.  The minimal response of the first leg after the introduction of lidocaine could have been due to vibrations caused by wind or the table that irritated the force sensor.  In Loligo oponescens, some of the muscles react to either full stimulus or full inhibition of the voltage gated sodium channels [Gilly: 1996]. Further testing could be done to see if lower concentrations of lidocaine would limit muscle contraction without fully inhibiting movement.  Testing could also be done to compare Lidocaine with other sodium channel inhibitors or even calcium inhibitors to determine the effectiveness of different drugs.
+
+Literature Cited:
+1. Gilly WF, Preuss T, McFarlane MB. 1996. Contraction of sodium channels in a subset of circular muscle fibers of squid mantle. The Biological Bulletin. 191: 337-340.
+2. Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 5-16.
+3. Lin EJ, Jacob SE. 2016. Lidocaine. Journal of the Dermatology Nurses' Association. 8: 394-396.
+4. Männikkö R, Wong L, Tester DJ. 2018. Dysfunction of NaV1.4, a skeletal muscle voltage-gated sodium channel, in sudden infant death syndrome: a case-control study. The Lancet. 391: 1483-1492.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+%28Lab+2%29.jpg&Size=27590&Type=image%2Fjpeg&F=F_4Ot9rnKGAFT6MiB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Difference in response to stimulus of R. pipien gastrocnemius before and after introducing Lidocaine, a sodium channel inhibitor.*************************************************************************
+
+
+

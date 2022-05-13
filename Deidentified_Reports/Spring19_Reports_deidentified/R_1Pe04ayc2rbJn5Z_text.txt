@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 23:52:25
+Author of this lab report is: Std_bDTYxZjG
+ID: R_1Pe04ayc2rbJn5Z
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Injection of 2% Sevin Solution Showed Minimal Effect on Frequency at which Tetany is Reached
+
+Abstract:
+The present experiment questioned the effect of 2% Sevin solution on the gastrocnemius muscle in frogs. It was hypothesized that if 2% Sevin solution was injected into a frog leg, then acetylcholine will remain bound to muscle receptors thus decreasing the frequency at which tetany occurs. Frogs were chosen for this study due to their sciatic nerve, which can create large and powerful contractions within the leg due its large size and high number of innervated muscle fibers. Beginning at a frequency of 2 Hz, the nerve was stimulated in the intervals of 4, 5, 10, 25, 50, 100 Hz. Once tetany was reached stimulation was stopped, frequency and the corresponding myogram was recorded. Using a paired T-test the data was analyzed and no statistically significant difference was shown between the two groups (tstat=1.0, df=2, P=0.423), thus the alternative hypothesis was rejected. There were many potential sources of error in this experiment such as the possibility that ATP storage was used up in conducting the control trials and that the sciatic nerve was exposed to the electrical probe for a prolonged period.
+
+Introduction:
+The present experiment questioned the effect of 2% Sevin solution on the gastrocnemius muscle in frogs. It was hypothesized that if 2% Sevin solution was injected into a frog leg, then acetylcholine will remain bound to muscle receptors thus decreasing the frequency at which tetany occurs. Acetylcholine (ACh) is a neuro transmitter that is released in the neuromuscular junction and binds with receptors on muscle fibers. When ACh binds, it causes sodium channels to open, generating an action potential that contracts the muscle [Johnson: 2018]. Common frogs were chosen for this study due to their sciatic nerve, a large nerve located in the posterior quadratus muscle. It can create large and powerful contractions within the leg due its large size and high number of innervated muscle fibers [Ahmed: 2012]. By stimulating the sciatic nerve, we were able to create action potentials that released ACh to all innervated muscle fibers, causing the gastrocnemius muscle to contract. The 2% Sevin solution is an acetylcholinesterase blocker, meaning that it blocks an enzyme from clearing acetylcholine from the neuromuscular synapse. Finally, we measured tetany which is defined as the point of maximum muscle 
+
+Materials and Methods:
+This experiment will stimulate the gastrocnemius muscle of the frogs indirectly through stimulation of the sciatic nerve. Three frog legs were used as both control and experimental groups. First the skin was completely removed, and the gastrocnemius muscle was separated from the other leg muscles. The Achilles tendon was cut as to suspend the muscle. The large sciatic nerve was then isolated and separated from other tissue and blood vessels. Probes were then placed on the nerve, and pins were inserted around the leg to hold it in place. Beginning at a frequency of 2 Hz, the nerve was stimulated and a myogram was recorded. The frequency was then increased in the intervals: 4, 5, 10, 25, 50, 100 Hz. An amplitude of 0.7A was used. Once tetany was reached the corresponding frequency was recorded and stimulation was stopped. Then the frog leg was injected with the 2% Sevin solution and given 5 minutes rest. After the rest period, the now experimental frog leg was stimulated again at the previous frequencies. The frequency at which tetany was reached was recorded. The process was done in full for one frog leg at a time. It was important to ensure the legs did not dry up by periodically squirting them with Ringer’s solution. After all frequencies were recorded a paired T-test with a 0.05 confidence interval was used to analyze the data.
+
+Results:
+The mean frequency that tetany was reached of the control frog legs was 20 Hz and the mean for the experimental frog legs was 25 Hz. The control had a standard deviation of 20+/-7.07 Hz while the experimental data had a standard deviation of 25+/-0 Hz. Using a paired T-test the data was analyzed and no statistically significant difference was shown between the two groups (tstat=1.0, df=2, P=0.423). The p value of 0.423 that was obtained is much higher than 0.05, thus the data proven to not be statistically significant.
+
+Discussion:
+Our original hypothesis was that the experimental frog legs would experience tetany at a lower frequency than the controls. The data was shown to have no statistically significant difference thus the alternative hypothesis was rejected. This does not necessarily mean that the 2% Sevin solution has no effect on the neuromuscular system, and more experiments should be conducted to further evaluate its effects on muscle contraction. There were many potential sources of error in this experiment such as the possibility that ATP storage was used up in conducting the control trials and that the sciatic nerve was exposed to the electrical probe for a prolonged period. In addition, for future experiments it is suggested that a more narrow and precise set of frequency intervals be used to obtain more precise data. However, it is acknowledged that increased stimulation causes a steady decrease in ACh release from the motor nerve [Naves: 2001]. Thus, if one were stimulating the muscle more frequently and at regular intervals, say every 2 Hz from 2-50, it is likely the muscle would tire due to fatigue and lack of ACh. Further studies could evaluate 2% Sevin’s effects on other muscle performance indicators such as fatigue, tension, or speed of contractions. This experiment also has much broader implications due to the similarity in the muscular process of humans. ACh is also a neurotransmitter in humans that controls muscular contractions, and we could be potentially affected by the solution as well.
+
+Literature Cited:
+Ahmed, S., Malik, S., Azeem, M. A., & Noushad, S. (2012). SCIATIC NERVE CONDUCTION VELOCITY AND LOCOMOTORY PATTERNS IN FROG, UROMASTIX AND RABBIT. JAPS, Journal of Animal and Plant Sciences, 22(4), 878–883.
+
+Johnson AD. Hormone Regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 4-15.
+
+Naves, L. A., & Kloot. (2001). Repetitive nerve stimulation decreases the acetylcholine content of quanta at the frog neuromuscular junction. The Journal of Physiology, 532. 637-647.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+report+2+Fig1.png&Size=15116&Type=image%2Fpng&F=F_3PhOn7skSf1QEFJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Comparison of stimulus frequency required to reach tetany in control versus experimental frog legs. The experimental group was injected with a 2% Sevin Solution.*************************************************************************
+
+
+

@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-02 14:08:27
+Author of this lab report is: Std_5Tc0nDLI
+ID: R_07bcuKifZViMELv
+Course number: BIO103L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Effect of Nitrogen Supplementation on Field Pea (Pisum sativum) Growth
+
+Abstract:
+Our study sought to determine if there were any effects of nitrogen supplementation on the growth of field peas (Pisum sativum). Two groups were made of experimental and control, and were watered with either water or a nitrogen supplement. After one week, the root:shoot ratio of 12 plants from each group was calculated. The results found that addition of nitrogen had a significant effect on the length of the plant but not on the weight. 
+
+Introduction:
+In any ecological community, organisms interact with one another. These environmental stimuli that originate from other organisms are called biotic factors, while those that arise from non-living factors like wind are abiotic factors. Nutrients are essential for plants to grow and live, but are not unlimited. This resource limitation affects which species are present in a community, and organisms must use trade-offs in expense of energy and resources when determining resource allocation. Resource allocation is the pattern which a species uses to distribute its limited resources. While this pattern is genetically determined, it is not inflexible, organisms can modify this pattern in response to different abiotic factors. Allocation plasticity differs among species, as some have greater tolerance for adaptation than others. Phenotypic plasticity is a property that characterizes how organisms allocate resources based on environmental conditions. Plants don’t pull resources out of existing tissues to another, but the growth pattern will change over time in order to modify new growth. In plants, resources for growth are divided into those acquired above and below ground. The shoots of plants, which include the leaves and the stems, capture sunlight for photosynthesis and support, while the roots serve as the absorptive organ for nutrients like nitrogen and water. One way to measure allocation in plants is the root and shoot ration where the biomass of the root is divided by that of the shoot. The relative allocation of biomass can indicate the ability of a plant to allocate resources in a given environment. In a paper done by Inês Cechin and Terezinha de Fátima Fumis of the Universidade Estadual Paulista in Brazil, it was found that nitrogen supply had a significant stimulatory effect on shoot dry matter production of sunflowers, supporting the possible effects of additional nitrogen to plant growth [Cechin: 2004]. In this lab, we tested the effect of a nitrogen solution on the resource allocation of field peas (Pisum sativum). I hypothesized that the addition of nitrogen would have an effect on the growth of the plant. 
+
+
+Materials and Methods:
+We had two groups of field peas, each of which was comprised of three samples. The experimental group of plants was treated with nitrogen solution, while the other, the control, was only given water. Over the course of a week we watered each group with its associated solution: nitrogen solution for the experimental group and water for the control. After a week, we took each group and placed them in a large tray. We laid out paper towels for each group and labeled nitrogen (N) on one side and control (C) on the other side of the paper. We then took the a sample from the experimental group, washed them in water to remove the vermiculite they were grown in, and selected four individual plants. This was done for each sample in the experimental group, for a total of 12 experimental plants used. The plants were then placed on the paper towels while being weighed and measured. Scissors were used to separate the roots from the shoot at the base of the seed. The mass of the root and shoot were then weighed and recorded, and the length of each of these were measured and recorded. This process was repeated for the control group, with 12 individual plants being weighed and measured. We then calculated the root:shoot value using Microsoft excel, as well as the root:shoot mean and standard deviation. A t-test was also used on the data.
+
+
+Results:
+When performing the two-tailed t-test, the results for the length were significantly different (t-stat = 4.49, df = 22, P = 1.84 x 10^-4), while the results for the weight were not (t-stat = 0.97, df = 22, P = 3.42 x 10^-1).
+
+From Figure 1 we can see that the experimental nitrogen group had a lower R:S ration than the control group.
+
+Discussion:
+From Figure 1, we can see that the experimental nitrogen group had a lower R:S ration than the control group. This suggests that the control group had to grow larger roots, and that the nitrogen group didn’t have to grow longer roots as nutrients were easily made available for them to grow, while the control group had to grow longer roots in order to find sufficient nitrogen. Furthermore, when observing the results of the t-test, the difference between the two-tailed values between the length of each group was 1.84 x 10-4, and 3.42 x 10-1 for the weight. These values suggest that the values obtained for the length was significant, and suggest that the difference between the means was extremely unlikely to have occurred due to chance alone, therefore the addition of nitrogen had an effect on the growth of the plant. This result is similar to that in a paper done by ED Schulze and JR Ehleringer, who found that saplings with higher nitrogen content showed growth rates that were sevenfold times greater than those with lower nitrogen content [Schulze: 1984]. The t values for the weight was not statistically significant, therefore the addition of N may not have had a significant effect on the plant as hypothesized. Therefore, our hypothesis was somewhat supported. 
+
+Literature Cited:
+
+Cechin, Inês, and Terezinha De Fátima Fumis. “Effect of Nitrogen Supply on Growth and
+Photosynthesis of Sunflower Plants Grown in the Greenhouse.” Plant Science, vol. 166,
+no. 5, 2004, pp. 1379–1385., doi:10.1016/j.plantsci.2004.01.020.
+Schulze, E. -D., and J. R. Ehleringer. “The Effect of Nitrogen Supply on Growth and Water-Use
+Efficiency of Xylem-Tapping Mistletoes.” Planta, vol. 162, no. 3, 1984, pp. 268–275.,
+doi:10.1007/bf00397449.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-01+at+8.14.20+PM.png&Size=64371&Type=image%2Fpng&F=F_2B4CfCIoLjJXFPv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph shows the relationship between the average R:S and type of nutrient added.*************************************************************************
+
+
+

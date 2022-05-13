@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-16 17:51:44
+Author of this lab report is: Std_4a4ys7NN
+ID: R_2SJQarhn5rMXd3w
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The Effects of Juvenile Hormone on the development of the Manduca sexta Caterpillar
+
+Abstract:
+Hormones play a major role in controlling regulatory and developmental processes, especially in insects. Understanding insect hormones is important in the creation of insecticides that are both efficient and effective. This experiment looks at the effects of adding Precor methoprene, a type of juvenile hormone, to the diet of Manduca Sexta caterpillars. Our hypothesis stated there would be a statistical difference in the weight of the caterpillars who were fed the methoprene, and the data confirmed a statistical difference of 0.015451 as the p-value. We observed the control group growing faster and all reaching pupation, whereas the experimental group only grew larger but did not reach pupation. The response of the experimental group to the hormone suggests that the hormone directly affects weight gain and developmental processes of the Manduca sexta.
+
+Introduction:
+In insects, various hormones control the major regulatory and developmental processes. These processes, such as molting, pupation, and adult development are regulated by rising and falling levels of ecdysone and juvenile hormone. For many insects, such as the Manduca sexta caterpillar, altering the juvenile hormones artificially can cause serious changes in the stages of development, as juvenile hormones are responsible for the type of molting the caterpillar undergoes as well as regulation of adult functions .Previous research has been conducted on Manduca sexta and their hormones to create effective insecticides, which work by altering hormones to prevent the caterpillar from reaching adulthood, when it becomes a pest (Hatem:2015). By adding more juvenile hormone to the caterpillar’s food, it might then affect the type of molt, possibly preventing them from pupating. The prevention of pupation could then disrupt the development of the caterpillars, possibly causing differences in weight or length. Precor Methoprene, a type of Juvenile Hormone, will be fed to the Manduca sexta Caterpillars in this experiment in different amounts to observe the results. We predict that If there is an increase in methoprene in the diet of Manduca sexta Caterpillars, then there will be a statistical difference in average weight. 
+
+
+
+Materials and Methods:
+ Eight Manduca sexta Caterpillars were selected and divided into two groups of four. Each caterpillar was placed into separate compartments of containers for their growth. Each caterpillar received one of two diets: The control was consistently fed 10 grams of caterpillar food with ten drops of water added to it. The experimental group was consistently fed 10 grams of caterpillar food with 10 drops of Methoprene in it. All caterpillars were kept in the same incubator conditions at 25 degrees Celcius in a 12 hour dark, 12 hour light cycle. The caterpillars were weighed daily and fed for 14 days and data was recorded. The two-tailed 2-sample T-test was used to determine if the data was significant.
+
+Results:
+We observed physical differences in the color along with an increase in the development of the control group. All of the controls pupated, while the experimental group grew large but did not pupate, and their pigmentation became lighter. The average change in weight (in grams) for the control group caterpillars was 4.1025 (Fig. 1). The average change in weight (in grams) for the experimental group caterpillars was 8.7525 (Fig. 1). The standard deviation for weight change of the control group was 0.8397 and the standard deviation for weight change of the experimental group was 2.2665. We used a two-tailed two-sample t-test to analyze our data. Our results gave a t-value= 2.806423, Degrees of freedom=6,one tailed P-value= 0.015451, and two-tailed P-value=0.030901. Both our p-values were less than .05, and therefore statistically significant. 
+
+Discussion:
+Our hypothesis, that states adding Methoprene to the diet of Manduca sexta Caterpillars will create a statistical difference in weight was supported. Because our p-level was below .05, we could reject the null hypothesis as there was a significant statistical difference between the amount of Methoprene in the food compared to the average weight gained by the caterpillars. The effects of the Juvenile Hormone Methoprene could have prevented the caterpillars from pupating, thus keeping them in a larval state, and continuing to grow larger. Research has shown that this function of JH could be a survival mechanism to ensure the larva has reached a sufficient size before pupation (Hatem:2015) . This information has also been researched for understanding the most efficient use of Juvenile Hormones on the Manduca Sexta as an insecticide. Because of the destructive effects that Manduca Sexta have on crops, using hormones to control pest populations of Manduca sexta is an important issue in the agricultural community. Further understanding of the effects of Insect hormones on the developmental patterns of Manduca sexta can allow us to understand more about adaptation of insects to their environment and the role that hormones have in contributing to growth and regulatory processes. More could be researched into the roles of insect hormones as insecticides to prevent eggs from ever hatching or possibly uses of the hormones that would prevent adults from being able to reproduce. Finding safer, more efficient insecticides is a constant issue in today’s world, and more research must be conducted on these hormones to find what the best possible solution is when dealing with these insects.
+
+
+
+Literature Cited:
+Hatem, N. E., Wang, Z., Nave, K. B., Koyama, T., & Suzuki, Y. (2015). The role of juvenile hormone and insulin/TOR signaling in the growth of Manduca Sexta. BMC Biology, 13(1), 44. https://doi.org/10.1186/s12915-015-0155-z
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=hormones.png&Size=34781&Type=image%2Fpng&F=F_9pHBxo3O9q1n441
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The change in weights of the control group (was fed 0 drops of methoprene) and experimental group (was fed 10 drops of methoprene) of the Manduca Sexta caterpillars. The error bars represent +/- 1 standard deviation. *************************************************************************
+
+
+

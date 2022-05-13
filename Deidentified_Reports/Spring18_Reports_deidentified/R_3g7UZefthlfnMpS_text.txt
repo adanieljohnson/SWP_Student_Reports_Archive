@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 09:03:43
+Author of this lab report is: Std_4c8416ru
+ID: R_3g7UZefthlfnMpS
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: The effects of A23187 activator on the speed of cytoplasmic streaming in Physarum polycephalum
+
+Abstract:
+This experiment explored the effects of diluted A23187 solution, a calcium channel activator, on the cytoplasmic streaming rate and bacterial growth of Physarum polycephalum.  In order to measure the cytoplasmic streaming rates in P. polycephalum we first prepared 6 water agar plates which held a block of P. polycephalum and two to three oats.  Three plates were designated to be the control and three were soaked in the solution to be the treatments.  The hypothesis was that the A23187 solution would increase the cytoplasmic streaming rates and increase the growth of P. polycephalum.  Once all the data was collected a 2-sampled t-test was performed to compare the treatments to the control and it was found that the treatment that were statistically significant for the increase of cytoplasmic streaming (p-values &lt; 0.05).  Therefore, it was only determined that A23187 solution could increase the speed of cytoplasmic streaming.
+
+Introduction:
+Cells can respond to their external and internal environments using signal transduction.  It uses these signals to get to resources that it needs to survive such as food.  A great model organism, and the one used in this experiment, is Physarum polycephalum since it is a multinucleated syncytium with nuclei that are able to undergo mitosis as a unit.  It can move by reaching out its leading edge with the aid of actin myofilaments towards (or away from) the signal the P. polycephalum is receiving.  Once it reaches its food, it engulfs bacteria to transport hydrolytic enzymes to its food vacuoles [Johnson: 2018].  It is believed that calcium channels play a role in P. polycephalum growth by increasing the speed of cytoplasmic streaming.  There has been a proposed mechanism which explains how P. polycephalum uses a phosphorylation-dephosphorylation cycle of light myosin kinase [Smith, Saldana: 1992].  In this experiment, cytoplasmic streaming and growth and direction of P. polycephalum was explored after being treated with diluted solution of A23187.  A23187 is a calcium channel activator [Yoshimoto, Matsumura, Kamiya: 1981] therefore we hypothesize that if P. polycephalum were treated with A23187 solution then it would increase cytoplasmic streaming rates and increase the growth of P. polycephalum towards food.
+
+Materials and Methods:
+First the diluted A23187 solution was prepared by taking 1 mL of the concentration solution and diluting it with 19 mL of distilled water.  Six 2% water agar plates were also prepared using 2 mL of water and 18 mL of melted agar and were labeled with names whether or not they were going to be control or treatment plates (there were three of each).  Next, the water agar plates labeled to be treatment were treated with 5 mL of the diluted A23187 solution by soaking for 10 minutes then draining the excess solution.  Once treatment plates were prepared the metal spatula was sterilized using ethanol and then an ethanol flame to cut two 1 cm squares in the agar on opposite sides of the plate (the tools used were re-sterilized for each plate).  After all the squares were cut out and discarded, six 1 cm squares of the P. polycephalum sample and placed in 1 of the squares in each of the water agar plates and two to three oats were placed in the second squares.  The plates were then wrapped in foil and relabeled and placed in incubation.  After 29 hours of incubating, we returned to measure the length on the growth of P. polycephalum and observe the cytoplasmic streaming via a phase microscope.  All the data was recorded and a 2-sample t-test was performed to test significance for if the average control time was greater than the average treatment time.
+
+Results:
+Looking at the data presented in Table 1, the data shows that the treatment of diluted A23187solution did increase the speed of cytoplasmic streaming and that the signal given by the oats was not blocked by the addition of diluted A23187.  However, there was no growth in controls 2 and 3 to measure and compare with the treatment group.  Figure 1 also shows these same results according the total average time for both the control and treatment (42.9 seconds and 31.8 seconds respectively) along with their standard deviations (both 4.9).  The 2-sample t-test for determining if the mean of the control was greater than the mean of the treatment showed significant results at a 95% confidence interval (Table 1).
+
+Discussion:
+The 2-sample t-test showed significance for faster cytoplasmic streaming due to treatment of diluted A23187 solution but there was not enough data to support that it also increased the growth of P. polycephalum.  This supports one half of the hypothesis, but more testing will need to be done to determine the effects of calcium channels on the growth of P. polycephalum.  There have been other studies done showing that the optimum concentration of calcium for growth is between 0.05 and 2.5 mM [Holmes, Stewart: 1979].  Compared to this study, our experiment would not explore the growth of P. polycephalum since the concentration of calcium was assumed to be the same and A23187 activator just activates the calcium channels not the actual concentration of calcium.  It also gives a possible error in this experiment and an explanation as to why controls 2 and 3 did not grow.  Since we were not actively keeping track of the calcium concentration it could be possible that the P. polycephalum was old and that the concentrations of calcium were not the same throughout the P. polycephalum sample.  It could also be explained by procedural error as well though.  It could be possible that when placing the P. polycephalum sample into controls 2 and 3 the tools were not sterilized properly or still too hot and inhibited the growth of these controls.  Another place where the procedure could have had error could be in the preparation of the water agar plate, it is possible that the prepared water agar plates for control 2 and 3 could have deviated from control 1 and that is why we observe no growth in controls 2 and 3.  These are the main possible errors because there was no observable fungi or bacterial growth found in these plates and since A23187 is an activator and not an inhibitor it should not inhibit the growth of P. polycephalum.  Further testing on this subject could be redoing this experiment and gather more data in hopes to determine if calcium channels can have an effect on the growth or using different concentrations of calcium as treatments to find which concentration is optimum for growth of P. polycephalum.
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+2.	Smith DA, Saldana R. Model of the Ca2+ oscillator for shuttle streaming in Physarum polycephalum. Monash University. Accessed April 12, 2018. &lt;http://www.cell.com/biophysj/pdf/S0006-3495(92)81843-X.pdf&gt;
+3.	Yoshimoto Y, Matsumura F, Kamiya N. Simultaneous oscillations of Ca2+ efflux and tension generation in the permealized plasmodial strand of Physarum. US National Library of Medicine. Accessed April 12, 2018. &lt;https://www.ncbi.nlm.nih.gov/pubmed/6819083&gt;
+4.	Holmes RP, Stewart PR. The Response of Physarum polycephalum to Extracellular Ca2+: Studies on Ca2+Nutrition, Ca2+ Fluxes and Ca2+ Compartmentation. University of Illinois. Accessed April 12, 2018. &lt;http://mic.microbiologyresearch.org/content/journal/micro/10.1099/00221287-113-2-275;jsessionid=iLnvucfSqsNN_3vGFTRx5H-9.x-sgm-live-03&gt;
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+9.01.06+AM.png&Size=70701&Type=image%2Fpng&F=F_ZDfdwulXSfzOwxz
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+9.02.02+AM.png&Size=35595&Type=image%2Fpng&F=F_81ExumT4976ylKV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1.
+Figure 1.  Average time of cytoplasmic streaming for both the control and treatment.  The averages were 42.9 and 31.8 seconds respectively with standard deviation of 4.9 for both the control and the treatment.  The 2-sample t-test gave a t-value of 4.401 and a p-value of 7.494x10-3 at 95% confidence.
+
+*************************************************************************

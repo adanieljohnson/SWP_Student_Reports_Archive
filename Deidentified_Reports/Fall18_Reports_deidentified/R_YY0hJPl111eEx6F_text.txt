@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-30 20:30:37
+Author of this lab report is: Std_2erZExd5
+ID: R_YY0hJPl111eEx6F
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The Effects of Protein Kinase A Activator and Inhibitor in Cell Growth of Physarum polycephalum
+
+Abstract:
+Signal transduction pathways are how cells respond to their environment. The cAMP-mediated pathway is involved in functions such as cell growth. Protein Kinase A is an enzyme that is commonly activated by cAMP. Protein Kinase A phosphorylates other enzymes, which will either activate or inhibit those enzymes. We will be determining the effects of a Protein Kinase A activator, Dibutyryl -cAMP, and a Protein Kinase A inhibitor, Curcumin, on the rate of movement of the Physarum polycephalum in both light and dark environments. We believe that by adding the activator to Physarum polycephalum plates, the organism will have a higher rate of movement that the plates with the inhibitor. We also believe that the plates that are placed in the dark will have a lower rate of movement than those in the light. We found that the difference between the activator, inhibitor, and control plates were significant. However, the difference between the plates in the light and dark environments were not. These results show that the Physarum polycephalum moves more readily with the activator, and the organism grows as well as it does in the light as it does in the dark. 
+
+Introduction:
+Signal transduction pathways allow cells to respond to their internal and external environment. We will be examining Physarum polycephalum to explore signal transduction because we are able to see the process without a microscope. This organism has a similar signal transduction pathway as humans. We will be specifically looking at the effects of activating or inhibiting Protein Kinase A, which is an enzyme that phosphorylates other enzymes to activate them after the PKA is activated by cAMP. cAMP is formed after adenylate cyclase converts ATP into cAMP [Johnson: 2016]. We will be determining how activating or inhibiting Protein Kinase A would affect the cAMP signaling pathway, and therefore the rate of movement of the organism, in light and dark environments. In previous studies, when Physarum polycephalum is treated with the activator Dibutyryl -cAMP (the Protein Kinase A activator), its movement increases 5-fold in the dark [Staron: 1992]. Protein Kinase inhibitors have been shown to almost completely inhibit cAMP [Kuehn: 1971]. Light has been shown to inhibit the movement and growth of Physarum polycephalum because the organism is usually found in dark, humid environments [Schreckenbach: 1984]. Because of this, we expect the Physarum polycephalum to grow significantly less when treated with Curcumin (the Protein Kinase A inhibitor) and when the plates are placed in the light rather than the dark. 
+
+Materials and Methods:
+To start this lab, we prepared 6 control potato agar plates and cut out one 1cm x 1cm cube in the middle of the PDA plate that we replaced with the same size cube from the stock Physarum plate we were given. Next, we prepared 6 activator plates by soaking the PDA plate in 10 mL of the diluted activator, Dibutyryl -cAMP, for 10 minutes before cutting the same size 1cm x 1cm cube and replacing it a cube from the Physarum polycephalum plate. We then prepared the 6 inhibitor plates by soaking the PDA plates in diluted Curcumin for 10 minutes, cutting out a 1 cm x 1cm cube and replacing it with a cube from the Physarum plate. We then wrapped all 18 plates in foil, and we cut small holes into the foil in 3 control, activator, and inhibitor plates to allow light to come into the plate. We placed these 9 plates into a lightbox, and we put the other 9 plates that did not have holes in the foil into a dark drawer. We came back 28 hours later to see the movement of Physarum polycephalum on the plates. We used a paired t-test in order to determine the statistical significance between the light and dark groups and the ANOVA test to compare the activator, inhibitor, and control groups.  
+
+Results:
+Our results show that the plates that had the highest rate of movement were the plates with the Protein Kinase A activator, followed by the control plates, and finally the plates with the Protein Kinase A inhibitor. Also, there seemed to be essentially no difference between the rate of movement in the plates treated in a light versus dark environment. There was a significant difference between the 3 groups (Dibutyryl-cAMP, Curcumin, and the control) that we tested (figure 1; ANOVA; p=4.96 x 10-5). We were able to compare the three treatments to each other because there was essentially no difference between the light and dark treatment groups in Dibutyryl -cAMP (paired t-test; p=0.997), Curcumin (paired t-test; p=0.736), and the control (paired t-test; p=0.245). 
+ 
+
+
+Discussion:
+We found that the group treated with Dibutyryl -cAMP, the Protein Kinase A activator, had the highest rate of movement, while the plates treated with Curcumin, the Protein Kinase A inhibitor, had the lowest rate of movement. Our hypothesis was shown to partly be supported because the activator had significantly more movement than the control group and the inhibited group, and the inhibited group had a lower rate of movement than the control group (figure 1). However, we were not correct in thinking that light would have an effect on the movement of the Physarum polycephalum. There were no significant changes in the light or dark regarding the rate of movement of the organism (figure 1). Our findings supported the idea that when the Protein Kinase A activator is present, the Physarum polycephalum will increase its movement [Staron: 1992], and when the inhibitor is added, the organism will decrease its movement [Kuehn: 1971]. However, our results did not agree that light inhibits the growth of Physarum [Schreckenbach: 1984]. This is important because the organism is able to survive just as well in light as it does in the dark, which is its usual environment. The difference in the activator and inhibitor shows that Protein Kinase A is important for cell growth. When the inhibitor is added, cell growth almost stops. Future research should be done on the Protein Kinase A inhibitor to see if it could slow down cell growth in diseases such as cancer. 
+
+Literature Cited:
+ Johnson AD. Cell Signaling. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+Kuehn GD. 1971. An Adenosine 3’, 5’ -Monophosphate-inhibited Protein Kinase from Physarum polycephalum. Journal of Biological Chemistry. 246:20: 6366-6369. 
+Schrenckenbach T. Phototaxis and Photomorphogenesis in Physarum polycephalum Plasmodia. Blue Light Effects in Biological Systems. Springer, Berlin, Heidelberg. 463-475. 
+Staron K. 1992. Light-induced Transient Increase of the Activity of Topoisomerase I in Plasmodia of Physarum polycephalum. International Journal of Biochemistry. 24: 11: 1717-1720.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+8.09.08+PM.png&Size=29378&Type=image%2Fpng&F=F_11XB0icom4QBqsg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Physarum polycephalum plates were either treated with a Protein Kinase A activator, Dibutyryl-cAMP, a Protein Kinase A inhibitor, Curcumin, or the plate received no treatment. Of these plates, half were kept in the light, and half were kept in the dark. This figure represents the rate of movement of the organism (cm/hr). The error bars represent the standard deviation. There was a significant difference between the activator/inhibitor/control groups (ANOVA; p= 4.96 x 10-5), but there was essentially no difference between the light and dark treatments of each group (Dibutyryl -cAMP: paired t-test; p=0.997, Curcumin: paired t-test; p=0.736, control: paired t-test; p=0.245). *************************************************************************
+
+
+

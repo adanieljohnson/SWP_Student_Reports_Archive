@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-15 17:09:32
+Author of this lab report is: Std_8OzoG3jP
+ID: R_ZIXgZcA6WfOU1CF
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: EFFECTS OF POTASSIUM BLOCKER ON GASTROCNEMIUS MUSCLE CONTRACTION 
+
+Abstract:
+Contraction of skeletal muscle happens in response to a neurotransmitter produced by action potentials in motor neurons. Action potentials use alterations in ion concentrations to carry signals down their axons and into the synapse. In this experiment, the ability of the motor neuron to regulate potassium (K+) ions was altered by the injection of the K+ blocker tetraethylammonium. It was predicted that tetraethylammonium would lengthen action potentials and therefore lengthen the relaxation period of the gastrocnemius muscle of frogs. However, testing by LabScribe Stimulators that mimicked action potentials revealed that the average relaxation period for treated muscles was not significantly greater than untreated muscles. This supports that the K+ blocker tetraethylammonium did not alter the function and mechanisms of the motor neuron and muscle contraction.
+
+
+Introduction:
+Skeletal muscle contraction is a result of action potentials in motor neurons releasing the neurotransmitter acetylcholine (ACh) into the muscle, which triggers the release of calcium ions into the myofibers that make up the muscle and initiates contraction mechanisms. [Johnson: 2018] These action potentials are caused by depolarization in neurons, carried and propagated by the action of sodium (Na+) and potassium ions (K+). [Sadava: 2017] Research conducted by the August Krogh Institute measured the Na+ and K+ concentration inside and outside of the neuron. Changes in concentrations were noted before and after exercise, and the time which was needed to allow the concentration gradient to be restored was recorded. This study supports that the concentrations of these ions within and without of the neuron are significantly altered by action potentials that cause muscle contraction [Juel: 1986]. After the action potential is fired, the action of sodium-potassium pumps and other cellular mechanisms restore the concentration gradient of Na+ and K+. Short, ideal action potential duration relies on the flow of K+ into the neuron to restore a polarized state after Na+ flooding into the cell depolarizes the membrane. [Sadava: 2017] In this experiment, the K+ blocker tetraethylammonium was injected into the gastrocnemius muscle of a frog. A LabScribe Stimulator applied electric shocks to the leg, imitating the signals that initiated action potentials. It was predicted that the K+ blocker would lengthen the relaxation period of the muscle.
+
+
+Materials and Methods:
+Three frog legs, severed from the top of the thigh, were chosen randomly from a selection provided by the lab. The skin from each leg was removed, and the entire leg was moistened with Ringer’s solution. The gastrocnemius muscle was then disconnected from the tibialis anterior, and severed at the achilles tendon. A string was tied around the portion of the achilles tendon attached to the gastrocnemius, and the muscle was hung taught from the sensor of a LabScribe Stimulator. The piece of the Stimulator that applies voltage was attached directly to the gastrocnemius muscle. Using the Stimulator, various small voltages were sent into the muscle until a mean voltage for the particular muscle was found that guaranteed a response but did not allow the muscle to enter tetany. This voltage was then kept constant in five additional trials, and a myogram was recorded for each. From these myograms, the period of time from the peak voltage to the return to 0 volts was recorded. This number was the relation period of the muscle (milliseconds). After five trials of control, 0.1 mL of the K+ blocker tetraethylammonium was injected evenly into three areas of the gastrocnemius (top, middle, and bottom). After a period of five minutes, five more trials were run with the same voltage used in the control for that leg. Relaxation periods were recorded for each trial. The used leg was promptly removed from the Stimulator, and another leg which was prepared the same way was tested. The Stimulator recorded the muscle twitch based on a sensor connected to the end of the string tied around the achilles tendon. The graph that resulted from this twitch, called a myogram, allowed accurate recordings of the contractile period, relaxation period, and total voltage difference (strength) of each twitch. The length of each relaxation period was recorded. A one-tailed paired T-test was used to compare average relaxation periods of each control and treatment group from each leg. 
+
+Results:
+Generally, it appeared that the injection of the K+ blocker tetraethylammonium produced longer relaxation periods compared to the control group (FIGURE 1). The tails of the myograms appeared to be visibly longer. The mean of the average relaxation period of the control was 121.9 milliseconds with a standard deviation of 30.9 milliseconds. The mean of the treatment relaxation period was 176.0 milliseconds with a standard deviation of 49.3 milliseconds. A one-tailed, paired T-test with two degrees of freedom comparing average relaxation periods from the control and treatment trials in each leg determined a P-value of 0.09. 
+
+
+Discussion:
+The research conducted by August Krogh Institute supported that muscle tissue within an entire organism needed time to recover after activity and restore K+ and Na+ balance. [Juel: 1986]. This experiment isolated the gastrocnemius muscle in frog legs and attempted to discern whether blocking some K+ ions from entering the neuron during an action potential would affect relaxation period in muscles activated by the affected motor neurons. The gastrocnemius muscle is classified as a “white muscle.” This means that it contains more K+ concentration and a higher resting membrane potential, making it ideal for testing the effects of changes in K+ activity. [Juel: 1986] It was expected that the tetraethylammonium would not allow K+ to move back into the neuron to polarize the membrane after the depolarization of the action potential [Sadava: 2017], therefore similarly affecting the timing of contraction and relaxation in myofibers. However, 0.1 mL of tetraethylammonium can not block K+ from all sodium-potassium pumps, so the concentration gradients would eventually be restored, albeit with a longer recovery period. This experiment did not support that the injection of 0.1 mL of the K+ blocker tetraethylammonium would produce longer relaxation periods after muscle contraction. When compared, average relaxation periods from control and treatment groups of each leg were not significantly different due to a p-value of 0.09. This could be a result of the application of electricity directly to the muscle rather than the sciatic nerve, an insufficient amount of tetraethylammonium, or an insufficient waiting period for the muscle to absorb tetraethylammonium. 
+
+
+Literature Cited:
+1. Johnson AD. Comparative Physiology. Biology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated 8/2/18), pp. 17-18.
+
+2. Juel, Carston. 1986. Potassium and sodium shifts during in vitro isometric muscle contraction, and the time course of the ion-gradient recovery. European Journal of Physiology. 406: 458-463.
+
+3. Sadava D, Hillis DM, Heller HC, Hacker SD. 2017. Sunderland: Oxford University Press. 938-959, 1001-1021 pp. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-15+at+4.43.19+PM.png&Size=49731&Type=image%2Fpng&F=F_1eV0yi0jgGXXjFD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Comparison of average relaxation periods of control and treatment groups for three frogs. Error bars represent +/- one standard deviation. Paired T-test results showed no significant difference between in relaxation periods in frog gastrocnemius muscles treated with tetraethylammonium and untreated muscles (p&gt;.05). Average relaxation periods (in milliseconds) for each leg were determined by the mean of five trials per control and treatment. Measurements recorded from LabScribe Stimulator myograms.
+*************************************************************************
+
+
+

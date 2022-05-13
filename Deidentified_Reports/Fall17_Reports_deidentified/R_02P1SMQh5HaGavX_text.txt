@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 14:13:00
+Author of this lab report is: Std_fgqVDoSV 
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Effects of Caffeine on the Gastrocnemius Muscle in the Rana Pipiens
+
+Abstract:
+This experiment was conducted with the presupposed hypothesis that the administration of caffeine into the gastrocnemius muscle of the frog leg (Rana Pipiens) would cause an increase in the twitch’s amplitude of movement (contraction), relative to the amplitude of movement before caffeine injection. We utilized the FT-302 Force Transducer machine. This force transducer measures the mechanical force of the string’s “pull.” That mechanical force is represented in volts on our myograms. “Stronger” contractions have greater mechanical force pulling the string and yield greater amplitudes in our myogram. We measured the twitch amplitude of movement prior to caffeine injection and post caffeine injection (0.1 mL of 200mM caffeine; dissolved 1.9g in 100mL Ringer’s solution) using the force transducer. The twitch amplitude was significantly greater in the leg after caffeine injection than prior to caffeine injection. The values of the paired t-test performed were notably lower than 0.05, the results from our experiment are deemed significant. The p-value of the first leg was 4.74E-8. The p-value for the second leg was 1.77E-5. The p-value for the third leg was 4.66E-12. 
+
+
+Introduction:
+A nerve and muscle preparation will be used from a frog leg to observe neuromuscular control when presented with caffeine. To do so, the gastrocnemius muscle and sciatic nerve of the frog leg will be isolated.  Nerve pulses cause the release of acetylcholine from the presynaptic nerve terminal. The binding of acetylcholine opens sodium channels to generate an action potential in the muscle fiber. This action potential generates the release of calcium, which causes the muscle to contract. The variance in the twitching and contracting of the isolated frog leg in the presence of caffeine will be observed. The twitch amplitude will be determined by the nerve stimulation with caffeine. A previous study was conducted by Thomas E. Jensen, Adam J. Rose, Ylva Hellsten, Jørgen F. P. Wojtaszewski, and Erik A. Richter on the effects of activity in a rodent soleus muscle from the release of Caffeine-induced Ca2+. It has been found that the release of Caffeine-induced Ca2+ increased AMPK-dependent glucose uptake in the rodent soleus muscle (Jensen: 2007).  This confirms that caffeine will have a stimulating effect on the twitch amplitude of the Rana Pipiens leg on the muscular level. Based on this study, and the known fact that caffeine is a stimulant, we hypothesize that the presence of caffiene will increase the amplitude of movement in the isolated frog leg. 
+
+
+Materials and Methods:
+The Rana Pipiens legs were stored in a cooler box on ice.
+Solution: 200mM Caffeine, prepared by dissolving 1.9g in 100mL Ringer’s solution with gentle heat, injected 0.1 mL via a syringe.
+Three Rana Pipiens legs were skinned in order to expose the gastrocnemius muscles. We isolated the gastrocnemius muscles by cutting the Achilles’ tendon, which we then tied a string around and positioned it taut to the force transducer. The leg was also pinned down to the tray to assure it held still. We placed the pin electrodes from the FT-302 force transducer into the gastrocnemius muscle. Prior to beginning the experiment, we set pulse amplitude to 0.000V, the number of pulses to one, the frequency to 1Hz, and pulse width to 5ms. We then determined the threshold voltage for nerve stimulation by increasing the stimulus voltage by 0.1V over time. After we determined the threshold value, we repeated this step with five pulses until we injected caffeine into the leg and carried out the same steps. The thresholds prior to caffeine injection and post caffeine injection are recorded. These steps are then repeated on the other two frog legs. To analyze the results obtained from the frog legs, a paired t-test was used. 
+
+
+Results:
+In all three legs, we observed that the amplitude of movement of the gastrocnemius muscle post caffeine injection was notably higher than that of the threshold prior to caffeine injection. We observed all three legs increase relatively similar in movement amplitude post caffeine injection. The data portrays a common trend with a gradual increase in voltage with each pulse administered to the leg, ultimately rendering a significant difference between data collected before and after caffeine injection. The data collected was measured in voltage (V). Because the values of the paired t-test performed were notably lower than 0.05, the results from our experiment are deemed significant. The p-value of the first leg was 4.74E-8. The p-value for the second leg was 1.77E-5. The p-value for the third leg was 4.66E-12. 
+
+
+Discussion:
+In comparison with the threshold value prior to caffeine injection, our results show that the administration of caffeine to the gastrocnemius muscle increased the amplitude of threshold of the frog legs overall. This supports our hypothesis that caffeine administration to the muscle would increase the threshold value and increase the amplitude of movement overall. Another previous study was conducted on the effects of caffeine on neuromuscular function on human soleus muscles. When the caffeine was administered, it was observed that the amplitudes of movements significantly spiked (Kalmar: 1999). Based on this experiment and our experiment, a likely explanation to the increase in amplitude post caffeine injection could be that caffeine has an effect on the amount of acetylcholine released during a muscle contraction. The administration of caffeine potentially could increase the production of acetylcholine via the addition of nerve impulses, ergo increasing the amount of action potential generated. Thus, this would result in a higher amplitude of threshold after caffeine injection. The average twitch amplitudes of leg 1, before and after caffeine injection are 0.0196 V and 0.868 V. The statistical significance (*) within this data shows the increased twitch amplitude of the muscle from the injection of caffeine. The P-value of 1.77E-5 is significantly lower than 0.05. The standard deviations for the control and experimental groups are 0.00182 and 0.0186. The average twitch amplitudes of leg 2 before and after caffeine injection are 0.0478 V and 0.8852 V. The statistical significance (*) within this data indicates an increased twitch amplitude of the muscle from the injection of caffeine. The P-value of 4.74E-8 is lower than 0.05. The standard deviations for the control and experimental groups are 0.00455 and 0.0759. The average twitch amplitudes of leg 3 before and after caffeine injection are 0.0686 V and 1.311 V. The statistical significance (*) within this data indicates an increase in twitch amplitude of the muscle after caffeine injection. The P-value of 4.66E-12 is lower than 0.05. The standard deviations for the control and experimental groups are 0.00260 and 0.0.
+We did not run into any major problems while fulfilling this experiment. In terms of further study, though, a larger sample size by increasing the amount of frog legs tested would be more reputable in concluding caffeine effects on the legs. The amount of caffeine administered to each of the legs could also be varied in order to determine what effects different amounts of caffeine have on the amplitude of movement, and if there is a threshold value in which amplitude of movement stays the same past a certain value. 
+
+
+
+
+
+
+Literature Cited:
+References
+
+1.	Biology Core Resource Guide. Ed. 17.2.2017
+
+2.	Comparative Physiology Laboratory Manual. Ed. 17.2.2017.
+
+3.	Jensen, T. E., Rose, A. J., Hellsten, Y., Wojtaszewski, J. F., & Richter, E. A. (2007). Caffeine-induced Ca 2+ release increases AMPK-dependent glucose uptake in rodent soleus muscle. American Journal of Physiology-Endocrinology and Metabolism, 293(1), E286-E292.
+
+4.	Kalmar, J. M., & Cafarelli, E. (1999). Effects of caffeine on neuromuscular function. Journal of applied physiology, 87(2), 801-808.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-17+at+2.39.22+PM.png&Size=24622&Type=image%2Fpng&F=F_5B8VKm8QoEJjbhj
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-17+at+2.39.32+PM.png&Size=26220&Type=image%2Fpng&F=F_2cublw79yAEQsMB
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-17+at+2.39.40+PM.png&Size=26885&Type=image%2Fpng&F=F_cOMB7Eu2LfNvidL
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average twitch amplitudes of leg 1, before and after caffeine injection are 0.0196 V and 0.868 V. The statistical significance (*) within this data shows the increased twitch amplitude of the muscle from the injection of caffeine. The P-value of 1.77E-5 is significantly lower than 0.05. The standard deviations for the control and experimental groups are 0.00182 and 0.0186. 
+
+Figure 2. The average twitch amplitudes of leg 2 before and after caffeine injection are 0.0478 V and 0.8852 V. The statistical significance (*) within this data indicates an increased twitch amplitude of the muscle from the injection of caffeine. The P-value of 4.74E-8 is lower than 0.05. The standard deviations for the control and experimental groups are 0.00455 and 0.0759. 
+
+Figure 3. The average twitch amplitudes of leg 3 before and after caffeine injection are 0.0686 V and 1.311 V. The statistical significance (*) within this data indicates an increase in twitch amplitude of the muscle after caffeine injection. The P-value of 4.66E-12 is lower than 0.05. The standard deviations for the control and experimental groups are 0.00260 and 0.0.
+
+
+*************************************************************************

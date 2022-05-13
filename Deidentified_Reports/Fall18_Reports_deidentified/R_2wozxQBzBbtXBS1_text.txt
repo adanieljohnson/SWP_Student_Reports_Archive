@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 20:53:43
+Author of this lab report is: Std_yUodWRvX 
+ID: R_2wozxQBzBbtXBS1
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Tittle: The Effects of Sevin (acetylcholine blocker) on the Threshold of the Gastronomous of Lithobates Sphenocephalus
+
+Abstract:
+This experiment explores the effects that an acetylcholine blocker (sevin) has on the twitch threshold of Lithobates Sphenocephalus. By taking three frog legs and testing their thresholds through direct stimulation of the gastrocnemius we are able to obtain the control threshold of the legs. Each leg is then injected with seven, and the thresholds are tested again after a five minute resting period. The new thresholds obtained are representative of the treatment thresholds. We hypothesise that the treatment threshold will be higher due to the mechanism that is required for muscle contraction. The data was analyzed using a one tailed Paired T-Test. The P value was found to be .112 and the data was said to be insignificant, thus the hypothesis was rejected. 
+
+Introduction:
+Muscle contraction is stimulated through motor neurons which send action potentials that release acetylcholine into the synapse and bind to the motor end plate on the muscle. The acetylcholine sends another action potential along the membrane of the muscle cell where structures known as T Tubules conduct this action potential into the sarcoplasmic reticulum which releases calcium. The calcium that is released binds to proteins on the actin filaments which expose myosin binding sites. The myosin globular head binds to the binding site and then undergoes a “power stroke” which requires the change of conformation of ATP into ADP. In order to release the bond now formed by actin and myosin, an ATP molecule must bind on the globular head, making ATP vital for muscle movement [Sadava: 2017]. The action potentials which signal the sequence of these events can be recorded by placing electrodes that measure the voltage difference between the inside of the membrane and the extracellular fluid. The threshold of the action potential is the minimum amount of stimulation required in order to trigger an action potential. These concepts have been tested by manipulating the homeostasis of the steps needed in order for these processes to occur. For example, studies have been conducted that test the effects of  noradrenaline on the threshold of a guinea pig. In order to test these effects, the thresholds of the animals were recorded before and after the injection of the chemical [Paton:1969]. In this experiment, we use a similar method to test the effects of an Acetylcholine blocker on the muscle contraction of Lithobates Sphenocephalus. By placing two electrodes into the gastrocnemius of the Southern leopard frog leg, we are able to measure the effects of direct stimulation. Through this method we are able to find the minimum amount of voltage required to signal a visible contraction in the frog leg. After finding the leg’s initial threshold we inject it with Sevin (acetylcholine blocker) and compare it to the threshold found initially. We hypothesise that if we inject the the frog leg with Sevin, the threshold of the frog leg will be higher than it was without the Sevin. 
+
+Materials and Methods:
+In this experiment three frog legs were used. Each leg served as its own control and treatment group. First, the frog leg was skinned in order to expose the muscle tissue. Next, a scissor was used to separate the connective tissue that was holding the gastrocnemius muscle to the tendon. After these two were seperated, the rest of the white tendon was cut in order to be separated from the rest of the frog leg. This hanging peace of tendon was used as a place to tie a string around. The string was knotted around this tendon and then hung on the apparatus in preparation for the experiment. Once the frog leg was hung, the tightness of the string was adjusted until it was taught but not too tight. Two electrodes were put into the gastrocnemius of the frog leg. Ringer was sprayed constantly in order to keep the leg moist. Once the preparation was set up, the frog leg was shocked by varying voltage, and the movement that resulted was recorded. The frog was shocked with fewer voltage until the minimum voltage required to get a visible contraction was noted. After the threshold of the frog leg was found, the frog leg was injected with 1 ML of 2% seven. The needle was placed on the top, middle and bottom of the gastrocnemius in order to even out the solution. After the Seven was injected into the leg, it was set to rest for five minutes. Once the five minutes were up, the electrodes were placed back into the frog leg and it was shocked once again. The minimum amount of voltage required to get a visible response was recorded as the new threshold. This procedure was done three times on each frog leg and three sets of controls and treatment data were collected. In analyzing the data a paired T Test was used. 
+
+Results:
+The first frog had a control threshold of .25V and a treatment threshold of .7V. The second frog had a control threshold of .3 V and a treatment threshold of .48 volts. The third frog leg had a control threshold of .35V and a treatment threshold of .5V. The average difference between these values is .26. The degrees of freedom is 2. The T- value is 2.7 and the P-value .112. 
+
+Discussion:
+The data was analysed to be statistically insignificant and thus the hypothesis is rejected. Although the data shown in Figure 1 shows the relative trends that were expected, it is not statistically significant. This could mean that the concentration of sevin that was injected into the frog leg was not enough to make a significant increase in the threshold. However, similar studies have been conducted in which other acetylcholine blockers have been injected and tested for differences in threshold. For example, a study observed the difference that acetylcholine blocker made in the pacemaker cells of a rabbit heart [Morton: 1990]. This study found that overall, a decrease in the amount of acetylcholine present resulted in a higher threshold. This could be explained by observing the mechanism that drives muscle contraction. When an action potential is sent throughout the motor neuron, it releases acetylcholine. This neurotransmitter then binds to receptors on the motor end plate which stimulate the action potential in the muscle fibers. It is important to note that the extent of depolarization of the muscle fiber is directly proportional to the amount of acetylcholine present in the synaptic cleft. For this reason, the lack of acetylcholine results in less depolarization of the muscle fiber. Since a set amount of depolarization is needed in order to stimulate the rapid opening of Sodium Channels, a higher voltage is now required in order to cause the frog leg to release the same amount of acetylcholine. By increasing the threshold, we attempt to release the amount of acetylcholine necessary to twitch the muscle fiber. This is presented in the results as an increase in threshold because more stimulation is now needed in order to get the muscle to twitch. Future experiments should test the concentration of acetylcholine blocker needed to make significant changes in the threshold. Other experiments can look at the use of acetylcholine in pesticides affect the health of animals and humans. 
+
+Literature Cited:
+Sadava, David E., et al. Life: the Science of Biology. Freeman, 2017. Hall, J M, and I K Morton. “Mechanism of Action of Substance P in Guinea-Pig Ileum Longitudinal Smooth Muscle: a Re-Evaluation.” The Journal of Physiology, vol. 431, no. 1, Jan. 1990, pp. 529–541., doi:10.1113/jphysiol.1990.sp018345. Paton, W. D. M., and E. S. Vizi. British Journal of Pharmacology, U.S. National Library of Medicine, Jan. 1969, www.ncbi.nlm.nih.gov/pmc/articles/PMC1703074/.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-30+at+12.10.48+PM.png&Size=71323&Type=image%2Fpng&F=F_3KZaLglzf3urMli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Control and Treatment thresholds of Lithobates Sphenocephalus by direct stimulation of the Gastrocnemius. *************************************************************************
+
+
+

@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-10 14:35:40
+Author of this lab report is: Std_hvuzu3iB
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Sodium butyrate has not significant effect on Physarum polycephalum plasmodium growth through signal transduction pathway
+
+Abstract:
+Physarum polycephalum, slime mold, provides a model for the study of signal transduction in cells. Major signaling pathways in P. polycephalum induce release of calcium ions for further signaling. Ca2+ has been found to have excitatory effect on plasmodium growth. This study utilizes aforementioned characteristic of Ca2+ to determine the effect of sodium butyrate on growth. Sodium butyrate upregulates calcium influx from rough endoplasmic reticulum. It was assumed that sodium butyrate has positive effect on plasmodium growth due to raised Ca2+ level. The control agar plates were soaked in 5 mL of water for 10 minutes, while the treatment plates were soaked in 5 mL of 100 μM sodium butyrate. 1-cm2 plasmodium slabs were inserted into the empty squares in each plate. After 48 hours of incubation, their surface areas were measured and compared. A two-sample t test showed no significant difference between the average surface areas of the two groups (p=0.973), indicating that sodium butyrate does not affect growth. However, there has been little research showing a linear relationship between calcium level and growth in P. polycephalum. Failure to quantify the effect of sodium butyrate by growth could be attributed to the lack of correlation between calcium level and growth.
+
+Introduction:
+Appropriate and prompt responses to changes in environment are essential to cell survival. Cells detect external signals and respond by altering their behaviors through signal transduction pathway. From a single-cell zygote to a complex multicellular organism, signal transduction plays an important role in regulating a variety of cell autonomous activities. It is therefore of our interest how a mass of cells produces unified response with the proper magnitude. The slime mode, Physarum polycephalum, is a good model for such studies. In the present study, we examined the effect of sodium butyrate, a calcium ion release enhancer, on the growth of plasmodia. A plasmodium is a life stage of P. polycephalum when it grows in a dark and humid environment. It is a mass of P. polycephalum nuclei, yet it behaves as a unicellular multinucleated organism. 
+There are two major signaling pathways in P. polycephalum, the G-protein coupled pathway and the ion channel-coupled pathway. In both pathways, release of Ca2+ from the smooth endoplasmic reticulum is a common result when the receptors are activated. Oscillating calcium concentration regulates the contractions of its intracellular microfilament network; hence, intracellular Ca2+ level is a determinant of plasmodium growth [Grigoriey: 2016]. In the presence of food, calcium channels are induced to open. Previous studies showed the enhancing effect of increased Ca2+ level on plasmodium migration, and consequent growth. Sodium butyrate was proved to upregulate calcium release from the ER [Sun: 2012; Zhang 2016]. In this study, 1 cm x 1 cm slabs of plasmodium were cultured in either water-soaked agar plate or sodium butyrate-soaked agar plate. After 48 hours, the surface area of each slab was measured. Increased level in Ca2+ concentration in the plasmodium was hypothesized to increase rate of signaling cascade and causes accelerated growth. Therefore, we assumed that plasmodium slabs in sodium butyrate-soaked plates would have statistically significantly larger surface area than those cultured in water-soaked plates after 48 hours. 
+
+
+Materials and Methods:
+All the plasmodium slabs in this experiment were from the Physarum stock plate provided by the laboratory. The stock plate plasmodia were fed on oat flakes on the surface of the agar. Sterile technique with ethanol and alcohol lamp was used throughout the preparation process. 
+12 plates were divided into two groups of 6 plates. The first group of plates were control plates. Each of the agar was soaked in 5 mL of water for 10 minutes. The second group were the treatment plates. The agars were soaked in 5 mL of 100 μM sodium butyrate solution for 10 minutes. After soaking, excess liquid in each plate was removed so that the agars were not overly humid. Then, two 1-cm2 squares were cut with spatula and forceps from the center of each 100 mm petri plate containing water-agar medium. 12 plates were prepared, with sterilization of tools between each cut. 
+A 1-cm2 square of plasmodium with oat flake on the surface from the stock plate was inserted into the each in the agar plates. Immediately after placing the plasmodium, the agar plates were wrapped in foil and kept in the incubator. The cultures had grown for 48 hours in the incubator before they were taken out for measurement of surface area. The software ImageJ was used to measure the surface area after each slab. 
+A two-sample t-test (α = 0.05) was performed to compare surface area of the control plates and that of the treatment plates.
+
+
+Results:
+Figure 1 shows the average surface areas of control slabs and treatment slabs after 48 hours. There was no significant difference (t-test = 0.035, df = 10, p = 0.973) in the mean surface area of slabs cultured in water-soaked agar plates (x̄ = 1552.8 cm2) and the surface area of slabs cultured in sodium butyrate-soaked plates (x̄ =1564.7 cm2). 
+
+Discussion:
+The result failed to support our hypothesis. Statistically there was no significant difference in growth as indicated by surface area between water-treated and sodium butyrate-treated plasmodium slabs. Our result contradicts with early studies which revealed the upregulation of calcium release from rough endoplasmic reticulum by sodium butyrate.
+However, the standard error of the control group shown in Fig. 1 is much larger than the standard error of the treatment group. It appears that sodium butyrate regulated calcium release more than other environmental factors presented in this study. The consequent rate of growth in the treatment group is more unified in the treatment group. 
+There exists error in the present study. Surface areas of the entire slabs were measured and compared. Nevertheless, the initial 1-cm2 of each slab was not cut precisely due to human error. The data would have been more justified had we accurately measured the initial surface area as well as final surface area. Comparisons should have been made with the percent increase in surface area of each slab.
+In addition, there was a flaw in our experimental design. Growth, quantified by surface area, was used as an indication of intracellular calcium ion concentration. The present study is only valid if there is a positive correlation between calcium level in the cell and its growth rate. However, few research has been done on how growth is affected by a range of calcium ion concentrations. On the other hand, a high calcium concentration may lead to different responses in a range of time. Previous study has demonstrated 2 mM of calcium ions have enhancement effect on growth initially, yet after 48 hours it becomes a growth inhibitor [Terry: 2009]. Moreover, another research found that inhibition of a calcium-dependent protein kinase has no significant effect on plasmodium growth [Ansell: 2014]. Thereby, there appears to be no direct relationship between calcium level and growth, or between sodium-butyrate and growth.
+Further study should be done on the relationship among intracellular calcium level, activity of calcium-dependent kinases and plasmodium growth rate. We also suggest measuring increment percent increase in surface area over intervals of a few hours. 
+
+
+Literature Cited:
+1. Grigoriev PA, Matveeva NB, Teplov VA. 2016. The autowave electromechanical activity of the Physarum polycephalum plasmodium. Biophysics. 61(5):748-54.
+2. Sun S, Li W, Zhang H, Zha L, Xue Y, Wu X, Zou F. 2012. Requirement for store-operated calcium entry in sodium butyrate-induced apoptosis in human colon cancer cells. Biosci Rep. 32(1):83–90.
+3. Zhang JT, Yi M, Zha LY, Chen SQ, Li ZJ, Li C, Gong MX, Deng H, Chu XW, Chen JH, Zhang ZQ, Mao LM, Sun SX. 2016. Sodium butyrate induces endoplasmic reticulum stress and autophagy in colorectal cells: Implications for apoptosis. Plos One. 11 (1): e0147218.
+4. Terry LC, Stefanski JM, Eisemann BA. 2009. Effects of calcium on growth of Physarum polycephalum. Bios, Vol. 80 (4): 159-63.
+5. Ansell KH, Jones HM, Whalley D, Hearn A, Taylor DL, Patin CE, Chapman TM, et al. 2014. Biochemical and Antiparasitic Properties of Inhibitors of the Plasmodium Falciparum Calcium-Dependent Protein Kinase PfCDPK1. Antimicrobial Agents and Chemotherapy. 58 (10): 6032–43. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-08+at+11.27.42+PM.png&Size=78222&Type=image%2Fpng&F=F_3KO7yPynbAzsBgy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average surface area of slabs in the control group (n=6) and slabs in the treatment group (n=6) after 48 hours of incubation. Error bars represent +/- one standard error. Two-sample t-test showed no significant difference between the surface areas of the two groups (p=0.973).
+
+*************************************************************************

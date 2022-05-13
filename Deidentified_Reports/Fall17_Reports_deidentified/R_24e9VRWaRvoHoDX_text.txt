@@ -1,0 +1,98 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 15:30:50
+Author of this lab report is: Std_OYOpoHH9
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Examining the effect of lidocaine on muscle twitch via electrical stimulation of sciatic nerve in frog gastrocnemius
+
+Abstract:
+Lidocaine is used in the medical field for numbing. On a molecular level, lidocaine blocks sodium channels, which are required for generating action potentials in muscle cells that aid in muscle contractions. The hypothesis is, that when treated with lidocaine, a muscle will require a higher electrical pulse to trigger contracting versus an untreated leg. This occurrence is due to limited firing of action potentials affected by reduced flow of sodium. We tested this hypothesis on the gastrocnemius of Rana pipiens, also known as the northern leopard frog.
+
+We isolated the sciatic nerve and calf muscle from surrounding tissue in the leg, and stimulated the nerve with electrical pulses to cause a muscle twitch. The voltage produced by each twitch and the pulse amplitude required to initially get the muscle to twitch were observed.
+
+Statistically significant results of a paired, two-sample t-test, showed that lidocaine lowers the contraction strength in the muscle, however the increase in twitch threshold between untreated and treated legs was not statistically significant. Therefore, our hypothesis was not supported, but we still had interesting results.
+
+Further experimenting of what this drug does to muscles will hopefully develop better practices in the medical field.
+
+Introduction:
+Skeletal muscle in both vertebrates and invertebrates are made of muscle fibers, which are innervated and controlled by motor neurons. The axons of these motor neurons run through the entirety of each fiber. When electrical impulses arrive at the neuromuscular junctions (where the motor neuron axons meet the muscle fibers) (Johnson: 2017), neurotransmitter acetylcholine is released from the presynaptic terminal of the motor neuron into the synapse. Acetylcholine then binds to a specific receptor on the membrane of a muscle fiber (the postsynaptic terminal) which triggers the opening of sodium channels within the fiber. The rush of sodium into the muscle cells causes Ca2+ to enter the muscle fibers, which enables the contraction of the muscle. The flow of the electrical impulse through the neuron, into the synapse (as a chemical signal) and to the muscle fibers to cause a contraction is referred to as an action potential (Sadava: 2016). 
+
+The action potentials that travel through the motor neurons and muscle fibers, and ultimately cause the muscle to twitch, are made possible by Ca2+ ions, which depend on the sudden change in membrane potential from a rush of sodium ions into the cell (Sadava: 2016). These sodium ions require channels to gain access inside the cell, thus, without working sodium channels, action potentials will not be able to fire and the muscle will not contract. Lidocaine is a numbing agent used by medical professionals in surgical scenarios. It is also a substance that blocks sodium channels, and therefore limits the firing ability of action potentials. 
+
+Each muscle possesses a twitch threshold, which is defined as the amount of electrical stimulation required to cause a muscle to twitch. The twitch threshold varies based on type of muscle and organism (Sadava: 2016). We predict that twitch threshold can also be affected by certain substances such as lidocaine. Since lidocaine acts as a sodium channel blocker, the motor neurons and muscle fibers will be less able to fire action potentials due to lack of working sodium channels. We hypothesize that lidocaine will thus increase the twitch threshold of the muscle. 
+
+For this experiment, we will be using the calf muscle (gastrocnemius) of Rana pipiens or northern leopard frog. This muscle is innervated by the sciatic nerve (Johnson: 2017), which we will be stimulating with electrical pulses to trigger a contraction in the muscle. 
+
+Materials and Methods:
+Materials
+
+The LabScribe computer program was used to monitor muscle activity. The sciatic nerve was attached to an electrode which connected to a voltage box, which connected to the computer that ran the program. Three different frog legs were used as well as several dissecting tools to isolate the gastrocnemius and sciatic nerve. A string tied to an adjustable stand with a clamp were used to suspend the gastrocnemius perpendicular above a dissecting platform. Pins were used to keep the rest of the leg flat on the dissecting platform. A syringe was used to inject about 0.2 mL from a vial containing 25 mM lidocaine solution into each leg. Ringer’s solution was also used as needed to keep the frog leg moist. 
+
+Procedure
+
+Three frog legs from freshly killed frogs were randomly chosen. 
+
+Once the skin was removed, the sciatic nerve was gently pulled out at the top of the thigh and the calf muscle was cut away from the bone and surrounding tissue down to the ankle joint (left intact at the knee joint) and suspended (Johnson: 2017). 
+
+On the computer program the pulse width was set to 5 ms and the frequency was set to 1 Hz. These values remained constant (Johnson: 2017). 
+
+The untreated frog leg was first stimulated with one pulse at 0-volt pulse amplitude. Each subsequent stimulation consisted of 1 pulse at 0.1 volts higher than the previous pulse amplitude (1 pulse at 0.1 volts, 1 pulse at 0.2 volts etc.). Stimulation was terminated after 0.5-volt pulse amplitude. Then, the frog leg was stimulated with 5 pulses, each at whatever pulse amplitude first caused the frog leg to twitch during the 1-pulse trials (Johnson: 2017). 
+
+After this procedure, the gastrocnemius of the same frog leg (remaining in suspended position) was injected with lidocaine in the middle, top, and bottom parts of the muscle. Five minutes was allotted to allow the lidocaine to take action. Then, the same steps used when the leg was untreated were followed with the treated leg. Twitch thresholds and strengths in the untreated and treated legs were recorded for each pulse.   
+
+This entire procedure was repeated two more times with the other two frog legs.
+
+The statistical method used to interpret data was a paired, two-sample t-test. 
+
+
+Results:
+The voltages produced from the 5-pulse tests at threshold amplitude for each leg were used for calculation of average contraction strengths, and the amplitude (threshold) used for each 5-pulse test was used for calculation of average twitch thresholds. We only used the data from the 5-pulse test because it gave us more contraction values at threshold amplitude than the 1-pulse test, therefore it would give us more accurate statistical values.
+
+The threshold amplitudes were either 0.2 or 0.3 for each leg. Two of the three treated legs had higher twitch thresholds (0.3) than those of the untreated legs (all 0.2). One of the treated legs had a twitch threshold of 0.2. The results for the difference in average twitch thresholds were not statistically significant, as the p-value is roughly 0.12 (see figure 1). The degree of freedom for this test was 4.
+
+Meanwhile, the p-value for the difference in muscle contraction strengths for treated and untreated legs at twitch threshold for 5 pulses is roughly 0.006, meaning that these results were statistically significant (see figure 2). The degree of freedom for this test was 28. 
+
+One of the treated frog legs (the only one whose twitch threshold was at 0.2) produced 3 out of 5 contractions that were of zero voltage. The other two treated frog legs, which were stimulated at a slightly higher amplitude due to higher twitch threshold, produced higher contraction values than that of the treated leg at 0.2 amplitude.
+
+Overall, the general trend of the data seems to be significantly lower muscle contractions in muscles treated with lidocaine, and a higher, though not significantly higher, twitch threshold in treated muscles. 
+
+
+Discussion:
+Based on our results, we cannot conclude that lidocaine heightens twitch threshold. These findings do not support our hypothesis, nor do they refute it. However, we did discover a statistically significant difference in contraction strength, as lidocaine lowered the voltage generated at threshold amplitude. These findings pose a need for more studies on how exactly lidocaine works in muscles and how it lowers contraction strength.
+
+While our experiment focused on the broad concept of twitch threshold to test the effects of lidocaine, there have been studies on what lidocaine does to muscles on a more cellular level. The specificity of these experiments can help us better understand how and why we got the results that we did. One experiment in particular, for which the article is posted in The Journal of Physiology, focused on the effects of lidocaine on “Na+ current” around cells (Chen: 2000). The findings of this experiment could explain the findings of ours: that lidocaine reduces the voltage produced by a muscle in a way similar to lowering Na+ count (Chen: 2000). In other words, the experimenters found that the administration of lidocaine to a cell seemed to reduce the flow of sodium ions. As explained in the introduction, the flow of sodium ions in and out of the cell are required for the generation of action potentials, so without this flow, the muscle will not contract as willingly. Therefore, this study further supports our findings that lidocaine does affect contraction strength. It could also explain if and why lidocaine heightens twitch threshold. It is unknown why we didn’t get statistically significant results for twitch threshold. Perhaps we should have used more than three frog legs for the experiment.
+ 
+Additionally, if it was not the lidocaine that affected the contraction strength, then it could have been muscle fatigue associated with the decline in number of calcium ions. Each frog leg was tested without lidocaine first, and then injected and tested with lidocaine, so by the time the frog leg was treated with lidocaine, the muscle had already been working for some time. While we did let the muscle rest for about 5 minutes after injection, it may not have been enough time for calcium ions to replenish, so the muscle could have run out of calcium ions. Calcium is needed in addition to sodium ions and channels to cause contracting of the muscle. Thus, the lowering of contraction strength could have been due to a lack of calcium rather than blocked sodium channels from the lidocaine. Future studies should be done using a completely different set of frog legs for the control and treatment groups, to ensure that the decline in contraction strength is due to the lidocaine and not fatigue. 
+
+Additionally, it would be interesting to test the relationship between muscles and lidocaine on different organisms, to see if our results are applicable to other species. Hopefully, with more investigation into this concept, along with information from previous studies, we will come to a better understanding of how muscles respond to outside influence: more specifically, how muscles respond to drugs, which can improve methods within the medical field. 
+
+
+Literature Cited:
+1. Johnson AD. Neuromuscular Control. Biological Principles Laboratory Manual. Dept. 
+           Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated August 2, 
+           2017), pp. 19–24.
+
+2. Chen Z, Ong BH, Kambouris NG, Marbán E, Tomaselli GF, Balser JR. 2000. Lidocaine 
+            induces slow inactivated state in rat skeletal muscle sodium channels. The Journal of Physiology. 254 (Pt. 1): 37-49
+
+3. Sadava, Hillis, Heller, Hacker. 2016. “Neurons, Glia, and Nervous Systems.” Life: The 
+           Science of Biology. 11th ed. Sunderland: Sinauer Associates. Pp. 942-950.  
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-31+at+3.28.52+PM.png&Size=114711&Type=image%2Fpng&F=F_4UhYl8OwzSDGTYh
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-31+at+3.30.27+PM.png&Size=118640&Type=image%2Fpng&F=F_7VT6YgYXf8575pr
+
+
+
+
+
+
+
+Figure Legends: 
+
+
+*************************************************************************

@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-05 12:35:58
+Author of this lab report is: Std_tkaErchw
+ID: R_2X0ais3NyAl3IZp
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: Effect of dirty water on aggression rates in male Betta splendens
+
+Abstract:
+	This experiment set out to determine the effect that a drastic change in environment would have on the aggression level of Betta splendens (Betta fish) over time. Placing the Betta fish in soil-filled water was expected to have a significant effect on their rate of aggression. The interactions between three male Betta fish were observed first in clean water, then again in dirty water. Each behavior was assigned a number corresponding to a level of aggression. These numbers were then combined for each trial and divided by the time elapsed to come up with an aggression rate. It was found that there was no significant difference in aggression rate between Bettas in the clear water versus the dirty water. 
+
+
+Introduction:
+Impaired vision has been shown to distort the senses and make stimuli seem more threatening, thereby increasing aggressive behavior seen in animals [Siever: 2014]. Studies have shown that certain stimuli can induce a display of unlearned aggressive behaviors in male Betta splendens (Betta fish) [Thompson: 1965]. Dirty or otherwise clouded water reduces the water’s transparency and the fish’s visibility, meaning that the fish need to rely on other senses in order to navigate and identify threats [Sundin: 2011]. Male Bettas in the presence of other males have been known to display fighting behaviors in response to the other males [Bronstein: 1981]. These behaviors are known as agonistic displays, aggressive behaviors intended to demonstrate the fighting capacity of an individual without undergoing the risk that comes with actually engaging in a fight [Tachon: 1999]. While it can be difficult to meaningfully quantify an organism’s aggressive behavior, Betta fish in particular are known to have predefined levels of aggression. These behaviors include different fin movements, as well as color changes and the presence of a mane, and can be assigned numbers indicating increasing the aggression levels [Bones: 2017]. In this lab, we set out to determine how a drastic change in environment would affect the aggressive behaviors displayed in the interactions of three male Betta fish. We predicted that putting the Betta fish in water filled with soil (their natural habitat) would have a significant impact on their level of aggression when interacting with other male Bettas. 
+
+
+Materials and Methods:
+We used three male Betta fish, each one with an assigned number (1, 2, or 3). The three fish were kept in a standard size fish tank filled with clean water. Two sets of clear and opaque plastic dividers were inserted into the tank, creating three enclosures of equal size for each fish. We then observed the interaction between each combination of two fish after removing the divider (allowing them to interact within the same section). These combinations included 1 & 2, 2 & 3, and 1 & 3, with observations being made on fish 1, 2, and 3 respectively for each group. For each target fish, we assigned the following numerical values to each behavior: erect pectoral fin (1), gill flaring (2), presence of a mane (3) (known as facing movements) as well as fin flickering (1), tail beating (2), and tail flashing (3) (known as broadside movements). The numerical ranking indicated the level of aggression of each behavior (with 1 designating the lowest and 3 designating the highest). A rest period of five minutes was given between each interaction. We then filled another tank with dirt and added an identical amount of water. We then observed the same combinations of fish and recorded their behaviors as we did in the clear water. Each observation took place for five minutes, or up until when one fish physically attacked another. We took the point values for each aggressive behavior and multiplied them by the number of times each behavior appeared for a given trial, then took this number and divided it by the total time elapsed for that trial to get a rate of aggression for each trial. It was necessary to divide each total aggression number by the time in order to take into account trials that lasted shorter than the full five minutes. A paired t-test was used to test for significant difference between the aggressiveness in the clean water and dirty water group. 
+
+
+
+Results:
+The data indicate that the Betta fish in clean water had a higher aggression rate on average. Betta fish in the clean water had an average aggression rate of 0.14±0.093, while Betta fish in the dirty water had an average aggression rate of 0.013±0.023 (Figure 1). The mean rate of the control group was not significantly higher than that of the experimental group (t = 2.8030, df = 2, P = 0.1072). 
+
+
+
+Discussion:
+	Because the results did not indicate a significant difference in the aggression rates between the experimental and control groups, our hypothesis was not supported. While the fish in the clean water did display a higher rate of aggression on average than those in the dirty water, the difference in those rates was not significant. While the Betta fish’s natural habitat is in water with soil, the Bettas used in our experiment were bred in captivity, and therefore would not display an instinctual response to being placed back in their natural habitat. The fish placed in the murky water were also given time to acclimate, which may have further decreased their response. Fish reared in hatcheries show a dramatic change across a wide variety of genes after only one generation of being in captivity, which allows for considerable adaptation to their new environment [Christie: 2016]. Because we used domesticated Bettas, they may have lost certain adaptations used by the wild-types. This experiment is worth repeating, both under the dirty water conditions as well as under different conditions, such as restricted or enhanced nutrient levels. On a broader level, humans have had a great deal of influence on the course of many species’ evolution by means of domestication [Trut: 2009]. While unintentional at first, humans have consciously selected both behavioral and physical traits that we as a species deem favorable (such as selecting Bettas with more vibrant colors, for example) [Trut: 2009]. In addition to the selection of aesthetic traits like color, artificial selection through domestication has greatly diminished the aggressive behavior seen in many wild-type populations of animals [Trut: 2009]. It is important to understand the effects of domestication in order that we understand the evolutionary impact we have on many species. 
+
+
+Literature Cited:
+Siever, L.J. 2014. Neurobiology of aggression and violence. The American Journal of Psychiatry 4: 429-442.  
+Thompson T. et al. 1965. Visual reinforcer color and operant behavior in Siamese fighting fish. Journal of the Experimental Analysis of Behavior 8: 341-344. 
+Sundin J. et al. 2011. Sex in murky waters: algal-induced turbidity increases sexual selection in pipefish. Behavioral Ecology and Sociobiology 5: 78. 
+Bronstein PM. 1981. Commitments to aggression and nest sites in male Betta splendens. Journal of Comparative and Physiological Psychology: 436-449. 
+Tachon G. et al. 1999. Agonistic displays and the benefits of fighting in the field cricket Gryllus bimaculatus. Journal of Insect Behavior 12: 4.
+Bones J. and Johnson T. 2017. Aggressive displays in male Betta splendens based on color patterns. Thinking Matters. 83.
+Christie et al. 2016. A single generation of domestication heritably alters the expression of hundreds of genes. Nature Communications 7. 
+Trut L. 2009. Animal evolution during domestication: the domesticated fox as a model. Bioessays 3: 349-360.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=betta_graph.PNG&Size=22798&Type=image%2Fpng&F=F_1ih9jd4sD6RK98y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Mean aggression rate seen in the interactions of three male Betta splendens in clean and dirty water (error bars are ±1 s.d.) *************************************************************************
+
+
+

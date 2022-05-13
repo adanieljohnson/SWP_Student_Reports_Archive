@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-03-04 10:23:51
+Author of this lab report is: Std_jyvds7Hq
+ID: R_3elzYqpmnbCnsEU
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: Salinity stress exerts negative impact on F. Esculentum growth and leads to altered resource allocation pattern
+
+Abstract:
+Organisms adapt to biotic and abiotic environments for survival. Salinity is a very important abiotic factor that may influence plants behavior (e.g. growth pattern, resource allocation and reproduction). Saline soil may occur naturally or may be caused by human activity like irrigation,  and largely influences agricultural yield. Buckwheat (F. Esculentum) is a common agricultural plant that is sensitive to salinity. For agricultural benefit, it is important to understand its resource allocation pattern under salinity stress (3% NaCl solution, 50mL/2days). The expectation was that with presence of salinity stress, Fagopyrum Esculentum plants will exhibit a decrease in growth rate and will allocate more resources to the root in order to deal with the osmotic stress led(caused?) by increase in ion (solute) level in the soil. The resulting data supported this hypothesis, as it showed significant decrease of full plant length and significant increase in root:shoot ratio of the experimental group in comparison to the control group. This result shows that salinity stress has negative effect on Fagopyrum Esculentum growth and leads to alternated resource allocation pattern.
+
+Introduction:
+Living organisms adapt to different biotic and abiotic factors via alternating their behaviors (e.g. Energy capturing, reproduction and growth pattern) in order to achieve better fitness for survival [Johnson: 2018]. A plant can be considered as having three parts: root, stem, and shoot. Root is the primary absorptive organ. Shoot is the main photosynthetic organ, and also controls gas exchange. Stem supports the structure of shoot [Johnson: 2018]. There is a trade-off relationship between root and stem, as resources are always limited; with more resources allocated to the root, fewer will be available for the shoot and stem [Johnson: 2018]. As a result, calculating root to shoot ratio is a common way of assessing plants’ resource allocation and growth pattern.  From previous studies, researchers realize that soils with high level of soluble salts affect plant growth at various stages, leading to yield differences between crops. Agricultural yield may be largely influenced by high soil salinity, as salinity stress may influence plants’ growth rate, reproduction and tillering negatively  [Roy: 2014]. Similarly, salt accumulation in leaves may increase leaf mortality [Horie: 2012]. Buckwheat (Fagopyrum Esculentum) is a commonly consumed agricultural plant that is sensitive to salinity stress, as suggested in previous studies [Lim: 2012]. As Na+ and Cl- concentration increase in the soil, buckwheat plants will encounter an osmotic stress : with greater concentration gradient of water, their roots spend more effort to absorb water[Lim, 2012]. 
+In this experiment, buckwheat’s response to salinity stress is tested. As previous studies suggest, salt stress may lead to decrease in biomass of buckwheat root and shoot and slow down the growth rate of buckwheat shoot [Roy, 2014] [Budagovskaya, 2010]. Based on previous knowledge on buckwheat growth, we hereby hypothesize that salinity stress will increase its root to shoot ratio, as it decreases the growth rate of buckwheat shoot and may lead buckwheat to allocate more resources to the root, due to the osmotic stress caused by accumulation of high NaCl level in the soil. 
+
+Materials and Methods:
+Buckwheat was cultivated in plastic trays with 50 ml of Miracle-Gro mixed into the soil, settled in a greenhouse with controlled humidity, temperature and constant exposure to natural light.  Two trays (the control group) were treated with 50mL of tap water every two days. The other two trays (the experimental group) were treated with 50mL of 3% NaCl solution every two days. Plants were harvested after two weeks from cultivation. Six individuals were collected from each group (control and experimental) when harvesting broke the vermiculite with water, then dried the plants. We measured the length of a whole plant, then separated the root from the shoot and stem carefully from the starting of the root. Then the shoot length was measured and recorded, which was then subtracted from the whole length to obtain the root length. Each individual’s full length, root length and shoot length were recorded, and the Root: shoot ratio was calculated with the data obtained. All length were measured in cm. We then calculated the average of the whole length, root length, shoot length and the R:S ratio respectively. One-tailed two sample t-test was used to assess the difference between the root: shoot ratio of length (length ratio?) of Buckwheat plants under different salinity level (0% or 3%).
+
+Results:
+The mean full length of the control group is 17.8 ±2.944 (cm) and the mean root:shoot ratio for length of the control group is 0.927 ±0.148(cm).  The mean full length of the experimental group is 5.133 ±1.457(cm), and the mean root:shoot ratio for length of the experimental group is 6.186 ±3.313(cm). The one-tailed two sample equal variance t-test shows that the root:shoot ratio of experimental group is significantly different (higher or lower?) from the control group (t-stat = 0.3884, df = 10, P = 0.00152). As the one-tailed two-sample equal variance t-test indicates, the full length of experimental group buckwheat is significantly different/lower than that of the control group.  (t-stat =9.444, df = 10, P=1.34x10⁻⁶). During the experiment, there was a significant difference in the rate of growth and the shoot/stem length observed. Also, the experimental group did not develop leaves with a darker color on its stem.
+
+Discussion:
+This experiment supports our hypothesis, that with the presence of salinity stress / salt water, buckwheat plants will exhibit a significant decrease in their growth rate and an increased root:shoot ratio. We observed significant decrease of the plants’ full length and significant increase of r:s ratio between the experimental and control group. This suggests that with salinity stress (3% NaCl, 50mL/2 days) buckwheat plants grow significantly slower, especially on the shoot, as they would allocate more resources to the root to cope with the osmotic stress, as concentration of Na+ and Cl- ions increase in the soil [Lim: 2012]. As previous studies suggested, salt water may slow down the growth rate of buckwheat shoot and decrease its biomass [Budagovskaya: 2010][Roy: 2014]. This indicates that salinity stress may have greater negative influence on buckwheat shoots than its roots. Further studies can be done using NaCl solution with a larger variety of concentrations to understand the growth pattern of buckwheat in saline soil. With different concentrations of NaCl solution, we can simulate different severity levels of salinity stress and thus assess the the maximum salinity tolerance of buckwheat (the highest salt concentration that buckwheat plants can cope with, without being negatively influenced significantly in terms of growth rate).
+
+According to United Nation FAO (food and argriculture organization of UN) starting from 1970-1980, there are 397 million ha saline soil and 434 sodic soil worldwide. Saline soils do not only occure naturally, but can be induced by human behaviors, such as irrigation and using salt commonly for ice melting. The soil salinity is a growing threat to agricultural activity. Studying buckwheat growth pattern in saline environment can help us understand more about its living pattern and may give us important advice on making better agricultural decisions and may potentially help us increase its yield.
+
+
+Literature Cited:
+1.	Budagovskaya, Natalia V. “Rapid Response Reactions of Buckwheat Plant Shoots to Changes in Sodium Chloride Concentration at the Root Zone and Blockage of Calcium Channels.” The European Journal of Plant Science and Biotechnology, 21 Mar. 2012.  
+2.	“FAO.org.” International Rice Commission Newsletter Vol. 48, FAO of the UN, www.fao.org/soils-portal/soil-management/management-of-some-problem-soils/salt-affected-soils/more-information-on-salt-affected-soils/en/.
+3.	Horie, Tomoaki, et al. “Salinity Tolerance Mechanisms in Glycophytes: An Overview with the Central Focus on Rice Plants.” Rice, vol. 5, no. 1, 2012, doi:10.1186/1939-8433-5-11. 
+4.	Johnson AD. Ecology and Evolution Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.  
+5.	Lim, Jeong-Ho, et al. “Effect of Salinity Stress on Phenolic Compounds and Carotenoids in Buckwheat (Fagopyrum Esculentum M.) Sprout.” Food Chemistry, vol. 135, no. 3, 2012, pp. 1065–1070., doi:10.1016/j.foodchem.2012.05.068.   
+6.	Roy, Stuart J, et al. “Salt Resistant Crop Plants.” Current Opinion in Biotechnology, vol. 26, 2014, pp. 115–124., doi:10.1016/j.copbio.2013.12.004.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+1-XiaotianJ.png&Size=32896&Type=image%2Fpng&F=F_1CJSWgSfUjt86U8
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2-XiaotianJ.png&Size=27115&Type=image%2Fpng&F=F_BWkD5VR9ZUHEs37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1: Average root:shoot ratios of Buckwheat plants of control and experimental (NaCl treated) group including the standard deviation; length measured in cm, error bar ±2 s.d
+Figure 2: The average full lengths of Buckwheat plants of control and experimental (NaCl treated) group including the standard deviation; length measured in cm, error bar ± 2 s.d*************************************************************************
+
+
+

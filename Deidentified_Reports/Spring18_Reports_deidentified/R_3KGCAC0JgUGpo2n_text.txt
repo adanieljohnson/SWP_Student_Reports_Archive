@@ -1,0 +1,84 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-10 19:25:55
+Author of this lab report is: Std_9Tx5dRN8
+ID: R_3KGCAC0JgUGpo2n
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: EDTA/SrCl inhibits the calcium ion pathway in Physarum polycephalum, preventing cellular growth in the organism
+
+Abstract:
+	In order for cells to respond to aspects of their surroundings, they must contain a signaling pathway which relays external information to cause internal changes. In the case of growth of Physarum polycephalum, the calcium ion pathway leads to the activation of the ryanodine receptor which increases internal calcium. These ions then act on AM protein to facilitate actin polymerization to provide growth. It was hypothesized that growth can be inhibited by blocking the surface channels which initiate this entire pathway. Three groups of p. polycephalum were treated with either EDTA/SrCl2, Ca+2 (positive control), or distilled water (control). After incubation of 15 and 24 hours they were measured for growth. It was found that EDTA/SrCl2 prevented growth in the p. polycephalum cell. For this reason, it is thought that these inhibitors prevent calcium from entering the cell and, thus calcium release inside the cell was also blocked leading to stunted growth of the organism.
+
+
+Introduction:
+	In order for cells to respond to their surroundings and internal states, they must have a way to detect what is going on in the extracellular space and in the cytoplasm. Various signaling mechanisms allow for the cell to respond to changing conditions in its environment. This can either occur through direct alteration of cellular conditions or second messengers which can activate other proteins through a signaling cascade. Movement is one possible response of a cell. The primary cytoskeletal element that cells use to initiate movement is actin filaments. g-Actin can polymerize and push on the membrane of a cell to help move it in a specific direction (Alberts et al., 2014). This process is especially dependent on intracellular calcium concentration to increase actin polymerization (Ridgway & Durham, 1976). Specifically, this concentration changes in response to the environment to initiate growth of the leading edge in physarum polycephalum. A receptor on the outside of the cell detects an environmental ion to initiate chemotaxis. This receptor can then activate surface calcium receptors to bring calcium into the cell. The rise in cytoplasmic calcium then will activate ryanodine receptor in the smooth endoplasmic reticulum to add even more calcium to the cytoplasm (Clapham, 2007). Calcium release then activates actin modulating protein in the cell which will cause actin polymerization and cell motility (Hinssen, 1981).
+	To study this signaling pathway, the organism p. polycephalum was utilized. This organism was specifically chosen because it readily responds to chemicals in its external environment. Additionally because it is a large single-celled organism, it is extremely easy to observe its specific cellular motion (Johnson, 2018). 
+	P. polycephalum growth/movement has specifically been found to be directly dependent on the concentration of calcium within the cytoplasm of the cell (Shemarova & Nesterov, 2005). Thus, to verify this, it would be prudent to identify how a lack of intracellular calcium affects P. polycephalum growth during chemotaxis. EDTA and SrCl2 is a known inhibitor of the surface calcium ion channels which begin this whole process. If we give a P. polycephalum culture Ca2+ channel blockers EDTA and Strontium Chloride, then its growth will be inhibited because the intracellular Ca2+ needed to augment actin microfilament assembly in leading edge growth will not be present. 
+
+
+Materials and Methods:
+	First, Calcium ion solution was diluted 1 mL in 19 mL of water (1 mM). 1 mL of SrCl and 1 mL EDTA were combined and diluted in 18 mL of water (1 mM each). Three water agar plates were coated and soaked in calcium solution (positive control), three were soaked in SrCl2/EDTA solution and three were soaked in distilled water for 10 minutes and drained. Three 1 cm squares were then cut in each plate. P. polycephalum was received from stock P. polycephalum polycephalum cultured on water agar plates incubated at 37˚C. The center square received a block of p. polycephalum polycephalum, the right square was cut and left in the agar as a control and the left square was filled with a block of 25 mM glucose-enriched agar to promote chemotaxis. P. polycephalum was stored in agar plates prior to use. After 15 hours and after 24 hours of incubation at 37˚C, the growth of each p. polycephalum was recorded in mm. A 2-sample t-test assuming equal variance was conducted to determine the statistical significance of the data. Any detected outliers were removed from the data sample.
+
+
+Results:
+After 15 hours of incubation, the EDTA/SrCl2 treated plates showed no statistical decrease in p. polycephalum growth (t(4)=1.936, p=.148). However, after 24 hours had passed, the EDTA/SrCl treated plates engaged in zero growth, producing a statistical significance from the control group treated with distilled water (t(4)=6.423, p=.00764). In both time intervals, the Ca+2 treated group (positive control) exhibited no statistical difference from the control group (t(4)= -2.35, p=0.078). The control group grew an average of 38 mm (SD=7.94) while the EDTA/SrCl treated group grew 0 mm. An outlier in the EDTA/SrCl2 group was removed because it grew 60 mm while the others exhibited zero growth. 
+
+
+Discussion:
+	It was hypothesized that EDTA/SrCl2 would inhibit the calcium ion signaling pathway leading to a lack of growth in response to an environmental stimulus and the results confirmed this notion. After 24 hours of incubation, none of the p. polycephalum exhibited any growth whatsoever while the control group grew an average of 38mm. Thus, the presence of EDTA and SrCl2 prevented the p. polycephalum from taking in any calcium and drastically increasing its intracellular calcium levels. Because of this activity, intracellular calcium release could not occur and actin could not polymerize to induce movement in the organism. This is consistent with the idea that SrCl2 is especially active in blocking calcium channels and thus affects this pathway (Trollinger Donna R., Rivkah Isseroff R., & Nuccitelli Richard, 2002). Additionally, to get rid of any excess calcium that may have been in the cytoplasm before the inhibitor could take full effect, EDTA may have eliminated it from the cell itself. This goes along with research that demonstrates that EDTA is known to generally scavenge and eliminate calcium (Götz von Olenhusen & Wohlfarth-Bottermann, 1979). Despite the absence of calcium in the surrounding water agar, the cell still moved in control conditions. A possible explanation of this is that the P. polycephalum released calcium into the surrounding area, which then was taken into the cell by these surface calcium channels to activate ryanodine and cause a spike in intracellular calcium causing movement. This is true given that other molds have shown to excrete calcium in times of stress (Bechtel & Horner, 1975). In the experimental conditions, the EDTA/SrCl2 solution blocked the surface channels from reuptake of the secreted calcium and thus no incoming calcium ions could activate the ryanodine receptor, inhibiting growth.
+	While the results appear to be successful, there are some possible sources of error/confounds in this experiment. First, it is extremely difficult to create openings in the agar and blocks of P. polycephalum that are identical in size. Sometimes the p. polycephalum needed to be squeezed into the hold or (if it was too small) pushed to ensure that it was touching the medium. This could alter the results because squeezing the block could damage the p. polycephalum while p. polycephalum that are too small may not make contact with the agar and thus not detect the presence of chemicals in that agar to cause a reaction. Additionally, it is possible that the EDTA/SrCl2 did not completely absorb into the agar. We only allowed absorption of solution into the agar for ten minutes before draining, so it’s possible that there was an insignificant amount of inhibitor in the agar. This would lead to the fact that the inhibitor is not what caused the lack of growth I the experimental group but rather some other factor. 
+	Some future experiments could provide further information regarding signaling pathways leading to growth in p. polycephalum. Specifically, stimulating growth by blocking reuptake of calcium could provide information about the signaling pathway when it is constitutively active. This would lead to more information regarding the role of intracellular calcium in other behaviors as well. Additionally, it could be worthwhile to determine the effects when the ryanodine receptor is blocked while the surface calcium receptors remain active. This would provide information as to whether the extracellular calcium intake is enough to facilitate growth when it is not supplemented with calcium from calcium stores within the smooth ER. 
+	EDTA/SrCl2 clearly reduced growth in the p. polycephalum. Because their primary function is to inhibit the uptake of extracellular calcium through surface Ca channels, they clearly have an effect on the intracellular calcium levels which influence growth in the organism. For this reason, it was concluded that the inhibitors prevent growth by not blocking this uptake and scavenging calcium which never allows intracellular calcium stores to be released. These findings show real-world significance because it could show how to control/prevent the growth of molds like the p. polycephalum which may be unpleasant in the home. Thus, by stopping its growth at a cellular level by preventing intracellular calcium release, the growth of these pests can be blocked with the controlled use of EDTA/SrCl2 solutions. 
+
+
+Literature Cited:
+1.	Alberts, Bray, Hopkin, Johnson, Lewis, Raff, … Walker. (2014). Essential Cell Biology (4th ed.). Garland Science.
+
+2. Bechtel, D. B., & Horner, H. T. (1975). Calcium excretion and deposition during sporogenesis in&lt;Emphasis Type="Italic"&gt;Physarella oblonga&lt;/Emphasis&gt;. Calcified Tissue Research, 18(1), 195–213. https://doi.org/10.1007/BF02546240
+
+3. Clapham, D. E. (2007). Calcium Signaling. Cell, 131(6), 1047–1058. https://doi.org/10.1016/j.cell.2007.11.028
+
+4. Götz von Olenhusen, K. G., & Wohlfarth-Bottermann, K. E. (1979). Effects of caffeine and D2O on persistence and de novo generation of intrinsic oscillatory contraction automaticity in P. polycephalum. Cell and Tissue Research, 197(3), 479–499.
+
+5. Hinssen, H. (1981). An actin-modulating protein from P. polycephalum polycephalum. II. Ca++-dependence and other properties. European Journal of Cell Biology, 23(2), 234–240.
+
+6. Johnson, D. (2018). BIO 214L Lab Manual.
+
+7. Ridgway, E. B., & Durham, A. C. (1976). Oscillations of calcium ion concentrations in P. polycephalum polycephalum. The Journal of Cell Biology, 69(1), 223–226. https://doi.org/10.1083/jcb.69.1.223
+
+8. Shemarova, I. V., & Nesterov, V. P. (2005). Evolution of Ca&lt;Superscript&gt;2+&lt;/Superscript&gt;-Signaling Mechanisms. Role of Calcium Ions in Signal Transduction in Lower Eukaryotes. Journal of Evolutionary Biochemistry and Physiology, 41(4), 377–390. https://doi.org/10.1007/s10893-005-0073-8
+
+9. Trollinger Donna R., Rivkah Isseroff R., & Nuccitelli Richard. (2002). Calcium channel blockers inhibit galvanotaxis in human keratinocytes. Journal of Cellular Physiology, 193(1), 1–9. https://doi.org/10.1002/jcp.10144
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+7.19.24+PM.png&Size=43574&Type=image%2Fpng&F=F_DCQ0uxhErRO2bRL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+7.19.33+PM.png&Size=46035&Type=image%2Fpng&F=F_3mkBblQVewuvIZ3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Figure one illustrates p. polycephalum growth after 15 hours of incubation. Bars represent means, error bars represent standard deviations.
+
+Figure 2: Figure two illustrates p. polycephalum growth after 24 hours of incubation. Bars represent means, error bars represent standard deviations.
+
+*************************************************************************

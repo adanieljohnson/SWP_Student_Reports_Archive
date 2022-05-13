@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2017-11-14 19:46:49
+Author of this lab report is: Std_d6vnLGUx
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effect of imposed dark conditions on specific metabolic rate of Procambarus sp. (crayfish)
+
+Abstract:
+A useful indicator of energy transfer is measurements of metabolic process. One way to examine this is through specific metabolic rate measurements. We were motivated to create a system to examine the relationship between environmental light conditions (room light vs darkness) and rate of metabolism in crayfish, to test the hypothesis that an environmental change from room light to darkness will result in a decrease in crayfish’s metabolic rate (seen in oxygen consumption). To test the hypothesis, a system was created using each of the individual crayfish as its own control in an O2 consumption testing chamber with a control of room light and experimental manipulation of darkness with tin foil wrapping of the chamber. The paired T-test results show that the hypothesis was unsupported, changing the room light conditions to darkness did not have a significant decrease on the specific metabolic rate, thus further studies need to be conducted. Ultimately, changes in light exposure of an environment is a condition that most organisms experience daily and that has an effect on their energy expenditures, thus it creates changes in their metabolic processes.
+
+
+Introduction:
+Metabolism describes the process of balancing energy capture, conversion and transfer within cells or an organism. This plays a fundamental role in demonstrating the sources of energy that an organism uses to adapt and respond to environmental changes. A useful indicator of energy transfer is measurements of metabolic process. One way to examine this is through specific metabolic rate measurements (amount of oxygen consumed per gram of body mass per unit time).  A common environmental change that most organisms are subjected to is light conditions. A previous study on light conditions and metabolism showed that an adult tilapia tends to have a higher metabolic rate during periods of light as opposed to periods of dark under otherwise normal environmental conditions [Kumar: 2002]. Considering that a crayfish is also a marine organism, they would be subjected to similar environmental conditions as the tilapia, consequently it would be ideal for crayfish to consume less oxygen during periods of darkness as opposed to the light. Procambarus sp. (crayfish) are a good model organism for the process of metabolism because they are ectotherms, therefore their metabolic rates are easily changed directly as a result to current environmental conditions. Thus we were motivated to create a system to examine the relationship between environmental light conditions (room light vs darkness) and rate of metabolism in crayfish, to test the hypothesis that an environmental change from room light to darkness will result in a decrease in crayfish’s metabolic rate (seen in oxygen consumption).
+
+
+Materials and Methods:
+To test the hypothesis, a system was created using each of the individual crayfish as its own control. In order to prepare the testing chamber, we put the crayfish (after weighing it) in a jar and filled the jar with room temperature water (22˚C). We then sealed the jar with the oxygen probe attached through the middle of the lid, and placed the jar in a plastic dishpan filled with the same temperature water. Initially we took a baseline reading of the amount of oxygen in the water and continued to record the oxygen levels every 5 minutes for 20 minutes. After 20 minutes we measured the volume of the water in the jar and using the same crayfish we refilled the jar, wrapped it in tin foil and did the same procedure. Three trials were conducted using this method with a new crayfish each time. We collected these measurements in order to calculate specific metabolic rate through oxygen consumption. We used the following equation: change in oxygen (mg/L) x volume of water (L) / 20 min. x mass of the crayfish (g).
+To complete a statistical analysis using each crayfish as its own control, we used a paired T-Test. This tested our null hypothesis that the specific metabolic rate of crayfish will not change in darkness. We set our significance level at 0.05.
+
+
+Results:
+Based on the data there seemed to be an apparent trend in the change in the specific metabolic rate of a decrease in value from light conditions (control) to dark conditions, however the third trial with an increased rate did not support this trend (Figure 1). 
+The paired T-Test produced the following results (t-stat = 0.898, d.f. = 2, P = 0.464) to report the statistical analysis of the difference between the specific metabolic rates of control and experimental light conditions (Figure 2).
+
+
+Discussion:
+The results show that the hypothesis was unsupported, changing the room light conditions to darkness did not have a significant decrease on the specific metabolic rate (Figure 2) and the statistical analysis reveals that the null hypothesis was supported that the specific metabolic rate will not have a significant change in darkness. For many species of crayfish diurnal metabolism is generally lower while metabolism during the night tends to be higher [Rice: 1974] because crayfish are nocturnal organisms and therefore expend more energy at night. The study also showed that there was a delay in the change in metabolism for crayfish experiencing conditions of light to darkness [Rice: 1974]. Thus, while our experiment results did not show a significant change in specific metabolic rate the data could be explained by the common delay. A potential error in the construction of our experiment could be the length of time that oxygen consumption was measured. If the light and dark conditions were measured for a longer period of time, the insignificance of data created by taking measurements during a period of delay could potentially be avoided. Another experiment demonstrated a decrease in oxygen consumption by two species of crayfish under extreme elongated periods of exposure to light [Fanjul-Molesa: 1998]. This also functions to explain why our results did not support the prediction that darkness will decrease O2 consumption, potentially the darkness of the environment would lead to an increase. The third trial hints at this idea as well because it was the only crayfish with a large change in specific metabolic rate (approximately 0.001) and was the only crayfish to have an increase in specific metabolic rate, while the change of the other two trials did not exceed a difference greater than 0.00005 (figure 1). The results of the third crayfish may differ from the other two trials because it had a much greater size, therefore its metabolic process may be on a greater scale leading it to have experienced a shorter delay and results more closely related to the expectation of previous studies. The next logical step would be to repeat the experiment for a longer amount of observational time to factor in the delay with a modified hypothesis that conditions from light to darkness will result in an increased metabolic rate for crayfish. Ultimately, changes in light exposure of an environment is a condition that most organisms experience daily and that has an effect on their energy expenditures, thus it creates changes in their metabolic processes. This is particularly significant in ectotherms because changes in their environment has a more direct effect on their energy and metabolism. As in the case of Procambarus sp., changes in the environment will not only affect how their energy is managed within internal processes but will affect the organism’s ultimate survival. 
+
+Literature Cited:
+1.	BISWAS, A. K. and TAKEUCHI, T. 2002.Effect of different photoperiod cycles on metabolic rate and energy loss of fed and unfed adult tilapia Oreochromis niloticus: Part II. Fisheries Science. 68: 543–553. 
+
+2.	Rice P.R., Armitage K.B. 1974. The effect of photoperiod on oxygen consumption of the crayfish Orconectes nais (Faxon). Comparative Biochemistry and Physiology Part A: Physiology. 47: 261-270.
+
+3.	Fanjul-Molesa M.L., Bosques-Tistlera T., Prieto-Sagredoa J., Castanon-Cervantesa O., Fernandez-Rivera-Riob L. 1998. Effect of Variation in Photoperiod and Light Intensity on Oxygen Consumption, Lactate Concentration and Behavior in Crayfish Procambarus clarkii and Procambarus digueti. Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology. 119: 263-269
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=45687&Type=image%2Fpng&F=F_6l2uQ14y2jgZmkZ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=34677&Type=image%2Fpng&F=F_1XtktbbrA5yWAVn
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Effect of darkness on specific metabolic rate measurement for the individual crayfish.
+The control (yellow bars) show the specific metabolic rate in room light conditions before dark conditions were imposed upon was the system for each crayfish (#1-3). The bars labeled dark (blue bars) refer to the specific metabolic rate after experimental darkness was imposed upon the system with the tin foil method for each crayfish. Each bar is the specific metabolic rate in the individual crayfish.
+
+Figure 2: Effect of darkness on average specific metabolic rate measurements in crayfish.
+The control (yellow bar) shows the mean specific metabolic rate in room light conditions before dark conditions were imposed upon was the system. The bar labeled dark (blue bar) refers to the specific metabolic rate after experimental darkness was imposed upon the system with the tin foil method. Each bar is the mean specific metabolic rate in the crayfish; error bars are s.d. 
+
+*************************************************************************

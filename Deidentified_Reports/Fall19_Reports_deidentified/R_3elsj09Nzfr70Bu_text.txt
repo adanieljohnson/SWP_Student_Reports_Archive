@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-21 12:36:18
+Author of this lab report is: Std_ENoByDk6
+ID: R_3elsj09Nzfr70Bu
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: Survivability and Resource Allocation in Vigna radiata Based on Plant Proximity
+
+Abstract:
+When plants grow, they compete with each other to gain more resources for reproduction, one strategy for this is plants changing how and where they grow. This experiment was completed with the intention of understanding how the proximity of plants to each other impacts survivability and resource allocation. This was done by planting Vigna radiatas in both clumped and spread out environments and then recording their survival percentage and root-to-shoot ratio. The survival percentage was similar between the two environments and there was no statistical significance with the averages being 82.2% for clumped and 88.8 for spread and the p-value being 0.539. Results for the root-to-shoot ratios were similar with the averages being similar and the data having a p-value of 0.406.
+
+Introduction:
+For this experiment we were interested in understanding how intraspecies competition of plants impacts their survivability rate. Intraspecies competition in plants is reflected and can be observed through how they allocate their resources. Plants have the ability to choose where they are going to apply the resources they gather and will always grow to maximize the amount of resources they can gather. [McConnaughay:1999] When they are in strong competition with each other for the same resources this allocation gets amplified out of necessity to survive. To simulate this, we will be growing Vigna radiata and observing how they allocate their resources. Vigna radiata, or mung bean was originally grown in India and widely grown for its use as a human food. They are warm season plants and recommended to be grown in highly fertile soil and to be planted at a rate of 9 seeds/ft. [Oplinger:1997] Data will also be collected to analyze how clumping impacts the competition between these plants and attempt to observe changes in resource allocation. In this lab, Vigna radiata will be gathered in groups of 15 and used to simulate clumped and spread planting environments and their survivability rate and root-to-shoot ratio will be recorded. In theory, the more severe the clumping of plants the more severe the level of competition between plants should be. Therefore, plants exposed to reduced sunlight would be expected to shift resources toward stem and leaf growth, and to pigments associated with light capture.” [McConnaughay:1999] This raised level of competition should also force plants to devote resources to make themselves more competitive, which should, in this case, be some increase in root and/or shoot length. For the Vigna radiatas, we hypothesize that the spread pots will have a higher survival percentage and a lower root-to-shoot ratio due to them having more room to freely grow and gather more resources.
+
+Materials and Methods:
+First small pots were filled with vermiculite to one centimeter below the top. 15 Vigna radiata seeds were then collected and planted in each pot with three pots being clumped and three pots being spread. For the clumped, a hole was dug in the center of the pot and all 15 were planted in that hole. For spread, five holes were dug in an X as far apart as possible and three seeds were planted in each hole. The holes were then covered with soil and the pots were moved into a greenhouse under identical conditions. Plants were watered everyday with 150 mL of water for two weeks. After the two weeks the plants were taken out of the greenhouse to be measured. The number of grown/living plants in each plot was recorded as a percentage out of the 15 originally planted seeds and categorized under clumped and spread. The soil was then removed from each plot and the plants were separated out. Each plant was then cut in half, separating the root from the shoot. The lengths of the roots and shoots were then individually measured in cm to calculate root-to-shoot ratio. For both the average survivability and the root-to-shoot ratio a one tailed two-sample t-test was conducted to determine statistical significance.  
+
+Results:
+The average survival percentage for clumped plants was 82.2% and 88.8% for spread as seen in Table 1. There was no statistically significant difference (t=0.67, df=4, p=0.54) between the sets of data. The average root-to-shoot length ratios for clumped plants was 0.791, 0.654, and 0.507 and 0.818, 0.653, and 0.745 for spread. There was no statistically significant difference (t=0.93, df=4, p=0.41) between the sets of data.
+
+Discussion:
+The data shows that there is no statistical significance between the performance of the clumped vs. spread Vigna radiata plants. With p-values, shown in Table 1 and Figure 1, that are higher than the alpha (0.05), we fail to reject the null hypotheses. This means that we do not have enough data or information gathered to come to a plausible statistically significant conclusion. This data is consistent with the results that were collected in a previous experiment conducted in this class observing Vigna radiata plants in the sun vs. Vigna radiata plants in the shade. The information in this experiment also proved to be statistically insignificant. Though these two experiments produced similar data, they were very similar in many of the variables that the plants were subjected to and therefore could have been flawed in the same ways. Based on other studies, plants are predicted to respond to low nutrient availability by shifting their partitioning of resources to processes that aid in nutrient capture when faced with an environmental deficiency. [McConnaughay:1999] The small differences in the data begin to reflect this as what small difference that there is between the data reflects that the plants that are in greater competition should be surviving less and growing less due to less resources which is consistent with the idea of allocation theory. [Bazzaz:2005] The data also begins to reflect the fact that plants that are left in a resource rich environment should exhibit maximum growth to collect maximum resources. [Intraspecific Competition:2007] 
+Though this experiment and the previous experiment done in class yielded the same results, they could have been flawed in the same ways. The plants might have not had enough time to actually react to the competition between each other fully as well as there might have been too high of an amount of resources supplied to make the intra species competition have a large impact. The clumping of the plants also may not have been severe enough or different enough between pot types as the pots were very small for 15 seeds.
+With no statistically significant data this lab does not contribute to the knowledge that exists on resource allocation, however, with future studies to gain more accurate results, the data could contribute to broader stains of the scientific community. Resource allocation and plants reaction to competition/stress in instrumental in crop yields, further plant studies, and plant tolerance. [Ruan:2013] By gathering more significant results, these experiments could help inform farmers on how tightly they can plant certain crops to get the greatest yield possible. They could also help future biologists understand and explain certain behaviors that plants exhibit by being able to attribute those behaviors to a plants reaction to stress due to being too tightly packed in their environment or not receiving enough resources.
+
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake
+Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15-16.
+
+2. McConnaughay, K.D.M., Coleman, J.S., 1999. Biomass allocation in plants: ontogeny or optimality? a test along three resource gradients. Ecology 80, 2581–2593. https://doi.org/10.1890/0012-9658(1999)080[2581:BAIPOO]2.0.CO;2
+
+3. Intraspecific Competition of Mung Beans - 1795 Words | Bartleby [WWW Document], n.d. URL https://www.bartleby.com/essay/Intraspecific-Competition-of-Mung-Beans-F3JPL29K6YYS (accessed 10.21.19).
+
+4. Ruan, Y.-L., Patrick, J.W., Shabala, S., Slewinski, T.L., 2013. Uptake and regulation of resource allocation for optimal plant performance and adaptation to stress. Front Plant Sci 4. https://doi.org/10.3389/fpls.2013.00455
+
+5. E.S. Oplinger, L.L. Hardman, A.R. Kaminski, S.M. Combs, and J.D. Doll, 1997. Mungbean [WWW Document], n.d. URL https://hort.purdue.edu/newcrop/afcm/mungbean.html (accessed 10.21.19).
+5. Bazzaz, F., Ackerly, D., Reekie, E., 2005. Reproductive Allocation in Plants.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-21+at+10.31.27+AM.png&Size=87339&Type=image%2Fpng&F=F_2qlc3CsY1DTGxJb
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=27440&Type=image%2Fpng&F=F_Q5LvfOJ7WlVEyd3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Survivability results from both clumped (C) and spread (S) pots.  With a T-value of 0.67, 4 degrees of freedom, and a P-value of 0.54 this data is not statistically significant.
+
+Figure 2. Average root-to-shoot length ratios for both clumped and spread pots. With a T-value of 0.927, 4 degrees of freedom, and a P-value of 0.406 this data is not statistically significant.*************************************************************************
+
+
+

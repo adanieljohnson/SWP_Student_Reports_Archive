@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-29 11:00:34
+Author of this lab report is: Std_y3GPJu6m
+ID: R_3kn5D8zPhTGKTNi
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The relationship between the inhibition of phosphodiesterase and growth of Physarum polycephalum
+
+Abstract:
+Physarum polycephalum, a species of slime mold, reacts to the outside environment without containing a nervous system.  It utilizes various signaling pathways to convert extracellular stimuli into intercellular signals.  More specifically, the signaling the cAMP-mediated pathway was studied.  This signaling pathway depends on the second messenger cAMP and cAMP will continue to activate other proteins until it is deactivated by phosphodiesterase.  P. polycephalum was grown within the presence of caffeine, which is a known inhibitor of phosphodiesterase.  These agar plates were incubated for 24 hours and after the incubation period, the migration distances of the physarum were measured.  Overall, there was a significant difference between the physarum that grew in agar plates with caffeine over the physarum that grew in just agar.  These results suggest that there was an inhibition of phosphodiesterase that led to a continued signal propagation in the physarum.  This leads to a more active growth of the slime mold over the slime molds that were not exposed to caffeine.
+
+
+
+Introduction:
+The ability to detect and react to various stimuli is common and vital for the survival of cells of organisms.  It does not matter the size; unicellular or multicellular organisms have the capacity to detect their environments.  Physarum polycephalum, a slime mold, and even though the slime mold does not have a nervous system, it is still capable of responding to its environment.  It is also multinucleate syncytium, which houses multiple nuclei within the same cytoplasm, which is called a plasmodium and each plasmodium acts as one cell and undergoes mitosis in synchrony [Johnson: 2016].  The slime mold has many behaviors for example, P. polycephalum is capable of growing towards or away from different chemical substances depending on the toxicity of the substances [Ueda: 1975].  It also has a light taxis, which enables it to grow away from a light source 
+	P. polycephalum reacts to its environment because of its various signaling pathways and its use of second messengers.  The pathway specifically explored within this study was the cyclic AMP signaling pathway.  Within this pathway, extracellular stimuli excite a G-protein receptor [Yan:2016].  This causes an effector enzyme to generate a second messenger, which can activate other enzymes within the cell.  One common second messenger within the cAMP-mediated pathway is cyclic adenosine monophosphate [Johnson: 2016]. This pathway continues until it is stopped by phosphodiesterase, an enzyme that breaks down cAMP.   One such inhibitor of phosphodiesterase is caffeine [Kincaid: 1975].  Caffeine was added to physarum cultures to explore the explore the effects of P. polycephalum growth towards a food source (oatmeal) [Johnson: 2016].  Our hypothesis was that the slime mold would migrate further towards the oatmeal if it was in the presence of caffeine. 
+
+
+Materials and Methods:
+A 20x solution of caffeine was diluted down to a 1x solution by taking 1mL of the 20x solution of caffeine and adding 19mL of distilled water into a test tube.  This solution was then mixed to allow the caffeine to be fully dissolved within the water.  6mL of the 1x caffeine solution was then added to three, 100 mm petri plates containing 2% agar in water.  The petri dishes were left to dry.  After 20 minutes, the petri dishes were gently spot dried by using kimwipes.  After the petri dishes had dried, a 1cm x 1cm was cut from all three petri dishes using a spatula that was sterilized using ethanol.  This process was then repeated for another three, 100 mm petri plates containing 2% agar in water, but this time, without the addition of the caffeine solution. 
+	After the petri dishes were prepared, the physarum was added to all six petri dishes.  This was accomplished by cutting six, 1cm x 1cm squares from the physarum culture and placing one square into each petri dish using sterile forceps.  Then oatmeal was added to one side in all the petri dishes.  The petri dishes were then taped shut and covered with aluminum foil and placed inside an incubator at 37C for 24 hours.  After the 24 hours, the distance the physarum travelled by measuring from the bottom of the square from where the physarum was placed to the furthest point at which the physarum had traveled.
+
+
+Results:
+According to Figure 1, The Physarum polycephalum that was exposed to caffeine had an average migration of 11.33 ± 1.25 mm.  The Physarum that was not exposed to caffeine had an average migration of 2.33 ± 0.471 mm.  The p-value was 0.00034 after a one tailed  t-test.  
+
+Discussion:
+The goal of this experiment was to determine the relationship of caffeine and slime mold growth.  The results of this study lead to the conclusion that caffeine promotes migration towards a food source.  This is shown by the significantly different migration distances between physarum that was grown in agar plates with and without caffeine.  Figure 1 shows, on average, a 132% difference between the two treatment groups, which lead to a p-value of 0.00034.
+	The biological mechanism that explains this behavior of physarum migration is rooted within the cAMP signaling pathway.  The food source, oatmeal flakes, is a known stimulus for physarum migration [Johnson 2016].  This means, that physarum has an affinity to grow towards oatmeal flakes.  The oatmeal flakes serve as extracellular signals, which stimulate G-protein receptors and thus produces the second messenger cAMP.  Eventually, this signal is shut down by phosphodiesterase [Yan: 2016]. With the introduction of caffeine, the activity of phosphodiesterase is inhibited, which results in a continuous growth towards the stimulus.   Caffeine is also an attractant for physarum.  Previous studies have found that physarum has a positive chemotaxis towards caffeine at a peak concentration of 10-3M [Kinkaid: 1975].  This could also explain why the physarum in the caffeine medium had such a higher migration pattern.  The whole plate was stimulating physarum growth while at the same time inhibiting phosphodiesterase.  The caffeine agar plates contained two attractants (caffeine and oatmeal), while the water agar plates only contained one positive chemotaxis element for physarum
+ 	Overall, the hypothesis is supported through the data that was collected because the data supports the notion that caffeine inhibits phosphodiesterase activity which would make the physarum have a greater migration distance.  The findings of this experiment can be applied towards other studies because it expanded on the behavioral capabilities of Physarum polycephalum.  With this knowledge, it will be possible to conduct more complex studies on slime molds to determine the exact mechanisms on how physarum can identify their environments without the help of a nervous system.
+
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+2.	Kincaid RL. Mansour ET. 1979. Cyclic 3’,5’-AMP Phosphodiesterase in Physarum polycephalum. Biochimica et Biophysica Acta. 588: 342-350.
+3.	Ueda Tetsu. 1975. Threshold Phenomena in Chemorecption and Taxis in Slime Mold Physarum polycephalum. General Physiology. 65:223-234
+4.	Yan Kuo. Gao Li-Na. Et al. 2016. The cyclic AMP signaling pathway: Exploring targets for successful drug discovery (Review). Molecular Medical Reports. 13(5): 3715-3723.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Annotation+2018-11-29+105817.jpg&Size=25744&Type=image%2Fjpeg&F=F_3Gfi55i76k2nws7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average migration of Physarum polycephalum after 24 hours with and without caffeine*************************************************************************
+
+
+

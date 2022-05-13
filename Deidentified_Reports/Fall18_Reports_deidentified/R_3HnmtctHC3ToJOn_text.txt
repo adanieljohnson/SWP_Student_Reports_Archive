@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-27 22:40:47
+Author of this lab report is: Std_84UjNqDQ
+ID: R_3HnmtctHC3ToJOn
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Understanding Calcium-Activated Growth in Physarum polycephalum
+
+Abstract:
+Physarum polycephalum is a multinucleate syncytium slime mold which used to study processes of single-cell organisms. Physarum uses calcium-activated signaling for movement, similar to the actin-myosin process in humans. The effect of excess calcium ions, as well as the presence of EDTA and strontium chloride were studied on physarum and compared to a control group. It was hypothesized that excess calcium should stimulate growth, while EDTA and strontium chloride solution should inhibit growth. At the end of the incubation period, no physarum growth was observed. It is believed that the physarum had entered the sclerotium hibernation phase of life, and therefore did not grow. Future studies should focus on the ideal growth conditions of physarum polycephalum. 
+
+Introduction:
+In order for any organism to function, its cells must be able to communicate with one another. This communication is called cell signaling, and it can help direct the behavior of the organism.   Physarum polycephalum is a type of slime mold called a multinucleate syncytium, that has one plasma membrane that contains several nuclei. Due to these properties, each grouping of physarum behaves like a single cell. Physarum polycephalum is used in laboratory settings to study the processes of single cells without having to study on a microscopic level. Physarum responds to its environment through intracellular signal transduction pathways, as opposed to the hormones or nervous system that most other multicellular organisms use. Most behaviors occur through G-protein coupled receptor pathways or ion-coupled receptors. One of these pathways is the Ca2+ - activated signaling, where calcium ions are released from the endoplasmic reticulum. Calcium channels present on the plasma membrane are triggered to open in response to some external stimuli. The calcium in the external environment flows into the cell via diffusion but is not present in a high enough concentration to alter the behavior of calcium dependent enzymes. This calcium can diffuse to the ryanodine receptor on the endoplasmic reticulum. The activation of this receptor opens calcium channels, releasing the ions from the ER. These ions bind to proteins regulated by calcium, with either an inhibitory or stimulatory effect [Johnson: 2016].   One of these effects is stimulatory on movement behavior. Calcium binds to actin-myosin complexes to stimulate contractions and movement associated with muscle and non-muscle cells. It has been found that EDTA is able to sequester calcium ions due to its role as a chelating agent. A chelating agent can form bonds with a metal ion, sequestering it from the rest of the solution. Calcium ions can be bound by EDTA, making them inaccessible to the calcium dependent proteins, which prevents the proteins from altering the behavior of the physarum. It has also been found that calcium gated channels tend to stay closed in environments with high concentrations of strontium ions. If the channels stay closed, the dependent proteins can again not alter the movement of the physarum [Rodriguez-Contreras: 2008]. For these reasons we hypothesize that the presence of a higher concentration of calcium ions on a PDA plate will stimulate the growth of the physarum. We also hypothesize that a mixture of EDTA and strontium chloride, serving as a source of strontium ions, will inhibit calcium channels, and therefore reduce growth of the physarum.
+
+Materials and Methods:
+Nine PDA plates were divided into three groups, control, inhibited, and stimulated, and labeled. The stimulated plates were soaked for ten minutes in 5 mL of 1 mM solution of calcium ions. The inhibited plates were each soaked in 5mL of  1mM  solution of each strontium chloride and EDTA. The control plates were not soaked. After ten minutes, the plates were drained of the excess solutions. Each plate had a 1cm by 1cm piece of agar cut and removed from the center using sterile instruments.  A 1cm x 1cm block of agar from a Physarum stock plate was added to each of the nine experimental plates. The closed and secured plates were placed inside of an opaque plastic bag and placed into an incubator for 18-24 hours. After this time, the growth of the Physarum on the experimental plate was measured. If no growth was observed, the Physarum were left in the incubator for another 18-24 hours and remeasured.   Planned statistical analysis was a one-way ANOVA test using an alpha of 0.05.
+
+Results:
+We found that after 48 hours of incubation, none of our physarum samples demonstrated growth. All demonstrated bacterial growth.   Assuming our hypotheses were correct, we should have found significantly more growth in the plates soaked with excess calcium ions. A moderate amount of growth should have been found in the control plates, but less than those soaked with calcium ions. Plates soaked with a combination of EDTA and strontium chloride should have been observed to have little to no growth of the physarum. Hypothetical growth patterns are demonstrated in Figure 1.  Had our plates demonstrated growth, a one-way ANOVA would have been performed. Any p-values less than 0.05 would have demonstrated significant difference between the specified groups. Any p-values greater than 0.05 would have meant that no significant difference in growth was observed between groups.
+
+Discussion:
+Our hypotheses could neither be supported nor rejected as our physarum did not grow in any of our plates, including the control group. It appears that the physarum’s normal growth shut down, for which there are several reasons.  It has been found in previous research that physarum demonstrates different growth in the presence of different types of sugar. Glucose yields the highest amount of growth and positive chemotaxis, while the physarum did not react to sucrose. While dextrose, the sugar present in our PDA plates was not included in this study, it is possible that physarum naturally does not respond to this type of sugar [Carlile:1970]. Another similar study found that physarum demonstrated reduced growth rates when stimulants or necessities for rapid growth were necessary. It is possible that the presence of calcium in our experiment reduced the rate of growth [Knowles: 1978]. Another study found that the myosin filaments in physarum are inhibited by calcium ions, which operate in a different manner than the vertebrate calcium-triggered contraction mechanism [Zhang: 2016]. While this could account for a lack of growth in the presence of calcium, it would not account for the lack of growth in the other two control groups.   It has also been demonstrated that physarum will rearrange itself to find the shortest distance between itself and a food source [Akita: 2017]. It could be the case that the slime mold was already in the most appropriate position for food, given that it was being grown on a PDA plate, with the same amount of food available at any location.   The most likely cause of no growth is that the physarum had entered the stage of life called sclerotium, which is a form of hibernation that the plasmodium goes into when conditions for growth are not optimal [Johnson: 2016]. These conditions could include a lack of food or a low humidity level. A starved physarum may at first move rapidly in order to find food, but eventually loses nuclei and undergoes mitosis less frequently, resulting in little growth [Guttes: 1961].  Given that none of our physarum samples migrated or grew over an extended incubation time, it is possible that the stock sample we were provided had already entered the sclerotium stage before we created our sample plates. In this case, the physarum would not grow, remaining dormant until optimal conditions arose.   Had the physarum grown, we could have used the information on calcium-dependent signaling to determine how excess calcium or inhibiting calcium channels could impact humans. Increasing calcium could be used for the performance of athletes or to treat movement disorders, depending on their cause. Inhibiting calcium channels may be impactful for those with uncontrollable movement disorders, such as seizures or tremors.   Future studies could focus on determining these optimal conditions for physarum polycephalum growth. Since it is a good specimen to study for cell-level behaviors, it is important that the results of studies are not confounded by lack of growth due to the sclerotium stage, or other environmental factors.
+
+Literature Cited:
+Akita, D, et al. 2017. Current Reinforcement Model Reproduces Center-in-Center Vein Trajectory of Physarum Polycephalum. Current Neurology and Neuroscience Reports. 59(5), 465-470.   Carlile, M.J. 1970. Nutrition and Chemotaxis in the Myxomycete Physarum polycephalum: the Effect of Carbohydrates on the Plasmodium. Journal of General Microbiology. 63, 221-226.  Guttes, E, et al. 1961. Morphological Observations on Growth and Differentiation of Physarum Polycephalum Grown in Pure Culture. ScienceDirect. 3(5), 588-614.   Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.  Knowles, D. J., & Carlile, M. J. 1978. The Chemotactic Response of Plasmodia of the Myxomycete Physarum polycephalum to Sugars and Related Compounds. Journal of General Microbiology. 108, 17-25.   Rodriguez-Contreras, A., Lv, P., Zhu, J., Kim, H. J., & Yamoah, E. N. (2008). Effects of  strontium on the permeation and gating phenotype of calcium channels in hair  cells. Journal of neurophysiology, 100(4), 2115-24.  Zhang, Ying, et al. 2016. Calcium-Mediated Regulation of Recombinant Hybrids of Full-Length Physarum Myosin Heavy Chain with Physarum/Scallop Myosin Light Chains. Acta Biochimica Et Biophysica Sinica, 48(6), 538–543.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-27+at+3.09.22+PM.png&Size=31780&Type=image%2Fpng&F=F_277q2OkOPBI5FNC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average growth of Physarum polycephalum. This graph demonstrates hypothetical data examples assuming hypotheses were supported. Orange bar represents average growth in control group. Blue represents average growth in plates soaked with 1 mM Calcium ion solution. Average growth of plates soaked with 1 mM each EDTA and strontium chloride is represented by the green bar. Error bars are equivalent to one standard deviation. *************************************************************************
+
+
+

@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-10 12:47:01
+Author of this lab report is: Std_wFF2WZoi
+ID: R_10vdell880ApUTd
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Inhibition Effect of Precor on Manduca sexta Caterpillars’ Progressing to Pupal Stage
+
+Abstract:
+Juvenile hormone (JH) and ecdysone (20E) are two important hormones that can regulate an insect’s development. They work together to control growth rate, metamorphosis, and molting of insects. The purpose of our experiment is to test the effects of Precor, an insect growth regulator that mimicking natural JH, on growth rate and pupation of Manduca sexta caterpillars. Eight 4th to 5th instar Manduca sexta larvae were divided into a control group and an experimental group. We collected weight, length, and growth rate of each caterpillar and recorded observation for two weeks. Two sample t-test is used to analyze data and the results lead to a conclusion that the reintroducing of Precor can inhibit Manduca sexta caterpillars progressing onto the pupal stage, but there is no significant relationship between increasing growth rate and the adding of Precor. Also, because our data could not represent growth rate well, our hypothesis was neither supported or rejected by our data.
+
+Introduction:
+Ecdysterone (20E) and Juvenile Hormone (JH) are the two main hormones in insects. Ecdysterone is a naturally occurring ecdysteroid hormone that can regulate the timing of molting in insect growth and can affect other functions in insects’ adulthoods. Juvenile Hormones are long-chain organic molecules secreted by Corpus Allata. JH controls the type of molt during insect’s developments and also regulate several functions in adult insects. 
+Precor is a juvenile hormone (JH) analog which acts as a growth regulator when used as an insecticide. It is an amber-colored liquid and human beings can use them to control mosquitoes which spread dengue fever. Instead of killing insects, Precor acts as an insect growth regulator, mimicking natural JH. Juvenile hormone must be absent for a pupa to molt into an adult. So, when larvae are treated with Precor, they will be unable to successfully turn into adults from pupae. Precor is considered a biological pesticide, but it still has varied effects on different insect species and life stages [Wijayaratne:2018]
+In this experiment, our group focus on Precor, which mimics JH. Our hypothesis is that: if an analog of JH (Precor) is introduced in the larval stage of the Manduca sexta, growth rate of the larva will increase without progression onto the pupal stage.
+
+
+Materials and Methods:
+We selected eight 11-12 days old, 4th to 5th instar Manduca sexta larvae and divided them into two groups. Their weights and lengths were measured. We then placed each caterpillar in its own separate jars and fed each of them one of the two diets: the first four caterpillars in the control group received 10g Manduca sexta diet with 5 drops of water; the remaining four caterpillars in the experimental group received 10g Manduca sexta diet with 5 drops of 1:1000 Precor. All caterpillars were kept in the same incubator at 25 Celsius degrees, 12-hour dark cycle and we record the weights and lengths every day for each caterpillar for two weeks. We weighed and measured the caterpillars every day except day 9-11 due to the hurricane, and when the foods were not enough, we added 10g diet with the same number of drops of water or 1:1000 Precor to each jar. The caterpillars in the control group kept being dark green in the first 11 days and kept growing longer and heavier; they formed cocoons and turned brown from the 12 days on. The caterpillars in the treatment group turned light green after they were fed by diet with Precor, and they kept growing longer and heavier. A two-sample t-test is used to compare the difference between the growth rate of the caterpillars and our alpha value is 0.05. 
+
+Results:
+For the weight, according to Figure 1, in the control group, all caterpillars kept gradually growing heavier in the first few days and their weights began to drop from day 12. In the experimental group, the weights of caterpillars increased on the second day but dropped down a little bit on the third and fourth day. The weights were higher for the control group in the first 11 days than the weights in the experimental group but lower from day 12 on. The results had values: t-stat=0.837, df=28, p=0.21.
+ For the length, according to Figure 2, in the control group, the average length of caterpillars became larger gradually in the first 11 days and dropped on day 12. In the experimental group, the average length of caterpillars grew larger gradually and dropped a little bit on day 14 and 15. The lengths of caterpillars in the experimental group were higher than the lengths of caterpillars in the control group in the first two days, lower from day 3-11, and higher again from day 12 to the end. The results had values: t-stat=0.607, df=28, p=0.27.
+Also, the caterpillars in the control group formed cocoons at day 12 but in the experimental group, the caterpillars failed to pupate. 
+
+
+Discussion:
+The analysis of data does not support or rejected that the growth rate will increase due to the adding of Precor. However, the data did support that the caterpillars in the control group would pupate, but the treatment group would not. The treatment of Precor inhibited wasp emergence in a dose-dependent manner in insects, which causes delay or inhibition of turning into adults of insects [Beckage:1981]. 
+With statistics analysis, we rejected the hypothesis because, for weight, we could not find a statistical significance between the control and the experimental groups; for length, we rejected the hypothesis because we could not find a statistical significance between the control and the experimental groups.
+ Our measurements also show that the average length of caterpillars in the experimental group is a little bit longer, but the weight of them are lighter compared to those in the control group. So, it is hard to tell whether Precor has a positive effect on growth. According to Nijhout et al, the body size of insects is determined by 3 parameters: the growth rate, the critical weight, and the interval between the critical weight and the secretion of ecdysone [Nijhout:2006]. There is no single locus of control of the size of body, because the body size depends on interaction between determinants of the three parameters. However, here in our experiment, we use weight and length to act as growth rate, which is not precise enough as Nijhout suggested: weight difference and growth rate are two different definitions. Also, the length and weight should combine together to interpret the growth rate. For future experiments, we should define growth rate in a more precise way. Finally, a conclusion is drawn from our results that the reintroducing of Precor can inhibit Manduca sexta caterpillars progressing onto the pupal stage, but there is no significant relationship between increasing growth rate and the adding of Precor.
+
+
+Literature Cited:
+Wijayaratne, L. K. W., Arthur, F. H., & Whyard, S. (2018). Methoprene and control of stored-product insects. Journal of Stored Products Research, 76, 161–169. https://doi.org/10.1016/j.jspr.2016.09.001
+Nijhout, H., Davidowitz, G., & Roff, D. (2006). A quantitative analysis of the mechanism that controls body size in Manduca sexta. Journal of Biology, 15.
+Beckage, N.E. & Riddiford, L.M. (1981). Effects of Methoprene and Juvenile Hormone on larval ecdysis, emergence, and metamorphosis of the Endoparasitic Wasp, Apanteles congregatus. J. Insect Physiology, 28, 329-334.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=weight.png&Size=35192&Type=image%2Fpng&F=F_3DdXofB269XPSu2
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=length.png&Size=33453&Type=image%2Fpng&F=F_31imOrulPSBjh8G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of 1:1000 Precor on the growth of weight of Manduca sexta caterpillars. 
+
+Figure 2. Effect of 1:1000 Precor on the growth of length of Manduca sexta caterpillars.*************************************************************************
+
+
+

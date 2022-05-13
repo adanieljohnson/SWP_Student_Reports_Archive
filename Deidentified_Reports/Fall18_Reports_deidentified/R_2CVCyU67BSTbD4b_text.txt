@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-21 20:25:25
+Author of this lab report is: Std_c5wWc7oM
+ID: R_2CVCyU67BSTbD4b
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Effect of Salt on the Rate of Photosynthesis in Plants
+
+Abstract:
+This experiment examined the effect types of salt had on the rate of photosynthesis in plants. Photosynthesis is a process in which plants and certain other organisms extract energy from the sun which then goes on to trigger a chemical reaction in the cytoplasm of the plant to drive ATP synthesis. We hypothesize that the addition of salt to the chloroplasts will alter their ability to react with the absorbed energy and therefore will lower the rate of photosynthesis happening, and heighten the absorbance compared to the control groups. Spinach leaves were centrifuged twice to consolidate the most number of chloroplasts with the least amount of debris. Thirteen different test tubes were created; one blank, three control with no salt, three tubes with iodized salt, three tubes with kosher salt, and three tubes with sea salt. After chloroplasts were added, the tubes were ran through a spectrophotometer at zero, ten, twenty, and thirty minutes. A paired Two Sample t-Test was performed. The hypothesis was not supported by this experiment; there was no significant difference between the control and the experimental groups, and the statistical tests were non significant. There was not a great enough molarity of salt added to the chloroplasts to have an effect on the electron gradient.
+
+
+Introduction:
+Biological systems use enzymes to help catalyze biochemical reactions in the body; however, many of these cellular processes also require added energy to proceed forward. While there are three major sources of energy, including chemical energy stored in covalent bonds, energy stored as an oxidation reduction potential, and an electrical or chemical gradient across a lipid bilayer, all living organisms must extract their energy from one or more forms of these external sources. Photosynthesis is a process in which plants, certain bacteria, and some protists capture and store energy from the sun in all three of these forms. The stored energy from photosynthesis is then released by glycolysis in the cytoplasm and respiration, which occurs in the mitochondria of both plants and animals alike. During photosynthesis in plants, chloroplasts absorb solar radiation in chlorophyll molecules which the excite electrons to leave carrier molecules. This electron excitement triggers a chemical reaction that cleaves water to generate a proton gradient and release electrons to replace the electrons that had just left the carrier proteins. These high energy electrons stored as NADPH and the H+ gradient power ATP synthesis. This process of electron transfer in the presence of active chloroplasts and light is known as the “hill reaction.” In an experiment done by Sudhir and Murthy on the effects of salt stress on basic processes of photosynthesis in non-halophyte organisms, high salinity in plants was shown to have an inhibitory effect on certain biochemical process of photosynthesis; because of this inhibitory effect, plants are found to present with decreased efficiency of photosynthesis, decreased growth, ion toxicity, and decreased respiration rate, [Sudhir: 2004]. We as a lab group wanted to test our own salinity experiment on an organism of our own: spinach leaves. I hypothesize that the tubes with the added salt will have a lower rate of photosynthesis and therefore a higher rate of absorbance compared to the control groups. 
+
+
+Materials and Methods:
+We placed a mortar and pestle, a beaker, and three 50 mL centrifuge tubes into ice and cooled them. We then removed large veins from spinach leaves and placed in mortar and pestle; we added 10 mL of grinding buffer and grinded the leaves. We then added an additional 10 mL of grinding buffer and mixed until a slurry was made. We strained with a cheesecloth three times, and transferred 200 microliters of the filtered liquid into a microtube labeled “Sample A” and stored it on ice. We transferred the remaining green liquid to 50 mL centrifuge tube marked “A” and spun it at 200xG for 3 minutes at 4℃. We poured the supernatant out of the tube marked “A” and into the chilled 50mL centrifuge tube marked “B”. We removed 200 microliters of liquid from the 50mL tube marked “B” and placed it in a microtube labeled “Sample of B” and stored on ice. We centrifuged the 50 mL tube containing chloroplast suspension“B” for 10 minutes at 4℃. We then poured the supernatant into a 50mL tube marked “C” and placed tube “B” on ice. We added 20 mL of grinding buffer to the pellet and stirred. We transferred 200 microliters of this pellet into a microtube labeled “sample of B pellet”. We removed 200 microliters from tube “C” and placed it into a microtube labeled “sample of C” and stored it on ice. We placed a drop of each 50 mL tube on a microscope tray and identified which suspension has the greatest amount of chloroplasts with the least amount of debris. We used that suspension for part two. 
+We prepared the following test tubes for part two of the experiment. 
+We added 100 microliters of enriched chloroplasts to all the tubes. We then transferred mixtures to spectrophotometer cuvettes. We blank the spectrophotometer at 600 nm and measured the absorbance of all other curettes. This was time zero data. We then placed all tubes under light for 10 minutes. After ten minutes, we reblanked and remeasured all curettes. We repeated this again two more times for 20 minutes total, and for 30 minutes total. We ran a two tailed t-test to test significance. 
+
+
+Results:
+There was no significant difference between the control groups and the experimental groups. This can be shown in table one as there is no significant difference in the starting absorbances, the final absorbances, or the percent changes between the four the groups. Figure 1 shows the values along with there standard deviation; again, no significant difference is seen between the four groups. The two sample T test ran compared the average of the control group to the average of each salt group. For iodized salt, the p value was 0.356, the df was 4, and the t value was 0.396. For Kosher salt, the p value was 0.104, the df was 4, and the t value was 1.49. For sea salt, the p value was 0.454, the df was 4, and the t value was 0.121. 
+
+
+Discussion:
+My hypothesis was not supported by this experiment; I stated that the tubes with the added salt would have a lower rate of photosynthesis and therefore a higher rate of absorbance compared to the control group, and that is not what happened. In an experiment done by Suleyman and his team on the effects of NaCl  on osmotic and ionic effects in Synechococcus Sp. plants, 0.5M of NaCl was administered to the plants and showed an induced inactivation of the photosynthetic process, slowing the overall rate of photosynthesis, decreasing the oxygen-evolving activity of the system, and decreasing the cytoplasmic volume. The sodium chloride salt added to the plants increased the salinity of the plant, therefore changing the ratio of K+ ions to Na+ ions in the intracellular membrane of the plant. This imbalanced ratio of ions changed the biochemical processes of photosynthesis within the plant, reducing the uptake of other mineral nutrients such as K+, Ca2+, and Mn2+ to help balance out the charges in the membrane. This accumulation of high amounts of ions in the plants lead to dehydration and death of leaf cells and tissues; these high amounts of sodium ions inactivated the electron carrying enzymes and altered the metabolic processes in plants to try to restabilize the plant’s overall charge across the membrane to regenerate photosynthesis to successfully start up again. In our experiment, 0.14g of salt was added to each experimental group tube; this amount of salt created a molarity of only 0.0024M for all salt groups . The salt added to the tubes was not administered in a substantial enough molarity to have a great enough effect on the ion concentration ratio across the membrane, therefore not altering photosynthesis at a measurable level. Through the three, two sample T-Tests ran, we were able to find the P value for iodized salt, kosher salt, and sea salt to be statistically insignificant; the results were likely by chance. If I was to complete this experiment again, I would increase the molarity of each of the salt types administered to the chloroplasts to ensure there is a substantial amount of salt to alter the ion concentration across the membrane of the plant. 
+
+
+Literature Cited:
+Allakhverdiev, Suleyman I., et al. “Ionic and Osmotic Effects of NaCl-Induced Inactivation of
+	Photosystems I and II In Synechococcussp.” Plant Physiology, vol. 123, no. 3, 1 July
+	2000, pp. 1047–1056., doi:10.1104/pp.123.3.1047.
+Sudhir, P. & Murthy, S. Effects of salt stress on basic processes of photosynthesis, 
+	Photosynthetica (2004) 42:4, pg 481. https://doi.org/10.1007/S11099-005-0001-6 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+7.33.13+PM.png&Size=115009&Type=image%2Fpng&F=F_10xyjZ8dDhrvriM
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+7.33.20+PM.png&Size=179278&Type=image%2Fpng&F=F_DMLtPoIB7ZAvvJn
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+7.33.05+PM.png&Size=63759&Type=image%2Fpng&F=F_2vYVtcnZo0cIeKV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Results and values of starting average absorbance and final average absorbances of control and experimental groups, as well as final percent change between started time of 0 minutes, and ending time of 30 minutes. 
+Figure 1. Results and values of both starting average absorbances and final average absorbances of control and experimental groups, as well as final percent change between started time of 0 minutes, and ending time of 30 minutes with standard deviation bars are shown above. The final absorbance of each group is shown in orange, the starting absorbance of each group is shown in blue, and the percent change of each group is shown in gray. 
+(other table for methods)*************************************************************************
+
+
+

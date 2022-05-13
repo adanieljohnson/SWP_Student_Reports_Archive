@@ -1,0 +1,49 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-06 23:44:17
+Author of this lab report is: Std_Zc3Y3dQw 
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The effects of NaCl on the specific metabolic rate of a Procambarus Sp. 
+
+Abstract:
+An organism’s ability to adapt to different environmental changes require energy. This energy production process is referred to, in its entirety, as metabolism. To determine the amount of energy being used, we measure the metabolic rate. In this experiment, we will be testing the effects of salinity on the specific metabolic rate of the Procambarus Sp. Because the amount of oxygen consumed is directly proportional to the amount of energy produced, we will determine the metabolic rate by measuring the amount of oxygen the Procambarus sp. consumes in a span of 20 minutes. We will test three Procambarus sp., each will be in a control trial, with regular water, and in an experimental trial, with a concentration of salt in the water (6.5% of NaCl). Our hypothesis is that the specific metabolic rate of the Procambarus sp. will increase with the presence of a dilution of salt (0.26-0.27m) in the water. Our results, however, do not support our hypothesis. The paired t-test, with which we statistically test our hypothesis, shows a p-value of less than 0.5 (0.082015), illustrating that there is no significant difference between the SMR and the salinity of the water, rejecting our hypothesis.
+
+Introduction:
+An organism’s ability to adapt to a new environment is dependent on their metabolic rate. The metabolic rate refers to the amount of energy an organism is utilizing in all its physiological processes. To elaborate, the metabolism is the term often used to refer to the entire process of creating energy and transferring it within the cells of an organism. More specifically, the organism coverts the sugar glucose into energy, where the atoms within it are then converted into carbon dioxide. Moreover, this process allows ADP to be converted into high-energy ATP. This is not, however, able to continue without the presence oxygen. [Johnson AD: 2017]. Overall, this process illustrates that the amount of oxygen consumed is directly proportional to the amount of energy produced. Environmental factors, such as temperature, may affect the overall metabolic rate of an organism. Which leads to our overall question, how would salinity effect an organism’s specific metabolic rate (SMR)? We aim to find the answer to this question by testing the effects of salinity on the standard metabolic rate of a Procambarus sp., which a type of crayfish. With that said, there have been various studies done pertaining to the metabolic rate of organisms, one of which test the effects of oxygen deprivation during muscular work on an Orconectes limosus’, a type of crayfish, metabolism. Thus, this study goes about testing the Orconectes limosus in conditions that required exercise in form of swimming to obtain its results. Ultimately, the study determined that the energetic metabolic rate increased when the oxygen was depleted. [Gade: 1983]. This study can lead us to predict that when placed in an oxygen depleted concentration, the SMR of an organism will probably increase. In another study, the effects of salinity and temperature on a caridean shrimp Palaemon peringueyi’s standard metabolic rate are observed. The study obtains its results based on the manipulation of temperature and the change that occurs to the standard metabolic rate when varying concentrations of salt are added to the water solution. Ultimately, the study illustrated that there is an effect in the standard metabolic rate when a concentration of 25-45% was in the water solution. [Allan et.al.: 2006]. Moreover, this helps us determine that salt can influence the metabolic rate of an organism, although we will test the specific metabolic rate, mass based, rather than the standard metabolic rate, which is more relevant when addressing temperature. Therefore, in this study, we predict that the salt will require the organism to diffuse the NaCl across its concentration gradient, which will require an increase in energy. Thus, we hypothesize that the presence of a dilution of salt (0.26-0.27m) in the water will increase the Procambarus sp.’s specific metabolic rate. 
+
+Materials and Methods:
+For this experiment, we will test our hypothesis on three different Procambarus sp. of similar size. For each, we will conduct both a control and experimental trial. In the control trial, we will place the Procambarus sp. into a test chamber and fill it with oxygenated water, then attach a dissolved oxygen probe into the top of the chamber, screwing the top shut. We then place the test chamber into a tub of water. We then take an initial, baseline, reading to determine the initial oxygen concentration in the chamber. Moreover, we continue to record the oxygen concentration of the chamber every five minutes until we reach the 20th minute. We then remove the probe from the test chamber, pour the water of the test chamber into a graduated cylinder to determine the volume of water. We repeat this same process with the experimental, only changing the water to salt water, with a concentration between 0.26-0.27m for 100mL of water (6.5% of NaCl). For each trial, we calculate the specific metabolic rate (SMR) by dividing the product of the difference between the initial oxygen concentration in the chamber to the final oxygen concentration to the volume of water in the jar with the product between the amount of time we tested the oxygen concentration for (20 minutes) and the weight of the organism. To test our results, we utilized a paired t-test.
+
+Results:
+In the experiment, the average of the SMR of the control trial 0.00193(mg/min*g), while the average of the experimental trial was 0.00093(mg/min*g).  
+Overall, the average difference of the SMR between the control trial and the experimental trial was -0.001(mg/min*g). The reported p-value was 0.082015. 
+As the graph portrays, there is a decrease in the SMR of the experimental trials. The specific deviation bars are large, the control having a standard deviation of 0.0004 and the experimental having 0.00015. This illustrates that there was a variation in the SMR’s of each Procambarus sp.. 
+
+
+Discussion:
+The results of the experiment did not support our hypothesis. Through the statistical test, the p-value being below 0.5 conveys that there is no statistical difference between the SMR of the control trial to the trial with a dilution of salt in the water. Thus, our experiment conveyed that there is no effect on the SMR of the Procambarus sp. organism when placed in the salt water. The results of our experiment could be due to the concentration of salt we diluted into the water. Had we increased the concentration, there may have been an increase in the specific metabolic rate because the organism would have required more energy to acclimate to the conditions. Which leads us to assume that Procambarus sp.’s was able to adapt to the concentration of NaCl in the water. Its chemical acclimation to the salinity may have caused the SMR to resemble the decreasing pattern that the control trial illustrated. This conveys that the organism did not need to use additional energy to balance its concentration gradient with the water, leading to a decreasing pattern in the SMR of the experimental trial.  Moreover, in a previous study that measured the effects of salinity and temperature on the standard metabolic rate of a Palaemon peringueyi, they also found no significant difference, or increase in the SMR when the salinity concentration was between 5-15%. However, they did see a significant difference in the SMR when the salinity concentration range was between 25-45%. [Allan et.al.: 2006]. This can lead us to assume that our salinity concentration of 6.5% may have not been enough to create an impact in the SMR of the Procambarus sp. Thus, in future studies, we may seek to increase the salinity concentration to determine if there is an effect on the SMR of an organism. We could also test the effects of both temperature and salinity on the Procambarus sp.’s metabolic rate, and compare it to that of other organisms like the caridean shrimp Palaemon peringueyi.
+
+Literature Cited:
+Johnson AD. Neuromuscular Control. Biology Principals Laboratory Manual. Dept. Biology, Wake Forest university, Winston-Salem, NC. Vers. 17.2 (updated August 2, 2017), pp. 37-43.
+Allan, E. L., Froneman, P. W., & Hodgson, A. N. (2006). Effects of temperature and salinity on the standard metabolic rate (SMR) of the caridean shrimp Palaemon peringueyi. Journal of Experimental Marine Biology and Ecology, 337(1), 103-108.
+Gäde, G. (1984). Effects of oxygen deprivation during anoxia and muscular work on the energy metabolism of the crayfish, Orconectes limosus. Comparative Biochemistry and Physiology Part A: Physiology, 77(3), 495-502.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=LR2.png&Size=18897&Type=image%2Fpng&F=F_bvKYGBtzfHOEkzr
+
+
+
+
+
+
+
+
+Figure Legends: 
+The graph contains the averages of all the three Procambaris sp. tested. It illustrates the decrease in the specific metabolic rate (mg/min*g) in the trial with NaCl compared to the control trial. Thus, this conveys that there was not an increase in the metabolic rate, as we had hypothesized, but rather a decrease.
+The error bars represent the standard deviation of each trial.  
+
+
+*************************************************************************

@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 12:26:05
+Author of this lab report is: Std_qYRkzPcu
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Sodium butyrate is not shown to affect cell proliferation in Physarum polycephalum
+
+Abstract:
+The slime mold Physarum polycephalum was grown in vitro for 24 hours in an incubator, with the treatment group grown on an agar plate soaked in sodium butyrate.  Distance and direction of growth were measured after 24 hours.  Sodium butyrate has been shown to affect various cellular processes, namely by increasing intracellular Ca2+ concentration; some cell types pause cellular growth and proliferation after exposure to sodium butyrate.  It was predicted that sodium butyrate would cause a decrease in distance traveled.  The results, while found to be not significant, suggested that sodium butyrate affects the directionality and shape of growth.  It is inconclusive whether sodium butyrate affects cell proliferation and growth in Physarum polycephalum.  Prior experiments suggest that the effects of sodium butyrate are temporary.  Sodium butyrate may affect the mechanisms of intelligence in Physarum, however temporarily.
+
+
+Introduction:
+Physarum polycephalum is a model organism for study of cell biology (Oettmeier, et al. 2017).  Its large cell size, visible cytoplasmic streaming, and ease of cultivation in vitro make it ideal for studying cellular processes and behavior.  The life cycle of Physarum can be observed easily, from haploid spores to diploid plasmodium.  This makes it useful for studying how organisms develop and grow.  Physarum is also interesting because it shows evidence of certain forms of intelligence, despite lacking a nervous system; it has been shown to solve mazes, as well as to have a rudimentary form of intelligence.
+	Physarum, the slime molds, are neither plants, animals, nor fungi.  They spend most of their life cycle as a plasmodium, but can remain in a dormant state, called the sclerotium, almost indefinitely in the absence of water (Howard, 1931).  The dried sclerotium can be hydrated and reactivated any time up to eight months after drying.  The plasmodium stage consists of a single amoeboid cell with multiple nuclei (Nakagaki, et al. 2000).  The plasmodium is the stage that has been observed solving mazes.  Nakagaki, et al. showed that when Physarum was allowed to fill an agar plate covered with a maze, and oat blocks were placed at the beginning and end of the maze, only the shortest route between blocks remained.
+	Sodium butyrate has been shown to arrest cell proliferation by inhibition of histone deacetylase in certain cell types (Kruh, 1981).  It has also been shown, in human colorectal cancer cells, to cause stress to the endoplasmic reticulum by inducing release of Ca2+, resulting in autophagy (Zheng, et al. 2016).  Sodium butyrate is associated with increased transcription of endoplasmic reticulum stress-associated proteins, including BiP.  The release of calcium from the endoplasmic reticulum is a well-known autophagy signal.  We are interested in whether the sodium butyrate-mediated arrest of cell proliferation would result in inhibition of growth.  It is predicted that addition of sodium butyrate to culture would result in reduced growth.
+
+
+
+Materials and Methods:
+1 mL of sodium butyrate was dissolved in 20 mL water.  5 mL of this solution was added to each of three agar plates and allowed to sit for 10 minutes, after which the plates were drained of excess solution.  Two squares were cut from each of the six agar plates (3 control, 3 treatment).  On each plate, one square was filled with oats, and the other with a square of Physarum.  The plates were then wrapped in foil and placed in an incubator for one day.  Direction and shape were noted, and distance recorded in centimeters.  Here the independent variable was the presence of sodium butyrate, and the dependent variables the distance and direction of growth.  A two-sample t-test was used, as there were only two separate treatments, control and sodium butyrate.
+
+
+
+Results:
+The mean of the control group was found to be not significantly different from that of the sodium butyrate-treated group, with a p-value of 0.621 (df=4; t-value=0.534).  In general, the control group grew an average of 5.33 cm; the treated group grew an average of 4.67 cm.  The  control group tended to grow toward the oats in a single strand, while the sodium butyrate-treated group tended to diffuse in all directions.
+
+Discussion:
+As the results were found to be not statistically significant, it is not conclusive whether sodium butyrate affects the distance traveled by Physarum polycephalum in culture.  The treated group, on average, traveled 0.66 cm less than the control group.  As stated above, however, these results were found to be not significantly different.  It is important to note the direction of growth; the control and treatment groups grew in markedly different ways.  Control were observed as growing more-or-less directly toward the food source, forming strands that were continuous from the mold square to the square of oats.  The treatment group tended to diffuse over a large area; both groups generally reached the food source, but the control group seemed to move in a way more direct than that of the treatment.  The difference in growth patterns was unforeseen; no protocols for measuring directionality or area were prepared before conducting the experiment.
+	The effects of sodium butyrate seem to be reversible (Kruh 1981).  The inactivation of histone deacetylase, and the release of calcium ions from the endoplasmic reticulum, caused by the application of sodium butyrate in culture may be reversible.  The length of the effect of sodium butyrate is not stated; our experiment took place over the course of 24 hours, and no clear effect was observed.  I believe that the effect of sodium butyrate on cell proliferation lasts less than 24 hours, and that an effect would likely be observable if growth were measured regularly over the course of 24 hours (in contrast to solely at the beginning and end of the experiment).  A better experiment would measure growth and directionality in increments of 12 hours.
+	Sodium butyrate has been shown to trigger autophagy in human colorectal cancer cells (Zhang, et al. 2016).  Some other effects of sodium butyrate, including inactivation of histone deacetylase, have been observed in nearly all cell types observed (Kruh 1981).  Arrest of cell proliferation and growth in response to sodium butyrate have been observed in human and animal cell lines.  It is unclear from our findings whether cell growth and proliferation in Physarum polycephalum is affected by application of sodium butyrate.
+	Physarum have been shown to display a primitive form of intelligence, as observed in the maze experiment (Nakagaki, et al. 2000).  In this experiment, Physarum were observed as maintaining only the shortest path between food sources.  We observed the control generally migrating toward the food source in a direct path, and the treated group diffusing across a large area, engulfing the food source.  The question arises, whether sodium butyrate affects the mechanisms of intelligence in Physarum.  Our experiment is insufficient to answer this question; further research is necessary.
+
+
+Literature Cited:
+1. Howard, Frank L. “The Life History of Physarum Polycephalum.” American Journal of Botany, vol. 18, no. 2, 1931, pp. 116–133. JSTOR, JSTOR, www.jstor.org/stable/2435936.
+
+2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+
+3. Koevenig, James L. “Studies on Life Cycle of Physarum Gyrosum and Other Myxomycetes.” Mycologia, vol. 56, no. 2, 1964, pp. 170–184. JSTOR, JSTOR, www.jstor.org/stable/3756534.
+4. Kruh, J. “Effects of sodium butyrate, a new pharmacological agent, on cells in culture” Mol Cell Biochem (1981) 42: 65. https://doi.org/10.1007/BF00222695
+
+5. Nakagaki, T., Yamada, H., & Tóth, Á. (2000). Intelligence: Maze-solving by an amoeboid organism. Nature, 407(6803), 470. doi:http://dx.doi.org/10.1038/35035159
+
+6. Zhang, J., Man, Y., Zha, L., Chen, S., Li, Z., Cheng, L., . . . Sun, S. (2016). Sodium butyrate induces endoplasmic reticulum stress and autophagy in colorectal cells: Implications for apoptosis. PLoS One, 11(1) doi:http://dx.doi.org/10.1371/journal.pone.0147218
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=physarum_table.png&Size=46635&Type=image%2Fpng&F=F_1nT0Z8VHTySrhej
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Two-sample t-test values
+
+*************************************************************************

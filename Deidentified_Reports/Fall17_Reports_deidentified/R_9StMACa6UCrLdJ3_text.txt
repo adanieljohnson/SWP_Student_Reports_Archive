@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-25 18:03:21
+Author of this lab report is: Std_gMOw4vvL
+Course number: BIO102L
+TA: TA_DWpyQsWn
+*************************************************************************
+Title: 				The Effect of Light Colors on Spinacia Oleracea 
+
+Abstract:
+Fresh spinach leaves were collected and used in this experiment to test the effects of different colored lights and its effect on photosynthesis. Enriched chloroplasts that came from the spinach extracts were used to create samples that also contained water, 130mM DCPIP and reaction buffer (100 mM phosphate, pH 6.5). After an initial absorbance reading, these samples were placed under red, blue, green, white and black light. Three additional absorbance readings were taken over the span of 30 minutes. Once the data was collected, a t-test was performed. For the red light, the t-stat value was -1.127 (negative because the sample mean was less than the hypothesized mean) and the p-value was 0.342. For the green light, the t-stat value was -1.189 and the p value was 0.160. For the blue light the t- stat value was -1.441 and the p-value was 0.222. Lastly, the t-stat value for the black light was 0.669 and the p value was 0.552. and it was found that there is no significant difference in the rate of photosynthesis when using different colored lights. 
+
+
+Introduction:
+Plants fuel our world. In fact: “Just 15 crop plants provide 90 percent of the world's food energy intake” (FAO). Understanding how autotrophs function and what influences them, especially plants, can be extremely beneficial to our world. All plants obtain energy through the process of photosynthesis. Photosynthesis essentially uses energy from the sun to convert carbon from the atmosphere into glucose that plants can use as energy. Photosynthesis is a threefold reaction. The first two steps are called light-dependent reactions and the last steps is called light independent reactions. Light dependent reactions are a series of reactions where the energy driven by a proton gradient directs ATP synthesis. Subsequently, light independent reactions use this energy to convert carbon to glucose. While ATP production is difficult to measure, with use of Hill reactions, we can track the transfer of electrons in isolated chloroplasts. In this experiment, the use of DCPIP is especially important because acts as an artificial electron acceptor in the Hill reaction, which allows for oxygen to be discharged.  The DCPIP assay can be used to demonstrate the influence of environmental conditions on reduction reactions for photosynthesis.  The rate at which plants convert energy from light to organic compounds is coined primary productivity. Factors that affect primary productivity are environmental changes such as water availability, temperature, light, soil type, humidity, etc. Previous studies demonstrate that the color of lights that plants are placed under have an effect on their development. This is because each color emits a varied magnitude of energy based on its wavelength. As a result, plants will absorb different amounts of energies from different colors of light. The longer the wavelength of the light, the greater the rate they will drive photosynthesis. Because plants absorb light during photosynthesis, we can measure changes in photosynthesis using a spectrophotometer and record absorbance values.  The faculty of agriculture at Kagawa University in Japan tested how strawberries would respond to red and blue LED lights. They discovered that the combination of 70% red and 30 % blue light resulted in the “highest root number and longest root length” (Nhut, 2003) compared to florescent light. Another study tested the effects of red, blue, and white lite on the growth and development of lettuce. Their study revealed that red, blue and white LED lights “enhanced the nutritional value and growth, appearance and edible quality of lettuce plants” (Hung-Lin, 2013). Additionally, the sugar content of lettuce leaves under the combination of red, blue and white lights was higher than merely red and blue lights alone. Using these two studies as theoretical model of action, our group decided to investigate how different colored lights influenced plant growth. Our group hypothesizes that colors such as blue, red and white will increase the rate of primary productivity and green would be the least effective because plants themselves are green. The independent variable is the different colored lights and the dependent variable is the absorbance values of the spinach extracts. 
+
+
+Materials and Methods:
+Spinach leaves were collected and cleaned then packed into a previously cooled mortar and pestle. After the addition of grinding powder (400mM sucrose in Tricine buffer, pH 8.0), the leaves were grinded up using the mortar and pestle until the spinach turned into a thick paste and no large chunks were left. Additional grinding buffer was added and the leaves were crushed further then placed through a cheesecloth. This filtered liquid was then used to create the subsequent samples. The first sample, “A”, contained the filtered liquid and was then placed in a centrifuge and spun at 200 X G for 3 min at 4° C.  Sample “B” contained sample “A” and then was placed in the centrifuge at 1000 CG for 10 min at 4° C. Similarly, sample “C” contained sample “B”. Finally, 20 ml of grinding buffer was added to sample “C” and suspended with a transfer pipet. The suspended pellet was put in a microtube and labeled sample “B pellet”. Sample “A”, “B”, “C” and “B pellet” were all placed in ice to cool after being put in microtubes. Since sample “B pellet” contained the highest number of relative chloroplasts, this sample of spinach extract was placed under the different lights.
+The second part of this experiment determined the absorbance of the spinach extracts. Three test tubes were assigned for each color: Red, Green, Blue and Black White. Each test tube sample contained the enriched chloroplasts prepared earlier in the experiment, water, 130mM DCPIP and reaction buffer (100 mM phosphate, pH 6.5). The samples were then placed in cuvettes and placed for absorbance readings in the spectrophotometer. After the initial absorbance readings were taken and record, the samples were placed under the light color that they were assigned. After 10 min, the samples were collected and another absorbance reading was taken and recorded. The procedure was repeated again two more times to create an experiment that was taken over the span of 30 minutes. After all of the absorbance values were collected, the percent change was determined for each light color. Lastly, a t-test was performed. 
+
+
+Results:
+Each color of light tested was compared to the white light. A two tailed t-test was performed for red, blue and black and a one tailed test was performed for green. After these tests were done, the experiment showed that there is not significant difference when placing plants under different colored lights. For the red light, the t-stat value was -1.127 (negative because the sample mean was less than the hypothesized mean) and the p -value was 0.342. For the green light, the t-stat value was -1.189 and the p-value was 0.160. For the blue light the t- stat value was -1.441 and the p-value was 0.222. Lastly, the t-value for the black light was 0.669 and the p-value was 0.552. Our hypothesis was rejected with these results. 
+
+
+
+Discussion:
+Spinach was used in this experiment because it was both cost effective and easy to access. It also serves as a good model for this experiment because it both a popular vegetable and a good example of how environmental conditions can influence plant yield. Based on the research done previously, our group predicted that specific colored light treatments such as red, blue and white would optimize plant growth. In additional to the studies mentioned earlier, another experiment done found that the use of green and black light “reduced light transmission by 18-20%” (Solomakhin, 2008). However, our experimental results did not support these studies and our hypothesis was rejected. While our results did not come out as expected, one study published by the Botanical Gazette revealed that energy intensity and plant species can influence the results. Perhaps lights of greater intensity and changing the plant used in the experiment can change the results. Ultimately the continuation of this study is important because plant yields and costs are the two most important factors of agricultural production. Thus, by determining if different colored lights have an influence on plant growth and yield, it can influence the world of agriculture and food supply. 
+
+
+Literature Cited:
+
+Hung-Lin, Kuan. "The Effects of Red, Blue, and White Light-emitting Diodes on the Growth, Development, and Edible Quality of Hydroponically Grown Lettuce (Lactuca Sativa L. Var. Capitata)." Scientia Horticulturae. Elsevier, 17 Dec. 2013. Web.
+
+Nhut, Duong Tan, T. Takamura, H. Watanabe, K. Okamoto, and M. Tanaka. "Responses of Strawberry Plantlets Cultured in Vitro under Superbright Red and Blue Light-emitting Diodes (LEDs)." SpringerLink. Kluwer Academic Publishers, Apr. 2003. Web.
+
+Solomakhin, Alexey, and Michael M. Blanke. "Coloured Hailnets Alter Light Transmission, Spectra and Phytochrome, as Well as Vegetative Growth, Leaf Chlorophyll and Photosynthesis and Reduce Flower Induction of Apple." SpringerLink. Springer Netherlands, 16 July 2008. Web.
+
+"What Do People Eat?" Dimensions of Need - Staple Foods: What Do People Eat? Food and Agriculture Organization of the United Nations, n.d. Web.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=photosynthesis+lab+pcicture.png&Size=67429&Type=image%2Fpng&F=F_6E7a6fTlL3JLNLT
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph depicts each sample and which light they were placed under and their corresponding absorbance values. 
+
+*************************************************************************

@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-29 16:05:33
+Author of this lab report is: Std_YakXFslI
+ID: R_1mO7Zm2ve7mJ25L
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: The Effect of Salinity on the Photosynthetic Rates in Spinach Leaves
+
+Abstract:
+Photosynthesis is affected by many factors, including salinity. In this experiment, DCPIP was added to cuvettes with enriched spinach chloroplasts, some with high salinity levels and some with low, and placed in a light environment. A spectrophotometer was used to measure the absorbance of the DCPIP at different time intervals, and the results varied for the different groups of samples. The control, no chloroplast group yielded an average percent change in absorbance of 2.81 with a standard deviation of 1.33 after 30 minutes. The control, plus chloroplasts group yielded an average percent change of 79.6 with a standard deviation of 21.95 after 30 minutes. The high salinity group at 200mM NaCl yielded an average percent change of 61.5 with a standard deviation of 4.09 after 30 minutes. Finally, the low salinity group at 100mM NaCl yielded an average percent change of 67.9 with a standard deviation of 31.0 after 30 minutes. As the salt concentration increased, the absorbance reading decreased as well. This is the result of the amount of DCPIP in the chloroplasts decreasing at a faster rate in the salt stress, causing the photosynthetic rate to decrease.
+
+Introduction:
+In this lab the photosynthetic rate of spinach leaves was tested in varying salinity levels. Photosynthesis is the process by which plants use sunlight to get energy to drive the synthesis of organic molecules and energy from water and carbon dioxide. Plant chloroplast cells consist of an inner and outer membrane. The inside of the cell contains chlorophyll and stroma, and the chlorophyll are the particles that absorb light and pass the energy obtained to the thylakoids. The thylakoid membranes contain the electron transport chain, where two electrons from water are excited by light in photosystems I and II to reach a higher energy level. This energy is used to convert NADP+ and NADPH and also to drive electrons into the thylakoid space to create a gradient. The gradient is what fuels ATP synthase to create ATP from ADP and Pi. This ATP is then used for many different processes within plants. The rate of this process, which directly affects the rate of growth of a plant, is affected differently by a number of factors. One factor that was explored is the presence of chemicals used to kill or control the growth of plants by interacting with photosynthetic electron transport, known as herbicides (Draber Wilfried et al.) The factor that will be focused on in this experiment, though, is salinity and how it will affect the photosynthetic rate of the chlorophyll within the spinach leaves.
+	Photosynthetic rates in salt-stressed spinach leaves should be different than those in normal spinach leaves. Salinity levels play a very big role in CO2 uptake, which usually affects the overall rate of growth of the plant. Salt stress can inhibit both the synthesis of proteins and the repair of photodamage to photosystem II (Murata et al.) Intercellular CO2 may be reduced in some plants due to stomatal closure, and the reduction in CO2 fixation can be due to the inhibition of the photosynthetic light or dark reactions (Guenther and Melis, “Targets of Salinity Stress in Spinach”). In this experiment, the model system is spinach because it is very inexpensive, easy to deal with, and contains a relatively high number of chloroplasts.
+Using the results, the absorbance of the DCPIP reduced in the enriched chloroplasts is measured. DCPIP is an artificial electron acceptor that changes color from clear to blue. In this experiment it is added to the chloroplast cells, and that replaces the NADP+ along the electron transport chain. With the spectrophotometer, the amount of DCPIP present in each sample is determined and tests with different levels of salinity will be performed with enriched spinach chloroplasts. With increased salinity levels, it is expected that the rate of photosynthesis in the spinach leaves will be reduced, as indicated by less reduction of the DCPIP in the Hill assay.
+
+
+Materials and Methods:
+Using measurements of DCPIP absorbance in a high salinity solution (200mM NaCl) and a low salinity solution (100mM NaCl), photosynthetic activity was determined. The model organism, spinach, was store bought and kept in the refrigerator for approximately 1 week before being used in the lab. Five leaves were taken, and their central veins were all removed simply by tearing along the sides of the nerve. As this was being done, the mortar and pestle were placed into an icebox to be chilled and once cool enough, the leaves were placed inside along with 10mL cold grinding buffer (400mM sucrose in Tricine buffer, pH 8.0). The contents of the mortar and pestle were ground to a thick paste, which was then transferred into a chilled beaker using a 3-layer, folded piece of cheesecloth. 200µL of the filtered liquid was centrifuged twice in a 50mL centrifuge tube in order to ensure that the enriched chloroplasts would remain at the bottom. 16 large test tubes were prepared and labeled, with the addition of 100µL of enriched chloroplasts from the centrifuge tube to all but tubes 1-3. Different tubes had different combinations of water, 130mM DCPIP, the reaction buffer (100 mm phosphate, pH 6.5), and a salt solution (either 100mM or 200mM. Each tube was mixed well, and then transferred to a spectrophotometer cuvette to measure the absorbance of each solution. Absorbances were measured in the spectrophotometer set to 621nm because that is the wavelength at which oxidized DCPIP is able to absorb light. It was important to measure the absorbance of each tube immediately after the chloroplasts had been added and it had been mixed. The spectrophotometer was first blanked using tube 0, then used to measure each solution, making sure to blank in between each measurement. After measure the absorbance of all samples at 600nm, all of the cuvettes were placed under a lamp for ten minutes. The absorbances were then measured again, then placed under the light for another ten minutes, repeating until all had been measured three times. 
+Absorbances were changed into percent change using the average of the three tubes in each treatment group, and a two tailed one sample t-test was then used to analyze the results with a critical value of 0.05 to determine significance.
+
+
+
+Results:
+The general trend of each chloroplast sample was that after each ten minutes waited, the DCPIP absorbance decreased more and more. Growth overall decreased with increasing NaCl concentration. There are some outliers and the percent change values vary a decent amount within each group of samples, but there was a trend of decreasing absorbance as NaCl concentration increased. The mean percent change of the data for the samples with no chloroplasts after 30 minutes was 2.81 with a standard deviation of 1.33. The mean for the percent change after 30 minutes for the normal enriched chloroplast sample was 79.6 with a standard deviation of 21.95. For the high salinity samples after 30 minutes the mean percent change was 61.5 with a standard deviation of 4.09, and for the low salinity samples after 30 minutes the mean percent change was 67.9 with a standard deviation of 31.0. The statistical test used to compare the different groups of samples was a two-tailed t-test. A q test was used to determine outliers, and the results justified excluding two data points, 1 from the high salinity sample and one from the low salinity sample. The results of the t-test performed with the high salinity sample, excluding the outlier, and the normal enriched chloroplast sample were: t(3)=3.18, p=0.0029. When the statistical test was performed with the same groups but including the outlier in the high salinity sample, the results were: t(4)=2.78, p=0.32. The results of a t-test performed with the low salinity sample, excluding the outlier, and the normal chloroplast sample were t(3)=4.30, p=0.57 and when this same test was performed including the outliers, t(4)=2.78, p=0.69.
+
+Discussion:
+The p-value of 0.0029 that resulted from the statistical test comparing the results of the high salinity samples and the normal enriched chloroplast sample is less than 0.05. This means that there is a significant difference between the photosynthetic rate of the enriched chloroplasts in a normal environment and those in a high salinity environment. From the 10-minute time to the 30 minute time the absorbances of the chloroplasts decreased. The absorbance readings obtained measured the amount of DCPIP oxidized in the cells and as photosynthesis occurred in the chloroplast cells, electrons were donated to this DCPIP and it was reduced. As photosynthesis continued to occur, there was gradually less oxidized DCPIP available to absorb the light from the spectrophotometer, which explains why the absorbance readings decreased over the 30-minute period in which the readings were taken. Similar results were found in an experiment targeting salinity stress in spinach plants. In this study it was found that growth declined with increasing external NaCl concentration, which is consistent with the results of the experiment performed in this lab (Guenther and Melis, “Targets of Salinity Stress in Spinach”). Although Guenther’s study compared the effect of salt stress internally to what it was externally, the results supported the fact that absorbance and photosynthetic rate decreased as salt concentration increased and therefore supports the hypothesis. Another study performed on spinach leaves tested the photosynthetic and stomatal responses due to salt stress and provided more support for the hypothesis. It was found that there were lower photosynthetic rates in salt-treated leaves, and that this could be due to a reduction in stomatal conductance and low intercellular carbon dioxide as a result of the high salt concentration (DOWNTON et al.) The possible errors in the experiment performed could be found in the health and condition of the spinach plants provided. Older, less healthy leaves could affect the outcome of the experiment as a whole. If the leaves were cut or harmed before being used the plants could have been oxidized, which would affect the redox reactions and therefore the photosynthetic rates found at the end. On the other hand, simple procedural errors could have been made with pipetting and using the spectrophotometer. After performing this experiment and analyzing the results, it was seen that there is potential for future studies to build on this one. First, it could be interesting to take measurements for a time period longer than 30 minutes to see the extent of the change in absorbance over time. Also, it would be interesting to see how using different types of plants would affect the results, or using different concentrations of salt. Overall, this lab supported the hypothesis that the rate of photosynthesis in the spinach leaves would be reduced, as demonstrated by a decrease in the reduction of the DCPIP in the Hill assay seen through a decrease in absorbances.
+
+Literature Cited:
+DOWNTON, W. JOHN S., et al. Photosynthetic and Stomatal Responses of Spinach Leaves to Salt Stress. Vol. 78, 1985, p. 4.
+Draber Wilfried, et al. “Herbicides in Photosynthesis Research.” Angewandte Chemie International Edition in English, vol. 30, no. 12, Dec. 2003, pp. 1621–33. onlinelibrary.wiley.com (Atypon), doi:10.1002/anie.199116211.
+Guenther, Jeanne E., and Anastasios Melis. “Targets of Salinity Stress in Spinach.” Progress in Photosynthesis Research: Volume 4 Proceedings of the VIIth International Congress on Photosynthesis Providence, Rhode Island, USA, August 10–15, 1986, edited by J. Biggins, Springer Netherlands, 1987, pp. 189–92, doi:10.1007/978-94-017-0519-6_41.
+---. “Targets of Salinity Stress in Spinach.” Progress in Photosynthesis Research: Volume 4 Proceedings of the VIIth International Congress on Photosynthesis Providence, Rhode Island, USA, August 10–15, 1986, edited by J. Biggins, Springer Netherlands, 1987, pp. 189–92, doi:10.1007/978-94-017-0519-6_41.
+Murata, Norio, et al. “Photoinhibition of Photosystem II under Environmental Stress.” Biochimica et Biophysica Acta (BBA) - Bioenergetics, vol. 1767, no. 6, June 2007, pp. 414–21. CrossRef, doi:10.1016/j.bbabio.2006.11.019.
+Bidwell, R. G. S. 1979. Plant Physiology. (MacMillan Publishing Co., NY, NY) 726 p.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-27+at+5.40.13+PM.png&Size=48552&Type=image%2Fpng&F=F_3GE2FX38nnyObzR
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-27+at+5.40.04+PM.png&Size=47299&Type=image%2Fpng&F=F_b3N8KyDnNEoGk4F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.  This figure shows the percent change in absorbance after 30 minutes as seen in each group of samples. The data used for this graph disregards the outliers confirmed by performing a Q test. The error bars show the mean of the data plus or minus the standard deviation.
+
+Figure 2. This figure shows the percent change in absorbance after 30 minutes as seen in each group of samples. The data used for this graph includes the outliers confirmed by performing a Q test. The error bars show the mean of the data plus or minus the standard deviation.
+
+*************************************************************************

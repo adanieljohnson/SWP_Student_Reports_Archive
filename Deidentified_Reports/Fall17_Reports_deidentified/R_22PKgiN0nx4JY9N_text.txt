@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-10 16:19:30
+Author of this lab report is: Std_nzLKNTDO
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Effects of Gravitaxis on Chemotaxis in Physarum Polycephalum 
+
+Abstract:
+It is commonly known that for a cell to survive, it must be able to integrate both conflicting and supporting extracellular signals to produce the right response.  Our group wanted to examine how a slime cell, Physarum Polycephalum, would interact with conflicting chemotaxis and gravitaxis signals.  We hypothesized that, although chemotaxis signals would be stronger, gravitaxis would act as a significant deterrent to upward movement during the integration of the two signals. This experiment compared how Physarum grew with chemotaxis signals in both horizontal and vertical positions to compare the effects of gravity, with glucose and acetic acid acting as negative and positive stimuli. Our results were inconclusive, with the glucose Physarum samples providing significant data for the effects of gravitaxis and the acetic acid samples showing insignificant effects of gravity. Although these results can conclude the significance of gravitaxis, they provide evidence that harmful substances such as acetic acid may be more of a first order concern for cell movement compared to nutrition sources such as glucose. 
+
+Introduction:
+Physarum Polycephalum is not like average mold organism. It is a multinucleate syncytium, with multiple nuclei held within a singular plasma membrane. Essentially, this allows Physarum to behave as a giant, single-celled organism. As a giant cell, it is an excellent model organism to study how individual cells react to extracellular signals. As a species, they’re incredibly intelligent for how simple-celled they are. They’ve shown the ability to do things as complex as memorize maze patterns based on previous feeding experiments [Reid, 2012.] This experiment set out to examine how Physarum would respond to chemotaxis and gravitaxis respectively, even if they provided conflicting signals. Chemotaxis is the cell’s response to extracellular molecules, whether that be a nutrition source such as glucose or a substance that could potentially damage the cell. Gravitaxis is the cell’s response to gravity, as Physarum knows to search for water downstream [Hock, 2006.] Knowing that the cell will naturally grow downward when oriented on a vertical plane, our group hypothesized that a strong chemotaxis signal would override this signal. We hypothesized that a strong positive stimulus such as glucose located above Physarum, or a strong negative stimulus such as citric acid below, would cause the organism to grow up in contrast to gravitational signals. However, we believe that gravitaxis will still have a significant effect during the integration of these conflicting signals compared to the organism simply reacting to the chemical signal. 
+
+Materials and Methods:
+This experiment requires 9 water agar plates, 6 PDA plates, Glucose for 6 half plates, 1 tube of concentrated acetic acid in addition to a sufficient amount of the model organism, Physarum. The acetic acid should be diluted into 20mL of water before pouring it into a water agar plate to allow for it to soak. The first two PDA plates should be setup with just the Physarum sample in the middle of the plate with nothing else present. One of these “blank plates” should be set down horizontally while the other is suspended vertically. With the 6 PDA plates, the Physarum sample should be set in the middle and then 3 blocks of the acetic acid agar placed together somewhere in the plate. 3 of these plates should be set horizontally, while the other three should be suspended vertically with the acetic acid blocks towards the bottom of the dish. Finally, in the six remaining water Agar plates, Physarum should be placed in the center with a glucose block placed somewhere else inside. Three of these plates should be set horizontally, while the other three are suspended vertically, with the glucose blocks towards the top of the plate. These 15 plates should be set in an incubator according to their various orientations and left to colonize for 24 hours. After 24 hours, remove plates and measure the length of the longest strand and in what direction it grew (towards the glucose, up, down, etc.) 
+
+Results:
+ A trend was seen in our data as Physarum growth appeared to be more closely correlated with either the negative or positive chemotaxis stimulus rather than the gravitaxis signaling it was also receiving. For the blank samples, we saw growth in both samples, with downward growth in the vertical sample and regular growth in the horizontal sample. In the Glucose samples, we saw a 50% decrease in growth from the horizontal to vertical samples, with a significant P-value of .01 (alpha value .05) In the horizontal sample the average length of the longest strand was 4.5 cm towards the glucose, while in the vertical samples the longest strand averaged 2.36cm towards the glucose. For the acetic acid sample, we saw a 18% decrease in growth from the horizontal to vertical samples, with an insignificant P-value of .6268. In the horizontal sample, the average length of the longest strand was 2.133cm away from the acetic acid, while in the vertical samples the average longest strand was 1.733 cm away from the acetic acid. 
+
+Discussion:
+Our results partially supported our hypothesis. In the Glucose samples, everything went as predicted. The Physarum in the vertically oriented plates grew up as predicted in direct opposition to the gravitational signals, however the effect of gravitaxis was evident as growth was significantly less than in samples where Physarum was able to grow towards glucose on an unhindered, horizontal plane. Meanwhile, our hypothesis was not supported in the acetic acid plates. Although the samples did grow up as predicted, the difference between the horizontal and vertical samples was negligible. It’s possible that this shows the hierarchy of signal strengths within the cell, prioritizing getting away from something harmful such as acetic acid than to rapidly work towards a food source like glucose. In this way, the results make sense. It is well documented that slime molds are an intelligent species [Jabr, 2012.]  It would make sense that an intelligent species would prioritize, in the short term, safety over nutrition, especially if the path to that nutrition was entirely unhindered. It also could be a result of the food source we used, glucose. In a 2009 study, Dr. Tanya Latty proved that Physarum prioritizes better food sources in their movement patterns and searches [Latty, 2009.] This would suggest it’s possible that the glucose-prepared agar cubes were not sufficient enough stimulant to encourage great movement from the Physarum sample in a short, 24-hour period. If repeated, the study could be improved in a variety of ways. Ideally, there would be more control groups to compare the effects of gravitaxis on more than simply two types of gravitaxis, as the conflicting results allow for no real conclusions to be drawn. Secondly, a more glucose rich block could have been used to potentially better encourage our Physarum sample to move. Additional studies such as this with Physarum can teach us a lot about how cells prioritize different signals and ultimately integrate them into a singular, unified response. 
+
+Literature Cited:
+Hock, B. and Häder, D. (2006), Graviresponses in fungi and slime molds. Signal Transduction, 6: 443-448. Doi
+
+Tanya Latty, Madeleine Beekman; Food quality affects search strategy in the acellular slime mould, Physarum polycephalum, Behavioral Ecology, Volume 20, Issue 6, 1 November 2009, Pages 1160–1167,
+
+Jabr, Ferris. “How Brainless Slime Molds Redefine Intelligence Scientific American, 7 Nov. 2012,
+
+Reid, Chris R. et al. “Slime Mold Uses an Externalized Spatial ‘memory’ to Navigate in Complex Environments.” Proceedings of the National Academy of Sciences of the United States of America 109.43 (2012): 17490–17494. PMC. Web. 10 Apr. 2018.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Acetic+Acid.PNG&Size=28198&Type=image%2Fpng&F=F_1l3FyHgaAkR6bE9
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=New+Glucose+Graph.PNG&Size=29845&Type=image%2Fpng&F=F_OvwT4gs2xnu7tg5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph compares the growth of two Physarum samples towards the direction of Glucose. The Horizontal sample had an average longest strand length of 4.5cm while the Vertical sample had an average longest strand length of 2.3cm. The P-value was found to be significant at .01 
+Figure 2. This graph compares the growth of Physarum away from Acetic Acid. Horizontally, the longest Physarum strand averaged 2.1 cm away from the Acetic Acid. In the vertical sample, the longest strand away from the acetic acid averaged 1.7cm. The P-value was found to be insigifnicant at .6268
+
+*************************************************************************

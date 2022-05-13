@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-07 09:46:48
+Author of this lab report is: Std_F3wsocqY
+ID: R_enyiOUq0B5w1ApH
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The effects of acidic and basic conditions on the rate of photosynthesis in chloroplasts from Spinacia oleracea
+
+Abstract:
+The goal of this experiment was to test the effects of varying pH levels on the rate of photosynthesis in the species Spinacia oleracea. The hypothesis is that if the chloroplasts of the spinach are placed in acidic and basic conditions, the rate of photosynthesis will decrease as indicated by low absorbances of the chloroplasts. Photosynthesis occurs within an organelle known as a chloroplast, and it requires a multi-step process that includes both light-dependent and independent reactions. In order to test the productivity of the chloroplasts under acidic, basic, and neutral pH conditions, they had to be isolated from the spinach. The chloroplast mixtures were placed into their respected environments and their absorbances were measured at ten minute intervals. A decrease in absorbances would indicate a decrease in the rate of photosynthesis. The percent changes between each interval could then be recorded. An ANOVA test was used to test for statistical significance. We found that there was no significance in the difference in the rates of photosynthesis between the different environments. As a result, we were able to conclude that our hypothesis was not supported by our results. 
+
+Introduction:
+Plants, protists, and bacteria undergo a process known as photosynthesis which captures and stores light energy from the sun. Carbon dioxide and water react to create glucose, water, and oxygen in photosynthesis [Johnson: 2018]. The process is composed of both light dependent and independent reactions. As a brief overview, the process can more simply be described as follows. The beginning stages of the process involves chlorophylls to capture solar energy and the conversion into chemical energy [Arthur, Strehler: 1956]. This is part of the light-dependent reactions. The captured light excites electrons into a higher energy state (excited state) and as a result, trigger a reaction that ultimately cleaves water [Johnson: 2018]. This then creates a proton gradient which provides the energy for ATP synthesis while remaining electrons are kept as NADPH. In addition, the electron transfer reactions in chloroplasts can be measured by using a process called the “Hill Reaction.” Electron transport chains in chloroplasts pass off electrons, typically to NADP+, and when they go to various other electron acceptors, we can measure the other acceptors more easily. For example, DCIP is a good alternative electron acceptor for NADP+ to base measurements off of as its original blue color becomes clear as it accepts electrons. In this experiment, we will be using DCIP to help gauge and measure if the rate of photosynthesis is affected over time when exposed to acidic, neutral, and basic conditions. The hypothesis is that if the chloroplasts of spinach (Spinacia oleracea) are separately placed in an acidic (pH of 5) environment and a basic (pH of 10) environment, then we will see lower absorbances, indicating that the rate of photosynthesis is decreasing. This is hypothesized because in one study, researchers found that increasing pH levels decreased the rate of photosynthesis [Semesi, et. al: 2009]. In addition, another study showed that in very acidic conditions, the rate of photosynthesis was also recorded at very low rates [Gerloff-Elias, et. al: 2005].
+
+
+Materials and Methods:
+For this experiment, a mortar and pestle, medium (150-250mL) beaker, and three 50mL centrifuge tubes were cooled in ice. The central veins from four medium sized spinach leaves were removed, discarded, and the leaves were rinsed and dried. Using the mortar and pestle, 10mL of cold grinding buffer was added to grind the spinach leaves to a thick paste. Another 10mL of grinding buffer was added to the paste and strained through three layers of cheesecloth into the cooled beaker. The remaining green liquid was then put into a chilled centrifuge marked “A” and spun at 1200 rpm for three minutes at 4˚C with a balance tube. The supernatant was then poured out of the tube marked “A” and into a second chilled centrifuge tube marked “B.” The debris at the bottom of “A” was not transferred. Tube B was then centrifuged at 2800 rpm for ten minutes at 4˚C. The supernatant was then poured into a 50mL tube marked “C” without removing the pellet. Afterwards, 13 large test tubes were labelled 1-12 and the last was labeled “blank.” The following experimental groups had to be created with three tubes per group except the control or blank group had only one. The single tube labeled blank had 8mL of water, and 2mL of the reaction buffer. Experimental group one contained 6mL of water, 2mL of 130mM DCIP, and 2mL of the reaction buffer. Experimental group two had 6mL water, 2mL 130mM DCIP, and 2 mL of the reaction buffer. Experimental group three had 5mL of water, 2mL of 130mM DCIP, 2mL of the reaction buffer, and 1mL of pH buffer 5. Experimental group four had 5mL of water, 2mL 130mM DCIP, 2mL of the reaction buffer, and 1mL of pH buffer 10. 100 microliters of enriched chloroplasts from tube C were then added to the blank tube and experimental groups 2-4 and mixed right away. Once in spectrometer cuvettes, the spectrometer was blanked with the blank sample cuvette and the absorbances of all the samples were measured at the wavelength 620 nanometers at time zero. The samples were all placed under a grow light for 10 minutes, their absorbances were then recorded, and the process was repeated two more times. An ANOVA statistical test will be used for this experiment using the average absorbances for each experimental group from the raw data with the degrees of freedom being four and an alpha value of 0.05.   
+
+
+Results:
+The ANOVA test indicated that there was no significance in the difference in percent changes over time (df = 3, p-value = 0.704). The largest percent change occurred in the acidic environment, as the standard error bars are the biggest (60.40+/- 102.366). In comparison, the percent change in the basic environment (28.20+/- 37.207) is smaller than that of the neutral environment (34.37+/- 52.742). 
+
+Discussion:
+ The main observation is that there is no significant evidence that there is a difference in the rate of photosynthesis in the presence of different pH’s. Consequently, the data does not support our hypothesis that there would be a reduction in the rate of photosynthesis in the acidic and basic environments. Despite this, the average percent changes seen in Figure 1 does show that the chloroplasts in the basic environment had a lower averaged percent change than the acidic environment. However, there may be no significant difference between the different pH environments due to the homeostatic nature of chloroplasts. Through research, it was found that they adapt to varying environmental conditions and growing stages through the regulation of plastids by the ubiquitin-proteasome system as the organism matures [Jarvis, Lopez-Juez: 2013]. This might explain why there were not stark differences in the photosynthetic rates in the acidic and basic conditions. Conversely, other research dictates that increased pH does have an impact on certain plant species and has been found to decrease the rate of photosynthesis [Semesi, et. al: 2009]. This contrasts to the results that we have found, as the basic conditions did not yield a significantly different rate. In addition, other studies showed that certain plant species are actually adapted to function in lower pH environments and have a larger range of pH’s in which they can thrive; however, some do not, as is the case for spinach plants [Gerloff-Elias, et. al: 2005]. This research further emphasizes how chloroplasts have a homeostatic nature where they are able to perform their roles within a plant even when exposed to different types of environments. Overall, our data was very inconsistent and made it difficult to analyze. 
+
+Literature Cited:
+Arthur, W. E., & Strehler, B. L. (1957). Studies on the primary process in photosynthesis. I. Photosynthetic luminescence: Multiple reactants. Archives of biochemistry and biophysics, 70(2), 507-526.
+
+Jarvis, P., & López-Juez, E. (2013). Biogenesis and homeostasis of chloroplasts and other plastids. Nature Reviews Molecular Cell Biology,14, 787-802. Retrieved October 23, 2018, from https://www.ncbi.nlm.nih.gov/pubmed/24263360.
+
+Semesi, I. S., Kangwe, J., & Björk, M. (2009). Alterations in seawater pH and CO2 affect calcification and photosynthesis in the tropical coralline alga, Hydrolithon sp.(Rhodophyta). Estuarine, Coastal and Shelf Science, 84(3), 337-341.
+
+GERLOFF‐ELIAS, A. N. T. J. E., Spijkerman, E., & PRÖSCHOLD, T. (2005). Effect of external pH on the growth, photosynthesis and photosynthetic electron transport of Chlamydomonas acidophila Negoro, isolated from an extremely acidic lake (pH 2.6). Plant, Cell & Environment, 28(10), 1218-1229.
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+8.57.12+AM.png&Size=149153&Type=image%2Fpng&F=F_1oe7F8u1NDSSCv4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This shows the average percent change in absorbances over time in various pH environments (n=3) using spinach (Spinacia oleracea) for isolated chloroplasts. The error bars indicate the standard deviation of the percent change for each environment. 
+*************************************************************************
+
+
+

@@ -1,0 +1,75 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 11:44:17
+Author of this lab report is: Std_iHq7Thdh
+ID: R_ZIekLaLO5Z7XZKh
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Lanthanum chloride decreases muscle contraction amplitude
+
+Abstract:
+The neuromuscular system can respond to stimuli within milliseconds. Stimulation of a motor neuron causes contraction of a muscle fiber. In this lab, muscle contraction of the Rana pipiens, commonly known as the Northern Leopard Frog, will be tested. Their muscles remain alive for several hours after death making these frog legs useful for lab purposes. Muscle contractions are controlled by the influx of calcium ions. If 1 mL of a calcium channel blocker called 1mM lanthanum chloride is injected into the frog's gastrocnemius muscle, then the contraction amplitude (V) will decrease. However, we found that the injection of lanthanum chloride increased the contraction amplitude. Therefore, we rejected the hypothesis; however, other studies support the hypothesis. An error may have occurred when collecting data or due to the frogs contracting Red Leg disease. In all, injection of a calcium channel blocker should decrease the muscle's contraction amplitude. 
+
+Introduction:
+Skeletal muscles consist of a collection of cells called myofibrils that are linked by connective tissue. Skeletal muscle contains motor neurons. At the neuromuscular junctions, the motor neuron axons extend to the myofibrils. When an action potential arrives at the presynaptic terminal, voltage-gated calcium channels open moving calcium into the axon allowing the muscle to contract [Ebashi : 1968]. The legs of Rana pipiens, commonly known as Northern Leopard Frog, were used in this lab as their muscles remain alive for several hours after death. This was necessary in order to gather data on how stimulation of the sciatic nerve affects muscle contraction amplitude. In this lab, the gastrocnemius muscle and sciatic nerve of a Northern Leopard Frog were studied to find the effect of a calcium channel blocker called 1mM lanthanum chloride on the muscle's contraction amplitude. The release of calcium in the postsynaptic terminal of the nerve axon stimulates muscle contraction [Ebashi : 1968]. Therefore, if 1 mL of a calcium channel blocker called 1mM lanthanum chloride is injected into the frog's gastrocnemius muscle, then the contraction amplitude (V) will decrease.
+
+Materials and Methods:
+To perform this lab, 2 R. pipiens frog legs were obtained. Both legs were skinned and moistened with frog Ringer's solution as needed. The white sciatic nerve was located and freed from the muscle. The leg hung from an apparatus allowing the gastrocnemius muscle to hang vertical. The lower leg was pinned to the bottom on the dissecting tray to hold it in place. The freed sciatic nerve was placed on top of the nerve stimulators. See figure #1 for lab setup. 
+
+In this lab, the gastrocnemius muscle and sciatic nerve of a Northern Leopard Frog were studied to find the effects of a calcium channel blocker on the muscle's contraction amplitude. For each leg, the control twitch threshold (amps) and contraction amplitude (V) were found. A computer software system called LabScribe was used to administer the stimulus and collect the data. The twitch threshold and contraction amplitude of the muscle were determined by analyzing the myogram after nerve stimulation. The LabScribe settings were set as follows:
+o	# Pulses = 1 pulse
+o	Frequency = 1 Hz
+o	Pulse width = 5 ms 
+
+For frog leg #1, the voltage was increased by 0.1 amp increments. The control threshold was found when the first twitch was observed at 0.1 amps. The control values are the contraction amplitudes of both legs before calcium channel blocker was injected. The muscle was then injected with 0.1 mL of 1mM lanthanum chloride. After 10 minutes passed, we began stimulating the nerve. The LabScribe settings remained as listed above for the treatment. However, this time we started the voltage at 0.04 amps to determine a more accurate threshold value. A twitch of 0.177 V occurred at 0.05 amps. This proves 0.05 amps was the threshold and 0.177 V was the corresponding contraction amplitude for frog leg #1 when injected with calcium channel blocker. 
+
+For frog leg #2, the same procedure was conducted except we again started at smaller voltage to designate a more accurate control twitch threshold. The control threshold was found at 0.04 amps which produced a twitch of 0.070 V. This proves 0.04 amps is the control twitch threshold and 0.070 V was the corresponding control contraction amplitude for frog leg #2. The muscle was then injected with 0.1 mL of 1mM lanthanum chloride. After 10 minutes passed, we began stimulating the nerve. With the same initial LabScribe settings, we found the twitch threshold at 0.04 amps which produced a contraction amplitude of 0.097 V for frog leg #2 when injected with calcium channel blocker. 
+
+We recorded our data and obtained the data of another lab group who used 1mM lanthanum chloride as well. For leg #3, they found the control threshold to be 0.065 V and the treatment threshold to be 0.075 V. For leg #4, they found the control threshold to be 0.1 V and the treatment threshold to be 0.09 V. The averages of the control and treatment groups were calculated and displayed in a bar graph showing standard deviation in the form of error bars. Then, a paired t-test was performed because the control and treatment groups were not independent of each other. The paired t-test calculated the probability that the results were due to chance.
+
+
+Results:
+When calculating the averages and performing the paired t-test, the data calculated for frog leg #1 was omitted. This data is omitted because we did not record the contraction amplitude (only the voltages). Therefore, the averages are from the data collected for frog legs #2, #3, and #4. 
+
+The average contraction amplitudes (V) were found for the control and treatment groups, as shown in Figure #2. The average of the control group was 0.0783 V +/- 0.0189 V. The average of the treatment group was 0.0873 V +/- 0.0112 V. After completing a paired t-test, I found t=0.842, df=2, and p=0.489. I came to the conclusion that my data is not statistically significant because the value of p is greater than 0.05. Therefore, there is over a 5% probability that the data is due to chance. The standard deviation of the control group is 0.0189 V and the standard deviation of the treatment group is 0.0112 V. In Figure #2, the error bars represent these respective standard deviations, or how the data is spread around the mean. The smaller the standard deviation, the more precise the data. 
+
+Discussion:
+Based on the data collected, the average treatment contraction amplitude was larger than the average control contraction amplitude. Therefore, I cannot accept my hypothesis because the data shows the contraction amplitude increased and my data is not statistically significant. However, this lab should have proven this hypothesis correct, as the influx of calcium ions stimulates muscle contraction. Therefore, if a calcium channel blocker was injected into the muscle, the contraction amplitude should have decreased, as more stimulation would have been necessary. An error must have occurred in this lab. It could possibly be due to the frogs contracting Red Leg disease, which causes lethargy. Also, we did not record the contraction amplitude for frog leg #1 (only the voltage) limiting the amount of data to average by decreasing the sample size. 
+
+A similar study was performed in which the effect lanthanum chloride has on calcium ions in Homo sapiens was analyzed. The scientists found that when lanthanum chloride was present, calcium influx was inhibited [Boucek : 1976]. This prevents the muscle from contracting. When lanthanum chloride was not present, the muscle underwent normal contraction [Boucek : 1976]. Medications containing calcium channel blockers are used to treat hypertension because they make the heart muscles contract less forcefully, allowing blood vessels to relax [Roth]. Typically, when an action potential arrives at the presynaptic terminal, voltage-gated calcium channels open moving calcium into the axon [Ebashi : 1968]. Then, the neurotransmitter acetylcholine (Ach) is released from the presynaptic terminal, crosses the synapse, and binds to receptors on postsynaptic terminal [Ebashi : 1968]. Consequently, sodium ions move into the cell and potassium ions move out. The release of calcium stimulates muscle contraction. In conclusion, a calcium channel blocker such as lanthanum chloride is effective in decreasing the contraction amplitude of the gastrocnemius muscle as proven by similar studies.
+
+Literature Cited:
+1.	Boucek, M., and R. Snyderman. "Calcium Influx Requirement for Human Neutrophil Chemotaxis: Inhibition by Lanthanum Chloride." Science, vol. 193, no. 4256, 3 Sept. 1976, pp. 905-907., doi: 10.1126/science.948752.
+2.	Ebashi, S., and M. Endo. "Calcium and Muscle Contraction." Progress in Biophysics and Molecular Biology, vol. 18, 1968, pp. 123-166., doi:10.1016/0079-6107(68)90017-5.
+3.	Roth, Erica. "Treating Hypertension with Calcium Channel Blockers." Edited by Dr. Judith Marcin, Healthline, Healthline Media, www.healthline.com/health/heart-disease/calcium-channel-blockers. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-27+at+11.38.15+AM.png&Size=546202&Type=image%2Fpng&F=F_2YArRlVl54VsRfv
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-27+at+11.38.36+AM.png&Size=102853&Type=image%2Fpng&F=F_1dvrlsdz8fplBKs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure #1. This image shows the general lab setup. The skinned frog leg was hung from the apparatus pulling the gastrocnemius muscle vertical. The nerve was freed and placed on top of the stimulators. The rest of the leg was pinned to the dissecting tray to hold it in place. The muscle was moistened with frog Ringer's solution as needed. 
+
+Figure #2. The bar graph shows the average contraction amplitude (V) for the control and treatment R. pipiens. The average is for the 3 frog legs from which we gathered conclusive data. The error bars represent +/- a standard deviation. The average of the control group was 0.0783 V +/- 0.0189 V. The average of the treatment group was 0.0873 V +/- 0.0112 V. After conducting the paired t-test, we came to the conclusion that the data is not statistically significant as there is a probability that it could be due to chance. 
+
+*************************************************************************

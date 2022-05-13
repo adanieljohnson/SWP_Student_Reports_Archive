@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 15:16:41
+Author of this lab report is: Std_Sy6nUPsZ
+ID: R_1Q6lPEB90akwCtl
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Acetylcholinesterase Inhibitors Effect on Gastrocnemius Muscle of Rana pipiens
+
+Abstract:
+In this experiment, an acetylcholinesterase inhibitor was tested by studying how it affects muscle contraction. The enzyme acetylcholinesterase breaks down acetylcholine resulting in relaxation. It was expected that the acetylcholinesterase would increase the amplitude and lower the threshold of the contractions of gastrocnemius muscle. After studying 3 frog legs, used initially for the control and then used as experimental group, it was found that the gastrocnemius muscle injected with acetylcholinesterase inhibitor contraction had lower amplitude of contraction and higher threshold. Once the results were run through a T-Test, it was found that within the realm of this experiment, it cannot be conclusively stated that an acetylcholinesterase inhibitor does induce an increased amplitude and a decreased threshold of contraction on the gastrocnemius muscle of Rana pipiens.
+
+
+Introduction:
+In the terminal end of the motor neuron at the neuromuscular junction, an action potential in the terminal end opens up voltage gated calcium channels allowing calcium to come into the neuron and depolarize the terminal end. Vesicles containing acetylcholine bind to the membranes of the terminal end and acetylcholine is released into the synaptic cleft. The acetylcholine binds to the ligand gated sodium channels on the sarcomere, causing it to open. Sodium moves into the sarcomere from the extracellular matrix, causing the sarcomere to depolarize which leads to muscle contraction. Once the contraction period is finished, the acetylcholine is released from the ligand gated sodium channels and gets recycled by acetylcholinesterase. This molecule removes acetylcholine from the synapse and breaks the acetylcholine down into acetate and choline, which are then reabsorbed into the terminal end of the motor neuron to be used as new acetylcholine. Acetylcholinesterase inhibitors work by blocking acetylcholinesterase from breaking down acetylcholine and as a result, acetylcholine remains in the synapse so the muscle stays contracted longer until the muscle fatigues due to a lack of ATP (almost like the muscle was undergoing tetany).  The journal Current Neuropharmacology states that “Acetylcholinesterase is involved in the termination of impulse transmission by rapid hydrolysis of the neurotransmitter acetylcholine in numerous cholinergic pathways in the central and peripheral nervous systems. The enzyme inactivation, induced by various inhibitors, leads to acetylcholine accumulation, hyperstimulation of nicotinic and muscarinic receptors, and disrupted neurotransmission. Hence, acetylcholinesterase inhibitors, interacting with the enzyme as their primary target, are applied as relevant drugs and toxins.” This essentially states that the presence of an AcHE inhibitor should produce the above effects in an affected muscle, otherwise these inhibitors would not be viable as drugs to treat various conditions in the human body.
+This experiment will test whether the presence of acetylcholinesterase inhibitor will produce sustained contraction until fatigue, as well as an increased threshold value for contraction on the gastrocnemius muscle of a Rana pipiens leg. If that effect is observed, the experiment will be deemed a success. 
+
+
+Materials and Methods:
+Our group was given three frog legs of Rana pipiens were used. The legs were used first under control conditions without the presence of the acetylcholinesterase inhibitor, and then were reused under experimental conditions with the inhibitor. The legs were moistened with frog ringer’s solution and skinned so that the gastrocnemius muscle and sciatic nerve were visible. The stimulating electrodes were placed under the sciatic nerve, with care being taken that they did not cross. When electrical current was run through the stimulating electrodes, the electricity also stimulated the gastrocnemius muscle. The contractions produced by the muscle were recorded by the force transducer attached to the gastrocnemius muscle. As a control, the gastrocnemius contractions were recorded under normal conditions without the inhibitor. After each leg underwent the control section of the experiment, the gastrocnemius of each leg is injected with 0.1 mL of acetylcholinesterase inhibitor and left to sit for three minutes while the inhibitor took effect. After the three minute waiting period, the electrodes were put back under the sciatic nerve and the experiment is run again in exactly the same way as the control group. The myograms are recorded and the data is taken from the myograms. In both sections of the experiment, the duration of contraction, the threshold, and the amplitude of the contraction are measured. 
+
+Results:
+The first frog leg experienced an increased threshold (0.06 to 0.18 amps) once exposed to the acetylcholinesterase inhibitor. The second leg also had an increased threshold, but not nearly by the same factor as the first leg going from 0.03 amps in the control section to 0.04 amps in the experimental section. The third frog leg actually exhibited the response that the inhibitor was meant to have, by having a decreased threshold compared to the control section, going from 0.17 amps in the control to 0.14 amps in the experimental section. Our p-value for the control group was massive at 0.8, when it should have been at or under 0.05. The p-value for the experimental was 0.6, which is also too large to be conclusive. There is a trend present in our data, just not the trend hypothesized. The contractions of two of our three legs did not match the hypothesized values, so the results were not statistically significant.
+
+Discussion:
+	Our experiment was not successful as hypothesized as only one of the legs exhibited a lower threshold, but it was not consistent or conclusive. These results go against what the acetylcholinesterase inhibitor was meant to do because the presence of that chemical should have decreased the thresholds while increasing the amplitude. Regarding the amplitudes, the acetylcholinesterase inhibitor was meant to have an increased value for the amplitude which was only shown by the third frog leg. The first and second legs had decreased amplitudes, which, similar to the data for the thresholds, was not supposed to happen in the presence of the inhibitor. The third leg had an increased amplitude which was our predicted result for this experiment. Our data does have a trend, just not the one we hypothesized. Our data and results actually trends toward the opposite of what was hypothesized because two of the three legs have increased thresholds and decreased amplitudes. We are unsure about why this may have happened for our data because we followed the directions for the experiment, but sometimes these things happen.
+
+
+
+Literature Cited:
+Bondzic AM, Colovic MB, et al. Acetylcholinesterase Inhibitors: Pharmacology and Toxicology. Current Neuropharmacology. 2013 May; 11(3) 315-335.
+
+Johnson AD. Hormone Regulation. Comparative Physiology Bio114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated January 5, 2018), pp. 17-21
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph1.png&Size=43188&Type=image%2Fpng&F=F_1BVOud3q0fnieXR
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph2.png&Size=43335&Type=image%2Fpng&F=F_25XBAurWndrS5SA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+This figure shows the average amplitude of contraction once the muscle reaches threshold, with a standard deviation bar. The control bar has no inhibitor present, while the experimental bar is the average amplitude after all three legs have been injected with AcHE inhibitorThis figure shows the amount of current in amps put through to the frog legs in order to reach the threshold value, with a standard deviation bar. The control bar has no inhibitor present, while the experimental bar is the average stimulation needed to find the threshold after all three legs have been injected with AcHE inhibitor.
+
+*************************************************************************

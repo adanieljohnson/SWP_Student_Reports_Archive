@@ -1,0 +1,74 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-12 22:38:52
+Author of this lab report is: Std_oxUBbHfr
+ID: R_2TBi8gZ3HOFavgL
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Reduction in contractile strength of frog skeletal muscle after injection with tubocurarine
+
+Abstract:
+Muscular control in frogs is mediated by the nervous system. Acetylcholine (ACh) is the neurotransmitter secreted by presynaptic neurons into the muscle fiber, triggering a muscular action potential and subsequent muscular contraction. In this experiment, we tested frog gastrocnemius contractile strength before and after injection with tubocurarine, an ACh antagonist, with the hypothesis that contractile strength would decrease post-injection. Our data showed a significant decrease in contractile strength post-injection, suggesting that tubocurarine’s ACh blocking properties have an inhibitory effect on skeletal muscular contraction.
+
+Introduction:
+Muscular control in animals is mediated by the nervous system. Impulses travel from motor neurons, which release acetylcholine (ACh) into muscle fibers at points referred to as neuromuscular junctions. This release of ACh causes the activation of postsynaptic receptors in the muscle fiber [Vyskocil: 2009], triggering an action potential in the fiber itself, which in turn causes the release of Ca2+ ions from the internal sarcoplasmic reticulum. Released Ca2+ binds to troponin in the thin filaments of the sarcomere, causing the troponin-tropomyosin complex to shift and exposing the myosin binding sites on actin. Myosin is then free to bind to these exposed sites, pulling the Z-lines of the sarcomere closer together and thereby causing the muscle as a whole to contract, spending ATP in the process. [Johnson: 2018]
+
+Neurotransmitters like ACh function by binding receptors on the postsynaptic membrane. This action, however, can be actively prevented in one of two ways. The first way is for an enzyme to break the neurotransmitter down before it reaches its target receptor, thereby rendering it inactive. The second is for another compound, referred to as an antagonist to the neurotransmitter, to bind to the target receptor for that neurotransmitter but fail to activate it, thereby blocking the effect of the neurotransmitter by creating a situation in which the receptor is unable to bind any further ligand.
+
+The objective of this experiment is to determine the effect of blocking the action of ACh at the neuromuscular junction on the strength of muscle contraction in the frog gastrocnemius. This will be accomplished by the use of an ACh antagonist, tubocurarine. Tubocurarine has been demonstrated to inhibit muscle contractions at low doses [Taniguchi: 2006], therefore our hypothesis is that frog muscles will contract with less strength after treatment with tubocurarine than they did before inhibition with the same strength electrical stimulation.
+
+
+Materials and Methods:
+Three frog legs were obtained and prepared by skinning, exposing the sciatic nerve, detaching one end of the gastrocnemius muscle, attaching the exposed end to a force transducer, and pinning the rest of the leg to the experimental tray in order to immobilize it. Individually, each leg was stimulated directly into the muscle at 0.8V before being injected with 1mL of tubocurarine (an ACh antagonist that acts by blocking the ACh receptor), being allowed to sit for 5 minutes, and being stimulated again at the same voltage. All stimulations were at 50 Hz and lasted for 5ms. Strength of contraction, given in volts, was noted before and after tubocurarine injection. Leg specimens were periodically wet with Frog Ringer’s solution in order to keep them moist and supplied with sufficient ATP to continue contraction. A paired one-tailed T-test was then carried out on the contraction strength measurements to test for significant difference.
+
+Results:
+The average contractile strength before injection of tubocurarine was 0.636V, and after injection this number decreased to 0.207V. The average difference between contractile strength before and after injection was 0.429V, with a standard deviation of 0.164V. A paired one-tailed T-test found the mean contractile strength before injection to be statistically significantly different from the mean contractile strength after injection. (t-stat=4.53, df=2, P=0.046). As can be seen in Figure 1, although each leg started with a different pre-injection contractile strength, the strength of all three legs was substantially diminished post-injection.
+
+Discussion:
+The results of the experiment supported our hypothesis that frog gastrocnemius muscles would contract with less strength after treatment with an ACh inhibitor than they did before. All frog legs contracted with less force after treatment than they did before, and average contractile strength after injection was less than a third of that before injection. Additionally, the P-value of 0.046 shows that this difference did reach the level of statistical significance. This makes sense when it is considered that tubocurarine is known to be able to block ACh receptors in muscle tissue [Lapa: 1974], thereby impairing their ability to receive signals to contract from motor neuron cells.
+
+It is possible that more dramatic effects would have been observed has we allowed the subject samples more time post-injection to rest before stimulating them. This makes intuitive sense, since more time left at rest would have allowed time for more ACh receptors to bind to tubocurarine, thereby blocking more ACh upon stimulation and creating a weaker contraction.
+
+A logical next step from this study would be to investigate the effects of other ACh antagonists, as well as ACh agonists on skeletal muscle tissue. Compounds like anatoxin-a have been shown to be potent acetylcholine agonists [Koskinen: 1984], and atropine has been demonstrated to have neuromuscular blocking effects similar to those of tubocurarine [Lapa: 1974]. The effects of this compound on skeletal muscle contraction is a possible avenue for further investigation.
+
+
+Literature Cited:
+1.Johnson AD. Organization of the Somatic Neuromuscular System. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-18.
+
+2.Koskinen AMP, Rapoport H. 1984. Synthetic and conformational studies on anatoxin-a: a potent acetylcholine agonist. Journal of Medicinal Chemistry. 28: 1301-1309.
+
+3.Lapa AJ, Albuquerque EX, Daly J. 1974. An electrophysiological study of the effects of d-tubocurarine, atropine, and α-bungarotoxin on the cholinergic receptor in innervated and chronically denervated mammalian skeletal muscles. Experimental Neurology. 43: 375-398.
+
+4.Taniguchi M, Kurahashi H, Noguchi S, Fukudome T, Okinaka T, Tsukahara T, Tajima Y, Ozono K, Nishino I, Nonaka I, Toda T. 2006. Aberrant neuromuscular junctions and delayed terminal muscle fiber maturation in -dystroglycanopathies. Human Molecular Genetics. 15: 1279-1289.
+
+5.Vyskocil F, Malomouzh AI, Nikolsky EE. 2009. Non-quantal acetylcholine release at the neuromuscular junction. Physiological Research. 58: 763-784.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-29+at+11.19.01+PM.png&Size=76763&Type=image%2Fpng&F=F_dhYWxmtv5TUv2Vz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Contractile strengths of each leg before and after tubocurarine injection. Blue bars indicate strength before injection, and orange bars indicate strength after injection. Contractile strengths given in millivolts (mV).*************************************************************************
+
+
+

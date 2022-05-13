@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-28 14:09:42
+Author of this lab report is: Std_HB8ZtCkR
+ID: R_2ykAvBipEbEkgxP
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of the Addition of Calcium on [Physarum polycephalum’s] Time for One Oscillation of Cytoplasmic Streaming
+
+Abstract:
+Stimuli in the environment can initiate changes in organism’s behaviors through signal transduction pathways. In this experiment, the effect of calcium on the time for one oscillation of cytoplasmic streaming was observed in Physarum polycephalum. This experiment sought to understand the role of calcium in the actin-myosin system that causes the movement in cytoplasmic streaming. One oscillation of cytoplasmic streaming was measured in various strands of [Physarum] before and after the application calcium.  It was hypothesized that the addition of calcium to the surface of the [Physarum’s] strands would increase the time it takes for the completion of one oscillation of cytoplasmic streaming. Ultimately, the increase in time for one oscillation in the presence of calcium was calculated to not be statistically significant when compared to the oscillation time when there was no calcium present. 
+
+Introduction:
+Organisms are able to sense and respond to stimuli in environments through hormonal or neural pathways; however, other organisms are able to use intracellular signal transduction pathways to respond to stimuli. In the case of signal transduction pathways, there are three steps that are initiated to induce a response in the organism. First, the stimulus binds to a receptor or protein that causes for that to act as a sensor. Second, due to the activation of the receptor and other molecules earlier in the pathway, a second messenger is released within the cell that creates the response pathway. Lastly, the second messenger binds to the effector which results in the organism responding to the stimulus by changing its behavior. In this specific lab, [Physarum polychphalum] was used to study the Ca2+-activated pathway and its effect on cytoplasmic streaming [Johnson: 2016]. 
+	This particular lab focused on the Ca2+-activated pathway.  The calcium activated channel is prompted by calcium diffusing from the external environment.  Once it has diffused across the calcium channel receptors on the plasma membrane, it can bind to the Ryanodine receptor on the smooth endoplasmic reticulum membrane. This triggers the release of excess calcium from stores in the smooth endoplasmic reticulum into the cell. 
+One of [Physarum’s] behaviors is known as cytoplasmic streaming. [Physarum] are essentially large volumes of cytoplasm inside one external membrane making them ideal for observing cytoplasmic streaming and manipulating their signal transduction pathways [Durham: 1975]. This streaming of the cytoplasm moves food particles and organelles bidirectionally through the [Physarum] [Johnson: 2016]. It is known that [Physarum’s] cytoplasm flows in a rhythmic manner through oscillations. [Physarum] have actin microfilaments which are used for movement; however, it has been found that [Physarum] may contain Ca2+-sensitive actomyosin complexes. Therefore, it is thought that the actin-myosin interaction is regulated by fluctuation of intracellular free calcium [Kamiya: 1981]. It is known that actin, which is a structural protein found in the cytoplasm, is used for cytoplasmic movement as seen in cytoplasmic streaming [Vandekerchkhove: 1978]. In Kohama’s study on calcium inhibition on actin myosin interactions, he found that calcium inhibited the actomyosin system which creates the force needed for cytoplasmic streaming. Therefore, when calcium interacts with this actomyosin system, the actin and myosin are unable to interact properly to cause the movement of the cytoplasm. This would then affect the time it takes for one oscillation of cytoplasmic streaming [Kohama: 2016].
+It was hypothesized that the addition of calcium in the external environment of [Physarum] will cause an increased release of calcium from the smooth endoplasmic reticulum into the cell thus inhibiting the actomyosin system. This inhibition of the actomyosin system was then hypothesized to cause a slowed time for one oscillation of cytoplasmic streaming.
+
+Materials and Methods:
+A 100 mm stock plate of [Physarum polycephalum] growing on oatmeal-water agar was obtained and used for the entirety of the experiment. The stock plate was placed face up and observed using a dissecting microscope. Under the microscope, a thin narrow strand of cytoplasm was located for observation of cytoplasmic streaming. This strand’s oscillation time for cytoplasmic streaming was measured three times with a stopwatch.  The oscillation time for cytoplasmic streaming was measured by recording the time it took for it to flow one direction, stop, and flow back in the opposite direction. Next, 20x stock solution of Calcium was diluted to 1x Ca2+. Once the solution was diluted, 20 µL of the solution was pipetted onto the observed strand. Once five minutes had passed, the time for one oscillation was re-measured three more times. This procedure was repeated for two additional strands of [Phyasrum].  A one tail, paired t-test with equal variance was performed at an alpha value of 0.05 to determine the statistical significance between the average time for one oscillation of cytoplasmic streaming without excess Ca2+ and with excess Ca2+. 
+
+Results:
+In Figure 1, the effect of calcium on time to change direction and back can be observed for each strand before and after the application of calcium. The average time for one oscillation when no excess calcium was present was 136.22 ± 23.70 seconds. The average time for one oscillation in the presence of excess calcium was 167.33±65.53 seconds. There was an 22.83% average percent increase in time once calcium was added. However, this increase was calculated to not be statistically significant [t-value= 1.66, d.f.=8, p-value=0.14].
+
+Discussion:
+From our data, we were unable to support our hypothesis which tested the presence of calcium on the oscillation period. It was hypothesized that the presence of added calcium would slow the time for one oscillation. There was an overall increase in the average time for one oscillation after the addition of calcium; however, this increase in time was not statistically significant. It was expected that the oscillation period would increase since Kohama found that calcium regulates streaming by inhibiting the actin-myosin-ATP interaction [Kohama: 2016]. We hypothesized that the influx of calcium from the smooth endoplasmic reticulum due to the addition of calcium would inhibit with the actomyosin system. This inhibition would result in a slowed time for cytoplasmic streaming since moving of the cytoplasm is due to actin [Vandekerchkhove: 1978]. This discrepancy between our expected results and Kohama’s results could be due to the concentration of calcium used in our procedure. It is possible that our concentration was not high enough to affect change in the cell’s behavior. Increasing the concentration of calcium could potentially be the next step for this experiment. It could be possible that the calcium was not concentrated enough so that it did not bind to enough receptors to release enough calcium in the cell to cause a change in the actin-myosin interaction to slow movement. It would also be insightful to allow for the calcium to sit longer on the [Physarum] before measuring time for cytoplasmic flow. The time for our methods, 5 minutes, was chosen arbitrarily rather than based off of scientific findings. If this experiment were to be repeated, it would be beneficial to allow for the calcium to sit for longer before measuring the time for oscillations. It could also be possible that we did not leave enough time for the calcium to diffuse across and cause change. If more time for diffusion is needed this would result in more calcium being able to bind and result in calcium being released to interact with the actomyosin system. It could also be interesting to examine the effects of growing [Physarum] on a medium with calcium already present; however, this then poses the problem of not being able to take initial recordings of oscillation time of cytoplasmic streaming. Lastly, it is also important to consider how isolating one part of the Physarum with calcium does not affect the rest of the slime mold. Therefore, other parts of the Physarum could be influencing the strand that we were observing more so than the potentially inhibited actomyosin system.
+	The role of calcium in movement within the [Physarum] proves to be interesting area study since the role of calcium in [Physarum] has been noted to be an inhibitory one; however, within other organisms, calcium is a crucial component for creating movement as seen in muscle contractions. Calcium has the role of being the final activator of the contractile system in muscles. Therefore, the potential relationship of calcium being inhibitory to movement in [Physarum] is an interesting concept that would be beneficial to further study [Ebashi: 1968]. 
+
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.  
+2.	Durham ACH, Ridgway EB. 1976. Control of chemotaxis in Physarum Polycephalum. The Journal of Cell Biology. 69:218-223. 
+3.	Kohama K. 2016. Calcium inhibition as an intracellular signal for actin-myosin interaction. Proceedings of the Japan Academy. Series B, Physical and biological sciences. 92(10): 478-98. 
+4.	Kamiya N. 1981. Physical and chemical basis of cytoplasmic streaming. Annual Review of Plant Physiology. 32:205-36
+5.	Vandekerchkhove J, Weber K. 1978. The amino acid sequence of Physarum actin. Nature. 276: 720-271. 
+6.	Ebashi S. Endo M. 1968. Calcium and muscle contraction. Progress in Biophysics and Molecular Biology. 18: 123-183. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Physarum+Lab+Data+Reprot.png&Size=26082&Type=image%2Fpng&F=F_tVyXo16NAWzRygN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.  The effect of the presence of 1x calcium solution on the average time it takes for one oscillation of cytoplasmic streaming at each strand site. Error bars represent ±1 standard deviation for each strand’s oscillation time before and after addition of calcium. *************************************************************************
+
+
+

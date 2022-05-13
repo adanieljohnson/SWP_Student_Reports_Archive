@@ -1,0 +1,60 @@
+---
+title: "Check and Tabulate File Headers"
+author: "Dan Johnson"
+date: "6/1/2021"
+output: html_document
+---
+# Goals
+This script creates a CSV table using the headers from TXT versions of the lab reports as input. It serves two functions:
+
+* The table makes it easy to check that the files have been fully de-identified.
+* The table serves as a data frame of the headers on files in a folder that can be assembled into a larger file for analysis.
+
+The current script is not set to recursively read sub-folders, but can be modified to do so.
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Set the libraries.
+```{r libraries}
+library(magrittr)
+library(tidyverse)
+library(readtext)
+library(stringr)
+library(tidyr)
+# library(readr)
+# library(tm)
+# library(quanteda)
+```
+
+```{r create files list}
+# This creates a list of files in the current directory folder
+#
+filelist <- list.files()
+
+# Alternative is: folder_file_names <- list.files(pattern="*.txt")
+```
+
+
+```{r make_df}
+# This sets variables and creates a data frame of .txt files from the folder, using the 'path' 
+path <- getwd()
+filelist <- list.files()
+extracted_texts <- readtext(filelist)
+# Produces a 2-column table of doc_id and text
+```
+
+
+```{r split_df}
+# This takes the full document in the two-column table and parses the lines
+# using the newline "\n" to identify the line breaks.
+# This version only keeps the selected rows of the header, and throws away all other text.
+#
+tabled_texts <- extracted_texts %>% separate(text,c("row1","row2","row3","row4","row5","row6","row7","row8","row9"),"\n")
+View(tabled_texts)
+write_csv(tabled_texts, "collated_texts.csv", na = "NA", append = FALSE, col_names = TRUE, quote_escape = "double", eol = "\n")
+```
+
+

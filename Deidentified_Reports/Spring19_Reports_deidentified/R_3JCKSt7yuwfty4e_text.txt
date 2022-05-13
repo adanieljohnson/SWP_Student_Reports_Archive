@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-28 12:40:29
+Author of this lab report is: Std_h9FlZdlx
+ID: R_3JCKSt7yuwfty4e
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effects of Increased Juvenile Hormone Levels on Growth of Manduca Sexta
+
+Abstract:
+The Manduca sexta, commonly known as the tobacco horn-worm, is considered a pest in the agricultural community. The idea of hormonal influence as an alternative to chemical pesticides is a strong possibility. In order to explore this, Manduca sexta were given juvenile hormone in addition to their regular food and their growth was compared to a control group. It was hypothesized that the experimental group would show overall less growth than the control group. Subjects were weighed everyday for 2 weeks and then the group averages were compared. There was indeed more growth in the control group, however the results failed to prove statistical significance with a p-value of .15. Further research is suggested regarding other hormones such as E20, along with larger samples sizes in order to increase the likelihood of statistical significance.
+
+Introduction:
+In today's age of modern biological technological advancements, the question is not when we will change and influence our environment, but how will we. The use of technologies like chemical pesticides is very common today, especially in agriculture. However, some wonder whether or not there are more effective ways to prevent negative effects of pests without the use of possibly harmful or destructive chemical pesticides. One of these possible ways of prevention is hormone regulation and treatment in pests, hoping to either keep organisms from developing into pests or speed up the process of them maturing out of a "pesky" stage. The tobacco horn-worm, or Manduca sexta, is a great example of one of these pests, as they are considered pests for consuming tobacco plant leaves. With research on the effects and presence of different hormones in the stages of these organisms' development already existing, it is only logical that one question if these hormones can be used to affect the development of the organisms intentionally, possibly as an alternative to pesticides. Juvenile hormone, JH, is a key hormone in the development and maturation of manduca sexta as it works with ecdysterone to control growth and metamorphosis [Kiguchi: 1978]. An experiment by Kiguchi researching the role of JH in development found that the application of JH at the beginning of the prepupal period prevented the precocious adult differentiation and development. This brings us to ask how will a presence of controlled JH in one group of manduca sexta affect their growth and development in comparison to a control group in terms of weight. Considering the effects of JH and knowing it can affect development in manduca sexta [Fain: 1975] [Kiguchi: 1978], we believe that the presence of JH in an experimental group will result in the experimental group experiencing less growth than the control group not presented with JH in terms of weight.
+
+Materials and Methods:
+Prior to experimentation, eight Manduca sexta caterpillars were randomly selected from a larger population of caterpillars. The caterpillars were than randomly assigned to the control and experimental groups, with four caterpillars in each group. Caterpillars were kept in well ventilated containers (two holes for ventilation in each caterpillars chamber) and experienced the same environmental conditions to avoid any outside influence on their growth other than the controlled JH added. Each caterpillar of the control group was given 10 grams of a food mixture as well as 8 drops of water added into their food. The 8 drops of water were added to give the food the same consistency as the food that the experimental group received, getting rid of an unnecessary variable. Each caterpillar of the experimental group also received 10 grams of the food mixture, however, 8 drops of JH hormone were mixed into their food. The amount of 8 drops was chosen as Kiguchi’s 1978 experiment showed a higher dosage was likely prove fatal to the Manduca sexta. The weight of each caterpillar was then taken and continued to be taken every day for 2 weeks. A two sample t-test was used to determine statistical significance of the weight differences at a p-value ≤ 0.05.
+
+Results:
+The control group showed more average growth than the experimental group (Figure 1). The control group experienced a mean weight gain of 5.15 grams and a standard deviation of ± 2.92g and a degrees of freedom of 3, while the experimental group experienced a mean weight gain of 3.23 grams and a standard deviation of ± 1.84g also with a degrees of freedom of 3(Figure 1). The experiment had a total degrees of freedom of 6. The two-sample t-test resulted in a t-value of 1.10 and a p-value of 0.15.
+
+Discussion:
+Our results failed to reject our null hypothesis that there would be no difference in growth between the control and experimental group. After statistical test analysis, our results failed to show statistical significance. This experiment failed to produce similar results to previous studies on the effects of JH on manduca sexta, in which the experimental groups experienced significantly less growth than the control [Fain: 1973]. Despite a difference in growth between the groups, the growth difference between the experimental and control group were not enough to prove statistical significance. This insignificance may be attributed to the small sample size of the groups tested. Had the sample size been larger, more concise results growth differences may have been found. It is also important to note that the experimental group contained a subject (S8) that displayed a very little appetite and did not consume nearly as much food as all of the other subjects. The same problem was present in the control group (S2). While this experiment failed to produce statistically significant results, further research in the subject with larger sample sizes could serve useful in hopes of finding more concise results that are less influenced by outliers. Future experiments could also research the effects of other developmental hormones like E20 on the growth of manduca sexta in hopes of a greater understanding of their affects, as hormone regulation could serve as a great alternative to chemical pesticides if proven effective [Fain: 1973]. 
+
+Literature Cited:
+1.Kiguchi, Kenji, and Lynn M. Riddiford. "A role of juvenile hormone in pupal development of the tobacco hornworm, Manduca sexta." Journal of Insect Physiology 24.10-11 (1978): 673-680. 
+2.Fain, Margery J., and Lynn M. Riddiford. 1973. "Juvenile hormone titers in the hemolymph during late larval development of the  tobacco hornworm, Manduca sexta (L.)." The Biological Bulletin 149.3 : 506-521.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=LAb+fig+2.png&Size=8855&Type=image%2Fpng&F=F_tM2w1gNFSDY1Sb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Weight gain in grams of the control (series 1) and experimental (series 2) groups. The control group shows more growth with an average of 5.15 g than the experimental group with an average of 3.23 g. The control group had a standard deviation of ± 2.92 while the experimental had a standard deviation of ± 1.84. Both groups had 3 degrees of freedom, making the degrees of freedom 6.*************************************************************************
+
+
+

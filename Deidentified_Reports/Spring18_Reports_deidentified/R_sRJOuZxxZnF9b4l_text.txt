@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-28 18:51:16
+Author of this lab report is: Std_RhNCHFXb
+ID: R_sRJOuZxxZnF9b4l
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The effects of calcium channel blocker on the rate of muscle contract in frog legs
+
+Abstract:
+Calcium ions play a key role in muscle contractions. Without them, the power stroke, shortening the muscle, will never be initiated. We hypothesized that if the amount of calcium was limited, due to calcium channel blocker, then there will be a decrease in the rate of contraction. To test this, we used three frog legs, measuring their rates due to an external stimulus both with and without calcium channel blocker by using the Labscribe software. Our results showed that there is a decrease in the rate of contraction. This is in line with other studies, confirming the process of a muscle contraction. 
+
+
+Introduction:
+In the muscle, the postsynaptic membrane generates an action potential, which causes a change in the confirmation of the DHP and ryanodine receptors. It also leads to the release of Calcium ions stored in the sarcoplasmic reticulum. These ions bind to troponin and twist the tropomyosin, which is crucial to the muscle contraction (Hollingworth and Baylor). We decided to use frog legs for this experiment because their muscle contractions are easily observable. The electrical impulses can be made and manipulated by attaching stimulators to the muscle. With these frog legs and stimulators, we were able to test the question of how calcium channel blockers (CCBs) affect muscle contractions in the frog. To do this, we plan use three frog legs, each of which having different amounts of CCB. After seeing how they react to an electrical stimulation without any calcium channel blocker, we inserted the different amounts into the frog legs to measure the effects on the muscle contraction. We did this by measuring the electrophysiological recording during a contraction with iWork software. With the data collected, we performed a paired t-test to compare the mean electrophysiological recordings from the different legs. We hypothesized that with more calcium channel blocker, there will be a decrease in the rate of contraction. We came to this conclusion because of the current evidence provided by past studies. 
+
+
+Materials and Methods:
+To perform our experiment, we started by obtaining three frog legs from the lab instructor. We removed the skin from the legs, detached the gastrocnemius by cutting portion of tendon by the knee. This left the sciatic nerve exposed. After attaching a string to the tendon, we hung the muscle up to a ring stand provided by the lab and pinned down the leg to the tray. Two electrode-stimulators were poked through the gastrocnemius. 
+We used the Labscribe software to analyze the effects of different experimental preparations on the muscle and its measured amplitude of contraction. Needles, connected to the program via force transducer, sent electrical pulses to the leg, stimulating the muscle. We recorded each myogram following the pulses to measure the threshold value. The amplitude was increased until we generated a myogram with threshold value. After testing the legs without CCB, we injected 0.200 mL of CCB into the gastrocnemius. We ran the test again to give us a second set of values. With this data, we performed a two-sample t-test with alpha value 0.05 to determine significance.
+
+Results:
+We found the average control amplitude to be greater than the experimental, however, we also found it to have a greater standard deviation. This can be seen in figure #1. From this, we can extrapolate that the control is great than the frog legs with calcium channel blocker. After running the two-tailed t-test, we found a P-value of .2459989646, a T-value of 2.364624252, and degrees of freedom of seven. The P-value is greater than alpha value .05. 
+
+
+Discussion:
+The observational findings supported our hypothesis: the rate of contraction with calcium channel blocker was less than without for all but one test. With that said, our P-value is too large to make the findings also statistically significant. This can be seen by the P-value being .1959989646 greater than the alpha value. If the calcium is unable to be released to the full extent, the tropomyosin will not twist. This will cause the myosin binding sites on actin filaments to not be exposed to ADP, preventing the muscle from contracting. Past studies suggest calcium’s importance in the skeletal muscle contraction of a frog (Baylor et al.). There is a relationship between amplitude of a simulated muscle contraction and the amount of calcium ion released seen by their proportionality when all other parameters remain constant (Jiang et al.). If the number of ions decreases due to a calcium channel blocker, then the rate of contract will likewise decrease. The one test that did not line up with the rest of our results and the overwhelming amount of evidence from other studies may have been due to some error. For this test, the metal wires used for the Lanbscribe software may have touched. This could have affected the results, making the rate of contraction with calcium channel blocker higher than without or affecting the significance of the other results. Moving forward, we could repeat the experiment with different software, seeing if it was the source of error. This will also guarantee our observational results were not due to any other kind of flaw in the machinery of the experiment. For now, even with this potential error, our results did show a statistically significant difference between the frog legs with and without calcium channel blocker. This may be beneficial to those with abnormal rates of muscle contraction. The research on CCBs could help form some medicine for these people to help regulate their unusual rates. 
+
+
+Literature Cited:
+Baylor, S. M., et al. “Comparison of Simulated and Measured Calcium Sparks in Intact Skeletal Muscle Fibers of the Frog.” Journal of General Physiology, vol. 120, no. 3, Sept. 2002, pp. 349–68. Web of Science, doi:10.1085/jgp.20028620.
+Hollingworth, Stephen, and Stephen M. Baylor. “Comparison of Myoplasmic Calcium Movements during Excitation-Contraction Coupling in Frog Twitch and Mouse Fast-Twitch Muscle Fibers.” Journal of General Physiology, vol. 141, no. 5, May 2013, pp. 567–83. Web of Science, doi:10.1085/jgp.201310961.
+Jiang, Y. H., et al. “Numerical Simulation of Ca2+ ‘Sparks’ in Skeletal Muscle.” Biophysical Journal, vol. 77, no. 5, Nov. 1999, pp. 2333–57. Web of Science, doi:10.1016/S0006-3495(99)77072-4.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+5.16.01+PM.png&Size=64758&Type=image%2Fpng&F=F_2z8B710laQC8B92
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+In this table, we see the control average to be 0.3335555556 with a standard deviation of 0.149612091. The experimental average is 0.2953333333 with a standard deviation of 0.0995690715.
+
+
+*************************************************************************

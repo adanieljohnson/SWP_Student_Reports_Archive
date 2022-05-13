@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-15 00:25:35
+Author of this lab report is: Std_G4sgJbcQ
+ID: R_7P606UPNpo1Dgwd
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Martin’s IGR’s Hinderance of Manduca sexta Development 
+
+Abstract:
+Using the Manduca sexta, commonly referred to as the tobacco hornworm, we tested the effects of Martin’s IGR, an Insect Growth Regulator that mimics the actions of Juvenile Hormone. Specifically, we wanted to determine the structural abnormalities and interference in growth that might arise from adding IGR to the Manduca sexta diet. We hypothesized that adding Martin’s IGR to the diet during the 4th larval instar phase would prevent the commitment pulse, which would then reduce growth and prevent the caterpillar from transitioning into a pupa. We fed each caterpillar 10 grams of food and 6 drop of distilled water per day for the control group and 6 drops of Martin’s IGR for the experimental group. All told, we had 4 control caterpillars and 4 experimental caterpillars. We then measured the length, mass, and percentage of food eaten per day per caterpillar. Our hypothesis was proved wrong; there was no substantial difference between the masses and lengths of the control group and the experimental groups. The p-value for both two-sample t-tests were greater than .05, which was the significance threshold for us to conclude that the differences in values for length and mass was because of the treatment.
+
+
+Introduction:
+There are two main hormones that control insect development: ecdysterone and Juvenile Hormone (JH). JH is produced by the corpus allata, which is a pair of glands on both sides of the foregut. The primary function of ecdysterone (20E) is to regulate the timing of the molting. During molting, 20E tends to spike as JH decreases. During development, JH is used to regulate the type of molt [Johnson: 2018].The absence of JH during and after the commitment pulse is indicative of larva developing into a pupa. 
+
+	In Case Study 1 [Johnson: 2018], we learned about Insect Growth Regulators we’ve used as an alternative to pesticides. IGRs can “interfere with or over-activate” processes that the hormones are uncharge of regulating [Johnson:2018]. During development, ecdysteroids and JH help regulate the metamorphosis process. JH levels tend to stay high in early development, up until the 4th larval instar phase, when JH decreases and 20E levels jump [Johnson: 2018]. Finally, when the larva approaches the pupa phase, around the commitment pulse, when there is a large increase in 20E and a decrease in JH, to minuscule levels. We also used an IGR called Martin’s. The main ingredient of Martin’s IGR is pyridine, which mimics the actions of  JH [fleascience]. The Manduca sexta is a perfect organism for this experiment, as the time it takes to grow from 4th instar larva to a pupa is around nine days, which works perfectly within the time we have for this lab [Johnson: 2018]. 
+Applying this knowledge, I hypothesize that adding an IGR that mimics JH to the diet, such as Martin’s, during the 4th larval instar phase will prevent commitment pulse, thus reducing growth and preventing the Manduca sexta from transitioning into a pupa. The dependent variables in this experiment are the length and mass of the Manduca sexta, and the independent variable is adding Martin’s IGR to the food. 
+
+Materials and Methods:
+We had two groups: a control group and an experimental group, each with 4 caterpillars. Starting at the 4th larval instar, each caterpillar in the control group was fed 10 grams of food (Great Lakes Manduca [GLM]) diet. With 6 drops of distilled water per day, the experimental group was fed 10 grams of feed with 6 drops of Martin’s IGR reagent. We kept the caterpillars in containers with air holes poked into the lids. We kept them at a constant temperature, and with a light cycle that is 12 hours of light and 12 hours of dark. Our variables included observable data ouches length, mass, percent of food eaten, and structural development in the Manduca sexta. The statistical test we used to interpretive data was a two-sample T-test, comparing the lengths and masses of the control group vs. the experimental group. Overall, the experiment took seven days.
+
+
+Results:
+Figure 1, the Effect of Martin’s IGR on Manduca sexta Average Length depicts the effect of the Martin’s IGR treatment on the average length of the Manduca sexta. The control (blue bar) group was fed only GLM diet with distilled water, and the treatment group (red bar) was fed the GLM with Martin’s IGR added. The control group’s average length was slightly greater than that of the treatment group, being 5.28700 centimeters for the control and 5.185000 centimeters for the treatment group. Yet this difference is not substantial and does not suggest that the strong relationship between the difference of the lengths is due to the treatment; according to the two-sample t-test, the p-value was 0.771157. This suggests that there is only a 22.89% chance that the difference between the two sample sets is because of the treatments, which is not a significant chance. Another important figure to note from the t-test is the standard deviation. For the control group, the standard deviation was 0.536000 from the mean, and for the experimental group it was 0.262000.
+
+	Figure 2 depicts the effect of Martin’s IGR on the average mass of the Manduca sexta. Just like Figure 1, the blue bar represents the average mass for the control group, and the red bar represents the average mass of the treatment group. The difference in values is more prevalent here than in the average length group: 4.09 grams for the control and 3.583 grams for the treatment group. This difference is enforced by the two-sample t-test, whose p-value was 0.488461, which tells us that there is a 51.15% chance that the difference in average mass for the sample groups was due to the treatment, which is much more promising than the chance for the average length group, yet still does not pass the significance threshold of 0.05. 
+
+
+Discussion:
+I do believe that my hypothesis was proven incorrect. I hypothesized that in giving the Manduca sextas Martin’s IGR in their 4th larval instar phase would reduce growth compared to the control group. Yet as the statistical tests make clear, the difference in length and mass is not caused by the treatments. As seen in Figure 4, the p-value was 0.771157 and in Figure 3, 0.488461 for the Effect of the Martin’s on the average mass, which do not suggest that the difference in the data sets are because of the treatment.  Neither of the p-values (0.771157 and 0.488461) for the t-tests were less than 0.05, the significance level for this test, which means that the difference in length and mass observed between the control and treatment group cannot be attributed to the addition of Martin’s IGR to the food in the treatment group. A study that supports this evaluation is by H. FREDERIK NIJHOUT and CARROLL M. WILLIAMS, titled “CONTROL OF MOULTING AND METAMORPHOSIS IN THE TOBACCO HORNWORM, MANDUCA SEXTA (L.): CESSA TION OF JUVENILE HORMONE SECRETION AS A TRIGGER FOR PUPATION”. In this study, they investigate how JH changes the secretion of prothoracicotropic hormone (PTTH), and how that affects development. PTTH is a hormone that affects the prothoracic glands, which release edcysteroids to promote molting. In essence, they discover that there is a mechanism in the insect that senses when JH has disappeared from its system, and signals to the brain to release PTTH, which leads to molting. [Nijhout:1974]. And a most discovery of this group is that in the failure of this mechanism (i.e. an abnormal and persistent prevalence of Juvenile Hormone) can lead to a “developmental standstill” in the Manduca sexta [Nijhout:1974]. Another reason for the data that contradicted my hypothesis is the measurement of the length of the caterpillars. Due to their active nature and manner of moving, the length of the caterpillars could change drastically, when they were stretched out, or when they were contracted. The fault in this is that the measurements were probably inconsistent, as in someone may have measured when they were contracted, and another would measure during the stretched phase. To take this experiment to the next step, I would do two things. Firstly, I would eliminate the measurement of length as a determinant of development, and only measure mass. Secondly, I would extend the timeframe of the study to see if the Manduca sextas fed the IGR would not actually pupate. Thirdly, I would investigate the difference in coloration between the control group and the experimental group. Around day 4, we noticed that the experimental group caterpillars started to turn a lighter shade of blue than the control. Over the course of the experiment, this difference became even more prevalent. I would like to investigate whether or not the difference in color will lead to developmental changes later on in life.
+
+
+Literature Cited:
+http://fleascience.com/wp-content/uploads/2015/05/Product-Label-for-Martins-Insect-Growth-Regulator-Concentrate.pdf 
+
+2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual.Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 5, 2018), pp 15-16.
+
+3. NIJHOUT, H. FREDERIK, and CARROLL M. WILLIAMS. “Control of Moulting and Metamorphosis in the Tobacco Hornworm, Manduca Sexta (L.): Cessation of Juvenile Hormone Secretion as a Trigger for Pupation.” Journal of Experimental Biology, The Company of Biologists Ltd, 1 Oct. 1974, jeb.biologists.org/content/61/2/493.short.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-15+at+12.22.56+AM.png&Size=198315&Type=image%2Fpng&F=F_3szPrlXQJTxI0aF
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-15+at+12.22.49+AM.png&Size=376484&Type=image%2Fpng&F=F_1LccHd3FR0r4vo9
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-15+at+12.22.17+AM.png&Size=369680&Type=image%2Fpng&F=F_eKT606LLciwOpzn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mean length measurements of Manduca sexta fed with Great Lakes Manduca diet (experimental group) and Martin's IGR vs Manduca sexta fed with GLM and distilled water (control group).T-tests showed that there was no significance that the treatment caused the disparity between the control and experimental group (p=0.771157).
+Figure 2:  Mean mass measurements of Manduca sexta fed with Great Lakes Manduca diet (experimental group) and Martin's IGR vs Manduca sexta fed with GLM and distilled water (control group).T-tests showed that there was no significance that the treatment caused the disparity between the control and experimental group (p=0.488461).
+
+*************************************************************************

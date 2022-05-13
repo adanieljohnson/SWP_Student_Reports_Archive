@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-30 10:31:18
+Author of this lab report is: Std_ywKywAlt
+ID: R_1H1v4qU4NhRV9KC
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The effects of dibutryl-cAMP and curcumin on cell signaling in Physarum Polycephalum
+
+Abstract:
+Physarum Polycephalum is a multicellular plasmodium that is found in humid and dark environments and has similar intracellular signal transduction pathways to humans. In the cAMP-mediated pathway, protein kinase A is activated, which is involved in cell movement. PKA is activated by dibutryl-cAMP and is inhibited by curcumin. It was hypothesized that the addition of dibutyryl- cAMP would cause the physarum to have increased movement towards light and the addition of curcumin would cause the physarum to move at a slower rate than the control. The experiment was tested over a 24-hour period. The organisms were placed on potato agar plates, covered in tin foil, and placed under a light source. The results compared the means of the two experimental groups to the control conditions. Based on the data, there was not a large enough difference in the means to show a statistical difference. It is likely, however, that the inconclusive results are due to procedural error. 
+
+Introduction:
+In the wild, Physarum Polycephalum spends most of its life cycle in the plasmodial stage. It is a yellow flat mass that lives in dark and wet environments, often consisting of decomposing leaves (Cellular Biology Laboratory Manual). Physarum remains a multicellular plasmodium as long as it remains in darkness with high humidity. However, when a stressor is introduced, the organism begins its reproductive cycle. Unlike multicellular organisms, Physarum responds to its environment or stimuli much differently, and responses are controlled by one or more intracellular signal transduction pathways. Most signaling events begin when a stimulus activates a receptor, resulting in the formation or release of a second messenger. This second messenger is a molecule or ion inside the cell that ultimately triggers the response pathway when it binds to an effector (Cellular Biology Laboratory Manual). 
+	The cyclic adenosine monophosphate mediated pathway, also known as the cAMP-mediated pathway, is one of the three pathways that will be further examined. In this version of a G-protein coupled pathway, a cAMP protein acts as a second messenger. In this specific pathway, the effector enzyme that is activated by the G-protein is adenylate cyclase, which converts ATP into cAMP. The cAMP then diffuses through the cell and binds to several substrates. One enzyme that is commonly activated by cAMP pathway is protein kinase A. PKA in turn phosphorylates many other enzymes, which can either activate them, or silence them (Cellular Biology Laboratory Manual). Dibutryl-cAMP activates PKA and can increase the cell’s functions whereas curcumin is an inhibitor of PKA, resulting in decreased function. 
+	Protein Kinase A, which is found in the cAMP pathway, is also involved with the movement of physarum. The purpose of this experiment was to test how the addition of curcumin and dibutryl-cAMP would affect the overall mobility of the organism. Physarum was utilized as the model organism due to its large size and easy manipulation. Additionally, physarum crawls with the help of its actin microfilaments, similarly to humans, which allows for further comparisons to be made. It was hypothesized that the addition of dibutyryl- cAMP, which is an activator of protein kinase A, would cause the physarum to have increased movement towards light. The addition of curcumin, an inhibitor of PKA, would cause the physarum to move at a slower rate than the control.
+
+
+
+
+Materials and Methods:
+
+To begin, nine potato agar plates were prepared: 3 designated for the control, 3 designated for dibutryl-cAMP, and 3 designated for curcumin. On all nine 100 mm petri plates, a 2x2 cm square was drawn on the back side with a sharpie to act as the starting point to ensure future measurements of the distance travelled. In order to expose physarum to dibutryl-cAMP and curcumin, a 20X stock solution was diluted with 19mL of water to make a 1X stock solution. 3 mL of the 1X dilutions of each solution was poured onto the 6 plates designated for the test conditions, 3 for curcumin and 3 for dibutryl-cAMP. The respected solutions were poured on all nine potato agar plates and were set aside to soak for 10 minutes. After, the excess solution was poured off.
+Next, 1x1 cm squares were cut from the physarum stock plate, ensuring to not include pieces of oatmeal. One square was placed in the center of all nine plates. In between each use of the spatula and forceps, ethanol was used to sterilize. The lids on the plates were taped and then wrapped tightly in tinfoil. A small window was also cut on the top of each lid to allow light to shine into the plate. Finally, the nine plates were placed under a light box for 24 hours.
+After waiting, each plate was unwrapped, and the distance of migration was recorded. The direction of migration, either away or towards light, was noted as well as any shift in the actual square that was taken from the stock plate.
+Two two-sample t-tests were employed to compare the control vs. the inhibitor as well as the control vs. the activator. The test was completed by noting the average distance of migration as well as the direction of overall movement.
+
+
+Results:
+When the mean values were compared, the physarum’s movement was not significantly different between that of the control condition and the dibutryl-cAMP condition (t-stat= 0.4385, p-value= 0.687). Furthermore, the mean values of physarum’s movement was not significantly different between that of the control condition and the curcumin condition (t-stat= 0.2169, p-value= 0.839).
+The physarum being tested under the curcumin conditions moved a shorter distance of 0.67 mm than the control condition but the three curcumin plates did not share a common path of migration (Fig. 1). The physarum being tested under the dibutryl-cAMP conditions moved further than the control conditions by 1mm but the three dibutryl-cAMP plates did not share a common direction of migration (Fig. 1). 
+Despite the inconclusive results, the expected results for physarum exposed to dibutryl-cAMP should have increased movement of more than 2mm compared to the control condition. The physarum in this condition would be expected to move towards the light source (Fig. 2). The expected results for physarum exposed to curcumin should have decreased movement of more than 2 mm compared to the control condition. The physarum in this condition would be expected to move towards the light source (Fig. 2). Furthermore, physarum exposed to control conditions are expected to move towards the light source as well.
+
+
+Discussion:
+This experiment is ultimately inconclusive due to the results of the two sample t-tests. It was observed that the control group moved in the opposite direction of light, which was unexpected, and the two test conditions revealed no correlation of movement in any direction, as one plate of each condition moved towards the light, one did not move, and one moved away. Overall, there is no correlation between protein kinase A activators or inhibitors and the movement of physarum (Fig. 1). 
+Despite this, the inconclusive results could have been due to procedural errors. When preparing the potato agar plates, a 1x1 cm square should have been removed in the middle so that the square from the stock plate could be placed within it. However, this was not taken into consideration and therefore, the square from the stock plate slid around on the surface when researchers returned after 24 hours. In addition to this possible procedural error, it is likely that the physarum went into resting phase after the stocks were prepared. The room in which the experiment was carried out was cold in temperature compared to the warm incubator. Also, the plates were in varied light conditions. The incubator was at a very high intensity of light which destroyed the physarum. Going into and out of the light caused the physarum to go into resting phase. Both the temperature and the light condition ultimately contributed to the physarum moving into the resting phase, resulting in movement not being observed and inconclusive results. This procedural error and the importance of temperature must be taken into consideration. In another study, physarum plates were stored at various temperatures and were ultimately subject to temperature fluctuations as they were transported into and out of the incubator as similarly seen in this experiment (Adler et al. 1974).  To further support this, another study examined the effect of water availability and air humidity on Physarum in Petri dishes. In closed Petri dishes, the air humidity ranges between 95-98% which appears to be optimal for growth. As soon as the lid on the Petri dishes were lifted, however, air humidity immediately dropped to values below 70%. This drastic change in conditions that the Physarum were exposed to resulted in an immediate desiccation shock. After examining this, the experimenters determined that Physarum are effective sensors to external conditions, as seen here with light, as they modify the network structure in response to fluctuations. Perpetuated strong desiccation typically leads to formation of a sclerotium, as the vegetative resting stage of the physarum (Grube 2016). These additional experiments examining fluctuating temperatures and external conditions ultimately reveal that the extreme and varied light conditions in this experiment resulted in the Physarum entering resting phase.
+Physarum exposed to dibutryl-cAMP were expected to move towards the light and should have increased in movement compared to the other conditions. In one study, starved cultures were exposed to dibutryl cAMP and were seen to move towards food exponentially quicker than the control (Trevithick et al. 1977). 
+Physarum exposed to curcumin were expected to similar move towards the light and should have decreased in movement compared to the control. Circumin has been used to treat a myriad of human diseases (Swatson et al. 2017). This makes sense since curcumin is an inhibitor for PKA. 
+For further application of the effects of curcumin and dibutryl-cAMP on PKA, this experiment should be carried out again while correcting the procedural errors. This experiment was determined to be inconclusive due to faulty stock plates and procedural error but despite this, there are multiple studies with applicable and successful findings.
+
+
+Literature Cited:
+1.	Paul N. Adler, Charles E. Holt. 1974. Change in Properties of Physarum polycephalum Amoebae During Extended Culture. Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts. Journal of Bacteriology. 120(1): 532-533
+2.	JR Trevithick, R. Braun. 1977. Timing of mitosis in Physarum polycephalum: effects of agents affecting cyclic AMP concentrations. Experientia. 33(1):28-29.
+3.	William S. Swatson, Mariko Katoh-Kurasawa, Gad Shaulsky, Stephen Alexander. Curcumin affects gene expression and reactive oxygen species via a PKA dependent mechanism in Dictyostelium discoideum. 2017.
+4.	Martin Grube. 2016. Advances in Physarum Machines, Emergence, Complexity and Computation 21, DOI 10.1007/978-3-319-26662-6
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+10.30.35+AM.png&Size=305112&Type=image%2Fpng&F=F_DqVFnzYxI7u8JH3
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+10.30.46+AM.png&Size=285014&Type=image%2Fpng&F=F_2eXY2cSNG81rQXv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+
+Figure 1
+Figure 1 displays the difference in migration difference and the specific direction the Physarum travelled in the control condition, dibutryl-cAMP, and curcumin as observed in the experiment.
+
+Figure 2
+Figure 2 displays the difference in migration distance, as well as the direction of migration for the control condition, dibutryl-cAMP and curcumin in terms of what we expected the results to be.*************************************************************************
+
+
+

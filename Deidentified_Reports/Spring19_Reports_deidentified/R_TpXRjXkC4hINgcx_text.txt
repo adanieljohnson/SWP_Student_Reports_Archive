@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-27 18:04:21
+Author of this lab report is: Std_OrNpK1Vq
+ID: R_TpXRjXkC4hINgcx
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Hormone Effects on the Molting of Manduca Sexta Caterpillars 
+
+Abstract:
+Hormones are chemicals produced by complex organisms which promote or inhibit development in the physiology of the organism.  This information has proved to be very useful in the area of insect extermination, where limiting an insect’s growth and reproduction can protect valuable agriculture.  In our experiment, we examined how a hormone inhibitor prevented the release of a hormone that impacts the timing of molting in the hornworm (Manduca sexta).  The hormone inhibitor, Aza-Guard, was administered to an experimental group of caterpillars.  Our data showed that there was no significant difference between the growth of the control group and the experimental group.  The control group displayed a normal growth curve for hornworm caterpillars, while the experimental group displayed a lack of growth, however not a statistically significant lack.   
+
+Introduction:
+Our experiment examines the effects that hormones have on the development of insects.  Our study involved the Manduca sexta caterpillar which “has been a major model system in physiology and developmental biology for more than a half century” [Kingsolver: 2007].  The main goal of the experiment was to regulate the development of the Manduca sexta caterpillars (hornworms) using growth hormones.  The Manduca sexta caterpillar is very destructive to tomato plants and so controlling the caterpillar’s ability to grow is critical to hindering their negative effects.  Caterpillars move to different stages in their growth cycles by going through a process of molting.  During molting, a caterpillar’s endocrine system releases hormones that trigger the outer layer of skin cells to shed, allowing the caterpillar to grow and eventually pupate into an adult.  The Manduca sexta has 5 larval stages, but the fifth is significant because it is at this stage that a pulse of hormone called Ecdysterone 20 occurs while another hormone called juvenile hormone stays low.  Ecdysterone 20 is known to regulate the timing of molting during Manduca sexta development.  This suppression of juvenile hormone combined with a peak in Ecdysterone triggers the molt that leads to adulthood.  According to You Song at the Norwegian Institute for Water Research, “20-hydroxyecdysone (20E) is the key hormone mediating various physiological and behavioral changes that are essential for molting, and successful molting is key to survival, development, and reproduction” [You: 2018].  In this experiment, it was predicted that administering an Ecdysterone inhibitor would limit the growth of the hornworm and prevent the pulse of Ecdysterone that would lead to pupation.  
+
+Materials and Methods:
+In this experiment, an Ecdysterone 20 inhibitor called Aza-Guard was used to block the release of Ecdysterone in an experimental group of hornworms.  Eight Manduca sexta caterpillars were split into two groups, four to the control group and four to the experimental group.  The control group was given ten grams of food mixed with 10 drops of deionized water.  The experimental group was given ten grams of food mixed with ten drops of Aza-Guard.  The Aza-Guard was mixed at a 1:1250 concentration.  The weight in grams of each caterpillar was tracked over the span of 15 days, with the food being replaced as needed.  Both groups were kept in an incubator to maintain a controlled environment.  The data collected on the control group and the experimental group was analyzed using a two-sample t-test with a 95% confidence interval.    
+
+Results:
+The mean of the weights of the control group was not statistically significantly greater than that of the mean of the weights of the experimental group.  At the 95% confidence interval, and a dF=6, the one-tailed p-value is p = 0.0681, shown in Table 1.  Statistical significance at the 95% confidence interval is indicated by p-values &lt; 0.05.  The general trends in the data show that the growth of the hornworm control group continued to increase while the growth of the experimental group had an initial increase in growth between Days 1 and 2, and then rapidly plateaued.  Figure 1. Larvae Growth, shows the growth patterns of the experimental and control groups.  The figure shows that the growth of the experimental group tracks closely together, while the data for the growth of the control group is a little more erratic, but consistently follows an upward trend.  
+
+Discussion:
+The statistical data did not find significant evidence that an Ecdysterone inhibitor would reduce the growth in hornworms.  The null hypothesis, which states that there would be no change in growth patterns between the control and the experimental groups with the application of Aza-Guard, was not rejected.  However, even though our p=value did not fall in the statistically significant range, we observed more rapid growth of the control group and minimal growth in the experimental group overall.  The data shows that the weight of the experimental group increased in the first two days of the experiment and that may indicate a lag time before the hormone inhibitor reached full effect.  Research with the Ecdysterone 20 hormone reveals a complex process, where “20E binds to the ecdysone nuclear receptor (EcR), and then EcR interacts with ultraspiracle protein to direct metamorphosis” [Cai: 2014].  It may be that the Aza-Guard, as a hormone inhibitor also requires a complicated pathway that has a lag time before taking effect.  If the data from the first two days of the experiment were excluded, the results may have been in the statistically significant range.  A two-day delay in recording the weight of the experimental caterpillars could be a modification of the experiment that may yield the expected result.  The growth and development of the Manduca sexta “are controlled and coordinated by precisely timed changes of 20e” [Iga: 2009].  Additional experiments using 20e or juvenile hormone could be another area of study with regards to hornworm growth patterns.  Since the Manduca sexta caterpillar is so damaging to crops it is essential to determine other methods at preventing its growth.  Natural methods, like inhibiting key hormones through the use of a hormone inhibitor may limit growth while protecting the environment from harmful insecticides. 
+
+Literature Cited:
+1.	Kingsolver JG. 2007.  Variation in growth and instar number in field and laboratory Manduca sexta. Proceedings of the Royal Society B: Biological Sciences. 274: 977-981.
+
+2.	Song Y, et al. 2018. Ecdysone receptor agonism leading to lethal molting disruption in arthropods: review and adverse outcome pathway development. Environmental Science. 51: 4142-4157.
+
+3.	Cai, MJ et al. 2014. Juvenile hormone prevents 20-hydroxyecdysone-induced metamorphosis by regulating the phosphorylation of a newly identified broad protein. Journal of Biological Chemistry. 289: 26630 – 26641.
+
+4.	Iga, M. 2009. Identification and expression profile of Halloween genes involved in ecdysteroid biosynthesis in Spodoptera littoralis.  Peptides. 8:2.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Lab+Stuff+1.PNG&Size=7597&Type=image%2Fpng&F=F_vkjPXbHisYGN7Ql
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Lab+Stuff+2.PNG&Size=49630&Type=image%2Fpng&F=F_2wSSNFIsH0q46lQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Statistical data
+Figure 1. Larvae Growth*************************************************************************
+
+
+

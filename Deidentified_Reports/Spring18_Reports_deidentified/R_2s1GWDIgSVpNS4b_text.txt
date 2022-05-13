@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-29 09:49:01
+Author of this lab report is: Std_owH3190X
+ID: R_2s1GWDIgSVpNS4b
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Lidocaine’s Effect on Muscle Contractions in the Rana pipiens
+
+Abstract:
+	Muscle contractions depend on the opening of sodium channels in order to depolarize the muscle cell, which leads to an action potential which causes muscle contraction. Our experiment analyzed the change in force of muscle contraction as well as length of latent period before and after the injection of lidocaine. By injecting Rana pipiens legs with lidocaine (a sodium channel blocker), we observed that there is a decrease in force of muscle contraction. Although our data is not statistically supported, our observations suggest that lidocaine does in fact decrease the force of muscle contractions. 
+
+Introduction:
+Our experiment utilized Rana pipiens legs in order to observe muscle contractions. Muscle contractions are stimulated by action potentials traveling along an axon to the neuromuscular junction. This allows sodium and potassium channels to open which generates another action potential which runs through the muscle fibers. This causes the release of calcium ions, which encourages the myosin thick filaments to pull actin thin filaments, which shortens the muscle. When calcium ions return to the sarcoplasmic reticulum, this allows the muscle to relax. Lidocaine is a synthetic compound used as an anesthetic. It closes sodium channels in the neurons of the muscle fibers, preventing the muscle cells from depolarizing so there is no action potential to stimulate muscle contraction. A muscle contraction has three states; a latent period, contraction period, and relaxation period. We used myograms to record the force of contraction. We hypothesized that lidocaine will block sodium channels in the muscle cell and nerve, therefore there is less depolarization, which leads to a smaller action potential resulting in a smaller contraction. 
+
+Materials and Methods:
+We used two Rana pipiens legs and pulled back the skin exposing the gastrocnemius muscle and separated it until we had access to the sciatic nerve. We attached the muscle by a string to the transducer which is connected to the computer to record myograms. After, we attached electrodes to the sciatic nerve and stimulated it at different voltages in order to find the threshold mV in each leg. Then we injected the gastrocnemius muscle with 0.1 mL of lidocaine as well as added a drop to the sciatic nerve. After waiting five minutes after injection, we stimulated the nerve at threshold mV and recorded the myogram. We measured amplitude of contraction as well as length of latent period. The data was analyzed with a paired t-test comparing amplitudes of contraction with and without lidocaine. (P-value= 0.21).
+
+Results:
+Once each frog leg had been injected with lidocaine at threshold stimulus, the force of contraction became smaller and the latent period became longer in both instances. 
+
+Discussion:
+We hypothesized that injection of lidocaine into the muscle would block sodium channels in the muscle and nerve, therefore leading to less depolarization in the cell, which leads to a smaller action potential, resulting in a smaller contraction. Although our results were not statistically supported, our observations suggested this was indeed the case. In both frog legs, the amplitude of the force of contraction became smaller after lidocaine was injected. In the first frog leg, the change in amplitude was 0.25 V whereas the second frog leg had a change in 0.52 V. Although there was a difference in amplitudes, our p-value was 0.2, which does not confirm our hypothesis. We also noticed a difference in latent period. In the first control leg, there was a latent period of 25ms, and after adding lidocaine, the latent period was 30ms. In the second control frog leg, the latent period was 25ms and after the addition of lidocaine, it had a 35ms latent period. This suggests that lidocaine slows reaction times, forcing the muscle to become more lethargic and slower to contract. Another study compared the strength of action potentials in guinea pig ventricular cells after having been injected lidocaine. At low (therapeutic) doses, lidocaine induced a small reduction in action potential duration and contraction but had no effect on transient depolarizations or, under voltage-clamp conditions, on the transient inward currents [Mitchell, 1988]. This experiment aligns with ours and supports our hypothesis, suggesting that small doses of lidocaine lessen action potentials, which in turn leads to smaller muscle contractions. Our observations suggest that lidocaine has an effect on the force of contraction due to sodium channel blockage, but our hypothesis is not statistically supported. 
+
+
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016)
+
+
+2.	Mitchell, M. R., and S. Plant. “Effect of Lidocaine on Action Potentials, Currents and Contractions in the Absence and Presence of Ouabain in Guinea-Pig Ventricular Cells.” Quarterly Journal of Experimental Physiology (Cambridge, England), vol. 73, no. 3, May 1988, pp. 379–90.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+9.47.19+AM.png&Size=58844&Type=image%2Fpng&F=F_AaQbOrT1UOpfiUN
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+9.47.45+AM.png&Size=57985&Type=image%2Fpng&F=F_QmH5S8bDw2OhERj
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+9.47.52+AM.png&Size=34729&Type=image%2Fpng&F=F_r3ytPSwBa8xfOoN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Force of Contraction Amplitudes before and after Lidocaine
+Note: The frog leg was stimulated with 3 volts.
+
+Figure 2: Force of Contraction Amplitudes before and after Lidocaine 
+Note: The frog leg was stimulated with 2.5 volts.
+
+Table 1: Length of Latent period before and after Lidocaine
+
+
+
+
+Figure 1 compares the differences in amplitudes of the muscle contractions with and without lidocaine in the first frog leg. The muscle contraction with lidocaine had a smaller contraction. (P-value= 0.2)
+
+Figure 2 compares the differences in amplitudes of the muscle contractions with and without lidocaine in the second frog leg. The muscle contraction with lidocaine had a smaller contraction. (P-value= 0.2)
+
+Table 1 compares the length of latent period in a muscle contraction before and after lidocaine. In both cases, the latent period is extended with the injection of lidocaine. 
+
+
+
+*************************************************************************

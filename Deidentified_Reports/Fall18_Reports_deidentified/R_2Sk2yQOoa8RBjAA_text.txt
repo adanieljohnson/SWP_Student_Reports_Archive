@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-23 18:42:57
+Author of this lab report is: Std_6W0QowAm
+ID: R_2Sk2yQOoa8RBjAA
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: pH effects on photosynthesis in spinach leaves
+
+Abstract:
+Abstract:
+In this lab we measured the effects on different pH levels in solution on the rate of electron transport in spinach leaves. The leaves were grinded using a grinding buffer and were spun in a centrifuge to get concentrated chloroplast. The ending pellet was resuspended and separated among 3 tubes with differing pH solutions- pH 5, pH 7, and pH 10. These solutions were mixed with water and DCIP and then placed under light for 10-minute intervals. Absorbance was recorded initially after making solutions and every 10 minutes up to 30 minutes. Percent change was then calculated and graphed to show an increase in electron transport. Our results were not significant due to the p-values being 0.101 and 0.466. 
+
+
+Introduction:
+Introduction: 
+Photosynthesis is the process by which plants and certain bacteria capture energy from the sun by using chemical energy stores in covalent bonds, potential energy in redox potential, and electrical and chemical gradients generated across a lipid bilayer. The products from photosynthesis allow other cellular processes to occur, including glycolysis or cellular respiration. Photosynthesis captures energy in light as well as carbon dioxide and water to make usable fuel in the form of glucose as well as water and oxygen, which is expelled as a waste product. Solar energy is captured in the chloroplasts and excites the electrons. A chemical reaction is triggered that cleaves water molecules, releases electrons, and creates a proton gradient. Electrons that are released are stored as NADPH. The protein gradient generated fuels the production of ATP (WFUSakai : BIO 214 Lab Fall 2018 : 214.2 Photosynthesis). Experimentally, the rate of photosynthesis can be measured using the examination of the rate of electron transfer. In our study, the rate of electron transfer, which is proportional to the rate of photosynthesis, can be measured by recording the absorbance of different solutions exposed to different conditions in a spectrophotometer. According to a study, toxic conditions will reduce the activity of chloroplasts (Wenping et. Al, 2017), which is measured through the rate of electron transfer. We will be isolating one aspect of the conditions, the pH of the solution. We will be preparing solutions at three different pH levels. We hypothesize that both acidic and basic solutions will decrease the rate of electron transfer. 
+
+
+
+Materials and Methods:
+Methods: 
+Exercise 1:
+Firstly, place the motor and pestle, medium sized beaker, and centrifuge tubes into ice to cool. Remove the large central veins from the spinach leaves and rinse with water. Add the leaves to the motor and pestle as well as 10 mL grinding buffer. Grind the leaves to a thick paste and add an additional 10 mL grinding buffer, mix the solution, and strain through three layers of cheesecloth into a cooled beaker. Transfer 200 µL of filtered liquid into microtube “A”, place on ice and transfer the remainder of the solution into centrifuge tube A. Spin for 3 minutes at 4°C and transfer the spun liquid into centrifuge B. Remove 200 µL into microtube B, store on ice, and spin centrifuge B at 4°C for 10 minutes. Resuspend the pellet in 15 mL grinding buffer. Place 5 mL of resuspension into 3 test tubes and add 5 mL of one pH buffer in each as follows- pH 5, pH 7, and pH 10. Spin at 2800 rpm for 10 minutes. Resuspend the pellet in about 3 mL grinding buffer to concentrate chloroplasts. 
+
+Exercise 2: 
+Label 10 large test tubes and prepare 3 replications of each sample group (pH5, pH7, and pH10) and one blank solution according to the table: 
+Reagent	blank	pH 5	pH 7	pH 10
+water	8 mL	6 mL	6 mL	6 mL
+130 mM DCIP	none	2 mL	2 mL	2 mL
+Reaction buffer	2 mL	none	none	none
+B Suspension	100 µL 	none	none	none
+
+Add 100 µL of the concentrated chloroplast solutions to the designated tube, 3 tubes for each chloroplast pH solution. Immediately after addition, transfer into cuvettes. Blank the spectrometer and measure absorbances at time 0 (T0). Place the cuvettes in a rack and place under a lamp for 10 minutes. Read absorbances again (600 nm) for T10, T20, and T30, waiting 10 minutes between each measurement. Calculate the percent change between each interval [absorbance at T0 – absorbance at Tn] / absorbance at T0. Plot the change in absorbance versus time for each of the three measurements. 
+
+
+Results:
+The absorbances were measured using a spectrophotometer calibrated at 600 nm. The percent changes increased after each interval. 
+
+Percent change was calculated using the different absorbances taken after each 10-minute interval compared to the initial absorbance. Trend lines were inserted showing an increase over time. 
+
+Discussion:
+The purpose of this lab was to determine if the changes in pH in the solutions would have an effect on the rate of electron transport. Our hypothesis was rejected because the rate of electron transfer for both basic and acidic solutions increase as opposed to decrease. The percent changes increased every interval for pH 5 and the first two intervals and then stayed steady for pH 7 and pH 10 (table 1). We would expect the rate to decrease because of a study that tested the effect of pH on photosynthesis and found that photosynthesis was the most effective at pH 6 and lower and higher pHs decreased photosynthesis efficiency (Danilov and Ekelund)  The pH 7 is the same as water, and very similar to the reacting buffer (pH 6.5), so we didn’t expect there to be any changes in this solution, however it increased as well. The p-value from the statistical test comparing pH 5 to pH 7was 0.101 and comparing pH 7 to pH 10 was 0.466, meaning that our results were not significant. We could have possibly run into some error by not waiting the full 10 minutes for each individual cuvette because not all cuvettes were made at once, there was some time elapsed after each one was made to the next. This could’ve affected the electron rate because the solutions were not exposed to the light as long as they should’ve which would’ve made the absorbance decrease. Also, the centrifuge did not appear to spin as effectively as it did in week one, causing the pellet to not be as concentrated and slightly more liquified. This would’ve affected our results because some of the concentrated chloroplasts in the pellet could’ve been poured out when transferring tubes. By knowing how pH levels affect photosynthesis we could use this knowledge in fertilizer production to determine what is the best pH for plants to grow in. 
+
+Literature Cited:
+Literature cited: 
+Danilov, R. A., and N. G. Ekelund. “Effects of PH on the Growth Rate, Motility and Photosynthesis in Euglena Gracilis.” Folia Microbiologica, vol. 46, no. 6, 2001, pp. 549–54.
+WFUSakai : BIO 214 Lab Fall 2018 : 214.2 Photosynthesis. https://sakai.wfu.edu/portal/site/7d5834ae-27e0-4c39-ad07-1f06e0027bca/tool/de5e6d4c-77d5-458b-bf62-02e9b2ef520a. Accessed 21 Oct. 2018.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+6.41.06+PM.png&Size=66769&Type=image%2Fpng&F=F_2zbVMJNhFdE06kL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+3.35.26+PM.png&Size=39809&Type=image%2Fpng&F=F_1g78zwgqch6Dj3Z
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+6.41.20+PM.png&Size=22621&Type=image%2Fpng&F=F_3lukRcCsSYdJqHG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Absorbance measurements for each 10-minute interval 
+Figure 1: plot of the change in absorbance versus the amount of time elapsed for each pH solution. 
+Table 2: T-test results*************************************************************************
+
+
+

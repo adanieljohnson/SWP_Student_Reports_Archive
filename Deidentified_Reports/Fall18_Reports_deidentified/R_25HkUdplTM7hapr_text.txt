@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-15 05:29:36
+Author of this lab report is: Std_3apReOar
+ID: R_25HkUdplTM7hapr
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Increased levels of K+ have no visible effect on contractile force response in frog leg muscle
+
+Abstract:
+Potassium is a chemical element commonly found in muscles that plays a key role in the conduction of activity. This experiment was conducted to observe the effects of increased levels of potassium in a frog leg muscle on the contractile force response received after electrical stimulation. This was done by testing and observing the contractile force responses of three different frog legs before and after a concentrated K+ solution was injected into the muscle. Since potassium has the ability to depolarize the cell membrane, it was predicted that an increase in the levels of potassium in the muscle would change the observed contractile force response. However, the results gathered by the statistical analysis of the data proved unable to determine a direct or stable correlation between the injection of the potassium and the contractile force response. 
+
+Introduction:
+It is a known fact that at a resting state, muscle cells maintain low levels of sodium and high levels of potassium. When potassium is in excess or increased in levels inside the cell, it becomes hyperpolarized because of potassium’s ability to depolarize the cell membrane. [Adrian: 1956] Hyperpolarization of a cell inhibits action potentials by increasing the stimulus required to move the membrane potential to the action potential threshold. Hyperpolarization changes the cell membrane potential to be more negative. During this phase, a neuron is unable to generate action potentials. Knowing potassium’s effect on internal muscle cells, this provokes the thought of what the effect would be if the potassium was present in amounts greater than normal. By isolating and attempting to determine a correlation (whether positive or negative) between increased levels of potassium in the gastrocnemius of a frog leg we can observe what the potential effects might be. Activity of the muscle can be monitored at the macroscopic level using a myogram. The myogram is attaches a muscle to a force transducer, and records the amount of force generated over a given time. A typical myogram has three phases: latent period, contraction phase, and relaxation phase. For the purposes of this experiment we will look specifically at the contraction phase. It is predicted that an increase in the levels of K+ in muscle cells will change the contraction force observed on the myogram.
+
+Materials and Methods:
+Needed for this experiment are: gloves, three frog legs, a computer with the appropriately downloaded LabScribe software, a syringe, and a K+ concentrated solution. Process was started by degloving the first frog leg and separating and isolating the gastrocnemius muscle. Then connect the muscle to the electrodes. Stimuli of 0.3, 0.4, 0.5, 1.0, and 2.0 in increasing intervals were applied and the force of contraction response for each stimulus received was recorded. The 0.1 mL, 20mM K+ solution was injected into the muscle and approximately 5-10 minutes were allowed between injection and next measurements. Proceeded by repeating application and recording of stimulus and contraction force response and repeating the entire process with two other frog legs. Making sure to record data for comparisons. Used a two-sample paired t-test to analyze the data that is collected through the experiment. Used the data from the average amplification at which a contraction force response was first observed, which in the case of this conduction of the experiment was 0.5V. Subtracted the difference before and after the addition of the K+ solution to the muscle. That difference was used to calculate the values and the graph.
+
+Results:
+The average contraction force response before the addition of the K+ solution amplified at 0.5V was 0.084V. The average difference after the addition of the K+ solution amplified at 0.5V was 0.154V. With the average difference in response between the addition of the K+ solution being 0.07V [Figure 1]. The data produced from the running of the two-sample paired t-test proved our data to be insignificant (t-value= 0.4168, df= 2, p-value= 0.7173). 
+
+Discussion:
+In the comparison of the data recorded from the experiment, we are unable to determine a relationship between an increase of potassium in the muscle and a change in the contraction force as our p-value was much greater than the average value that proves statistical significance. We were also unable to view any general trends in the data correlating to the addition of the K+ solution. This proves our hypothesis that an increase in potassium will change the contraction force, false. It is possible that we were unable to determine anything significant from this experiment due to the fact that the muscles and thresholds vary from frog to frog and so having such different numbers threw the statistical test. It is also possible that we did not allow enough time for the injected potassium to move into the cells across the gradient which would therefore completely null the testing of our hypothesis as what we had intended to measure was not actually measured. Had we been able to prove a direct correlation, we would’ve been able to apply this information to medical research or application. It was found in a study that a loss of potassium increases the level of sodium in a cell. [Steinbach: 1940] This begs a question that would require further research as it was not measured in this study. The question is: does an increase in potassium result in the loss of sodium inside a cell in order to maintain an exchange balance? The study also found that the exchange of lost potassium and increased sodium could be reversed as long as the cell did not lose more than half of its original potassium content. So if an increase in potassium might cause the loss of sodium, would the same statement prove true for sodium? If conducted again, the time between injection and measurement should be extended. The assessment of intracellular sodium and potassium exchange should also be conducted for further research. 
+
+Literature Cited:
+1. Adrian RH. 1956. The effect of internal and external potassium concentration on the membrane potential of frog muscle. The Journal of Physiology. 133: 631-658.
+2. Steinbach HB. 1940. Sodium and potassium in frog muscle. The Journal of Biological Chemistry. 133: 695-701.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=10894&Type=image%2Fpng&F=F_1gkkCHrb5HWuc6U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparison of the average difference in contractile force response before and after the addition of a concentrated K+ solution.*************************************************************************
+
+
+

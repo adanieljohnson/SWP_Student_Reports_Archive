@@ -1,0 +1,74 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-25 14:57:15
+Author of this lab report is: Std_AtP3XmcG
+ID: R_1FPn3Y8VqgexiXb
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Effects of Salinity on the Photosynthetic Activity of Spinacia oleracea 
+
+Abstract:
+The purpose of the experiment was to determine the effect of salinity on the photosynthetic activity on the organism Spinacia oleracea. The hypothesis was that the photosynthetic activity would decrease with the introduction of salt and the least activity would be seen at the highest concentration of salinity. This was studied by extracting chloroplasts and producing a photosynthetic reaction. The hypothesis was refuted as activity increased with the introduction of salt and there was no correlation between salinity concentration and photosynthetic activity. 
+
+Introduction:
+Sodium chloride, better known as salt, is an essential mineral for many organisms. It is composed of a sodium and chlorine atom forming an ionic bond.  Salts can be found in soil in low concentration and do not harm plants. However, once the concentration starts increasing from the levels found in nature, it can cause burns on plants. Salt stress causes a decrease in plant growth by disrupting physiological processes, the most important being photosynthesis. [Robinson:1983] The increase in sodium ions changes the potassium to sodium ratio which is thought to be a disruptor of photosynthesis. To account for the electrical charge balance cells must remove potassium ions for every salt ion entering a cell. Photosynthetic rates can either increase or decrease in response to the concentration of potassium ions. [Chaves:2009] The tolerance of salinity varies between plant species. [Nieman:1962] The accumulation of salt causes the plant cells to lose water in turn causing it to shrink and wilt. Photosynthesis occurs in the chloroplasts of plant cells. Photosynthesis is a process through which plants capture energy. The process is dependent on light as it generates a proton gradient which drives ATP synthesis. Redox reactions are the main mechanism through which electrons are transferred. The energy from electron transfers is used to form a proton pump. As the protons move down the gradient, new ATP molecules are synthesized. [Johnson:2016] The organism used in this study is the Spinacia oleracea. Spinach is an edible plant and is produced in mass amounts as a crop. Spinach grows best in warm climates and with moist, nitrogen rich soil. [Housekeeping:2018] Spinach was used as the model organism as the isolation of chloroplasts is easily done through a simple procedure. Many plant leaves also contain polyphenol oxidases which reduce redox potential during extraction. Spinach however have a low concentration of polyphenol oxidases. [Lintilhac:2018] I hypothesize that the change in ratio which occurs with the high concentrations of salt will cause a decrease in photosynthetic activity in the experimental groups which will result in high absorbance readings as concentration of salinity increases.    
+
+Materials and Methods:
+A mortar, pestle, 3 50 mL centrifuge tubes, and a medium sized beaker were placed on ice. Veins from 5 spinach leaves were removed and grinded in a cold mortar and pestle with 10 mL of grinding buffer. An addition 10 mL of grinding buffer was added, and the solution was strained through a cheesecloth. The filtered sample was then transferred into a chilled 50 mL centrifuge tube labeled A then centrifuged at 200 x G for 3 minutes. The supernatant was poured from this sample into another 50 mL centrifuge tube label B and centrifuged at 1000 x G for 10 minutes. The supernatant from B was then poured into a centrifuge tube labeled C. Next 13 test tubes were prepared as following:  
+	Tube #0	Tubes #1-3	Tubes #4-6	Tubes #7-9	Tubes #10-12
+	Blank	Chloroplasts	Chloroplasts in .2 M NaCl	Chloroplasts in .4 M NaCl	Chloroplasts in .6 M NaCl
+Water	8 mL	6 mL	6	6	6
+130 mM DCIP	0	2 mL	2	2	2
+Reaction buffer	2 mL	2 mL	2	2	2
+Salt Solution	0	0	2	2	2
+
+200 microliters of the chloroplast sample from centrifuge tube C was added to tubes 1-12. Tubes 1-3 would serve as controls. Tubes 4-6 were experimental group 1, 7-9 were experimental group 2, and 10-12 were experimental group 3. Each tube was transferred to spectrophotometer cuvettes and a base reading was taken. The spectrophotometer was blanked using tube 0 at 600 nm. Reading of all cuvettes except #0 were then taken after 10, 20, and 30 minutes. A two sample T-test was conducted with the data collected and the alpha value was 0.05.
+
+
+Results:
+The trend observed in the photosynthetic activity between the control and experimental group was a general increase as absorbance was lower in experimental groups. The control group had an average absorbance of 0.31 while the experimental group had an average absorbance less than 0.25. Statistical tests determined two out of the three trials were statistically significant.  
+
+Discussion:
+Based on the data collected and the statistical tests conducted, our hypothesis was mostly refuted. The decrease in absorbance in the experimental group showed that photosynthetic activity was still occurring despite the addition of salt. The activity was also occurring at a faster rate than the control group which contained no salts. Our hypothesis was that photosynthetic activity would be higher in the control groups and secondly less activity would occur as the salinity concentration increased. Our hypothesis was refuted however only two out of the three were deemed statistically significant. The data from 0.2M and 0.6M were significant while 0.4M was not. The second part of the hypothesis was also refuted as no correlation was seen between salinity concentrations and photosynthetic activity. The findings of our experimental are supported by prior research. Crop plants, such as spinach, differ in salinity tolerance. Spinach often show a stimulation of growth in salinity levels which would be lethal for other crops such as peas. [Nieman:1962] The stimulation of growth would require an increase in photosynthetic activity therefore spinach also see an increase in regard to photosynthetic activity. This may be explained by the adjustment cell make to sodium ions. Studies have shown that chloroplast exchange potassium ions for sodium ions to keep an equal charge and prevent major damage to cellular processes. [Robinson:1983] The next step in this experiment would be to repeat to procedure in order to achieve statistical significance in all three concentrations. This study is important as it helps to understand which crops/plants are and are not resistant to excess salt. Run-off water can contain high amounts of salt which may damage a plant. By knowing the tolerance of salinity for different plants it will be beneficial as farmers will know which plants they can and cannot place near areas which receive-run off water.
+
+Literature Cited:
+1.	Robinson SP, Downton WJ, Millhouse JA. Photosynthesis and ion content of leaves and isolated chloroplasts of salt-stressed spinach. Plant Physiol. 1983;73(2):238-42.
+2.	M. M. Chaves, J. Flexas, C. Pinheiro; Photosynthesis under drought and salt stress: regulation mechanisms from whole plant to cell, Annals of Botany, Volume 103, Issue 4, 1 February 2009, Pages 551–560, https://doi.org/10.1093/aob/mcn125
+3.	Nieman, R. (1962). Some Effects of Sodium Chloride on Growth, Photosynthesis, and Respiration of Twelve Crop Plants. Botanical Gazette, 123(4), 279-285. Retrieved from http://www.jstor.org/stable/2473175
+4.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+5.	Good Housekeeping. (2018). How to Grow the Tastiest Spinach Ever. [online] Available at: https://www.goodhousekeeping.com/home/gardening/a20705736/growing-spinach/ [Accessed 24 Oct. 2018].
+6.	Lintilhac, P. (2018). Chloroplast Isolation. [online] ResearchGate. Available at: https://www.researchgate.net/post/Can_anyone_help_with_a_simple_protocol_for_chloroplast_isolation [Accessed 24 Oct. 2018].
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+6.24.28+PM.png&Size=134622&Type=image%2Fpng&F=F_3dMpRye0ywh4NMt
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+6.24.35+PM.png&Size=133126&Type=image%2Fpng&F=F_1kTWpz3FP7xQJ49
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+6.24.44+PM.png&Size=133695&Type=image%2Fpng&F=F_3DpGeFqD0Kx2AW8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of salinity on photosynthetic activity on control and experimental 1 groups. The control group (blue bar) had an average absorbance of 0.31. The experimental group (orange bar) had an average absorbance of 0.19. The p-value of the two-sample t-test conducted was 0.03.  The average absorbance values represent 3 trials. The error bars represent +/- 1 unit of standard deviation. 
+Figure 2. Effect of salinity on photosynthetic activity on control and experimental 2 groups. The control group (blue bar) had an average absorbance of 0.31. The experimental group (orange bar) had an average absorbance of 0.24. The p-value of the two-sample t-test conducted was 0.14.  The average absorbance values represent 3 trials. The error bars represent +/- 1 unit of standard deviation. 
+Figure 3. Effect of salinity on photosynthetic activity on control and experimental 3 groups. The control group (blue bar) had an average absorbance of 0.31. The experimental group (orange bar) had an average absorbance of 0.18. The p-value of the two-sample t-test conducted was 0.02.  The average absorbance values represent 3 trials. The error bars represent +/- 1 unit of standard deviation.*************************************************************************
+
+
+

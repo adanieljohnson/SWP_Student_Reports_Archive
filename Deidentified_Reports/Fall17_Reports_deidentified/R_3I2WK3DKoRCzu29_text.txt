@@ -1,0 +1,47 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a lab report.
+Date submitted: 2017-12-08 18:17:29
+Author of this lab report is: Std_pkAnaL0t
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The effect of calcium ion channel inhibitors on the motility of the slime mole Physarum polycephalum
+
+Abstract:
+This experiment studied the effect of calcium ion channel inhibitors on the growth and motility of the slime mold Physarum polycephalum. The two inhibitors used were EDTA + strontium chloride, which is a cell surface channel inhibitor, and sodium butyrate, which is an intracellular calcium ion channel inhibitor. The aim was to see the distance travelled by the Physarum towards a food source, which as oats in this experiment. We hypothesized that the experimental samples would show little to no growth/movement, since the calcium ion channels would be blocked. The results were consistent with what we expected, however, they were statistically insignificant. Despite the insignificance in results, multiple studies show that calcium inhibition inhibit DNA synthesis as well as motility. 
+
+Introduction:
+This experiment studied the effect of calcium ion channel inhibitors on the growth and motility of the slime mold Physarum polycephalum. The two inhibitors used were EDTA + strontium chloride, which is a cell surface channel inhibitor, and sodium butyrate, which is an intracellular calcium ion channel inhibitor. The aim was to see the distance travelled by the Physarum towards a food source, which as oats in this experiment. We hypothesized that the experimental samples would show little to no growth/movement, since the calcium ion channels would be blocked. The results were consistent with what we expected, however, they were statistically insignificant. Despite the insignificance in results, multiple studies show that calcium inhibition inhibit DNA synthesis as well as motility. 
+
+Materials and Methods:
+The experimental procedure consisted of using nine water-based agar plates as the medium. They were labelled accordingly; three controls, three sodium butyrate, and three EDTA. A starting spot square was also drawn on the bottom of the plate so the distance travelled could be measured after the procedure. The plates were then soaked with the respective substance by using 1 mL of the substance in 19 mL of water. They were soaked for 10 minutes. After that duration, any excess solution was drained out of the plates and the Physarum was obtained and prepared to be cut. Small squares of Physarum were cut and placed on each square on the plates. Approximately 4-5 oats where then placed in one corner of the plate. The plates were closed, wrapped with parafilm, and then wrapped in foil to ensure no light entered the environment. After 48 hours, the Physarum was checked for movement towards the food source and the distance travelled was measured. 
+
+Results:
+The results obtained were almost in line with what we expected to occur with the movement of the Physarum. In the control samples, in which no calcium ion channel inhibitor was used, the Physarum grew towards the oats food source for an average of approximately 2.33 cm. It is important to note that in the third sample for the control, there was no growth; but this data was not excluded from the average distance calculation. For the sodium butyrate trials, the average distance travelled was approximately 0.67 cm. For the EDTA trials, the average distance travelled was approximately 1 cm. These values correspond to our initial expectations of the Physarum travelling much less in the experimental trials where inhibitors were used; when the calcium ion flow is blocked, there is little to no functionality of the actin that is responsible for motility of the organism. The representation of this data can be seen in Figure 1. 
+
+Discussion:
+The results proved to be insignificant, based on the p-values obtained after running a statistical t-test on the raw data. When comparing the control values to the sodium butyrate values, the p-value was calculated to be 0.232. The difference in distance travelled between the control and the experimental sample with inhibitor was insignificant. When comparing the control to the EDTA sample, the p-value was calculated to be 0.302, which, again, implies insignificance in the difference in distance travelled between the two samples. Despite the insignificant results, it is still known that calcium does in fact play an essential role in the growth and motility of Physarum. In another study, it was discovered that media without calcium ions will not support growth of Physarum [Holmes:1979]. This is consistent with our background research and our hypothesis, as the two substances used in this experiment were both calcium ion channel inhibitors. Furthermore, one other study observed the effects of sodium butyrate on Physarum and it was discovered that during interphase, growth is stopped and DNA synthesis is inhibited. This subsequently inhibits differentiation and growth of the Physarum altogether, which would explain the lowered motility and/or less growth observed in plates with the inhibitor [Jalouzot:1981]. However, another study shows that the use of EDTA did not have any significant effect on the motility of Physarum, but this procedure only left the organism in the environment for 20 minutes. The results obtained did suggest that EDTA treatment did not affect the receptor sites on the cell but rather it altered the signal transduction mechanism [Ishida:1979]. 
+
+Literature Cited:
+Johnson, AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016)
+
+Holmes, Ross P. The Response of Physarum polycephalum to extracellular Ca2+: Stuies on Ca2+ Nutrition, Ca2+ Fluxes and Ca2+ compartmentalization. Microbiology 113: 275-285.
+
+Ishida, N. Selective modification of positive chemotaxis in the true slime mold Physarum polycephalum by ethylenediaminetetraacetic acid treatment. NCBI. 1979: 98-98.
+
+Jalouzot, R. Multiple effects of 5 mM sodium butyrate on Physarum polycephalum macro plasmodia. NCBI. Cell Tissue Res. 1981: 195-200.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-12-08+at+6.15.36+PM.png&Size=42614&Type=image%2Fpng&F=F_bdxnWcFV4wKNNRP
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: the averaged values of distance travelled (cm) by the Physarum in the various environmental conditions studied in this experiment. 
+
+*************************************************************************

@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-21 02:20:41
+Author of this lab report is: Std_1CCrymVR
+ID: R_33rmr68mfrvRTmc
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effect of Tubocurarine on the Contraction of Frog Legs
+
+Abstract:
+This experiment examines how Tubocurarine, which is an acetylcholine inhibitor, affects the amplitude volts of frog legs. Tubocurarine was injected directly into the gastrocnemius muscle of the frog leg. Because Tubocurarine blocks acetylcholine and doesn’t allow an action potential to be produced, it was expected that the amplitude volts after the gastrocnemius is injected with Tubocurarine would be lower than before it is injected. Three frog legs were arranged so that an electrophysiological recorder and data analysis computer software could help determine the threshold stimulus volts and amplitude volts before and after being treated. In this experiment, there was no significant difference between the control and treatment. This is likely due to the fact that after Tubocurarine was injected into the frog leg, the threshold stimulus volts were increased so that a contraction would be seen. This makes up for the lack of acetylcholine that could not produce an action potential. This would in turn make the amplitude closer to the control amplitude. 
+
+Introduction:
+In the neuromuscular system, action potentials travel along the axon to the neuromuscular junction. Acetylcholine is released from the presynaptic nerve terminal due to depolarization and allows for the opening of sodium channels to generate an action potential in the muscle fiber. The action potential then allows for the release of calcium, which activates the contractile mechanism of the muscle fiber and allows the organism to move [AD Johnson].  
+This lab examines the neuromuscular system in frog legs. Under normal conditions, frogs use their nerve impulses at the neuromuscular junctions to release acetylcholine from the presynaptic nerve terminal. This then ultimately leads to an action potential in the muscle fiber. The frog is then able to contract or extend its leg by activating the contractile mechanism of the muscle fiber [AD Johnson]. In this experiment tubocurarine is used as an acetylcholine inhibitor. The action of tubocurarine on the post synaptic membrane of the neuromuscular junction is an example of competitive antagonism [Colquhoun: 1979]). Specifically, tubocurarine lessens the frequency of channel opening by binding to and blocking them [Armstrong: 1979]. This inhibits acetylcholine-induced depolarization and therefore action potentials [Armstrong: 1979]. 
+The goal of this experiment was to determine the difference between the resulting direct volts before and after injecting the gastrocnemius muscle of a frog with tubocurarine. The minimal stimulus threshold of volts needed to generate a twitch should be higher after injecting the gastrocnemius with tubocurarine. This is because a higher voltage is needed to produce an action potential which would then lead to the twitch compared to normal conditions where acetylcholine leads to the action potential. It is hypothesized that the resulting amplitude volts would be lower after being treated with Tubocurarine than before.
+
+
+Materials and Methods:
+In this experiment, three frog legs are obtained and placed on a clean dissecting tray. One of the frog legs is observed by first removing the skin off of the frog leg. If the skin was difficult to remove, a Kim wipe was used to more easily grasp the skin. The part of the leg that was particularly of interest in this study was the gastrocnemius muscle. The gastrocnemius muscle was isolated from the bone of the frog and cut near the lower leg joint. A thin string was tied around this end of the muscle and the other side of the string was tied to a stand so that the gastrocnemius muscle was vertical and there was tension on it. As researchers work with the frog legs, ringer’s solution was put onto the frog legs to ensure they do not dry out. If the frog legs were to dry out, then they would not work as intended. 
+	The pin electrodes that are connected to the iWorx electrophysiological recorder and data analysis computer software were stuck in to the gastrocnemius muscle. Starting at 0.1 volts and using 0.1 volt increments, the minimal stimulus threshold voltage was found. This is the lowest voltage needed to generate a twitch in the frog leg. Once this threshold was found, that voltage was used to get three resulting amplitude voltages of contraction, which were averaged. After this, 0.01 milliliters of 1 mM Tubocurarine was injected directly into the gastrocnemius muscle using a syringe. About half of it was injected into the upper part of the muscle and the other half into the lower part of the muscle. Researchers then waited about five minutes to allow the Tubocurarine to spread throughout the muscle before proceeding. The minimal stimulus threshold was then found again by inserting the electrodes into the muscle and finding the lowest possible voltage that still showed that the leg twitched. After the threshold was found, three more resulting amplitude voltages of contraction were also found. This process was repeated for the remaining two frog legs [AD Johnson]. 
+	After data was collected, a paired t-test was used to determine if the data is statistically significant. This statistical test was used because the experiment measures the same individual twice. Once before treatment as the control, and once after treatment. 
+
+
+Results:
+The threshold stimulus volts needed to produce a twitch in the frog legs before and after being treated with Tubocurarine increased as expected for two of the legs, but one of the threshold values decreased. The average amplitude volts for before the gastrocnemius was injected with Tubocurarine was 0.036 +/- 0.0107 mV. The average amplitude after being treated was 0.035 +/- 0.0129 mV (Figure 1). There is no statistically significant difference between the amplitudes before and after treatment (0.05258, 2, 0.96285). 
+
+Discussion:
+In this experiment, because the p-value is greater than the significance level of 0.05, the hypothesis is rejected. It was expected that the amplitude after the frog legs were treated with Tubocurarine would be lower because the Tubocurarine blocked the acetylcholine, so the calcium channel could not open or cause an action potential [Colquhoun: 1979]. In this lab, the lack of acetylcholine was made up for by increasing the stimulus volts. This was done to ensure that a twitch would be seen at all. 
+	No apparent pattern occurred in the results of this experiment. The lab had very diverse results; one frog leg produced a lower amplitude after being treated, while another trial was about the same control and treatment and the third was greater. So although a lower amplitude was expected, it is reasonable to have an amplitude about the same as before being treated because the higher stimulus volts makes up for the action potentials not being produced. 
+	The varying results of this experiment show that the experiment would be much more understandable and trustworthy if more than three trials were used. Using only three frog legs and having very different results for each one did not allow researchers to comprehend what the results would mean in a larger sense. 
+	To further experimentation on Tubocurarine, it would be beneficial to test it on other organisms besides frog legs. 
+
+
+Literature Cited:
+AD Johnson. Comparative Physiology BIO 114 Laboratory Manual. Biology, Wake Forest University, Winston-Salem, NC. Edition Ver. 18.2 (updated 8/2/18) pp. 5-13
+Armstrong, D L, Lester, H A, ( 1979), The kinetics of tubocurarine action and restricted diffusion within the synaptic cleft.. The Journal of Physiology, 294 doi: 10.1113/jphysiol.1979.sp012935.
+Colquhoun, D., Dreyer, F., & Sheridan, R. E. (1979). The actions of tubocurarine at the frog neuromuscular junction. The Journal of physiology, 293(1), 247-284.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-21+at+2.19.27+AM.png&Size=96238&Type=image%2Fpng&F=F_1Ic9hC1IKXG20UN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average amplitude volts of frog legs for before (control) and after (treatment) being treated with Tubocurarine. The average amplitude of the control is 0.036 +/- 0.0107 mV and the average of the treatment is 0.035 +/- 0.0129 mV. Error bars represent one standard error about the mean. *************************************************************************
+
+
+

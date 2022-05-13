@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 23:33:28
+Author of this lab report is: Std_vRKlXsA4
+ID: R_3pinNZ1WAFINsau
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: How twitch thresholds of the gastrocnemius muscle in Rana Pipiens Frog Legs are affected by tubocurarine
+
+Abstract:
+This experiment focuses on studying the twitch threshold of gastrocnemius muscle of the Rana Pipiens or the Northern Leopard frog before and after it is injected with tubocurarine, a nicotinic acetylcholine antagonist. The goal of the experiment was to determine if the inclusion of the muscle relaxant (1 ml of tubocurarine) would cause a noticeable difference in the voltage amplitude necessary to create a contraction in the muscle. We hypothesized that an injection of tubocurarine would cause a noticeable difference in the amount of voltage necessary to cause a the muscle to twitch. To test this a force transducer, specific instruments and software, and four frog legs were used to measure the twitch thresholds of each leg before and after the injection of tubocurarine.  After statistical analysis of the data we found that there was not enough evidence to support a significant difference and any differences found happened by chance, thus our hypothesis was not supported. 
+
+Introduction:
+This experiment was designed to test the post-mortem stimulus response of a Northern Leopard Frog (Rana Pipiens). Specifically, the experiment targeted the gastrocnemius muscle of the frog leg through stimulus to the sciatic nerve. Muscle contractions occur when the motor nerve is stimulated and releases acetylcholine into the synaptic cleft between the axon terminal and postsynaptic cell. The acetylcholine crosses the cleft and binds with receptors. This action is what transfers the signal from the nervous system to the muscular system of the frog (Vancouver Community College, 1). We tested the twitch threshold of the muscle using an artificial electrical stimulus before and after injecting the leg with tubocurarine, which is a muscle relaxant. Tubocurarine acts as a receptor antagonist by blocking and competing with ACh (Acetylcholine), a neurotransmitter, being received by the receptors in the muscle cells (Sloan, 1). So, by injecting the muscle with tubocurarine we hoped to make it more difficult for the muscle to receive enough acetylcholine to cause a reaction. We hypothesized that after injecting the leg with tubocurarine that it would take a stimulus of greater magnitude than before the injection to cause a muscle contraction. 
+
+Materials and Methods:
+Frog legs were provided to us by the lab instructor. Once placed on the dissection tray the skin of the frog leg was removed by peeling it off from the thigh down to the feet. Using Ringer’s solution to keep the frog legs moist the gastrocnemius muscle was separated from the bone by cutting the connective tissue and then cut away from the knee joint allowing a large portion of the tendon to remain connected to the muscle. Next the thigh muscle was gently pulled apart to expose the sciatic nerve. Once the nerve was exposed, the free end of the gastrocnemius muscle connected to a force transducer by string and held perpendicular to the dissection tray. After suspending the gastrocnemius muscle, the BNC was connected to the sciatic nerve and the LabScribe software was used to send electronic stimulus to the nerve, staring at 0.0 amps and increasing by .1 increments until a strong contraction occurred.  After a stimulus occurred the leg was then injected with 1 ml of tubocurarine and allowed to sit for 5 minutes before the procedure was carried out again. We completed this entire procedure for each of the four frog legs. We made sure to record the voltage amplitude necessary to create a muscle contraction before and after the injection of tubocurarine in all four legs. Then, using that data and a paired t-test, we were able to calculate whether our hypothesis was supported or not. 
+
+
+Results:
+After preforming the experimental test on all four frog legs we noticed a difference in the average voltage amplitude necessary to create a muscle stimulus (Figure 1). Before the injection of tubocurarine we found that the average voltage necessary to reach twitch threshold was .2595 amps. After the injection the average voltage to reach threshold was .347 amps. The average difference in voltage before and after the injection of tubocurarine was .0875 amps. After a paired t-test, with 3 degrees of freedom, we found that the P-value was .1288, which is higher than the .05 benchmark number to support the hypothesis. So, we could conclude that our hypothesis was not supported. 
+
+Discussion:
+The data collected throughout the experimented supported the possibility that tubocurarine affected the voltage amplitude necessary to create a muscle stimulus, yet after statistical review there is not enough evidence to support these claims. The intended reaction was that the tubocurarine would affect the uptake of acetylcholine, making a higher voltage necessary for the gastrocnemius muscle to reach twitch threshold (Sloan, 1). While we did see results that indicated that this had occurred in the experiment, the data collected was proven to have been collected by chance and not necessarily indicative of the tubocurarine functioning properly. This result could be due to many factors, both biological and otherwise. Foremost, the muscle could have been exceptionally fatigued after the first round of testing and the increased threshold could have been a result of fatigue. Additionally, the result of the experiment could have occurred because we did not use enough of the tubocurarine to cause a difference large enough to be supported by statistical testing. Should I ever do this experiment again I believe that I would use a higher value of tubocurarine and also allow the muscle to relax after the injection for longer, giving the tubocurarine time to diffuse throughout the cell. 
+
+Literature Cited:
+“2013 - Chemical Transmission Between Nerve Cells.Pdf.” n.d. Accessed April 11, 2018. http://library.vcc.ca/learningcentre/pdf/vcclc/ChemicalTransmissionBetweenNerveCells.pdf.
+Sloan, Tod B. 2013. “Muscle Relaxant Use during Intraoperative Neurophysiologic Monitoring.” Journal of Clinical Monitoring and Computing 27 (1): 35–46. http://tmedweb.tulane.edu/pharmwiki/doku.php/nicotinic_antagonists
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+11.29.47+PM.png&Size=115791&Type=image%2Fpng&F=F_3mlukrbX7ZClqty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph shows the average voltage amplitude necessary to create a muscle contraction in the gastrocnemius muscle of the rana pipiens as well as one standard deviation from the average (the error bars). Clearly there is a higher amplitude necessary to cause a muscle contraction after the injection of tubocurarine, yet that was proved insignificant by the statistical testing. 
+
+*************************************************************************

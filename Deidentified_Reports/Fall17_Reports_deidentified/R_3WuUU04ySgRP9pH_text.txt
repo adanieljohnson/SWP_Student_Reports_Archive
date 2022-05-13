@@ -1,0 +1,54 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-17 15:32:23
+Author of this lab report is: Std_4KTEG1Y8
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Application of Sodium Channel Blocker Lidocaine on the Neuromuscular System of Rana pipiens Decreases Muscle Contraction Strength.
+
+Abstract:
+Neuromuscular activity in an organism is reliant on the ability of motor neurons to innervate muscle fibers through action potentials that are transmitted at the neuromuscular junction. Sodium channels are responsible for the depolarization of both motor neurons and muscle fibers that allow muscle contractions to occur. Lidocaine is a substance known block sodium channels. In this experiment, the contractile amplitude of the gastrocnemius muscle of a frog, Rana pipiens, was measured by stimulating it’s innervating sciatic nerve. The experimental group’s muscle contractions were measured after injecting 2mL of a 25mM lidocaine solution. A voltage stimulus of 1.0V was applied to both the control and the experimental groups. It was hypothesized that the presence of lidocaine in the neuromuscular system would decrease the muscle’s contractile response. This hypothesis was supported because stimulations of the sciatic nerve produced contractions in both groups while displaying a significant decrease in the contractile amplitude of the experimental group (P-value = 0.572). The ability of muscles to contract with the presence of lidocaine were attributed to ineffectiveness of lidocaine to block every sodium channel, allowing for action potentials to be fired and create contractions.
+
+Introduction:
+Nerves and muscles are capable of responding rapidly, within milliseconds, to internal and external stimuli. In vertebrates and invertebrates are, the neuromuscular system’s communication and response occur at the neuromuscular junction where skeletal muscles, made of bands of myofibers, are innervated by spinal cord motor neurons. At this junction, a nerve impulse (action potential) travels down the presynaptic neuron until it reaches its axon terminals. The depolarization of the neuron via the opening of sodium (Na) channels will stimulate the influx of calcium (Ca) into the axon terminals, which then stimulates pre-synaptic vesicles to release of Acetylcholine (ACh) neurotransmitters that travel through the synaptic cleft to ACh binding sites on the post-synaptic motor end plates of the skeletal muscle fiber. This binding allows voltage gated Na channels to open and depolarize the post-synaptic membrane, allowing the firing of the action potential through the muscle fiber, leading to its contraction. A twitch contraction is stimulated by a single action potential that activates a number of motor units.
+	Lidocaine is a substance that is known to block voltage gated Na channels. The flow of Na currents is crucial to the propagation of action potentials down a neuron or a muscle fiber. Preventing the flow of Na ions through a cell affects its ability to functionally respond to internal or external stimuli. In a 2009 anesthesiology study, it was found that injecting 5.8–58mM solutions of QX-314, a lidocaine derivative, into the rats had effects on their nociception (pain sensation). The researches noticed “nonselective sensory and motor block” for a duration of 30 minutes, reflecting lidocaine’s ability to block sodium channels [Binshtok, et al.: 2009]. 
+	The goal of this experiment is to test the effects that lidocaine has on the neuromuscular activity of a frog leg’s gastrocnemius muscle that is innervated by the sciatic nerve. It is hypothesized that the presence of lidocaine in the frog leg’s neuromuscular system will contribute to a significant decrease in the muscle’s ability to contract in response to the same threshold stimulus that produces a response in a system that lacks lidocaine. Lidocaine will increase the threshold stimulus needed to innervate muscle contraction through the sciatic nerve. 
+
+Materials and Methods:
+In order to test the effects of Lidocaine as a sodium channel blocker, the neuromuscular control between a frog leg’s sciatic nerve and its gastrocnemius muscle was measured. For the experiment, three frog legs were used as both the control and the experimental groups. 
+	For each frog leg, the sciatic nerve was separated from the inner thigh muscles in order to be independently controlled by a nerve probe. The gastrocnemius muscle was separated and suspended at a 90 degrees angle in order for the muscle’s reaction to stimulus to be accurately measured and visually noticeable. It was important for exposed tissue to remain moistened with Ringer’s solution throughout the experiment. 
+	In order to assess the strength of the muscle’s response to the stimulation of the sciatic nerve, the program LabScribe was utilized to view the contractile amplitude (V) of each response. To create a stimulus, single pulses were created by sending different pulse amplitudes from the computer program to the nerve probe in contact with only the sciatic nerve. In order to accurately assess the response, the threshold voltage needed for the muscle’s twitch contraction was found at 0.15V. A stimulus amplitude of 1.0V was then applied and the muscle’s contractile amplitude was measured. For the experimental group, 2mL of a 25mM lidocaine solution was injected into each of the three control frog legs. The same amplitude stimulus was applied using LabScribe and the contraction amplitude was recorded. 
+	To evaluate the significance in the differences in the amplitude responses between the control frog legs and the experimental, a paired t-test was performed to analyze the data. 
+
+Results:
+The above chart represents the comparison of the average contractile amplitudes in response to the pulse stimulus of the sciatic nerve between the control group frog legs (Before LDC) and the experimental group that was injected with 2mL of a 0.25mM solution of Lidocaine (After LDC). The control group’s mean amplitude was 0.417V  0.226V, and the experimental group’s was 0.308V 0.210V. The mean contractile amplitude of the control group was significantly greater than that of the experimental (t-value= 0.670, degrees of freedom = 2, P-value = 0.572). 
+
+
+Discussion:
+Based on the results from the paired t-test, the difference in the contractile response to the stimulation the sciatic nerve was significantly greater (P-value = 0.572) in the control group’s neuromuscular system that lacked the presence of lidocaine. Because the P-value is above the significance level (P>0.05), the results do not reject our hypothesis that the muscles injected with lidocaine would respond with a lower strength contraction. Even though all the muscles in the control and experimental groups contracted in response to a stimulus of 1.0V, the results show that there is a significant decrease in the contractile amplitude of the muscles contracting with the presence of the 0.25mM lidocaine solution. 
+	The previously mentioned anesthesiology study of the effects of injecting a lidocaine derivative, QX-314, showed short-term “complete paralysis” of the rats’ muscle in response to the inhibition of the motor functions of the sciatic nerve [Binshtok, et al.: 2009]. The ability of frog leg’s gastrocnemius muscle to contract even with the presence of lidocaine can due to the activity of Na channels that were not blocked, allowing action potentials to be fired via the neuromuscular junction of the sciatic nerve and the gastrocnemius muscle fibers. Explanations for the differing results between our experiment and the 2009 study may include: the need for a greater concentration of lidocaine to cause greater inhibition of neuromuscular functions, lidocaine injected at ineffective locations in the muscle, and measurements of contractile amplitudes taken before lidocaine could effectively spread through the frog leg’s entire neuromuscular system. 
+	For future studies, the results of this study could be used as reference for the understanding that lidocaine does decrease the contractile force of targeted muscles. The effects of lidocaine can be used in biological, or specifically medicinal, studies to emphasize the importance of the activity of sodium channels and the presence of sodium in the firing of action potentials for neuromuscular activity. 
+
+
+Literature Cited:
+1. Johnson AD. Neuromuscular Control. BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated August 2, 2017), pp. 19–36.
+
+2. Binshtok, AM; Gerner, P; Oh, SB; Puopolo, M; Suzuki, S; et al. 2009. Coapplication of lidocaine and the permanently charged sodium channel blocker QX-314 produces a long-lasting nociceptive blockade in rodents. Anesthesiology. 111: 127-137.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Unit+2+Lab+Report+Bar+Graph++.png&Size=66370&Type=image%2Fpng&F=F_4PCxEn1bW1dOlWl
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparison of the Contractile Amplitude of the Gastrocnemius Muscles of the Frog Legs without (Control) or with (Experimental) the Presence of Lidocaine (2mL of a 25mM solution); Error Bars Represent Standard Deviation Values for Each Group. 
+
+
+*************************************************************************

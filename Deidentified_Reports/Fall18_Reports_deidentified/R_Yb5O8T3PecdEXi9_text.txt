@@ -1,0 +1,91 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-12-01 17:08:17
+Author of this lab report is: Std_TsrZU3gG
+ID: R_Yb5O8T3PecdEXi9
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Reaction of Physarum polycephalum (Italics) to different wavelengths of light
+
+Abstract:
+In this experiment, we tested Physarum polycephalum’s reaction to different wavelengths of light. When pigment absorbs light at a specific wavelength it changes confirmation, triggering its related photoreceptor to send out a signal. Physarum has multiple photoreceptive pigments, allowing it to sense different wavelengths of light. Physarum has the ability to move toward positive stimuli and away from negative stimuli allowing us to easily analyze the protist’s environmental preferences. We will be testing the reactions of our sample to blue, red, unfiltered and no light. Our hypothesis is that Physarum will tend to move away from light closer to the blue end of the spectrum. While our hypothesis is not supported due to the data being statistically insignificant, a trend does emerge of blue light avoidance.
+
+
+Introduction:
+We tested how Physarum polycephalum reacts in response to red, blue and unfiltered light compared to no light. We used bulbs that have emission spectra with wavelengths around 490 nm for the blue light, 650 nm for the red light, and a normal incandescent bulb which usually have a wider, red shifted emission spectrum for the unfiltered light [Smith]. Physarum is a multinucleated syncytium, this means the organism is self-contained in a single cell membrane with multiple nucleuses throughout the cytoplasm. Physarum is used as a model organism because, although it may seem very different from higher lifeforms, many of its functions are very similar to complex life on a cellular level. However, in Physarum these processes occur at a level that can be easily observed. Physarum slimes can also have pieces of itself removed to form new, genetically identical clones allowing for genetics and lifecycle stage to be controlled for in a single growth during testing [Sakai]. Physarum senses light through pigment containing photoreceptors that cause a signal cascade when those pigments absorb their specific wavelength of light [Wormington]. Physarum slimes contain multiple different pigments that absorb at different wavelengths [Majcherczyk]. Receptors with different pigments could trigger different signal cascades depending on the predominant wavelength of light that reaches the slime. Certain Physarum strains have been found to be more reactive to certain wavelengths of light compared to others [Rakoczy]. How Physarum will react to this light however has been found to vary. At higher intensities, the slime tends to always avoid the light, however, when stimulated at lower intensities results tend to differ. While younger slimes seem to always migrate away from light, some slimes have been observed moving towards light when they approach the sporulation stage of their life cycle. This attraction to red light later in the Physarum’s lifecycle is likely due to its need to find a more open space to release its spores which it can find by moving towards light. [Rakoczy]. The presence of blue light often coincides with the presence of UV light due to both being shorter wavelength light. UV light would be advantageous to avoid because exposure is known to be more mutagenic than longer wavelength light. Other light avoidant species have been shown to have similar avoidant behavior to harmful wavelengths [Xiang]. The Physarum is able to interpret and react to photo-stimulus due to the transduction of signal molecules through cytoplasmic streaming action diluting with distance allowing the Physarum to relate concentration to distance from stimulus site, allowing it to orient itself and respond appropriately [Wohlfarth-Bottermann]. My lab group hypothesizes that lower wavelength blue light would trigger stronger negative phototaxis compared to red or unfiltered light because blue light tends to signal higher energy photon radiation that would be advantageous for the Physarum to more actively avoid. 
+
+
+Materials and Methods:
+For this experiment we obtained 12 agar plates which we broke into 4 groups: unfiltered light, blue light, red light, and no light. Each group has three plates each of which we would label with its group name on the back. We then drew a line down the center of the bottom of each plate on which we drew one centimeter squares equally spaced. We then cut cubes of agar in these plates approximately following the outline of the squares we drew, only removing the left cube. We then obtained an agar plate with a Physarum polycephalum growth which we cut 1 centimeter cubes from, we then inserted these into the squares we cut from the experimental plates. We sterilized the tweezers we used for this after every transfer to reduce contamination.  We then wrapped the plates with tin foil from which we cut a small hole perpendicular to the line drawn on the bottom of the plates so that each square is equidistant from the slit in the first three groups. We did not cut a small hole into the tin foil of the no light group. We then placed the normal light group under a normal lap, the blue light group under a lamp with a blue bulb, the red-light group under a lamp with a red bulb, and the no light group in a drawer. We controlled the wattage to these bulbs to control the intensity of light on the samples. We then returned after 24 hours to measure the movement of our slime. We took this data and ran an ANOVA test and a Tukey Kramer Post Hoc analysis with two degrees of freedom and an alpha of .05. We used this to interpret the difference between the means of the control and the experimental group.
+
+
+Results:
+In blue light the Physarum moves an average of 0.38 cm away from the light with a standard deviation of ±1.03
+In the red light the Physarum moves an average of 0.27 cm towards the light with a standard deviation of ± 4.89 cm 
+In unfiltered light the physarum moves an average of 0.81 cm towards the light with a standard deviation of ±1.21 cm  
+
+ The ANOVA test with 2 degrees of freedom and an alpha of 0.05 resulted in an F-ratio value of 0.19211 and a p-value of 0.898856. 
+The Tukey Kramer Post Hoc analysis run with an alpha of 0.05 found no significant difference between the experimental groups.
+
+
+Discussion:
+We hypothesized that light concentrated in the blue spectrum would be more actively avoided, causing negative phototaxis in Physarum polycephalum due to indicating the presence of harmful UV radiation while red light would cause only slight negative to positive phototaxis in the slime. With a p-value of 0.898856 our data is statistically insignificant resulting in our hypothesis being rejected. Only p-values below the alpha of 0.05 can be considered significant. Our data measured the movement of Physarum exposed to different light sources. While the results were not significant it can still be observed in figure 1 that the Physarum on average moved away from the primarily blue light and towards unfiltered and red-light sources. When no light source was present no movement was observed ruling out other stimuli triggering movement. Other researchers have produced significant results in similar experiments showing that blue light (490 nm) and far-red light (750 nm) triggered negative photo taxis while red light (650 nm) would trigger positive photo taxis [Hato]. light bulbs tend to have an emission spectra shifted toward red and infrared spectrum [Smith]. This could explain why positive photo taxis is also observed in the samples placed in unfiltered light. However, none of the unfiltered light samples had as extreme movement exhibited in the red-light samples, possibly owed to the presence of more blue and far-red light [Hato]. The results of our own experiment may have not been conclusive when compared to other similar tests due to contamination. Physarum will typically ignore light at the intensity we were testing to obtain food [Beekman]. This can explain at least one of our blue light plates because it had an oat flake contaminant closer to the light source that the Physarum moved towards. Smaller pieces of food contaminant could have gone unnoticed and altered results. Also, while the same Physarum culture should have been used for every sample, my group ran out of Physarum in our culture plate, leading to us switching to a new culture. This new Physarum could have altered results by being at a different point in its life cycle or having a slightly different genetic makeup, changing its reactivity to light. 
+
+
+Literature Cited:
+Works Cited
+
+Beekman, M. “Food Quality and the risk of light exposure affect patch-choice decisions in the slime mold Physarum polycephalum.” Ecology. 2010.
+
+
+Hato, Masakatsu. “Phototaxis in true slime mold Physarum polycephalum.” Hokkaido university, Sapporo, Japan. 1976.
+
+Majcherczyk, Andrzej. “A method for the separation of pigments from plasmodia of the true slime molds, Physarum polycephalum and physarum nudum.” Institute for botany of the University of Göttingen. Federal Republic of Germany. 1986.
+
+Rakoczy, Leokadia. “Effect of Blue light on metabolic processes, Development and movement in true slime molds.” Life Sciences. 1980.
+
+Sakai. “Background unit 3: life history and common behaviors of Physarum polycephalum.” Wake Forest University. Accessed 2018.
+
+Smith, Daniel. “Calculating the emission spectra from common light sources.” Comsol.com. 2016.
+
+Wohlfarth-Bottermann, K. “The Pathway of photosensory transduction in Physarum polycephalum.” University of Bonn. Federal Republic of Germany. 1981.
+
+Wormington, Michael. “Photoreceptor pigment that induces differentiation in slime mold Physarum polycephalum.” Department of biochemistry, University of Kansas. 1976.
+
+
+Xiang, Yang. “Light-avoidance-mediating Photoreceptors tile the Drosophila larval body wall.” Nature 921-926. 2010.
+
+
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=IMG_4769.jpg&Size=29098&Type=image%2Fjpeg&F=F_2UhjsngC8ptEe1v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: In this figure, we can observe and compare the average movement of the Physarum polycephalum when exposed to each different light source. This excludes the sample in the dark with had no movement. Standard deviation is used to create the error bars on the graph.
+*************************************************************************
+
+
+

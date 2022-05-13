@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-09 16:06:53
+Author of this lab report is: Std_jWqekZqo
+ID: R_3CT8yfDEDBZPlN3
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The Effects of Ach Receptor Antagonist On Rana Pipiens Gastrocnemius Muscle
+
+Abstract:
+The neuromuscular system responds to environmental changes through quick responses. A main way the neuromuscular system responds to environmental stimuli is by contracting the muscles through excitation-contraction. In excitation-contraction, Acetylcholine plays a role in depolarizing the cell and triggering to release Ca2+ and contract. The two main parts of the frog leg are the Sciatic nerve and Gastrocnemius muscle. It was hypothesized that injecting the Rana Pipiens gastrocnemius muscle with Acetylcholine blocker (Tubocurarine) would cause the muscle to stay relaxed and not contract. It was concluded that the presence of Tubocurarine did not stop the contraction, and was not significant enough to be a direct cause of the higher voltage needed to induce a contraction. a paired T-test, it was found that the p-value was 0.09101, which is greater than 0.05, allowing for the conclusion that the test was statistically insignificant. This study could be improved by using more frog legs to allow for more consistency in the data. This study allows for the conclusion that Tubocurarine Ach antagonist does not cause the gastrocnemius muscle to stop contracting.
+
+Introduction:
+The neuromuscular system allows animals to detect and respond to changes in the environment in order to maintain homeostasis. Specifically for this lab, the Gastrocnemius muscle of the Rana Pipiens, commonly known as the northern leopard frog, was used to demonstrate the responses of the neuromuscular system. Using the Rana Pipiens allows for a better understanding and the easy observation of the basic properties of the neuromuscular system. The easy observable responses and easy ability to stimulate changes in the neuromuscular system of the Rana Pipien is helpful when learning how the muscle contracts and what effects their ability to contract. The neuromuscular system takes only millisecond to respond to signals from the environment and body changes. The somatic neuromuscular system is organized into skeletal muscles that are formed by motor neurons and axons. Specifically, the axons form the neuromuscular junction where excitation contraction coupling, or more commonly known as muscle contraction occurs [Johnson: 2018]. In this experiment, the role of Acetylcholine, or Ach, is the primary focus. When nerve impulses arrive at the neuromuscular junction, acetylcholine is released and initiates the depolarization of the cell. [Johnson: 2018] Ach depolarizes the cell by binding to the membrane, triggering sodium channels to open and spread action potentials throughout the cell. The action potential then causes the release of Ca2+, which causes the muscle to contract. [Johnson: 2018]. Along with Calcium, Acetylcholine has a great effect on the development of slow twitch muscle, which make up the leg muscle[Brennan: 2005]. Acetylcholine also receptors also regulate the nerve activity necessary for muscle fiber formation and function [Brennan: 5182]. The Rana Pipiens frog leg consists of two main points of focus for the lab: the sciatic nerve and Gastrocnemius muscle. [Johnson: 2018] The sciatic nerve was stimulated by computer generated impulses in order to produce contractions in the Gastrocnemius muscle. When the leg contracted, the volts necessary to create that contraction were labeled the twitch threshold. In this lab, the muscle was injected with nicotinic Ach antagonist, Tubocurarine. Injecting the leg with Ach antagonist allows an understanding on the role of Ach in muscle contraction. It was hypothesized that the Ach antagonist would prohibit the muscle from being depolarized, therefore preventing muscle contractions, and causing the muscle to never fully contract.
+
+Materials and Methods:
+Four frog legs were obtained from the Biology department. The four frog legs were skinned, and the sciatic nerve was separated delicately from the tissue. As seen in figure 2, the Gastrocnemius muscle was then partially separated from the leg by cutting the muscle off near the Achilles tendon. As seen in figure 3, String was tied around the muscle and then the muscle was hung from the Force transducer. The Sciatic Nerve was laid on top of the pin electrodes which can be seen in figure 3. Then the twitch threshold of each frog leg was taken using the IWorx Labscribe. The twitch threshold was found by shocking the nerve with different volt levels, starting at 0.0V, until a twitch response was seen on the Iworx program. Once the twitch threshold was found, it was repeated with the three time pulse at the threshold voltage to get an accurate average of the threshold value at that voltage. After the twitch threshold was found for each leg, the legs were each injected with 0.1mL of  1mM of tubocurarine using a syringe and needle. Then the twitch threshold tests were repeated. The control data was the twitch thresholds of the two legs before they were injected with tubocurarine and the treatment data was the twitch threshold after each legs was injected. The treatment and control were compared and analyzed using a paired T-test.
+
+Results:
+The degree of freedom was 1, the t-value was 2.45, and the p-value was 0.091011, which is more than 0.05. Both the control and treatment group showed a twitch threshold when stimulated with different amounts of voltage. In figure 1, the control had a lower twitch threshold of around 0.0825V, while the treatment had a twitch threshold of around 0.132625V. The treatment group in figure 1, showed a higher threshold compared to the control group. In figure 1, the error bars that show a large standard deviation in both the control and treatment group, the treatment having a standard deviation (based on sample) of (+/-) 0.240 and the control (+/-) 0.180. 
+
+Discussion:
+From the results, it can be concluded that the injection of 0.1 mL of 1mM of tubocurarine does not prohibit the gastrocnemius muscle from contracting. Our hypothesis was rejected because the injection of tubocurarine does not stop the contraction of the muscle, as seen in figure 1, the treatment produced a twitch threshold which indicates that the muscle contracted. The p-value was 0.09101, which is above 0.05, allowing the data to be considered as statistically insignificant. Although, Tubocurarine did not prevent the muscle from contracting, it did result in an observable, but not significant, trend that the presence of tubocurarine attributed to a greater amount of voltage needed to cause the muscle to contract. Although the tubocurarine did not cause the muscle to cease from contracting or be considered to have a significant effect on the muscle contraction based on the p-value, the trend of a greater amount of energy to contract is still present (but not significant). This can be explained by the role of acetylcholine receptors in determining muscle fiber function and formation [Brennan: 2005]. According to one study, it was concluded that blocked acetylcholine receptors caused changes in the lengths of the sarcomeres and myofibril length, causing the sarcomere length to be shorter and the myofibril length to be greater [Brennan: 2005]. Since the blocked acetylcholine receptor changes the muscle fibers length, it effects its ability to properly contract [Brennan: 2005]. Since the length of the sarcomere and myofibril are altered it can be concluded that the excitation contraction coupling does not perform at its optimal ability due to the uneven lengths [Brennan: 2005]. These results are significant to our results because it allows us to understand that the blockage of Ach does not completely stop contraction but lessens its effectiveness. The less effective muscle stroke would result in a high voltage needed to show a significant contraction on the iWorx program, but would the Ach antagonist would not be the sole reason the voltage was higher as other factors like size of the sarcomere and muscle fiber length can also be attributed to the raised voltage, leading to statistical insignificance of our tests. A modification to improve this lab in a future repetition of this study would be to have a greater number of frog legs in order to see the consistency of the twitch thresholds and contraction. Another improvement could also be testing different doses of the tubocurarine in order to see how different amounts of Ach blocker would affect the twitch threshold compared to the 0.1 mL of 1Mm tubocurarine used. Overall, it can be concluded that tubocurarine Ach antagonist does not cause the muscle to stop contracting as both the control and treatment show twitch thresholds.
+
+Literature Cited:
+Brennan, C. "Acetylcholine and Calcium Signalling Regulates Muscle Fibre Formation in the Zebrafish Embryo." Journal of Cell Science, vol. 118, no. 22, Oct. 2005, pp. 5181-90. CrossRef, doi:10.1242/jcs.02625. 
+Johnson, Comparative Physiology BIO 114 Laboratory Manual, Dept. Biology, Wake Forest University, Winston Salem, NC, Edited Version 18.1 (updated 1/5/18) pp.18-25
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-08+at+7.34.49+PM.png&Size=67644&Type=image%2Fpng&F=F_2fg4lEaIdzSVHrW
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=leg.png&Size=331270&Type=image%2Fpng&F=F_3nBlTSOG0bjuP5M
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+leg.png&Size=716041&Type=image%2Fpng&F=F_245yvGCopUHrWuo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1: A bar graph representing the average twitch thresholds for the four frog legs for our lab experiment. The orange is the average of the four thresholds of each leg before they were injected with the Ach blocker. The blue bar is the average of the four thresholds of each leg after they were injected with the Ach blocker. The error bars in this graph represent (+/-) the standard deviation.  Figure 2: The frog leg's gastrocnemius muscle being cut at the achilies. The string is being tied around the muscle before it is tied up. Figure 3: The frog leg attached to the Force transducer and the Sciatic Nerve is laying on top of the pin electrodes in order to text the twitch threshold.
+
+*************************************************************************

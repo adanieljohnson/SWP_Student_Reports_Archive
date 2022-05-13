@@ -1,0 +1,87 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-24 18:39:44
+Author of this lab report is: Std_TsrZU3gG
+ID: R_2dLWDh8SZDIVe1H
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Photosynthetic Activity of Spinacia Oleracea Chloroplasts Under Hot and Cold Conditions
+
+Abstract:
+In this experiment we tested the effects of temperature on the photosynthetic ability of chloroplasts from Spinacia oleracea. Photosynthesis occurs in two distinct stages, the light dependent process and the light independent process. The light dependent process provides energy for the light independent process to produce sugars for respiration. By measuring the activity of the light dependent process the rate of photosynthesis for chloroplasts, activity in different environments can be compared. In this experiment, we compared the photosynthetic activity of samples in a warm environment, at room temperature, and in a cold environment to test temperature’s effect on the rate of photosynthesis. We hypothesized that at higher temperatures the electron transport chain and its integral photosystems will be more active resulting in more proton transport and reduction at the end of the chain due to an increase in available energy for theses mechanisms to take place and the increased likelihood of collisions of reactant molecules within the sample. In colder conditions, less energy is available and molecules move around at a slower rate resulting in fewer collisions and a slower rate of reaction, slowing the photosynthetic process. this hypothesis was rejected
+
+Introduction:
+In this lab we will be testing the activity of chloroplasts obtained from Spinacia oleracea or spinach leaves at both warm and cool temperatures. The structure necessary for photosynthesis begin breaking down around 40oC and will be destroyed by freezing so temperature in this experiment will be kept below 40oC however the test tubes will not be left in the cold bath long enough to freeze [Berry:1980]. Other studies suggest enzymes in spinach are supposed to be most effective at carrying our photosynthesis between 10-20oC.  Chloroplasts undergo photosynthesis, the process by which water and CO2 and converted to sugar and O2 in the presence of light. The light in the reaction drives photosystems I and II by exciting electrons allowing them to move on in the electron transport chain, activating a proton pump after being excited in photosystem II then moving on to photosystem I to reduce NADP to NADPH. These systems usually provide energy for the light independent reaction to function by creating a proton gradient to drive ATP synthase and carrying electrons in NADPH. By measuring how active photosystem I is at adding protons to a target molecule the activity of the whole chloroplast can be inferred. This activity can be compared to the activity of other samples of chloroplasts to determine what conditions may affect this activity. To study how actively photosystem I is reducing molecules, DCPIP is introduced. DCPIP is a molecule that will also accept protons from Photosystem I just as NADP does, however, DCPIP is a blue molecule that absorbs maximally at 600 nanometers while its reduced form, DCPIPH2, is clear. By measuring the absorbance of the sample at 600 nm, it can be observed how much DCPIP has changed DCPIPH2. This means that as chloroplast activity occurs, DCPIP will change to DCPIPH2 which will cause absorbance to decrease. With more active in the electron transport chain, less absorbance will occur. Higher absorbance signals less photosynthetic activity in the sample. A spectrophotometer will be used to measure the absorbance in each sample by shining monochromatic light at a set wavelength through a sample then recording how much of this light is able to penetrate to the other side of the sample. This can be related to the relative quantity of DCPIP molecules in the solution absorbing the light on its way through. We believe that at higher temperatures the electron transport chain and its integral photosystems will be more active leading to DCPIP more frequently being converted to DCPIPH2 due to an increase in available energy for the reaction to take place and the increased likelihood of collisions of reactant molecules within the sample. In colder conditions less energy is available and molecules move around at a slower rate resulting in fewer collisions and a slower rate of reaction, slowing the photosynthetic process.
+
+
+Materials and Methods:
+For this experiment, we obtained 5 spinach leaves from which we removed the stem and large veins. We then washed the leaves under tap water and dried them. We then ground the leaves with 10 mL of 400 mM sucrose in tricine buffer (pH 8), also known as grinding buffer, in a mortar and pestle that had been packed on ice to cool. When only a paste was left we mixed in 10 more mL of grinding buffer then strained the paste through 3 layers of cheesecloth. We then added this solution to a 50 ml centrifuge tube which we rotated in a centrifuge at 1200 rpm for 3 minutes at 4oC, making sure the centrifuge was balanced. When this run was finished, we transferred the liquid from the centrifuge tube to a second, identical, tube, making sure not to transfer the solid pellet that formed at the bottom of the first tube. We then rotated the second centrifuge tube at 2800 rpm for 10 minutes at 4oC. save the pellet at the bottom of this second centrifuge tube while discarding the liquid on top. Add 20 mL of grinding buffer to the pellet to rehydrate it and mix them together. Now obtain and labeled 13 test tubes. Put 2 ml of reaction buffer in every test tube. Put 2 mL of DCPIP in every test tube except tube 1. Put 6 mL of water in every test tube except tube 1 where you will put 8 mL of water. Prepare a hot bath (36oC) and ice bath (-2oC) monitored by a thermometer for the samples to sit in with heat lamps over them and a third open air area with a heat lamp where test tubes can be put. Set the spectrophotometer to 600 nm. Now put 100 ul of fluid from the centrifuge tube we rehydrated the pellet in into every tube except tubes 2-4. put some of mixture in tube 1 into spectrophotometry tube then put it into spectrophotometer and set the blank with it. 1 by 1 put samples into spectrophotometry tubes and run spectrophotometry on them then record absorbance. Place tubes 1-7 on rack in open air with lamp, start a timer for 10 minutes immediately after all tubes put here. Place tubes 8-10 in the hot bath and start a 10 a minute timer. Place tubes 11-13 in ice bath then start 10 a minute timer. When each timer finishes check absorbance again in spectrophotometer, record results, then return to tube to testing environment and restart timer. The blank does not need to be reset if it is still set from the first time. Repeat until 30 minutes total has passed, taking last spectrophotometry reading at the 30 minute mark. Record all data and run an ANOVA test on results to compare the means of our runs.
+
+
+Results:
+fig 1 title:The absorbance of four sample groups over a time of 30 minutes 
+Figure 1 shows: This figure shows a relation between the absorbances of our four sample groups  in relation to time, when placed under several temperature variable conditions, measured every ten minutes for a total of thirty minutes. 
+
+fig 2 title:Bar graph showing the difference between four sample groups and their relative times
+Figure 2 shows : This set of bar graphs describes a comparison between the absorbances relative to the times for each groups. The numbers on the x axis describe the groups, as seen in the legend in Fig. 1. 
+
+After running an ANOVA test, with a degrees of freedom of three, and an alpha of .05, we can see that the f-ratio value is 0.80486. The p-value is 0.514973. 
+Turkey HSD ANOVA:
+No Significant difference between any two groups 
+
+Discussion:
+We hypothesized that at higher temperature more activity would occur in the light dependent reaction process allowing for more DCPIP to be reduced indicating that more photosynthetic activity occurred. However, with our P value of .514973 our data is considered statistically insignificant meaning our hypothesis was rejected. The P value must be below .05 for data to be considered significant. Our data measuring the light absorption of DCPIP at 600 nm. When DCPIP is converted to DCPIPH2 less DCPIP is available to absorb light, lowering absorbance. We expected to see lower absorbance in the conditions we thought would favor light dependent reaction activity however this was not the case. As is displayed in figure 1 all the samples that had both chloroplast and DCPIP added had near identical mean absorbances at each time interval, following a similar path on the chart. We can see there was activity in the light dependent reaction as displayed in figure 2 because the sample with no chloroplasts added followed a much different path. While this control’s mean absorbance did go down over time this is most likely due to the DCPIP spontaneously forming DCPIPH2 on its own heading towards equilibrium. While reactions usually occur at a slower rate in colder conditions, our data does not show this to be the case in the light dependent reactions in the chloroplast. Some other studies find temperature has an effect on photosynthetic rate, with increased temperature to a point causing greater photosynthesis [Gaastra:1959]. However, these studies were conducted on the whole plant, not just the light dependent portion of the photosynthetic process. Other sources suggest that the light dependent reaction is not affected by temperature [Rechitt]. This can be explained by the limiting factor in the light dependent reaction being the light to move the electron, preventing temperature from having an effect on rate. Other studies found that temperature affects photosynthesis because they included the light independent reaction which is indeed impacted by temperature [Jones:1973]. While in our experiment temperature did not affect photosynthetic rate in the light dependent reaction, if light became abundant and no longer a limiting factor temperature becomes a limiting factor in the reaction [Nolan:1980] In future studies this experiment should be repeated but put under a much more intense light for the duration. The absorbance of our cold samples may have been affected by the samples fogging up during the spectrophotometer run, this can be avoided by keeping the cold samples above 0oC. 
+
+
+Literature Cited:
+Work Cited
+
+Berry, Joseph. 1980. “Photosynthesis response and adaptation to temperatures in higher plants.” Carnegie institution of Washington.
+Gaastra, P. 1959. “Photosynthesis of crop plants as influenced by light, carbon dioxide, temperature, and stomatal diffusion resistance”
+Jones, Hamlyn. 1973. “Limiting Factors in Photosynthesis.” Austrilia National University.
+
+Nolan, William. 1980. “Effect of Temperature on Electron Transport Activities of Isolated Chloroplasts.” Georgia State University.
+
+
+Rechitt http://www.rsc.org/learnchemistry/content/filerepository/CMP/00/001/068/Rate%20of%20photosynthesis%20limiting%20factors.pdf
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=biolab+pic1.png&Size=59164&Type=image%2Fpng&F=F_1hEhZZag23JJDqK
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=biolabpic2.png&Size=26230&Type=image%2Fpng&F=F_1MM5gIlib2MWU8u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+fig 1 title:The absorbance of four sample groups over a time of 30 minutes 
+Figure 1 shows: This figure shows a relation between the absorbances of our four sample groups  in relation to time, when placed under several temperature variable conditions, measured every ten minutes for a total of thirty minutes. 
+
+fig 2 title:Bar graph showing the difference between four sample groups and their relative times
+Figure 2 shows : This set of bar graphs describes a comparison between the absorbances relative to the times for each groups. The numbers on the x axis describe the groups, as seen in the legend in Fig. 1. 
+
+After running an ANOVA test, with a degrees of freedom of three, and an alpha of .05, we can see that the f-ratio value is 0.80486. The p-value is 0.514973. 
+Turkey HSD ANOVA:
+No Significant difference between any two groups 
+*************************************************************************
+
+
+

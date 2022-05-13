@@ -1,0 +1,91 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-24 14:15:49
+Author of this lab report is: Std_TWjE3s3j
+ID: R_SUHQkABXVaAoftv
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Effects of Light on C3 and C4 Plants Chloroplast Activity
+
+Abstract:
+Plants make up a large part of almost every ecosystem in the world, and produce much of the oxygen in the world. However, without light plants would have no way to produce energy, as they rely on photosynthesis. There are slight differences in the ways that plants use photosynthesis, and C4 plants are generally more efficient in producing energy than C3 plants due to one extra step before the Calvin cycle. To test the differences in efficiency of C3 and C4 plants, four trials were run. Two were run on a C3 plant(Spinacia oleracea) and two were run on a C4 plant(Chrysanthemum idicum). One trial was in the dark and one was exposed to light for each plant. Using DCIP and spectrophotometry, the average efficiency of the chloroplasts could be measured, and using a two way anova, these results were analyzed. It was found that none of the trials had a significant effect on photosynthetic rates in chloroplasts. These results suggest that neither light exposure or difference between C3 and C4 plants had any effect on photosynthetic rates.
+Keywords: photosynthesis, Chrysanthemum idicum, Spinacia oleracea, DCIP, spectrophotometry
+
+Introduction:
+Every organism needs energy in order to survive, however, there are a variety of different ways in order to obtain this energy. Plants produce their energy through the process of photosynthesis. Photosynthesis uses six carbon dioxide atoms, 12 water molecules, and sunlight in order to produce a glucose molecule, six water molecules and 6 oxygen atoms [Johnson, 2016]. While sunlight is not a compound that is directly goes into a photosynthetic reaction, without sunlight photosynthesis could not occur. This is well known, and it has been well studied that higher exposure to sunlight will result in more chloroplast activity, leading to more plant growth [Dana, 2010]. This conversion is done through a variety of oxidation-reduction reaction which produce proton gradients which then can drive the synthesis of ATP. Transferring high energy electrons onto carrier electrons such as NAD+/NADH and NADP+/NADPH then can allow electrons to be stored and used for other reactions. While all plants use some variety of photosynthesis, different plant types have slightly different photosynthetic processes. 
+Two major different types of plants are C3 plants and C4 plants. C3 plants are much more common than C4 plants, representing about 95% of plants on earth. C3 plants are plants such as trees, beans and wheats. C4 plants are plants such as corn, grasses, and sugarcane. C4 plants tend to be better at surviving in hotter and drier climates than C3 plants. This is because C4 plants are typically more efficient in creating energy than C3 plants [Zhu, et. al, 2008] thanks to having one extra step before the Calvin Cycle, which helps to reduce the carbons lost in the entire process. This difference in efficiency between C3 and C4 plants means that if the same number of chloroplasts are compared between the two types of plants the C4 plants should photosynthesis faster and more efficiently.
+For our lab experiment we wanted to test the differences in photosynthetic activity between these C3 and C4 plants. We used Spinacia oleracea, better known as spinach as our C3 and Chrysanthemum idicum, better known as a chrysanthemum as our C4 plant. To test these plant’s photosynthetic efficiencies we used 2,6-dichlorophenolindophenol (DCIP). DCIP was used as an alternative electron acceptor. DCIP is blue before it gains electrons and after it gains electrons it becomes clear [Ernster, 2004]. Because of this, you can use spectrophotometry before and after an experiment with DCIP you can find a percent change in the color of the liquid, therefore determining how efficiently photosynthesis is occuring. For this reason, we hypothesized that since photosynthesis cannot occur without sunlight, chloroplasts cannot complete photosynthesis in a dark drawer and will therefore have a higher percent change in absorbance than chloroplasts that are exposed to sunlight. Additionally, we hypothesized that because C4 plants are more efficient in photosynthesizing than C3 plants, the Chrysanthemum idicum samples would react with DCIP to create a clearer liquid, and a higher percent change in absorbance than Spinacia oleracea.
+
+Materials and Methods:
+We began this experiment by acquiring a C3 plant, Spinacia oleracea, and a C4 plant, Chrysanthemum idicum. Leaves were taken from the plants, about 4 medium leaves of Spinacia oleracea, and about a dozen leaves of Chrysanthemum idicum. The Spinacia oleracea leaves were deveined and washed and added to a cold mortar and pestle, while the Chrysanthemum idicum were simply added to a cold mortar and pestle. 10 mL of grinding buffer was added to each mortar and pestle, and the leaves were carefully ground into a thick paste. When a thick paste was achieved, 10 mL more grinding buffer was added and mixed in. The Spinacia oleracea mixture was then strained through a folded cheesecloth, and the same was done for the Chrysanthemum idicum. Both mixtures were then placed into centrifuge tubes, and spun for 3 minutes at 4 degrees celsius at a rate of 200xG. The supernatants were then poured into new tubes, and the pellets were discarded. The supernatants were then centrifuged again, but at 1000xG for 10 minutes at 4 degrees celsius. The supernatants were then discarded in order to obtain the pellets which contained the chloroplasts of the plants. These pellets were then diluted with 20 mL of grinding buffer and carefully mixed with a micropipet. Then, 14 test tubes were set up and numbered in two sets of 1-7. Both test tube 1s were used as controls and 8mL of water were added to each. Then, 2mL of reaction buffer were added to every tube including the controls. Then, 2mL of 130mM DCIP were added to every test tube except for the controls. Finally, 100 microliters of the Chrysanthemum idicum liquid was added to 2-7 of the first set of test tubes and 100 microliters of the Spinacia oleracea liquid was added to 2-7 of the second set of test tubes. The absorbance for all tubes were then measured with a spectrophotometer set at 600 nm. Results were recorded, and test tubes 2-4 for each group were placed by a window while test tubes 5-7 were placed in a dark drawers, and the controls were left on the table. After 30 minutes, the absorbances were measured and recorded again and percent changes in absorbance were calculated before the results were analyzed with a two-way anova test.
+
+Results:
+As can be seen in figure 1, the average percent change for the control for Spinacia oleracea was 
+-1.79%±0.00.
+
+As can be seen in figure 1, the average percent change for the light exposed group of Spinacia oleracea was -0.18%±0.043.
+
+As can be seen in figure 1, the average percent change for the Spinacia oleracea in the dark was 
+-1.18%±0.004.
+
+As can be seen in figure 1, the average percent change for the control for Chrysanthemum idicum was -5.88%±0.00.
+
+As can be seen in figure 1, the average percent change for the light exposed group of Chrysanthemum idicum was 1.09%±0.01.
+
+As can be seen in figure 1, the average percent change for the Chrysanthemum idicum in the dark was 0.41%±0.024.
+
+	When interpreting the results of this experiments a two way anova test was used. The results of this anova proved to be insignificant for both light and dark tests (df=1, p=0.587) and C3 and C4 tests (df=5, p=0.613). This means that keeping the samples in the sunlight or in a dark drawer yielded no difference in photosynthesis rates of chloroplasts. This also means, that Chrysanthemum idicum and Spinacia oleracea had no difference in photosynthesis rates in their chloroplasts.
+
+
+Discussion:
+When it came to our experimental results, we found that light exposure and dark drawers didn’t have a significant effect on photosynthesis rates. Our experimental results also showed no significant difference between photosynthesis rates of C3 plants(Spinacia oleracea) and C4 plants(Chrysanthemum idicum). These results meant that in all trials clarity of the chloroplast and DCIP solution were not different enough to prove that any conditions had a non-random effect on the photosynthetic rates of the chloroplasts.
+	These results rejected both of our hypotheses. This meant that there were no correlations between light exposure to chloroplasts, or the different types of plants chloroplasts used. However, there were not a large amount of trials done in this experiment, and the time for the total experiment was only 30 minutes in total. This means that there are possibilities for inconsistencies in our experiment.
+	These results were not what we had expected them to be for either trial, but this could have simply been contributed to experimental error. While our experiment was done with as much precision as possible, there were a variety of factors we could not control for completely. For instance, while we attempted to use the same amount of leaves from each species, we were not able to make sure that each sample had the same number of chloroplasts, which could have skewed our results completely. Additionally, our trials were only run for 30 minutes, a time period which may not have been completely sufficient for our experiment to run to completion, and we only had three test tubes per trial, a relatively small sample size. Finally, the sun was not shining particularly brightly on the day of our experiment, which could have led to lower chloroplast activity in light exposed trials than we had hoped for.
+	While our prediction that C4 plants should have a greater percent change in absorbance than C3 plants would due to their more efficient photosynthesis processes had not been previously studied by us, the effects of light vs dark on photosynthesis we had already tested and had been studied extensively. From our experiments the week before and established research we know that photosynthesis cannot occur in the dark, and therefore samples exposed to light would have higher photosynthetic rates than samples kept in the dark. However, for our experiment we did not see significance for light vs dark trials. This result essentially removes credibility from our experimental trials between C3 and C4 plants. If we had gained significant results in light vs dark trials, then we could take our C3 and C4 trials more seriously.
+	While this experiment was insignificant, research about past experiments between the difference between C3 and C4 plants have turned up interesting results. A study similar to ours looked at photosynthetic rates of C3 and C4 plants when exposed to high CO2 conditions. This study found that C3 plants had higher photosynthetic rates in these elevated CO2 conditions [Wand, et al., 2001]. However, another study looked at photosynthetic rates in C3 vs C4 plants in elevated temperatures, and found that C4 plants had higher photosynthetic rates in these elevated temperatures [Sage and Kubien, 2007]. These results suggest conflicting ideas. While it is generally known that C4 plants are more effective in photosynthesis than C3 plants are, rising temperatures due to global warming could cause changes in ecosystems [Kramer, et al., 2001]. While studies we found suggested that C4 plants should do better in rising temperatures, studies also suggested that C3 plants should do better in rising CO2 levels. These results could be compared with what we know about photosynthetic efficiencies in these plants in order to create accurate predictions of what the earth will look like in terms of plant survival in the future.
+	The ideas we studied can also be used for current broader uses. For instance, if we had found what we had expected to find, which is that C4 plants photosynthesize more quickly and efficiently, we could make suggestions to farmers for a couple of things. First, we could explain to farmers which crops will bring them the highest yields the most quickly. This idea could allow farmers to increase their yearly incomes. Another extremely important outcome would be in feeding the rising populations of earth. We are on pace to be unable to grow enough food on earth to feed the world population. If we can understand how different types of plants react to different temperatures and CO2 levels, we could analyze the best places to plant either C3 or C4 plants to maximize crop production to feed our growing populations. While more research would need to be done to pinpoint these growth and photosynthetic levels around the world, it is an idea which may be crucial in the future.
+
+
+Literature Cited:
+Cramer, Wolfgang, et al. “Global Response of Terrestrial Ecosystem Structure and Function to CO2 and Climate Change: Results from Six Dynamic Global Vegetation Models.” Global Change Biology, Wiley/Blackwell (10.1111), 21 Dec. 2001, onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2486.2001.00383.x.
+
+Dana, Michael N. “Michael N. Dana.” HortScience, 1 Dec. 2010, hortsci.ashspublications.org/content/45/12/1912.full.
+
+Ernster, Lars. “[56] DT Diaphorase.” ScienceDirect, Academic Press, 7 Jan. 2004, www.sciencedirect.com/science/article/pii/0076687967100591.
+
+1. Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+
+SAGE, ROWAN F., and DAVID S. KUBIEN. “The Temperature Response of C3 and C4 Photosynthesis.” Plant, Cell & Environment, Wiley/Blackwell (10.1111), 15 June 2007, onlinelibrary.wiley.com/doi/full/10.1111/j.1365-3040.2007.01682.x.
+
+Wand, Stephanie J. E., et al. “Responses of Wild C4 and C3 Grass (Poaceae) Species to Elevated Atmospheric CO2 Concentration: a Meta‐Analytic Test of Current Theories and Perceptions.” Global Change Biology, Wiley/Blackwell (10.1111), 24 Dec. 2001, onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2486.1999.00265.x.
+
+Zhu, Xin-Guang, et al. “What Is the Maximum Efficiency with Which Photosynthesis Can Convert Solar Energy into Biomass?” Current Opinion in Biotechnology, Elsevier Current Trends, 18 Apr. 2008, www.sciencedirect.com/science/article/pii/S0958166908000165.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+2.14.55+PM.png&Size=114287&Type=image%2Fpng&F=F_24ibVF9GWuSOfAG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Bar graph of average percent change of absorbance for each trial run over 30 minutes, with error bars representing standard deviations in data. Abbreviations stood for the following: So in D= Spinacia oleracea in the dark, So in L=Spinacia oleracea in the light, So b=Spinacia oleracea blank, Ci in D=Chrysanthemum idicum in the dark, Ci in L=Chrysanthemum idicum in the light, Ci b=Chrysanthemum idicum blank.*************************************************************************
+
+
+

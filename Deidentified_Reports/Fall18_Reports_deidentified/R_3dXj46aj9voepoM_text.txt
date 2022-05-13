@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-07 17:14:03
+Author of this lab report is: Std_LY6pMZc3
+ID: R_3dXj46aj9voepoM
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of Temperature on the Rate of Photosynthetic Reduction in Spinach, Spinacia oleracea
+
+Abstract:
+Photosynthesis is the process that plants undergo using light energy to convert carbon dioxide and water into glucose and oxygen to later create ATP that provides the plant with energy. Photosynthesis occurs in the chloroplasts of the cell, which we extracted and analyzed to test the effects of temperature on the rate of photosynthetic reduction. We hypothesized that the photosynthetic rate will be higher in warmer conditions (36C) and lower in colder conditions (-2C). To test our hypothesis, we used chloroplasts from the leaves of spinach, Spinacia oleracea, and used a spectrophotometer to analyze the changing absorbances of light as it passed through the chloroplasts over a 30 minute interval. The absorbances of our four groups, warm-experimental at 36C, cold- experimental at -2C, room temperature-control at 23C, and no chloroplasts-negative control at 23C, resulted in a p-value of 0.51497. This value showed no statistical difference between the groups and reflected that our results were insignificant. We therefore concluded that temperature does not have a significant effect on the rate of photosynthetic reduction in spinach.
+
+Introduction:
+All organisms have cellular processes to generate and use energy for functions that help them maintain homeostasis. Photosynthesis is one of the most important of these processes, as plants provides fuel and food for animals as well as oxygen to breathe. Photosynthesis is the cellular process that plants use to capture solar energy to later create highly useful ATP that powers cell functions. Photosynthesis occurs in a three-stage process: the light-dependent reactions, which uses photons to generate NADPH and drives ATP synthesis, and the light-independent reactions which uses NADPH, ATP, and carbon molecules to create glucose as well as oxygen as a by-product [Johnson: 2018]. In this lab, we tested to see the effects of temperature on the rate of photosynthetic reduction of our spinach plant subject, Spinacia oleracea. We wanted to see if the various seasons, climates, and temperatures that spinach live in had an effect on its photosynthetic rate, growth, and development. Spinach leaves were used for our lab because they are a common and extremely versatile plant used for many as a food supply and because their chloroplasts are relatively easy to extract. Not only that, but the chloroplasts of spinach are rich with the green pigment chlorophyll that make them good subjects to visually test [Rabinowitch: 1951].
+
+We were able to measure the absorbance of the light (via wavelength) through a spectrophotometer to track the chloroplasts’ activity and give us an idea of the overall rate of photosynthetic reduction within a specified chloroplast. We used DCIP as the electron acceptor in Hill Reaction for our spectrophotometer tests. The oxidized DPIP is originally a dark blue liquid. As the reaction in the test tube progresses and the chloroplasts photosynthesize, the DCPIP is reduced and becomes clear. The absorbance in the spectrophotometer decreases as the photosynthetic reduction increases via an inverse relationship. This means that a lower absorbance can be attributed to a higher rate of photosynthesis, which was key to our analysis in this experiment. 
+
+A similar test was done with lettuce leaves in which temperature was the independent variable to experiment with photosynthesis. This study found that the function of the electron transport chain was slower in conditions below 5C, causing a lower photosynthetic rate [Kana: 1977]. For our experiment, we hypothesized that the photosynthetic rate will be highest in warmer conditions (36C) and lowest in the colder conditions (-2C). Thus, we predict that the absorbances for the warmer sample group with have the lowest average absorbances and the colder conditions will have the highest. The independent variable is experimental temperature, while the dependent variable is the absorbance of light that changes with the temperature. 
+
+
+Materials and Methods:
+We measured the rate of photosynthesis indirectly by measuring the absorbances of the various solutions in a spectrophotometer at 600 nm. To begin our experiment, we removed and discarded the central vein from 5 large spinach leaves that were given to us by our TA. These leaves served as the source of chloroplast that we were analyzing. We added 20 mL of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) to a mortar and pestle and fringed the spinach until it was a thick paste with no large chunks of visible leaves. Then, we strained the paste through cheesecloth and collected the liquid in a centrifuge tube. This tube underwent a round of differential centrifugation at 1200 rpm for 3 minutes followed by a second round at 2800 rpm for 10 minutes. This gave us the enriched chloroplast solution we used for the next steps in our experiment.
+
+We ran 3 replicants for each of our conditions and experimented with a total of 13 test tubes that can be summarized as such: tube 1 was a blank, tubes 2-4 had no chloroplasts at 23C, tubes 5-7 were at 23C (room temperature), tubes 8-10 were at 36C (warmer conditions), and tubes 11-13 were at -2C (colder conditions). Each test tube was filled with 6 mL of water except for tube 1 (blank) which was filled with 8mL of water. To the assay, we added 100 μl of the enriched chloroplasts we prepared earlier to tube 1, and to tubes 5-13. Tubes 2-13 had 6 mL of water, 2 mL of reaction buffer (100 mM phosphate, pH 6.5), and 2 mL of 130 mM DCIP. We were now able to quantify photosynthetic reduction activity by placing each tube into their assigned condition, placing a heat lamp over all conditions, and reading their absorbances on a spectrophotometer.
+
+Once the chloroplasts were added to each tube, we immediately blanked the spectrophotometer at 600 nm using tube 1 and recorded the absorbances of tubes 2-13. Each tube was then placed in their assigned conditions and a timer was set. After 10 minutes, we blanked the spectrophotometer again with tube 1 and recorded the absorbances for tubes 2-13. This step was repeated again after 20 minutes and 30 minutes to give us 4 total times of data points for all 12 samples. We ran an ANOVA test on our collected and averaged absorbances to compare the differences between the mean values of our 3 groups with an alpha value of 0.05 and 3 degrees of freedom. We then obtained feedback via Tukey-Kramer post-hoc analysis to see if the results of our experiment were significant.
+
+Results:
+The specific differences in each group’s average absorbances relative to their respected times in the experiment were displayed and the mean and standard deviations for percent change in absorbance as seen in Figure 1 were as follows: Group 1: 0.175±0.142, Group 2: 0.078±0.134, Group 3: 0.083±0.118, and Group 4: 0.064±0.124. Group 1 had absorbances that remained consistently above the other 3 groups. Group 3 exhibited a noticeable spike from -.026 to 0.049 between the 10 and 20 minute intervals (Figure 1). All groups had consistently higher absorbances at time 0, and group 1 had higher absorbances at 10 minutes, 20 minutes, and 30 minutes when compared to the other 3 groups (Figure 1). Groups 2-4 had similarly low absorbances at 10, 20 and 30 minutes (Figure 1). The ANOVA test that was performed (alpha value of 0.05) showed that the absorbances in our results were statistically insignificant and did not show any statistical difference. (f-ratio value=0.80486, df=3, p-value=0.514973). Our Tukey-Kramer post-hoc analysis further told us that there was not any statistical significance between any of the 4 groups tested. These tests confirm that our results were insignificant.
+
+Discussion:
+We hypothesized that the chloroplasts in the warmer conditions (36C) would have the highest photosynthetic rate of reduction and that the colder conditions (-2C) would have a clear and significantly lower photosynthetic rate of reduction in comparison. After analysis of our absorbances it is clear that our hypothesis was not supported by the data obtained from our experiment. The data shows that all of the groups followed a mean absorbance trend that was far from significantly different, as shown by our statistical tests.
+
+We can infer from this data that temperature did not have the desired effect on the rate of photosynthesis that we had predicted. In an experiment done previously, it had been concluded that the difference in temperature restricted and slowed the electron transport chain in chloroplasts when tested at 0C [Reynaud: 2003]. This experiment primarily analyzed the effects at colder temperature with no drawn conclusions about the warmer conditions. Our results, however, did not receive the same results and the synthesis of hydrogen for DCIP H2 in the electron transport chain was not affected in the colder conditions. In another similar experiment testing extreme temperature differences at 65C and -5C, it was concluded that temperature had a marked effect on photosynthesis and the cold temperature had lower rates [Marsh: 1986]. In a biological context, our results could indicate that spinach leaves are not easily affected by a change in temperature or that the temperature must be very cold or very hot for noticeable difference in rates. Despite results from previous experiments and knowledge of photosynthesis, our hypothesis was rejected due to insignificant data throughout the entire experiment.
+
+To improve this experiment in the future, we must be particularly careful with the spectrophotometer to ensure accurate readings and results. During our experiment we noticed that the differing cold and warm temperatures would cause the tubes to fog, which caused the readings to rise randomly due to the hindering of light reading in the tube. We did our best to account for this error, but it still serves to believe that this was something that would have affected our data. Particularly, it can be one explanation as to the spike shown in group 2 between 10 and 20 minutes.
+
+This study was important because of how dynamic and versatile the spinach leaf is for the diet of humans and animals. The rich and easily extractable chloroplasts in spinach were vital in making this experiment work, and this lab would not have worked if our sample was not fully condensed and pure. This experiment could be extended by testing chloroplasts from other staple vegetables of the human diet such as lettuce and tomato plants as long as a sufficient samples of chloroplasts could be taken [Rabinowitch: 1951]. Photosynthesis is one of the most important biological processes on earth, and any study of its affects and/or how to influence its rate can have beneficial information for the scientific world.
+
+
+
+Literature Cited:
+Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (2018)
+
+Kana TM., Miller JH. Effect of Temperature Variant and Colored Light on Stomatal Opening Rates of Vicia faba L. American Society of Plant Biologists. (1977)
+
+Reynaud, Stephanie, Jean Jaubert, and Jean-Pierre Gattuso. Interacting Effects of Temperature on Photosynthesis and Calcification in a Scleractinian Coral. Global Change Biology 9.11 (2003)
+
+Rabinowitch E. Photosynthesis. Annual Review of Physical Chemistry. Dept. Botany, University of Illinois, Urbana, IL. Vol. 2. (1951)
+
+Marsh, James A., William C. Dennison, and Randall S. Alberte. Effects of Temperature on Photosynthesis and Respiration in Eelgrass (Zostera Marina L.). Journal of Experimental Marine Biology and Ecology 101.3 (1986)
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-07+at+5.09.33+PM.png&Size=42887&Type=image%2Fpng&F=F_2CTXz49CtwuYryG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Difference in Absorption at Different Times
+This set of bar graphs displays the average absorbances over 30 minutes at 4 distinct intervals for our 4 groups. The error bars shown represent 1 standard deviation for respected values (0.142, 0.134. 0.118, 0.124) for groups 1-4, respectively (f-ratio value=0.80486, df=3, p-value= 0.514973.)
+*************************************************************************
+
+
+

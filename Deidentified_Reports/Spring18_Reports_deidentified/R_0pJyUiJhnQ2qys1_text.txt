@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 11:47:10
+Author of this lab report is: Std_PAvxqrbz
+ID: R_0pJyUiJhnQ2qys1
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The effect of K+ channel blocker TEA on muscle contraction in a Rana pipiens leg
+
+Abstract:
+The purpose of this experiment was to test the effects of a potassium channel blocker on the muscle contractions of the Rana pipiens gastrocnemius muscle. The used blocker was Tetraethylammonium (TEA) and it was injected into the muscle. To stimulate muscle contractions, a pair of electrodes was attached to the siatic nerve of the leg to measure generated contractions with an iWorks device. We hypothesized that the leg would experience prolonged contractions compared to the control group as well as longer periods of relaxation due to the achievement of fatigue. The results we obtained were statistically significant because the addition of the blocker displayed increases in contraction and relaxation phases.
+
+Introduction:
+In this experiment, we tested the reaction of a Rana pipiens leg when injected with a K+ channel blocker. The goal of this lab was to observe the difference in contraction in the frog leg after stimulation. When the muscle is stimulated, both the neurons and muscles work together to produce a reaction. First, a stimulus is presented and an action potential is send through the neurons to the muscle junction. Depolarization of the cells begins and an action potential is achieved. Once the AP is achieved, an influx of Na+ depolarizes the cell leading to the opening of potassium channels to repolarize it. Once it arrives, calcium enters the axon after being released by the sarcoplasmic reticulum, causing acetylcholine to be released and this binds to the muscles fibers. Myosin then begins to bind to actin fibers to begin contraction. If this repolarization doesn’t happen, the muscles experiences uncontrollable spasms until fatigue [Lotshaw: 1997]
+Muscle contractions are separated into three period which are the latent, contraction, and relaxation period. The latent period is the time from when the stimulus is delivered to the first indications of contraction in the muscle. The contraction period, is the time it takes the muscle to reach its peak contraction after the latent period. The relaxation period is the time the muscle takes to return to resting tension after reaching its peak contraction [Silverthorn: 2010] For this experiment, we hypothesized that by injecting tetraethylammonium chloride (TEA) into the gastrocnemius muscle in the leg of a Rana pipiens, the muscle to go into more intense contractions, or cramp, until ATP is expended and the muscle goes into a delayed fatigue in comparison to the control. The reason for this is the inability for K+ to enter and repolarize the neuron [Armstrong:1971]. 
+
+
+Materials and Methods:
+We used 3 Rana pipiens frog legs that were skinned and cut to expose the gastrocnemius muscle. We then tied the muscle on a string and then hung it up perpendicular to the surface on a force transduction machine. After this, we pinned the leg down to stabilize it before connecting the data acquisition machine (iWork) and two electrodes were placed under the sciatic nerve to send the stimulus. We utilized labscribe with the settings at 0.8 V generated at 0.5 Hz for 5 pulses. We performed stimulations before injecting the potassium blocker, TEA, to measure the twitch duration (when the muscle contracted) and relaxation period (when the muscle wasn’t contracted). After the preliminary tests, we injected 0.1 mL of TEA into the gastrocnemius, again, recording twitch duration and relaxation period. After, we found the average for both tests and standard deviation to perform a paired t-test to analyze our results. 
+
+Results:
+In figure 1, we can see the large difference between the two graphs displaying the control and the test groups. The averages we observed were 335.6 ms39.88 ms relaxation time in the control group versus 1030 ms138.88 ms relaxation time in the test group. Lastly, the p-value for the relaxation values was 0.011 which shows that our data is statistically significant.
+
+Here in figure 2, we again see a large difference in the distribution between the control and the test group. The average twitch duration for the control group was 432.78 ms62.36 ms while the test group was 1151.67 ms136.84 ms. Lastly, the p-value for these results was 0.0096, which shows that our data is statistically significant
+
+Discussion:
+According to the data we see broad differences between the test performed with TEA and the test performed without TEA for both relaxation and twitch duration. These claims are backed up by the gap between averages and standard deviations within the two groups. The reason for this is when the TEA is added, it blocks the potassium channels which inhibits the neurons ability to repolarize itself leading to the longer contractions. Also, we see the long relaxation periods experienced by the TEA injected tests because when the muscle contracts and hits fatigue, it takes time for the muscle to finally contract again. According to the p-value, both of these were statistically significant. The p-value for the twitch results was 0.0096 and for relaxation it was 0.0109. Both of these are under the 0.05 significance test showing that if we were to repeat the experiment, the probability the values we obtained were by chance. The results we got further support our hypothesis that the injection of TEA will lead to the muscle experiencing uncontrollable spasms and them only ceasing once fatigue has been reached
+
+Literature Cited:
+David P. Lotshaw; Effects of K+ Channel Blockers on K+ Channels, Membrane Potential, and Aldosterone Secretion in Rat Adrenal Zona Glomerulosa Cells, Endocrinology, Volume 138, Issue 10, 1 October 1997, Pages 4167–4175
+
+C. M. Armstrong (1971). "Interaction of tetraethylammonium ion derivatives with the potassium channels of giant axons." J. Gen. Physiol. 58 413-437
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+11.41.20+AM.png&Size=33274&Type=image%2Fpng&F=F_1psPuk3WbSbJBsY
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+11.41.14+AM.png&Size=47458&Type=image%2Fpng&F=F_1Q6G95yAdD07mGb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Relaxation Time of gastrocnemius muscles before and after TEA injection
+Figure 2: Twitch durations of gastrocnemius muscles before and after TEA injection
+
+*************************************************************************

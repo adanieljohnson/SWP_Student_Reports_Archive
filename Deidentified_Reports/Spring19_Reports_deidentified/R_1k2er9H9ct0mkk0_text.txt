@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-03 16:06:04
+Author of this lab report is: Std_arYTb8f6
+ID: R_1k2er9H9ct0mkk0
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Effect of Sevin on Rate of Tetany in Neuromuscular Control of Rana pipien.. 
+
+Abstract:
+The Rana pipien frog’s neuromuscular system functions due to a series of internal action potentials which release muscle contractions. These action potentials occur due to a releasing of acetylcholine, therefore, when acetylcholine is blocked acetylcholine cannot be broken down and the channels remain open, keeping the muscle in a constant state of high contraction. This lab-tested the effect of muscle contractions on the Rana pipien frog’s gastrocnemius muscle when using an acetylcholinesterase inhibitor(sevin). Muscle contractions were measured (Frequency) before and after the injection of acetylcholinesterase inhibitor at 1 Hz. It was hypothesized that if the acetylcholinesterase inhibitor (sevin) is injected into Rana pipien Frog’s gastrocnemius muscle, it will reach tetany sooner at a lower frequency. The alternative hypothesis was accepted by the outcome of the experiment and the statistical analysis determining there were significant differences. It was concluded that sevin did cause to reach tetany Sonner at a lower frequency. 
+
+Introduction:
+This experiment will examine the stimulus, response, work summation, and tetanus in a frog’s leg muscle. The objective is to demonstrate the basic properties of neuromuscular control using the gastrocnemius muscle and sciatic nerve of a Rana pipien frog. This is a northern leopard frog which is typically a slim green or brownish color. There are thousands of myofibers, cylindrical multi-nuclear, fused aggregates of cells, in the skeletal muscle of both vertebrates and invertebrates. These myofibers bound together, forming the skeletal muscle proper, which are innervated by motor neurons. The axons of these motor neurons extend and branch out the muscular junction. After these motor neurons are stimulated for a sustained period of time, stimulation of presynaptic nicotinic receptor directs acetylcholine release needed to maintain tetany [Clarks: 2018]. Therefore, the nerve muscles at the junction release acetylcholine which bind with receptors to release sodium channels, triggering the action potential which releases calcium from the sarcoplasmic reticulum. This release of calcium is what transmits the contractile mechanism of muscle fiber. These muscular contractions can be measured and seen through the use of myograms (graphical recording of muscle activity). Electrophysiology (EP) recording device will be used to monitor the contraction frequency of the muscle. We will be using sevin which is an acetylcholinesterase inhibitor that is often used home gardens and commercial agriculture. We hypothesized that if the acetylcholinesterase inhibitor (sevin) is injected into Rana pipien Frog’s gastrocnemius muscle, it will reach tetany sooner at a lower frequency. 
+
+Materials and Methods:
+Three Rana pipien frog legs of the were used for this experiment. The skin on the frog legs was removed using hands and forceps then placed separately from the frog legs on the dissection pan. Then we used the dissection probe, we separated the inner thigh, we began at the upper thigh muscle and extended to the lower muscle. We separated the sciatic nerve from its attached connective tissue by using a dissection needle and forceps. We kept the exposed tissue of the frog legs moist throughout the experiment by using frog ringers, without drowning the tissue. Then we connected the frog leg to the Lab Scribe software. We used the simulator on Lab Scribe, we determined the frequency, and we set the threshold stimulus at 1volt. We also set the stimulus parameters at 1V, the frequency was increased, a pulse width to 5ms, and the number of pulses to 1. We applied these parameters and we recorded the results. We repeated these steps for all 3 legs as the control group. Then for the experimental group, we injected the gastrocnemius muscle with 0.1 mL of sevin and add 1 drop on the sciatic nerve. We waited 3 minutes before measuring the voltage, then we applied the parameters and recorded the results. We repeated these steps for all 3 legs as the experimental group. We reordered and analyzed the average voltage by using a two-tailed paired t-test.
+
+Results:
+We used a paired t-test to analyze the results of our experiment. Based on this statistical test (t-stat=751, df=2, p=1.77×10-6), the treatment group reached tetany at a statistically significantly faster rate than the control group. For the treatment group frog legs, 2 and 3 reached tetany at 12.5 Hz, which were faster than frog leg 1 at 17.5 Hz. For control group Frog legs 2 and 3 reached tetany at 15Hz. Therefore, they reached tetany sooner than frog leg 1 that reached tetany at 20Hz. Figure 1 Shows the difference between each group reaching tetany at a different frequency. 
+
+Discussion:
+We hypothesized that if the acetylcholinesterase inhibitor (sevin) is injected into Rana pipien Frog’s gastrocnemius muscle, it will reach tetany sooner at a lower frequency. Based on the statistically significant result, it can be concluded that the alternative hypothesis was accepted, and the null hypothesis was rejected because complete tetany was reached sooner in the treatment group than the control. Sevin is an acetylcholinesterase inhibitor. Therefore, acetylcholine cannot be broken down and the channels remain open, keeping the muscle in a constant state of high contraction. So, it reaches tetany at a lower frequency due to fatigue [Tasaki: 1952]. There was a decrease in frequency in the experimental group because the acetylcholine was blocked due to the injection of sevin. When acetylcholine was blocked and unable to release from the vesicles, it was unable to bind to post-synaptic receptors and the enzyme was unable to break down the acetylcholine. We observed a statistically significant result, which suggests that the increase of acetylcholinesterase inhibitor (sevin) did significantly cause to reach tetany Sonner at a lower frequency. This is due to acetylcholinesterase being unable to attach to the binding site, so it cannot detach the acetylcholine from the sodium channels. Thus, the channels stay open and the muscle sites contracted. The lab found that the frog legs that were larger resulted in higher frequency in comparison to the smaller ones. This occurred due to the amount of sevin in the larger legs being more concentrated than those in the smaller legs. The overall experiment proved to be statistically significant which means the experiment will need to be done again due to there being a difference in the data. With this experiment, scientists can also further their research with muscle contractions by doing a similar experiment on other species. Learning about muscle contractions and the use of sciatic nerve can also help us better understand how to distinguish tetanic seizers in the human body [Tasaki: 1952]. This research is an invaluable part of finding the cure to the condition.
+
+Literature Cited:
+1.Clarks C. 2018. Nicotinic Antagonists (Skeletal Muscle Relaxants & Ganglionic Blockers), TUSOM.      
+ 2.Tasaki I. 1952. Properties of Myelinated fibers in frog sciatic nerve and in spinal cord as examined with micro-electrodes. PubMed 3: 73-94      
+3. Johnson AD. 2018. Neuromuscular Control. Comparative Physiology BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2019-04-03+%282%29.png&Size=16984&Type=image%2Fpng&F=F_51tfi1owlyWLPTr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. the average frequency (Hz) of muscle responses from the three frog legs with the control group and the experimental group.*************************************************************************
+
+
+

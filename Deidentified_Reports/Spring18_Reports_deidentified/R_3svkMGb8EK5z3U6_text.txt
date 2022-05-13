@@ -1,0 +1,97 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-04 11:22:56
+Author of this lab report is: Std_oUc2CEWc
+ID: R_3svkMGb8EK5z3U6
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: Effects of 640nm and 470nm Light on the Photosynthetic Rate of Chard and, Chickweed
+
+Abstract:
+Photosynthesis can be affected by many different environmental factors such as, amount of sunlight, wavelength of light, and the presence of an herbicide. Studies have shown that LED lights present potential for improving plant growth and making practices more sustainable. It is hypothesized that if samples of chard, and chickweed are exposed to lights with wavelengths of 640 or 470 nanometers, photosynthetic rates will be elevated. Using differential centrifugation, the chloroplasts of chickweed and chard was isolated and treated using the Hill reaction assay method. It was found that chickweed had one significant elevation of photosynthetic rate at thirty minutes treated with 640nm light while chard did not have single significant change at any intervals at either 640nm or 470nm light. The data collected from this experiment did not support the original hypothesis. Future experiments on wavelength effects on photosynthetic rates should employ a better method of isolating the chloroplasts.
+
+
+Introduction:
+This experiment is focused on photosystem II in plants because energy from absorbed light cause electrons to leave the chlorophyll and move to the high-energy electron carrier. This exchange of electrons and how it changes in lights with different wavelengths using the Hill reaction will be the main focus of experimentation and will help quantify changes in photosynthetic rates.
+The Hill reaction assay method is assessed by adding an alternative electron acceptor to a sample of isolated chloroplasts.  DCPIP is one example of an alternative electron acceptor that can be used to directly see the exchange of electrons. West and Hill, professors at the university of Cambridge, suggested that DCPIP accepts hydrogen equivalents and is reduced near a high electron carrier [West et al: 1967].  Regular DCPIP (oxidized) is in an aromatic ring, and absorbs light at 600-nm. When it is reduced in photosynthetic reactions, it becomes conjugated and therefore loses its blue color and becomes colorless.
+Plants are exposed to many different types of environments which means that are conditions in which photosynthesis is favored and not favored. For example, the amount of sunlight a plant gets, the amount of water a plant gets and whether or not certain chemicals or herbicides are present. For example, in Alfalfa fields, the common herbicide duiron has been shown to greatly decrease the rate of photosynthesis activity in weeds [McClellan, Schweers: 1999]. It is hypothesized that in the presence of the herbicide diuron photosynthetic rates of beta vulgaris (chard) and stellaria media (chickweed) will be reduce to zero. For this reason, diuron is a great candidate to establish a baseline.  
+ Recent articles show that different wavelengths of light can have an effect on photosynthetic rates in plants. One study suggested that photosystem II is the most efficient at a wavelength of less than 700-nm in green plants [Arnon: 1971].  Other studies have shown that LED lights has potential in improving plant growth. Studies suggest that red LEDs have a 640-nm wavelength [Darko et al: 2014].  Another study found that blue LEDs promoted plant growth with a wavelength of 470-nm [Muneer et al: 2014]. Both wavelengths are under the ideal 700-nm range which makes them great candidates be the treatment in this experiment.
+Another Hill reaction assay was used for spinach because it lacks specificity for a cofactor [Avron:1960] which made it a good candidate for the Hill reaction.  Chard shows the same lack of specificity [Avron:1960], which is why it was used instead of spinach in this experiment. Chickweed is a common weed which implies that it is able to survive in many different kinds of conditions weeds [McClellan, Schweers: 1999] which is also why it was chosen. This experiment uses the Hill reaction assay method and reduction of DCPIP to quantify photosynthetic rates under lights that are 640 and 470-nm in wavelength in chard and chickweed. It is hypothesized that if samples of chard, and chickweed are exposed to lights with wavelengths of 640 or 470-nm, photosynthetic rates will be elevated.
+
+Materials and Methods:
+Before assembling the Hill reaction assay, chloroplasts were extracted from both chard, and chickweed using a differential centrifuge spun twice (200G with 1200 rpm and 1000G with 2800 rpm respectively) to isolate the maximum number of chloroplasts. The treatments for this experiment include chard, and chickweed chloroplasts exposed to 640-nm light, 470-nm light and the herbicide diuron under sunlight. 
+	
+With the maximum of chloroplast extracted from chard and chickweed the Hill reaction was assembled following the reagent table provided in Table 1. 
+
+Table 1. Reagent Table. This table shows the amount and concentration of reagents used to star this Hill reaction assay.
+
+Once the replicates were made, the absorbance for each replicate was measured and recorded at time zero (using the spectrophotometer at 600nm) and then immediately placed in the corresponding condition. Absorbance measurement was taken every ten minutes over a period of thirty minutes.
+	
+	The percent change of absorbance was found using the following equation:
+((Time Zero Absorbance - Time x Absorbance) / (Time Zero Absorbance)) *100
+	
+	A two-sample t-test was used to determine whether there was a significant difference (p&lt;0.05) among the photosynthetic rates of different treatments. Each treatment was compared to the sample under normal light (control) and values recorded for 640nm and 470nm were compared to each other.
+
+
+Results:
+Chickweed yielded only one significant treatment result which was isolated chickweed chloroplasts under red LED light at thirty minutes compared to chloroplast under sunlight (t-value=7.96, p-value=0.0013, df=4). However, it is important to note that while blue LED lights did not yield any significant results when compared to sunlight, a trend in the data suggested that the p-values were close to the critical 0.05 value.
+
+Chard did not yield any significant treatment results. It is important to note however, that the chard data had a trend where the p-values were very far off from the critical 0.05 value. In fact, the data collected from chard showed similarities to the data collected from the isolated chloroplast that was exposed to diuron.
+
+
+Discussion:
+The null hypothesis that photosynthetic rates do not significantly change chard and chickweed when exposed to lights with wavelength of 640nm or 470nm cannot be rejected.
+Chickweed was the only plant in this experiment to show any significant increase in photosynthetic rate under red 640-nm light when compared to the control of sunlight. There was also a trend observed where, while not significant, the p-values of blue 470-nm light and other time intervals of red 640-nm light were very close to the critical value of 0.05. This could mean that if the Hill reaction assay would to be continued over a period of an hour perhaps the assay would yield significant results. Chickweed is after all a common weed so it follows that it will be able to thrive in harsher or different conditions than a regular plant [McClellan, Schweers: 1999].
+Chard did not show any significant increase of photosynthetic rate under red 640-nm light and blue 470-nm light. The data collected from this experiment showed that it is akin to the samples of chloroplast that had been exposed to the herbicide diuron as it did not show any increase of photosynthetic activity. One possible explanation for this trend in the data could be that there was a procedural error such as improper isolation of chloroplast or perhaps a contamination of sample with diuron when setting up the assay.
+The discordance of the result and hypothesis could be due to improper isolation of the chloroplast when centrifuging. As mentioned earlier this could explain why chard had no change in absorbance and why the chickweed did not have a significant change in photosynthetic rates. Future experiments should take extra precaution when isolating the chloroplast and ensuring that the maximum amount of chloroplast had been extracted by verifying with a microscope. Extra steps should also be taken to ensure no cross contamination of samples in the assay.   
+It is important that further research of the complex system that is photosynthesis is done to expand our knowledge of what exactly makes it more efficient and what makes it less efficient. Different conditions effect photosynthetic systems in different plants and it is important to expand our knowledge of what actually effects it.
+
+
+Literature Cited:
+Arnon, DI. 1971. The Light Reactions of Photosynthesis. PNAS. 11: 2883-2892. 
+
+Avron M. 1959. Phosphorylation by swiss-chard chloroplasts. ScienceDirect. 40: 257-272. 
+
+Darko E, Heydarizadeh P, Schoefs B, Sabzalian MR. 2014. Photosynthesis under artificial light: the shift in primary and secondary metabolism. NCBI. 1:1-7. 
+
+Hesketh JD, Moss DN. 1963. Variation in the Response of Photosynthesis to Light. Crop Science. 3(2): 107. 
+
+McClellan WD, Schweers V. 1999. Weed Control in Established Alfalfa - A Year-Round System. UCDavis. 1:99-103. 
+
+Muneer S, Kim EJ, Suk Park J, Hyun Lee J. 2014. Influence of Green, Red, and Blue Light Emitting Diodes on Multiprotein Complex Proteins and Photosynthetic Activity under Different Light Intensities in Lettuce Leaves. NCBI. 3: 4657-4670.
+
+West J, Hill R. 1967. Carbon Dioxide and the Reduction of Indophenol and Ferricyanide by Chloroplasts. NCBI. 42(6): 819-826. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=IMG_20180404_112023.jpg&Size=78220&Type=image%2Fjpeg&F=F_1F9C6xwTTx9d0JK
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Chickweed.png&Size=36192&Type=image%2Fpng&F=F_2fpJnDZfd7stmTQ
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Chard.png&Size=31325&Type=image%2Fpng&F=F_2zTT1PMoTPN4Qqp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Chickweed Percent Absorbance Change. This graph shows the average percent absorbance change (y-axis) plotted against various treatments used in this experiment in ten minute intervals over a thirty-minute period. Chickweed had only one significant treatment with t-value=7.96, p-value=0.0013, df=4 under red LED 640-nm light after thirty minutes when compared to sunlight. Error bars show standard deviation in percent absorbance change.
+
+Figure 2. Chard Percent Absorbance Change. This graph shows the average percent absorbance change (y-axis) plotted against various treatments used in this experiment in ten minute intervals over a thirty-minute period. Chard did not have significant treatment results and instead had p-values that were very far off. For example, chard under red 640-nm light gave a p-value of 0.606 when compared to sunlight. It also gave a p-value of 0.132 under red 640-nm lights when compared to diuron. Error bars show standard deviation in percent absorbance change.
+
+
+*************************************************************************

@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-03-05 23:31:06
+Author of this lab report is: Std_wFF2WZoi
+ID: R_VR4qIoLMX6kFJUB
+Course number: BIO103L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Effects of Population Density on Energy Allocation of Pisum sativum 
+
+Abstract:
+For plants, population density and space limitation play important roles in nutrition addition and growth pattern. In our experiment, we tested the effect of population density on energy allocation of Pisum sativum (field peas) by growing plants in three different densities. Our hypothesis is that the root: shoot ratio will be smaller when field peas are grown in larger population density because of nutrients limitation. ANOVA tests and Turkey-Kramer tests were used to compare the root: shoot ratios of plants in the three groups and the results led to a conclusion that there’s no significant difference between the root: shoot ratios when field peas are grown in either larger or smaller population densities. 
+
+Introduction:
+In the ecology community, the plants and animals need to adapt to both biotic and abiotic factors. Biotic components are living things, which include animals, plants, fungi, and bacteria. Abiotic components are non-living components that influence such as temperature, sunlight, and minerals. These two major classes of factors affect everything from energy capture to fitness and reproduction. [Johnson: 2018]
+By trading off the energy allocation, plants can optimize their energy utilization for better reproductive and survival benefits when they want to maximize the fitness to live in new habitats [Zu: 2002]. Population density and space limitation may play important roles in nutrition addition and growth pattern in plants [Meekins: 2000]. Biomass allocation to shoots was greatest for plants in high-density and low-light treatments [Meekins: 2000]. To understand more about differences in plant allocation, root: shoot ratio can be used by either comparing the lengths or weights among plants. 
+In this experiment, we use field pea, Pisum sativum, an important grain crop that is grown in many countries for both human consumption and stock feed, to test our hypothesis that the root: shoot ratio will be smaller when field peas are grown in larger population density because of nutrients limitation. 
+
+
+Materials and Methods:
+We first got six plastic pots and put soil to 3/4 of each of it. Then, we added 50mL of water and 50mL of Miricle Gro to each of the pot and allowed them to drain for 10 minutes. Since we identified pots with 5 field pea seeds as low population density, pots with 10 seeds as moderate population density, and pots with 20 seeds as high population density in this experiment, we selected 70 field pea seeds in total. We then dug small holes in the soil, put 5 of the seeds in the first two pots, 10 in each of another two pots, and 20 in each of the last two pots and cover the seeds with soil. After that, we placed all the six pots in the greenhouse with fixed temperature and watered them every day with 50mL of water for each pot for two weeks. After the growing period, we got four plants from each of the pot by carefully pulling them with adherent medium of tray and broke apart vermiculite to separate roots. With gently washing and drying, we separated roots from shoots by cutting all plants at the same point, weighed, measured and recorded the lengths (to mm) and weights (to g) of all the roots and shoots for each plant, and calculated the root: shoot ratios. ANOVA tests and Turkey-Kramer tests were used to compare the difference between the root: shoot ratios of the three groups of field peas. 
+
+Results:
+All of the field peas germinated within the first three days, and they seemed to grow well during the two-week period. From Figure 1, we can see that the root: shoot ratios calculated by weights do not change much among the three groups. By using weight as a scalar, the averages of the root: shoot ratios of the three groups were all around 1.5, and the results were not statistically significant for the ANOVA test (Fs=0.016, df=2, p=0.984) as well as the Turkey-Kramer tests with all three comparisons insignificant. For the averages using length as a scalar, though it seemed that the root: shoot ratios tend to decrease with larger population density in Figure 1, the results for ANOVA test (Fs=2.968, df=2, p=0.073) and three comparisons in Turkey-Kramer tests were not statistically significant. However, since one of our plants in the high-density group had a really short shoot compared to all other plants in that pot, we considered deleting it. When we deleted that outlier and used the length as a scalar, by using the Turkey-Kramer tests and ANOVA test, the results were significant within the low-density group and the high-density group, the moderate and the high, but not significant within the low and the moderate groups (Fs=4.997, df=2, p=0.019). 
+
+Discussion:
+Our results did not support our hypothesis since the root: shoot ratios are not significantly different among the three groups by using both length and weight as a scalar. In other previous research, root: shoot ratios are different among species and will be altered not only by available space, but also by fertility levels, neighbor identity, and sunlight; also, with high population density, competition of space does not generally have greater negative effects on plant performance [Gurevitch: 1990]. 
+However, one of our plants in the high-density group had a really short shoot compared to all other plants in that pot. With the deletion of this outlier when using length as a scalar, our hypothesis is supported. Our explanation for the result is that because of more plants in limited space, the plants’ shoots need to grow taller to compete with other field peas for more sunlight; however, with limited nutrition and space, their roots could not grow as well as the plants in smaller population density. Thus, the root: shoot ratios would be smaller for the plants to grow in higher density. With this deletion, we came to the conclusion that the root: shoot ratios might be smaller when field peas were grown in larger population densities.
+Since we identified 5 peas in a pot and 20 peas in a pot to be low and high densities, these numbers might not infer really different densities as in the real world. For future research, we should use more dramatic numbers for the high and low population density to test our hypothesis. Finally, we came to the conclusion that there’s no significant difference between the root: shoot ratios when field peas are grown in larger or smaller population densities.
+
+
+Literature Cited:
+Zu, Y., Wang, W., Yang, F., Yu, J., Cao, J., & Zhao, Z. (2002). Dynamic Analysis and Diversity of Plant Life Cycle Forms. Acta Ecologica Sinica, 22(11), 1811–1818.
+Meekins, J. F., & McCarthy, B. C. (2000). Responses of the biennial forest herb Alliaria petiolata to variation in population density, nutrient addition and light availability. Journal of Ecology, 88(3), 447–463. 
+Gurevitch, J., Wilson, P., Stone, J. L., Teese, P., & Stoutenburgh, R. J. (1990). Competition Among Old-Field Perennials at Different Levels of Soil Fertility and Available Space. Journal of Ecology, 78(3), 727–744.
+Johnson AD. Resource Allocation in Plants. Biological Principles Laboratory Manual. Dept. Biology. Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated Aug. 3rd, 2018), pp. 15-16.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7+2019-03-02+%E4%B8%8B%E5%8D%889.13.46.png&Size=189434&Type=image%2Fpng&F=F_28NX7WIPXV7YgUq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Population Density on the root: shoot ratios of Length and Weight for Field Peas*************************************************************************
+
+
+

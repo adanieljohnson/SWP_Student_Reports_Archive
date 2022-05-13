@@ -1,0 +1,98 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-20 11:11:31
+Author of this lab report is: Std_pbmM9eGj
+ID: R_31H4dUBtHSBVgri
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Attracting and Repelling Effects of Glucose and Sucrose in Physarum polycephalum Taxis
+
+Abstract:
+The acellular slime mold Physarum polycephalum is studied for understanding of a targeted signal response – chemotaxis - to external stimuli. Though Physarum feed on plant matter, which serves as a sucrose storehouse, the slime mold has been reported to be repelled by sucrose and instead attracted to glucose. Three experimental groups testing glucose medium against a water/agar control, sucrose medium against a water/agar control, and sucrose versus glucose, were completed using a sample of Physarum slime mold. Growth towards or away from each variable was measured, with the goal of comparing this growth to growth patterns reported in other studies. It was predicted that glucose would be a chemoattractant while sucrose would be a chemorepellent, and that presence of sucrose would force growth even greater towards glucose. Significant growth towards glucose was in fact found, as well as repulsion from sucrose. However, pitting the two sugars in competition had no significant difference on growth magnitude. And, the internal mechanism that drives taxis specifically for these sugars remains in question.
+
+Introduction:
+	Physarum polycephalum is a slime mold that is of interest for studies regarding cell signaling and directed taxis due to its ability to accurately move towards chemo attractors [De Lacy Costello: 2014]. P. polycephalum is a multinucleate, single celled conglomerate that, due to the lack of cell walls between compartments, functions as one cohesive cell and moves via cytoplasmic streaming [Ueda: 1976]. Despite its apparent simplicity, Physarum has been reported to use cytoplasmic streaming to ‘test’ its surroundings and make a decision depending on the stimulus [Lee: 2014] [Alim: 2017].
+        The mechanism by which Physarum detects environmental stimuli, generally speaking, occurs through signal transduction pathways in which stimuli trigger localized plasma membrane receptors (typically G-protein coupled receptors) which activate signal-carrying g proteins. G proteins activate another set of enzymes that generate second messengers: cell-made molecules that carry the signal throughout the cell and induce a response in the organism, such as the cytoplasmic streaming exhibited by Physarum [Lee: 2014] [Alim: 2017]. This same pathway of signal transduction occurs in mammals, often garnering an olfactory, tactile, or visual response to stimuli [Roper SD: 2007]. So, a procession of stimuli initiating a concerted response exists in highly organized mammals as it does in simple slime molds, making Physarum a good model organism for understanding signal pathways.
+        P. polycephalum feeds primarily off bacteria and dead plant matter [Dussutour: 2010], so it would be predicted that simple sugars in plants would act as chemoattractants for the slime mold. Sucrose especially is a key component of plants’ carbohydrate makeup [Levine: 2011], so it may be further predicted that Physarum would be drawn to sucrose. However, some studies testing chemotaxis with sugars have reported sucrose to be a repellent, while glucose ranging 25-100 mM remains an attractant for the slime mold [Ueda: 1976] [Carlile: 1970]. One study [Knowles: 1978] claimed 100 mM to be an excess concentration and induce repulsion from all sugars. A fourth study reported growth towards glucose and no significant attraction to sucrose [Chet: 1977]. These studies of general repulsion towards sucrose raise questions about where Physarum obtain food in dead plant matter. In contrast, the reports are countered by a study that claims sucrose did attract Physarum polycephalum at a concentration of 56 mM sucrose [Knowles: 1978], so conflicting studies call for more collection of data regarding chemoattraction to glucose and sucrose sugars.
+        This experiment observes Physarum attraction/repulsion from two different stimuli, sucrose media and glucose media, against a water/agar control. A third group pits the two sugars in competition, residing on either side of the slime mold source. The control was a homogenous water/agar plate. With the independent variable being the stimuli placed 1 cm from the slime mold, chemotaxis was measured after 48 hours. It was expected, based on more reports of sucrose repulsion, that chemotaxis would be significantly directed towards glucose but away from sucrose. Also, in the competitive situation, it was predicted that the taxis towards glucose with sucrose on the opposite side would significantly increase the net movement toward glucose.
+
+
+Materials and Methods:
+12 1% water/agar plates were used total, with 1 saved as a control, 2 for sugar media plates, and 3 plates for each of the 3 experimental setups: 25mM glucose v. control, 25mM sucrose v. control, and 25mM sucrose v. 25mM glucose. The 2 sugar media plates, of 25mM glucose and 25 mM sucrose, were made via melting of existing plates, addition of the proper amount of sugar for final concentration, then resetting in petri plates. All 9 experimental plates and the control plate were cut using a sterilized spatula to insert a 1cm^2 cube of slime mold-inhabited agar in the center, and then to insert the two variable cubes on either side, 1 cm from the slime mold origin (See Figure 1). Plates were kept in complete darkness and taxis was measured from the edge of the origin cube after 48 hours. One tailed t tests were used to compare groups, with a significance level .05.
+
+Results:
+For many of the plates, the stock slime mold block was raised above the water/agar because the stock plate was thicker than the agar plates. So, any growth down the sides of the stock onto the trial plates was not recorded: only the lateral movement towards or away from the variable blocks.
+After 48 hours, in the glucose versus control trials, all 3 samples showed net movement (average 3.67 +/- .577 mm) towards the glucose. One of the three sucrose versus control trials showed no net growth, however the other two samples exhibited growth away from sucrose, averaging -3.67 +/- 4.04 mm between all 3 plates. Also, in the sucrose versus glucose competition plates, one sample showed no growth while the other two grew towards glucose (average growth 2.00 +/- 2.00 mm). See Figure 2 for a representation of average growth in each group. The control plate showed no growth after 48 hours. Growth was never seen towards sucrose, while observed growth was either towards glucose or exhibiting no growth at all.
+See Table 1 for one-tailed t test p values. Both glucose v. control and sucrose v. control groups yielded p values lower than .05 (.00019 and .02997) when tested with the control plate, while the p value for the test between the control plate and competition plates was just over .05, at .07915. The t test between the glucose v control group and the competition group yielded a p value of .1189, above the .05 significance level. The p value obtained from testing sucrose v control against competition plates was .04755, below .05.
+
+Discussion:
+	Since both glucose v. control and sucrose v. control groups differed significantly (p value below .05) from the growth seen in the control plate, it can be said that the hypothesis regarding overall growth direction was supported. It was predicted that Physarum would grow towards glucose and away from sucrose, and the groups testing these sugars against a control show that Physarum did in fact grow towards glucose or away from sucrose, compared to the control. Sucrose v control compared to competition plate growth also proved statistically significant, however this is simply since sucrose v. control values are reported as negative values while competition plate growth was reported as positive (towards glucose).
+        	While it was expected that the competition between chemoattractant glucose and chemorepellent sucrose would present more amplified growth towards glucose than glucose v control, the p value of .11 (above .05) in the t test between these two experimental groups indicates that there is no significant difference in the growth towards glucose whether the opposing variable is control or sucrose. This rejects the hypothesis that sucrose opposing glucose might push growth further towards glucose.
+        	In fact, it appears as though sucrose presence may have slightly lessened growth towards glucose, since the competition group is not statistically different from the control, where no growth was seen. Even so, there was still net growth in the direction of glucose.
+        	Overall, the findings of glucose as a chemoattractant and sucrose as a chemorepellent are in line with the studies mentioned previously [Ueda: 1976] [Carlile: 1970]. However, this conclusion does not explain why Physarum might be attracted to glucose and not sucrose, since sucrose is one of the main sugars made by plants [Levine: 2011] and if anything, it is sensical that Physarum would be attracted to the sugars generated by their primary food source. Mechanistically, it has been found that a general molecular stimulus causes a second messenger propagation, which causes a directed contraction flow (chemotaxis) in Physarum [Alim: 2017]. Yet no specific mechanisms have been reported involving the sugars sucrose and glucose, so the membrane receptors and signal molecules associated with sugar attraction and repulsion remain unknown.
+        	In turning to environmental motivators for the observed behavior, a factor that could be at play is the chemistry of plant decay, since Physarum do not feed off plants that are alive and producing sucrose but rather on dead plant matter [Dussutour: 2010]. And, once a plant begins to decompose, more complex sugars begin to decompose into simple sugars in just a few days [Gunnarsson: 2008]. So, the biological reason that Physarum is attracted to glucose over sucrose could be that the actual sugars in decaying plants are glucose rather than sucrose, thus optimizing Physarum for dead plants over living plants. An experiment on the sugar content of decaying plant matter would be needed to explore the motive for choosing glucose over sucrose. Alternatively, following the notion that Physarum feed on bacteria as well [Gunnarsson: 2008] [Adamatzky: 2012], it could be possible that plants are attracted to glucose contained in bacteria. This theory would have to be explored further by identifying which bacteria Physarum might consume in the wild and what kinds of sugars those bacteria harbor.
+        	Future studies exploring why glucose is preferred and why sucrose repels Physarum should explore the in vivo sources of nutrition for Physarum polycephalum. Sugar content of decaying plants and bacteria should be observed, and similar competition tests should be done with live and dead plant matter to verify repulsion to sucrose that exists in high quantity in living plants [Levine: 2011]. Subsequently, when more definitive conclusions are made regarding stimulus response, studies on the molecular level of membrane receptors and signal molecules involved with sugar detection are needed to fully understand chemotaxis signaling in response to different sugars.
+
+
+Literature Cited:
+Adamatzky A, De Lacy Costello B. 2012. Physarum attraction: Why slime mold behaves as cats do? Communicative & Integrative Biology. 297-299.
+ 
+Alim A, Andrew N, Pringle A, Brenner MP. 2017. Mechanism of signal propagation in Physarum polycephalum. PNAS BioPhysics and Computational Biology. 114 (20): 5136-5141.
+ 
+Carlile MJ. 1970. Nutrition and Chemotaxis in the Myxomycete Physarum polycephalum: the Effect of Carbohydrates on the Plasmodium. Microbiology. 63: 221-226.
+ 
+Chet I, Naveh A, Henis Y. 1977. Chemotaxis of Physarum polycephalum towards Carbohydrates, Amino Acids, and Nucleotides. Microbiology. 102: 145-148.
+ 
+De Lacy Costello B, Adamatzky A. 2014. Routing of Physarum polycephalum “signals” using simple chemicals. Communicative & Integrative Biology.
+ 
+Dussutour A, Latty T, Beekman M, Simpson SJ. 2010. Amoeboid organism solves complex nutritional challenges. Proc Natl Acad Sci U S A. 107(10):4607-11.
+ 
+Gunnarsson S, Marstorp H, Sigrun Dahlin A, Witter E. 2008. Influence of non-cellulose structural carbohydrate composition on plant material decomposition in soil. Biology and Fertility of Soils. 45: 27-36.
+ 
+Knowles DJC, Carlile MJ. 1978. The Chemotactic Response of Plasmodia of the Myxomycete Physarum polycephalum to Sugars and Related Compounds. Microbiology. 108: 17-25.
+ 
+Lee Y, Choi S, Hyeon C. 2014. Mapping the intramolecular signal transduction of G-protein coupled receptors. Proteins. 82(5):727-43.
+ 
+Levine M. 2011. Photosynthesis and Sucrose Production. Topics in Dental Biochemistry. 17-27.
+ 
+Roper SD. 2007. Signal transduction and information processing in mammalian taste buds. Pflugers Arch. 454(5):759-76.
+ 
+Ueda T, Muratsugu M, Kurihara K, Kobatake Y. 1976. Chemotaxis in Physarum polycephalum: Effects of chemicals on isometric tension of the plasmodial strand in relation to chemotactic movement. Experimental Cell Research. 100 (2):337-344.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Physarumfigure1.JPG&Size=20064&Type=image%2Fjpeg&F=F_3rQNOjbp6XhrBgl
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=physarumfigure2.JPG&Size=37547&Type=image%2Fjpeg&F=F_2w6lDbdML5LJ9V0
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=physarumtable1.JPG&Size=20224&Type=image%2Fjpeg&F=F_1FM0USHizJQvH1v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Example of plate setup.
+
+Figure 2: Comparison of P. polycephalum migration in the 3 experimental groups: glucose v. control, sucrose v. control, and sucrose v. glucose (n=3 in each group). Growth in glucose v control averaged 3.67 +/- .577 mm towards glucose, sucrose v control migration averaged -3.67 +/- 4.04 mm away from sucrose (towards control) and growth in sucrose v glucose competition averaged 2.00 +/- 2.00 mm towards glucose and away from sucrose.
+
+
+Table 1: Results of 1 tailed t tests between experimental groups and the control group.
+*************************************************************************
+
+
+

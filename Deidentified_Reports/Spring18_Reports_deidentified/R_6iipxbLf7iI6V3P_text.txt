@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 17:15:19
+Author of this lab report is: Std_sqvQ5CsH
+ID: R_6iipxbLf7iI6V3P
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Effect of Calcium Blocker on Neuromuscular Function in Rana pipien
+
+Abstract:
+Research conducted using motor neuron stimulation in vertebrates often includes the manipulation of molecules present in the neuromuscular pathway in order to observe the effects on muscle contraction. Muscle contraction is often measured using the twitch amplitude and threshold stimulus of the contraction. The purpose of this experiment was to observe the effects of a calcium blocking agent on the threshold stimulus of the gastrocnemius muscle in Rana pipien. Ca2+ ions play an important role in the movement of an electrical signal through a neuromuscular pathway. Thus, it was hypothesized that injecting the gastrocnemius muscle of Rana pipien with a calcium blocker would prevent muscle contraction, or significantly increase the threshold stimulus. The threshold stimulus of two Rana pipien gastrocnemius muscles was measured before and after being injected with lanthanum chloride calcium blocker, each leg acting as its own control and treatment group. The results showed that the treatment group demonstrated a minor decrease in threshold stimulus. It was concluded that the presence of the calcium blocker did not have a significant effect on the threshold stimulus of the muscle contraction.
+
+
+Introduction:
+The movement of skeletal muscles in vertebrates is dependent on the movement of ions across nerve and muscle cell membranes, sending action potentials through the cells that signal the stimulation of a muscle contraction. Muscle contraction begins with the stimulation of a motor neuron by an outside stimulus. A single motor neuron is connected to many muscle fibers, and each nerve cell has a threshold stimulus that must be met in order to send the electrical signal to the muscle cell [Johnson : 2018]. In any motor neuron, the more stimulus presented to the muscle cell, the greater the contractive response from the muscle [Johnson : 2018]. The strength of the stimulus is greatly dependent on the presence of calcium ions in the cell environment, which facilitate the movement of an action potential from a motor neuron to skeletal muscle. Ca2+ is used by nerve cells to signal the release of neurotransmitters into the synapse, and by muscle cells to facilitate excitation-contraction coupling. Studies show that the presence of calcium blocking agents in the environment of a muscle cell has a negative effect on the excitation-contraction coupling of that muscle due to the inhibition of the Ca2+ pump of the sarcoplasmic reticulum [Ortega et al. : 1997]. In the laboratory, nerve and muscle fibers can be isolated and stimulated with electrical signals, and the muscle contractions graphically displayed on a myogram. The frequency of the signal delivered can be manipulated in order to observe the effects on the amplitude of the muscle twitch, or to observe how changes in the properties of the muscle affect the threshold stimulus of the muscle. In this experiment, Rana pipien frog legs were used to observe the effects of a calcium blocker on the threshold stimulus of the gastrocnemius muscle. Rana pipien were used because the sciatic nerve can be easily isolated to apply the electrical stimulus, and the muscle contraction in the gastrocnemius muscle can be easily observed. It was hypothesized that injecting the gastrocnemius muscle of Rana pipien with a calcium blocker would prevent muscle contraction or cause a significant increase the threshold stimulus. Calcium blocker was injected into two Rana pipien gastrocnemius muscles and the resulting change in threshold stimulus observed. The control group was the frogs before the injection of calcium blocker, and the treatment group was the frogs after the injection.
+
+
+Materials and Methods:
+Two Rana pipien frog legs were obtained and prepared for electrical stimulation by the removal of the epidermis and isolation of gastrocnemius muscle and sciatic nerve. One leg was then suspended from the force transducer, and the pin electrodes placed beneath the sciatic nerve in order to deliver stimulation. The threshold stimulus was determined three times using the myogram and iWorks data collection program, and the average was calculated. The gastrocnemius muscle was then injected with 1mM lanthanum chloride calcium blocker. 10 minutes following the injection, the threshold stimulus was determined three times and the average calculated. This process was repeated for the second Rana pipien leg. The data was then used to calculate the twitch amplitude at the threshold stimulus of each of the control and treatment frog legs, and a paired T-test was used to determine the significance of the results. It should be noted that the frogs had suffered from Red Leg disease prior to being used in the laboratory. Data from another group was also used to compare and confirm the accuracy of the results.
+
+Results:
+The results of the experiment showed that injection of the gastrocnemius muscles of Rana pipien with a calcium blocker does not have a significant effect on the threshold stimulus of the muscle contraction. In the first data set, the average threshold stimulus of the control group was 0.35 volts, and the threshold stimulus of the treatment group was 0.33 volts, showing a difference of 0.02 volts with the injection of the calcium blocker. Similar results were found with the second data set, with an average threshold stimulus of 0.0825 volts for both the control and treatment groups, showing no change in the threshold stimulus with the calcium blocker. Figure 1 and Figure 2 depict the results graphically, illustrating the difference between the threshold stimulus of the treatment and control groups for both data sets. Data on the twitch amplitude of the muscle contraction was collected in the first data set to further demonstrate the effects of the calcium blocker. Figure 3 shows the average twitch amplitude of 0.11 volts for the control group compared to 0.037 volts for the treatment group, indicating an increase in the twitch amplitude with the injection of the calcium blocker. The results of a paired t-Test done on the first data set show that the mean threshold stimulus before the injection of the calcium blocker was not statistically significantly less than that of the threshold stimulus following the injection (t-stat = 1.0, df = 1, P = 0.5). Similarly, the results of a paired t-Test done on the second data set show that the difference between the control and treatment groups was insignificant (t-stat = 0.0, df = 1, P = 1.0). 
+
+Discussion:
+The results of this experiment refute the hypothesis that injecting the gastrocnemius muscle of Rana pipien with a calcium blocker would prevent muscle contraction or cause a significant increase the threshold stimulus. The results of the paired t-Test for both data sets had a p-value of greater than .05, indicating that the difference between the twitch thresholds of the control and treatment groups was insignificant. It can be concluded that the calcium blocker ineffectively inhibited the movement of Ca2+ ions through muscle cells, and the binding of calcium ions to receptors that stimulate muscle contraction. Calcium ions are involved in the movement of an action potential through a motor neuron and the resulting stimulation of a specific skeletal muscle. It was hypothesized that the injection of the calcium blocker would prevent the movement of the action potential produced in the sciatic nerve into the gastrocnemius muscle, eliminating the signal for muscle contraction. The insignificant difference in the threshold stimulus of the control and treatment groups in this experiment shows that the signal for muscle contraction was delivered independent of the presence of the calcium blocker. Research conducted on the effects of lanthanum chloride calcium blocker (LaCl[3]) on muscle contraction found that the molecule upregulates the expression of previously suppressed calcium-sensing receptors in addition to blocking the binding of Ca2+ to receptors. [Zhao et al. : 2012]. The increased expression of calcium receptors increases the sensitivity of a cell to calcium in its environment, causing a counteraction to the blocking effects of LaCl(3). This bidirectional influence of the calcium blocker resulted in the failure of the molecule to effectively increase the twitch threshold in this experiment. Lanthanum chloride should not be used in future experiments involving the injection of a calcium inhibiting molecule into a skeletal muscle because the molecule does not have a significant effect on muscle contraction. Further experiments that use inhibiting or stimulating molecules to manipulate the movement of ions in nerve and muscle cells can be used to better understand the importance of certain ions in muscle contraction. This information can be applied to medicine and physiology to further develop the field of neuromuscular rehabilitation.
+
+
+Literature Cited:
+1. Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 1, 2018).
+
+2. Ortega, A., et al. “Effect of the Organic Ca2+ Channel Blocker D-600 on Sarcoplasmic Reticulum Ca2+ Uptake in Skeletal Muscle.” The American Journal of Physiology, vol. 272, no. 1 Pt 1, Jan. 1997, pp. C310-317. PubMed, doi:10.1152/ajpcell.1997.272.1.C310.
+
+3. Zhao, Wen-Hua, et al. “Lanthanum Chloride Bidirectionally Influences Calcification in Bovine Vascular Smooth Muscle Cells.” Journal of Cellular Biochemistry, vol. 113, no. 5, May 2012, pp. 1776–86. PubMed, doi:10.1002/jcb.24049.
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=76943&Type=image%2Fpng&F=F_2AYzuLikLKIP0l5
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=52760&Type=image%2Fpng&F=F_1QbF2rzTN6cTSDz
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+3.png&Size=63635&Type=image%2Fpng&F=F_2rJwSSkhEtouyZq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Data set #1 threshold stimulus measurements from control (pre-injection of calcium blocker) and treatment (post-injection) Rana pipien, showing a decrease in threshold stimulus for the treatment group. For both groups, n = 2. The average threshold stimulus was 0.35+/-0.14 volts for the control group, and 0.33+/-0.18 volts for the treatment group. Error bars show the standard deviation of the respective group. A Paired t-Test resulting in a p value of 0.5 shows that the results are not significant.
+Figure 2. Data set #2 threshold stimulus measurements from control (pre-injection of calcium blocker) and treatment (post-injection) Rana pipien, showing no change in threshold stimulus for the treatment group. For both groups, n = 2. The average threshold stimulus was 0.0825+/-0.02 volts for the control group, and 0.0825+/-0.01 volts for the treatment group. Error bars show the standard deviation of the respective group. A Paired t-Test resulting in a p value of 1.0 shows that the results are not significant.
+Figure 3. Data set #1 twitch amplitude measurements from control (pre-injection of calcium blocker) and treatment (post-injection) Rana pipien, showing an increase in twitch amplitude for the treatment group. For both groups, n = 2. The average twitch amplitude was 0.011 volts for the control group and 0.037 for the treatment group. Error bars show standard deviation of the respective group. A Paired t-Test resulting in a p value of 0.024 shows that the results are significant.
+
+
+*************************************************************************

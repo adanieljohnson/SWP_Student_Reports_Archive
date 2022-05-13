@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-04-11 20:11:27
+Author of this lab report is: Std_SEPCWI9K
+ID: R_2c1n1YhujhnfnsA
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Glucose and Glycine Effects on [Physarum Polycephalon] Chemotaxis in a 42 Hour Period
+
+Abstract:
+[Physarum Polycephalum] is a slime mold commonly studied to observe signal transduction pathways. The organism shares many of the same signaling pathways as human that are controlled by G-protein complexes and ion coupled receptors. This lab explores Physarum’s response to glucose and glycine. We expected the Physarum to migrate a greater distance towards the glycine than the glucose. The Physarum was grown on a water-agar petri dish and kept in a dark moist environment. Three water-agar petri dishes were each prepared containing a block of Physarum and a block of glucose and glycine on either side of the Physarum. Once created the dishes were sealed and covered for 42 hours. The distance traveled was measured in millimeters after 42 hours and a two-tailed two-sample t test was performed on the results. The Physarum displayed positive chemotaxis for glycine and migrated towards glycine at an average of 27.33 ± 23.67 mm. An unpaired two sample t-test with two tails revealed a p-value of p = 0.116 and the results were not statistically significant. There was not enough information to suggest that Physarum has a stronger attractant to glucose than lycine. In the future the experiment could be improved by analyzing more samples and preparing the plates in a T shape. 
+
+Introduction:
+Signal transduction pathways allow cells to respond to their external and internal environment. Many of the same signaling transduction pathways employed by human cells are shared with the slime mold [Physarum Polycephalum], an organism with a multinucleated syncitum. The movement and growth of the organism can be viewed without using a microscope making them good organisms to study. The majority of Physarum signaling pathways are controlled by G-protein complex and ion coupled receptors. Each of these receptors employ second messengers to carry a signal from one receptor to another. The second messengers commonly used in Physarum are cyclic adenosine monophosphate (cAMP), inositol triphosphate (IP3) and calcium (Ca2+) ions. These pathways allow Physarum to sense and respond to its environment in a process called chemotaxis. Specifically (Put simply), chemotaxis is the movement of an organism in response to a chemical stimulus. 
+In this lab we will be analyzing the effects of a carbohydrate and an amino acid on the chemotaxis of the Physarum. [Physarum Polycephalum] exhibits possible chemotaxis towards both the polysacharride, glucose, and amino acid, glycine [Kincaid: 1978]. Due to their availability we will be comparing the effects of glucose and that of glycine in this lab and determining which chemical is the stronger attractant. We expected glucose to be the stronger attractant and the Physarum to migrate a greater distance towards glucose. The Physarum should be able to make its own glycine and other amino acids if it has sugar, an energy source. The characteristics of the chemicals also effect chemotaxis and Physarum responds to a lesser extent to glycine because it is “not as potent as other sugars” [Kincaid: 1978].
+
+
+Materials and Methods:
+Prior to completing the experiment, the Physarum was grown on a water- agar petri dish made from a simple medium of 2% agar melted in distilled water. To provide a food source for the Physarum, uncooked oatmeal was sprinkled on to the plate, and the Physarum was kept in a dark moist environment. In addition, two solution plates were created by soaking the water agar in the desire solution (one with glycine and the other with glucose) for at least 10 minutes. Three additional water agar plates were created during lab containing a central block of Physarum and the 2 compounds for chemotaxis: glucose and 10x glycine. These two compounds were prepared on test solution plates created by soaking the water agar for at least ten minutes. To prepare each dish, three small blocks of the water agar was removed from the plate using forceps and a spatula that was sterilized and ethanol. Once these boxes were removed a block of the Physarum culture was placed in the center of the plate. A small block from the glucose solution plate and placed in one of the removed cells on one side of the Physarum. On the other side, a small block of glycine was placed next to the Physarum. After each of the three plates were sealed with tape and individually wrapped in foil. These wrapped plates were then placed in an incubator for 42 hours. After 42 hours the plates were unwrapped, and the distance traveled was measured (in millimeters) from the leading edge to the farthest edge in the center. 
+
+Results:
+As shown in Figure 1 the Physarum moved towards glycine in the lab and showed no movement towards glucose. For plates 1, 2, and 3 the Physarum moved 41 mm, 41, and 36 mm from the center respectively. The mold moved an average of 27.33 ± 26. mm away from the center over the course of 42 hrs towards the glycine, which corresponds with an average rate of 0.65 mm per hour. A two-tailed, unpaired two-sample t test on this data resulted in a t-value of 2.00 with 4 degrees of freedom, which gave a p value of p = 0.0116.
+
+Discussion:
+The Physarum displayed positive chemotaxis for plates 1 and 2 but had inconclusive chemotaxis for the third plate. However, since the p-value of p = 0.116 is greater than an alpha level of 0.05, we fail to reject our null hypothesis. There is not enough evidence to suggest that Physarum has a stronger attraction to glucose than glycine. Our results were much different from what we expected, and glycine appeared to be a stronger attractant than the glucose. In addition, one of the plates was inconclusive in the direction it moved. This could have occurred if the Physarum sample we took from the growing plate did not have a lot of glycine. In some cases, the removal of glycine from the environment results in no movement of the Physarum [Henny: 1969]. Another source of error could have been caused by the not the blocks being dropped on other parts of the plate when inserting them into empty cells. Previous studies have found that the Physarum “responds positively to monosaccharides” such as D-glucose [Naveh: 1977] and identified glycine and other amino acids as “much poorer attractants than the carbohydrates” [Kincaid: 1978]. It would be useful to do the experiment again with more samples (with more plates) to get a more representable result. In addition, the directionality of the Physarum chemotaxis could be better discerned if the plates were prepared using a “t-shape” instead of in a straight line. The plates were prepared with the cells in a straight line in this experiment for convenience when making measures, however this decreased the amount of space the Physarum had to traveled and the Physarum was found spread along the edge of the plate next to the cell of each chemical. 
+
+Literature Cited:
+Henney, H. R., & Lynch, T. (1969). Growth of Physarum flavicomum and Physarum rigidum in Chemically Defined Minimal Media. Journal of Bacteriology, 99(2), 531–534.
+Chet, I., Naveh, A., & Henis, Y. (1977). Chemotaxis of Physarum polycephalum towards Carbohydrates, Amino Acids and Nucleotides. Microbiology, 102(1), 145–148. https://doi.org/10.1099/00221287-102-1-145
+Henney, H. R., & Chu, P. (1977). Differentiation of Physarum flavicomum: Metabolic patterns and the role of amino acids in the control of encystment. Experimental Mycology, 1(1), 41–51. https://doi.org/10.1016/S0147-5975(77)80029-7
+Johnson A.D. (2018). 214.2: Photosynthesis. Cell Biology Lab Manual. Dept. of Biology Wake         Forest University, Winston-Salem, NC.
+Kincaid, R. L., & Mansour, T. E. (1978). Chemotaxis toward carbohydrates and amino acids in Physarum polycephalum. Experimental Cell Research, 116(2), 377–385. https://doi.org/10.1016/0014-4827(78)90461-5
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Physarum+figure.PNG&Size=16758&Type=image%2Fpng&F=F_27sa2djo8KNqVdA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Bar plot of the average distance traveled by the [Physarum Polycephalon] towards both the glycine and glucose in a 42-hour span. The Physarum traveled and average 27.33 mm with a standard deviation of 23.67 towards the glycine and an average of 0 with a standard deviation of 0.The error bars on the graph represent the standard deviation.
+
+*************************************************************************

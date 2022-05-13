@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-12 23:23:39
+Author of this lab report is: Std_Do732t8P
+ID: R_2tbvlO9hqtR8Z1S
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Decreased Levels of 20E Hormone in the Manduca Sexta Causes a Reduced Growth Rate
+
+Abstract:
+Organisms use chemicals in their bodies called hormones to regulate several essential processes throughout their life. One organism in particular is the Manduca sexta caterpillar, who use hormones called JH and 20E to regulate their growth and development. In this experiment, we separated two groups of caterpillars and fed one regular food and fed the other group food with a substance that blocks the 20E hormone in the Manduca sexta. We then looked to see if this would decrease the amount of weight that the caterpillars with the 20E blocker would gain. We observed that the caterpillars with the lower levels of 20E experienced significantly less growth in both weight and length than the caterpillars with regular levels of this hormone. This proved that decreasing the levels of 20E in the Manduca sexta severely decreases the rate at which the caterpillars can grow and develop.
+
+Introduction:
+Almost all species use special chemicals in their body to send messages to other locations, and these chemicals are called hormones. Hormones are used to regulate a variety of different functions in an organism, and they can be used to maintain homeostasis in some species. The Manduca sexta caterpillar is an example of a species who uses hormones to regulate different processes during its life cycle as it progresses through several stages of larva, followed by pupation where it prepares itself for its final stage of life as an adult moth. These hormones include juvenile hormone (JH) and Ecdysterone (20E). JH is used by the caterpillar to keep it in its larval state, and a significant drop in the level of this hormone signals to the caterpillar that it is ready to become an adult. The caterpillar uses 20E to control the timing of each change during its life cycle. For example, when the levels of the 20E hormone suddenly rise, the caterpillar knows that it is ready to move into its next larval stage, or that it is ready to pupate. This raised the question as to what would happen if we were to alter the levels of one hormone or the other. A study was conducted on the effects of the 20E hormone, and how it relates to cell death during the process of molting. It was found that an increase in 20E would make this process occur earlier than normal [Gilbert: 1999]. This meant that the increase in 20E resulted in less time between each larval stage in the Manduca sexta. We chose to investigate what would happen if we were to lower the levels of 20E inside the Manduca sexta. We could see the results of this by taking two groups of caterpillars and feeding half of them regular food, and half of them food with a substance that blocks the 20E hormone. I predict that lowered levels of the 20E hormone will prohibit the Manduca sexta from experiencing normal growth, resulting in a decreased final weight and length compared to the caterpillars with regular hormone levels. 
+
+
+Materials and Methods:
+To begin our experiment, we selected eight Manduca sexta caterpillars and separated them into two equal groups, one being the control group and one being the experimental group. We then recorded their initial weights and lengths and then placed them into their own individual cells. We then measured 80 grams of food and separated it into two halves. In one half of the food, we used a dropper to place 20 drops (using the ratio of 5 drops for every 10 grams of food) of water into the food. In the other half, we used a different dropper to place 20 drops (using the same ratio as before) of aza guard, which blocks the 20E hormone, giving this food a concentration of roughly 30%. After stirring each of the two halves of food, we cut out four 10 gram pieces of the control food, meaning the food with just water, and placed one in each cell of the control group. Then we cut the experimental food, meaning the food with aza guard, into four pieces of 10 grams and placed one in each cell of our experimental group. We returned each day for two weeks to weigh and record the length of each caterpillar, as well as recording any observations about the caterpillars. We made sure to clean their cells, and give them more food as needed (keeping the same ratio of water/aza guard). At the end of two weeks, we calculated each caterpillars change in weight and length from the first day, and then calculated the average change for each of the two groups. We used these averages to perform a 2-sample t-test to find the likelihood that the difference in change in weight and length between the two groups was caused by something other than our independent variable. 
+
+
+Results:
+For the most part, there was an obvious increase in the amount of weight gained each day when comparing the control group to the experimental group. In fact, the control group on average gained about 0.65 grams more than the experimental group each day. There were also noticeable differences in the behaviors of the caterpillars in each group. For example, the control group caterpillars would eat 10 grams of food every 1-2 days (with some exceptions) while the experimental group did not eat nearly as quickly. For example, I recorded that between days 5 and 15, each experimental caterpillar did not even eat a total of 10 grams of food. In addition, the caterpillars in the control group looked much healthier than the experimental group (with the exception of one control group caterpillar who grew sick and died within the last two days of the experiment). Even with this exception, all of the control group caterpillars did not lose their coloring, and always displayed signs of movement while after about the fifth day the experimental caterpillars turned pale and often laid in their cells motionless. The results of our 2-sample t-test for weight were (2.74, 6, 0.0168), and the results of our 2-sample t-test for length were (3.12, 6, 0.01). 
+
+
+Discussion:
+I hypothesized that the experimental group would gain less weight, and grow less in length than the control group as a result of decreased levels of 20E hormone. Our experiment strongly supported this hypothesis with the results of our 2-sample t-tests. Our test for weight yielded a p-value of 0.017, meaning that there is less than a 2% chance that something other than the 20E blocker that was fed to the experimental group was responsible for their decreased weight gain. Therefore, it is strongly supported that the decreased levels of 20E caused a decrease in the amount of weight gained by the experimental group. Our t-test for length yielded a p-value of 0.010, meaning that there was only a 1% chance that something other than the aza guard caused the experimental caterpillars to grow less in length than the control group. This also strongly supports that the 20E blocker was responsible for the decreased growth of the experimental group. This is important because it proves that changing the hormone levels in the Manduca sexta prevents them from undergoing the normal changes that would occur in their life cycle with the correct levels of hormones. These results are supported by an earlier study of similar nature. In this study, it was stated that 20E is what controls the timing of each molt in the Manduca sexta, and that the processes of creating a new cuticle during the molting process requires exposure to 20E [Riddiford:2003]. Future studies in this field could investigate the effects of using different concentrations of aza guard, and seeing how that affects the rate/effectiveness of the 20E blocker on the rate of growth in the Manduca sexta. The general concept of this experiment could also be applied to the field of pest control when developing new methods of safely and effectively removing unwanted species from crops. 
+
+
+Literature Cited:
+Gilbert, L. I. "An in vitro analysis of ecdysteroid-elicited cell death in the prothoracic gland of Manduca sexta." Cell and tissue research 297.2 (1999): 319-327.
+
+Riddiford, Lynn M., et al. "Insights into the molecular basis of the hormonal control of molting and metamorphosis from Manduca sexta and Drosophila melanogaster." Insect biochemistry and molecular biology 33.12 (2003): 1327-1338.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+Fig+1.JPG&Size=29132&Type=image%2Fjpeg&F=F_2ZZC3wuqbPN8OX9
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+Fig+2.JPG&Size=25124&Type=image%2Fjpeg&F=F_2VqJuC5sE6RgR7N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average change in weight for each group of Manduca sexta caterpillars. Our 2-sample t-test resulted with a p-value of 0.0168, meaning that there is a significant difference between the change in weight by the control group compared to that of the experimental.
+
+Figure 2: The average change in length for each of our groups of caterpillars. Our 2-sample t-test resulted in a p-value of 0.0103, meaning that there is a significant difference between the change in length of the control group compared to the change in length of the experimental group.
+*************************************************************************
+
+
+

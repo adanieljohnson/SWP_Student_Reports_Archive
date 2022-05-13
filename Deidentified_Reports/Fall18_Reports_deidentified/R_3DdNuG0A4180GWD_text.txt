@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-12 22:26:36
+Author of this lab report is: Std_qPrVWI1r
+ID: R_3DdNuG0A4180GWD
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effect of Injection of Tubocurarine in Gastrocnemius Muscle in Decreasing Myogram Amplitude
+
+Abstract:
+Neuromuscular junctions serve as the connection between the neural and muscular systems. Messages are transmitted from neural impulses through neurotransmitters to an action potential causing a muscular contraction. Receptors mediate this transmission as they receive acetylcholine and propagate an action potential. Chemicals can alter the typical interaction between these systems in various ways including tubocurarine which blocks reception of acetylcholine. Myograms serve as graphical representations of a muscular contraction resulting from an electrically induced impulse. We hypothesized that the introduction of tubocurarine into a frog gastrocnemius muscle will result in a diminished muscular response exhibited through a decrease in myogram amplitude. To test this hypothesis, we exposed the gastrocnemius and sciatic nerve of three frog legs and used electrophysiological equipment to induce electrical impulses and record the resulting myograms. Our experiment demonstrated a statistically significant decrease in myogram amplitude after an injection of tubocurarine thus supporting our hypothesis. This experiment demonstrates the effects of a receptor blocker on muscular response. 
+
+Introduction:
+The connection between the neuro and muscular systems is important to the basic functions and survival of an organism. Muscular contractions are regulated through neurotransmitters passed from motor neurons to muscular tissue [Johnson: 2018]. When nerve impulses reach the neuromuscular junction, the neurotransmitter acetylcholine is release, binds to receptors on the muscle tissue, and causes an action potential expressed in the contraction of the muscle fibers [Johnson: 2018]. This contraction can be represented graphically in a myogram which demonstrates an amplitude or contractile peak that is variable to many factors including force of impulse [Rohrbaugh: 2013]. While acetylcholine transmits an action potential to contract a muscle, the enzyme acetylcholinesterase breaks down the neurotransmitter in order to reopen the receptor and allow further action potentials to be transmitted [Panenic: 1999]. Inhibition of this enzyme will leave the receptors blocked and thus impair muscular function inducing fatigue or diminishing response [Panenic: 1999]. The chemical tubocurarine acts as a competitive antagonist to acetylcholine as it blocks the muscular receptors from receiving the neurotransmitter [Colquhoun: 1979]. We hypothesize that an injection of tubocurarine in a frog gastrocnemius will result in a diminished muscular response as exhibited by a decrease in myogram amplitude.  
+
+Materials and Methods:
+To test the effects of tubocurarine on amplitude of myogram, we used three frog legs harvested from frogs of the same species raised in identical circumstances. To prepare the legs for the tests, we removed the skin, exposed the sciatic nerve, and suspended the gastrocnemius muscle. Throughout the experiment, each leg was kept moist with Frog Ringer’s solution. Using electrophysiology recording equipment, we induced impulses into each leg and recorded the amplitude from the resulting myogram. First, we applied a .75 V stimulus of 5 ms width at 50 Hz to each leg and recorded the amplitude of the myogram. Next, we injected .1 mL of tubocurarine into the leg, inserting half into the top of the gastrocnemius and half into the bottom. After a period of 5 minutes allowing for the chemical to diffuse, we applied another identical impulse and recorded the resulting amplitude. We analyzed these results with a one-tailed paired t-test. 
+
+Results:
+On average, the amplitude of myograms decreased by 0.427 mV after the injection of tubocurarine with a standard deviation of 0.164 mV. The difference in myogram amplitude before and after tubocurarine injection was statistically significant (t-stat=4.53, df=2, p-value=0.0455). Each leg demonstrated a dramatic drop in amplitude of myogram after inhibition (Figure 1). Legs did not demonstrate a consistent initial myogram amplitude (Figure 1). 
+
+Discussion:
+Our hypothesis, that an injection of tubocurarine will decrease myogram amplitude, was supported. However, differences in the response from the tested legs, likely a product of physiological or experimental differences in set-up, resulted in greater variation as demonstrate by higher standard deviation and p-value. Regardless, the one-tailed, paired t-test rejected the null hypothesis with a significantly small p-value demonstrating a statistically significant difference in myogram amplitude before and after tubocurarine injection. These results demonstrate a physiological effect of tubocurarine’s function as a competitive antagonist to acetylcholie [Colquhoun: 1979]. While the myograms demonstrated a basic result of tubocurarine, the effect can be applied to more practical uses. Tubocurarine can be used to control muscle spasms in the treatment of tetanus by preventing a muscular response to unnecessarily generated action potentials [Weed: 1948]. Additionally, tubocurarine can be used as a muscle relaxant, useful for surgeries, as it prevents the contraction of muscle fibers [Bridenbaugh: 1968]. Additional testing would be necessary to determine specific doses necessary to achieve these physiological responses. In general, the regulation of muscular impulses can be useful in a number of applications and can be achieved with basic chemicals. 
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-18. 
+2. Rohrbaugh JW, Sirevaag EJ, Richter EJ. 2013. Laser Doppler Vibrometry Measurement of the Mechanical Myogram. Review of Scientific Instruments. 84: 12. 
+3. Panenic R, Gisiger V, Gardiner PF. 1999. Fatigability of Rat Hindlimb Muscles after Acute Irreversible Acetylcholinesterase Inhibition. Journal of Applied Physiology. 87: 1455-1462.
+4. Colquhoun D, Dreyer F, Sheridan RE. 1978. The Actions of Tubocurarine at the Frog Neuromuscular Junction. The Journal of Physiology. 293: 247-284. 
+5. Weed MR, Purvis DF, Warnke RD. 1948. d-Tubocurarine in Wax and Oil for Control of Muscle Spas, in Tetanus. JAMA. 1948: 1087-1090. 
+6. Bridenbaugh PO, Churchill-Davidson HC. 1968. Response to Tubocurarine Chloride and its Reversal by Neostigmine Methylsulfate in Man. JAMA. 203: 99-102. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Capture.PNG&Size=34710&Type=image%2Fpng&F=F_1o6DcYaYBs8EMuy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Myogram Amplitudes for Each of the Three Tested Legs Before Injection, as a Control, and After Injection of Tubocurarine*************************************************************************
+
+
+

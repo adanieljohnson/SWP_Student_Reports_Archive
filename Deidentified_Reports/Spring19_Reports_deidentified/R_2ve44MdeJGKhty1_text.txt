@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-11 23:44:38
+Author of this lab report is: Std_pzF9kRNM
+ID: R_2ve44MdeJGKhty1
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effect of IGR on the Growth of Manduca Sexta Caterpillars
+
+Abstract:
+Manduca sexta caterpillars were treated with a Juvenile Hormone to determine if they grow more or less than Manduca sexta that do not receive the hormone.  We hypothesized that the treatment group would weigh less because we believed that elevated levels of IGR would cause the range of Juvenile Hormone to be outside of its normal range, resulting in abnormalities.  We split up six caterpillars into two groups, a treatment and a control.  The treatment group received the IGR, while the control did not.  Our p-value for the experiment ended up being p=0.1365.  We realized that our hypothesis was the opposite of what happened, since the Manduca sexta in the treatment group grew more than those in the control group.  
+
+Introduction:
+Manduca sexta is an insect in the Order Lepidoptera [Johnson:2018].  They are also known by the name “tobacco hornworm” [Johnson:2018].  Manduca sexta undergo holometabolous development [Johnson:2018].  They deliver a commitment pulse that signals they are large enough to pupate into a moth from a caterpillar [Johnson:2018].  Two hormones are regulated in the Manduca sexta, Ecdysterone and Juvenile Hormone [Johnson:2018].  Juvenile Hormone is present during the larval stages of the Manduca sexta to allow growth and prepare it for metamorphosis [Riddiford:2003]. Juvenile Hormone drops off in production after the 5th larval stage, while Ecdysterone production increases [Johnson:2018].  IGR, an insect growth regulator, contains Juvenile Hormone.  If more IGR is administered into the diet of the Manduca sexta, will it weigh less than a caterpillar that does not receive the treatment?  Our hypothesis is that the treatment group will weigh less because we believe that elevated levels of IGR will cause the range of Juvenile Hormone to be outside its normal range, resulting in abnormalities.  We study this topic because if we can figure out a way to limit a species from developing into adulthood, we may be able to use this strategy on mosquitoes to eliminate some of these pests in our environment.
+
+Materials and Methods:
+We picked out six, 11-12 day old Manduca sexta caterpillars weighing 0.5-1.5 grams.  We divided them into two separate groups, a control and a treatment.  We put each caterpillar into its own part of a plastic container, separated from one another.  We poked holes in the container so that the caterpillars could breathe.  We fed each caterpillar one of two diets.  The 3 caterpillars in the control group received 10 grams of food, along with 10 drops of water in their food.  The 3 caterpillars in the treatment group received 10 grams of food, along with 5 drops of water and 5 drops of IGR in their food.  All caterpillars were kept in the same incubator at 28 degrees Celsius, in a daily 12-hour dark:12-hour light cycle.  We used a two-tailed t-test to determine significance.
+
+Results:
+The average weight gain for the control group was 9.477 grams, while the average weight gain for the treatment group was 11.973 grams (Fig. 1).  The control group had a standard deviation of 0.816 grams, while the treatment group had a standard deviation of 1.715 grams (Fig. 1).  As more IGR is used, the total weight gain increases.  The two-tailed p-value for our experiment turned out to be p=0.1365.  
+
+Discussion:
+We determined that our hypothesis did not agree with our alternate hypothesis, since our treatment group caterpillars actually gained more weight than our control group (Fig. 1).  Also, our p-value was too high to be significant.  Our null hypothesis, therefore, was supported.  5 drops of IGR does not have a significant effect on growth, even though we thought it would.  IGR originally delays growth, but because pupation takes longer to occur in Manduca sexta treated with it, these caterpillars gain weight longer and don’t begin to lose weight compared to the control.  The amount of Juvenile Hormone that a Manduca sexta caterpillar receives may alter gene expression, possibly resulting in it having abnormalities [Orth:2003].  The treatment group had the largest average weight change, and it never pupated at the time that the control group did.  An error that we committed was not feeding and weighing the caterpillars every day.  Another error was not starting with larvae that were the exact same weight.   In the future, experimenters should add more drops of IGR to see more into how they affect growth and use more subjects to get a more precise average in weight gain over two weeks.
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston- 
+        Salem, NC. Vers. 18.2 (updated Augest 2, 2018), pp. 6-12.
+2.	Orth AP, Tauchman SJ, Doll SC, Goodman WG. 2003. Embryonic expression of juvenile hormone binding protein and its 
+        relationship to the toxic effects of juvenile hormone in Manduca sexta. Insect Biochemistry and Molecular Biology. 33: 1275- 
+        1284.
+3.	Riddiford LM, Hiruma K, Zhou X, Nelson CA. 2003. Insights into the molecular basis of the hormonal control of molting and 
+        metamorphosis from Manduca sexta and Drosophila melanogaster. Insect Biochemistry and Molecular Biology. 33: 1327- 
+        1338.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+.png&Size=12390&Type=image%2Fpng&F=F_2f82G0BpgarzyPC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average of the difference in weight between starting weight and highest weight for each caterpillar*************************************************************************
+
+
+

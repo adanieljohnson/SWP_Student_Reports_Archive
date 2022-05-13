@@ -1,0 +1,47 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 22:45:57
+Author of this lab report is: Std_BoeZPPbD
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The change in twitch threshold required to cause contraction in the gastrocnemius muscle of Rana pipiens when injected with tubocurarine.
+
+Abstract:
+The purpose of this experiment is to determine the effect tubocurarine has on the twitch threshold of a muscle when stimulated. This experiment analyzes the twitch threshold of the gastrocnemius muscle in Rana pipiens. It was hypothesized that twitch thresholds would be higher for muscles after receiving 0.2 mL injections of tubocurarine than those not receiving an injection. This hypothesis was based on the fundamental idea that tubocurarine is a nicotinic acetylcholine antagonist. The control group had an average minimum stimulus strength of 0.292V ± 0.029 and the experimental group had an average minimum stimulus strength of 0.491V ± 0.227. The data collected in this experiment was not significant (t=1.75, df=2, p=0.223) therefore the null hypothesis could not be rejected.
+
+Introduction:
+Acetylcholine (ACh) is fundamental in the movement and contraction of muscles. ACh works by binding to the receptor on the membrane of a muscle fiber. Upon binding, sodium channels are forced open thus causing the membrane to depolarize and generate an action potential. The action potential then allows Ca²⁺ molecules to be released from the sarcoplasmic reticulum that surrounds the muscle fibers. The release of Ca²⁺ enables muscles to undergo contraction and shorten [Johnson-2017].  Tubocurarine is a nicotinic acetylcholine receptor antagonist and prevents ACh from binding to the receptor site [Sine & Taylor-1981]. By preventing the binding of ACh, tubocurarine depresses the activity of muscles [Paton & Zaimis-1950]. Similarly, in Rana pipiens, contraction of the gastrocnemius muscle is caused by ACh binding on the receptor membrane and the consequent release of Ca²⁺ stimulates contraction. In order for the muscles to contract, the stimulus must be above a certain amplitude, this is called the twitch threshold. It is unknown whether or not tubocurarine, working as an ACh antagonist, is capable of altering the twitch threshold in the gastrocnemius muscle of the Rana pipiens by binding to the ACh receptor. 
+The purpose of this experiment is to determine whether or not the tubocurarine will affect the release of Ca²⁺ within the gastrocnemius muscle of the Rana pipiens and thus alter the twitch threshold for muscle contractions. This experiment tests the effects of tubocurarine on muscle cells and their required twitch threshold. The Rana pipiens serves as a good model organism due to the fact that gastrocnemius muscles are easily isolated and stimulated [Johnson-2017]. It is hypothesized that if the gastrocnemius muscle of the Rana pipiens receives an injection of tubocurarine then the twitch threshold will be lower than gastrocnemius muscle that receives no injection.
+
+Materials and Methods:
+In order to test this hypothesis, three legs of the Rana pipiens were obtained. The legs were prepared by removing the skin and by separating the gastrocnemius muscle from the bone. To prevent the muscles from drying out, they were kept moist with Ringer’s solution. The gastrocnemius was then suspended from a force transducer and two needle probes were inserted into the muscle. After inserting the probes, the computer software LabScribe was used to stimulate the muscle at varying strengths measured in Volts. Different stimulus voltages were tested to determine at what voltage the twitch threshold was achieved and when the muscle visibly contracted. The minimum strength of the stimuli was then recorded as this is the twitch threshold. With the same leg still attached to the force transducer, a syringe was used to inject 0.2 mL of 1 mM tubocurarine. Different stimulus voltages were then tested to determine at what voltage the twitch threshold occurs in the presence of tubocurarine. These steps were then repeated with two more legs. The data collected from the three legs prior to the tubocurarine serves as the control group data. The data collected after the injection serves at the experimental group data. Following collection, the control data and experimental data groups were averaged and a one-tail paired T-Test was run on the two groups with the control group being compared to the experimental group.
+
+Results:
+The control group had an average minimum stimulus strength of 0.292V ± 0.029 (Figure 1) as compared to the experimental group that had an average minimum stimulus strength of 0.491V ± 0.227 (Figure 1). By running a one-tail paired T-Test, it was determined that the data was not significant (t=1.75, df=2, p=0.223). Additionally, the visually observed strength of the contractions appeared lower for the experimental groups as compared to the control groups. 
+
+Discussion:
+In this experiment, the null hypothesis could not be rejected due to the lack of a significant statistical difference between the control and experimental groups. It was expected that tubocurarine would have blocked ACh from binding on the post synaptic membrane, thus increasing the twitch threshold for the muscle. On average, all twitch thresholds were higher after receiving tubocurarine injections. However, because the p value of the one-tail paired T-test, (p=0.223), was greater than the alpha value of 0.05, the data was insignificant. Due to the insignificant data, it is difficult to draw any conclusions. The inability to support the alternative hypothesis means that conclusions cannot be made about the effect of tubocurarine binding to membrane receptors and the consequent effect on the twitch threshold.  The findings of our study are in opposition to a prior study that found tubocurarine had no effect on the twitch tension of the soleus muscle in cats [Standaert-1964]. In the future, this experiment could be repeated with a larger sample size utilizing the same procedure. It is possible that increasing the sample size would allow for more conclusive data. This change to the methods would allow for a better understanding of tubocurarine’s effect on muscles and their twitch threshold. 
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated August 2, 2017), pp. 19-22.
+ 2. Sine, S. M., & Taylor, P. (1981). Relationship between reversible antagonist occupancy and the functional capacity of the acetylcholine receptor. Journal of Biological Chemistry, 256(13), 6692-6699.
+3. Paton, W. D., & Zaimis, E. J. (1951). The action of d‐tubocurarine and of decamethonium on respiratory and other muscles in the cat. The Journal of Physiology, 112(3-4), 311-331. 
+4. Standaert, F. G. (1964). The action of d-tubocurarine on the motor nerve terminal. Journal of Pharmacology and Experimental Therapeutics, 143(2), 181-186.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?F=F_9QYA4nMRb5FCZaR
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effects of tubocurarine on the minimum strength of the stimulus required to cause contraction in a frog leg. Both groups had a sample size of three legs. Frog legs in the control group (blue bar) received no injection. Frog legs in the experimental group (green bar) received a 0.2 mL injection of tubocurarine. Data bars represent the average voltage required to cause a contraction (t=1.75, df=2, p=0.223). Standard deviation, as represented by the error bars, was ± 0.029 for the control group and ± 0.227 for the experimental groups. 
+
+
+*************************************************************************

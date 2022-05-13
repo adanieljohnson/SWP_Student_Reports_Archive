@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-29 15:14:28
+Author of this lab report is: Std_fn4reQ8O
+ID: R_3nJypBdOoG9R4ee
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Rana Pipien Twitch Threshold Lab
+
+Abstract:
+The Rana pipien is a frog that is very common for these muscle experiments. The experiment that will be performed will be testing the twitch threshold of the frog legs when hooked up to a voltage box. There was a control group and an experimental group. The experimental group had the frog legs injected with a calcium inhibitor while the control group used the same frogs but without the calcium inhibitor present. After the experiment, a paired t-test was used to compare the results of both groups, which was found to have no significance. The mean difference for the control group and the experimental group was 0.33 and 0.43 respectively. These differences are not significant so the null hypothesis was accepted.
+
+Introduction:
+Introduction:
+	Movement and other motor function performed by multicellular organisms are by muscles. As humans, muscles perform all of our motor functions, which are voluntary movements. [2] But there are also some movements in the body that are rapidly performing without any conscious thought and those are considered involuntary movements. Things such as the heart beating, the digestive track, and the movement of the diaphragm are all involuntary muscles. The type of muscle contraction often dictates the type of structure that muscles has. Cardio muscles have gap junctions while biceps and triceps have linear muscles structures. It is important to realize that the type od muscle we are focusing on in the lab is a frog leg, and we will be tampering with voltage to determine if the twitch threshold changes when calcium conditions are altered. [1] Before this though, how a muscle contracts is important as well. The impulse starts in the neuron that is attached to the muscle fibers. Once the neurotransmitters build up in the neuron, an impulse is then sent to the muscle fiber. [2] This impulse causes calcium to influx and rush into the cell and cause the muscle to contract. In the experiment, if a calcium inhibitor is applied to a muscle, then it will be less likely to cause a twitch signal. The organism in question is a Rana pipien and we will be using its leg.
+
+
+Materials and Methods:
+Methods:
+Equipment:
+•	Frog legs
+•	Calcium inhibitor
+•	Tweezers
+•	Syringe
+•	String
+•	Chem wipes
+Procedures:
+	First, you must gather and prep the frog legs (the fresher the better). After the frog legs are prepped, you must peel the skin off of the legs. Next you hook up the voltage box to each of the frog legs and perform a twitch test. After each of the legs has been undergone the voltage tests, you soak them in calcium inhibitors and let them rest for 10 minutes. After the 10-minute wait, you hook each leg up to the voltage box and perform the twitch test again. After the test, compare the uninhibited to the inhibited twitch thresholds. 
+
+
+Results:
+Results:
+Observations:
+	Throughout the experiment, the frog legs sometimes kicked on their own without being connected to any impulse. It was also interesting to see that during the impulse tests, the magnitude of the twitch increased very fast once the threshold was reached. During the calcium inhibitor tests, the threshold was not drastically altered, but the magnitude of the twitch was very small in comparison to its counterparts. Some factors that could have caused discrepancies in the results were the actual leg sizes. Frog leg 3 was very small in comparison to the other frog legs, which meant that it has a smaller range of motion and could reach fatigue much faster. 
+
+
+
+Results:
+The results for the paired t test gave a p-value of 0.11 which is above the desired alpha level. This means that the results are not significantly different and there is no significant increase in the twitch threshold from the experimental to the control. [Figure 1]
+
+
+Discussion:
+Discussion:
+	After the results of the experiment, it can be concluded that the data is inconclusive and that the calcium inhibitor did not significantly influence the twitch threshold of the Rana pipiens. This goes against he proposed hypothesis so we must accept the null hypothesis that the presence of a calcium inhibitor does not decrease the twitch threshold of the frog leg. Though it is known that calcium plays a major part in depolarization of muscles, from the results of this experiment, we cannot come to this conclusion. [2] There are many factors that could have led to this outcome, such as the frog leg became saturated with the calcium inhibitor fluid, and the amount of time we waiting didn’t allow the solution to soak the muscles. This would mean that the solution had the potential to conduct the electric current, making it faster and stronger. This would account for the twitch threshold to be similar in both of the experiments, but there is also the question of why the magnitude of the twitches varied so vastly. The threshold was not disrupted significantly because the solution conducted the current, but the presence of the calcium inhibitors could have caused the muscles to contract at a weaker state than if there was no inhibitor present. The importance of this experiment and this research is that this shows that calcium is not that vital to twitch threshold as we might have thought. If this is the case, there are other ions or factors that are influencing twitch factor much more and need to be discovered and tested for significance. To further this research, we can perform the same experiment except on a larger organism or muscle system. If that is not applicable, then we could have a higher concentration of the calcium inhibitor and let it soak for a longer period of time. 
+
+
+Literature Cited:
+Bibliography:
+1.	Cota, G, Nicola Siri, L, Stefani, E, (1984), Calcium channel inactivation in frog (Rana pipiens and Rana moctezuma) skeletal muscle fibres.. The Journal of Physiology, 354 doi: 10.1113/jphysiol.1984.sp015365.
+2.	Tunaz H, Uygun N. Hormone Regulation. Comparitive Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated 1/5/18), pp. 5-16.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Rana+Pipiens+Graph.PNG&Size=12984&Type=image%2Fpng&F=F_2rGzWFsHo6Hjvbk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Appendix A: Frog Leg Twitch Threshold averages
+
+*************************************************************************

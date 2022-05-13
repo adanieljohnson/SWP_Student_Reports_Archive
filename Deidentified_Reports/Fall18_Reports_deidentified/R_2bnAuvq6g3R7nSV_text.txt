@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 12:44:58
+Author of this lab report is: Std_GoAL9sHK
+ID: R_2bnAuvq6g3R7nSV
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The Effects of an Acetylcholine Antagonist on the Threshold Potential and Contraction Force of Muscles 
+
+Abstract:
+Tubocurarine is an antagonist of Acetylcholine (ACh) which functions by binding to ACh gated sodium channels. In this lab we examined the effect of tubocurarine on the twitch threshold potential and muscle contraction force in the gastrocnemius of frogs. Frog legs were used as they have substantially developed muscles which are anatomically similar to human legs. We used probes to administer electrical current on three frog legs that functioned as their own control, and recorded their reactions with a contraction force sensor. We hypothesized that twitch threshold potential would rise and muscle force contraction would decrease for the frog legs after injection with tubocurarine, however these results proved statistically insignificant despite noticeable average differences between groups. Tubocurarine diffusion throughout the muscle could have been limited, which could be a reason for these errors. We concluded that our experiment yielded useful evidence that when tubocurarine is present in the myoneural junction, twitch threshold potential can be raised and muscle function will be reduced, despite the negligible statistical significance of our data. 
+
+Introduction:
+Skeletal muscles are what allow organisms to move voluntarily. With action potentials beginning a sequences of events that result in the contraction of muscle fibers, we are able to control movement [Squire: 2016].  Acetylcholine (ACh) is a neurotransmitter present in various organisms which is responsible for the initiation of the contraction mechanisms in muscles. In this lab, we examined the effects of Tubocurarine, an acetylcholine antagonist, on muscular function in the gastrocnemius of frog legs. Frog legs were used since they are a well studied organism with anatomical similarities to humans. Additionally, they contain well developed and visible leg muscles, suited for jumping [AnimalResearch.info: 2018]. When action potentials travel from the brain down motor neurons, they reach the myo-synaptic cleft. At this point, the electrical impulse causes the release of ACh into the cleft, which then binds to ACh receptors present on the postsynaptic terminal of the subsequent neuron, resulting in the opening of sodium channels. Once enough neuronal stimulus has resulted in the accumulation of ACh in the cleft, they can bind to the myocyte and therefore depolarize the cell. After a myocyte is initially depolarized, calcium is released from the sarcoplasmic reticulum, initiating the contraction of the muscle [Squire: 2016]. 
+Muscles are composed of sarcomeres (made of myocytes) which contain two different fibers: actin and myosin. The calcium present after ACh dependent depolarization allows myosin to create a power stroke. A power stroke is when the Ca2+ causes myosin filaments to latch onto actin and pull in a single direction. When opposite sides of the sarcomere pull toward each other, they create a muscle contraction.  This process is known as the “sliding filament theory” [Squire: 2016]. ACh channels therefore must be open for the calcium to effectively initiate a muscle contraction. The point at which this contraction is possible due to an abundant amount of sodium flowing through the newly opened ACh channels, is known as threshold potential (measured in volts) [Johnson: 2018]. Acetylcholine, like any neurotransmitter, can be prevented from binding to its target receptor. Tubocurarine, as it is an ACh antagonistic chemical, has the ability to enter the myoneural cleft and bind to the ACh receptors in lieu of ACh itself [National Center for Biotechnology Information: 2018]. This competitive inhibition interferes with the cell’s ability to depolarize and initiate the contraction mechanism vital to muscular function in the frog leg. Our group hypothesized that with the presence of tubocurarine, ACh would be unable to properly bind to ACh receptors, evident through decreased muscular activity and therefore a raised threshold potential of the gastrocnemius muscle.  
+
+
+Materials and Methods:
+ We first obtained three freshly harvested frog legs and gently removed the skin. It was important that the frog legs were relatively fresh so the muscle structures do not decompose. After the muscles were exposed, we dissected the thigh of the frog and isolated the sciatic nerve. Then we located the gastrocnemius and separated from the rest of the leg by cutting the achilles tendon, leaving the proximal part of the muscle attached. After the isolation and dissection was completed, we pinned down the specimen leaving the nerve clearly exposed and the gastrocnemius able to be manipulated without whole frog leg movement. We tied thin string to the distal end of the gastrocnemius to attach the muscle to a contraction force measuring device. We hooked the free end of the string to the device so that the gastrocnemius was upright at a 90 degree angle relative to the rest of the frog leg. After this was complete, we placed electrical probes in the sciatic nerve, making sure the probes were not near metal or other parts of the frog. Throughout the duration of the experiment, all frog legs (being dissected at that moment or not) were doused with frog ringer solution to keep tissues moist and retain freshness.
+Once the frog legs were prepared and the setup for the first frog leg was finished, testing could begin.  This lab consists of the three frog legs functioning as their own control. Each frog leg would experience electrical stimuli from an 0.0-1.0 volts (V) in 0.1V increments, and then from 1.0V to 5.0V in 1.0V increments. Since frogs functioned as their own control, this testing would take place before injection with the tubocurarine. After 0.1 mL of the chemical was injected into multiple sites throughout the gastrocnemius and was let alone for 5 minutes (to improve chemical diffusion), the same electrical testing was repeated. We recorded the muscular contraction force in volts throughout this process. After we completed testing the first frog leg, we reproduced these steps for the second and third legs.  After we finished the data collection portion of our lab, we recorded at what amplitude stimulus (V) resulted in a reaction in frog leg (control or experimental group), as this gave us twitch threshold potential values (V). Additionally, we ran multiple two tailed paired T tests on both the threshold potential and the amplitude of the muscle contraction force and compared between control and experimental data. 
+
+
+Results:
+Testing for twitch threshold potential resulted in an average of 0.367 V for the control group and 0.934 V for the experimental group (Figure 1). There was an average difference between these testing groups of 0.567 V (Figure 1). The two tailed paired T-test for this data resulted in a p value of 0.38 (Figure 1). 
+	The amplitude of muscle contraction forces (V) for control group legs were consistently higher than those of the experimental group (Figure 2). When the frog legs were stimulated with 5.0 V, the average of muscle contraction forces of the control group were 0.396 while the average of the experimental group had an average of 0.117 (Figure 3). The average difference between these two groups was -0.21 V. The two tailed paired T-test for this data resulted in a p value of 0.113 (Figure 3). 
+
+
+Discussion:
+The results from this experiment support our initial hypothesis that tubocurarine, an ACh antagonist, will raise the twitch threshold potential and reduce the muscular contraction response in a frog gastrocnemius. 	
+The threshold twitch potential is the point at which an electrical stimulus causes the frog leg to demonstrate a muscle contraction force [Johnson: 2018]. These potentials were expected to be raised after the tubocurarine injection, due to the fact that ACh gated sodium channels would be blocked. With the blocking of these channels, normal electrical stimuli would not release high enough concentrations to meet twitch threshold potential. The amount of action potentials received in the myoneural junction must be increased so ACh can accumulate and thoroughly diffuse to all unblocked ACh gated channels [National Center for Biotechnology Information: 2018]. Even though this biological principle is solid and carried over into our experiment, our initial results were not statistically significant. The p value was not below 0.05, therefore the differences in threshold potential before and after treatment in the frogs was not meaningfully different (Figure 1). However, with regards to the average differences between the control and experimental groups, the threshold potential after tubocurarine injection is roughly double that of the control. So, even without a statistically significant difference between the twitch threshold potentials of the frog legs before and after injection, there is certainly an increased threshold potential on average in the experimental group. 
+Regarding the second part of our hypothesis, the actual muscle contraction force of the gastrocnemius was reduced after injection with tubocurarine. Even after twitch potential has been reached, this does not guarantee identically strong muscle contractions. Muscles can contract at varying strengths due to the frequency of action potentials that they receive from the motor neuron [Squire: 2016]. When the permeability of the membrane is altered after tubocurarine seals sodium channels, varying frequencies of action potentials have little effect on muscle response [Magleby: 1981]. As seen in Figure 1, experimental curves representing muscle contraction force is consistently lower than control curves. This means that even when the two groups experience the same voltage stimulus they contract at different forces. At 5.0 V of stimulus, experimental muscle contractions are also weaker than control responses. As seen with the twitch threshold potential, the p value is not significant and error bars in the figures do overlap, further denoting statistical insignificance. However, there is an average difference between the muscle contraction forces in the post-injection group of -0.21 V compared to the pre-injection group. This supports that there is some noticeable difference after tubocurarine exposure in the muscle tissue, even if not statistically significant as evident through negligible p values. 
+There are some possible errors in the procedural portions of this lab. The tubocurarine may not have had consistently statistically significant effects on twitch threshold and muscle contraction force due to diffusion difficulties throughout muscle tissue. Since the gastrocnemius was injected with tubocurarine at a few randomized points and given only 5 minutes to saturate the tissue, the chemical diffusion was most likely uneven. This results in unaffected swaths of myocytes, which would certainly alter experimental data. There is also a question of how well the stimulus could travel through dying tissue, especially dying nerves. Cells that are running out of ATP and whose proteins are denaturing are not as efficient as healthy, living cells of which tubocurarine would more noticeably affect. 
+With these errors, this experiment still provided compelling evidence of differences in muscular function after injection with an ACh antagonist. Tubocurarine is a chemical that can be used for both positive and negative purposes. In small, calculated doses, it can be used a surgical muscle relaxant, while in larger doses it could be used a chemical weapon [Vardanyan: 2016]. Even though there is already a wide array of information available on tubocurarine and the effects are well known in the scientific world, this was a valuable way to further solidify our knowledge of this concept. It is important to understand the was still a valuable insight into the effects of toxic chemicals on vital muscular functions in organisms. 
+
+
+Literature Cited:
+1. AnimalResearch.info. Frog, Understanding Research. Understanding Animal Research Accessed October 31, 2018. http://www.animalresearch.info/en/designing-research/research-animals/frog/
+
+2. Johnson AD. Neuromuscular Control. Comparative Physiology BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2, (updated August 12, 2018) pp. 17-19. 
+
+3. Magleby KL, Pallotta BS, Terrar DA. 1981. The effect of (+)- tubocurarine on neuromuscular transmission during repetitive stimulation in the rat, mouse, and frog. The Journal of Physiology. 312: 97–113
+
+4. National Center for Biotechnology Information. Pubchem Compound Database; CID=6000. Accessed October 31, 2018. https://pubchem.ncbi.nlm.nih.gov/compound/6000
+
+5. Squire JM. 2016. Muscle contraction: Sliding filament history, sarcomere dynamics and the two Huxleys. Global Cardiology Science & Practice. 2:1-23.
+
+6. Vardanyan R, Hruby V. 2016. Chapter 15 - Centrally Acting Skeletal Muscle Relaxants. Synthesis of Best-Seller Drugs. Elsevier B.V. pp 243-246. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=58920&Type=image%2Fpng&F=F_D7Y76FiiVL9TXGh
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=276887&Type=image%2Fpng&F=F_2aDHyElUn6TvMb2
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+3.png&Size=81907&Type=image%2Fpng&F=F_3lywJo3x6eBYJzU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Twitch threshold potential for all control and experimental rounds of frog leg testing. Two tailed paired T-test resulted in a p value of 0.38. 
+Figure 2: Results of frog leg stimulation. Force of gastrocnemius muscle contraction (V) at different stimulus amplitudes (V). Amplitude of the stimulus (V) represents the electrical charge administered through the probe into the sciatic nerve. Data is shown from both control and experimental rounds.  
+Figure 3: Muscle contraction force of frog legs at 5.0 amplitude of electrical stimulus (V). Two tailed paired T-test resulted in a p value of 0.11. *************************************************************************
+
+
+

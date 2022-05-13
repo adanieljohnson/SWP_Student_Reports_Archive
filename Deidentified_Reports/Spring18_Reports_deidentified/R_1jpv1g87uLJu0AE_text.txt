@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-29 18:27:05
+Author of this lab report is: Std_qke5uda0
+ID: R_1jpv1g87uLJu0AE
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Effects of the Potassium Blocker Tetraethyl Ammonium Chloride on Muscle Contractions in Lithobates pipiens
+
+Abstract:
+In this experiment, we studied the effects of a potassium blocker, tetraethyl ammonium chloride, on muscle function. This experiment was done to gain a better understanding of action potentials and potassium’s role in muscle contractions. We studied the process of firing an action potential and muscle contraction. Lithobates pipiens, or leopard frogs, legs were used in this experiment. These frogs are found in North America and Europe. We hypothesized that if the frog legs were treated with a potassium blocker, then they would only experience one action potential. We used a force transducer to stimulate the frog legs and myograms to examine the contractions of the frog legs. We recorded the amplitudes of each myogram and the relaxation periods after each contraction. After performing the experiment, it was clear that our hypothesis was not supported. The frog legs contracted multiple times with the potassium blocker treatment, indicating that multiple action potentials occurred. The p-value for the average amplitudes of the contractions for the control and experimental groups was high and the p-value for the average relaxation periods for both groups was high. The null hypothesis was supported and the potassium blocker did not have a significant effect on muscle contraction. 
+
+Introduction:
+In this lab, we examined the function of motor units and the effects of a potassium blocker on leg twitches in frog legs. This was done in order to gain a better understanding of potassium role in action potentials and the process of muscle contraction. Motor units are responsible for the contraction of muscles. A motor unit is composed of a motor neuron and muscle fibers. The process of contraction relies on the firing of action potentials. An action potential is the depolarization of the interior of an axon, caused by the opening of voltage-gated sodium ion channels and flow of sodium cations into the axon. The action potential travels through the axon of a motor neuron until it reaches the synapse, the terminal of an axon. At the synapse, calcium cations flow into the cell and help initiate the fusion of vesicles containing neurotransmitters with the pre-synaptic membrane (Neher and Sakaba). Once the vesicles fuse with the membrane, neurotransmitters, such as acetylcholine, are released. Acetylcholine is a neurotransmitter that binds to the receptors on the post-synaptic cell membrane and causes the receptors to open to allow ions to flow into to the post-synaptic cell and initiate an action potential (Johnson, 2018). This action potential spreads and causes calcium cations to be released from the sarcoplasmic reticulum into the sarcomere, which contains actin and myosin. Muscles can contract due to calcium binding to tropomyosin, and as a result, controls muscle contractions. ATP is responsible for the separation of myosin and actin filaments, and relaxing the muscle. In our experiment, we examined the myograms of frog leg twitches. The legs came from Lithobates pipiens, also called leopard frogs. Myograms are graphs that display the latent phase, contraction phase, and relaxation phase of a muscle cell. Twitches are single fired action potentials. We examined the latent phase, the time between resting and contraction, the contraction period, and relaxation period, the period in which the membrane potential is repolarized. We recorded the amplitude of each myogram and recorded the relaxation period. Frog legs were treated with the potassium blocker tetraethyl ammonium chloride. These frog legs were a part of the experimental group. The control group was composed of the same frog legs without the potassium blocker treatment.  We hypothesized that if the frog legs were treated with a potassium blocker, then there would only be one action potential when an electrical stimulus was applied to the frog legs. Since action potentials rely on their resting potential, or the difference in charge between the internal environment of the axon and external environment, to activate, there should only be one action potential in the frog legs treated with the potassium blocker. After an action potential is fired, the internal environment of the axon is depolarized and the opening of potassium channels allow potassium ions to flow out of the axon, repolarizing the interior of the axon (Lin-Skiau, Day, and Fu). A potassium blocker would prevent the flow of potassium ions out of the axon. As a result, a second action potential would not be fired. Longer relaxation periods should be an indicator of the potassium blocker, due to the inability of potassium ions to flow out of the axon (Lin-Skiau, Day, and Fu). The interior of the axon would be positive and depolarized. By doing this experiment, we can better visualize and understand the impact of potassium on muscle contractions. As a result, we can also understand the function of action potentials.
+
+
+Materials and Methods:
+In this lab, three frog legs were obtained. The skin of each leg was peeled off. The sciatic nerve was then located and a scissor was used to cut the Achilles tendon, releasing the gastrocnemius muscle. A string was tied around the end of the gastrocnemius, where the cut was made. The frog legs were sprayed with an electrolyte solution that kept them moist. The other end of the string was attached to the force transducer. We connected two electrodes to the leg and the force transducer. We set up the labscribe program. We set up the parameters of the program to the chosen settings. We fired a charge at 1 volt. This was to see if the frog leg and force transducer were set up properly. We then set the amperes to 0.3 amperes, which was the threshold determined from a past experiment. We recorded the amplitude and relaxation period. We fired four more charges, each at a different ampere, and recorded the amplitude and relaxation periods. After recording the five amplitudes and relaxation periods, we treated the frog leg with the potassium blocker tetraethyl ammonium chloride. We used a syringe to inject the potassium blocker. We fired five charges at the same amperes as the untreated leg. We then repeated this entire process for the other two legs. We disposed of the syringes in a biohazard bin. We used two paired t-tests as our statistical tests. The variables that were tested were amplitude and relaxation period. We used paired t-tests because the control and experimental groups are composed of the same individuals. The control group was composed of the frog legs without the potassium blocker treatment. The experimental group is composed of the same group of frogs with the potassium blocker treatment. Each frog leg was in the control group and then were treated with the potassium blocker.
+
+
+Results:
+The average amplitude for the control group was 0.472 V. The average amplitude for the experimental group was 0.4764 V. The p-value for this set of data was 0.986. The average relaxation period for the control group was 234 msec. The average relaxation period for the experimental group was 223.67 msec. The p-value was 0.86 for this set of data. During the experiment, the average amplitudes for the first two frog legs of the experimental group was between 0.2956 m to 0.2277 m. However, the third frog leg (in the experimental group) had a significantly higher average amplitude. The amplitude was 0.9058 V. While tying a string around the third frog leg, it began moving. In addition, the second frog leg’s threshold potential was not at 0.3 amp. The muscle contracted at 0.5 amp. While performing the lab, it was apparent the frog’s leg muscle was contracting. The legs twitched.
+
+
+Discussion:
+Our hypothesis is not supported. According to the results of this experiment, the potassium blocker treatment did not have the effect that was expected. The p-value for the set of data including the average amplitudes of each group is 0.986. This is a high p-value. As a result, the null hypothesis is supported. In addition, this means that there is no significant difference between the means of the control and experimental group’s amplitudes. The average amplitudes of both groups differ by 0.008 V. The p-value for the average relaxation periods for the control and experimental groups is 0.86. This is also a high p-value. The mean relaxation periods for the control and experimental groups must be very close to each other. This p-value also supports the null hypothesis. The mean relaxation periods for both groups differed by 0.33 msec. Our hypothesis was that if frog legs are treated with a potassium blocker, then there would only be one action potential. After being treated with the potassium blocker, all of the frog legs twitched multiple times, indicating that multiple action potentials were present. In addition, the average amplitudes and relaxation periods of the frog leg contractions for the experimental group is nearly equal to the average of the control group. The results of this lab differ from those of past labs. In one experiment, vasodilation, which results from muscle contractions, was inhibited by a potassium blocker, DAP, (Armstrong, Ashok, and Murrant). This experiment involved hamsters, while ours involved frog legs. There may have been some errors in the procedure. For example, we may have not allowed the potassium blocker injection to spread through the muscle for a long enough period of time. As a result, there may have been a reduced effect of the blocker. A way to improve this experiment is to allow the tetraethyl ammonium chloride to spread for a longer period of time. There should have been a difference between the control group and experimental group’s values. Since, axons would not be able to restore their membrane potentials to normal, another action potential would not be able to fire another action potential (Roden). In another experiment, we can examine threshold potential instead of amplitude and relaxation periods. The threshold potential is the membrane potential that must be reached in order to fire an action potential (Johnson 2018). The main purpose of this experiment was to not only determine the effect of a potassium blocker on muscle twitches. It was also to visualize and gain a deeper understanding of action potentials. After performing this experiment, we were able to examine myograms and understand the different phases that are present during muscle contraction.
+
+Literature Cited:
+1.	Neher E., Sakaba T. Multiple Roles of Calcium Ions in the Refulation of Neurotransmitter Release. Science Direct. Accessed March 26, 2018. &lt;https://www.sciencedirect.com/science/article/pii/S0896627308007423&gt; 
+2.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 5, 2018), pp 8-11.
+3.	Lin-Skiau S.Y., Day S.Y., Fu W.M. Use of ion channel blockers in studying the regulation of skeletal muscle contractions. Spirnger Link. Accessed March 28, 2018. &lt; https://link.springer.com/article/10.1007/BF00174753&gt;
+4.	Armstrong M.L., Dua A.K., Murrant C.L. Potassium initiates vasodilation induced by a single skeletal muscle contraction in hamster cremaster muscle. The Physiological Society. Accessed March 28, 2018. &lt;https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jphysiol.2007.130013&gt;
+5.	Roden D.M. Pharmacogenetics of potassium channel blockers. US National Library of Medicine National Institutes of Health. Accessed March 28, 2018. &lt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4893809/&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+6.23.59+PM.png&Size=19137&Type=image%2Fpng&F=F_10Zpin8e8JgongS
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+6.25.17+PM.png&Size=21174&Type=image%2Fpng&F=F_2fInJc3l7zHfA66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average amplitude of each group at their maximum contraction.
+Figure 2. The average relaxation period of each group after receiving the stimulus.
+
+*************************************************************************

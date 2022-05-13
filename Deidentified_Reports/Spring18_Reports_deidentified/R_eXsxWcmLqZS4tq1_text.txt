@@ -1,0 +1,77 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 12:15:17
+Author of this lab report is: Std_EOU8qHOE 
+ID: R_eXsxWcmLqZS4tq1
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Effect Sodium Blocker, 25 mM Lidocaine, on Rana pipiens Gastrocnemius Muscle Contraction Thresholds
+
+Abstract:
+This lab tested the effect that sodium channel blocker, 25 mM Lidocaine, had on muscle contraction thresholds. The release of sodium into the neuron is an essential step in communicating a response from an internal or external stimuli. In this lab, we observed myograms of the contractions in the gastrocnemius muscle of a Rana pipiens leg, first without manipulation, and then with a 25 mM Lidocaine injection to the sciatic nerve and the gastrocnemius muscle. We predicted that a greater stimulus amplitude would be required to reach the contraction threshold for the legs after they received the 25 mM Lidocaine treatment. We predicted this because the sodium blocker would delay depolarization in the neuron, which would in turn, also delay the emission of action potentials, increasing the gastrocnemius contraction threshold. After conducting three trials on three separate frog legs and conducting statistical tests, we observed that our data partially supported our hypothesis. 
+
+
+Introduction:
+Nerves and muscles are essential anatomical structures that allow organisms to sense and respond to both internal and external stimuli. Skeletal muscles allows for voluntary movement, which is conveyed through muscle contractions. In muscle contractions, action potentials are triggered in order to undergo excitation-contraction coupling. Action potentials travel along a neuron’s axon to the neuromuscular junction. In the neuromuscular junction, the action potential causes a depolarization in the cell, which releases a neurotransmitter known as acetylcholine (Ach) from a region known as the presynaptic terminal. Acetylcholine binds to the acetylcholine receptor in the muscle, which causes sodium channels to open and depolarize the cell. The depolarization of the cell triggers the sarcoplasmic reticulum, a calcium rich region, to release calcium. The calcium that is released binds to the troponin, which is a part of the actin filament, causing the muscle to undergo a conformational change and expose the myosin binding site. The globular head on the myosin binds to the actin and allows for the filaments to slide past one another. As the myosin pulls the actin filaments closer and closer to the M-line, the sarcomere shortens, resulting in a muscle contraction. Since muscle contractions rely on millions of these actin and myosin interactions, muscle contractions and relaxations can be better understood and analyzed via the usage of a myogram. In this lab, we slowly increased the stimulus amplitude until a contraction peak was indicated on the myogram. Once the peak was observed, we applied more specific stimuli in order to locate the contraction threshold. 
+
+	In the Rana pipiens, the gastrocnemius muscle is controlled by the sciatic nerve. Therefore, by opening sodium gated channels in the nerve, the action potentials travel to the gastrocnemius muscle, which results in a muscle contraction. However, a certain amplitude of stimuli is required to reach the contraction threshold. In this lab, we want to test how the usage of sodium channel blocker, 25 mM Lidocaine, will affect the amplitude of stimuli required to reach the contraction threshold in the gastrocnemius muscle. Upon exposure to lidocaine, sodium channels bind to it causing a delay in action potential emission rates. Lidocaine is frequently used to treat for prophylaxis and postinfarction ventricular arrhythmias [Grant, Dietz, Gilliam, and Starmer: 1989]. 
+With these facts in mind, we hypothesized that by inhibiting sodium channels via the usage of a sodium blocker, 25mM Lidocaine, it would take longer for the muscle to reach the contraction threshold, due to inhibiting the action potential emission rates. The neuron is lined with voltage gated sodium channels, which is largely responsible for depolarizing and sending action potentials. Therefore, if we inhibit the release of sodium, it will take longer for depolarization to occur, which will require a larger stimuli in order to reach the contraction threshold. 
+
+
+Materials and Methods:
+To test our hypothesis, we used three Rana pipiens legs. For each leg we first assessed the amount of stimuli required to reach the muscle contraction threshold, without any dosage of Lidocaine. We dissected the skin off the leg in order to expose the gastrocnemius muscle and the sciatic nerve. Once the interior of the leg was exposed, we isolated the gastrocnemius muscle and the sciatic nerve by carefully severing connective tissue. We then tied a string to the achilles tendon and suspended the gastrocnemius muscle. Once we adjusted the string to be a good tension, we carefully placed the sciatic nerve over two probes connected to the iWORKS TA machine. We then began to emit stimuli using a computer software known at LabScribe, starting at low amplitude, 0.1 V, and slowly increasing the amplitude by 0.1 V increments, until the threshold was located. Once we reached the threshold, we tested the threshold value in three trials in order to precisely confirm the threshold value. Once we confirm the threshold for the untreated gastrocnemius muscle, we used a syringe to inject 0.10 mL of 25 mM Lidocaine into the same frog leg. After the Lidocaine injection, we waited five minutes until we started testing for the threshold. After the 25 mM Lidocaine had entered the sciatic nerve and gastrocnemius muscle we began applying stimulus to the sciatic nerve to locate the contraction threshold. 
+We located the threshold using the same technique used on the control leg. Once we locate the treated and untreated contraction thresholds, we performed the same procedure on two other legs for precision. We used a paired T-test and calculated a p-value in order to assess the statistical significance of our results. 
+
+
+Results:
+We found that in the normal muscle, which was not yet exposed to the lidocaine, the average control threshold was equal to 0.194± 0.11V and the average lidocaine treated threshold was 1.83± 1.37V (Figure 1). We also found that the difference between the average control threshold and the average lidocaine treatment threshold was 1.64± 0.11V (Figure 1). 
+Table 1 indicates an increase in the contraction threshold after exposure to the lidocaine. In the first leg, the control threshold was 0.11± 0.00V and the lidocaine treated threshold was 1.05± 0.007V. In the second leg, the control threshold was 0.33± 0.007V and the lidocaine treated threshold was 1.03± 0.212V. In the third leg, the control threshold was 0.143± 0.007V and the lidocaine treatment threshold was 3.41± 0.00V. Although the difference between the control and lidocaine treated thresholds varies between legs, there is a consistent trend that shows an increase of at least 0.7V from the control threshold to the lidocaine treated threshold (p-value=0.183, paired t-test=2.00). 
+
+
+Discussion:
+We hypothesized that the lidocaine injection would cause an increase in the threshold stimuli for muscle contractions. Our results partially support our data because our statistical tests rendered our data statistically insignificant (p-value=0.183, paired t-test=2.00), making it impossible to completely rule out the null hypothesis. However, as shown in Table 1, after the legs were treated with Lidocaine, the required stimuli for contraction threshold increased after the leg was exposed to lidocaine. Upon lidocaine exposure, the sodium channels bonded with the lidocaine, causing inactive channels, which delayed action potential emission from the sciatic nerve to the gastrocnemius muscle, even though the electronic probes were inflicting temporal summation on the sciatic nerve [Johnson:2018]. Therefore, this sodium blockage required a higher stimuli amplitude to reach the contraction threshold. 
+	In addition, we observed that a higher lidocaine dosage directly corresponded to an even higher stimuli amplitude to reach the contraction threshold. In the third leg, we began testing too shortly after the lidocaine injection. Before we added an additional dosage, we observed that the contraction thresholds were extremely similar to the ones before the lidocaine injection. This experimental error allowed for us to further analysis how not only were the contraction thresholds dependent on the stimuli amplitudes but they were also somewhat time dependent. A study done conducted in the late 1980’s showed a similar trend. This study similar to ours shows that the emission of drug effects is not something that occurs readily, but instead is determined by stability [Grant, Dietz, Gilliam, and Starmer: 1989]. This could account for the statistical insignificance of our data. It is possible that we did not set aside enough time for the sciatic nerve and the gastrocnemius muscle sodium channels to bind to the lidocaine and stabilize. Therefore, it is possible that if we set aside more time for the lidocaine to absorb into the sciatic nerve and the gastrocnemius muscle, we could have observed even larger deviations in the contraction thresholds before and after the lidocaine injection, which could have potentially rendered our results as statistically significant. 
+	Once we added the extra dosage of lidocaine, we saw that this contraction threshold nearly tripled that of the other two lidocaine treated frog legs, which further supported our idea that time and increased doses of lidocaine effect the required stimuli to reach the contraction threshold.
+	Follow up studies focused on lidocaine effects on muscle contraction rates can include how this chemical effects different muscle groups in the body. Maybe some muscular regions have a higher tolerance to the lidocaine, making it more difficult to block sodium channels. In addition to this study, the increased amount of lidocaine added to the third frog leg, resulting in an even further increase in the muscle contraction threshold, could act as headway to another lidocaine based experiment. How does the amount of lidocaine affect the muscles and is it possible to add too much that could possibly paralyze the sodium channels, therefore, inhibiting any sort of muscle contraction threshold? These follow up studies can allow for possible medical breakthroughs and advancements. 
+
+
+Literature Cited:
+Johnson AD. Hormone Regulation. Comparative Physiology Laboratory Manual. Dept. Biology,     Wake Forest University, Winston - Salem, NC. Vers. 18.1 (updated January 5, 2018) pp. 17-19.
+
+Grant A. O. , Dietz M. A., Gilliam III F. R., and Starmer F. C. “Blockade of Cardiac Sodium Channels by Lidocaine: Single-Channel Analysis”.  Circulation Research, vol.65, 1989, pp.1247-1262., doi: 10.1161/01 RES.65.5.1247.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+12.12.14+PM.png&Size=48266&Type=image%2Fpng&F=F_2w0vJSX83lIDMV5
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+12.14.33+PM.png&Size=24657&Type=image%2Fpng&F=F_cHZ9NUBMjYf94Pf
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+12.12.42+PM.png&Size=14560&Type=image%2Fpng&F=F_zcW9GonEcQV2mt3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+
+Figure 1: This figure displays the average stimuli required before and after Lidocaine was injected into the Rana pipiens legs. In addition, it includes the average total contraction threshold difference for before and after lidocaine exposure. It also includes error bars, which represent the standard deviations. 
+
+Table 1: This table displays the average thresholds, taken from the three trials, of each of the three Rana pipiens legs before and after being exposed to lidocaine. 
+
+Table 2: This table displays both statistical tests conducted, p-value and paired t-test The p-value is on a 95% confidence interval, rendering anything above 0.05 as statistically insignificant. 
+
+*************************************************************************

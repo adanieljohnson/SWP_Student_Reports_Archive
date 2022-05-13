@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-26 10:56:54
+Author of this lab report is: Std_pFsTXNWd
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: The Effects of Temperature Shift on the Rate of Photosynthesis of Spinacia oleracea
+
+Abstract:
+This experiment studied the effects of temperature extremes on spinach (Spinacia oleracea) chloroplasts. We used an artificial electron acceptor for the hill reaction that changes color when oxidized to monitor photosynthetic activity with a spectrophotometer. Three groups were tested at temperatures 0ºC, 25ºC, and 35ºC for 30 minutes, after which the average percent change in photosynthetic activity was calculated. We predicted that the 25ºC group would have significantly higher photosynthetic activity because previous research has shown that heat stress and chilling can both induce photoinhibition in spinach chloroplasts by way of interacting with the protein complex photosystem II. The 25ºC group had significantly higher photosynthetic activity than both the 0ºC group as well as the 35ºC group. (one-tailed, two-sample t-test assuming equal variances) Our findings show that there is an ideal temperature range for photosynthesis, and that photoinhibition can occur in photosystem II at both high and low temperature extremes. 
+
+
+Introduction:
+All plants rely on photosynthesis to produce the sugars necessary to support metabolism. A key step at the beginning of photosynthesis is the evolution of oxygen from water, which also supplies a high-energy electron for the electron transport chain (ETC). This evolution of oxygen occurs within photosystem II (PS II), a protein complex found in the thylakoid membrane of the chloroplast. [Gregor: 2005] This evolution of oxygen is part of a more general reaction called the Hill reaction which refers to the reduction of an electron acceptor, typically NADP+.  Proper function of the electron transport chain and PS II is critical in plant photosynthesis. If a plant cannot evolve oxygen, it cannot provide the electron transport chain with protons, or a terminal electron acceptor, oxygen. Previous studies have shown that 33 kDa manganese-stabilizing protein, located in the membrane of PS II, is critical for the evolution of oxygen at the start of the ETC. [Gregor: 2005] It has been shown in in vitro tests on spinach chloroplasts that heat stressed PSII membrane fragments will release the 33 kDa manganese-stabilizing protein, which then loses its manganese ion. [Yamane: 1998] After this protein is lost from the membrane, PS II can no longer evolve oxygen and the ETC and photosynthesis halt. 
+It has been shown that heat stress can induce photoinhibition in spinach by causing light-harvesting system II within PSII to aggregate as a protective mechanism to help the plant dissipate excess excitation energy. [Tang: 2007] Additionally, research has found that photo-inhibition of spinach chloroplasts at chilling temperatures (1ºC) was fully reversible. [Somersalo: 1990] 
+Considering these findings, we studied the effects on photosynthesis of spinach chloroplasts at 25ºC, as well as “chilling temperatures” (0ºC) and under “heat stress” (35ºC). Spinach was chosen for this experiment due to the ease of obtaining its chloroplasts and its relatively high chloroplast density. [Lilley: 1975; Steup: 1983] We indirectly measured the rate of photosynthesis using DCPIP, an artificial electron acceptor for the Hill reaction that absorbs light in the visible region when oxidized. We predicted that 25ºC would be the optimum temperature for photosynthesis, and the 25ºC have significantly higher photosynthetic activity than the other groups. 
+
+
+Materials and Methods:
+To test the hypothesis, we used store-bought spinach (Spinacia oleracea) that was refrigerated until use. First, we isolated chloroplasts from the spinach leaves. After de-veining four medium sized spinach leaves, they were ground with a mortar and pestle in 10mL of grinding buffer (400mM sucrose in tricine buffer, pH 8.0) to a uniform consistency. 10 mL of grinding buffer were added again, and the mixture was strained through 3 layers of cheese cloth into a 50-mL centrifuge tube. The tube was centrifuged at 1200 rpm for 3 minutes (all centrifuging was kept at 4ºC). The resulting supernatant was transferred to another tube and centrifuged again at 2800 rpm for 10 minutes. The supernatant from the second tube was transferred to a third tube, and 20 mL of grinding buffer was added to the second tube to suspend the chloroplast-rich pellet. 
+The chloroplast electron transport chain has been shown to pass electrons to compounds other than NADP+, so after isolating an enriched chloroplast solution, we tested photosynthetic activity indirectly by measuring the rate of the Hill reaction with an artificial electron acceptor. [Dean: 2003] We used 2,6-dichlorophenol indophenol (DCPIP) as the electron acceptor in the place of NADP+. DCPIP is a highly-conjugated molecule, and when oxidized and it absorbs light in the visible range of light around 600nm. After accepting electrons from the electron transport chain, DCPIP is reduced and colorless. [Dean: 2003] This change in visible light absorbance allowed us to measure photosynthetic activity indirectly via the absorbance of light by the mixtures that contained DCPIP and the enriched chloroplast solution. 
+We prepared 10 test tubes, 0-9 with the following mixtures: Tube 0 (Blank), 8 mL H2O, 100 µL of the enriched chloroplast solution (suspended pellet from tube B); Tubes 1-9, 6 mL H2O, 2 mL reaction buffer (100 mM phosphate, pH 6.5), 2 mL of 130 mM DCPIP, and 100 µL enriched chloroplast solution. After shaking all tubes, contents were transferred to cuvettes labeled correspondingly. After blanking the spectrophotometer with cuvette 0 at 546 nm, we recorded the absorbance of cuvettes 1-9. Cuvettes 1-3 went in a 0ºC ice bath, 4-6 25ºC room temperature air, and 7-9 a hot water bath at 35ºC. All groups received 1300 lumens of light for 30 minutes. Absorbance was measured at t=0, 10, 20 and 30 minutes. The percent change in photosynthetic activity for each cuvette was determined by the change in absorbance between time points t=0 and t=30 was calculated according to the formula:
+ % Change= (Absorbance at t=0 – Absorbance at t=30 minutes) ÷ Absorbance at t=30 minutes
+The photosynthetic activity for each group was compared via a one-tailed, two-sample t-test assuming equal variances to determine significance of data. (α=0.05) 
+
+
+Results:
+The 25ºC group had significantly higher photosynthetic activity than both the 0ºC and 35ºC groups (0ºC to 25ºC: t(4)=-2.54, p=0.032, 25ºC to 35ºC: t(3)=3.15, p=0.026). The 0ºC had non-significantly higher photosynthetic activity than the 35ºC group (t(3)=1.52, p=0.112). Figure 1 represents the average percent change in photosynthetic activity from t=0 to t=30 minutes for each treatment group.
+
+
+Discussion:
+The data support our alternate hypothesis. Subjecting the chloroplasts to 0ºC and 35ºC both significantly lowered the photosynthetic activity. This is similar to previous research that found that heat stress can induce photoinhibition in spinach by causing light-harvesting system II within PSII to aggregate as a protective mechanism to help the plant dissipate excess excitation energy. [Tang: 2007] 
+The optimal temperature for spinach chloroplasts’ photosynthesis is around 25ºC. These findings support previous research that found that heat stress and chilling temperatures can both inhibit photosynthesis. [Tang: 2007; Gregor: 2005; Boese: 1990]
+Somersalo and Krause (1990) found that the site of chilling-induced photoinhibition was PS II, and as mentioned previously, Yamange (1998) and Gregor (2005) both found that heat stress photoinhibition in spinach was related to the loss of proteins from the membrane of PS II. We predict that at chilling temperatures, the substrate-protein interactions are significantly slowed, specifically in the 33 kDa manganese-stabilizing protein.
+Some possible sources of error are that tap water was used in preparing the test tubes instead of distilled of demineralized water. We also had difficulty recording the absorbance of the 0ºC group because condensation would form on the outside of the cuvettes, altering readings. This was noted, and all the 0ºC cuvettes were wiped before recording spectrophometry data. The enriched chloroplast solution came out of the centrifuge at 4ºC, and the rest of the components that went into the cuvettes were stored on ice. The ambient temperature of the lab in which this experiment was performed was 20ºC, so the 25ºC group was likely colder than 20ºC at the start, but heated up under the lamp after 30 minutes. This could be fixed by placing the 25ºC group in a water bath to maintain the temperature of the cuvettes at 25ºC throughout the experiment. 
+In future studies, we would like to study the reversibility of heat stress treatments performed in this experiment. We would also like to do the same experiment, but to test plants that have been grown or acclimated to the various temperatures compared with spinach leaves from a plant grown under normal conditions.  
+Photosynthesis begins with the evolution of oxygen from water, a step that occurs in PS II. [Gregor: 2005] If this step is inhibited in anyway, the result is either partial or total photoinhibition, and the plant is not able to perform photosynthesis. Our results show that there is an optimum temperature for photosynthesis, and that photosynthesis can be inhibited at temperatures extreme relative to the optimum temperature. 
+
+
+Literature Cited:
+1.	Boese SR, Huner NPA. 1990. Effect of Growth Temperature and Temperature Shifts on Spinach Leaf Morphology and Photosynthesis. Plant Physiology 94:1830–1836.
+
+2.	Dean RL, Miskiewicz E. 2003. Rates of electron transport in the thylakoid membranes of isolated, illuminated chloroplasts are enhanced in the presence of ammonium chloride. Biochem. Mol. Biol. Educ. 31:410–417.
+
+3.	Gregor W, Cinco RM, Yu H, Yachandra VK, Britt RD. 2005. Influence of the 33 kDa Manganese-Stabilizing Protein on the Structure and Substrate Accessibility of the Oxygen-Evolving Complex of Photosystem II. Biochemistry 44:8817–8825. 
+
+4.	Lilley RM, Fitzgerald MP, Rienits KG, Walker DA. 1975. Criteria of Intactness and the Photosynthetic Activity of Spinach Chloroplast Preparations. New Phytologist 75:1–10. 
+
+5.	Somersalo S, Krause GH. 1990. Reversible photoinhibition of unhardened and cold-acclimated spinach leaves at chilling temperatures. Planta 180:181–187. 
+
+6.	Steup M, Robenek H, Melkonian M. 1983. In-vitro degradation of starch granules isolated from spinach chloroplasts. Planta 158:428–436. 
+
+7.	Tang Y, Wen X, Lu Q, Yang Z, Cheng Z, Lu C. 2007. Heat Stress Induces an Aggregation of the Light-Harvesting Complex of Photosystem II in Spinach Plants. Plant Physiology 143:629–638.
+
+8.	Yamane Y, Kashino Y, Koike H, Satoh K. 1998. Effects of high temperatures on the photosynthetic systems in spinach: Oxygen-evolving activities, fluorescence characteristics and the denaturation process. Photosynthesis Research 57:51–59.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+photosynthesis.png&Size=43512&Type=image%2Fpng&F=F_eyqi2miomMkfVyJ
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 shows the mean percent change (% Change= (Absorbance at t=0 – Absorbance at t=30 minutes) ÷ Absorbance at t=30 minutes) in photosynthetic activity from t=0 to t=30 minutes for each treatment group. Error bars represent ±one standard deviation from the mean. 
+
+
+*************************************************************************

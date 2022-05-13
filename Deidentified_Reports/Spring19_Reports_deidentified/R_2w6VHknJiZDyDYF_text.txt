@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-18 23:16:53
+Author of this lab report is: Std_5D0ypbmP
+ID: R_2w6VHknJiZDyDYF
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Effect of Caffeine on Gastrocnemius Muscle Contractions
+
+Abstract:
+Caffeine is a widely used substance but little is known about its effects on the neuromuscular system. Caffeine has been shown to increase the release of Ca2+. The presence of Ca2+ signals the muscle to contract so it was hypothesized that caffeine would increase the strength of muscle contractions in frog’s receiving caffeine compared to controls. To test this effect, we used [Rana pipien] leg’s and its sciatic nerve and gastrocnemius muscle to analyze a muscle contraction and generate a myogram. 3 frog’s responses to a pulse were recorded before and after being administered caffeine. We determined the threshold value for contraction and measured the effect of caffeine on the strength of contraction at this threshold. We found that the group treated with caffeine had a significantly higher contraction force than the control group at 0.1. AMP, which was the threshold value. 
+
+Introduction:
+Caffeine is very widely used around the world however, little is known of the effects on our nerves and neuromuscular system. Nerves are unique to animals and help us quickly communicate throughout our body. Animal’s skeletal muscles are controlled by motor neurons. These motor neurons extend into a muscle then branch out to innervate several individual myofibers, at points called neuromuscular junctions (Johnson, 2018). Action potentials occur at these neuromuscular junctions to allow nerves to control muscle contraction and relaxation. Action potentials change the level of acetylcholine (Ach) and Ca2+, signaling the muscle to contract or relax. Since it is too difficult to follow changes in a single myofiber or changes in Ach or Ca2+ we observe what is happening in the entire muscle and nerve. By attaching a muscle to a force transducer, we record a myogram that tells us the force generated over a given time and the different stages of a muscle contraction. For this experiment, a [Rana pipien] leg, its sciatic nerve and gastrocnemius muscle will be used to analyze a muscle contraction and a myogram and test the effects of caffeine on the strength of the muscle contraction. The gastrocnemius muscle and sciatic nerve are large and easy to isolate which is why they are used in the experiment. We will also be determining the threshold value, the minimum value needed for contraction, and determining the effects of caffeine on the strength of contraction at this threshold. From our previous experiments we determined that the threshold was 0.1 AMP so this is the value we used for threshold for this part of the experiment. We used the same 0.1 AMP across all frog legs and treatments for this part of the experiment to get the most consistent and reliable data. We also saw better results when attaching the recording device directly to the sciatic nerve as opposed to the gastrocnemius muscle, so we did that for this part of the experiment as well. We wanted to test the effects of caffeine because it has been shown to increase the release of Ca2+ (Olorunshola et.al, 2011). The presence of Ca2+ in the neuromuscular junction signals the muscle to contract so it was hypothesized that caffeine would increase the strength of muscle contractions compared to a control group which will not receive caffeine. This is important because caffeine is one of the most widely used substances around the world and it is important to understand its effects on our body. 
+
+Materials and Methods:
+3 frog legs were distributed to each group and the skin at the top of the leg was pulled down towards the foot with forceps. The sciatic nerve was isolated and a dissecting needle and forceps were used to gently free the nerve from its attaching connective tissue. Frog Ringers solution was used to keep the tissue moist. The iWorx program was used to record values for contraction force in AMP and to generate myograms for the gastrocnemius muscle with the recording devices measuring the output from the sciatic nerve. The contraction force at 0.1 AMP (threshold) and the myogram for the first leg was recorded three times. The gastrocnemius muscle was then injected with 0.1mL of 200 millimolar caffeine. The contraction force at 0.1AMP (threshold) and the myogram was then recorded another three times. The following steps were then repeated for the remaining frog legs. Data was organized and prepared for analysis. A paired t-test was used to measure the difference between the control and caffeine data. 
+
+Results:
+After analyzing the data, we found that the group treated with caffeine had a significantly higher contraction force than the control group at 0.1. AMP which is the threshold value. As shown in Figure 1 the mean for the control group was 0.5696 V and the mean for the caffeine group was 1.28 V. After doing a paired t-test to compare the groups we found that the caffeine group was significantly higher with a p-value of 0.003. The standard deviation for the frog’s before receiving caffeine was 0.51and the standard deviation for the frog’s after receiving caffeine was 0.23. The standard error for the before group was 0.71 and the standard error for after was 0.48. We also noticed a visible difference in the muscle after injecting it with caffeine. After caffeine injection into the gastrocnemius muscle, we noticed that the muscle became rock solid just a few seconds after injection. The caffeine created chemically induced tetany in the muscle, meaning it caused the muscle to reach maximum level of contraction. 
+
+Discussion:
+The hypothesis that injecting caffeine into the muscle would increase the force of contraction was supported by the findings. After the frog leg’s were injected with caffeine the force of their contraction at threshold was significantly higher than before injection. As shown in previous studies caffeine causes an increase in the level of Ca2+ which causes the muscle to contract more (Rosser et.al, 2009). Ca2+ signals muscles to contract and the muscle will continue to contract until Ca2+ is removed from the neuromuscular junction. When more Ca2+ is in the neuromuscular junction, the muscle contracts more. This may be why people who drink too much caffeine experience twitches or “jitters”. These types of twitches can occur when there is too much Ca2+ in cells and muscles continue to contract (Fryer et.al,1989). Caffeine is a very widely used substance and more research is needed to undercover the long-term effects on our neuromuscular system. Our study should be replicated with a larger sample size to verify the results. In the future, researchers should conduct a longitudinal study and follow people who consume large amounts of caffeine overtime to examine long term effects on their muscle contractions. In this experiment, we used the same dose of caffeine in all the frogs, however, for future research we could examine caffeine at different doses to see if higher doses create even more significant results. Moving forward we should work to create stronger regulations around caffeine doses and better education about caffeine’s possible effects. 
+
+Literature Cited:
+Fryer, M. W., & Neering, I. R. (1989). Actions of caffeine on fast- and slow-twitch muscles of the rat. The Journal of Physiology,416(1), 435-454.
+
+Johnson A. D. Hormone Regulaton. (2018). Comparative Physiology Biology 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2, pp. 5-15.
+
+Rosser, J. I., Walsh, B., & Hogan, M. C. (2009). Effect of physiological levels of caffeine on Ca2 handling and fatigue development in Xenopus isolated single myofibers. American Journal of Physiology-Regulatory, Integrative and Comparative Physiology,296(5). 
+
+Olorunshola, K. V. (2011). Caffeine Alters Skeletal Muscle Contraction by Opening of Calcium Ion Channels. Current Research Journal of Biological Sciences.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-18+at+11.15.57+PM.png&Size=193699&Type=image%2Fpng&F=F_125fkPDSgIxyeTR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph shows the difference in the response generated by the contraction of the frog leg before and after the treatment with caffeine. The after group showed a significantly higher response then the before group (p-value = 0.003). *************************************************************************
+
+
+

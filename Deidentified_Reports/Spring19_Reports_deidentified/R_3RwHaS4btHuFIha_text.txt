@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-15 15:08:04
+Author of this lab report is: Std_D7WCezdh
+ID: R_3RwHaS4btHuFIha
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Varying Temperatures Affect Reaction Rates of Spinacia Oleracea Chloroplasts in Direct Light
+
+Abstract:
+The aim of the present study, is to see the effects of varying temperatures under direct light on Spinacia oleracea’s chloroplastic activity. This is done by isolating the chloroplasts and thylakoids in Spinacia Oleracea leaves that carry out photochemical reactions. DCIP is a high energy intermediate, similar to NADP+, but different in the way that it becomes colorless as it reacts with chloroplasts. By extracting Spinacia Oleracea’s chloroplasts and measuring their rate of color change with a spectrophotometer, we were able to measure the rate of chloroplastic activity by the magnitude of absorbance change of the chloroplasts. We hypothesized that room temperatures or the freezing temperatures will most likely cause the chloroplast to have the greatest rate of change of chloroplast activity as opposed to the warmer temperatures. Our results show that there was a higher rate of change of chloroplast absorbance in the cooler temperatures and less color change thus lower rate of change of chloroplast activity in the warmer temperatures. The statistical test support our hypothesis as the results for the revised data were below the cut off value that deems our data significant. By looking at the percent change of absorbances over three time intervals the statistical data came out to
+
+Introduction:
+There are many environmental factors that affect the rate of a plants’ photochemical reactions which include electron transport through photosystem II and photophosphorylation. This rate comes from the amount of photophosphorylation that takes place within chloroplasts during a set time interval. Many experiments with varying factors such as light stress and presence of herbicide have been conducted to determine if environmental factors have any effect on the rate of chloroplastic activity. Experiments with light stress in particular have revealed that Spinacia oleracea, or Spinach plants, thrive in direct sunlight, but when they are exposed to excessive light, the reaction center-binding protein D1 of PSII is damaged which is followed by a decrease in PSII activity which is known as photoinhibition [Yoshioka-Nishimura: 2014]. Experiments carried out on Spinacia oleracea have revealed that it is a winter annual herb that can withstand high temperatures and even brief frost exposure [Schulteis: 1989]. The aim of the present study, is to see the effects of varying temperatures under ideal direct light on Spinacia oleracea’s chloroplastic activity. Thus in this experiment, Thylakoids isolated from Spinacia oleracea, are exposed to both higher than optimal temperatures and lower than optimal--such as freezing--temperatures. By exposing thylakoids to a freezing temperature as well as three other increasingly warm temperatures, we can measure the impact varying temperatures have on the rate of their photochemical reactions. 2,6-dichlorophenol indophenol (DCIP) is used as the alternative electron acceptor in place of NADP+ to measure the rate of increase or decrease of activity at varying temperatures. Since Spinach leaves are one of various plant species that thrive in temperate environments due to their ability to adapt and resist against freezing, we hypothesize that room temperatures or the freezing temperatures will most likely cause the chloroplast to have the greatest rate of change of chloroplast activity as opposed to the warmer temperatures [Schulteis: 1989].
+
+
+Materials and Methods:
+The goal of the first part of this experiment was isolating the chloroplasts found in spinach leaves. This was done by grinding the leaves with a mortar and pestle along with 10 ml of buffer solution. The paste was filtered and centrifugation at 200 x G at 2800 RPM allowed the isolation of the target supernatant. The supernatant was centrifuged again at 1,000 X G at 2800 RPM leaving the target pellet--which contained the chloroplasts--in the beaker. After adding 20 ml of grinding buffer, a 100 µl aliquot was placed in 12 test tubes along with 2 ml of DCIP, 2 ml of reaction buffer, and 6 ml of water in each. An aliquot from each test tube was transferred to cuvettes. The cuvettes’ absorbances were recorded with a spectrophotometric assay blanked at 600 nm. After sitting in their respective water baths with temperatures of 0℃, 22℃, 40℃, and 55℃ for 10 minutes, their absorbances were recorded. Ice, room temperature water, and two heated water baths gave these exact temperatures. Lamps were also placed pointing directly over the cuvettes to mimic full sunlight. A percent difference equation was used to convert the absorbances from each time interval into comparable data which is the percent change of activity of the chloroplasts. A one way ANOVA was used to compare this data.
+
+
+Results:
+The cuvettes at time zero were all a relatively dark violet color. By the end of the experiment, the room temperature cuvettes were all clear like water and the ice cuvettes were a very faint violet color. The two heated water bath groups of cuvettes were still relatively dark violet. The absorbance change data is shown in Figure 1 and Figure 2 based on different time intervals and varying temperatures. The statistical data took into account change between the absorbances from time zero to three time intervals showing the following p value for figure 1 (df = 35, p = 0.398). Standard deviations were acquired from each data set using an excel spreadsheet formula. Figure 1 shows the data set of cuvettes in 22℃ to have the highest change in absorbance during all three time intervals. Figure 2 shows the same data as Figure 1 without two outliers of absorbances in two different categories that were taken out of the following data sets: 0℃ at 10 minutes and 22℃ at 30 minutes. This was done to minimize the standard deviation and overall error in order to compare to original data. The biggest difference between Figure 1 and 2 is that in Figure 2 the 0℃ temperature set of cuvettes shows the highest percent change during the 30 minute interval as opposed to the 22℃ set having the highest change. Other differences include high standard deviations in the data sets mentioned above that had outliers. The overall statistical data for Figure 2 based on the revised data is as follows: (df = 33, p = 3.45 x 10-8).
+
+
+Discussion:
+The results clearly show that short term exposure of high temperatures causes photochemical processes such as electron transport through photosystem II and photophosphorylation to decrease which supports our hypothesis [Santarius: 1980].  Some cuvettes’ solutions became lighter indicating chloroplasts carrying our photochemical reactions and some became darker which can be explained by membrane particles dissociating. High temperature treatment, like a 55℃ water bath, can cause changes in lipid-lipid interactions and delocalization of specific lipids within the thylakoids causing disorganization of the functional integrity of the membranes, which again supports our hypothesis and results [Santarius: 1980]. The prolonged exposure most likely caused the chloroplasts’ membranes to break down into free particles in the solution raising the absorption and causing a negative change as seen in Figure 1 and 2. It is suggested that the protein and lipid release that occurs during heat treatment is a consequence of irreversible alterations in the membrane structure that may be explained as thermal damage of chloroplast membranes [Volger: 1981].
+
+In contrast, lower temperatures demonstrated positive change indicating that spinach leaves have what other experiments have found to be extremely frost tolerant characteristics especially for a flowering plant [Schulteis: 1989]. It was interesting that our data showed high activity of chloroplasts at low temperatures seeing that primary frost injury in intact leaves includes an inhibition of the energy conserving photosynthetic processes [Schulteis: 1989]. This could indicate that intact leaves have regulatory processes that prevent chloroplasts from carrying out photophosphorylation at extreme temperatures which isolated chloroplasts lack. 
+
+Figure 1 shows that the chloroplasts maintained at room temperature (22℃) had the highest activity throughout the whole experiment. Two outliers which could have been caused by error created large standard deviations and were not supported by the statistical test (ANOVA) which is why Figure 2 is included. It is important to notice that without the two outliers, the statistical test (ANOVA) conducted deemed it significant as opposed to with the outliers. Whether the data indicates significant change or if produced by chance, the trends are still able to be explained by spinach plant’s tendency to favor cooler weather. Figure 2 shows that after 30 minutes the chloroplasts kept in ice had the highest activity whereas chloroplasts kept at room temperature had the second highest. It is suggested that the chloroplasts kept at room temperature reduced all of the DCIP present in the cuvette which explains why there was a reduce in absorbance change from 20 to 30 minutes. The light placed over the cuvettes could have sped the chloroplasts’ photochemical reactions which support this theory as well as the fact that the room temperature cuvettes were the first to become clear and colorless. 
+
+
+
+Literature Cited:
+1. Yoshioka-Nishimura M., Nanba D., Takaki T., Ohba C., Tsumura N., Morita N, Sakamoto H., Murata K. and Yamamoto Y., 2014, Quality Control of Photosystem II: Direct Imaging of the Changes in the Thylakoid Structure and Distribution of FtsH Proteases in Spinach Chloroplasts under Light Stress, Plant & Cell Physiology, 7: 1255-1265  
+
+2.  Schulteis C, Santarius KA., 1989, Effects of prolonged freezing stress on the photosynthetic apparatus of moderately hardy leaves as assayed by chlorophyll fluorescence kinetics, Plant, Cell & Environment, 8: 819-823  
+
+3. Santarius KA., 1980, Membrane lipids in heat injury of spinach chloroplasts, Physiologia Plantarum, 49: 1-6  
+
+4. Volger H., Santarius KA., 1981, Release of membrane proteins in relation to heat injury of spinach chloroplasts, Physiologia Plantarum, 51: 195-200
+ 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=14060&Type=image%2Fpng&F=F_2rJIfRqSshbccTS
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=13361&Type=image%2Fpng&F=F_1LRtprLcTtOTYCb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Shows average percent change of absorbances categorized by temperature for three 10-minute intervals. This graph has all original data including two outliers to show the difference these two points make on the data. Error bars represent +/- the standard deviation of each data set of absorbances. ANOVA statistical results for this data are: (df = 35, p = 0.398).   
+Figure 2: Average percent change of absorbances is shown categorized by temperature for three 10 minute intervals. Error bars represent +/- the standard deviation of each data set of absorbances. Two outliers of absorbances were taken out of the following data sets: 0℃ at 10 minutes and 22℃ at 30 minutes. This was due to higher than normal standard deviations in order to minimize error. Without these two points, ANOVA results are: (df = 33, p = 3.45x10-8).
+
+*************************************************************************
+
+
+

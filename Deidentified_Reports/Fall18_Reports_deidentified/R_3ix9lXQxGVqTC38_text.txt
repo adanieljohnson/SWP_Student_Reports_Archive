@@ -1,0 +1,75 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-05 13:20:44
+Author of this lab report is: Std_S8r6Ruzk
+ID: R_3ix9lXQxGVqTC38
+Course number: BIO103L
+TA: TA_jzY6bAQ4
+*************************************************************************
+Title: Effect of Sunlight on the Root to Shoot Ratio of Oil seed Radishes 
+
+Abstract:
+Oilseed radish (Raphanus sativus L.) is a cover crop often used to restore the nutrients to soil. They are not shade-tolerant but despite the variables set up, they are able to allocate and distribute resources evenly and maintain their growth. By measuring the root to shoot ratio of oilseed radishes in different light environments, the length and weight can be calculated and compared to see how differently the two grow. Roots grown in the sunlight have been experimentally proven to have a higher root to shoot ratio than those grown in the shade. This could be due to the ability of the plants to alter the resource allocation and distribution of the resources it has. 
+
+
+Introduction:
+When it comes resource allocation in plants, sunlight is often the most important resource because of the energy it provides. In order to photosynthesize, plants require access to moderate to high levels of sunlight in order to provide a sustainable energy source. Plants often try and compensate if there is a lack of sunlight, changing the root to shoot ratio of their growth. Based on Gadgil and Solbrig’s theory of life history evolution, patterns of resource allocation respond to different environmental conditions in order to ensure the best survivability strategy. (Soule, et al.) In two different environments, we can expect the same plant to grow differently depending on the benefit or harm created by the environment for that plant.  Our plant, the oilseed radish, also known as raphanus sativus L., is a cover crop and grows best in cool, moist, growing conditions and moderate levels of sunlight. (Bazzaz, et al.) We hypothesize that oilseed radishes grown in the direct sunlight will have smaller root to shoot ratio than those grown in the shade. 
+
+
+Materials and Methods:
+We first selected our plant type, in this case, we chose the oilseed radish. We then placed the seeds in water to activate them before placing 40 seeds evenly in 8 boxes. This set up our experiment with 5 seeds in each box. We then planted the seeds, half in the shade and half in the sun. We left the plants to grow on their own for two weeks, watering them each day with 100 mL of water each day for each plant. One the two week period ended, we removed the 3 plants from each of the boxes and measured the root to shoot ratio for each one. In total, we obtained 12 radishes grown in the dark and 12 in the light; a total of 24 plants. We then used a one-tailed t-test for both the length and weight of the radishes. From those tests, we obtained two p-values, one for weight, and one for length. 
+
+
+Results:
+The mean root:shoot ratio for weight was 0.290.14grams for the sunlight control and the mean root:shoot ratio for the weight of the experimental shade was 0.180.12grams. (Fig. 1) The mean of the weight control was statistically significantly different from our experimental group. We used a two-sample t-test (one-tailed) to analyze our results (t-stat = 1.927311, df= 22, p = 0.033476). The mean root:shoot ratio for length of the control was 2.090.84cm and for the shade, it was 1.650.81cm. The mean of the length control was not statistically significantly different from our experimental group. (t-stat = 1.33078, df= 22, p = 0.196891).
+
+
+Discussion:
+Our hypotheses, that the root:shoot ratio of those grown in the sun would be lower than the growth in the shade, was not supported. The mean of the root:shoot ratio for both weight and length were higher, although only the weight was statistically significant. These plants show remarkable plasticity in their ability to partition resources in responds to environmental differences, shifting resources of plants to favor shoot growth as seen in similar experiments. (Coleman, et al.) Radishes primarily grow underground, with most of their nutrient allocation in the soil, however oilseed radishes still rely heavily on the sunlight needed for growth. Repeated studies indicate that oilseed radishes are not shade tolerant.(Weil, et al.)  Since both shade and sunlight were planted in the same nutrient-rich soil, both got the adequate and equal nutrients they needed. Plants grown in the sunlight have large roots in order to support the large radish grown underground, requiring higher root to shoot ratio. Oilseed radishes have thick taproot penetration potential, compared to other cover crops. The deep rooting ability enables it to leave large and deep holes, enabling air, water, and other nutrients to penetrate the soil. (Downey, et al.) This ability to allocate resources could have benefitted the oilseed radishes to grow well could have outweighed its need for sunlight. Despite it being in the shade, the radishes still grew remarkably well, and showed that those grown in the sun still had a higher root:shoot ratio. 
+
+
+Literature Cited:
+Soule, J. D., and P. A. Werner. "Patterns of Resource Allocation in Plants, with Special Reference to Potentilla Recta L." Bulletin of the Torrey Botanical Club 108, no. 3 (1981): 311-19. doi:10.2307/2484709.
+
+Weil, R.R., C. White, and Y. Lawley. 2006. Forage radish: new multi-purpose cover crop for the MidAtlantic. Univ. of Maryland Cooperative Extension Fact Sheet 824, College Park.
+
+Bazzaz, Fakhri A. Plant Resource Allocation. San Diego, CA: Acad. Press, 1997.
+
+Downey, R. Ko. "Agricultural and genetic potentials of cruciferous oilseed crops." Journal of the American Oil Chemists' Society 48, no. 11 (1971): 718-722.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=SWeight.PNG&Size=8472&Type=image%2Fpng&F=F_2aeJZXNDUmhwCeR
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=SLength.PNG&Size=7161&Type=image%2Fpng&F=F_3hnAYuWxLBi3bPd
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=weight.PNG&Size=31119&Type=image%2Fpng&F=F_1P14GdKpcFbikjQ
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=length.PNG&Size=32211&Type=image%2Fpng&F=F_2CVy4CLBp8WyUTZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Mean of root:shoot ratio of sunlight control and shade experimental in weight (grams). 
+Figure 2. Mean of root:shoot ratio of sunlight control and shade experimental in length (centimeters). 
+Figure 3. One-tailed T-Test for weight (grams).
+Figure 4. One-tailed T-Test for length (centimeters).
+*************************************************************************
+
+
+

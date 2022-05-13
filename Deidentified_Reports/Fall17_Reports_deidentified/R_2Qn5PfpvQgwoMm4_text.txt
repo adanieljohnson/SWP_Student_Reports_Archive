@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-03 13:59:49
+Author of this lab report is: Std_SlGPfqke
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Insignificant Effect of Cold Temperature on Diuron’s Inhibition of Photosynthetic Rate in Spinacia oleracea 
+
+Abstract:
+The purpose of this experiment was to study how cold temperature and Diuron affects photosynthesis in Spinacia oleracea compared to only Diuron at room temperature. Diuron inhibits the photosynthetic rate, but we were specifically interested in the effect of cold temperature on Diuron. We hypothesized that cold temperature will cause an insignificant difference in the photosynthetic rate compared to room temperature in spinach treated with Diuron. The experiment was performed using DCPIP, the Hill reaction to analyze rates of photosynthesis, and a spectrophotometer to measure absorbance. We analyzed two groups with enriched chloroplasts and Diuron, but one group at room temperature and the other at 0°C. We averaged the absorbances, performed a two-sample t-test, and found an insignificant difference in the rates of photosynthesis (p-value = 0.118). Though insignificant, the absorbance was lower (and rate of photosynthesis higher) at room temperature compared to cold temperature. Further studies could be performed over longer periods of time or on different species of plants. The study is relevant in understanding the effect of cold temperature on Diuron’s inhibitive effects and in conducting experimentation for efficient agricultural production specifically regarding temperature.
+
+Introduction:
+We will be studying the effect of a combination of cold temperature and the herbicide Diuron on the rate of photosynthesis in Spinacia oleracea, or spinach. Photosynthesis is a crucial process for life on Earth. In the cells of spinach leaves, like other plant cells, chloroplasts absorb solar radiation in chlorophyll which excites electrons, triggering a chemical reaction that cleaves water to release electrons and generate a proton gradient. The high energy electrons (stored as NADPH) and the proton gradient (which powers ATP synthesis) are both used in reactions to synthesize 6-C glucose from 1-C carbon dioxide. We used the Hill reaction to measure the rate of photosynthesis in our experiment. The Hill reaction describes the general process of electron transfer in the presence of active chloroplasts plus light. DCPIP (2,6-dichlorophenol indophenol) is used as the electron acceptor, which is ideal because oxidized DCPIP is dark blue and reduced DCPIP is colorless. The reduction can be measured as a decrease in light absorbance at 600 nm, using a spectrophotometer. (Lower absorbance means higher rate of photosynthesis). How will cold temperature and Diuron together affect the rate of photosynthesis in spinach? Diuron is an example of a photosystem II herbicide (Allen: 1983). Diuron inhibits photosynthesis by binding to proteins of the photosystem II complex in chloroplast thylakoid membranes, hence blocking electron transport and stopping carbon dioxide fixation (Al-Khatib: 2018). Over a short period of time, cold temperatures do not have a significant effect on the rate of photosynthesis in spinach (Ito: 2013). Diuron inhibits photosynthesis, and cold temperatures have no effect on the rate of photosynthesis. We hypothesized that there will be no significant difference in the comparison of photosynthetic rate in spinach exposed to cold temperature and Diuron, and to room temperature and Diuron. 
+
+Materials and Methods:
+First, we enriched chloroplasts by differential centrifugation. We added leaves of Spinacia oleracea and 10 mL of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) to a mortar, then ground the mixture until it was a thick paste. We added more cold grinding buffer, mixed, and strained through layers of cheese cloth. We transferred green liquid to a chilled 50 mL centrifuge tube and spun it at 200 x G (1200 rpm in the RT-7 centrifuge) for three minutes at 4°C. We then poured that supernatant into a second 50 mL centrifuge tube, without transferring the debris at the bottom. This tube was centrifuged at 1000 x G (2800 rpm in the RT-7 centrifuge) for ten minutes at 4°C, then we poured the supernatant out without disturbing the pellet. We added 20 mL of grinding buffer to the centrifuge tube with only the pellet, and suspended it by stirring gently with a transfer pipet. Overall, we centrifuged two times to end up with the pellet suspended in grinding buffer. The suspended pellet is what was used when quantifying photosynthetic reduction activity.
+	We set up nine test tubes: one as a blank with only 8 mL of water and 2 mL of reaction buffer (100 mM phosphate, pH 6.5) and eight with water, DCPIP, reaction buffer, Diuron, and chloroplasts. The eight tubes (other than blank) consisted of 5 mL of water, 2 mL DCPIP, 2 mL reaction buffer, and 1 mL Diuron. We then added 100 uL of each of the nine test tube solutions to spectrophotometer cuvettes and gently mixed the solutions. We immediately measured absorbances at time zero (at 600 nm). Then we placed all eight cuvettes in light, but four in ice (0°C) and four just in the light for ten minutes. We blanked the spectrophotometer and measured absorbances. We then put the cuvettes back in their environments for ten minutes, blanked, and measured absorbances at 600nm. Then repeated for a final ten minutes.
+	We averaged the absorbances for each group and created a bar graph (Figure 1). We then used a two sample T test to find the p value and determine if there was significance in our results that could potentially support our hypothesis.
+
+
+Results:
+The average absorbance for the group in light at room temperature was 0.394, with a standard error of 0.006. The average absorbance for the group in light and in ice (0°C) was 0.400, with a standard error of 0.003. A slight general trend is observed in which the absorbances at room temperature were lower than the absorbances in cold temperature. Using a two sample T test, we calculated a t-value of 1.821, and a p-value of 0.118. 
+
+Discussion:
+There was little to no change in absorbance at each time (0, 10, 20, and 30 minutes). Therefore, we analyzed our data as the average of all the absorbances (the overall rate of photosynthesis) for each treatment group, rather than looking at absorbances for each time and for each treatment. It is also clear how close our data was and that there was an indistinguishable trend over time when looking at the standard error. The cold temperature did not cause a significant increase or decrease in photosynthetic rate in the spinach leaves, supporting our hypothesis. With a p-value of 0.118, there clearly is no significance in the difference of absorbance for the group at room temperature versus the group in cold temperature. The average absorbance at room temperature was insignificantly lower than the average absorbance at cold temperatures, translating to an insignificantly higher photosynthetic rate at room temperature and a lower photosynthetic rate at cold temperatures. This supports our hypothesis in that there was no significant effect on the rate of photosynthesis due to cold temperature. The results of this experiment are important in the study of the effects of cold temperature on photosynthetic rate in spinach over a short period of time. This experiment could be expanded to study the effects of only cold temperature over a longer period of time in spinach, which would cause a difference in results due to acclimation to the cooler temperatures (Ito: 2013). Another group tested the effect of cold temperatures on spinach over ten days and found that the spinach did acclimate and had an increased capacity for leaf photosynthesis in saturating light and CO2, but not at ambient CO2 concentrations (Martindale: 1997). This experiment could also be run on a different plant. One experiment tested Diuron and cold temperature on tropical seagrasses and found that lower and higher temperatures did reduce the rate of photosynthesis (as did all elevated concentrations of diuron) (Wilkinson: 2017). Another experiment studied regulation of photosynthesis and antioxidant metabolism in maize at optimal and lower temperatures (Foyer: 2002). Overall, the study is important and relevant in the effect of cold temperatures on Diuron’s inhibitive effect on the rate of photosynthesis in spinach. It is relevant to agricultural production and in choosing an efficient environment for growing crops. The effects of temperature are crucial in understanding how and where to most efficiently grow certain crops, especially with the changing climate of Earth.
+
+Literature Cited:
+1.	Al-Khatib, Kassim. Photosystem II Inhibitors. University of California IPM. Accessed March 19, 2018. &lt; http://herbicidesymptoms.ipm.ucanr.edu/MOA/Photosystem_II_Inhibitors/&gt;.
+2.	Allen, M, Turnburke, A, Lagace, E, Steinback, K. Effects of Photosystem II Herbicides on the Photosynthetic Mebranes of the Cyanobacterium Aphanocapsa 6308. Accessed March 19, 2018. &lt; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1066042/&gt;.
+3.	Foyer, C. Vanacker, H, Gomez, L, Harbinson, J. Regulation of photosynthesis and antioxidant metabolism in maize leaves at optimal and chilling temperatures: review. Accessed March 19, 2018. &lt; https://www.sciencedirect.com/science/article/pii/S0981942802014250&gt;.
+4.	Ito, A, Shimizu, H, Hiroki, R, Nakashima, H, Miyasaka, J, Ohdoi, K. Effect of Acclimation of Root Area to Low Temperature on Nutritional Quality of Spinach. Accessed March 19, 2018. &lt; https://www.sciencedirect.com/science/article/pii/S1474667016335005&gt;.
+5.	Martindale, Wayne. Acclimation of photosynthesis to low temperature in Spinacia oleracea L. Accessed March 19, 2018. &lt; http://uv7gq6an4y.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3AAke%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Acclimation+of+photosynthesis+to+low+ttemperatur+in+Spinacia+oleracea+L.%3A+I.+Effects+of+acclimation+on+CO2assimilation+ana+carbon+partitioning&rft.jtitle=Journal+of+Experimental+Botany&rft.au=Wayne+Martindale&rft.au=Richard+C.+Leegood&rft.date=1997-10-01&rft.pub=OXFORD+UNIVERSITY+PRESS&rft.issn=0022-0957&rft.eissn=1460-2431&rft.volume=48&rft.issue=315&rft.spage=1865&rft.epage=1872&rft.externalDocID=23692369&paramdict=en-US&gt;.
+6.	Wilkinson, A, Collier, C, Flores, F, Langlois, L, Ralph, P, Negri, A. Combined effects of temperature and the herbicide diuron on Photosystem II activity of the tropical seagrass Halophila ovalis. Accessed March 19, 2018. &lt; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5372466/&gt;.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=214L+Figure+1+%28Report+1%29.png&Size=26053&Type=image%2Fpng&F=F_26gybHjtzLfDVZL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average absorbance for each treatment. Solutions put in only light at room temperature are represented by the blue bar. Solutions put in 0°C and light are represented by the orange bar. Each bar represents the average absorbance for each treatment over the total time. The error bars represent standard error.
+
+*************************************************************************

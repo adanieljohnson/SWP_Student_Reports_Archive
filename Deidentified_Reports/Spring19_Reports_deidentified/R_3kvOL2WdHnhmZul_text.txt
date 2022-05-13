@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-22 00:58:32
+Author of this lab report is: Std_Dd5sf97B
+ID: R_3kvOL2WdHnhmZul
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: Resource Allocation Observed in Radishes Root to Shoot Length Ratios Between Radishes Given Tap Water and Radishes Given Salt Water
+
+Abstract:
+Plants can reallocate to the systems that need it the most based on their environmental conditions. To observe phenotypic plasticity in plants we examined Raphanus raphanistrum subsp. sativus, and the differences in root:shoot length that occured between radishes given salt water and radishes given tap water over the course of two weeks. Radishes were an optimal plant choice for this study because they are quick and simple to grow, and have well defined roots and shoots that are easy to measure. We hypothesized that radishes treated with salt water would have a different root:shoot length than those treated with regular water. Radishes in different groups were grown in separate pots under similar conditions in a greenhouse for two weeks, receiving only their respective form of water. Plants given salt water had a higher mean root:shoot length than radishes given normal water. A two-tailed, two-sample t-test was conducted, and a significant result (p-value=3.14x10-5) was obtained, showing that radishes watered with salt water display a significantly different root:shoot length than radishes given tap water. This is likely due to radishes under salt water conditions reallocating resources from shoot growth to root growth in order to find more water.
+
+Introduction:
+Natural resources have limited availability, so optimizing resource conservation and consumption is always a primary concern for all living organisms. Plants have been known to redistribute their energy expenditure, and understanding which environmental conditions lead to which specific changes in resource allocation is important to understanding their nature. The phenotypic plasticity, or ability to adapt to surroundings, in plants has been compared to an economic model where plants make energy “investments” in growth from which they will receive the most benefit [Bazzaz: 1997]. Plants must account for a multitude of changing abiotic factors like the amount of light, nitrogen, and water they receive. It has been shown that plants partition the biomass in shoots and roots in response to variation in light and nutrient availability, so plants that are not receiving a lot of light will grow more, larger shoots in an attempt to capture more sunlight [McConnaughay: 1999]. We are wondering if radishes use a similar method of resource allocation when faced with an insufficient supply of water. This could inform us if radishes are capable of the same phenotypic plasticity of other studied plants, and if differences in water levels has the same capability to induce changes in root to shoot length ratios that light and nutrients does. If one group of radishes is given saltwater while another group is given regular water, then there should be a difference in root to shoot length ratios between the two groups.
+
+Materials and Methods:
+First we obtained four small pots filled with vermiculite and treated them with miracle grow. We then put about 30 radish seeds in each pot and gave each pot about 150 mL of tap water. Next we labeled two of the pots two be given salt water and two to be given tap water and put them in a greenhouse. The pots were watered at least every other day with either salt water or tap water respectively for two weeks. The radish plants were then carefully removed from the soil in a water bath, making sure to not break any of the roots or shoots. Three plants from every pot were measured for their root and shoot length to determine the mean and standard deviation of root to shoot length of the two groups. A two-tailed two-sample t-test was used to determine the difference in average root to shoot length ratio between radishes given salt water and radishes given tap water.
+
+Results:
+The mean root:shoot length for radishes given salt water was 2.941, and the mean root:shoot length for radishes given tap water was 1.468 (Fig.1). The standard deviation from the mean root:shoot length in radishes given salt water was 0.742 and the standard deviation from the mean root:shoot length in radishes given tap water was 0.406 (Fig.1). We used a two-tailed two-sample t-test to analyze our results and determined that the average root:shoot length for radishes given salt water was statistically significantly different from the average root:shoot length for radishes given tap water (t-value=5.508, df=18, p-value=3.14x10-5). Over the course of the two weeks, radishes given tap water grew much faster than radishes given salt water. When we harvested them, there were about a third as many sprouting radishes in the salt water pots as there were in the tap water pots, and the plants given tap water grew a lot taller than those given salt water. Overall the radishes given salt water showed very different growth patterns than those given tap water.
+
+Discussion:
+Our hypothesis, that giving radishes salt water would give them a different root:shoot length than radishes given tap water was supported by the data. We observed a significant difference at the .05 level suggesting that water intake does have an effect on radish resource allocation, as radishes given salt water grew larger roots compared to shoots than radishes given regular water. Radishes treated with salt water did not have as much access to water as radishes given tap water, this likely resulted in a redirection of energy from shoot to root growth in an attempt to find and absorb more water which is why they had longer roots than shoots. This is an intriguing result because studies in the past have shown no significant difference in root:shoot biomass when plants were given less water [McConnaughay]. However, in this study the plants used were not radishes and they were not given salt water, just a lower amount of water than the other plants. Furthermore, their study measured biomass rather than length and we cannot say for sure if the root:shoot masses changed. In future experiments I would replicate this experiment simply to have more data to work with, but I would also try again using different plants and less water instead of salt water to see if our group’s results were dependent on a factor not included in the study mentioned above.
+
+
+Literature Cited:
+1. Bazzaz FA, Grace J. 1997. Allocation of Resources in Plants: State of the Science and Critical Questions. In: Bazzaz FA, Grace 
+    J. Plant Resource Allocation. New York: Academic Press. pp 1-30.
+2. McConnaughay KDM, Coleman JS. 1999. Biomass allocation in plants: ontogeny or optimality? A test along three resource 
+    gradients. Ecology. 80: 2581-2593.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chart+%281%29.png&Size=7882&Type=image%2Fpng&F=F_tQloSaHvasYsZ0d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of salt water on mean root:shoot length in radishes. Radishes given salt water are shown in black, and radishes given tap water are shown in gray. Roughly 60 radish seeds were treated with salt water for two weeks and roughly 60 radish seeds were treated with tap water. Root lengths were measured from the tip of the root to the junction with the shoot and the shoot lengths were measured from the junction with the root to the tip of the longest leaf. Each bar is the mean root to shoot ratio of 6 radishes from each treatment group; error bars are ±2 s.d.*************************************************************************
+
+
+

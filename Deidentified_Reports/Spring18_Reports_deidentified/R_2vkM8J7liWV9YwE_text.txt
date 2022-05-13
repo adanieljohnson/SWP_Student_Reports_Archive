@@ -1,0 +1,102 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-21 13:35:23
+Author of this lab report is: Std_EJXwqTwu
+ID: R_2vkM8J7liWV9YwE
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: Measuring photosynthetic activity of Spinach and Kale in varying salt concentration mediums to assess effects of salt stress on photosynthetic rate
+
+Abstract:
+             The question the experimenters wished to answer was whether or not high salinity would have an effect on rate of photosynthesis in both spinach and kale chloroplasts. The chloroplasts are isolated using centrifugation techniques and then reacted with a specific reaction buffer to allow photosynthesis to take place. DCPIP is also used in the experiment so that it will turn from blue to clear as photosynthesis allows it to be reduced. This is measured using absorption to track the change in color as a way to mark photosynthetic activity. The results did not show any significance, but the kale appeared to prefer the high sodium concentration, but not quite to the degree of significance. A further study that would be beneficial with the growing amounts of salinity in the soil due to human causes would be to look at Kale growing in sodium to see if it has the same effects.
+
+
+Introduction:
+        In agriculture, the effect of salinity on crop health is well-documented as it is often detrimental to yield. In many plants, salinity an induce osmotic stress, suppress nutrient absorption, affect biomass allocation patterns and is thought to alter many other physiological processes [Rasmuson: 2002]. Hyper-salinity of soil can limit the growth of plants in their natural habitats, decreasing leaf numbers as concentrations increase [Amira: 2011]. Salt is thought to induce drought-like effects on plants by affecting uptake of water by the roots and thereby inhibiting the plants' ability to transport nutrients [6]. 
+
+       The effect of salinity on plant growth, and of crops, in particular, is an issue of global import as it can impact food yield. The impact is already being seen as an estimated twenty percent of land in the world and thirty-three percent of irrigated land is salt-affected or degraded [Machado: 2017]. This area is increasing as climate changes around the world leading to overdependence on groundwater especially in areas close to a saltwater body. Overdrawing from freshwater wells near salt water bodies can lead to the contamination of that freshwater as salt water fills the water table in its absence. Use of this low-quality often-salty water has detrimental effects on agricultural production because most vegetables are particularly sensitive to salt [Machado: 2017].
+The effects of salinity on a plant as a whole are well-documented, however, the effect of salt directly on photosynthesis and chloroplasts in isolation seems less well-studied. An experiment by Suo et al [2017] found that at the level of the chloroplasts, salinity can increase the rate of reactive oxygen species’ production during normal cell metabolism. These species can then wreak havoc on the organelles’ proteins, fatty acids and cause alterations in the thylakoid membrane make-up if left unchecked by the plant. This, of course, is to the detriment of photosynthetic rate if the damage is severe enough to damage or destroy the membrane [Suo et al: 2017]. 
+
+       Given this information, the goal of this experiment is to assess the effects of salt stress on photosynthetic activity of chloroplast pellets isolated from kale and spinach leaves. Three different salt concentrations are used based upon prior data concerning salt stress on various vegetables and are expected to be effective [Cambell: 1971]. It should be noted, however, that the aforementioned source gathered data from plants exposed to salinity prior to having their chloroplasts harvested. In this experiment, only the chloroplasts will be exposed to the salt and thus some deviation of results is expected due to this difference. The study by Cambell and Pitman [1971] was used as a basis to create a range of salt concentrations that would yield results while not immediately causing the organelles in question to shrivel and die. Given that light and temperature conditions, as well as the overall number of chloroplasts and their age,  are kept constant, we expect that the highest photosynthetic inhibition will be observed in the highest salt concentration and the lowest inhibition with the lowest concentration. A DCPIP assay will be used to assess photosynthetic activity by gauging the rate of the Hill Reaction taking place. From this data, the effect of salinity and relative salinity of spinach can be obtained. 
+
+
+Materials and Methods:
+Pack a mortar and pestle, 2 medium sized beakers, and 6 50mL centrifuge tubes into ice. First, the chloroplasts needed to be isolated from the other organic materials, so with a mortar and pestle, crush up four large spinach leaves after their large veins have been removed, adding 10 mL of cold grinding buffer. After that is a thick paste, add 10 mL of cold grinding buffer again and mix, then strain into a beaker through three layers of cheesecloth, and pour the strained liquid in a centrifuge tube to be centrifuged at 200 X G for 10 minutes. Then pour the liquid of that centrifuged tube into a second and care was taken to not have the solid at the bottom in the next tube. This tube was centrifuged at 1,000 X G for 10 minutes, and the liquid was poured out, leaving the pellet at the bottom of the tube. The pelleted contained the most chloroplasts, so it was resuspended using 20 mL of cold grinding buffer. This was all repeated with Kale as well.
+        	Next, the hill reaction needed to be completed, so test tubes were compared in the following manner (See Table 1):
+Once these are all made for both the Kale and the Spinach, the 100 ul of chloroplasts were added and the test tubes were mixed. The absorbance was measured at time 0 and recorded. After 5 minutes, the absorbance was measured again, and then again after 15 minutes and the percent change was calculated.
+The data was analyzed using two-sample t-tests between the chloroplast only conditions and the various salt conditions within each plant sample. The significance is defined as a P-value of less than 0.05. 
+
+
+Results:
+       Overall, none of the conditions when compared to one another yield even slightly significant results; thus the null hypothesis must be rejected in all cases and we conclude that there is no statistically significant relationship between salinity concentration and decreased photosynthetic activity in spinach or kale leaf chloroplasts. The kale chloroplasts performed slightly better--though not enough to achieve significance--when placed in a salty environment compared to the chloroplast control in salt-free solution. This is true for all three salt conditions (figures 6-8). Spinach trends are similar only less extreme for NaCl concentrations of 10 and 50 mM, however, there is an insignificant drop in absorption indicative of a decrease in activity relative to the control at 800 mM NaCl. These trends, while insignificant, are opposite what was initially hypothesized.
+
+
+Discussion:
+       None of the conditions, as stated, produced significance, whether between chloroplast-free and chloroplast-only controls or between the chloroplast control and the various salt conditions. The trends in the data do offer some interesting possible explanations and conclusions, however. As stated above, the kale chloroplasts performed slightly better--though not enough to achieve significance--when placed in a salty environment compared to the chloroplast control in salt-free solution. These trends could possibly be explained by the chloroplasts responding to differences in the isolation medium, including differences in salt. A study by Honda et al [1966] sought to determine the optimal medium for the isolation of chloroplasts, nuclei, and mitochondria so that the specimen might be observed in vivo post isolation with minimal alterations to the appearance and function of those organelles. In brightfield, it was noted that damaged chloroplasts that had either ruptured from the grinding process or had swollen to the point of dysfunction were bright and reflective. A preliminary experiment to the one we performed above to determine which fraction of the centrifuged samples was most dense in chloroplasts yielded similar results of bright chloroplasts under the microscope; this suggests that perhaps the method of isolation is too rough and permits inaccuracies by the sheer destruction of the chloroplasts alone. It also suggests that the medium used--including the grinding and buffering solutions--might not have been optimal to begin with. The fact that spinach chloroplasts would reflect light in brightfield when hypotonic or damaged supports this conclusion [Honda et al : 1966]. The same might be concluded for kale, and it is suggested that in future experiments that the samples be examined prior to ensure the chloroplasts are not only present but healthy. If the medium chosen was hypotonic relative to the molarity of the normal cytosol of either plant, the addition of solute like NaCl would be expected to improve photosynthetic performance to a point. It is also noted by Honda et al [1966] that hypertonic chloroplasts, while not reflective under bright-field, do curl up and shrivel in a distinct way, again inhibiting photosynthetic potential and overall functioning of the organelle. This finding provides a possible explanation for the data presented in figure 4 in which spinach displayed insignificantly less photosynthetic activity relative to the chloroplasts alone in control solution, suggesting that this isotonic to hypertonic threshold had been crossed with 800 mM concentration of NaCl in spinach but not in kale.
+
+        In future iterations of this experiment, the medium used to isolate the chloroplasts should be as close in molarity as possible to the molarity of the cytosol of either plant to ensure the chloroplasts are not overly altered prior to the experimental condition being applied. In order to obtain this optimal medium, perhaps multiple isolations of either plant should be carried out and then examined under brightfield; the sample with the least amount of reflective chloroplasts would be optimal. With similar starting points, then significant results might be achieved when comparing the photosynthetic rate with the addition of various salt solutions beyond the typical conditions within the plant cell in question. There also may be a significant result for the controls comparison, indicative that the chloroplasts are functioning at a higher rate and thus produce a higher absorbance than the chloroplast-free control (figures 1 & 5); this result was not seen in this experiment which calls into question the efficacy of the methods used.
+
+    Understanding how plants respond to salt stress is a topic of great concern in the agricultural business and for food security in a warming world. As people overdraw from freshwater sources and contaminate them with salt, or attempt to farm salt-degraded soils, studies like this one provide some insight as to the happenings within the plant at the cellular level [Chaves et al: 2009]. They can serve as a powerful deterrent from unsustainable practices with respect to freshwater use alongside the more common research into impacts that salt has on the plant organism as a whole.
+
+
+Literature Cited:
+1. Chaves MM, Flexas J, Pinheiro C. 2009. Photosynthesis under drought and salt stress: regulation mechanisms from whole plant to cell. Annals of Botany. 103(4): pp.551–560.
+
+2. Rasmuson KE, Anderson JE. 2002. Salinity affects development, growth, and photosynthesis in cheatgrass. Range Management. 55:80-87.
+
+3. Amira MS, Qados A. 2011. Effect of salt stress on plant growth and metabolism of bean plant Vicia faba (L.). Journal of the Saudi Society of Agricultural Sciences. 10(1): 7-15. 
+
+4. Downton WJS, Grant WJR, Robinson SP. 1985. Photosynthetic and Stomatal responses of spinach leaves to salt stress. Plant Physiology. 77: pp. 85-88. 
+
+5. Machado RMA, Serralheiro RP. 2017. Soil salinity: effect on vegetable crop growth. Management practices to prevent and mitigate soil salinization. Horticulturae. 3(2): 30.
+
+6. Salt Tolerance of Plants. Accessed March 12, 2018. &lt;https://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/agdex3303&gt; 
+
+7. Robinson SP, Downton WJS, Millhouse JA. 1983. Photosynthesis and ion content of leaves and isolated chloroplasts of salt-stressed Spinach. Plant Physiology. 73: pp. 238-242. 
+
+8. Suo J, Zhao Q, David L, Chen S, Dai S. 2017. Salinity response in chloroplasts: insights from gene characterization. International Journal of Molecular Science. 18(5): 1011.
+
+9. Campbell LC, Pitman MG. 1971. Salinity in Plant Cells. In: Talsma T, Philip JR. Salinity and Water Use: A National Symposium on Hydrology Sponsored by the Australian Academy of Science 2-4 November 1971. London and Basingstoke: The Macmillan Press. pp. 207-221.
+
+10. Honda SI, Hongladarom T, GG Laties. 1966. A new isolation medium for plant organelles. Journal of Experimental Botany. 17(3): pp. 460-472.
+
+11. Johnson AD. Unit 2: Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 4, 2018).
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28177%29.png&Size=101334&Type=image%2Fpng&F=F_26nE4HIUN69dvgm
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28162%29.png&Size=92040&Type=image%2Fpng&F=F_2UaM0vnFJULhVC3
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28158%29.png&Size=68461&Type=image%2Fpng&F=F_1HqyDGC5dDd6cZM
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28163%29.png&Size=88796&Type=image%2Fpng&F=F_wZxilbwOgJgYCSR
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28159%29.png&Size=68909&Type=image%2Fpng&F=F_2RWws3cKMoQ4Y7T
+
+Figure 6: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28164%29.png&Size=87938&Type=image%2Fpng&F=F_3neEjzmR0laEpC8
+
+Figure 7: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28160%29.png&Size=65784&Type=image%2Fpng&F=F_R4DWxn1Z5vlyTyF
+
+Figure 8: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28165%29.png&Size=65939&Type=image%2Fpng&F=F_eV4IRzrAnz9pEaJ
+
+Figure 9: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28161%29.png&Size=67356&Type=image%2Fpng&F=F_sjlqA9akyAJ4YjD
+
+Figure 10: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28166%29.png&Size=126422&Type=image%2Fpng&F=F_6XU3sVR1Bvxpxbb
+
+Figure 11: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%28167%29.png&Size=102497&Type=image%2Fpng&F=F_3McctJ6WpHNjnuO
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+(Captions included with figures)
+
+*************************************************************************

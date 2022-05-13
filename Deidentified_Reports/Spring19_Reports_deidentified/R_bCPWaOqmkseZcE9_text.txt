@@ -1,0 +1,79 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-12 00:14:09
+Author of this lab report is: Std_V2a2G0YL
+ID: R_bCPWaOqmkseZcE9
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Lab 1: Hormones and Manduca Sexta
+
+Abstract:
+Manduca Sexta, commonly known as the Tobacco Hornworm, is a holometabolous Lepidoptera. This means that the worm has a four-stage lifecycle marked by periods as an egg, a larvae, a pupae, and an adult [Bollenbacher, 1981]. Each stage is regulated by the absence or presence of hormones, most notably Ecdysterone (20E) and Juvenile Hormone (JH).  JH, is produced by the Corpus Allata, located in the foregut of the worm. JH regulates the type of molt the caterpillar undergoes. We expected the caterpillars that were fed JH hormones to grow larger and at a faster rate than our control group, however, our hypothesis was disproven as our results showed no significance between the two groups. Though our hypothesis was not supported, our results are still significant. Tobacco Hornworms are considered pests by many farmers. By knowing that the use of JH hormones does not affect the caterpillars in a positive or negative way in eight or fewer days, farmers can use alternative methods for protecting their crop.
+
+Introduction:
+Manduca Sexta, commonly known as the Tobacco Hornworm, is a holometabolous Lepidoptera. This means that the worm has a four-stage lifecycle marked by periods as an egg, a larvae, a pupae, and an adult [Bollenbacher, 1981]. During the larval stage, hornworms undergo a series of five stages that prepare the larvae for pupation. Each stage is regulated by the absence or presence of hormones, most notably Ecdysterone (20E) and Juvenile Hormone (JH) [Johnson, 2016]. 
+	The former is secreted by cells that form prothoracic glands, located in the head and thorax. Ecdysterone regulates the timing of molting during development [Bollenbacher, 1981]. The latter, JH, is produced by the Corpus Allata, located in the foregut of the worm. JH regulates the type of molt the caterpillar undergoes [Vince, 1977]. 
+	During the fourth larval stage, JH levels begin to drop and 20E levels begin to rise [Vince, 1977]. At the fifth larval stage, the commitment pulse occurs. This signals when the caterpillar is large enough to pupate and form a normal sized adult. The commitment pulse is signaled by a rise in 20E hormones without the accompaniment of JH. 
+	Certain plants, like the Blue Flossflower (Ageratum houstonianum), contain insect growth regulators, also known as IGRs. IGRs are currently marketed as an alternative pesticide. One of these is called Precor. It is a form of methoprene, a molecule that mimics JH [Johnson, 2016]. IGRs are used over pesticides because they will not affect species that lack/do not use JH hormones. 
+
+
+Materials and Methods:
+First, obtain eight tobacco hornworms and separate them into two groups of four. Record the weight and length of each of the hornworms (in grams and centimeters respectively). Then place each caterpillar in its own separate rearing jar.
+Feed each group one of two diets:
+ 1.) Control diet: Measure out 40g of Great Lakes Manduca (GLM) feed. Separate the 40g into four groups of 10g. Add 10 drops (approximately 100µL)  of distilled water to one group of feed. Stir and compact the moistened feed into a single clump before placing in a control worm’s individual container. Repeat for the remaining three groups.
+ 2.) Test Diet: Measure out 40g of GLM feed. Separate the 40g into four groups of 10g.  Add 10 drops (approximately 100µL)  of 1/1250 dilute Precor to one group of feed. Stir and compact the moistened feed into a single clump before placing in a control worm’s individual container. Repeat for the remaining three groups.
+Then place all the caterpillars in the same incubator. Expose the caterpillars to 24 hours of light during the length of the experiment. Once a day for eight days, weight and measure each caterpillar. Clean all cages and change the food. Make observations as needed. 
+
+
+Results:
+Caterpillar eight died on day eight but was still weighted on that day. 
+
+Over the first four days, the control group caterpillars and the test group caterpillars were of similar weights. Only on the fifth day did the groups begin to differ. The control groups eventually appeared to be at a larger weight than the test group at the end of the eight-day period, but standard deviation and standard error state that there is no statistical difference between the groups. Both the control group and the test group had outliers. The largest in both the control group and the test group (caterpillars 3 and 5) as well as the smallest (caterpillars 2 and 8). In total, we had four outliers. 
+
+At a 95% confidence interval, the one-tailed t-test gave a p-value of 0.25445563. This means that the alternate hypothesis is rejected and that the use of JH hormones on the caterpillars does not have a significant effect on caterpillar growth. 
+
+
+Discussion:
+Our hypothesis, that JH hormones would increase the growth and growth rates of the test group caterpillars, was not supported. We found no significant difference between our test group and out control group, with a p-value for a 1-tailed t-test to be 0.25445563. 
+	Though our hypothesis was not supported, our results are still significant. Tobacco Hornworms are considered pests by many farmers. By knowing that the use of JH hormones does not affect the caterpillars in a positive or negative way in eight or fewer days, farmers can use alternative methods for protecting their crop. Further testing should be done, extending the time period the caterpillars are exposed to JH, seeing how it affects the maturation and sexual maturity of Manduca sexta. If the experiment were to be done again, a larger number of test groups and test subjects should be used to maximize data and minimalize outlier data.
+
+Literature Cited:
+Bollenbacher, W., Smith, S., Goodman, W., and Gilbert, L. "Ecdysteroid titer during larval-pupal-adult development of the tobacco hornworm, Manduca sexta." 1981. General and comparative endocrinology 44, no. 3 (1981): 302-306.
+
+ Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+Vince, R. K., & Gilbert, L. I. (1977). Juvenile hormone esterase activity in precisely timed last instar larvae and pharate pupae of Manduca sexta. Insect Biochemistry, 7(2), 115-120.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+1.png&Size=14025&Type=image%2Fpng&F=F_8IxRjFIjStX9cL7
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+2.png&Size=15775&Type=image%2Fpng&F=F_3JsLDIfzbyhpzt6
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=SD+of+Hornworms.png&Size=10373&Type=image%2Fpng&F=F_27Uc9L1kIbwID9N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Weight of control caterpillars over a period of eight days.
+Figure 2: Weight of test caterpillars over a period of eight days
+Figure 3: Standard deviation of weight of the control and test group caterpillars over a period of eight days*************************************************************************
+
+
+

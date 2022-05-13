@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-30 13:13:24
+Author of this lab report is: Std_MF08cxFt
+ID: R_33r0cRt6fWEptqX
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Effect of Caffeine on Physarum polycephalum Growth
+
+Abstract:
+This experiment seeks to determine the effect of caffeine on the cAMP signaling pathway of Physarum polycephalum. The cAMP signaling pathway is a second messenger pathway that activates effector proteins such as Protein Kinase A, which controls movement and metabolism. Physarum polycephalum growth was measured on agar plates containing varied concentrations of caffeine solution after a twenty-four hour incubation period. The area of Physarum polycephalum growth on each plate was measured using ImageJ Software. Caffeine is expected to increase the growth rate of Physarum polycephalum by inhibiting the enzyme phosphodiesterase. Phosphodiesterase breaks down the second chemical messenger cyclic adenosine monophosphate; thus, because caffeine indirectly prevents the breakdown of cAMP, it allows increased growth and movement to occur. It was therefore hypothesized that increasing caffeine concentrations would increase the area of Physarum polycephalum growth in the twenty-four hour period; however, the results of this experiment supported the alternative. 
+
+Introduction:
+Physarum Polycephalum is a large multinucleated yet unicellular protist.
+This “slime mold” possesses a unique capacity to respond to its external environment despite lacking both a nervous system or endocrine system. Physarum polycephalum has the ability to exhibit a variety of orienting behaviors in response to certain stimuli. Depending on the stimulus, Physarum polycephalum can display positive or negative reactions to chemicals (chemotaxis) and light (phototaxis). Physarum mobilizes in response to these stimuli using its actin-myosin cytoskeletal components [Oettmeir: 2017].  Physarum grows via amoebal fusion, and as it grows, the nuclei divide in the absence of cell division; the resulting multiple nuclei are referred to as a plasmodium. This plasmodium then forms a tubular network that changes conformation and adapts to any environmental stimuli it encounters [Alim: 2013]. One of the major signalling pathways in Physarum polycephalum is the cyclic adenosine monophosphate mediated, or cAMP pathway. In this pathway, phosphodiesterase is the enzyme responsible for the breakdown of the second messenger cAMP.  cAMP, once activated, diffuses through the cell and binds to various substrates, in particular, Protein Kinase A. Protein Kinase A regulates the movement and metabolism of Physarum. A previous study discovered that the the hydrolysis of cAMP by phosphodiesterase results in a decrease in Physarum polycephalum growth rate [Matveeva: 2010]. Caffeine is known to be a nonselective phosphodiesterase inhibitor. [Boswell-Smith: 2006]. Therefore, it is expected that because caffeine inhibits phosphodiesterase activity, it would in turn increase Physarum polycephalum growth. It is hypothesized that increased concentrations of caffeine in the agar plates will result in increased of growth of Physarum polycephalum.
+
+
+Materials and Methods:
+Nine PDA agar plates were first obtained. Three were labeled as control, three were labeled as 1x caffeine concentration, and three were labeled as 2x caffeine concentration. The control plates were not soaked in anything, but the plates labeled 1x and 2x caffeine concentration were soaked in 1x and 2x caffeine concentrated solutions respectively. These solutions were prepared by taking a stock caffeine solution and diluting the 1x solution by adding 10mL of deionized water and diluting the 2x solution by adding 5mL of deionized water. The solution was poured onto the agar plates so that the surface of the agar was completely covered. The treatment plates were then left for ten minutes for the caffeine solution to soak into the agar; the excess solution was then poured off. 
+	Once the soaked plates were prepared, a 1x1cm cube of agar was cut out and removed from the center of each of the nine plates. The spatula used in this removal process were sterilized using ethanol after each cube was cut out. A 1x1cm cube from the Physarum polycephalum culture plate was then cut out and placed into the hole in the center of each plate. Again, the spatula used were sterilized using ethanol after each cube was cut and placed into the hole in each of the plates. 
+	The agar plates were then sealed by taping down the lids and placed in an light-blocking dark bag and then into an incubator set at optimal temperature conditions for the Physarum polycephalum to grow. The plates were then left to grow their cultures for approximately twenty-four hours before data collection. ImageJ Software was then used to photographically measure the area of Physarum growth. The statistical significance of the difference in Physarum polycephalum growth area caused by each caffeine solution concentration was then to be determined using a 1-way ANOVA  test.
+
+
+Results:
+The expected results based on research were that the 2x caffeine concentration plates would have seen the greatest growth of Physarum polycephalum and the 1x plates would have more growth than the control, but not as much as the 2x plates. The results obtained did not provide evidence that supports this claim, as the control had the greatest area of growth and the 1x caffeine concentration had the second greatest area of growth (Figure 1).
+	The numerical results obtained represent the number of pixels characterized as Physarum polycephalum. Because all of the petri dishes used were equal in size, and increase in number of pixels of Physarum polycephalum should indicate more growth. The ANOVA test to determine the difference in Physarum polycephalum growth between caffeine concentrations resulted in a p-value of 0.000193. 
+
+Discussion:
+The results of the experiment did not reflect the hypothesis that increased caffeine concentrations would increase Physarum polycephalum growth. The low p-value obtained supports the alternative: that increased caffeine inhibition decreases Physarum polycephalum growth.
+A previous study observed that inhibition of the phosphodiesterase enzyme by caffeine in 
+Physarum polycephalum allows second messenger cAMP to function, which then allows Protein Kinase A to be activated [Boswell-Smith: 2006]. Protein Kinase A is responsible for movement and metabolism, so if it is activated, Physarum polycephalum should grow to cover a larger area. 
+	One study that supports the findings of this experiment states that agents known to enhance calcium fluxes, including caffeine, affect chemotaxis and phototaxis [Hader:1985]. Calcium fluxes decrease Physarum polycephalum movement, which explains why if caffeine enhances these fluxes, movement of the experimental Physarum polycephalum may decrease. 
+In order to further understand the role of phosphodiesterase in the cAMP signaling pathway, it would be beneficial to activate phosphodiesterase rather than inhibit it and observe the opposite effects. Using a drug that activates phosphodiesterase would be expected to promote the breakdown of cAMP, thus slowing Physarum polycephalum growth and movement. Examining the effects of a drug that has the opposite effect of caffeine on phosphodiesterase would allow for a greater understanding of the role of cAMP in growth.  
+
+
+Literature Cited:
+Oettmeir, C., Brix, K., Dobreiner, H.G., 2017. Physarum polycephalum—a new take on a classic model system. Journal of Physics D: Applied Physics. 50: 41.
+Alim, K., Andrew, N., Pringle, A., 2013. Physarum. Cell. 23:1082-1083
+Matveeva, N.B., Morozov, M.A., Nezvetskiĭ, A.R., Orlova, T.G., Teplov, V.A., Beĭlina, S.I., 2010. Involvement of extracellular cAMP-specific phosphodiesterase in control of motile activity of Physarum polycephalum plasmodium. Biofizika. 55:1076-1082
+Boswell-Smith, V., Spina, D., Page, C., 2006. Phosphodiesterase inhibitors. British Journal of Pharmacology. 147: 252-257.
+Häder, D., 1985. Role of Calcium in Phototaxis of Physarum polycephalum. Plant and Cell Physiology. 26: 1411-1417.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+1.12.42+PM.png&Size=53050&Type=image%2Fpng&F=F_Wp4c5eyr6C866E9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average area of Physarum polycephalum growth measured in pixels using ImageJ Software after a 24-hour time period. Error bars represent ±2 standard deviations of the mean. *************************************************************************
+
+
+

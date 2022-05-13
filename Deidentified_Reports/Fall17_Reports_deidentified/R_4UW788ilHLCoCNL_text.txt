@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-02 16:31:10
+Author of this lab report is: Std_4v6MxdBy
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Effect of Light and Darkness on specific metabolic rate of Procambarus sp
+
+Abstract:
+The objective of this lab was to examine the effect of light and darkness on the specific metabolic rate of Procambarus sp. Specific metabolic rate is calculated because it is directly proportional to the amount of energy expended by that animal. Our hypothesis is that lack of light in an environment will affect the rate of oxygen consumption, so the specific metabolic rate decreases due to the amount of light in an environment. Specific metabolic rate was calculated with the weight of the Procambarus sp taken into account in the formula. Observations, in the lab, were made by taking readings from an instrument every five minutes for twenty minutes. The results did not support our hypothesis for any of the three Procambarus sp. All of the specific metabolic rates were higher in the dark environment. No conclusions could be made from our data because our p-value was not significant at 0.167904.
+
+
+Introduction:
+Aerobic respiration is the main source for animals to create ATP energized molecules. In order for this first to occur, there must first be a reaction such as converting glucose into energy release high-energy electrons. These electrons are then captured by NAD+ and FAD which then transport the high energy electrons to the electron transport system that uses the energy of the electron to convert ADP into ATP. These electrons become removed when they are changed to molecular oxygen, O2, which is then converted to water. The water is then used to either join the body fluids or is excreted as necessary. In turn, metabolic rate changes given conditions. For example, an increase in temperature leads to an increase of metabolic rate. 
+
+For our lab we are measuring the specific metabolic rates of Procambarus sp which has a direct correlation to the amount of oxygen consumed. Specifically, we are going to look at how darkness may affect the oxygen consumption of three different Procambarus sp. Procambarus sp are used in this lab because they are easily accessible and they are exotherms that are easily affected by changing environments. In a similar study done with mice, it was concluded that the metabolic rate of the mice increased in a bright environment compared to a dark one [Evans, Addy; 2015]. Based on what this study concluded, we can hypothesize that lack of light in an environment will affect the rate of oxygen consumption, so the specific metabolic rate decreases due to the amount of light present in an environment.
+
+
+Materials and Methods:
+1.	Weigh one of the three Procambarus sp 
+2.	Place the Procambarus sp into the mason jar, the chamber
+3.	Fill the mason jar up to the top with 22C room temperature water that has been saturated by air 
+4.	Set the test chamber into a dishpan that is also filled with water and then screw on the top so that the tops overflow slightly 
+5.	Turn on instrument and take a baseline reading 
+6.	Take reading every 5 minutes for 10 minutes 
+7.	Keep the same Procambarus sp but switch the water and this time, cover the mason jar with aluminum foil 
+8.	Place in dishpan 
+9.	Screw on top with probe 
+10.	Turn on instrument and take baseline reading 
+11.	Take reading every 5 minutes for 10 minutes 
+12.	Repeat entire process of light and dark readings with the two other Procambarus sp
+13.	Calculate specific metabolic rate for all the Procambarus sp using the formula 
+                        specific metabolic rate= ((change in O2 (mg/L) x (volume of H2O (L))/ ((time (min) x weight (g))
+14.	Compare results to see if darkness had an effect on the amount of oxygen the Procambarus sp was getting using a bar group and a two tailed t-test
+
+
+Results:
+In Figure 1 the mean for the control is 0.000605667 mg of O2/min(g) and for the experimental is 0.001488667 mg of O2/min(g). The standard deviations are 0.000229106 for the control and 0.000503156 for the experimental. The p-value is 0.167904 so the values are not statistically significant because they are greater than 0.05. The general trend of figure 1 shows that the averages of the specific metabolic rate for the control and the experimental was higher for the crayfish in the experimental, the dark environment. 
+
+Discussion:
+Our results did not support our hypothesis for the Procambarus sp. The specific metabolic rates in the darkness increased compared to the specific metabolic rate for Procambarus sp in the light environments. In a similar study, that looked at Procambarus clarkii and Procambarus digueti, our results were not supported. The conclusion drawn was that the two species showed a decrease of oxygen uptake with the amount of light in the environment. [Fanjul-Moles, Maria Luisa;2000]. In a similar study that compared Gammarus fossarum and Niphargus stygius our results were supported. The light in the environment was used to calculate oxygen consumption of the two species. The epigean G. fossarum lives in caves so it is used to darkness while the hypogean N. stygius lives on the surface. The results show that specific metabolic rate increased when placed in a dark environment. In the study, the G. fossarum showed a higher oxygen consumption than the species that is used to living on lighter surfaces. [Simcic, Tatjana, and Anton Brancelj; 2007]. Having one article that did not support our results and one that did support our results may be simply due to the fact that different organisms and different species adapt to their own environments in a way that allows them to all maintain homeostasis. 
+
+Limitation to our study are that our sample size only contained three Procambarus sp. The aluminum foil used to cover the chamber may have not caused complete darkness and there may have been parts where light was able to enter. Lastly, the organism may have been stressed when he was taken out of his habitat with a net and placed into a smaller environment, the chamber. For a future study, we could add a transition period for it to relax before switching from the light to dark period. We could also change the water temperature because in the ocean as you get deeper, the light gets darker and the water gets colder. In order to make the study more realistic, we could also make the water in the darker environment colder because in the ocean, the deeper you go, the less sunlight is available making the water colder.
+
+
+Literature Cited:
+Evans, Addy, et al. “Effects of Light on the Metabolic Rates of Mice (Mus Musculus): Are They Afraid of the Dark?” Journal of Introductory Biology Investigations, 2015,  
+
+Fanjul-Moles, Maria Luisa, et al. “Effect of Variation in Photoperiod and Light Intensity on Oxygen Consumption, Lactate Concentration and Behavior in Crayfish Procambarus Clarkii and Procambarus Digueti.” Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology, Pergamon, 10 Jan. 2000, www.sciencedirect.com/science/article/pii/S1095643397004133.
+
+Simcic, Tatjana, and Anton Brancelj. “The Effect of Light on Oxygen Consumption on Two Amphipod Crustaceans- the Hypogean Niphargus Stygius and the Epigean Gammarus Fossarum.” EBSCOhost, Department of Freshwater and Terrestial Ecosystems Research, National Institute of Biology, Ljubljana, Slovenia, 12 Feb. 2007
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-12-02+at+4.11.40+PM.png&Size=73121&Type=image%2Fpng&F=F_43dOgqjoIoQitLv
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Bar graph showing the average of three Procambarus sp in both the light and the dark environments. The bars show the averages of the specific metabolic rates in the 20 minutes’ interval of both light and dark. The error bars in the figure show the standard deviation of data collected before and after the treatment.
+
+*************************************************************************

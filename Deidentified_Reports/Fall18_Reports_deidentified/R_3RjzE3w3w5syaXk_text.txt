@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 16:18:29
+Author of this lab report is: Std_WmnXWoDc
+ID: R_3RjzE3w3w5syaXk
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effects of Calcium on the Gastrocnemius Muscle
+
+Abstract:
+In this experiment, frog legs were tested to see how they reacted to changed levels of ions. Each leg was injected with .1mL of calcium to see its effects on muscle contraction. We believed if the amount of calcium present increased, then the force of the muscle contraction would increase. This experiment was performed with three frog legs serving as their own control and experimental test. Each leg was tested without calcium first, and then injected with .1mL of calcium. Our data showed significance, but our hypothesis was rejected by the data. However, because of what is known about calcium and its interaction with the muscular system, further studies should be done to see if different results are recorded.  
+
+Introduction:
+The skeletal system is important for helping animals move. Making up the skeletal system are muscles that move together to control the body. In charge of these muscle movements is a complex sequence of events that take place in a sequence. Axons of motor neurons extend into a muscle, from a nerve, then branch out to innervate several individual myofibers, at points called neuromuscular junctions [Johnson: 2018]. Neurons carry signals from a specific location to a specific location, and here that location is the muscle. Nerve impulses release acetylcholine, which binds to its receptors and causes sodium channels to open [Johnson: 2018]. After sodium channels open and the signal continues down the axon, calcium is released causing the muscle to contract [Johnson: 2018]. The main ions involved in this action potential are sodium and calcium, with calcium having a larger role on the contraction of the muscle. Once this sequence is complete the muscle is able to contract to assist the body in moving. If the number of ions is altered, then the muscles will not function the way that they should. The important muscle in this experiment which helps animals to walk and jump among many things is the gastrocnemius, or the calf muscle. Frog legs were used as the model organism in this experiment because they are cheap and easy to perform experiments on as well them possessing very powerful gastrocnemius muscles. Also, they are easier to experiment on than a human and thus can teach scientists about the muscular system in a more effective manner. This experiment changes the number of ions available to the frog leg. If the amount of calcium present increases, then the force of muscle contraction will increase. 
+
+Materials and Methods:
+This experiment was completed by performing tests on three frog legs. Each frog leg was skinned to expose the gastrocnemius muscle. Once this was done, the thigh muscles were separated to expose the sciatic nerve, which was sprayed with ringer solution to keep the leg from drying out. The gastrocnemius would be partly cut off from the leg so that it could hang from a hook to be connected to a stimulator. The sciatic nerve was placed across the stimulator and exposed to amps of electricity from 0.1 to 0.5 amps and then 1 through 5 amps to see the force of contraction. After this, the leg was injected with .1 mL of calcium and exposed to the same amps of electricity in the same order. The other two legs had the same process done to them after the first one was completed. Results of the strength of contractions were recorded for each frog leg. A one-tailed paired t-test was performed to compare the mean change in force of contraction between the three frog legs before and after they were injected with calcium. 
+
+Results:
+The mean average change in force of contraction between all three frog legs was -0.099 volts (Figure 1). The standard deviation for the control frog legs was 0.0578 and experimental frog legs standard deviation was 0.0621 (Figure 1). The p-value for this experiment was 0.001222 which is less than 0.05, meaning the results did not occur by chance. The frog legs that had not been injected with calcium yet showed a much greater response to the amplitudes being applied to them.  
+
+Discussion:
+Our hypothesis that if the amount of calcium increases, then the force of the muscle contraction will increase was not supported by the data. However, the p-value for this one-tailed paired t-test was significant, showing the results did not occur by chance. These results are a little surprising as calcium triggers contraction by reaction with regulatory proteins that in the absence of calcium prevent interaction of actin and myosin [Szent-Györgyi: 1975]. Because calcium was injected into the gastrocnemius, we expected the muscles would have a greater force of contraction than without the calcium injected. The results that were recorded do not correlate with what is known about calcium and its interactions with the muscular system. Even with the p-value showing significance, what is known about calcium is enough to cause consideration to perform the experiment again to see if the same results are recorded. Along these lines, many things could have led to our hypothesis not being supported. One reason could be that the frog legs did not have proper rest between application of amplitudes and they became worn down as the experiment went on. Another reason could be that the calcium was not allowed enough time to cross the cell membranes, and thus was not able to allow a stronger contraction to happen. Also, only a certain amount of calcium is able to bind to the receptors and thus the injected calcium may not have binded with the pre-existing calcium already there. This experiment is important because it can help further the knowledge of the skeletal muscle system. Along these lines, scientists can see how calcium plays a role in the muscular system to create drugs or solutions for when something goes wrong in this system. 
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 12th, 2018), pp. 17-19.
+2.	Szent-Györgyi AG. 1975. Calcium regulation of muscle contraction. Biophysical Journal. 15: 707-723. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio150lab2.png&Size=34354&Type=image%2Fpng&F=F_2v6bp4TPxprcNgD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effects of .1mL of calcium on the gastrocnemius muscle of frog legs and their 
+force of contraction after certain amplitudes were applied. Control test (blue bars) 
+shows average force of contraction from all amplitudes applied. Experimental group 
+(orange bars) shows average force of contraction of all amplitudes applied. The standard deviation for the control group was ±0.0578 and ±0.0621 for the experimental group with .1mL of calcium added. 
+*************************************************************************
+
+
+

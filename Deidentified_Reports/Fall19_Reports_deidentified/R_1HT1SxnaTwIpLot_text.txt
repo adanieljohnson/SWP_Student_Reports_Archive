@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-28 15:31:15
+Author of this lab report is: Std_I0AmEUJx
+ID: R_1HT1SxnaTwIpLot
+Course number: BIO102L
+TA: TA_9XefORUv
+*************************************************************************
+Title: Effect of salt stress on photosystem II in Spinacia Oleracea 
+
+Abstract:
+Plants use the process of photosynthesis to obtain the energy they need to function properly. For this experiment, we used the light dependent reaction of photosystem II in Spinacia Oleracea (spinach leaves) to measure the rate of the reaction. Our hypothesis was the more NaCl in an environment, then the less percent change in absorbance will occur. Spinach leaves were deveined, turned into a thick paste, and run through the centrifuge. The sample that contained the best high chloroplast to low debris ratio was selected to be made into two groups of samples. Samples of chloroplast with NaCl and samples of chloroplast only were created. The absorbance levels of these samples were found using a spectrophotometer at 600 nm at 0 minutes and then after 20 minutes under a lamp with an intensity of 1878 lumen per sq. meter. The percent change in absorbance was calculated, and the sample with chloroplasts and salt found to have the larger change than the sample with just chloroplasts. The difference between the average percent absorbance change was significant when calculated by a two tailed t-test, though (p = 0.001063, df = 4, t = 8.47), but not in support of our hypothesis. As a result, our hypothesis was rejected by the data we gathered. This was due to incorrect NaCl concentrations.
+
+Introduction:
+Plants use the process of photosynthesis to capture and store energy from the sun. This process is divided into two categories: light dependent (photosystem I and II) and light independent. For this lab, we focused on photosystem II (PS II), which is a process within light dependent reactions. The rate of photosystem II can be affected by many environmental factors, like CO₂ inhibition, moderate heat, high concentrations of NaCl, and low temperature [Murata: 2007]. It is important to know the effects certain environmental conditions can have on plants because then we can prepare for phenomenon like climate change, which can affect the salinity of water. For this lab, we used spinach leaves, or Spinacia Oleracea, which were good organisms for this lab because they are cheap to purchase and are soft enough that they can be grinded up into a thick paste. The question this experiment asks, how does higher salt concentrations affect photosystem II in Spinacia Oleracea? We hypothesize that the higher the salinity of the environment the chloroplasts are in, then the lower the percent change in absorbance there will be. 
+
+Materials and Methods:
+To begin our experiment, de-veined spinach leaves and 10 ml of cold grinding buffer were grinded together into a thick paste, then strained through a cheesecloth. 200 μl of the filtered liquid (Sample A) was transferred to a microtube and stored on ice, while the remaining liquid was transferred to a chilled 50 ml centrifuge tube marked “A”. The liquid in the centrifuge was spun at 200 x G (200 times the force of gravity; 1200 rpm in the RT- 7 centrifuge) for 3 minutes at 4°C. The liquid in the tube “A” was then poured into tube “B”, leaving the pellet of debris at the bottom for tube “A”, and placed in a microtube (Sample B) and stored on ice. 50 ml of Tube “B”, the chloroplast suspension, was centrifuged at 1,000 x G (2800 rpm in the RT-7 centrifuge) for 10 minutes at 4°C. Then, the supernatant was poured into a clean 50 ml tube marked “C”, minding the pellet, while tube “B” was placed on ice. 20 mL grinding buffer was added to the pellet and suspended by stirring gently, then 200 μl was transferred to into a microtube labeled “Sample of B Pellet” and stored on ice. 200 μl of tube “C” was moved into a microtube labeled “Sample of C” and stored on ice. Tube B, with resuspended pellet, was determined to have the highest concentration of chloroplast with lowest debris. Next, a blank, control with salt (0.5mL 2M NaCl), and control without salt were made. Then, 3 concentrations were made using 100 μl of Tube B for the chloroplast source, 5.9 mL of water, 2 mL DCIP (130 mM), 2 mL buffer solution. Finally, 3 concentrations were made using 100 μl of Tube B for the chloroplast source, 5.4 mL of water, 2 mL DCIP (130 mM), and 0.5 mL 2M NaCl. The spectrophotometer was blanked, and each sample was read for absorbance level at 600nm. The samples were recorded and averaged. Then, the samples were placed under a lamp with an intensity of 1878 lumen per sq. meter for 20 minutes. After 20 minutes, the absorbance levels of the samples were read and recorded again with the spectrophotometer at 600 nm. The percent change in absorbance before and after being in the light for 20 minutes was calculated. A two-sample independent two tailed t-test was performed on the average percent change between the chloroplasts not in 0.5 mL 2M NaCl and the chloroplasts in 0.5 mL 2M NaCl. 
+
+Results:
+The absorbance levels of each sample changed after 20 minutes under a lamp with 1878 lumen per sq. meter, as can be seen in figure 1. There was a larger average percent change in absorbance levels in the sample that had chloroplasts with 0.5mL 2M NaCl (62.3%) than the sample that had chloroplasts, but no NaCl (17.3%), which can be seen in figure 2. The two tailed t-test of the average percent change in absorbance did indicate significant data, (p = 0.001063, df = 4, t = 8.47). So, there was a significant difference in the average of the two samples. 
+
+Discussion:
+The hypothesis for this experiment was the higher the salinity levels, then the less percent change in absorbance levels. However, our hypothesis was found to not be supported by the data that we collected from this experiment, because the exact opposite happened. We originally found evidence that high concentrations of NaCl can affect the rate photosystem II [Murata: 2007], but our experiment disagreed with that literature. One reason for this was after we did the experiment, it was discovered that we put 1 mmol of NaCl in the samples, instead of 1mol NaCl. The lower concentrations could have affected the rate of photosynthesis. One study found that with increasing NaCl, photosynthetic rate decreased [Kao: 2001]. Thus, perhaps the concentration of NaCl only affects photosynthetic rate at higher concentrations, which our experiment did not have. Furthermore, another experiment found that 50 mmol of NaCl increased overall photosynthetic rate for Zygophyllum xanthoxylum by improving relative water content, inducing a significant drop in leaf water potential, and increasing leaf turgor pressure and chlorophyll concentrations [Ma: 2012]. So, in smaller concentrations, this experiment suggests that NaCl may increase photosynthetic rate, like what occurred in our experiment. For events like climate change increasing salinity levels of water, perhaps we could keep the rate of photosynthesis at normal if the concentration of NaCl is kept lower. So, the increased salt may not be detrimental as long as it does not become too high of a concentration. More tests would need to be done and this test would need to be repeated for improved evidence. For future experiments, it would be relevant to test the rate of photosynthesis based on a range of NaCl concentrations. 
+
+Literature Cited:
+1.) Ma, Q. et al., 2011. Sodium chloride improves photosynthesis and water status in the succulent xerophyte Zygophyllum xanthoxylum. Tree Physiology, 32(1), pp.4–13.
+
+2.) Murata, N. et al., 2007. Photoinhibition of photosystem II under environmental stress. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1767(6), pp.414–421.
+
+3.) Kao, W.-Y., Tsai, H.-C. & Tsai, T.-T., 2001. Effect of NaCl and nitrogen availability on growth and photosynthesis of seedlings of a mangrove species, Kandelia candel (L.) Druce. Journal of Plant Physiology, 158(7), pp.841–846.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=percent+change+chloroplasts.png&Size=45148&Type=image%2Fpng&F=F_3323cFINW3pdMGZ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=change+in+absorbance+levels+over+time.png&Size=49335&Type=image%2Fpng&F=F_2tLvOcY9LPj2lN1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig. 1. Change in Absorbance Levels of Samples Over time. Absorbance found using spectrophotometer at 600nm at 0 minutes and 20 minutes under lamp with an intensity of 1878 lumen per sq. meter. Controls were No chloroplasts, no salt (blue line) and No chloroplasts, salt (orange line). Chloroplasts with salt (yellow line) had a larger change in absorbance over time than chloroplasts with no salt (grey line).  
+ Fig. 2. Average Percent Change in Absorbance Levels of Chloroplasts in Spinacia Oleracea. Chloroplasts with no salt (blue, first from left bar) had a smaller percent change (17.3%) than chloroplasts with salt (orange, second from left bar) (62.3%). Two tailed t-test used to find significance (p = 0.001063, df = 4, t = 8.47). *************************************************************************
+
+
+

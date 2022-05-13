@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-18 15:50:30
+Author of this lab report is: Std_jrB35yEG
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Neuromuscular Control in the Gastrocnemius and Sciatic Nerve
+
+Abstract:
+When stimulation from a nerve generates action potential in a muscle, calcium cations are released within the muscle and cause depolarization of the myofibril cell. Depolarization initiates the process of myosin filaments binding to actin filaments and causing the skeletal muscle to contract. Using the gastrocnemius muscle of a frog leg as a representative muscle, this experiment used A23187, a calcium channel activator, to observe the effects of increased calcium within both the gastrocnemius and sciatic nerve on threshold. Frog legs treated with A23187 were expected to have a lower threshold, however our data was inconclusive and the null hypothesis could not be rejected. Further investigation on the effects of calcium on nerve action potentials and muscle contraction is needed. 
+
+Introduction:
+In both vertebrates and invertebrates, the skeletal muscle controls hundreds of cylindrical, fused aggregates of cells called myofibers. Myofibers are bound together to form the skeletal muscles proper, which is innervated by motor neurons. The axons of motor neurons extend into muscle to innervate individual myofibers at points called neuromuscular junctions. Nerve impulses at a neuromuscular junction cause the release of acetylcholine (ACh), which generates an action potential in the muscle. The release of Ca2+ causes depolarization of the cell and the muscle fibers to contract. The amount of Ca2+ released correlates directly with the observed muscle contraction. [Johnson: 2017] An organism with prominent and observable muscle contraction is the frog. Frogs have immense muscle capabilities in their legs that enable the ability to jump horizontal distances exceeding more than ~30 times the length of their body. [Moo et al.: 2017] Rana pipiens, the Northern Leopard Frog, are characterized by a green to brown coloration and dark spots on their dorsal side and dorsolateral folds. Rana pipiens is widely spread across North America and considered to be globally secure. [Rogers and Peacock: 2012] If calcium channel activator A23187 is administered to the sciatic nerve of a frog leg, the gastrocnemius muscle will have a lower threshold voltage because of the increased availability of calcium.
+
+Materials and Methods:
+Preparation of Frog Legs:
+1.	To prepare the three frog legs: Place the frog leg in a dissecting pan. Use the forceps to grasp the skin at the top of the leg and pull the skin down towards the foot. Lay the leg in the dissecting pan and moisten with frog Ringer’s solution. 
+2.	Use the dissecting probe to separate the inner thigh muscles from the upper end to the knee. Free the sciatic nerve using the dissecting needle and forceps. Keep exposed tissues moist with Frog Ringer’s solution. 
+Experimental Runs
+1.	Follow Part I and Part II procedures for all three frog legs and record data. These are your control values. Remember to keep legs moist with Frog Ringer’s solution.
+2.	Inject each frog leg with 0.1 mL of 100 mM A23187 and follow with Part I and Part II procedures. Record all experimental values.
+Part I: Twitch Threshold Determination for Muscle
+1.	Click stimulator preferences icon on the Labscribe toolbar to open the stimulator control panel.
+2.	Check values for stimulus parameters.
+3.	Type 0.000 V in the Mark box located to the right of the mark button. Click record to stimulate the nerve with 0.000V and press the Mark button to attach the comment to the recording.
+4.	Apply light load by raising the force transducer with the tension adjuster until trace marks are a few MV above the baseline.
+5.	Once light load is applied, Click Stop.
+6.	Change the stimulus to 0.1 V. Click Apply.
+7.	Type 0.1 V in the Mark box. Click record and press the Mark button. Stop the recording as soon as the muscle twitch is finished.
+8.	Determine threshold voltage by increasing the stimulus voltage in 0.1 V increments. Record and mark the muscle response.
+9.	Save file.
+Part II: Twitch Threshold Determined by Nerve Stimulation
+1.	Disconnect BNC connector of pin electrodes.
+2.	Connect the BNC connector of the sleeve electrodes.
+3.	Reset pulse Amp to 0.000V. Click Apply.
+4.	Determine threshold voltage for nerve stimulation by increasing stimulus voltage in 0.1 increments.
+5.	Save file. 
+
+
+Results:
+When looking at threshold, there was no difference in threshold after the application of A23197 for the stimulation of the sciatic nerve. With no difference of threshold between control and experimental groups a paired t-test could not be run. However, in the muscle, the application of A23187 caused a higher threshold in two of the three frog legs but a paired t-test determined the results not significant (p=0.26903). Outside of threshold, amplitude of both the nerve and muscle at threshold was observed and recorded. Application of A23187 proved to not provide threshold amplitudes with a significant difference from the observed amplitudes at threshold of the control group for both the muscle and the nerve. There was no observable trend in nerve amplitude at threshold which was proved by a paired t-test (p=0.897492). However, a slight trend was seen in muscle amplitude at threshold values in which a lower amplitude was observed after the application of A23197 for all three frog legs. Despite the trend, a paired t-test determined the results to be nonsignificant (p=0.266494).
+
+Discussion:
+Based on the data, the hypothesis was not supported. The calcium ion channel activator was expected to make both the muscle and neurons have lower threshold values because less energy would be required for the muscle to react if more calcium was made available to the muscle. Furthermore, an analysis on the observed amplitude at threshold showed no significant trends between control and experimental groups for measurements of both the gastrocnemius muscle and sciatic nerve of the frog. An experiment done by Statham et al. used electron microscopy to determine the effects that A23187 has on myofibril tissue. A23187 is confirmed to cause contraction, however, the chemical also causes extensive damage to the muscle. Statham et al. observed a complete dissolution of filaments that when accompanied by contraction, served to pull the muscle apart. This is caused by the chemical’s effect on the sarcoplasmic reticulum either directly or indirectly. [Statham et al.: 1976] Therefore, our experimental design could have been flawed by the damage that the calcium activator caused to the muscle and our experiment could not have accurately observed the effects of elevated calcium levels on skeletal muscle. Further investigation on the effects of calcium levels on muscle and nerve thresholds will be necessary to determine an explanation for our results. 
+
+Literature Cited:
+1.	Johnson AD. Unit 2: Neuromuscular Control. Comparative Physiology. Wake Biology. 19-33
+2.	Moo EK, Peterson DR, Leonard TR, Kaya M, Herzog W. 2017. In vivo muscle force and muscle power during near-maximal frog jumps. PLoS One. 12: e173415
+3.	Rogers SD, Peacock MM. 2012. The disappearing northern leopard frog (Lithobates pipiens): conservation genetics and implications for remnant populations in western Nevada. Ecology and Evolution. 2: 2040-2056.
+4.	Statham HE, Duncan CJ, Smith JL. 1976. The effect of the ionophore A23187 on the ultrastructure and electrophysiological properties of frog skeletal muscle. Cell and Tissue Research. 173: 193-209.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+1.jpg&Size=27900&Type=image%2Fjpeg&F=F_b8zUy4Dwk7AjNRP
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+2.jpg&Size=27992&Type=image%2Fjpeg&F=F_agxghZPEmNakJal
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+3.jpg&Size=29978&Type=image%2Fjpeg&F=F_5tAMBpCezduN8sR
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Graph+4.jpg&Size=29814&Type=image%2Fjpeg&F=F_9mDltEnmjXGDeiV
+
+
+
+
+
+Figure Legends: 
+Figure 1. Threshold values for the nerve were determined after applying an electrical stimulus for each leg. There was no difference in threshold voltage after the application of A2318. No t-test could be run.
+Figure 2. Threshold voltage values for the muscle were determined after applying an electrical stimulus to each frog leg before and after the application of A23187. A paired t-test determined that results were not significantly different (p=0.269703).
+Figure 3. Nerve amplitude values were observed at threshold in each frog leg before and after the application of A23187. A paired t-test showed that results were not significant (p=0.897492). 
+Figure 4. Muscle amplitude values were determined at threshold for each frog leg. A paired t-test showed that results were not significant (p=0.266494).
+
+*************************************************************************

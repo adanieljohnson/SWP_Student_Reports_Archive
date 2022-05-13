@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-12-01 16:55:38
+Author of this lab report is: Std_LY6pMZc3
+ID: R_yJDS4RnTvEYUtnr
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Phototaxis Movement of Physarum polycephalum under Different Wavelengths of Light
+
+Abstract:
+Cell-cell communication through signaling is an important process organisms use to sense stimuli, analyze information, and respond to stimuli. To study specific stimuli that can effect this communication, we conducted an experiment on the phototaxis of the slime mold, Physarum polycephalum. This organism is eukaryotic and can be compared with the ways in which human cells interact. We tested the distance and direction of growth and migration of the Physarum on water-agar plates under conditions of unfiltered (white) light, blue light, red light, and no light. We hypothesized that the Physarum under blue light’s wavelength with have significant negative phototaxis due to its higher intensity and that red light would have less negative phototaxis. An ANOVA test and Tukey Kramer post-hoc analysis on our data yielded a p-value of 0.898856 and showed that there was no statistical significance among any of the groups of our experiment, and our hypothesis was rejected. These results reflect that the differing intensities of red and blue lights’ wavelengths do not have a significant effect on the signal transduction pathways of phototaxis in Physarum and deems our results inconclusive.
+
+
+
+Introduction:
+Communication between cells is one of the most important processes an organism performs in order for cells to respond, analyze, and sense stimuli in both their internal and external environment. The key to this cell signaling are transduction pathways that enable the cell to achieve various tasks that help it to function properly [Johnson: 2018]. In this lab, we experimented with Physarum polycephalum, a slime mold with a single plasma membrane and multiple nuclei. We used this organism because it is eukaryotic and has similar but less complex signaling pathways to that of humans. It is also safe for humans to handle for experimental purposes and is harmless when managing in a laboratory setting [Lefkowitz: 1993]. 
+
+In our experiment, we tested on the phototaxis signaling pathways of Physarum to see how they were effected by red and blue light comparatively to a standard white light. Under light, Physarum is known to experience negative phototaxis and migrate away from light [Johnson: 2018]. The pathways that specific wavelengths effect in the phototaxis of Physarum are still being researched and it has been historically difficult to draw conclusions about the exact mechanism involved, but there is general knowledge gained from previous experimentation. At a basic level, Physarum is able to sense light through pigments that contain differing photoreceptors. These photoreceptors cause a signal cascade when absorbing specific wavelenghes and the strength of the signal depends on the intensity of the wavelength absorbed [Holmes: 2000]. The signal can be changed depending on the most dominant wavelength exposed to the Physarum [Holmes: 2000]. Because of this, we experimented with blue light (450 nm) and red light (700 nm) with a standard white light (600 nm). The energy of light is measured in nanometers, with lower values having more photon energy and more intensity [Rogers, Matthew]. Experimentation by Barrantes and Meyer has shown that physarum consistently migrates away from light at higher energies while significantly less at lower energies [Barrantes: 2010]. In an attempt to isolate individual pigments for specific signal transduction pathways, they also found significant migration away from high energy wavelengths. 
+
+Based on results from previous experimentation and our knowledge of cell signaling, we hypothesized that the Physarum under blue light will experience the most negative phototaxis due to its wavelength having the highest photon energy and that the red light will experience significantly less negative phototaxis than blue light because of its lower amount of energy.
+
+
+
+Materials and Methods:
+For this experiment, we obtained 12 water-agar plates which we split into 4 groups containing 3 plates each: no light, unfiltered (white) light, red light, and blue light. On the back of each plate we labeled the group names with a sharpie to keep careful track of each plate. On each plate, we cut (with a spatula) two 1 cm x 1 cm blocks from the middle of the agar that were 2 cm apart from each other. With forceps, we replaced one of the blocks with a block of the Physarum polycepharum culture that had been prepared and given to us by our TA Jess. The other block that was cut was left in the agar to be used as a comparison for the Physarum. After each cut and replacement of agar cubes, we sterilized our forceps and spatula with ethanol to avoid contamination. We also kept the lids on the plates when we were not using or cutting them to further avoid contamination. After the plates were prepared, all 12 were wrapped in tinfoil and carefully labelled again with sharpie. For the 3 experimental groups (white light, blue light, and red light), we cut a small hole in the tinfoil at the top of the lid that was perpendicularly symmetrical with the cut cubes on the plate; each hole cut was equidistant from the cubes in all 9 of the plates. The 3 plates with no light received no hole. We then placed each set of plates under their respected color lamps according to their light conditions and we placed the no light group in a drawer. The outlets that were connected to each lamp were checked to have the same electrical output, which kept our groups consistent. We returned to all 12 of our plates after 20 hours and noted the direction migrated by the Physarum and the distance of movement of our slime with a ruler. After our data was recorded, we ran an ANOVA test on our 3 experimental groups (red, blue, and white light) and a Tukey Kramer post-hoc analysis with two degrees of freedom and an alpha value of 0.05 to see if our results were statistically significant.
+
+Results:
+The averages of all the slime movement on our 9 experimental plates were displayed in Figure 1. The results show a trend of negative values for blue light and a trend of positive values for red and white light (Figure 1). The means and standard deviations for the phototaxis of the three groups are as follows: blue light (-0.34  1.03), white light (0.81  1.21), and red light (0.27  4.89). The group in no light conditions showed zero movement for all plates. The ANOVA test that was performed (alpha value of 0.05) showed that the movements in our results were statistically insignificant and did not show any statistical difference. (f-ratio value=0.19211, df=2, p-value=0.898856). Our Tukey-Kramer post-hoc analysis further told us that there was not any statistical significance between any of the 3 groups tested. These tests confirm that our results were insignificant.
+
+Discussion:
+We hypothesized that the Physarum polycephalum slime mold would experience more negative phototaxis in blue light and less in red light due to the higher energy of the wavelength in blue light. After analysis of our data and statistical tests, it was clear that our results were insignificant and did not support our hypothesis. Although the data showed that blue light had more negative phototaxis than red, the results were not statistically significant enough to credit this outcome to a biological result. This can be seen in the graph by the very small distances moved, the large and overlapping error bars, and our high p-value of 0.898856.
+	We can infer from our data that the wavelengths of the different lights did not have the desired effect on the signal transduction pathways within the Physarum. Our inconclusive results are not uncommon with previous experiments done on the light pathways of Physarum, as the pathways are not completely understood yet. There are some experiments that have significant results on our hypothesis, such as Masakatsu Hato. In experimenting with light’s wavelength’s, he found significant negative phototaxis under blue light’s wavelength (490 nm) and positive phototaxis under red light’s wavelength (700 nm) [Hato: 1976]. In a similar experiment, part of Smith’s testing on photoaxis was on the wavelengths of the color spectrum; he was not able to isolate the specific signal pathways of the differing wavelengths [Smith: 2016]. In a biological context, there aren’t many conditions in the natural world which Physarum would be under conditions of vastly different wavelengths of the color spectrum. This may be an explanation for why our experiment as well as previous experiments have experienced trouble in isolating and studying the phototaxis pathways of differing wavelengths on Physarum and why our hypothesis was rejected.
+	In our experiment, our positive control plates in no light experienced no phototaxis. This complete lack of growth indicates that there was something wrong with our Physarum or our experiment. The Physarum used was old, and many groups in the lab had plates that showed no growth. This is a problem because as the Physarum becomes old, it will respond significantly less to stimuli and even die. Moving forward for future experiments, it would be crucial to experiment with young and healthy Physarum plates to ensure accurate results.
+	This study was important because of the similarity between the eukaryotic signal transduction pathways of Physarum polycephalum and more complex species such as humans. By experimenting with signaling, we can learn more about the ways in which the cells in our own body communicate and signal.
+
+
+
+Literature Cited:
+Lefkowitz, Robert J. "G Protein—coupled Receptor Kinases." Cell 74.3 (1993): 409-12. Web. 23 Nov. 2018.
+
+Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (2018)
+
+Hato, Masakatsu. “Phototaxis in Physarum Slime Mold.” Hokkaido University, Sapparo, Japan. 1976
+
+Holmes, R. P., and P. R. Stewart. "Cellular Motility: experiments on Contractile and Motile Mechanisms in the Slime Mold Physarum Polycephalum." Journal of Biological Education 11.2 (2000): 113-20. Web. 6 Dec. 2018.
+
+Barrantes I, Glockner G, Meyer S, Marwan W. Transcriptomic changes arising during light-induced sporulation in Physarum polycephalum. BMC Genomics. 2010;11:115. Published 2010 Feb 17. 
+
+Smith, Daniel. “Calculating the emission Spectra from Common Light Sources.” Comsol.com. 2016. Web. 21. Nov. 2018
+
+Rogers, Matthew. “The Properties and Basics of Light and Wavelength”. Science Made Easy. Published 2009 June 30
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-12-01+at+4.26.44+PM.png&Size=65653&Type=image%2Fpng&F=F_31jvaUhFIgAbQhi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average Movements of Physarum in Different Light Conditions
+The average distances towards the light (positive values) and away from the light (negative values) were recorded under the lights at different wavelengths. The sample with no light had zero movement for all three plates. Error bars represent 1 standard deviation for respected values (1.03, 1.21, and 4.89 for groups 1-3, respectively). Our ANOVA test with 2 degrees of freedom yielded an F-value of 0.19211 and a p-value of 0.898856.
+*************************************************************************
+
+
+

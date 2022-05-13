@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-29 13:29:56
+Author of this lab report is: Std_hDTedbWB
+ID: R_9n2eMS52X7rFUhr
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effect of Tetraethlammonium Cl on muscle contraction in Rana pipien
+
+Abstract:
+The skeletal muscle system receives various stimuli through neurotransmitters to enact a response to the surrounding environment. Action potentials traveling though sensory neurons to the cell membranes of the muscle cause the contraction and relaxation of targeted muscles. Using Rana pipien, or the northern leopard frog, Tetraethlammonium Cl (TEA Cl) was introduced to the gastrocnemius muscle of the frog. It was hypothesized that the potassium inhibitor would prolong the relaxation period during stimulation in comparison to legs left untreated. Three frog legs were prepared. Each leg would act as its own control. After the determination of threshold from stimulation, the legs were given four impulses to calculate the time of the relaxation period between the last three impulses. A paired t-test was conducted to determine the average relaxation period of both experimental groups. The treatment group displayed a longer relaxation period between contractions in comparison to the control. This data coincides with previous research on the effect of potassium inhibitors and muscle contraction in various organisms. 
+
+Introduction:
+Nerves and muscles collectively communicate to allow an organism to process and respond to various environments and stimuli. Skeletal muscles are stimulated by motor neurons located in the grey matter of the spinal cord. Myofibers are bound together by connective tissue to form these skeletal muscles. Nerves stimulate muscle contraction by sending commands through neurotransmitters to specific target muscles (a process called “excitation-contraction coupling”) [Johnson: 2018]. Action potentials travel along the axon of a nerve and arrive at the neurotransmitter junction. Depolarization of the neuron in the membrane causes voltages gated calcium channels to open and the release of acetylcholine (ACh). ACh diffuse and binds with its receptors on the membrane of the muscle fiber initiating an action potential that travels though the muscle fiber along T tubules. Calcium ion channels are opened in the sarcoplasmic reticulum of the muscle allowing calcium to enter into the sarcoplasm [Sárközi:1996]. The release of calcium causes the muscle to contract and expand. Reuptake of calcium and release of sodium during repolarization allows the muscle to relax until the next contraction. During this time, potassium is released to aid in repolarization and the relaxation of the muscle. If not present, muscles will remain in a contraction phase for a longer time due to slowed depolarization [Castle: 1993]. 
+
+To record the activities of a muscle or nerve, a myogram is used by attaching a force transductor to a muscle to document the force of all contractions over a given period of time. Myograms display a latent period (stimulation to the beginning of a contraction), contraction phase, and relaxation phase [Johnson: 2018]. During stimulation, any time one motor neuron produces an action potential, every myofiber attached will be stimulated to contract. Increasing the voltage during stimulated can cause an increase in action potentials creating spatial stimulation. Increasing the frequency of the stimulation can result in temporal summation. This summation causes motor units, or the muscle, to generate the maximum force called tetanus or tetany. Previous research conducted has shown that when potassium channels are blocked, “phasic” contraction amplitude, frequency, duration, and muscle force is lengthened [Parajuli: 2012].
+
+Rana pipien, or the northern leopard frog, can be used to study neuromuscular control. They are an ideal organism to use during nerve and muscle stimulation due to the accessibility of exposed nerves in the gastrocnemius muscle of the frog leg and visual ease of nerve response to stimulation. It is hypothesized that when injected with a potassium inhibitor (tetraethlammonium Cl or TEA CL), the Rana pipien frog legs will display prolonged relaxation periods compared to those left untreated. 
+
+
+Materials and Methods:
+Three northern leopard frog legs were prepared. The legs were skinned, exposing the gastrocnemius muscle and sciatic nerve. The muscle of each leg was separated from the tibialis anterior muscle and the tibia. The Achilles tendon was cut near the ankle of the leg. String was knotted around the tendon and hung from a force transductor. With the nerve exposed at the top of the muscle, the lower region of the leg was positioned at a 90 degree angle and pinned to a tray. Each leg acted as its own control, and a myogram was created for each leg. Threshold voltage was determined and documented. Voltage was increased by .5 from the threshold value, and the legs were given four pulses. The relaxation period was recorded two frog legs. For all legs, the last three pulses of the four relaxation periods were documented. This procedure was duplicated again only with the addition of the potassium inhibitor. The legs were injected with 0.1 mL of TEA Ch. After injection, the legs sat for two minutes until the procedure was initiated. Data was obtained and analyzed using a standard paired t-test.
+
+Results:
+The results obtained were significant and support our hypothesis. The two experiments legs tested to measure the average relaxation period between stimulation displayed an increase in time compared to their controls (Figure 1). In addition, the results recorded on the myograms visually indicated an extended relaxation period. A paired t-test was used to determine the average lengths of relaxation for each of the legs. The average difference between the control and treatment was 63.5ms. The average t-value was 0.751 and the p-value was calculated to be 0.590.
+
+Discussion:
+     Unexpectedly, our hypothesis was not supported as the data analyzed was not of significant value. However, the data collected does suggest a visual trend that the influence of potassium could be critical in the muscle relaxation phase. TEA Cl injected in the Rana pipien frog legs seemed to display the relaxation period, causing a delay in contractions and the initiation of the latent period. This trend does propose that our initial hypothesis could be correct as the potential increase in relaxation can be attributed to the fact that the repolarization of the cells in the muscle membrane are being prolonged. The absence of potassium does not help aid in the reuptake of calcium to initiate another contraction [Castle: 1993]. Data from this experiment is skewed due to a small sample size of two frog legs. Hence, the p-value determined was larger than expected. In addition, the data collected from the frog legs did not have a large disparity of averages due to outlier data. However, when plugged into a statistical paired t-test, the outliers averaged out, allowing the study to determine potential trends. Had the sample size been larger, meaningful data could have been examined.
+	Future studies in the field of muscle contraction could potentially determine the effects of increased potassium injected into the muscle with calcium or sodium inhibitors. The research being conducted on potassium and muscle contraction is relevant to the advancement in drugs that could potentially aid in reducing rapid muscle contractions in humans.
+
+
+Literature Cited:
+Johnson. “Comparative Physiology Bio 114 Laboratory Manual”. 18.1 ed., 2018.
+
+Sárközi, S., et al. “Effects of Cardiac Glycosides on Excitation-Contraction Coupling in Frog    Skeletal Muscle Fibres.” The Journal of Physiology, vol. 495 ( Pt 3), Sept. 1996, pp. 611–26.
+
+Castle, Neil A., et al. “Dequalinium: A Potent Inhibitor of Apamin-Sensitive K+ Channels in Hepatocytes and of Nicotinic Responses in Skeletal Muscle.” European Journal of Pharmacology, vol. 236, no. 2, May 1993, pp. 201–07. ScienceDirect, doi:10.1016/0014-2999(93)90590-E.
+
+Parajuli, Shankar P., et al. “Pharmacological Activation of Small Conductance Calcium-Activated Potassium Channels with Naphtho[1,2-d]Thiazol-2-Ylamine Decreases Guinea Pig Detrusor Smooth Muscle Excitability and Contractility.” The Journal of Pharmacology and Experimental Therapeutics, vol. 340, no. 1, Jan. 2012, pp. 114–23. PubMed, doi:10.1124/jpet.111.186213.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure11.jpg&Size=24117&Type=image%2Fjpeg&F=F_2qz5OeJgMyYbNuY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The average time (ms) between the relaxation periods of three impulses is displayed. This data only represents frog legs two and three. Error bars represent the standard deviation of the of the frog legs before and after receiving the potassium inhibitor. The treated legs exhibit an average longer period between relaxation phases of contraction compared to their control.
+
+*************************************************************************

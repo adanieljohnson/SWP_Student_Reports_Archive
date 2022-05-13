@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-10-29 23:24:04
+Author of this lab report is: Std_PoYYiaOq
+ID: R_xrAbEgg1OTNJFkt
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The presence of lidocaine in Rana pipiens does not significantly affect the amplitude of muscle contractions in the gastrocnemius
+
+Abstract:
+Lidocaine is a drug that blocks sodium channels. The Rana pipiens, more commonly known as a northern leopard frog, was used to study the effect of lidocaine on the amplitude of muscle contractions. After stimulating each gastrocnemius muscle of a leg of Rana pipiens before the addition of lidocaine and after, the amplitudes were studied. We predicted that the presence of lidocaine would decrease the amplitude of muscle contractions because the blocking of Na channels would therefore lead to a dampened action potential and smaller amplitude. We tested the amplitudes of three legs experiencing a stimulus, each without lidocaine and then with lidocaine. It was then found that the average amplitudes were not statistically different with a p-value of 0.208. After further research, we concluded other experiments have shown lidocaine to have the potential to dampen the amplitude of muscle contractions due to the blocking of Na channels and decreased action potentials. Further research on the effects of lidocaine on muscle contraction amplitudes could help in the medical field in dealing with muscular diseases and their future treatments.
+
+
+Introduction:
+The neuromuscular system reacts and can take effect in the body much quicker than hormone-based systems. In a muscle tension period, there is a stimulus, a short latent period of no reaction, a contraction period, and then a relaxation period [Johnson: 2016]. Lidocaine is a drug that blocks Na channels. It has been shown in humans with multiple sclerosis that the presence of lidocaine dampens tonic seizures, or when muscles intensely stiffen and contract [Sakurai: 1999]. In our experiment, we will be testing the effects on the amplitude of muscle contractions (during the contraction period) with the presence of lidocaine on the gastrocnemius of Rana pipiens. The sciatic nerve in the gastrocnemius was stimulated with electrodes. This will be interesting to test because if it alters the muscle contraction, this can aid in the treatment of muscular diseases. Will the presence of lidocaine affect the amplitude of muscle contractions in Rana pipiens? In our experiment, the independent variable was the presence of lidocaine and the dependent variable was the amplitude of muscle contractions. We predict that the presence of lidocaine will decrease the amplitude of muscle contractions because the blocking of Na channels could prevent the completion of an action potential.
+
+
+Materials and Methods:
+We obtained three Rana pipiens legs. We skinned the leg, separated the thigh muscle with a probe, and revealed the sciatic nerve on each leg. We suspended the gastrocnemius of the leg vertically, allowing it to be observed throughout contractions. We attached electrodes from a BNC machine to the sciatic nerve. We then applied a stimulus of 1.2V at 1Hz, for 5 pulses and recorded the amplitudes of each contraction. Then, we injected and dropped 0.1 mL of 25 millimolar lidocaine into the gastrocnemius muscle and onto the sciatic nerve. We stimulated using the same technique as before and recorded the amplitudes again. We repeated this for each frog leg. We took the average of each leg’s series of amplitudes before and after the addition of lidocaine. A one-tailed paired t-test was used to determine if the mean of the legs before lidocaine is statistically significantly greater than that of the mean after the addition of lidocaine.
+
+
+Results:
+The legs without lidocaine had average amplitudes of 0.934V+/-0.40V, 0.287V+/-0.40V, and 0.202V+/-0.40V respectively. After adding lidocaine, they had average amplitudes of 0.0458V+/-0.036V, 0.087V+/-0.036V, and 0.0158V+/-0.036V respectively. In figure 1, the control group (no lidocaine) and lidocaine group were represented in six different bars as with their height being their average amplitude and the error bars represented the standard deviations. When utilizing a one-tailed paired t-test, a p-value of 0.208 was found, a t-value of 1.833 was found, and 2 degrees of freedom were used. Using this data, we concluded that the control and lidocaine groups are not statistically different from one another.
+
+
+Discussion:
+Based on our results, we cannot reject the null hypothesis that there is no statistical difference between the amplitude of muscle contractions with lidocaine and without it. However, if this experiment was repeated, we might expect a statistically significant difference in amplitude of muscle contractions between a muscle with lidocaine and muscle without due to lidocaine’s blockage of Na channels and therefore, the inability to properly create action potentials. It has been previously shown that lidocaine inhibits the contraction of smooth muscles in rat tails. It asserts lidocaine depresses adrenergic neurotransmission which could therefore show a lessened action potentials [Szocik: 1993]. This could be because there is less sodium present, therefore creating a weaker action potential and dampening muscle contractions. However, because frogs and rats are in different classes, this study could also have other variables that create a different outcome. In the study on humans with MS and lidocaine, it was shown that lidocaine reduced action currents [Sakurai: 1999]. This could be because of Na blocking and a reduced signal among demyelinated sections of neurons. In a replication of our study, if different amounts of lidocaine are added to the gastrocnemius of Rana pipiens, determining if those different amounts cause significantly different amplitudes of muscle contractions could be beneficial to help in research on muscular diseases, such as MS, and treatment and management plans.
+
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), 17-33.
+
+2. Sakurai, M., & Kanazawa, I. (1999). Positive symptoms in multiple sclerosis: their treatment with sodium channel blockers, lidocaine and mexiletine. Journal of the neurological sciences, 162(2), 162-168.
+
+3. Szocik, J. F., Gardner, C. A., & Webb, R. C. (1993). Inhibitory effects of bupivacaine and lidocaine on adrenergic neuroeffector junctions in rat tail artery. Anesthesiology, 78(5), 911-917.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-28+at+7.09.59+PM.png&Size=89582&Type=image%2Fpng&F=F_pLCbkmAIFqDlnKp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The effect of lidocaine on Rana pipiens. Lidocaine was added to the gastrocnemius of frog legs after testing the muscle’s contractions for the control groups data. Each bar is an average of 5 stimulated amplitudes. The lidocaine group showed smaller muscle contraction amplitudes. The control group had average amplitudes of 0.934V+/-0.40V, 0.287V+/-0.40V, and 0.202V+/-0.40V respectively and the lidocaine group had average amplitudes of 0.0458V+/-0.036V, 0.087V+/-0.036V, and 0.0158V+/-0.036V respectively.
+*************************************************************************
+
+
+

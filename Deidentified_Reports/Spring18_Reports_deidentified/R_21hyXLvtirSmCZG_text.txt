@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-19 19:18:50
+Author of this lab report is: Std_C2jTxCCH
+ID: R_21hyXLvtirSmCZG
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: The Effects of Signaling Pathways during Phototaxis of Physarum polyceophalum
+
+Abstract:
+Signaling pathways are a communication process that regulates all the basic activities of the cell and helps initiate all of the actions of the cell. Two important signaling pathways are the cAMP-mediated pathway and IP3-mediated pathway. The cAMP-mediated pathway involves the molecule, PKA, that triggers the activation of an enzyme while IP3-mediated pathway contains the molecule, PLC, which cleaves a membrane phospholipid to produce a second messenger. By using neomycin, an inhibitor of PLC produced during IP3 and curcumin, an inhibitor of protein kinase A produced during cAMP, it is hypothesized that neomycin will block the movement of Physarum during phototaxis and curcumin will have no effect on the movement of Physarum during phototaxis. The distance migrated was measured by having a slight opening of light on the plate to produce movement in the organism. Both of the pathways were blocked, allowing for the measurement of each treatment group with each inhibitor. Our results showed that there was a significant difference for the treatment with neomycin because it had a statistically significant p-value. This shows that IP3 pathway was blocked during phototaxis because IP3 results in the activation of IP3 receptors, and the release of Ca2+ in the organism.
+
+Introduction:
+Signaling pathways describes a group of molecules in a cell that collude to work to control one or more cell function. The first molecule in the pathway receives a signal and cascades to activate another molecule. While there are many pathways that happen in a cell, specifically, we looked at the cAMP-mediated pathway and IP3-mediated pathway. The cAMP-mediated pathway is a G-protein coupled pathway that is activated by adenylate cyclase that converts ATP into cAMP [Johnson 2016]. The cAMP activates protein kinase A and initiates many enzymes [Johnson 2016]. Curcumin inhibits protein kinase A produced during the cAMP pathway [Johnson 2016]. The next pathway is the IP3-mediated pathway, another second major G-protein coupled pathway, that involves PLC, cleaves a membrane phospholipid to produce two-second messenger molecules [Johnson 2016]. For each of the pathways, the enzyme that is activated by each pathway would help produce movement in the organism during phototaxis [Johnson 2016]. Phototaxis is the movement of a motile organism in response to light [Johnson 2016]. The Physarum polyceophalum, the model organism, is a helpful organism to use in studies due to the fact that it does not use hormones or a nervous system to respond to certain environmental triggers [Johnson 2016]. The Physarum permits for the analysis of which signaling pathway is used more frequently during the phototaxis process. During phototaxis, the Physarum has been shown to avoid areas of light and move away from the dark [Hader 1985]. It also has been shown that IP3 is specifically involved in the sensory transduction of phototaxis in the model organism, and controls the open and closing of the action cation gates [Zinchenko and Alexandrovich 1985]. Since IP3 has been demonstrated to produce more calcium during movement, a molecule needed to produce movement, the inhibition of PLC will no longer cause the activation of calcium, therefore producing no movement.  By producing a segment of light on the organism's petri dish, we were able to measure the effects of each respective signaling pathway on the Physarum. We hypothesize that the IP3-mediated pathway will produce the movement of the organism during phototaxis and therefore cause no motion in the Physarum. By using neomycin, an inhibitor for PLC produced during the IP3 pathway [Grigorieva et al. 2016], and curcumin, an inhibitor for protein kinase A produced during cAMP pathway [Hasmeda and Polya 1996], we will be able to see which pathway is used during the process of phototaxis. We predict based on this knowledge that neomycin will inhibit the movement of Physarum during phototaxis and curcumin will have no effect on the movement of Physarum.
+
+Materials and Methods:
+This study was performed by acquiring 9 potato dextrose agar (PDA) plates, 3 for control and 6 for treatment (3 for curcumin and 3 for neomycin). Prior to the experiment, the Physarum was grown in stock plates with oatmeal as a food source. The treatment groups and control group were prepared following the procedure mentioned in Figure 1. The 9 PDA plates were completely wrapped in foil, leaving a 1cm by 1cm hole of foil, allowing for light to pass through each plate. The plates were then left for 18 hours in a lightbox and observed after the 18 hours (incubation period) was over. After all the data was collected, the equation average distance (mm)/time elapsed (hours) was used to determine the rate of phototactic migration in Physarum. The statistical test that was used was a two sampled t-test with a critical value as p=.05 to determine if it was statistically significant. The independent variable was a presence of an inhibitor and the dependent variable was the distance of migration in mm.
+
+Results:
+The results from the following experiment showed that neomycin, compared to the control, had a significant value. The two-sample t-test that was performed concluded that there is no significant difference between the control and curcumin (t-stat:0.618, df: 10, p:0.550). On the other hand, the two-sample t-test that was performed concluded that there is was a significant difference between the control and neomycin (t-stat:4.10, df: 10, p:0.002). Regarding this data, it is to be concluded that the curcumin did not have a statistical difference, while neomycin did, also shown in Figure 2.
+
+Discussion:
+Due to our statistically significant results, we accept our alternate hypothesis that neomycin will have an effect on the distance migrated during phototaxis. A reason that the neomycin blocked the movement of the Physarum was that there are two types of calcium channels that are present in many animals cells, the ryanodine receptor and the IP3 receptor. The activation of PLC results in the activation of IP3 and then the Ca2+ that triggers cell motility [Kochegarov 2016].  Calcium has a major role in phototaxis because the influx of calcium levels has been shown to be involved in the sensory transduction of phototactic orientation in the Physarum [Hader 1985]. With the inhibition of PLC produced during IP3 pathways, calcium would not be activated by PLC therefore not activating calcium, inhibiting movement [Hader 1985].  The cAMP-mediated pathway was not affected due to the fact that these pathways have been found to help in oscillation of mitosis, rather than cell motility [Akitaya et al. 1985]. The IP3 pathway is more involved with cell motility than cAMP. This holds true to the fact that PLC inhibition had a significant difference rather than inhibition of protein kinase A. Evidence of error in the experiment was that the PDA plates had a confounding variable in this study that resembled a form of overgrown bacteria and produced no movement in the control group. The other treatments did not present signs of inhibition by the competing bacteria but could have inhibited the growth of the Physarum by reducing the food source. Due to this error of the control, previous data was used from a previous experiment of phototaxis for the control to compare the data. This could affect the outcome of the experiment because it was two different cultures of Physarum collected over different time periods and different lengths of time. Although the procedure for each experiment was similar, the data could be skewed because of this error. To reduce the error produced in this experiment, it could be noted to properly make the PDA to avoid bacteria growth and have more than one stock plate to use for the three different replicates. The next logical step for this study would be running another experiment testing the inhibition of PLC on a water agar plate. The water agar plate did not have extra bacteria growth while the PDA plates did have growth of another bacterium. Overall, understanding the different signaling pathways in Physarum can help further studies of understanding human signaling pathways. While Physarum does not use hormones or a nervous system to respond to certain environmental triggers, it is helpful to understand signaling pathways without these. This would hopefully lead to more in-depth studies of how hormones and a nervous system play a role in signaling pathways.
+
+Literature Cited:
+1.	Akitaya, T., et al. "Oscillations in intracellular ATP, cAMP, and cGMP concentration in relation to rhythmical sporulation under continuous light in the myxomycete Physarum polycephalum." Microbiology 131.1 (1985): 195-200. 
+2.	Grigoriev, P. A., N. B. Matveeva, and V. A. Teplov. "The autowave electromechanical activity of the Physarum polycephalum plasmodium." Biophysics 61.5 (2016): 748-754.
+3.	Häder, Donat. "Role of calcium in phototaxis of Physarum polycephalum." Plant and cell physiology 26.7 (1985): 1411-1417. 
+4.	Hasmeda, M., and G. M. Polya. "Inhibition of cyclic AMP-dependent protein kinase by curcumin." Phytochemistry 42.3 (1996): 599-605.
+5.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake 
+6.	Kochegarov, Andrei. (2016). Studies of intracellular Ca2+ pools and their role in the contractile activity of myxomycete Physarum polycephalum.. 10.13140/RG.2.2.19644.85126. 5. Zinchenko, V. P. Andrei Alexandrovich. Diss. The Russian Academy of Sciences, 2000.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-19+at+7.16.42+PM.png&Size=191002&Type=image%2Fpng&F=F_2fdm29nrrQVQEU8
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-19+at+7.16.30+PM.png&Size=176833&Type=image%2Fpng&F=F_2t56sPLnuSn89T2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Preparation Guideline for Treatment and Control  
+Figure 2: The average distance migrated between three different treatments of Physarum during phototactic migration. For curcumin, t-stat=0.618, d.f.=10, and p=0.550, being not significant and for neomycin, t-stat=4.098, d.f.=10, and p=0.002, being significant. The error barriers represent the standard deviation, 2.805. 
+
+*************************************************************************

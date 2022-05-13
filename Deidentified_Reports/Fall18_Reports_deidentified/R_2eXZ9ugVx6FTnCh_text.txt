@@ -1,0 +1,85 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-27 08:19:11
+Author of this lab report is: Std_rWSAuRla
+ID: R_2eXZ9ugVx6FTnCh
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: The Effects of Ca++ Ions on the Growth and Signaling of the Slime Mold P. polycephalum
+
+Abstract:
+How does calcium affect signal pathways in complex eukaryotic organism? In this experiment, we set out to explore the effects of a calcium rich environment on the slime mold Physarum polycephalum. Because the slime mold is a multinucleate organism, it quickly reciprocates and propagates signals as it spreads across a surface, receiving information from external stimuli. Based on previous experimentation, the group thought that Physarum would serve well as a model organism for inferring the effects on calcium pumps used in neuronal components of mammals. Six samples of physarum were placed on to potato-dextrose agar plates and growth was observed over the course of 48 hours with measurement at 24-hour increments. Three of the plates were randomly selected and treated with calcium while three were used as a control. The results of the experiment however yielded inconclusive data, likely affected by the environment and the nature of the life cycle of Physarum as it reproduces through sporulation. The experiment needs to be repeated.
+
+Introduction:
+Through previous experimentation, it is known that calcium ions are necessary for many of the major metabolic processes of a cell, including cell adhesion, cell-cell communication, cell division, and membrane structure. Notably, cell proliferation is dependent upon nucleoplasmic calcium as well [Rodrigues, et. al.: 2007]. There are fewer studies, however, about intra- and extracellular communication when concentrations of calcium ions are in excess, with an exception of one such experiment that yielded inconclusive results [Holmes, Stewart; 1979]. Being that calcium is a key neuronal component in mammals, further knowledge about this topic could lead to a number of innovations in drugs involving the nervous system, such as anesthetics.
+The slime mold Physarum polycephalum serves as an easily observable subject to test the effects of a calcium rich environment on such calcium dependent pathways. Being a multinucleate organism, a single signal creates a feedback loop in the organism, emulating multicellular communication [Alim, et. al.: 2017]. Possessing these attributes made P. polycephalum an ideal organism to model for this test. 
+In this experiment, the effects of a calcium rich environment on the growth and movement of P. polycephalum were observed. Given previous knowledge of calcium’s pivotal role in neuronal components, it was hypothesized that subjecting the slime mold to such high concentrations of calcium would promote growth.
+
+Materials and Methods:
+To begin, a metal spatula and forceps were used to cut and move 1 cm^2 agar blocks. Ethanol and was used to sterilize the instruments between steps. For the culture environment, six (6) 100 mm petri plates containing 2% potato dextrose-agar medium (PDA) at room temperature were used. Cutting circles out of grid paper, grid lines were taped to the back of the dishes and culture labels were on the back of this paper.
+
+Three of the PDA plates were designated as treatment plates and three were designated control plates at random. The three plates designated as treatment plate were emptied into a 125mL Erlenmeyer flask and melted, one at a time, using a microwave, heating in increments of thirty seconds or less. Once the PDA medium had been melted completely, 1.5mL of 50mM calcium chloride were added to the plate. The medium was then poured back into the petri dish and allowed to cool at room temperature until it had become solid again. This process was repeated for the other two treatment dishes as well.
+
+The spatula was then removed from the ethanol, waiting 10 seconds for the spatula to dry. The PDA plate was then opened, and the spatula was used to remove the center square only from the plate, using the grid paper as a guide for the center square.  Using the spatula as a scoop the center agar block was lifted and removed from the plate, and the lid was then closed. The agar block was wiped off the spatula with a kimwipe, and the spatula was placed the back in the tube of 95% ethanol for 15 seconds to re-sterilize. This process was repeated until all six plates had a center square removed from them.
+
+The Physarum stock plate was then opened, and the spatula was used to cut six (6) 〖1 cm〗^2 blocks out of the stock plate. In selecting blocks, the group was careful to exclude areas of the stock plate that contained other molds or the oats used as food. The cut blocks were then lifted and placed in the holes of the PDA plates. The plates were then wrapped in foil and placed on a shelf.
+After 24 and 48 hours, the plates were removed and checked for changes in growth, using the grids as a guideline for increase in area the Physarum occupied. Once all the data were collected, the change in surface area was recorded and an average for each group was calculated. With the change in area for each plate, a two-tailed t-test for homeostatic variance was performed. 
+
+
+Results:
+The averages for change in surface area occupied by the slime mold for the control and calcium treated groups were 0.751.37 cm^2 and 1.000.74〖 cm〗^2 respectively. The experiment yielded a p-value of 0.431 (df=5, t0.92), meaning the null hypothesis that calcium induces no change is failed to be rejected and the data are statistically insignificant. These data are displayed in Figure 1.
+
+One observation noted at the 48-hour measurement was that the slime mold in control dish 2 had failed two extend past the water-agar block from the stock plate, possibly due to gaps between the slot and the block, but the mold had grown around the plates. Additionally, in one of the treatment plates and one of the control plates, another white mold appeared. Physarum grew in the direction of the opposite of this other mold. 
+
+
+Discussion:
+Physarum as a genus tend to be very peculiar about the environments in which they grow. According to Flinn Scientific, the ideal growing conditions are in dark places with the temperature regulated somewhere around 70-80F (21-26C) [Flinn Scientific: 2016]. While the slime mold cultures were kept in the desired light environment, it was noted that the temperature was not regulated and was below the aforementioned suggested range. The notably lower temperatures may have contributed to the haphazard data observed in the experiment. 
+
+Previous research stated that Physarum go through a life cycle which includes a process of reproduction via sporulation. During this period, Physarum cease growth until reproduction is complete, and one of the promoting factors needed to be present was calcium [Esselborn, et. al.: 2000]. Because it was not known at what phase of the life cycle the stock samples provided were in, it is possible that one of the stock samples underwent sporulation shortly after being placed in the potato-dextrose agar plates. Naturally, calcium treated may have demonstrated this behavior being that calcium is required for sporulation. Because two stocks were used, this would explain the discrepancy in growth between samples from the same treatment, given that physarum cut from one stock underwent sporulation and one did not. However, because the group failed to preform observations via a microscope, no certainty can be assessed to this claim. 
+
+While not necessarily relevant to the entire series of samples, it should be noted that growth of the slime mold in control dish two could not be accurately reported. Because the center block containing the mold did not fit well into the block removed from the PDA plate, the slime mold grew around the stock block rather than out onto the PDA plate environment around it.
+Extensive research was dedicated to find experiments that looked at the effects of other species competing with P. polycephalum, but to no avail. It has not escaped our notice however that the slime mold grew opposite of the direction in which the other mold was growing, suggesting a competitive relationship.
+
+Give the wide array of errors and confounding factors that likely affected the results of this experiment, no conclusion can be drawn. We know that the results of this data are likely flawed due to our understanding of physarum as an organism as well as the large standard deviations present within the statistical analysis. Ideally, this experiment would be recreated under conditions that allowed for more precise control of the environment in which the cultures grew in order to maintain temperature and prevent cross contamination with other molds. 
+
+
+Literature Cited:
+1. Alim, K., Andrew, N., Pringle, A., & Brenner, M. P. (2016, May 16). Mechanism of signal propagation in Physarum polycephalum. Proceedings of the National Academy of the Sciences, 114(20), 5136-5141.
+
+2. Flinn Scientific. (2016). Culturing Slime Mold: Live Material Care Guide. 
+
+3. Holmes, R. P., & Stewart, P. R. (1979). The Response of Physarum polycephalum to Extracellular Ca2+: Studies on Ca2+ Nutrition, Ca2+ Fluxes and Ca2+ Compartmentation. Microbiology, 113(2), 275-285.
+
+4. Renzel, S., Esselborn, S., Sauer, H. W., & Hildebrandt, A. (2000). Calcium and Malate Are Sporulation-Promoting Factors of Physarum polycephalum. Jounral of Bacteriology, 184(24), 6900-6905.
+
+5. Rodrigues, M., Gomes, D., Leite, M., Grant, W., Zhang, L., Lam, W., . . . Nathanson, M. (2007, June 8). Nucleoplasmic calcium is required for cell proliferation. Journal of Biological Chemistry, 282(23).
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-27+at+07.10.11.png&Size=518993&Type=image%2Fpng&F=F_1ptVQHrCrjOxjCl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The data depict large standard deviations likely due to experimental design error. *************************************************************************
+
+
+

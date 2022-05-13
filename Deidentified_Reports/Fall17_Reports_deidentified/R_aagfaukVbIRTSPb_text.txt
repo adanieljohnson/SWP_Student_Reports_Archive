@@ -1,0 +1,51 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-19 14:56:28
+Author of this lab report is: Std_ieAA8GSW
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The effect of ACh Esterase inhibitor on amplitude of muscle twitch
+
+Abstract:
+This study serves to investigate whether ACh Esterase Inhibitor has an effect on the amplitude of muscle twitch. Acetylcholinesterase is an enzyme that breaks down acetylcholine, which occurs during the end of muscle contraction. With this enzyme being inhibited, calcium ions would continue to be released in the muscle fiber, which allows for contraction to continue. Because of this we hypothesized that the ACh Esterase Inhibitor would increase the amplitude of the muscle twitch. We studied the gastrocnemius muscle of a Rana pipiens leg and tested on three different legs. Using the LabScribe software five twitches were recorded continuously with the same voltage each time, first before the injection, and then a minute after the injection so the data could be compared. The data was then applied to a paired t-test and we were able to conclude that there was no significant difference between the control and experiment groups. There was no trend seen in the data, so we are unable to prove anything with these results.     
+
+Introduction:
+This experiment uses the legs of Rana pipiens to discover whether an injection of an ACh Esterase Inhibitor into the muscle fibers would affect the amplitude of the muscle twitch. Acetylcholine is a major part of the muscle contraction. It is released from the presynaptic nerve terminal after nerve impulses arrive at the neuromuscular junction. This release allows ACh to bind with its receptor on the muscle fiber and open up sodium channels which produces an action potential. This action potential stimulates the release of calcium ions through the length of the muscle fiber, which is what initiates the contractile mechanism. [Bio 114 Lab Manual]. This experiment focuses on an acetylcholinesterase inhibitor which prevents the breakdown of acetylcholine by blocking its normal binding site on the enzyme acetylcholinesterase. [ATSDR]. When this function is blocked, it leads to the accumulation of a large amount of the neurotransmitter acetylcholine. Acetylcholinesterase normally terminates the action potentials along the muscle fiber which causes the sarcoplasmic reticulum to stop releasing calcium ions. Without these calcium ions, the muscle stops contraction because myosin can no longer bind to actin. [Savell]. Since the injection is inhibiting the action of acetylcholinesterase we expect the opposite of this to occur, meaning calcium ions will continue to be released and the muscle contraction would continue for longer and be larger. Therefore, we hypothesize that since ACh Esterase Inhibitor has an effect on the uptake of the ACh, the amplitude (mV) of the muscle twitch with the injection will be higher than the amplitude of the muscle without the injection of ACh Esterase Inhibitor. 
+
+Materials and Methods:
+This experiment utilizes three different Rana pipiens legs and the steps are repeated the same for each leg. To begin, the gastrocnemius muscle of the Rana pipiens leg is dissected by removing the skin by starting at the top of the leg. It is important to regularly moisten the exposed tissues with frog Ringer’s solution. Next, the gastrocnemius muscle is detached at the Achilles tendon using scissors so a string can be knotted at the junction of the Achilles tendon and the gastrocnemius muscle. Now this string can be used to suspend the gastrocnemius from the force transducer, while also pinning the leg down to the tray. This experiment simply uses the two needle stimulation probes which are inserted in the suspended muscle. This is how the muscle is directly stimulated using the LabScribe software. Using the LabScribe software, the pulse amplitude will start at 0.000 V and then the threshold voltage for direct muscle stimulation is determined by increasing the stimulus voltage in 0.1 V increments. Once this threshold voltage is determined the muscle’s response to direct stimulation is recorded for five pulses in a row at this voltage value. Now that the data is recorded for the control, the leg is injected using a syringe with a 2% solution of Sevin which is the ACh Esterase Inhibitor. After waiting a minute for the solution to soak into the leg, using LabScribe the muscle is stimulated at the same voltage as used for the leg without the solution and recorded for five pulses. The two different sets of five amplitudes produced from the muscle twitches in the leg were compared using a T-test. To clarify, the groups that are being compared come from the same leg, but it is the date from the leg without the inhibitor and then the data from after the leg is injected with the ACh Esterase inhibitor. This is all repeated for each of the three legs. 
+
+Results:
+The application of a 2 tailed, paired T test determined that there was no significant difference between the control and treatment groups (T=0.330562, DF=2, P=0.772393). 
+
+Discussion:
+The paired t-test told us that there was no significant difference between the control and treatment groups which means the hypothesis cannot be supported. Each leg produced different results, so no conclusion can be made from our data. Some possible sources of error for this experiment were that the amount of voltage used for the five continuous twitches could have been higher as well as everything was not completely cleaned after the first leg had been injected with the inhibitor. Future experiments are needed to find results that agree with one another. Next time, it would be better to use a greater number of Rana pipiens to compare more of the results and also probably use the sciatic nerve to do a nerve stimulation. According to study of rat skeletal muscle with a local block of acetylcholinesterase, the results supported that a dysfunctional end plate that increases the release of ACh may be the initial point for regional abnormal contractions. [Mense, 2003]. The data from this study showed that an increased concentration of ACh causes damage to muscle fibers, which might explain the inconsistency with our results. In the experiment with the rats, they electrically stimulated the muscle nerve, while in our experiment we simply stimulated the muscle fibers. 
+
+Literature Cited:
+Cholinesterase Inhibitors. (2007, October 16). Retrieved October 19, 2017, from Agency for Toxic Substances and Disease Registry website: https://www.atsdr.cdc.gov/csem/csem.asp?csem=11&po=5
+Comparative Physiology BIO 114 Laboratory Manual (Ver. 17.2 ed.). (n.d.).
+Mense, S., Simons, D. G., Hoheisel, U., & Quenzer, B. (2003). Lesions of rat skeletal muscle after local block of acetylcholinesterase and neuromuscular stimulation. Journal of applied physiology, 94(6), 2494-2501.
+Savell, J. (n.d.). The Mechanism of Muscle Contraction. Retrieved from Meat Science website: https://meat.tamu.edu/ansc-307-honors/muscle-contraction/
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-19+at+2.55.16+PM.png&Size=33841&Type=image%2Fpng&F=F_0w6FZvYAb9HbCJv
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-19+at+2.55.35+PM.png&Size=33801&Type=image%2Fpng&F=F_bBo1M0XYI3wl7Df
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-19+at+2.55.57+PM.png&Size=34160&Type=image%2Fpng&F=F_82Gzhplp4dSxnFj
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-19+at+2.56.12+PM.png&Size=34027&Type=image%2Fpng&F=F_dmTYGZppspCcNqB
+
+
+
+
+
+Figure Legends: 
+Figure 1. Difference of amplitude in the 5 twitches produced before versus after the injection of the ACh Esterase Inhibitor in leg 1. This was tested under a voltage of 3.0 V. This confirms our hypothesis that the injection would increase the amplitude in the muscle twitch. A paired t-test gave us the values (T=1.658, DF=8, P=0.136) 
+Figure 2. Difference of amplitude in the 5 twitches produced in leg 2. It demonstrates the differences of the twitches before and after the injection although there is no clear pattern seen here. The error bars are  0.04 standard deviation. From the paired t-test it resulted in (T=0.97, DF=5, P=0.377)
+Figure 3. Difference of amplitude on the third leg. This time the results were opposite of the first leg and the amplitude was higher before the injection than after the injection although there is not a drastic difference. T-test calculated (T=5.003, DF=5, P=0.004)
+Figure 4. This compares the 3 legs to each other and demonstrates the average amplitudes that were produced between the 5 twitches. There is no clear trend in the results therefore they are not significant and cannot prove and disprove the hypothesis.   
+
+*************************************************************************

@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 12:19:34
+Author of this lab report is: Std_kzIYHA0G
+ID: R_2wuz2sI4RnyJ9Mx
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Effect of Lidocaine on the Function of the Gastrocnemius Muscle of Rana pipiens
+
+Abstract:
+This experiment examined the effect of Lidocaine on the ability of a gastrocnemius muscle of the frog Rana Pipiens to contract. Three legs were used, and after degloving and detatching one end of each gastrocnemius muscle, electricity was sent into the sciatic nerve of each leg causing contractions. This was done three times for each leg, then lidocaine was injected and the process repeated. We found no significant difference in contraction force between the legs prior to and after injection of lidocaine. The results of this experiment could lead us to believe that Rana pipiens may have some sort of slight immunity to lidocaine.
+
+Introduction:
+	Muscles are vital to the survival of animals. They allow animals to move freely, acquire nutrients, and avoid danger. Muscular function is regulated by means of neurotransmitters which are released into the synaptic gap between neurons by an activated neuron. Neurotransmitter receptors on the other neuron signal for that neuron to fire and release neurotransmitters as well, continuing the electrical signal. This signal is created by the opening and closing of calcium, sodium, and potassium channels which hold an electrical charge that can be released when the neuron is stimulated. Lidocaine is a sodium channel inhibitor, a chemical which blocks sodium channels from allowing sodium into the neuron, which can prevent the charge needed to conduct the signal from neuron to neuron from forming (Johnson, 2016). Lidocaine has been shown in many experiments to reduce pain as well as muscle function in many animals including humans (Groeben, 2007). This lab seeks to find the effect lidocaine has on the contraction of the gastrocnemius muscle of Rana pipiens, a species of frog. Our hypothesis is that the muscle will need a greater voltage to reach the twitch threshold than it needed without lidocaine.
+
+
+Materials and Methods:
+3 legs of Rana pipiens were degloved. The gastrocnemius muscle from each frog was detached at the achilles tendon and left attached to the rest of the leg. The leg was pinned to the ground and the gastrocnemius muscle was tied tautly at the tendon to a hanging scale that measured the force the muscle exerted. The sciatic nerve of each leg was located and a voltage applicator rested on it. Each leg had 2 volts applied to the sciatic nerve to stimulate muscle contraction and it’s reaction on the scale was recorded digitally. Each muscle then had 1 mL lidocaine injected into it and after 5 minutes they were tested again. A paired t-test was used to analyze the date. A p-value of .05 or less would indicate significance.
+
+
+Results:
+As seen in figure 1, at first glance it seems as though the muscles contracted with more force prior to receiving lidocaine than after, the statistical results differed (df = 2,  t = 2.1364, P = .1661). This result fails to reject the null hypothesis. 
+
+
+Discussion:
+	Even though lidocaine appeared to effect to gastrocnemius muscle’s ability to contract, it did not have a strong enough effect to be significantly different from pre-lidocaine injection contractions, contradicting the findings of Groeben et al, 2016. This discrepancy may have been caused by the low experiment size. Using just three legs, even when using a paired t-test, makes it hard to find any significance. Had the same mean results come from an experiment of ten legs the results would be significant. To confirm this, future reproductions of this experiment should experiment with many more gastrocnemius muscles than were used in this experiment. Perhaps part of the reason the results obtained were not significant was that the lidocaine had not penetrated the sciatic nerve, meaning that the contraction signal was not inhibited. In future experiments, it would be wise to also soak the sciatic nerve in lidocaine prior to resting it on the voltage sensor, this would reduce the chance of this confounding variable effecting the results of the experiment. With the results we do have, one could hypothesize that the lack of a significant difference in muscle function could be due to an immunity that Rana pipiens carries. Perhaps the structure of their sodium channels are not inhibited as much by this type of lidocaine compared to other species. To test this a future experiment could repeat the steps of this experiment but add in more trials with other frog species and perhaps other more distantly related species to see in Rana pipiens does have some sort of immunity.
+
+
+Literature Cited:
+Johnson AD. Neuromuscular Control. Biological Principals Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Version 16.1 (updated May 1, 2016), pp. 17-33
+Groeben H, Peters J. 2006. Lidocaine exerts its effect on bronchospasm by mitigating reflexes, rather than by attenuation of smooth muscle contraction. Acta Anaesthesiologica Scandinavica. 51: 359-364
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-19+at+11.18.09+AM.png&Size=218462&Type=image%2Fpng&F=F_1mw0nZ0iWf2tJWr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Effect of lidocaine on the contractions of the gastrocnemius muscle of Rana Pipiens.
+*************************************************************************
+
+
+

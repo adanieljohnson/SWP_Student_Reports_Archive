@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-01 16:05:01
+Author of this lab report is: Std_mICOY4Yd
+ID: R_3fqwViE6sLD929A
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Impact of sodium ion channel blocker on the threshold voltage to generate movement in the legs of rana pipens
+
+Abstract:
+There are many components of the neuromuscular system that contribute to the communication of a stimulus into a signal to cause a movement. One critical component, the sodium ion channel, plays a valuable role to depolarize the cell and trigger an action potential that leads to movement. In this experiment, the threshold voltage was determined of three frog legs, before and after injected with sodium ion channel blocker. This was performed in order to understand the role sodium ion channels play in the neuromuscular system, specifically illustrating the impacts of blocking the channels to understand why they are critical, and how they contribute to the process of movement. Based on the results, with the Na+ channels blocked, the muscles needed more voltage to stimulate movement than the quantity that would be required normally. This occurs because the normal response of sodium ion channels cannot occur with blockage, so the muscle requires more stimulus to trigger the release of an excess of ions, since less can flow through the blocked channels and the minimum quantity much be obtained.
+
+Introduction:
+The nervous system functions to rapidly cause the body to respond to stimuli. Neurons communicate using electrical signals to elicit a localized response from the body. Every movement in the body requires communication between the brain and the muscles as part of the neuromuscular system. Nerve impulses cause the release of the neurotransmitter acetylcholine, which binds to a receptor, opening sodium ion channels and generating an action potential. Voltage gated ion channels are a critical component of the communication in the neuromuscular system. An action potential can only exist if enough sodium ions travel into the cell through the channels and depolarize the cell so much that the threshold membrane potential of the cell is reached. If not enough Na+ enters the cell, the action potential cannot travel to the next cell and the rest of the process cannot occur. Next, the release of calcium ion from the sarcoplasmic reticulum activates the contraction of muscle fibers, and movement occurs. Without enough flow of Na+, calcium flow cannot occur and neither can the rest of the process. Therefore, having enough sodium flow through the channels is imperative for movement to occur. This experiment highlights the impact of the sodium ions on the generation of an action potential and explains the connection between the amount of voltage required as a stimulus and the release of this ion. People may experience neuromuscular problems, like pain or trouble moving, so scientists perform experiments to understand the biological process of converting a stimulus into a message the nervous system can understand to create a movement. Experiments to understand the sodium ion channel and how it impacts the neuromuscular system importantly contribute to medical knowledge. For example, the D4S6 gene of a sodium channel causes a chronic movement disorder if a single amino acid is missing from the sequence. The researchers deducted that the channel with the mutation was extremely inactive. With the blocked channel, the mice possessed muscle weakness, impaired mobility, and other problems because with less sodium, there was less firing of action potentials compared to the mice without the mutation with normal functioning [Jones 2016].
+Similarly, in this study, three frog legs were observed to compare the threshold voltage for normal muscles and muscles injected with 25 mM lidocaine, a sodium ion channel blocker, to determine the relationship between the release of Na+ and the minimum voltage to generate an action potential to trigger a movement. If the sodium ion channel blocker (25 mM lidocaine) is injected in the gastrocnemius muscle of the frog, the threshold voltage stimulus required to elicit a response with increase.
+
+
+Materials and Methods:
+Three frog legs were used in the experiment and were monitored using a computer program to provide the muscle with voltage and to measure the amount of movement. 25 mM Lidocaine was the sodium ion channel blocker used in the experimental group. First, decreasing voltages were given to each of the three legs in the control group and the amount of twitch of the muscle was recorded to determine the lowest voltage that would cause a movement in the muscle. The threshold voltage is the lowest voltage that triggers a response. This part of the experiment represents the control group because the muscles were not given the sodium channel ion blocker. Next, each gastrocnemius muscle was injected with the 0.1 mL of sodium ion blocker and each threshold voltage was recorded using the same strategy of providing decreasing voltages until movement did not occur. This represented the experimental group. The same frogs were used in both groups to eliminate potential changing variables, like the ability of different muscles. Using the same frogs ensured the only variable changing would be the presence of the channel blocker. The three trials of both the control and the experimental group were compared. After the data was gathered, a paired t-test was performed to compare the thresholds.
+
+
+Results:
+Each of the three frog legs required a higher voltage stimulus to cause movement in the nerve after the sodium ion channel blocker was injected. The average difference in voltage before and after the injection was 0.40 V (with a standard deviation of +/- 0.52), but the differences ranged from 0.10 V all the way to 1.00 V to move the muscle. The mean, however, is insufficient to analyze the results because each frog leg responds slightly different to different amounts of stimulus and cannot be directly compared since they are not expected to behave the same. A paired-test was then used to determine the relationship between the injection of the sodium ion channel blocker and the threshold voltage. The data gathered had a degree of freedom of 2, a t-value of 1.3, and a p-value of 0.3. Comparing the calculated p- value to 0.05, the results of the paired t-test indicate that there is no correlation between the two variables and reveal the results are not statistically significant.  
+
+
+Discussion:
+The results of the experiment support the original hypothesis, but the results of the statistical tests do not. The prediction indicated that the presence of the sodium ion channel blocker would increase the amount of voltage required to stimulate movement. The average threshold voltage of the experimental group was higher than the control group. Therefore, sodium ion channel blockers cause the threshold voltage to increase. However, the paired t-test indicates that the results were achieved by chance. Also, the standard deviation of the average difference is also larger than the mean, indicating that the data is spread out relative to the mean. Usually, when a nerve is stimulated, sodium ions travel through the sodium ion channels to depolarize the cell and trigger an action potential. This is the process that occurred in the control group, before the blocker was injected. For each frog in the control group, a typical quantity of voltage was sufficient to trigger an action potential and flow of Na+ into the cell. If sodium is blocked from travelling through the channel, it is more difficult to trigger an action potential. Therefore, more stimulus will be required to release enough sodium ions to create an action potential, which explains why more voltage was required to observe a movement in the experimental group when the muscles had been injected with sodium ion blocker. More stimulus was used to cause flow in other channels, or force some ions through the blocked ones. A similar study was conducted using lidocaine and other compounds to figure out the structure of the best channel blockers. A blocker was successful when the membrane potentials differed from normal cells. Specifically, with the absence of blockers, the potential of more positive than -60 mV, and applying the blocker caused about a 50% reduction in the amplitude of current [Zamponi 1994]. These results support the findings from this experiment because both highlight the inability of depolarization when the sodium ion channels are blocked. Because of this, more stimulation is needed in order for an action potential to travel. Looking at the raw data of the frog leg experiment, it is evident through the three trials that there is a correlation between the two variables. However, the results of the paired t-test do not indicate that there is a correlation, because the p-value calculated was 0.3. This is significantly greater than the p-value of 0.05. There are numerous explanations to explain this. First, the experiment only held three trials. With more frog legs used, and more increases in threshold after the injection, the statistical test would display a higher correlation of results. In addition to repeating the experiment and using more trials, other biological aspects of the experiment, could have caused the apparent lack of correlation from the paired t-test. The sodium ion channel blocker did not function to completely block one channel, or function to impact all the channels in the muscle. This is important because the difference of voltage between the two groups does not completely represent the impact of sodium ion channel blocker in the most accurate way because it is unknown to what extent the channels are being blocked. Perhaps with a more sophisticated way to block more ion channels, the difference in voltage would be greater between the two groups and the statistical test would indicate a strong correlation. Using the outcome of this experiment and ones similar to it, perhaps in the future, researching the manipulation of sodium ion channels can excite solutions to those suffering with overactive or problematic muscles.
+
+
+Literature Cited:
+Jones, Julie M., et al. “Single Amino Acid Deletion in Transmembrane Segment D4S6 of Sodium Channel Scn8a (Nav1.6) in a Mouse Mutant with a Chronic Movement Disorder.” Neurobiology of Disease, vol. 89, May 2016, pp. 36–45. ScienceDirect, doi:10.1016/j.nbd.2016.01.018.
+
+Zamponi, G. W., and R. J. French. “Amine Blockers of the Cytoplasmic Mouth of Sodium Channels: A Small Structural Change Can Abolish Voltage Dependence.” Biophysical Journal, vol. 67, no. 3, Sept. 1994, pp. 1015–27. ScienceDirect, doi:10.1016/S0006-3495(94)80567-3.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-01+at+4.00.26+PM.png&Size=77753&Type=image%2Fpng&F=F_qDEQP7388kk7X3P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Threshold Voltage of each frog leg muscle. Blue bar indicates the threshold without the injection of the sodium ion channel blocker and the orange bar illustrates the threshold when the gastrocnemius was injected with the sodium ion channel blocker. The average difference before and after injection was 0.4 V +/- 0.52 V. (1.3, 2, .32), demonstrating no statistical significance.
+*************************************************************************
+
+
+

@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 11:18:36
+Author of this lab report is: Std_TWjE3s3j
+ID: R_2c61pfSxyrk28nk
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The Effect of Tubocurarine, a Acetylcholine Antagonist, on Amplitudes of Muscle Contractions
+
+Abstract:
+Muscle contractions and nerve contractions are events that occur due to multiple compounds and ions being released, such as sodium, potassium, and acetylcholine, which then trigger other ions and compounds to release. An extremely important compound that needs to be released and bound for a muscle contraction to occur is acetylcholine. Acetylcholine functions by attaching to ion channel receptors in the cell, allowing calcium ions to flood into the cell, the beginning step to a muscle contraction. To test the effects acetylcholine has on muscle contractions, specifically that of the Lithobates pipien, we tested three L. pipien legs. We ran three contractions on each of these legs, measuring the threshold amplitudes, then injected an acetylcholine antagonist(tubocurarine), and ran three more contractions. We predicted that when treated with tubocurarine, the frog legs would have a smaller threshold amplitude than when untreated. Myograms were recorded for contractions, and it was found that our hypothesis was supported (P=0.00, P=0.00, P=0.00). 
+Keywords: acetylcholine, Lithobates pipien, myogram
+
+Introduction:
+L. pipien are better known as Northern leopard frogs, and are native to swamps in North America. The legs of L. pipien are extremely muscular and consist of several muscles including the gastrocnemius muscle, and several nerves including the sciatic nerve [Johnson: 2018]. A normal muscular contraction has three major parts: the latent period, the contraction period, and the relaxation period. A contraction begins with an action potential traveling down a nerve and arrives at the neuromuscular junction. The depolarization of the neuron then causes the release of acetylcholine from the presynaptic nerve terminal [Johnson: 2018]. When acetylcholine binds on the membrane of the muscle fiber sodium channels open, triggering an action potential in the muscle fiber. The action potential then spreads all the way down the fiber which stimulates the release of calcium ions from the sarcoplasmic reticulum. The release of the calcium ions then causes a contraction of the muscle fiber. Then, reuptake of the calcium ions occur, allowing the muscle to fall into the relaxation state. All of the steps to a muscle and nerve contraction are crucial, and with a single ion or step being inhibited or changed the entire contraction may fail [Johnson: 2018].
+An extremely crucial chemical to a successful muscle contraction is acetylcholine. Without acetylcholine sodium channels would not be able to open, and no action potential in the muscle fiber could be triggered leading to contractions [Geeves and Holmes: 2005]. To find out important information about a muscle contraction, a myogram can be used. A myogram is a temporary representation of the force change during a muscle contraction (the amplitude). A smaller amplitude and a shorter contraction length typically means a less strong contraction. With all of this known information about muscle contractions, we wondered if an acetylcholine antagonist would inhibit a muscle contraction. An acetylcholine antagonist inhibits the binding of acetylcholine to the muscle fiber, for this lab we used tobocurine for this purpose [Pedersen and Cohen: 1990]. We predicted that L. pipien that are treated with tubocurarine would have their muscle contractions inhibited, and therefore would have a smaller threshold amplitude than the L. pipien legs that are untreated.
+
+Materials and Methods:
+Three L. pipien legs were acquired and prepped for experimenting by removing the skin. The legs then had their gastrocnemius muscle separated carefully from the bone and cut at the very top of the Achilles tendon. The top of the thigh was then carefully peeled back to reveal the sciatic nerve. A string was then tied to the Achilles tendon and hung on a metal rung. Hanging the leg allowed for the sciatic nerve to be easily accessed. Two stimulation electrodes were placed on the sciatic nerve, a few centimeters apart, to allow for myograms to be taken. 
+A threshold was then established by running a contraction at slightly higher pulse amplitudes. The threshold was established to be .2 volts. This was then multiplied by 125% to ensure that a full contraction would be seen, and the tests were then run at .25 volts. Each leg then had three contractions run on them, and an amplitude was recorded each time. Next, .2mL of tubocurarine was injected into the leg using a syringe. The legs were left for five minutes in order to allow the tubocurarine to take effect. Then three new contractions were run, and the amplitudes were recorded. Then the results were analyzed using a paired T-test. If the results of the T-tests had a P value of 0.05(5%) or below they were determined to be significant, while if they had a P value of above 0.05(5%) they were determined to be not-significant.
+
+
+Results:
+Figure 1 shows all of the summarized data for this lab. Each column represents the average amplitude in volts of  the three contractions run on each untreated L. pipien leg or the average amplitude in volts of the three contractions run on each of the three L. pipien legs after tubocurarine treatment. The first two bars of the graph represent the first leg in which myograms were run. The average amplitude of the untreated contractions on this first leg was 0.06±0.00 volts, while the average amplitude on the first leg after the tubocurarine treatment was 0.02±0.00 volts. The middle two columns of the graph show data for the second leg used in this experiment. Untreated the average amplitude of the contractions was 0.28±0.02 volts and the tubocurarine treated had an average amplitude of  0.13±0.01 volts. Finally, the last two columns on the left show the data from the third L. pipien leg that was tested. This leg when untreated had an average amplitude of 0.08±0.00 volts, and when tubocurarine treated the average amplitude was 0.01±0.00 volts. When T-tests were run the P value for the first leg tested was found to be 0.0004, the P value for the second leg tested was 0.0045, and the P value for the third leg tested was 0.0005.
+
+
+Discussion:
+When it came to our experimental results, we found that tubocurarine had a significant effect on all three of the L. pipien legs’ ability to contract fully (Figure 2; P=0.0004, Figure 2; P=0.0045, and Figure 2; P=0.00045). These results supported our hypothesis that the tubocurarine treatment would result in a smaller threshold amplitude than the control. In the future, this lab could be altered to inject more than .2mL of tubocurarine, or more time could be waited for the acetylcholine antagonist to set in before contractions were run. As found in an experiment done on mouse brains these changes could allow for data to be even stronger, however they are not necessary to receive successful data [Maruki, Izaki, Akema, and Nomura: 2003]. The results could lead to future long term uses, such as a cure to tetanus. Over stimulated muscles, or muscles that are over contracted can lead to pain or tetanus. Tetanus is caused by over contracted muscles that leads to immense pain, muscle spasms, and if left untreated, possible death [Hassel, 2013]. While inhibiting all muscles in the body from contracting would lead to heart failures, breathing failures, and death, small localized doses of a muscle contraction inhibitor could relax a muscle that is dangerously contracted. For this reason, our findings of the function of tubocurarine could make it a feasible way to cure tetanus by relaxing the muscles in the body. 
+
+Literature Cited:
+Johnson, AD. Neuromuscular Control. Comparative Physiology 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 17.2 (Updated January 1, 2018), Pp. 17-19.
+
+Maruki, Izaki, Akema, and Nomura. 2003. Effects of acetylcholine antagonist injection into the prefrontal cortex on the progress of lever-pressed extinction in rats. Elsevier, Volume 351 Issue 2.
+
+Pedersen and Cohen. 1990. d-Tubocurarine binding sites are located at alpha-gamma and alpha-delta subunit interfaces of the nicotinic acetylcholine receptor. PNAS.
+
+Geeves and Holmes. 2005. The Molecular Mechanism of Muscle Contraction. Elsevier, Volume 71, Pg. 161-193.
+
+Hassel. 2013. Tetanus: Pathophysiology, Treatment, and the Possibility of Using Botulinum Toxin against Tetanus-Induced Rigidity and Spasms. NCBI, pg. 73-83. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-07+at+9.05.45+PM.png&Size=38918&Type=image%2Fpng&F=F_V2A6eJZnDUR3WkF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Bar graph of amplitude size in volts for all three L. pipien legs analyzed, for control and experimental treatments, error bars show standard deviations in the data. Note, error bars cannot be seen on all columns due to 0.00 standard deviations
+
+*************************************************************************

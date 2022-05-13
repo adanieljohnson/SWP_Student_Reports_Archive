@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-22 18:35:36
+Author of this lab report is: Std_EoaMSjXY
+ID: R_1qb06rn8cMxyAmd
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Effect of pH change on photosynthesis in Brassica oleracea var. Sabellica as measured by the Hill Reaction
+
+Abstract:
+The proteins in the light-dependent reactions of photosynthesis are instrumental in the capture and conversion of light energy to chemical energy used to power the light-independent reactions. Photosynthetic activity can be measured through the Hill Reaction, which results in a decrease in measured absorbance when DCIP is reduced during the light-dependent reactions. When treated with a pH buffer substantially more acidic or basic than the Hill Reaction buffer (pH 6.5), the proteins involved in these reactions may denature resulting in a decrease in photosynthetic activity and therefore a higher measured absorbance at the end of the assay period. To test this hypothesis, the isolated chloroplasts of Brassica oleracea var. Sabellica leaves are allowed to photosynthesize in a pH 4 (acidic), pH 10 (basic), or neutral (pH 6.5) buffer and the difference between their initial and final absorbance ares measured. Two one-tailed two-sample t-tests are then performed between the control group and both the pH 4 and pH 10 groups which indicate no statistically significant difference between either treatment and the control group. Although the results do not indicate statistical significance, a slight decrease in absorbance could correspond to photosynthetic activity. Future studies performed
+
+Introduction:
+using further precautions to avoid pH contamination of the DCIP preceding the assays as well as treatment with more extreme pH conditions could lead to a more accurate understanding of the relationship between pH and the light-dependent reactions of photosynthesis. 
+ 
+Introduction:
+	Like all plants, Brassica oleracea var. Sabellica (kale) harvests light energy through the process of photosynthesis in addition to the capture of energy from glucose through cellular respiration. During the light dependent reactions of photosynthesis, light energy is absorbed and converted into chemical energy in the form of ATP and NADPH by proteins bound to the thylakoid membrane. These proteins capture light energy which is used to split water and evolve oxygen in order to create the high energy products which are then used in the light-independent reactions [Graham: 2017]. ATP production in chloroplasts can be indirectly measured through the process of election transfer in the presence of active chloroplasts in light with an alternative electron acceptor, DCIP, in the Hill Reaction summarized below: 
+2 H2O + 2 DCIP (blue) ⟶ 2 DCIPH2 (colorless) + O2
+
+The color change of DCIP from blue to colorless upon its reduction causes a decrease in measured absorbance at 600 nm. In order to determine the effect of pH, chloroplasts isolated from kale leaves will be treated in a pH buffer of either 4 (acidic), 10 (basic), or 6.5 (Hill Reaction buffer pH). Because the absorbance of DCIP is pH-sensitive, additional centrifusion of the isolated chloroplasts is necessary to minimize the effect of pH change on the color of the DCIP [Dean: 2006].
+pH changes are known to have an effect on the structure of enzymes, such as the ones which carry out the light dependent reactions, which can lead to denaturation of their structure and alteration of the configuration of their active site-- rendering them incapable of carrying out their catalytic duties. Previous studies have shown a pronounced effect of a shift in pH away from the optimum on the oxygen evolution and reduction abilities of chloroplasts of spinach leaves [Heber: 1975]. If the chloroplasts of kale are allowed to photosynthesize similarly in light at a pH more acidic or basic than that of the Hill Reaction buffer (pH 6.5),  denaturation of the proteins necessary for the light-dependent reactions may lead to a decreased reduction of DCIP and therefore a higher measured absorbance in these treatments after 30 minutes. 
+
+
+Materials and Methods:
+To begin, 3, 50 mL centrifuge tubes, a mortar and pestle, and a beaker were packed into crushed ice to chill. The central veins were then removed from a large kale leaf which was then rinsed with tap water and dried. The leaf fragments were then added to the mortar and pestle with 10 mL of pH 8 grinding buffer and grinded into a paste. The paste was added to an additional 10 mL of grinding buffer and strained through cheesecloth into the chilled beaker. Next, the liquid was transferred into a 50 mL centrifuge tube at 1200 rpm for 3 minutes at 4℃. After 3 minutes, the supernatant was poured into a chilled 50 mL centrifuge tube and centrifuged at 2800 rpm for 10 minutes. The resulting pellet was then resuspended in 15 mL of the grinding buffer and mixed, then separated into three conical tubes. 5 mL of pH 4, pH 6.5, or pH 10 buffer were added to their corresponding labelled tube and centrifuged again at 2800 rpm for 10 more minutes. Each pellet was then resuspended in 3 mL of their grinding buffers. 
+Twelve tubes were then labeled and filled with 2 mL Hill Reaction buffer, 6 mL of water, 2 mL 130 mM DCIP, and 6 mL of their corresponding treatment pH (either pH 4 or pH 10) if applicable. The blank tube was filled with only water and reaction buffer and the negative control tubes were filled with 6 mL of either pH 4 or pH 10 buffer but no chloroplasts. To begin the assays, 1 mL of enriched chloroplasts previously prepared were put in their corresponding labeled tubes (except the negative controls). Each tube was then mixed and transferred into a spectrophotometer cuvette. After blanking the spectrophotometer, the absorbances of each tube were measured at 600 nm and recorded as Time 0. The cuvettes were then placed in a rack under a light for 10 minutes and the absorbances were measured and recorded again at 600 nm. This process was repeated and the absorbances of each cuvette were measured twice more, for a total of 30 minutes. Two one-tailed two-sample t-tests were then performed between the control and pH 4 as well as the control and pH 10 to test the statistical significance in one direction with assumed equal variance between groups.
+
+
+Results:
+Over the duration of the 30 minute assay period, the colors of the liquids did not show any observable change. Most were a clear shade of dark blue but the negative controls, as well as tubes 2 and 5, were visibly lighter than the others. The average change between final and initial measured absorbance for the control (pH 6.5) treatment was -0.004 (SD= 0.005) while that for pH 10 was -0.002 (SD= 0.006) and that for pH 4 was -0.015 (SD= 0.014). A one-tailed two-sample t-test performed between the acidic (pH 4) treatment and the control yielded a P-value of 0.155 and that performed between the basic (pH 10) treatment and the control yielded a P-value of 0.159 (α-value = 0.05, df = 4) which was also greater than the α-value of 0.05. The degrees of freedom for both t-tests was 4. The pH 10 negative control had a measured change in absorbance of 0.002 and the negative control with the pH 10 buffer had a change in absorbance of -0.001.
+
+
+Discussion:
+As indicated by the results, a change in the pH of the buffer solution did not have a statistically significant effect on photosynthesis in the chloroplasts of Brassica oleracea var. Sabellica leaves as measured by the Hill Reaction. The two one-tailed two-sample t-tests performed between the control and the acidic and basic treatments yielded P-values greater than the α-value of 0.05 (P-value = 0.155 for acidic, P-value = 0.159 for basic), indicating that the null hypothesis could not be rejected; therefore, the average change between final and initial absorbances were statistically insignificant for both treatments. The absorbance of all three groups decreased slightly after the 30 minute assay period, indicating that the chloroplasts may have been photosynthesizing and reducing the DCIP-- making the samples more clear. Although the basic treatment did have a smaller decrease in absorbance than the control group, that of the acidic group was greater (yet still statistically insignificant). However, since both negative control samples (which had no chloroplasts and therefore could not photosynthesize) also showed a slight change in absorbance across the 30 minute assay period, these measured changes were likely due to chance and not actual photosynthetic activity. These results did not support the hypothesis that measured absorbance in the treatment groups would be higher than in the control as a result of denaturation of the proteins necessary for the light-dependent reactions, and therefore a reduction in photosynthetic activities which would have lead to a higher measured absorbance. If the acidic or basic pH buffer had denatured the proteins necessary to reduce the DCIP during photosynthesis, oxygen evolution and synthesis of the products necessary for the light-independent reactions would not have occurred either [Heber: 1975]. 
+Although an extra centrifuge step was performed on the isolated chloroplasts in order to minimize the effect of pH on the color and therefore absorbance of DCIP, pH contamination of the DCIP before the assays could have affected results and minimized the effects of pH change on the photosynthetic abilities of the chloroplasts during the assays [Dean: 2006]. In order to minimize this effect in future studies, additional centrifuge steps could be performed on a larger sample of each treatment. Furthermore, the effect of pH on the structure of the proteins involved in the light-dependent reactions could be better understood if the chloroplasts were treated with more extreme basic and acidic pH buffers. More extreme conditions performed on a larger sample size with extra precautions during the isolation of the chloroplasts could lead to more accurate and informative results about the relationship between pH and the light-dependent reactions of photosynthesis. 
+
+
+
+Literature Cited:
+Graham PJ, Nguyen B, Burdyny T, Sinton D. 2017. A penalty on photosynthetic growth in fluctuating light. Scientific Reports. 7: 12517.
+Heber U, Andrews J, Boardman NK. 1975. Effects of pH and oxygen on photosynthetic reactions of intact chloroplasts. Plant Physiology. 57: 277-283
+Dean RL, Miskiewicz E. 2006. Rates of electron transport in the thylakoid membranes of isolated, illuminated chloroplasts are enhanced in the presence of ammonium chloride. Biochemistry and Molecular Biology Education. 31: 410-417.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-22+at+6.34.29+PM.png&Size=123926&Type=image%2Fpng&F=F_Dc39edQAiOtI0Mh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Representation of the difference in average final absorbance of control (Hill Reaction buffer), pH 4, and pH 10 treatment groups measured at 600 nm after 30 minutes. The average change for pH 4 = -0.015 (SD = 0.014), pH 6.5 (control) = -0.004 (SD = 0.005), and pH 10 = -0.002 (SD = 0.0006). Error bars represent the standard deviation. *************************************************************************
+
+
+

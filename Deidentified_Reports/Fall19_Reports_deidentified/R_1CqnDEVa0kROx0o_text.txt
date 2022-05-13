@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-28 19:38:38
+Author of this lab report is: Std_GAytqpBk 
+ID: R_1CqnDEVa0kROx0o
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The Effects of Herbicide on the Photosynthetic Activity of Weeds and Spinach
+
+Abstract:
+During the lab, the effects of herbicide on the photosynthetic activity of weed and spinach chloroplasts were measured. It was hypothesized that herbicide, which inhibits the transfer of electrons in Photosystems I and II, would not induce a change in absorbance, a value marked by DCIP, a dark blue compound that changes to a colorless solution when saturated with electrons. To test our hypothesis, the absorbances of spinach and weed chloroplasts with herbicide were compared to the absorbances of spinach and weed chloroplasts with no treatment in light conditions. After a Two-Sample T-Test was used, it was found that there was no significant difference between the Experimental Groups because our P value was greater than 0.05. Therefore, we concluded that the presence of herbicide did not affect the photosynthetic activity/absorbance values of spinach and weed chloroplasts. 
+
+
+
+Introduction:
+Photosynthesis is the process by which plants capture and store energy from the sun, and it is summarized by the equation 6CO_2+12H_2 O→C_6 H_12 O_6+6H_2 O+6O_2. The light dependent reactions of photosynthesis use absorbed photons of two different wavelengths to create the proton gradient to drive ATP synthesis and also to form NADPH. Specifically, in Photosystem II, photons of light are absorbed and electrons to leave the chlorophyll and move to plastoquinone. After chlorophyll is reduced by the hydrolysis of water to produce molecular oxygen, a proton gradient is created. In Photosystem I, energy carried by incoming photons of light is again used to excite electrons on chlorophyll molecules. The excited electrons leave the chlorophyll and travel to NADP+ to produce NADPH. It is important to note that as protons move down their combined electrical and diffusion gradient, new ATP molecules are synthesized.
+Throughout the experiment, the effects of herbicide on the transfer of electrons from  Photosystem II to Photosystem I in weeds and spinach leaves are measured using the Hill Reaction, with DCIP as the alternative electron acceptor. A report entitled “Herbicide Resistance in Weedy Plants: Physiology and Population Biology” summarizes the purposes of herbicide, stating that susceptible plants are usually killed by recommended field doses of pesticide that prevent electron transfer from occurring [Warwick: 1991]. It is important to note that DCIP is a dark blue compound, and when oxidized to DCIPH2, the C=C bonds are reorganized, and the molecules become colorless. In other words, DCIP takes in electrons as photosynthesis occurs. My partners and I hypothesized that if herbicide is applied to both spinach and weeds, then the effects of herbicide on weeds will be most effective in inhibiting the transfer of electrons compared to the effects of spinach in light conditions. This is because herbicides, as described by the article above, are intended to kill weeds; thus, the herbicide destroys the chloroplasts, and since DCIP will not take in as much electrons, the color will stay the same and there will not be a significant change in absorbance values [Johnson: 2016]. Conversely, we predict that since herbicide does not specifically target spinach leaves, DCIP will take in more electrons, and the solution will turn from dark to colorless, signaling a large change in absorbance. 
+
+
+Materials and Methods:
+To test our hypothesis, chloroplasts were ground up and centrifuged with the addition of 20 mL of grinding buffer for the spinach and weed sample. These enriched chloroplasts were then added to some of the samples. A blank sample with water and reaction buffer was created to zero the spectrophotometer before measuring absorbances. 3 test tubes with spinach chloroplasts in light were prepared with water, DCIP, and reaction buffer. 3 test tubes with spinach chloroplasts in light were prepared with herbicide, water, DCIP, and reaction buffer. This process was repeated for the weed chloroplasts. The absorbances of these samples were measured at 0 minutes, 10 minutes, 20 minutes, and 30 minutes, and the percent change was calculated. A Two-Sample T-Test was used to analyze the results. 
+
+Results:
+As shown in Figure 1.1, the absorbance values for the spinach chloroplasts that did not receive the herbicide remained the same. However, the absorbances for the spinach chloroplasts that were exposed to the herbicide decreased. In Figure 1.2, the absorbances for the weed chloroplasts did not change, but the absorbances for the weed chloroplasts with herbicide decreased. A Two-Sample T-Test was used to compare the absorbances of weed and spinach chloroplasts with herbicide, and a P-Value of 0.925 was recorded. This indicates that the difference in absorbance values for weeds with herbicide versus spinach with herbicide were insignificant. 
+
+Discussion:
+At the conclusion of the experiment, our hypothesis that herbicide would be most effective in inhibiting the transfer of electrons compared to the effects of spinach in light conditions was disproven. After conducting a Two-Sample T-Test, it was found that there was not a significant difference between the weed chloroplasts with herbicide and the spinach chloroplasts with herbicide. In addition, the opposite trend of what was expected occurred; the spinach and weed groups with chloroplasts alone did not experience a change in absorbance values, and the groups with chloroplasts and herbicide experienced a decrease in absorbance values. We predicted that the herbicide would prevent the transfer of electrons from Photosystem I to Photosystem II, and DCIP would not take in as many electrons, so the absorbances would stay the same. Conversely, we predicted that the spinach and weeds chloroplasts alone would transfer more electrons, so DCIP would take in more electrons, resulting in a greater change in a decrease in absorbance values. Since the opposite occurred in the experiment, we speculated that the herbicide was expired and was inefficient in preventing the transfer of electrons. A similar experiment entitled “Physiological effects of photosystem II-herbicides on the development of the photosynthetic apparatus” poses that herbicides not only block photosynthetic electron transport, but also have other effects on cellular metabolism, resulting in higher grana stacks, high levels of chlorophyll a, and increased levels of ubiquinone, which signals mitochondrial activity [Lichtenthaler: 1980.]  In future experiments, I hope to test how exposure to herbicides affects these indicators of cellular metabolism. 
+
+Literature Cited:
+1.	Johnson AD, Mallison S. 2016. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+2.	Warwick Suzanne, 1991. Herbicide Resistance in Weedy Plants: Physiology and Population Biology. Annu. Rev. Ecol. Syst. 22: 95- 114. 
+3.	Lichtenthaler HK, Bukard G, Grumbach KH, Meier D. Physiological Effects of Photosystem II on the Development of the Photosynthetic Apparatus. Photosynthesis Research. 1, pp. 29-43. 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-26+at+3.39.59+PM.png&Size=79727&Type=image%2Fpng&F=F_1Ig9z4wLzWSwCDQ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-26+at+3.40.08+PM.png&Size=87153&Type=image%2Fpng&F=F_3RavKgczTZzzWSs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.1 Absorbances of Spinach Chloroplasts at 10, 20, and 30 Minutes With and Without Herbicide:
+Figure 2.1: Absorbances of Weed Chloroplasts at 10, 20, and 30 Minutes With and Without Herbicide*************************************************************************
+
+
+

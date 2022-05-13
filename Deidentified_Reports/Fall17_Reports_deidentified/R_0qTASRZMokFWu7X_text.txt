@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-05 21:58:47
+Author of this lab report is: Std_pbmM9eGj
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Slower Metabolic Rate in Procambarus sp. in Brief Darkness
+
+Abstract:
+Overall energy expenditure in heterotrophic organisms is measured as a function of oxygen consumption, which relates directly to the organism’s specific metabolic rate. The experiment sought to investigate how environmental changes, namely, changes in lighting, might affect metabolic rate. The effect of full light exposure and complete darkness on specific metabolic rate was tested on Procambarus sp. Three crayfish were put in a lit environment for 20 minutes, followed by a 20 minute period of complete darkness, and their metabolisms were determined using the change of oxygen in those periods. It was hypothesized that metabolism under light exposure would be statistically different than in darkness, and the paired t test comparing the two metabolic rates in each crayfish yielded a p value of .0082, supporting the hypothesis that light conditions would alter metabolism. The results showed that brief light exposure led to a significantly faster metabolic rate than brief darkness.
+
+
+Introduction:
+Metabolism in heterotrophs, which consists of energy used for all biological functions, directly correlates to oxygen consumption. Thus, measuring the oxygen consumed per body mass of an organism over time indicates the individual’s specific metabolic rate. The extent to which an external factor such as light has on metabolic rate was of interest in this experiment. A previous case study that subjected different species of Procambarus (crayfish) to 12:12 and 20:4 light to dark photoperiods found that metabolism was faster overall in the group with less hours of light exposure [Fanjul-Molesa, 1998]. These crayfish were said to be nocturnal, and the findings were correlated with circadian rhythm patterns and changes in physical activity [Fanjul-Molesa, 1998].  
+	This experiment sought to investigate the short-term effect of light and dark on Procambarus metabolic rate as opposed to the effect of daily photoperiod adjustments observed in the case study. It is convenient to measure the aerobic metabolism of Procambarus because the organism can be submerged in a closed, water-filled environment where the change in oxygen concentration is easily quantifiable. The experiment subjected crayfish to 20 minute periods in light and darkness and measured their metabolism according to the depletion of oxygen from the surrounding environment. Since the exact species is unknown, though, it is unclear whether or not the crayfish used are nocturnal, or if brief photoperiods will have similar effects to prolonged light changes. Yet, the drastic change in lighting from lit to entirely dark is predicted to affect the metabolic rate of crayfish. It is then hypothesized that Procambarus metabolic rate in complete darkness will be statistically different from the control rate under light exposure.
+
+
+Materials and Methods:
+A large bin was filled with room temperature water to insulate the system. For the treatment trials, one of two mason jars was completely wrapped in aluminum foil, creating a completely dark environment. For the control trials, the other jar was left clear and exposed to light. 
+Each crayfish was individually weighed then placed alone into the control jar, which was filled completely with water, capped with an O2 concentration sensor, and placed in the larger bin. After about two minutes of acclimation time, O2 concentrations were recorded every five minutes for 20 minutes. This process was repeated using the foil-wrapped jar. After each trial, the volume of water in the mason jar was measured.
+Each crayfish served as its own control, and a two tailed paired t-test was used to quantify the metabolic rate difference in light and dark. Specific metabolic rate was calculated using the equation (Figure 1):
+
+
+Results:
+All three crayfish consumed oxygen at a higher rate in light than in darkness. Their metabolic rates in the lit environment averaged .001049 mgO2/g/min +/- .000433, while their metabolic rates in darkness averaged .000559 mgO2/g/min +/- .000435 (Figure 2). Metabolism in light was about twice that of in darkness; the average difference in rate from light to dark was .00049 mgO2/g/min. The paired t test using the difference in rate in light and dark resulted in a p value of .0082 (Figure 2).
+
+
+Discussion:
+The p value of .0082 is far below significance level .05, indicating that the null hypothesis is rejected. The data support the hypothesis that putting crayfish in complete darkness will result in a different metabolic rate than from exposure to light. This experiment also indicates that crayfish have higher metabolic rates in light than in dark, since the average light rate was greater than the average darkness rate (Fig. 2). This data conflicts with the original case study, which suggests that more light exposure lowers metabolic rate, though this discrepancy may have arisen for a variety of reasons [Fanjul-Molesa, 1998].
+	As mentioned, it is unclear whether the Procambarus used in this experiment are nocturnal. If they are instead diurnal, one would expect darkness to lower metabolism as it would signal a rest period for the crayfish. Testing the normal sleep patterns of the crayfish could be accomplished by measuring metabolism through the entire duration of a standard day/night cycle using the same crayfish species as in the original experiment. 
+	Alternatively, the results obtained from this trial could be entirely unrelated to photoperiod, given that the periods of light and dark only lasted for 20 minutes. It is then possible that the light caused the crayfish to be more alert, thus increasing physical activity and metabolism in that small period. Testing a difference in locomotion would require visual observation and ideally, quantifiable measurements of movement of Procambarus in light and dark. 
+	In addition, factors other than light that were not properly controlled for may have led the crayfish to metabolize faster in light than in dark. Light trials were always done before dark trials, and though crayfish were allowed to acclimate for two minutes before each recording, it could be that the crayfish were still not settled after 20 minutes of light exposure and did not settle until the second trial, which happened in darkness. To rule out this possibility, more crayfish should be studied, and the sequence of light/dark exposure randomized so half of the group is put in darkness first. Also, the water was presumed to have remained at room temperature because of insulation from a larger water chamber, but temperature was not consistently monitored during the experiment; the foil-wrapped dark jar could have been cooler than the clear jar. Crayfish are ectothermic organisms that adjust their metabolism according to temperature, so cooling in darkness would account for the lower metabolic rates observed. A second experiment could rule this out by precisely controlling for temperature in the jars. 
+
+
+Literature Cited:
+Fanjul-Molesa, Maria Luisa, & Fernandez-Rivera-Riob, Leonor (1998). Effect of Variation in Photoperiod and Light Intensity on Oxygen Consumption, Lactate Concentration and Behavior in Crayfish Procambarus clarkii and Procambarus digueti. The Journal of Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology, 119(1), 263-269.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=metabolicrateequation.PNG&Size=13625&Type=image%2Fpng&F=F_4Z5tuFI9WMGuXcx
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=crayfish.PNG&Size=17270&Type=image%2Fpng&F=F_3vFL6OwxrRj910p
+
+
+
+
+
+
+
+Figure Legends: 
+(Figure 1 is an equation and does not have a description)
+Figure 2: Average metabolic rate of Procambarus sp. (crayfish) in light compared to in darkness. N=3: metabolic rate in light averaged .001049 with SD +/- .000433, while metabolic rate in darkness averaged .000559 with SD +/- 000435. Difference between light and dark average rates is .00049. The two-tailed paired t test performed on these data resulted in a t value of 10.987, and a p value of .0082.
+
+*************************************************************************

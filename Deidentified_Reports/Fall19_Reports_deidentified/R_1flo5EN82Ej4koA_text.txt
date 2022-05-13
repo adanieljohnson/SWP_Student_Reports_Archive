@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-09-25 23:12:34
+Author of this lab report is: Std_tBwJIxOq
+ID: R_1flo5EN82Ej4koA
+Course number: BIO101L
+TA: TA_vywG7gSA
+*************************************************************************
+Title: Chemical Signaling via Juvenile Hormones in Manduca Sexta
+
+Abstract:
+lkn.k
+
+Introduction:
+Manduca Sexta, also commonly called the tobacco hornworm is an insect in the Order Lepidoptera. They are typically viewed as common garden pests because they consume large quantities of the leaves of solanaceous plants causing defoliation. Although this damage occurs in gardens, the larval stages of Manduca sexta can cause a consequential amount of economic damage when they consume tobacco, tomato, and potato crops [Campell: 2017]. 
+While the caterpillars are in their larval stage, a hormone called juvenile hormone, which is produced in the corpus allata glands of the insect is responsible for many different functions. The juvenile hormone regulates the type of molt during the growth of the caterpillars and It works along with the hormone ecdysterone to control development and the metamorphosis of Manduca [Resource guide]. The caterpillars undergo 5 larval stages before undergoing metamorphosis in a pupal state and emerging as an adult moth. During the final larval instar in the hornworm’s lifecycle, the juvenile hormone stops the insects’ brain from the secretion of prothoracicotropic hormone (PTTH). Once the caterpillars get to a certain weight, the corpus allata halts the secretion of juvenile hormone and allows PTTH to be released. The release of PTTH causes the hornworm to leave its larval stage and undergo metamorphosis [Nijhout and Williams: 1974]. 
+Given the importance of JH in the caterpillar’s early stages, how would giving excess amounts of the hormone (i.e. more than the caterpillars naturally produce) to the Manduca affect its growth and development? Due to the fact the juvenile hormone is already secreted during the first several larval stages of the hornworm’s lifecycle. It was hypothesized that when given more of the juvenile hormone, the caterpillars will grow at the same rate as caterpillars in the control group which were not given any hormone.
+
+
+Materials and Methods:
+Four larval Manduca Sexta caterpillars were randomly assigned to either the control group or the treated group. Ten grams of caterpillar food was given to each of the hornworms in both groups. The control group’s food was given nine drops of water to each ten grams of food while the treated group’s food was given nine drops of the substance Insect growth regulator (IGR) which contained hormones to mimic the juvenile hormone. Both the water and the IGR were put into the food with a dropper and thoroughly mixed before being placed in each caterpillar’s container. Each day for 14 days the caterpillar’s containers were cleaned out and replaced with ten more grams of food, each treated appropriately with the IGR or left untreated. The caterpillars were kept in a containment area that was kept at 26.5 degrees Celsius. Each of the caterpillars from both groups were weighed and observed as well. The weight data was recorded, and a two sample two tailed t-test was done to see if any sort of pattern observed was due to effects of the treatment or coincidental chance.
+
+Results:
+After 14 days of treating half of the hornworms with the juvenile hormone, and half without, the data showed not much difference between the treated and the control groups. Although the data shows the gap between the average weights of the treated and control groups got larger towards the end of the 14 days, the t-test counteracted this data. The p-value of the two sample two tailed t-test was 0.57483 which is much higher than the required amount to reject the null hypothesis. Given the greater than 0.05 p-value, the data suggests there is weak evidence to suggest any sort of trend in weight in the data. There is no reason to believe that any fluctuation in weight between the treated and control groups is a direct result of the juvenile hormone. Rather these changes in weight can be explained from random chance. As for qualitative observations of the caterpillars, while the size for most of them did not very much across the groups, the group treated with the juvenile hormone had slightly different coloring. Over the several days the juvenile hormone group was paler and less green in comparison to the control worms.
+
+
+
+
+Discussion:
+In conclusion, the hypothesis that there would be no difference between the weights of the juvenile hormone treated group and the control group was supported. Though different worms fluctuated in size frequently over the course of fourteen days, no concrete trend could be formed to lead to the belief that the juvenile hormone was inhibiting or promoting growth. As this experiment was only dealing with the larval stages of the tobacco hornworm, rather than the 5th instar stage leading into metamorphosis, it seems that the addition of the juvenile hormone did not make much of a difference. Aside from slight color change in the treated group, the groups were pretty much the same with random variable that cannot be attributed to the treatment due to the p-test. Given the fact there is a lot of evidence to suggest that the reduction of juvenile hormone in the insect is what is necessary for pupation to occur (Nijhout and Williams: 1974), up until pupation, it secretes the hormone. Since the hornworm already has the hormone present, adding excess amounts of juvenile hormone experimentally has no effect on the growth and maturation of the earlier larval instars. As the tobacco hornworm is a pest among gardeners and farmers of certain crops, it seems like using insect growth regulator would not be a sufficient way to inhibit crops from suffering the damage of the larval Manduca sexta. Rather than induce more rapid growth or inhibit growth, the IGR hormone did not change the caterpillars in their larval stages.Further experiments on the 5th larval instar may be helpful to view the effects of the juvenile hormone during the pupal stage of its lifecycle. These experiments may show how the juvenile hormone prevents the secretion of the PTTH and prevents the pupation of the caterpillar, instead inducing another instar [Nijhout and Williams: 1974].
+
+Literature Cited:
+Campbell D. 2017. Manduca sexta, Carolina sphinx moth. Encyclopedia of Life.
+
+, C.M., 1974. Control of Moulting and Metamorphosis in the Tobacco Hornworm, Manduca Sexta : Cessation of Juvenile Hormone Secretion as a Trigger for Pupation. The Biological Libraries , pp.493–501.
+
+Anon, 2019. Week 1: Endocrine Control of Insect Life Cyces. Comparative Physiology Bio 114 Laboratory Manual, 19.2, pp.6–13.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=manduca+lab.jpg&Size=20016&Type=image%2Fjpeg&F=F_AEZZObsAabAzjjP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average masses per day of tobacco hornworms in JH and control groups
+
+*************************************************************************
+
+
+

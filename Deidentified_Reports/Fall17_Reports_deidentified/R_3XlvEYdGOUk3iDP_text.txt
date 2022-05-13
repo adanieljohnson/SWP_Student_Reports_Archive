@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-01 10:56:40
+Author of this lab report is: Std_ZfLStI3S
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The effect of tubocurarine on the muscle twitch in Rana pipiens
+
+Abstract:
+The objective of this experiment is to discover the effect of tubocurarine on the muscles of a frog leg, Rana pipiens, through analyzing the twitch summation threshold before and after the injection. If an acetylcholine antagonist, tubocurarine, is injected into the frog legs the twitch threshold will be greater because increased voltage is needed to counteract the inhibition. To measure this, the gastrocnemius muscle was isolated from the leg and administered low shocks until the threshold was found before and after the injection. Through the myogram, the threshold was then measured and compared. The summations were seen to be lower before the injection of tubocurarine. However, after running a paired t-test, the p-value was found to be 0.22, which is higher than the accepted significance level of 0.05. Therefore, it can not be concluded that tubocurarine decreases the twitch threshold. 
+
+Introduction:
+Muscles are made up of hundreds to thousands of myofibrils, cylindrical multi-nuclear fused bundles of cells. In skeletal muscle, axons of motor neurons innervate the myofibrils at the neuromuscular junction and stimulate the muscle, which ultimately leads to contraction. When an action potential arrives at the neuromuscular junction, it triggers the depolarization of the presynaptic cell which ultimately causes the release of Acetylcholine (ACh). ACh then causes the postsynaptic membrane to depolarize leading to another action potential that will travel into the muscle. The action potential travels through the T-tubules of the muscle down to the sarcoplasmic reticulum (SR). When the action potential reaches the SR, this causes calcium to leak into the sarcomere which finally allows the myosin head and the actin filament to bind. Once the two filaments, bind the contraction finally occurs by the head pulling on the filament causing the myofibril to shorten. 
+	Tubocurarine is a neurotransmitter non-depolarizing agent. This means that at the neuromuscular junction it inhibits the depolarization of the membrane, which blocks the release of ACh. By blocking ACh a muscle contraction cannot occur (Ali et al., 1975). In an experiment conducted by Paton and Zaimis, they measured the effects of D-Tubocurarine and decamethonium, another neuromuscular blocker, on the muscles of a household cat. In the experiment, they found that D-Tubocurarine depresses the tetanus of the muscle more than it depresses each individual contraction (Paton & Zaimis, 1951). 
+	In this experiment, the comparison of the twitch threshold will be analyzed before and after a tubocurarine injection. This will be tested in the gastrocnemius muscles of three Rana pipens since the muscles are easy to locate and isolate.The twitch threshold measures the minimum unit of contraction of a muscle fiber. Since tubocurarine is an ACh antagonist and lowers the tetanus, as seen by Paton and Zaimis, tubocurarine should also affect the twitch threshold. Therefore, if an acetylcholine blocker is injected the twitch threshold will be higher after an injection of tubocurarine is administered in the frog leg.
+
+
+Materials and Methods:
+In this lab, the preparation of the frog legs for testing is first done by removing the skin of the leg starting from the top and pulling it off towards the distal end of the leg. Then, the dissecting probe to separate the gastrocnemius from surrounding connective tissue and the bone. Once the muscle is isolated cut the bottom of it. Then take a piece of string and tie it around the end of the muscle. Also, make sure when you tie the string the other side has a loop. Next, place the loop end of the string on the hook of the force transducer. Then, adjust the tension and length of the string to make sure that the muscle is completely suspended in the air while the rest of the frog leg is laying flat on the dissection tray. To make sure leg was secure pin the frog leg to the dissecting tray. Next, stick the needle probes parallel through the gastrocnemius muscle. Finally, shock the leg and record the results through Lab Scribe to find the twitch of the leg. Then once the twitch is found inject 2 mL of 1 mM tubocurarine into the frog leg and wait at least six minutes for the injection to settle into the leg. Finally, shock the leg again to find the twitch. Repeat this entire process with the remaining two legs. After the twitch threshold is found for each frog leg before and after the injection a paired t-test will be run to determine the statistical significance of the data.
+
+
+
+
+Results:
+When analyzing the raw data, there are some general trends that can be seen. For example, there is a difference in voltage of the twitch threshold before and after tubocurarine in each leg, in which the threshold is lower without the tubocurarine. Furthermore, the mean difference before the tubocurarine (0.292) is less than the mean difference after the chemical has been injected (0.492). However, the mean twitch threshold of the frog legs before the tubocurarine is administered is not statistically different than the mean after the leg is treated with the chemical (t-stat = 1.75, df = 2, p = 0.22).
+
+
+Discussion:
+After analyzing the data, the null hypothesis cannot be rejected since there was not a significant difference in the twitch threshold of a frog leg before and after an injection of tubocurarine. When analyzing the paired t-test, the p-value, 0.22, is considerably higher than the alpha value, alpha = 0.05. The alpha value is an accepted significance level that indicates there was a 5% chance that the results occurred due to random chance. This then concludes that although there appears to be a trend of the threshold being lower before the injection, it cannot be concluded this is true because there is a greater than 5% risk that these results were due to random error or luck. Although the p-value is high, it could potentially be lowered by using a larger sample size of Rana pipiens. 
+The results of this experiment contradict the previously mentioned experiment by Paton and Zaimis. This biologically opposes their findings that tubocurarine depresses muscle contraction, which would, in turn, increase the twitch threshold. To expand this experiment, a different species, like rats, could be used to further examine the effects of tubocurarine on muscle function and determine if there is a significant effect. This experiment is important because it could help conclude about the significance of tubocurarine for anesthetic purposes. For example, it could help determine if tubocurarine is a useful drug for anesthesiology by testing if it actually prohibits or effects muscle contractions.  
+
+
+Literature Cited:
+1. Ali, H. H., Wilson, R. S., Savarese, J. J., & Kitz, R. J. (1975). The effect of tubocurarine on indirectly elicited train-of-four muscle response and respiratory measurements in humans. BJA: British Journal of Anaesthesia, 47(5), 570-574.
+
+2. Paton, W. D., & Zaimis, E. J. (1951). The action of d‐tubocurarine and of decamethonium on respiratory and other muscles in the cat. The Journal of physiology, 112(3-4), 311-331. 
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FrogMuscleDraft+%282%29.jpg&Size=86176&Type=image%2Fjpeg&F=F_4UCTL1LFZHG5zWB
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effects of tubocurarine on the minimum strength of the stimulus required to cause a contraction in a frog leg. The control group and the experimental group are the same three frog legs. The control is frog legs tested without the injection. The experimental group are the frog legs that received 0.2 mL of tubocurarine. Error bars represent standard deviation (control = ± 0.029, experimental =  ± 0.227), while the data bars represent the average voltage required to cause a twitch. A paired t-test was run resulting in t-stat = 1.75, df = 2, p = 0.22.
+
+*************************************************************************

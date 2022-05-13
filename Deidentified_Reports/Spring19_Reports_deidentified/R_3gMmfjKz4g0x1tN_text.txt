@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-25 11:52:32
+Author of this lab report is: Std_T79kQqEb
+ID: R_3gMmfjKz4g0x1tN
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The effect of the sodium channel blocker lidocaine on the legs of R. pipiens
+
+Abstract:
+We investigated the effects of the sodium channel blocker lidocaine in R. Pipiens. We did a matched pairs experiment where we recorded three legs’ responses to stimulus before and after lidocaine application. Our statistically significant results suggest that response amplitude decreased after the lidocaine was applied. 
+
+Introduction:
+The nervous system allows organisms to respond to and interact with the environment around them and their bodies. The neuromuscular system uses electrical signaling for quick responses. Myofibers are cylindrical multi-nuclear, fused aggregates of cells. They are in skeletal muscles of vertebrates and invertebrates. Connective tissue binds myofibers together to form the skeletal muscles. Motor neurons have cell bodies in the spinal cord’s gray matter, and these neurons innervate skeletal muscles. The motor neuron’s axons innervate myofibers by extending into muscles and branching to innervate the myofibers, forming points called neuromuscular junctions. Acetylcholine (ACh) is released from the presynaptic nerve terminal when nerve impulses arrive at these junctions. Sodium channels open when Each binds with its receptor on muscle fiber membrane. This generates an action potential that spreads throughout the length of the muscle fiber. This causes Ca2+ to be released from the sarcoplasmic reticulum, and the Ca2+ activates the contraction of muscle fibers. [Johnson: 2018] 
+	Lidocaine is used in medicine as a local anesthetic to cause numbness in a specific area. This drug inhibits the movement of sodium ions through sodium channels. This prevents depolarization of action potentials. [Balser: 1996] Since the lidocaine will block the sodium channels of the neurons, it will prevent action potentials and thus stop the occurrence of muscle twitches. [Fozzard: 2005]
+	We investigated the effects of lidocaine in R. pipiens. R. pipiens was used as the model organism in our experiment because they grow and reproduce quickly, so they are cheap and easy to acquire. It is also easy to see and record muscle contractions on this organism, and its leg is small enough that it is easy to dissect but large enough that it is not difficult to work with. To explore the role of sodium channels in muscle contractions, we injected lidocaine, a sodium channel blocker, to the leg of R. pipiens and administered electrical stimulus to the leg. We then recorded the muscle’s response and compared the data from control and treatment groups. We hypothesize that the treatment group will show inhibited muscle twitching. Our independent variable is the function of sodium channel blockers in the leg, and our dependent variable is the amplitude of muscle response. 
+
+Materials and Methods:
+	To set up for the lab, we first placed our first frog leg (of three) in a dissecting pan. We used forceps to pull the skin down the leg towards the foot and discarded it. Using a dissecting probe, we gently separated the inner thigh muscles, beginning at the upper end and extending to the knee to reveal the sciatic nerve and its accompanying blood vessels. We gently freed the nerve from its attaching connective tissue with forceps and a dissecting needle. We ran three tests on the leg before injecting and moistening the muscle with lidocaine. We then ran another three tests after the addition of lidocaine. For all 18 trials (6 per leg multiplied by 3 legs), we used a stimulus of 1.0V and recorded the twitch response as the response amplitude. The pre-lidocaine legs comprise our control group, and the same legs after the lidocaine comprise our treatment group.
+	To compare these two groups, we used a matched pairs test since each leg was acting as both a control and a treatment trial.
+
+Results:
+Average control amplitude: 0.866
+Average treatment amplitude: 0.485
+T-value: 4.67
+P-walue: 0.043
+Control standard deviation: 0.394
+Treatment standard deviation: 0.387
+Control standard error: 0.628
+Treatment standard error: 0.622
+
+Discussion:
+Our average amplitude for the control group was 0.866mV, while our average amplitude for the treatment group was 0.485mV. We used a paired test to determine if our data was statistically significant. Our test determined that our data was statistically significant because our p-value was 0.043 which is less than alpha value = 0.05. This suggests that we can accept our hypothesis that treatment group would show inhibited muscle twitching. This occurred because lidocaine is a sodium channel blocker, and thus prevented the action potentials which cause muscle responses [Balser, 1996], [Fozzard, 2005]. These results align with what previous studies have concluded. We could investigate how lidocaine impacts different parts of the body, such as the heart. We could also investigate how lidocaine impacts different organisms, such as insects or mammals.
+
+Literature Cited:
+Balser, J. R, et al. “Functional Consequences of Lidocaine Binding to Slow-Inactivated Sodium Channels.” Journal of General Physiology, Rockefeller University Press, 1 May 1996, jgp.rupress.org/content/107/5/643.abstract.
+
+Fozzard, H. A, et al. “Mechanism of Local Anesthetic Drug Action on Voltage-Gated Sodium Channels.” Latest TOC RSS, Bentham Science Publishers, 1 Aug. 2005, www.eurekaselect.com/61560/article.
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, Nc. Ver. 18.2 (updated 8/2/18), pp  17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Muscle responses in amplitude mV of pre- and post-lidocaine application (control and treatment respectively) of R. pipiens*************************************************************************
+
+
+

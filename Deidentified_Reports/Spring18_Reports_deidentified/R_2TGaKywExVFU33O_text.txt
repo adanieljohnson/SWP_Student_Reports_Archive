@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-29 15:16:19
+Author of this lab report is: Std_aEtRd98E
+ID: R_2TGaKywExVFU33O
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Impact of Lanthanum Chloride on Rana pipens' Muscular Contraction
+
+Abstract:
+This lab’s focus will be on muscle contraction, and, more specifically, how muscle contraction is affected when a calcium blocker, Lanthanum Chloride, is administered. Using the legs of Rana pipens (a species of frog), this affect can be tested by using a Force Transducer, which sends electrical impulses meant to mimic those of the nervous system. 3 frog legs were skinned, dissected, and assembled to be stimulated. The experiment was performed on each leg without the calcium blocker and then repeated with the blocker. The amps needed to create and action potential to stimulate the leg were recorded as well as the resulting voltage. They hypothesis of this experiment is that the Lanthanum Chloride will result in in the requirement of a much higher electrical impulse in order for the leg to reach the same level of contraction as a leg without the calcium blocker. The results of the study indicate that Lanthanum Chloride may have serious effects on the ability of the muscle to contract, but further testing is necessary.
+
+
+Introduction:
+Skeletal muscle tissue is comprised of myofibers, which are multi-nuclear fused muscle cells cylindrical in shape. Myofibers are bound together by connective tissue, forming larger functional groups. Skeletal muscle receives commands to contract and relax from the nervous system, which meets the muscle at the neuromuscular junction. Acetylcholine is released from the neuromuscular junction, and, after travelling across the synaptic cleft, binds to a receptor on the muscle cell. This opens the sodium channels of the muscle cell, allowing an action potential to be generated and the muscle to contract  [Johnson, 53]. Once the action potential has been generated, it travels down the muscle, causing the calcium ion Ca2+ to be released from the sarcoplasmic reticulum. Ca2+ controls all muscle contractions and relaxations as a second messenger [Berchtold, 2000]. In this experiment, 3 frog legs will be stimulated by a force transducer, first without Lanthanum Chloride, a calcium blocker. Then, the calcium blocker will be injected into the leg, which will be stimulated again. Doing so should simulate what would happen if the calcium channels in a living organism are blocked. The hypothesis for this experiment is that if the calcium channels are blocked in the muscle, the amplitude needed to reach the same level of contraction in a frog leg with the calcium blocker will be much higher as opposed to a frog leg without the blocker.
+
+
+Materials and Methods:
+In this experiment, three freshly removed frog legs will be obtained. All three will be skinned and suspended on a hook by the gastrocnemius, one at a time. Pin the frog legs to the dissection tray and adjust the height of the ring stand so that the string by which the leg is hanging is somewhat taut. Once suspended, the frog leg will be connected to a Displacement Transducer by inserting two needle probes into the gastrocnemius. Connect the transducer to a laptop and open the labscribe software to begin the stimulation of the frog leg. Beginning at an amplitude of 0, stimulate the frog leg, recording the voltage reading. Increase the the amplitude by 0.1 for each time you fire the stimulator, recording the voltage each time. Once an amplitude of 1 is reached, begin increasing the amplitude by 1 for each time you fire the transducer. Eventually, the voltage response will stop increasing, and eventually begin to decrease. Once this happens, the frog has reached tetany and will begin to fatigue. Next, inject the gastrocnemius with 2 ml of Lanthanum Chloride, a calcium blocker. Inject about half towards the top of the gastrocnemius and half at the bottom. Be sure to dispose of the needle properly when finished. Repeat the above procedure, taking note of the point at which the frog leg reaches tetany and begins to fatigue. Repeat this process for the other 2 frog legs.
+
+
+Results:
+For each of the three frog legs, the control version of the leg saw a much lower required amplitude to reach the same voltage, and therefore level of contraction, when compared to each experimental version of the legs. Each control leg reached tetany, and therefore fatigue, at much lower amplitudes than the experimental legs. A summary of the data can be found in Table 1, located at the end of the lab. The result of the Paired T Test was a P value of 0.1994.
+
+
+Discussion:
+While the results of the experiment do appear to support the hypothesis, the P value of 0.1994 shows that the results are in actuality not significant. However, the data trends do somewhat support the original hypothesis. In another experiment, lanthanum chloride was observed blocking the contractions of human stomach smooth muscle [Hava, 2003]. While obviously not the same procedure, the effect of the lanthanum chloride in both experiments is very similar: blocking the calcium channels reduces contraction strength, and requires a larger stimulus to reach the same contraction. In this experiment, we found that the control frog legs required much less amps in order to reach the same voltage as the experimental legs. One reason for the high P value could be the results of the last frog leg, in which the amplitude of both the control and experimental aspects of the experiment were the same to reach threshold. Perhaps some of the Lanthanum Chloride was not properly injected into the gastrocnemius. It certainly would be beneficial to run the experiment several more times in order to discern the cause of this anomaly. Experiments such as these are crucial as they advance our knowledge of the neuromuscular system and may be of use in treating and even curing neuromuscular conditions.
+
+
+Literature Cited:
+Johnson, A.D. Spring 2017. Unit 3: Nerve and Muscle Function. Bio 114: Comparative Physiology
+Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. pp.
+53-66.
+Berchtold, Martin W., et al. “Calcium Ion in Skeletal Muscle: Its Crucial Role for Muscle Function, Plasticity, and Disease.” Physiological Reviews, vol. 80, no. 3, 2000, pp. 1215–1265., doi:10.1152/physrev.2000.80.3.1215.
+Hava, Milos, and Aryeh Hurwitz. “The Relaxing Effect of Aluminum and Lanthanum on Rat and Human Gastric Smooth Muscle in Vitro.” European Journal of Pharmacology, Elsevier, 8 Nov. 2002, www.sciencedirect.com/science/article/pii/001429997390006X.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Neuro+Table.jpg&Size=150597&Type=image%2Fjpeg&F=F_2pQ62fUUhZuDKox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Threshold Amplitudes and Voltages in Each Frog Leg
+
+*************************************************************************

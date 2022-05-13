@@ -1,0 +1,87 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-23 07:16:00
+Author of this lab report is: Std_rWSAuRla
+ID: R_2riPvROxWrt315R
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: A Study into Acetic Acid as an Herbicide with regard to the Light Dependent Reactions
+
+Abstract:
+In this experiment, spinach leaves were used to determine the effects of household vinegar (5% AcOH) on the light dependent reactions. Though the data yielded support the hypothesis that AcOH is a somewhat effective herbicide, the physical observations indicate that the data are most likely flawed. Therefore, no conclusion can be taken from this study. 
+
+Introduction:
+All organisms can be classified into one of two groups depending on how they maintain their energy. They are either heterotrophs, such as humans that must consume other organisms for energy, or autotrophs such as plants that maintain energy levels via a biochemical process called photosynthesis [1]. 
+
+Photosynthesis is divided into two parts: the light dependent, and light independent reactions. In this experiment, the former was examined in greater detail to test the viability of household vinegar (5% acetic acid) as an herbicide that blocks the light reactions of photosynthesis. The target organism for this test was spinach, with spinach leaves specifically being used. The target area for observation in this test was the Hill Reaction, a reaction that occurs within chloroplast that splits water molecules and reduces the electron carrier NADH to NADPH [2]. The effect of 5% acetic acid on this reaction is presently unknown, though many articles have haled vinegar as an excellent herbicide [3]. Previously, 3(3,4-dichlorophenyl) 1,1-dimethyl urea (DCMU) has been proven to inhibit photosynthesis and was used as a variable for control [4]. 
+
+It was hypothesized that treatment of vinegar would yield a reduced rate of reaction, but not to the same magnitude as DCMU. 
+
+
+Materials and Methods:
+A mortar & pestle, a medium-sized beaker (150-250 ml size), and 3, 50 ml centrifuge tubes were all placed into into crushed ice to cool. While the mortar and pestle were cooling, the large central veins were removed from 4 medium-sized spinach leaves, throwing away the veins, and rinsing the remaining leaf pieces with tap water. Any excess moisture was blotted off from the leaves. When the mortar and pestle had sufficiently chilled, they were wiped dry and the spinach leaves were added.  Then, 10 ml of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) were also added to the mortar. The spinach leaves were ground until it was a thick paste with no large chunks of leaves. An additional 10 ml of grinding buffer were added, mixing with the spinach slurry, and straining the entire volume of green slurry through three layers of cheesecloth into the chilled beaker. The filtered liquid was then spun in the centrifuge for three minutes at 12,000 x G and 4C. The centrifuged tube was then removed, and the supernatant was removed, being sure not to disturb the pellet. The solution was then spun in the centrifuge again at the same parameters for ten minutes. 
+
+Following this, 10 large test tubes were labeled and placed in the rack. The spectrophotometer was started and set to read at 600nm. The test tubes were then prepped with various solutions as indicated in Figure 1. Once each test tube was mixed and swirled, 100L of the chloroplasts from the second centrifuged tube’s supernatant were added. Immediately thereafter the spectrophotometer was blanked at 600nm using Tube 0, immediately followed by the measure the absorbance of all the samples at 600nm. All test tubes and spectrophotometer cuvettes were placed under a 60W volt and allowed to incubate for thirty minutes with regular measures of absorbance recorded every ten minutes. 
+
+This entire process was repeated again to help ensure the accuracy of the experiment. With all of the data collected, the percent change was calculated for each test tube, and an average was taken from these percentages. A one-tailed t-test for significance was taken at alpha=0.5 for both vinegar against the negative control (no herbicide) and the positive control (DCMU treatment). 
+
+
+Results:
+The experiment yielded a p-value of 0.03602 for the t-test between AcOH and no herbicide, and a p-vale of 0.00407 for the t-test between AcOH and DCMU. These data are represented graphically in Figure 2. G 
+
+Before adding chloroplast during the first round of the experiment, it was noticed that adding DCMU and vinegar to the test tubes yielded a pale pink color, which was considered unusual given that DCIP normally displays a blue color and shifts to colorless as photosynthesis is conducted. After a discussion with the TA, it was determined that the reaction buffer was mistakenly switched with the grinding buffer when preparing the test tubes. Because of this, the first set of test tubes had to be discarded.
+
+Upon correction of the mixing, ensuring that reaction buffer was used in the test tubes the second time, it was noted that while DCMU treated tubes did demonstrate a blue color, the vinegar treated tubes still displayed a pink color. 
+
+
+Discussion:
+Given only the data, it would be easy to assume that the original hypothesis was supported; however, in truth the results are inconclusive. The change in color in the vinegar treated tubes indicated that the solution underwent another reaction than was expected. Upon further investigation, it was discovered that DCIP is used as an analyte in titration [5]. Given the observed test tube’s sharp change in color, it is very likely that the contents of the test tube underwent titration instead of the desired Hill Reaction. 
+
+For future studies, it would be desirable to repeat this test with different parameters. Changing the indicator molecule from DCIP to another molecule that would not yield a titration would produce quantifiable data for analyses. A suitable substitute is not known at this time.  
+
+
+Literature Cited:
+
+[1] 	R. Nave, "Autotrophs and Heterotrophs," [Online]. [Accessed 22 October 2018].
+
+[2] 	K. Sauer and R. Park, "The Hill reaction of chloroplasts: Action spectra and quantum requirements.," in Biochemistry, 1965, pp. 2791-2798.
+
+[3] 	G. Evans and R. Bellinder, "The Potential Use of Vinegar and a Clove Oil Herbicide for Weed Control in Sweet Corn, Potato, and Onion," Weed Science Society of America, 2017.
+
+[4] 	J. Schiff, M. Zeldin and J. Rubman, "Chlorophyll Formation and Photosynthetic Competence in Euglena During Light-Induced Chloroplast Development in the Presence of 3, (3,4-dichlorophenyl) 1,1-Dimethyl Urea (DCMU)," American Society of Plant Biologists, 1967.
+
+[5] 	International Junior Science Olympiad, "Analysis of Vitamin C in Fruits and Food Products".
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+07.13.14.png&Size=150066&Type=image%2Fpng&F=F_3Dng7zyNzBJ6NsB
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+07.14.13.png&Size=354088&Type=image%2Fpng&F=F_3yEOqRzhSPdlilX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig 1. The above table shows the volumes of each component added to the test tubes. 
+
+Fig 2. The above graph shows the average percent change in absorbances for the three treatments. While the data appear to show that vinegar did inhibit the processes of photosynthesis, other factors may have contributed to these data as discussed above. *************************************************************************
+
+
+

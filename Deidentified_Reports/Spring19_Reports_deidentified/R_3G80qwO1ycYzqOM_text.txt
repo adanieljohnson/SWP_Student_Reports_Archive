@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-08 16:37:57
+Author of this lab report is: Std_NuKZPvd4
+ID: R_3G80qwO1ycYzqOM
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Effect of short term high temperature exposure on Spinacia oleracea photosynthetic rates as measured by the Hill reaction
+
+Abstract:
+Photosynthetic rates in plants are susceptible to change based on different environmental factors which can affect plant growth and development. The rate of photosynthesis can be measured by measuring the rate of photosystem II, one of the three steps of photosynthesis. The reaction can be analyzed through photospectrometry if a color change electron acceptor is used in the reaction. This experiment tested the effects of short term extreme heat shock on spinach chloroplast photosynthesis rates. We found that there was no significant difference after one hour of heat shock on the photosynthetic rates of spinach suggesting that short term exposure to extreme temperatures has no negative effect on photosynthetic rates. This could have been due to errors in methodology, variable temperature management, the temperature we selected not being high enough to trigger the effects of heat shock, or that 60 minutes is not a long enough time to register a significant difference in photosynthetic rates. Future experimentation would be focused on creating a time and temperature exposure threshold that would lead to heat shock and could be applied to the cultivation of cold weather plants. 
+
+
+Introduction:
+Photosynthesis occurs in a three step process: photosystem II, photosystem I, and electron transfer [FLEMING:1994]. Photosystem II is a light dependent reaction that can be used to represent the overall activity of a chloroplast photosynthesis using the Hill reaction, which measures electron transfer [HORTON: 1992]. The Hill reaction is useful because, when a color changing electron acceptor such as 2,6-dichlorophenol indophenol (DCIP) is used the assay results can be analyzed quickly by using a spectrophotometer [HORTON:1992 ]. We will be using spinach (Spinacia oleracea) as our model organism to measure the effects of temperature on photosynthetic activity. Spinach is well known as a cold weather plant that can acclimate to colder climates and gain tolerance to freezing [BOESE:1990]. However, global warming poses a serious threat to colder weather plants as higher temperatures can lead to temperature stress that affects photosystem II and can lead to generation of heat shock proteins, production of secondary metabolites, and reactive oxygen species production [MATHUR: 2014]. As observed in a study using barley as the model organism, another cold resistant plant, plant species will have optimum temperature ranges at which photosynthetic reactions are most favorable [NOLAN: 1976]. We are investigating the short term effects of increasing the environmental temperature, as well as the effects of inducing heat shock. We want to observe the effects that short term (≤60 min), high temperature (up to 45C) exposure could have on the photosynthetic activity of cold weather crops while relating our results with possible impacts of global warming. We expect to observe a decrease in photosynthetic activity at 45C due to heat shock protein production that will lead to a lower metabolic rate. 
+
+
+Materials and Methods:
+We cooled a mortar and pestle, a 250 mL beaker, and a 50 mL centrifuge tube by placing them on ice. While allowing the materials to cool, we removed the central vein from six medium sized spinach leaves and removed any excess moisture from the leaves. We used the now cold mortar and pestle to grind up our spinach leaves until no large chunks remained. We added 15 mL of cold grinding buffer which consisted of 400 mM sucrose in a pH 8 buffer. We continued to grind until no large pieces remained. We added an additional 15 mL of buffer solution and waited three minutes for the buffer to remove the chloroplasts from the leave. We strained our spinach slurry through three layers of cheesecloth into the chilled beaker. We transferred the liquid in the beaker into the chilled centrifuge tube and spun the tube at 200G for ten minutes. 
+	We labeled 19 test tubes as blank and 1-18. We added 8 mL of DI water to blank and 6 mL to all other test tubes. We added 2 mL of 130 mM DCIP to test tubes 1-18. We added 2mL reaction buffer (100 mM phosphate, pH 6.5) to all test tubes. We added 100 µL of our chloroplast rich supernatant to test tubes labeled 4-18. We used the spectrophotometer to measure the initial absorbances at 600 nm of our samples. We then incubated blank and 1-8 at room temperature (22.7 degrees celsius), 9-13 at 30 degrees celsius, and 14-18 at 45 degrees celsius for 60 minutes. We tested the absorbance of each sample at 15 minute intervals. We will then use and ANOVA test in conjunction with a Turkey-Kramer test to analyze our data. 
+
+
+
+Results:
+We observed that the data we gathered was mostly inconclusive. For all of the times except 60 minutes our no chloroplast group had the highest absorbance. At 60 minutes the high heat (45 degree celsius) group had the highest absorbance. There was no clear observable trends from our data (Figure 1). All groups except the 45 degree celsius group had all negative percent changes from their original absorbance (figure 2). The percent change at 60 minutes for the no chloroplast group at 22.7 C was -2.5% (+/- 1.4%), the 22.7 degree celsius group had a -18.4% change (+/- 8.3%), the 30 degree celsius group had a -10.3% change (+/- 5.2%), and the 45 degree celsius group had a 14.8% change (+/- 8.5%) (Figure 2). 
+
+
+Discussion:
+Using an ANOVA test we determined that there was no significant difference between the different temperature groups (p=.038). This finding was also confirmed for the Turkey-Kramer test for every comparison except A vs B. We were unable to accept our hypothesis, as our data did not show any significant difference between data sets. The insignificance of temperature change could be attributed to a variety of factors. It is likely that our heated water baths exhibited a fair amount of variability in their actual temperature that could have affected how accurate of a heat shock our samples were really given. Another issue may have been the standardization of our blank. We observed that our 45 degree C group saw an increase in absorption, however, the reagents we used should have made it impossible for an increase in absorption to be present, as the only color change should have resulted in a lighter color. Additionally, the temperature we were using may not have been high enough, even though the literature we surveyed earlier suggested so. Chloroplast testing from different plants results in changes at different temperatures [NOLAN: 1976].  Lastly, the one hour may not be enough to trigger a large difference in photosynthetic rates. Carbon dioxide exchange rates decrease when spinach is exposed to abrupt temperature shifts [BOESE: 1990]. In future experimentation we would likely increase increase the highest temperature a few degrees in the hope of seeing some sort of significant data before trying to find the temperature at which the significant change occurs. We would also have to assure our methodology for creating a proper blank is improved. 
+	Long term exposure to extreme temperatures poses a risk to plants and is known to reduce photosynthetic rates. Based on the results of this experiment it is possible that in the short term (≤ 60 minutes), extreme temperature changes do not have an impact on photosynthetic rates. This could have applications to greenhouse maintenance in assuring that plants are not exposed to extreme temperatures for too long, however as stated before increased testing would need to be done to determine with precision and accuracy the threshold for temperature and time at which plant health is compromised. Extreme temperatures and rapid temperature changes can affect plant growth and health. Increased comprehension of optimal environmental conditions and when environmental conditions become a problem will lead to more precise crop management and higher crop yield overall.
+
+
+Literature Cited:
+Boese SR, Huner NPA. 1990. Effect of Growth Temperature and Temperature Shifts on Spinach Leaf Morphology and Photosynthesis. Plant Physiology. 94: 1830-1836. 
+Fleming GR, van Gondelle R. 1994. The Primary Steps of Photosynthesis. Physics Today. 47: 48-55.  
+Horton P, Ruban AV. 1992. Regulation of Photosystem II. Photosynthesis Research. 34: 375-385. 
+Mathur S, Agrawal D, Jajoo A. 2014. Photosynthesis: Response to high temperature stress. Biology. 137: 116-126
+Nolan WG, Smillie RM. 1976. Multi-temperature effects on Hill reaction activity of barley chloroplasts. Biochimica et Biophysica Acta (BBA) - Bioenergetics. 13: 461-475. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%289%29.png&Size=89937&Type=image%2Fpng&F=F_3M3ta9uKoaTXdOr
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%287%29.png&Size=87711&Type=image%2Fpng&F=F_2ZIVVn99w3Bs9L0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparison of the absorbances of the 22.7 C no chloroplast group (blue bar), 22.7 C group (orange bar), 30 C group (grey bar), and 45 C group (gold bar) comparing absorbance readings over time. 
+
+Figure 2. Comparison of the percent change of the absorbances of the 22.7 C no chloroplast group (blue bar), 22.7 C group (orange bar), 30 C group (grey bar), and 45 C group (gold bar) comparing the percent change over time. 
+*************************************************************************
+
+
+

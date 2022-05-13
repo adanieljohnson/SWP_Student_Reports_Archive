@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-05 20:40:59
+Author of this lab report is: Std_IJ7Do3Mu
+ID: R_3KpVU1wgQFBTQU0
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Acetylcholine on Twitch Amplitude of Gastrocnemius muscle of Rana pipiens
+
+Abstract:
+This experiment was designed to test the effects of the neurotransmitter Acetylcholine (ACh) on the twitch amplitude of a muscle contraction of the Gastrocnemius muscle in Rana pipiens frog. Based on previous research, we determined the concentration of the ACh that we would inject into the muscle, and hypothesized that this concentration of the neurotransmitter would cause the twitch amplitude to increase. We dissected three frog legs and tested each of them first with no injections and recorded the twitch amplitude, then injected ACh into the legs and recorded the new twitch amplitude. After running statistical tests on the data, it was concluded that our hypothesis was supported and that the concentration of ACh that we chose did cause the twitch amplitude to increase.
+
+
+Introduction:
+The Gastrocnemius muscle is located in the leg of the Rana pipiens frog. It is used to control the motion of the knee and ankle joints. It is connected on one end to the Sciatic nerve, which connects the Gastrocnemius muscle to the spinal chord, where it can receive signals from the brain. In this experiment, we will be determining how direct electrical stimulation causes the muscle to twitch. Acetylcholine (ACh) is a neurotransmitter that is released when nerve impulses signaled by the brain arrive at the neuromuscular junctions [Johnson:2018]. When ACh binds with its receptor, sodium channels open and an action potential is generated throughout the muscle fiber, which causes calcium to be released from the sarcoplasmic reticulum [Johnson:2018]. The influx of calcium causes the muscle to contract [Johnson:2018]. In an experiment conducted by Chiba et al., the effect of addition of ACh on muscle contraction was tested in rats, and it was found that in the presence of GTP, ACh elicited a further contraction of muscles from control rats [Chiba:2009]. Another study conducted by Robert Furchgott on the arterial smooth muscle of rabbits found that the response to ACh in the muscle was increased intensity of contractions [Furchgott:1980]. Both these studies mention that ACh could have a relaxing effect on the muscle if the ACh levels were increased by such a magnitude that calcium stores in the sarcoplasmic reticulum were depleted. However, a concentration of 0.1mL of ACh should not have a relaxing effect, because it is such a small concentration of the neurotransmitter. If additional ACh were to be injected into the leg, the twitch amplitude of the contraction would increase because if the normal amount of ACh released causes the muscle to contract, additional ACh would cause a more intense contraction. If we inject the leg with 0.1mL of Acetylcholine, the twitch amplitude will increase because the intensity of the contraction would increase. 
+
+
+Materials and Methods:
+Place the leg of Rana pipiens on the dissecting pan. Using tweezers, gently pull the skin off of the leg, exposing the muscle. Moisten the leg throughout the experiment using the frog Ringer’s solution. Identify the Gastrocnemius muscle, and use a pair of scissors to cut the other end of the sciatic nerve, that is attached to tissues. For this experiment, we will be stimulating the muscle directly, so use a piece of thread to tie the Gastrocnemius muscle to the force transducer and adjust its height so that the rest of the leg lays flat on the dissecting pan. Pin the leg down onto the pan. Put the needle probes into the Gastrocnemius muscle of the frog and connect the iWorks machine to the computer on which the software is installed. Using the LabScribe toolbar, set the Hz at 1, the Amplitude at 5, and pulses at 1. For the control, fire an electric current into the leg and record the response based on twitch amplitude. Next, use a syringe to inject 0.1 mL of Ach into the muscle. Repeat the firing of the electrical current and record the new voltage of the twitch. Repeat this procedure on two more legs. Analyze results using a paired T-test. 
+
+
+Results:
+The control group had an average Volts of 0.154 V +/- 0.181V and the experimental group showed an average V of 0.672 V +/- 0.222V. After conducting the paired T-test, it was found that the P value is 0.024, which is statistically significant. The average difference between the control and experimental was 0.518 V. 
+
+Figure 1 shows the change in V from the control to the experimental group. The figure indicates that the average V for the experimental group was significantly higher than the V of the control. 
+
+
+Discussion:
+Our hypothesis that the addition of 0.1mL of ACh to the Gastrocnemius muscle of Rana pipiens was supported because the twitch amplitude increased from the control to the experimental group, with a statistically significant P value of 0.024. This indicates that our reasoning was correct in believing that such a small addition of ACh, 0.1mL, would have the effect of increasing twitch amplitude due to increased influx of calcium, but would not be enough to fully deplete the calcium stores and cause the muscle to relax. When acetylcholine is injected into a muscle, the neurotransmitter reaches the mechanosensitive nerve endings. In these nerve endings, the ACh stimulated the release of even more ACh (located within the nerves of the cell) into the synaptic gap between nerve endings [Diamond: 1959]. The ACh molecules then bind to the receptor (the ligan-gated sodium channel) in the cell membrane, which opens calcium ion channels. An influx of calcium depolarizes the muscle via the T-tubule system and causes muscle filaments to slide together, myosin binds to actin, and the muscle contracts until depolarization occurs. 
+Furchgott found that any concentrations of ACh about 0.1 ug would increase the intensity of muscle contractions, and our measurement of 0.1mL (equivalent to 100 micrograms) was much higher than his concentration, and therefore should definitely elicit a response [Furchgott:1980]. 
+	Further experimentation should be done to determine the concentration of ACh at which the muscle begins to relax instead of contract, due to depletion of calcium. This could be done by repeating the same experiment but increasing the mL of ACh incrementally until twitch amplitude of experimental began to decrease. This experiment would be beneficial to conduct because determining the amount of ACh that causes calcium stores to deplete would help us discover how much calcium is in each muscle cell of the frogs, if research needed to be done on muscles that would not twitch, it could be done after this specified amount of ACh is injected. 
+
+
+Literature Cited:
+Chiba Yoshihiko, Takada Yuka, Miyamoto Shigeki, Mitsui‐Saito Minori, Karaki Hideaki, & Misawa Miwa. (2009). Augmented acetylcholine‐induced, Rho‐mediated Ca2+ sensitization of bronchial smooth muscle contraction in antigen‐induced airway hyperresponsive rats. British Journal of Pharmacology, 127(3), 597–600. https://doi.org/10.1038/sj.bjp.0702585
+Diamond, J. (1959). The effects of injecting acetylcholine into normal and regenerating nerves. The Journal of Physiology, 145(3), 611–629. https://doi.org/10.1113/jphysiol.1959.sp006166
+Furchgott, R. F., & Zawadzki, J. V. (1980). The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine. Nature, 288(5789), 373–376. https://doi.org/10.1038/288373a0
+Johnson, AD. Hormone Regulation. Comparative Physiology: BIO 114 Laboratory 
+Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 18.1 (updated 5 January 2018), pp. 17-34. 
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-05+at+8.40.14+PM.png&Size=15135&Type=image%2Fpng&F=F_3HSay0EN3A2bmcg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Acetylcholine on twitch amplitude (in V) of Rana pipiens. Control (n=3) (blue) showed an average V of 0.154 V +/- 0.181 V and the experimental (n=3) (orange) showed an average V of 0.672 V +/- 0.222 V. Each bar is the mean Hz for the 3 legs in the control and 3 legs in experimental; error bars are +/- 1 s.d. Paired t-test: DF: 2, t-value: 6.33, p-value: 0.024. 
+
+
+*************************************************************************

@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-18 23:39:14
+Author of this lab report is: Std_2abK3zBB
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Testing the Effects of Lanthanum Chloride on the Muscle Contraction Threshold of Rana pipiens
+
+Abstract:
+The purpose of this experiment was to explore the effect of a calcium channel blocker (Lanthanum chloride) on muscle function, specifically muscle contraction threshold. This was tested using three separate frog legs which were applied charges of increasing voltage until a contraction was measured. Each leg was tested twice, once with no treatment (control), and a second time after .2 mL of a 1mM lanthanum chloride solution was injected into the muscle. Results were tested statistically using a paired T test which suggested that the differences between the treatment and control trials were insignificant. This result was unsurprising as the data showed no clear trend and the sample size was fairly low. For example, while leg 1 saw a slight increase in muscle contraction threshold, leg 3’s threshold decreased. This lack of significant data and absence of a clear trend  rejects the proposed hypothesis.
+
+Introduction:
+The purpose of this lab was to explore the effects and importance of calcium in the muscular systems in vertebrates. The model used in this lab was the application of electrical currents of varying intensity to the leg of a Rana pipiens, or Northern Leopard Frog. Frog legs are ideal subjects for testing because, even detached from the body, they can store large amounts of ATP. Therefore, it’s easy to generate measurable muscular twitches. In the specific experiment performed, the effect of the calcium channel blocker lanthanum chloride on muscle contraction threshold was tested. The muscle contraction threshold is the minimum voltage required to initiate a muscle twitch. Lanthanum chloride has a wide variety of biochemical uses including but not limited to blocking the activity of calcium channels. This possibly effects muscle function because calcium ions (Ca2+) are essential in both muscle and neuron function. In neurons, once an action potential (initiated by an artificially administered charge in this experiment) reaches the axon terminal, it triggers the release of calcium ions into the neuron. The presence of Ca2+ causes the binding of neurotransmitter filled vesicles to the membrane of the axon terminals. This binding releases neurotransmitter into the synapse, transferring the action potential to the postsynaptic neuron. Therefore, in theory, the introduction of a calcium blocker would inhibit or severely delay the transmission of signals between neurons. In addition, calcium is essential in muscle function, which is more important for the purpose of this lab. Calcium is released from the sarcoplasmic reticulum into the cytoplasm of a muscle fiber in response to a strong enough charge. This calcium release disconnects tropomyosin from troponin and allows for the attachment of actin to myosin filaments. The sliding filament theory states that at this point the muscle contraction occurs. In both cases, an action potential triggers the release of calcium which is essential to a cellular function. It can be hypothesized that the introduction of the calcium channel blocker lanthanum chloride to a frog leg will cause the threshold for muscle contraction to rise as it would require a stronger action potential to allow the essential levels of calcium ions to accumulate within the cytoplasm of the muscle. 
+This hypothesis is supported by another experiment focusing on the effect of calcium channels on muscle function. In this study, researchers studied the effect of a subarachnoid hemorrhage (SAH) on the smooth muscles of dogs. It was recognized that after a SAH, smooth muscle is far less efficient. Researchers involved believed that this loss of efficiency and ability to contract was due to the SAH changing the shape of, and therefore inhibiting, calcium channels. This hypothesis was supported and it was concluded that the inhibition of many calcium channels was to blame for the decreased contractile ability of smooth muscle. (Nikitina: 2010) Although this study is different from the experiment performed as it does not include a chemical blocker and focuses on smooth muscle rather than skeletal muscle, it still provides a scientific basis for the notion that if calcium channels are blocked, muscular function will suffer.
+In order to record results for this experiment, myograms were generated on a computer program. This program not only recorded the amplitude of a muscular response, it also allowed the group to administer currents of varying voltage to the frog leg with precision. A myogram is a visual representation of a muscle contraction. Myograms allow viewers to see all three periods of muscle contraction: The latent period, contraction period and relaxation period. A myogram will also display the intensity of a contraction. As the voltage applied to the leg is incrementally increased, the intensity of the contraction should increase as well. Lastly, a muscle contraction is an “all or nothing” event, meaning that no muscular response will be recorded by the computer program until the threshold voltage is applied to the frog leg.
+
+
+Materials and Methods:
+Essential materials included: three frog legs, frog ringer, the calcium channel blocker lanthanum chloride with a 1mM concentration, a computer and the necessary program for producing myograms and administering charges, as well as a force transducer and software box. Pin electrodes for applying current and a syringe for the delivery of lanthanum chloride were also required. In order to analyze the data collected, a paired T-test was used.
+To start the experiment the skin was removed from all three frog legs. The gastrocnemius muscle of the frog’s lower leg was partially removed from the bone and the sciatic nerve was pulled from the upper thigh area, allowing for easy access. The free end of the gastrocnemius muscle was tied to a hook on the force transducer to create tension for accurate measurement of contraction strength. In order to apply an electrical current to the legs, the pin electrodes were both inserted into the suspended muscle. For the first tests, each frog leg was tested as a control. Each test entailed administering a charge of increasing 0.1 voltage increments to the frog leg until a contraction was observed. This contraction marked the threshold and two additional charges were delivered at this voltage in order to collect data on the average amplitude of these contractions. After data collection, .2 mL of lanthanum chloride was injected into the gastrocnemius muscle. The leg was placed to the side for ten minutes to allow for the lanthanum chloride to diffuse throughout the whole muscle. This process was then repeated for the remaining frog legs. Once each leg was tested as a control (no calcium blocker), each leg was tested for muscle contraction threshold using the same methods as previously described for the control group, except in the presence of lanthanum chloride. Throughout the whole experimentation process, frog ringer, a solution mimicking the internal fluids of a frog, was used to keep the legs moist.
+
+
+Results:
+The important aspects of this table are the comparisons between contraction threshold for each group (Group 1 contains Control 1 and Treatment 1). Comparison within the group and not between groups shows the effect of the lanthanum chloride on contraction threshold. The amplitude provides additional information regarding what effects the calcium blocker might have had on muscle function.
+
+
+The above graph is a visual representation to display the changes between the treatment and control within each subject. It can be observed that there was essentially no trend in the data.
+
+
+Statistical analysis of data:
+Ho = μ treatment – μ control > 0
+Paired T-test: 
+P = .5
+x̄ =  0
+
+
+Discussion:
+The data collected from this experiment did not support the suggested hypothesis. Any differences found between the control and treatment groups were statistically insignificant and there is no clear trend for threshold and amplitude. For each leg observed there was a different result when lanthanum chloride was produced. Testing of the first leg produced the expected result as the contraction threshold increased from 0.3 to 0.5. The contraction threshold for leg two stayed constant after injection and leg three saw a decrease in the voltage needed to produce a muscular response. Even the amplitude of contractions at threshold showed no trend as threshold increased for leg two but decreased for legs one and three. Due to the lack of any clear trend, it can be assumed that the introduction of lanthanum chloride had no effect on threshold.
+	Statistical analysis also supports the rejection of the proposed hypothesis. The paired T test resulted in a p value of 0.5. Not only is this greatly above the threshold for significance (p = .05), it also means that a treated leg and control leg would be within the same range in 50% of all tests. This shows that based on our results, there is no difference in frog legs treated by lanthanum chloride and frog legs that were not. In addition, our sample produced a x̄ of 0, further showing that the lanthanum chloride had no effect on muscle contractions.
+	One explanation for such varying results is that the electrical nodes used to administer charges are often inaccurate, which could have the potential to harm the results. In addition, lanthanum chloride is a fairly weak chemical, even when used in the large concentrations seen in this lab. Therefore, it’s possible that the diffusion of the chemical into the whole of the gastrocnemius was ineffective, leading to the muscle retaining the use of many of its calcium channels. Based on other experiments focusing on the effect of calcium channel blockers on muscle function, it’s likely that an error occurred rather than calcium channel blockers failing to impact contraction threshold. For example, a study investigating the effect of a low calcium environment and calcium blockers on the skeletal muscle of rabbits found that the lack of calcium lowered overall muscle response and contractile intensity, as well as speeding up the process of muscular fatigue. (Fernandez: 1990) Based on these results, even if a low calcium environment didn’t affect muscle contraction threshold, there should have been a significant and observable decrease in amplitude. Research such as the experiment cited supports the initial hypothesis stating that the application of calcium channel blockers to a skeletal muscle should lower overall muscle function, including the threshold for contraction. 
+ 
+
+
+
+Literature Cited:
+
+Works cited
+Fernández-Belda, F, and J C Gómez-Fernández. “Effect of the Calcium-Channel Blockers on Calcium Accumulation in Sarcoplasmic Reticulum of Skeletal Muscle.” PubMed, U.S. National Library of Medicine, 16 Oct. 1990
+
+Nikitina, E, et al. “Alteration in Voltage-Dependent Calcium Channels in Dog Basilar Artery after Subarachnoid Hemorrhage. Laboratory Investigation.” Journal of Neurosurgery., U.S. National Library of Medicine, Oct. 2010, www.ncbi.nlm.nih.gov/pubmed/20225918.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FrogLabChart.png&Size=21055&Type=image%2Fpng&F=F_3dC9PQMULG8ScJL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FrogLabGraph.png&Size=28330&Type=image%2Fpng&F=F_4MXtKXv7YIWKNeZ
+
+
+
+
+
+
+
+Figure Legends: 
+
+
+*************************************************************************

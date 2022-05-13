@@ -1,0 +1,91 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-24 18:12:29
+Author of this lab report is: Std_PCmWnmXe 
+ID: R_1N5fwDOJylnm2Wn
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effects of Temperature on the Photosynthetic Rate of Spinacia oleracea 
+
+Abstract:
+	This study aims to determine the effects of temperature on the rate of photosynthesis in Spinacia oleracea. Plants, some protists and certain bacteria capture and stop energy from the sun using the process of photosynthesis [Sakai]. Photosynthesis occurs in distinct stages including light dependent and light independent reactions. Many factors influence the rate of photosynthesis, such as temperature, carbon dioxide concentrations, light, and intensity.  We tested our hypothesis by manipulating the conditions in which photosynthesis takes place in spinach leaves. To do so, we placed the leaves in three different temperature conditions and used a spectrophotometer to determine the rate of absorbance of light in these leaves. We used three conditions: warm (36 degrees Celsius), cold (15 degrees Celsius), and room temperature (23 degrees Celsius) to test this idea. We conducted this study to test the following biological question: How does temperature affect the overall rate of photosynthesis? We hypothesized that at higher temperatures, more hydrogen would be given off by the process of photosynthesis, leading to the synthesis of DCIP H2, an indicator for photosynthetic rate. Our hypothesis was rejected. 
+
+
+Introduction:
+	Spinacia oleracea are spinach leaves and will be used in this study as a mechanism to study photosynthesis. Photosynthesis is the process by which plants capture sunlight to synthesize foods from water and carbon dioxide [Hew:1969]. Photosynthesis involves multiple oxidation-reduction reactions, in which electrons are transferred through an electron transport chain from one molecular complex to another. The process uses energy from the moving electrons to pump protons (H+ ions) across a lipid bilayer and generate a proton gradient. The proton gradient is then used to drive a large molecular complex which synthesizes ATP [McCree: 1966]. During photosynthesis chloroplasts absorb solar radiation in chlorophyll molecules, and electrons excited by captured solar energy leave carrier molecules [Sakai]. This electron excitement triggers a chemical reaction that cleaves water to release electrons that replace the ones that just left the carriers and generate a proton gradient. The high energy electrons that are stored as NADPH, and the H+ gradient that powers ATP synthesis. The electrons on NADPH and the ATP are then used in chemical reactions that synthesize 6-carbon glucose from 1-carbon carbon dioxide molecules [Sakai]. According to one study, the optimum temperature for the maximum falls between 20-30°C [Anten: 2005]. Above 25-30°C, the study reported that the maximum rate is not maintained as the time factor begins to operate and the optimum temperature is reduced from 37°C to 30°C. This study is relevant to the scientific community in that it involves the process of photosynthesis, which releases oxygen into the atmosphere and allows us to breathe. 
+	During this study, we will use a spectrophotometer which works like a prism and separates the light into different component wavelengths. We are measuring the absorbance of DCIP as it changes to DCIP H2 at 600 nanometers. Oxidized DCIP is a dark blue compound, while reduced DCIP has conjugated C=C bonds and is colorless [Sakai]. We will use the color change in DCIP reduction as a decrease in light absorbance at 600 nm. As chloroplast activity occurs, DCIP is turned into DCIP H2 which causes a decrease in absorbance because of the electron transport chain attaching hydrogen to the DCIP. This is representative of increased activity, which makes the DCIP in the solution clear. Higher absorbance of the spectrometer equates lower levels of photosynthetic activity in our chloroplast sample. Based on precious knowledge, we hypothesize that at higher temperatures, more hydrogen will be given off by the process of photosynthesis, leading to the synthesis of DCIP H2, an indicator for photosynthetic rate. The clearer color of DCIP H2 instead of DCIP will lead to lower absorbances; we hypothesize that DCIP H2 synthesis will be significantly lower in cold conditions due to reduced photosynthetic rate, which will lead to higher absorbances.
+
+
+Materials and Methods:
+	To conduct our experiment, we obtained 5 large spinach leaves from our instructor. For exercise 1, we enriched chloroplasts by differential centrifugation. We first packed a mortar and pestle, a medium-sized beaker (150-250 ml size), and 3, 50 ml centrifuge tubes into crushed ice to cool. While the mortar and pestle were cooling, we removed the large central veins from 5 medium-sized spinach leaves. We then threw away the veins, and rinsed the remaining leaf pieces with tap water. We blotted off any excess moisture from the leaves. We then added 10 ml of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) and fringed the spinach until it was a thick paste with no large chunks of leaves left. We added an additional 10 ml of grinding buffer, mixed with the spinach slurry, and strained the entire volume of green slurry through three layers of cheesecloth into the chilled beaker. 
+	For exercise 2, we quantified photosynthetic reduction activity. For this exercise, we labeled 13 large test tubes (#1-#13) and placed them in a tube rack. We turned on the spectrophotometer, and set it to read at 600nm. Next, we created 3 replicas of each of the following reaction mixes. To the assay, we added 100 μl of the enriched chloroplasts we prepared in exercise #1 to the blank tube (tube #1), and to Tubes #5-13. We then mixed each tube immediately after adding chloroplasts and transferred the mixtures to spectrophotometer cuvettes. The blank tube (tube 1) had 8 mL water, chloroplast, and 2 mL reaction buffer. Tubes 2-13 had 6 mL of water, 2 mL of reaction buffer, and 2 mL of  130 mM DCIP. We immediately blanked the spectrophotometer at 600nm using Tube 1 and then immediately measured the absorbance of all the samples at 600nm. Samples #1-4 were kept in the open air without any treatment. Samples #5-7 were placed in room temperature (23 degrees Celsius) conditions. Samples #8-10 were placed in a warm temperature environment (36 degrees), which was verified by a thermometer. Finally, we placed samples #11-13 in a cold bath (-2 degrees Celsius). Light was provided above each bath through a heat lamp. After 10 minutes, we blanked the spectrophotometer with tube 1. Next, we read the absorbance of each sample at 600 nm. After 10 more minutes (20 minutes total) in the different temperature settings, we blanked the spectrophotometer. Then, we measured the absorbances a second time for each sample. After another 10 minutes (30 minutes total) blank the spectrophotometer and measure absorbances one more time for all 12 samples. We ran an ANOVA test to test the difference between our different mean values with an alpha value of 0.05 and 3 degrees of freedom. Then, we ran a post-hoc turkey test as a follow up for ANOVA. We wanted to confirm which specific groups differed from one another. 
+
+
+Results:
+Caption 1: 
+Figure 1 shows a relation between the absorbances of our four sample groups in relation to time, when placed under several temperature variable conditions, measured every ten minutes for a total of thirty minutes. The f-ratio value is 0.80486. The p-value is .514973. The result is not significant at p &lt; .05.
+
+
+Caption 2: 
+Figure 2 includes a set of bar graphs that describe a comparison between the absorbances relative to the times for each groups. The numbers on the x axis describe the groups, as seen in the legend in Fig. 1. The f-ratio value is 0.80486. The p-value is .514973. The result is not significant at p &lt; .05.
+
+
+Tukey's HSD ANOVA (alpha=0.05):  No significant difference between any two groups.
+
+Discussion:
+We hypothesized that at higher temperatures, more hydrogen would be given off by the process of photosynthesis, leading to the synthesis of DCIP H2, an indicator for photosynthetic rate. Our hypothesis was rejected as our data was statistically insignificant, as proven with the p-value of 0.514973, greater than the alpha of .05. The clearer color of DCIP H2 instead of DCIP should have lead to lower absorbances. We knew that DCIP H2 synthesis is significantly lower in cold conditions due to reduced photosynthetic rate. Therefore, we should have seen higher absorbances, but we did not. The spectrophotometer became too confused with the different temperature conditions and messed up our results. Figure 1 shows a relation between the absorbances of our four sample groups in relation to time, when placed under several temperature variable conditions, measured every ten minutes for a total of thirty minutes. The overall negative change of rate of the absorbance values indicates an increase in photosynthetic activity, with the exception of the sudden raise in absorbance from 10-20 minutes in Group 2 as portrayed in figure 1. This raise should be seen as an overall decrease in photosynthesis, proving an exception to the inverse relationship between temperature and photosynthetic rate. The downward trend in Group 4 shows photosynthetic rate increasing as temperature decreases, another exception to the existing inverse relationship. Figure 2 includes a set of bar graphs that describe a comparison between the absorbances relative to the times for each groups. The rate of absorbance was highest for each group at zero minutes, and generally lowest for each group at 30 minutes. 
+	According to one study, the rate of photosynthesis should have increased with a rise in temperature, as a result of carbon dioxide and light not being limited [Kintses: 2006]. This study supports our background knowledge, but not our own study. Another study that differed from ours focused on how enzymes are protein molecules used by living organisms to carry out biochemical reactions, such as photosynthesis [Sharkey: 2005]. The study portrayed that at low temperatures (mainly between 0 and 10 degrees Celsius) the enzymes that carry out photosynthesis do not work efficiently, and this decreases the photosynthetic rate. Likewise, the study reported that at medium temperatures (between 10 and 20 degrees Celsius) the photosynthetic enzymes work at their optimum levels, so photosynthesis rates gauge high. Lastly, another study focused on the mechanisms involved in the changes in temperature dependence of photosynthetic rate [Hikosaka: 2006]. The study concluded that in many species, the optimal temperature that maximizes the photosynthetic rate increases with increasing growth temperature. We should have seen this in our lab based on our hypothesis and background knowledge. As previously mentioned, sources of error in this lab include problems with the spectrophotometer. The different temperatures in the cuvettes affected the absorbance rate shown on the spectrophotometer, which was too foggy to produce a proper reading. The absorbance number kept on fluctuating over a wide range of values and not providing us with constant numbers. Likewise, the influx of light could have messed up the cold sample. For future studies, larger sample sizes will allow for better statistics. We will also use multiple spectrometers, so that the machine does not become confused with the change in temperature. Our study extends beyond photosynthesis in spinach leaves: photosynthesis allows us to breathe. We used spinach leaves as a model to manipulate factors that affect photosynthesis. This study can be used by botanists in order to affect the rate of photosynthesis, which produces oxygen for us to breathe. 
+
+
+
+
+
+Literature Cited:
+ANTEN, NIELS P. R. 2005. “Optimal Photosynthetic Characteristics of Individual Plants in Vegetation Stands and Implications for Species Coexistence.” Annals of Botany 95 (3): 495–506. https://doi.org/10.1093/aob/mci048.
+
+Core Laboratories Web Site. Accessed October 22, 2018. &lt;http://www.wfu.edu/Academic_ departments/Biology&gt;
+
+Hew, Choy-Sin, G. Krotkov, and David T. Canvin. 1969. “Effects of Temperature on Photosynthesis and CO2 Evolution in Light and Darkness by Green Leaves 1.” Plant Physiology 44 (5): 671–77.
+
+Hikosaka, Kouki, Kazumasa Ishikawa, Almaz Borjigidai, Onno Muller, and Yusuke Onoda. 2006. “Temperature Acclimation of Photosynthesis: Mechanisms Involved in the Changes in Temperature Dependence of Photosynthetic Rate.” Journal of Experimental Botany 57 (2): 291–302. https://doi.org/10.1093/jxb/erj049.
+
+Kintses, Bálint, Zoltán Simon, Máté Gyimesi, Júlia Tóth, Balázs Jelinek, Csaba Niedetzky, Mihály Kovács, and András Málnási-Csizmadia. 2006. “Enzyme Kinetics above Denaturation Temperature: A Temperature-Jump/Stopped-Flow Apparatus.” Biophysical Journal 91 (12): 4605–10. https://doi.org/10.1529/biophysj.106.092833.
+
+McCree, K. J., and J. H. Troughton. 1966. “Prediction of Growth Rate at Different Light Levels from Measured Photosynthesis and Respiration Rates.” Plant Physiology 41 (4): 559–66. https://doi.org/10.1104/pp.41.4.559.
+
+Sharkey, Thomas D. 2005. “Effects of Moderate Heat Stress on Photosynthesis: Importance of Thylakoid Reactions, Rubisco Deactivation, Reactive Oxygen Species, and Thermotolerance Provided by Isoprene.” Plant, Cell & Environment 28 (3): 269–77. https://doi.org/10.1111/j.1365-3040.2005.01324.x.
+
+ 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+6.10.33+PM.png&Size=44289&Type=image%2Fpng&F=F_6FOsiQ4NiSdy3GF
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+6.10.44+PM.png&Size=115298&Type=image%2Fpng&F=F_3FRJxcONwknDy5A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The absorbances of four sample groups over a time of 30 minutes. 
+
+Figure 2. Bar graph showing the difference between four sample groups and their relative times.
+*************************************************************************
+
+
+

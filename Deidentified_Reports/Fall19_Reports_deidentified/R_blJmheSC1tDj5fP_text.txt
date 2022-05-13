@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-10-16 17:42:28
+Author of this lab report is: Std_YBCacRAJ
+ID: R_blJmheSC1tDj5fP
+Course number: BIO101L
+TA: TA_23dMbkjX
+*************************************************************************
+Title: The Effects of Juvenile Hormone on Mass  and Development of Manduca sexta
+
+Abstract:
+N/A
+
+Introduction:
+The Manduca sexta, also known as the Tobacco hornworm, is an insect of the Order Lepidoptera, which includes all other butterflies, moths, and skippers [Johnson: 2019].  Tobacco Hornworms are ideal organisms for this experiment due to their relatively short timings of molts between larval stages before reaching adulthood.  The organisms are also inexpensive and practical for lab use.  The Manduca sexta secretes three main hormones: Prothoracicotropic Hormone, Ecdysterone (E20), and Juvenile hormone.  The E20 determines the timing of the molt, while the juvenile hormone determines the type of molt the Manduca sexta undergoes [Johnson: 2019].  These are the two hormones focused on in the experiment.   In the larval stages before the Manduca sexta reaches the pupal stage, the levels of juvenile hormone significantly decrease as development progresses [Kiguchi: 1978].  This is primarily due to the consistent E20 levels throughout all the stages to allow the Manduca sexta to develop into a pupa.
+The purpose of this lab is to determine how hormone changes in the Manduca sexta affects its growth rate and reproductive cycle.  The effects of the juvenile hormone are being examined on the observable development and measured mass of the hornworms.  If juvenile hormone is added to the food of the hornworms, then the average mass of the Manduca sexta will increase and develop more rapidly.  
+
+
+Materials and Methods:
+First, two containers with perforated lids and four wells each were obtained.  The treatment group had five drops of precor, the substance containing the juvenile hormone, added to the food, and the control had no hormone added to the food.  Each container housed two control group and two treatment group hornworms.  This was done to better observe the differences between the control and treatment groups.  Then, ten grams of food for each well were massed.  Five drops of deionized water were placed into two wells in each box with a transfer pipet for the food for the control group.  The food was mixed well and clumped into the corner of the well for the hornworm to eat.  A new transfer pipet was used to place five drops of the reagent, juvenile hormone, in the remaining two wells in each box.  This food was mixed well and clumped into the corner of the well for the hornworm to eat.  Eight hornworms were obtained, weighed, and placed into each well.  The masses were recorded and the boxes were closed and placed in an incubator.  The hornworms were massed every day for two weeks.  The food in each well was replaced and rehydrated if the food was dry to the touch with water or juvenile hormone.  The masses of Manduca sexta were then analyzed to see if the juvenile hormone treated group had a significant size difference than the control group.  A statistical analysis using a two-sample t-test is conducted using the average change in masses of the Manduca sexta in the control and treatment groups.  
+
+Results:
+Based on the results of the experiment, the treatment group massed less overall when compared to the control group (Figure 1).   The average initial weights of the Manduca sexta for the control group was 0.135 grams and the initial masses for the treatment group was 0.25 grams.  The average weight for the control group was 12.39 grams ± 1.42 SD, while the average weight for the treatment group is 9.38 grams ± 5.90 SD at the conclusion of the experiment.  The control group generally had a greater net changes in weight than the treatment group (t-stat = 0.1.1236, df = 4, P = 0.4538).  The Manduca Sexta in the control group grew normally as they had normal levels of juvenile hormone.
+
+Discussion:
+The results of the experiment reject the hypothesis that adding juvenile hormone accelerates the growth of the Manduca sexta.  This is primarily because the role of the juvenile hormone in normal development hinders the molting of the hornworms.  The molting process stops to allow the Manduca sexta to reach the next instar; there must be lower levels of juvenile hormone present.  The high levels of juvenile hormone hinder the Manduca sexta from developing to the pupa stage, and onwards to metamorphosize to an adult.  This implies that throughout the duration of the experiment, the treatment group was at a lower developmental stage, or instar, than the control group.  The statistical results reject the hypothesis and conclude that adding juvenile hormone does not accelerate the growth of the Manduca sexta.  There is evidence that there is a slight difference in weight between the control and treatment groups, however, some error in the amount of food that each well had could have caused discrepancies in how much the hornworms ate, and therefore weighed each day.  The food was only changed if there was little to no food left in the well.  This would cause some wells to have slightly more food than others in a twenty four hour period.  Additionally, the treatment group data is slightly skewed down towards lower masses because one Manduca sexta treatment group died by day 11.  Despite these errors, the results in this experiment are parallel to the results of related studies, showing juvenile hormone levels in Tobacco Hornworms can affect growth and development. Other published studies found that an increase in JH levels does, indeed, prevent the molt of the caterpillars.  In this study, researchers tested the effects of juvenile hormone, ecdysone, insulin, and PTTH in Manduca sexta and Drosophilia melanogaster.  The methods in this experiment with the two organisms were similar to those used in this experiment, and the results showed that during larval molts, the juvenile hormone repressed pupal gene expression and kept the larval genes operative [Zhou: 1998].  This information is beneficial to farmers and other industries that need pest control. With this study, people can develop effective methods in controlling pests like adult moths that develop from Manduca sexta.   These organisms are known for feeding on nectar of various flowering plants and consuming leaves of solanaceous plants, such as jimsonweed, eggplants and tomatoes.  They can be particularly detrimental to tobacco crops, causing severe economic damage [Byron: 2017].  In subsequent experiments, the methods need to be revised in order to acquire more accurate and precise results. One alteration in the methods would be to change the food given to the caterpillars every day to ensure there is an even amount of food in each well.  This modification will allow the Manduca sexta to move through the life cycle.  In conclusion, Manduca sexta growth and development is affected by the increase in juvenile hormone as it results in the prevention of molting and metamorphosis.
+
+Literature Cited:
+1.	Johnson AD, Mallison S. 2019. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, 
+Winston-Salem, NC. Vers. 19.2 (updated July 8, 2019), pp. 6.
+
+2.	Kiguchi, et al. “A Role of Juvenile Hormone in Pupal Development of the Tobacco Hornworm, (Manduca Sexta)”. / J. Insect Physiol./, vol. 24. Pp. 673-680, 1978
+
+3.	Zhou, et al. “Juvenile Hormone Prevents Ecdysteroid-Induced Expression of Broad Complex RNAs in the Epidermis of the Tobacco Hornworm, (Manduca Sexta).” /Developmental Biology/, pp. 233-244, 1998.  
+
+4.	Byron, et al. “tobacco hornworm, Manduca sexta (Linnaeus); tomato hornworm, Manduca quinquemaculata (Haworth) [WWW Document], n.d. URL http://entnemdept.ufl.edu/creatures/field/tobacco_hornworm.htm (accessed 10.11.19). 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=hormone+graph++figure+1.jpg.png&Size=68069&Type=image%2Fpng&F=F_3HHnKgtrWu3kul2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average Mass of Manduca sexta in Control vs. Hormone Treated Groups After 15 Days.  The control group had deionized water added to their food, and the treatment group had the juvenile hormone added to their food.  The eight hornworms, four in the control group and four in the treatment group, were placed in individual wells with their respective foods, and were massed every day for a fifteen-day time span.  Masses were measured on a digital scale.  Each bar represents the mean mass of the hornworms at the end of the experiment in their respective groups.  *************************************************************************
+
+
+

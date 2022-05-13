@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-27 23:31:52
+Author of this lab report is: Std_CYb6yJi5
+ID: R_3MzCHLSALoKZzSW
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The effects of salinity concentrations on photosynthesis production
+
+Abstract:
+Within photosystem 2, a water-splitting enzyme hydrolyzes H2O that plays a major role in photosynthesis. We hypothesis that if we place spinach plants into a salt solution, then the water will favor equilibrium and rush out of the cell, leaving no water left to run the reaction. We can monitor the production of photosynthesis with DCIP, which changes from blue to colorless when reduction is occurring. We prepared 3 different groups, and each received a different concentration of salinity. When we mixed the chloroplast, we took the absorbances at 10, 20, and 30 minutes. We used an ANOVA test to conceptualize our results. Our ANOVA test showed a significant p-value of 0.002, however the groups that it determined had a significant difference were not biologically relevant, and the results that were relevant showed no significant difference. Our hypothesis is not supported by our data. This could be due to the need for a higher salt concentration, or because of the type of plant we used, considering that some research has suggested that spinach plants can withstand salinity stress by altering proteins. This research can be important for further discoveries, especially within the agricultural industry, since certain plants can or cannot thrive in high salinity environments. 
+
+Introduction:
+The complex cycles involved in photosynthesis can be affected in many ways, such as lack of sunlight, nutrients, or changes in environmental conditions. For our experiment, we will observe the change in photosynthetic output due to varying salinity solutions. Within photosystem 2, a major cycle of photosynthesis, a water-splitting enzyme hydrolyzes H2O, and uses it to excite electrons and continue to a b6f complex, or photosystem 1, and eventually to the ATP synthase complex. Without these specific reagents, such as water, this process would show a reduction in chloroplast output, or even come to a halt. We will be able to monitor chloroplast output with DCIP, which is a molecule that upon reduction changes from a dark blue to colorless. When DCIP is reduced, we know that reduction is occurring within the chloroplast and photosynthesis is operating normally. We hypothesize, that if we place spinach plants into a salt solution, then the water will favor equilibrium and rush out of the plant. This will result in little water left to facilitate the reaction in photosystem 2, which will cause a lower output from the chloroplast and a lower overall photosynthetic output. Other research has shown that under high NaCl concentrations, the results showed a change in photosynthetic efficiency in both photosystem 1 and 2. [Goussi: 2018] Based off our hypothesis, we will expect to see DCIP remain a blue color when tested with the plants in a salinity solution. This would indicate that there is no reduction occurring in photosystem 2.
+
+Materials and Methods:
+First, we had to enrich the chloroplasts by differential centrifugation. We packed a mortar & pestle, a medium-sized beaker, and 3, 50 ml centrifuge tubes into crushed ice to cool. While we waited, we removed the large veins from 2 spinach leaves and disposed of them. We added these spinach leaves to the mortar and pestle once it was cool and added 10mL of cold grinding buffer and ground the spinach until it was a thick paste. We added an additional 10mL of grinding buffer then strained the liquid into a chilled beaker with 3 layers of cheesecloth. We then collected 3 samples, by first transferring 200μl of the filtered liquid into a microtube labeled “sample of A” and stored it on ice. We transferred the rest into a 50mL centrifuge tube marked “A” and spun it at 200x G for 3 minutes. We poured the liquid remaining into a second chilled 50mL centrifuge tube marked “B” making sure to leave the pellet of debris at the bottom of tube “A”. We removed 200μl of the liquid from “B” and placed it in a microtube labeled “Sample of B” and stored it on ice. We then centrifuged again at a higher spin rate for a longer amount of time, then collected another sample which we labeled “Sample of C” and stored on ice. We then checked out sample for relative chloroplast density under a light microscope and discovered that most chloroplast were in sample B.  We then prepared 3 replicates of reaction mixtures (only 1 of the blank) and added 100μl of enriched chloroplasts to each tube. Tubes 1-3 received deionized water, tubes 4-6 received 3.5% salinity, and tubes 7-8 received 7.0% salinity. We measured their initial absorbances at 600nm and then again after 10 minutes, 20 minutes, and 30 minutes. To conceptualize our results, we used an ANOVA test. 
+
+Results:
+After the first 10 minutes, the DCIP began to change color from blue to light blue, and as time passed it became more colorless. After 30 minutes, it had lost almost all of its color. As we can see form our graph, the absorption levels changed mostly between 10 to 20 minutes and leveled out after 30 minutes. Our ANOVA test showed a significant p-value of 0.002, however the groups that it determined had a significant difference were not biologically relevant. For example, it was comparing group A at 10 minutes and group B at 30 minutes, which don’t have a direct correlation to each other. The results that were relevant showed no significant difference, for example group A and group C at 10 minutes showed no significant difference.  
+
+Discussion:
+According to our ANOVA test, our results do not support our hypothesis. No significant difference was found between the 3 groups at the 3 different time periods. We not only have statistical evidence, but also physical evidence for the rejection of our hypothesis. The DCIP changed from blue to colorless, and if reduction did not occur the color would have remained consistent. With the color change, that tells us that reduction was occurring, and photosynthesis was running normally. We originally hypothesized that if we added salt to the surroundings, then water would rush out of the cell and there would be no water to continue the process of photosynthesis in photosystem 2. Our data rejected this theory, and this could be due to the need for a higher salt concentration, or because of the type of plant we used.  According to a pant physiology and biochemistry research journal, they discovered results that suggested that plants have different mechanisms to respond to salinity and other combined stress with unique sets of proteins. This included spinach plants. [Bagheri: 2015] In further experiments, we could use a different plant that has not been found to adjust its proteins in response to salinity stress, or we could raise the salinity levels to a higher degree. This research can be important for further discoveries, especially within the agricultural industry. If a plant cannot withstand salinity stress, but is planted somewhere close to an ocean, or other area of high salt concentrations, the plant won’t produce good yield. This could not only impact the success of the farmer, but also the agricultural economy. Further research should be done in order to determine the effects of salinity on various plants, with various concentrations. 
+
+Literature Cited:
+1. Goussi R, Et al. 2018. Comparative analysis of salt stress, duration and intensity, on the chloroplast ultrastructure and photosynthetic apparatus in Thellungiella salsuginea. Journal of Photochemistry and Photobiology B: Biology. 183: 275-287.
+2. Bagheri R, Et al. 2015. Spinach (Spinacia oleracea L.) modulates its proteome differentially in response to salinity, cadmium and their combination stress. Plant Physiology and Biochemistry. 97: 135-145. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=photosynthesis+lab+pic.jpg&Size=52072&Type=image%2Fjpeg&F=F_3pmSsdsYT1PbTAX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Graph 1. Average absorbance at 10, 20, and 30 minutes for various salinity conditions*************************************************************************
+
+
+

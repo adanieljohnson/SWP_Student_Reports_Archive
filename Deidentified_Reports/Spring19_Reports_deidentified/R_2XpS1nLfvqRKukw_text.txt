@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-10 21:22:35
+Author of this lab report is: Std_Kqcu8nOS
+ID: R_2XpS1nLfvqRKukw
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: Effects of Various Wavelengths on Photosynthetic Activity in Spinacia oleracea Chloroplasts 
+
+Abstract:
+Spinacia oleracea was subjected to various wavelengths to study light effect on photosynthetic activity. Plants grow and develop in association with photosynthesis. Light is absorbed through the stomata, which can be regulated by different colors of light. Enriched chloroplasts from spinach were reduced from differential centrifuging. This assay was exposed to natural light (with and without chloroplast), green light, red light, and no light. To measure the photosynthetic activity, absorbances were collected every ten minutes during a 30-minute time period. It was hypothesized that when Spinacia oleracea is placed under these various wavelengths, green light will induce the most photosynthetic activity, followed by red light, and natural light. A sample with no chloroplasts exposed to natural light was used as a negative control while a sample with no light was used as a positive control. Natural light with chloroplast was found to have the highest levels of photosynthetic activity (t-stat value = 4.13; p-value = 0.0004), followed by green light (t-stat = 6.58; p-value = 3.17E-6), then red light (t-stat = 4.05; p-value = 0.0005). Statistical significance is shown. 
+
+Introduction:
+Sunlight is an environmental factor that influences the behavior and physiology of many organisms. Photosynthetic organisms such as plants depend on light energy to evolve, grow, and develop. Photosynthesis allows plants to convert light energy into chemical energy stored as carbohydrates. This process occurs in distinct phases through the Calvin Cycle and Krebs’ Cycle which carries and releases high energy electrons to produce energy [Zong: 2018]. Through the simultaneous interaction between glycolysis and cellular respiration, ATP energy is generated for the plant’s survival.
+Plants can receive light energy through stomata, pores formed by guard cells, which allows diffusion of carbon dioxide and exit of oxygen. The structure of the stomata allows the plant to respond to various environmental conductions such as photosensors [Galvão:2015]. These photosensors, or photochromes, optimize light absorbance and have evolved to respond to changes in light direction, duration, and wavelength. Plants have evolved many different classes of photoreceptors: red/far-red phytochrome (phy) and blue light receptors such as cryptochrome (cry) [Suetsugu: 2012]. These receptors are found in all green plants.
+Light responses from the photosensors are dependent on photosynthesis-independent and photosynthesis-dependent components. The photosynthesis-dependent component is blue light specific and induces rapid stomatal opening [Wang: 2011]. When plants are subjected to wavelengths of blue light, “cry” receptors known as phototropins, will activate a signal transduction cascade that optimizes the harvesting of energy from photosynthesis and production of ATP. The photosynthesis-independent component, or red-light response, primarily inhibits photosynthetic electron transport. Hence, stomatal opening is not optimized, and limited light energy is able to be absorbed from photosynthesis. It is important to note that the highest levels of blue light are recorded during the afternoon, whereas red light is found in the evening and early morning [Galvão:2015]. Green light, and its effect on stomatal opening, has limited research; however, green light is abundant in the daylight spectrum. Still, plants prefer to utilize blue and red light for stomatal opening.
+Spinacia oleracea is the ideal plant to study the effect of various wavelengths from light energy on photosynthesis due to their abundance and common organic base. Photosynthetic reduction will be analyzed through the chloroplast absorbance levels after being subjected to light over an interval time period. Dichlorophenol indophenol (DCPIP), which acts as an alternate electron acceptor, was substituted to visually quantify the photosynthetic activity [Liu:1991]. With its addition, samples will change color when reduction during photosynthesis occurs. This color change aids in the measurement of absorption to determine activity. It was hypothesized that when Spinacia oleracea is placed under various wavelengths, green light will induce the most photosynthetic activity.
+
+
+Materials and Methods:
+Chloroplasts from four Spinacia oleracea leaves were extracted by differential centrifugation. Leaves were deveined and reduced into a liquid using 400 mM sucrose in Tricine buffer. A solution of enriched chloroplasts was generated through centrifuging set at 200 x G. A chloroplast assay was set up for five experimental trials, each triplicates. The assay was prepared using 2 mL of μM DCPIP, 6 mL of deionized water, and 2 mL of a reaction buffer containing 100 mM phosphate at a pH of 6.5. Two lamps with a green and red bulb were set up. 
+The absorbance of each trial was measured at 600 nm in a spectrophotometer to determine photosynthetic activity. Over a 30-minute experimental period, absorbances were read every 10 minutes. A percent change in photosynthetic activity was calculated using the data from the absorbances. Data was analyzed using a standard two sample paired t-test.
+
+
+Results:
+The results obtained had various levels of significance. The average percent increase in photosynthetic activity was calculated and is presented in Table 1. Highest average photosynthetic activity, reduction of electrons, occurred with the chloroplasts exposed to natural light (84.98%). After natural light, photosynthetic activity was highest in green light (82.62%), followed by red light (79.86%), no light (39.03%), then natural light without chloroplasts present (17.65%). Using no light as a control, a standard two sample paired t-test was conducted to determine the data’s significance. Natural light (with chloroplasts) had a t-stat value of 4.13 and a significant p-value of 0.0004. Green light, the second highest in photosynthetic activity, had a t-stat value of 6.58 and a significant p-value of 3.17E-6. Finally, red light had a t-stat value of 4.05 and a significant p-value of 0.0005. The data collected portrays a reliable representation of photosynthetic activity due to significant p-values. A graphical interpretation of these results is found in Figure 1.
+
+Discussion:
+The data generated from this experiment partially supports the initial hypothesis. Originally, it was predicted that green light would have the highest photosynthetic activity. However, green light is known to reflect photons emitted from the sun giving plants their color. However, at the conclusion of this experiment, the data suggests that light was absorbed. This is highly unrealistic because if plants only absorb green light, the rate of photosynthesis would decrease, and the plant would die [Wang: 2011]. Chloroplasts placed under natural light had the most photosynthetic activity. Thus, regardless of the effects of various wavelengths on photosynthetic activity, the natural light samples had all wavelengths of light available to absorb. Red light, which has a longer wavelength than green light, makes photosynthetic activity decrease in speed. This fact is supported by the average data; however, one outlier in the red data (evident by a large standard deviation) skews the results. Thus, the data presented would contradict research. 
+Although significant values were obtained, with the support from outside research, technical error is presumed to have occurred. Various variables such has a non-natural, non-isolated light environments and limited experimental repetitions can attribute to unreliable data. 
+Study in this scientific field remains prevalent. Understanding behavior and development of plants in association to stomatal opening can aid in finding the optimal environments for plants to grow in, thus, increases the efficiency of worldwide agriculture agencies. Understanding the proper wavelengths that induce the most photosynthetic activity can help predict which light environments are required for a specific plant organism. 
+
+
+Literature Cited:
+Galvão. 2015. “Sensing the Light Environment in Plants: Photoreceptors and Early Signaling Steps- ClinicalKey”. Accessed 10 March, 2019.
+
+Johnson AD. 2018. Exercise 2: Quantifying photosynthetic reduction activity with the hill reaction. Cell Biology BIO214 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. 
+
+Liu, Ben-Li, et al. “The Relationship between the Structure of Plastoquinone Derivatives and Their Biological Activity in Photosystem II of Spinach Chloroplasts.” Photosynthesis Research, vol. 30, no. 2–3, Dec. 1991, pp. 95–106. Crossref.
+
+Suetsugu.2012. “Evolution of Three LOV Blue Light Receptor Families in Green Plants and Photosynthetic Stramenopiles: Phototropin, ZTL/FKF1/LKP2 and Aureochrome. Plant and Cell Physiology, Volume 54, Issue 1, 1 January 2013, Pages 8–23. Oxford Academic. 
+ 
+Wang, Yin, et al. “Photosynthesis-Dependent and -Independent Responses of Stomata to Blue, Red and Green Monochromatic Light: Differences Between the Normally Oriented and Inverted Leaves of Sunflower.” Plant and Cell Physiology, vol. 52, no. 3, Mar. 2011, pp. 479–89. academic.oup.com.
+
+Zong, Wei, et al. “Thylakoid Containing Artificial Cells for the Inhibition Investigation of Light-Driven Electron Transfer during Photosynthesis.” ACS Synthetic Biology, vol. 7, no. 3, Mar. 2018, pp. 945–51. ACS Publications, doi:10.1021/acssynbio.8b00045.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.PNG&Size=21891&Type=image%2Fpng&F=F_3luktleN1b6nQFe
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.PNG&Size=37644&Type=image%2Fpng&F=F_1NlWKi6oMDn66kN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Average Percent Increase in Photosynthetic Activity
+Highest photosynthetic activity occurred in chloroplasts placed under natural light, followed by green light, red light, then no light. No light had the lowest photosynthetic activity.
+
+Figure 1: Effect of Various Wavelengths on the Reduction of DCIP
+Percent change in absorbance as a function of time is displayed. This data represents the photosynthetic activity that occurred over a thirty-minute period. Absorbances of the chloroplast assays subjected to different light colors were read every ten minutes. Error bars represent the standard deviation of the percent change in absorbances. Natural light (with Chloroplasts) had the highest average percent change, followed by green light, red light, no light, then natural light (without Chloroplasts). 
+*************************************************************************
+
+
+

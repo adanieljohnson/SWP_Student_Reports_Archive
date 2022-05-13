@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-04 15:33:11
+Author of this lab report is: Std_7U10LmV6
+ID: R_290yMaMD6qVbAMn
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Na+ Channel Inactivation Effects of Lidocaine on Maximum Muscle Contraction in Raina Pipiens
+
+Abstract:
+Muscle contractions depend on the onset of an action potential due to the release of Na+ from voltage-gated Na+ channels embedded within the presynaptic cells and the neuromuscular junction. Our experiment analyzes the decreased strengths of maximum muscle contractions in R. Pipiens legs by the Na+ inhibiting effects of lidocaine, a local anesthetic that works by blocking nerve signals in the body. The analysis will focus on three frog legs with procedures separated into testing and control groups, with and without lidocaine respectively. Our data did not yield significant results at a p-value of 0.08665; however, there was an observable trend in the data that corresponded to a higher measured voltage response from frog legs that did not receive lidocaine compared to a lower (and sometimes dramatic) decrease in measured voltage response from frog legs that were administered with lidocaine. Our data indicates that lidocaine largely affects the generation of an action potential and thus the ability to contract muscles as efficiently, especially when it targets the Na+ channels largely responsible for nerve communication. 
+
+Introduction:
+Nerve impulses that arrive at the neuromuscular junction causes the release of acetylcholine (ACh) from the presynaptic nerve terminal, initiating the opening of sodium channels that generate an action potential in the muscle fiber [Johnson: 2018]. Skeletal muscle of both vertebrates and invertebrates consist of many myofibers bound together to act as muscle fibers and functional groups. As myosin thick filaments use energy form hydrolyzed ATP to bind to actin filaments, this stimulates the active movement of myosin heads, causing myofiber to shorten (thus inducing muscle contraction) [Balser: 1996]. These activities of muscle and nerve changes take place at the molecular level and can be observed by analyzing a myogram. Myograms are typically split into three distinctive phases: a latent phase, contraction phase, and the relaxation phase [Johnson: 2018]. Many physical conditions that surround the muscle and lie within can affect how the muscle contracts. In this case study, we will be isolating the gastrocnemius muscle and sciatic nerve from R. Pipiens legs. Each will be studied in separate leg muscle groups divided into a treatment group that receives lidocaine, a Na+ channel blocker, and into a control group that does not receive lidocaine. We hypothesize that if lidocaine is used to block Na+ channels in the muscle, then the measured voltage of the maximum contraction will decrease. 
+
+Materials and Methods:
+To set up for the experiment, three frog legs were prepared by dissecting the skin and exposing the inner thigh muscles. After making the appropriate cuts that exposed the white sciatic nerve, its accompanying blood vessels, and the gastrocnemius muscle, electrical voltage probes were placed in the respective muscles, making sure to occasionally wet the muscle tissues with frog Ringer’s solution. The lower-half region of the frog leg was then suspended. Each leg was tested in two sets: the first set measured the voltage of maximum contraction as a standard control, and the second set measured the voltage of maximum contraction with 0.1ml of lidocaine injected into the gastrocnemius muscle using a syringe. A threshold will be determined for each frog leg using the LabScribe software by applying a voltage that first picks up a noticeable twitch in the leg. The stimulus that will then be used for three trials with and without lidocaine will be set at 0.1V above the determined threshold. This will be repeated for each frog leg. The raw data for the three trials without lidocaine and the three trials with lidocaine will be summarized into mean values and visually represented on a bar graph comparing the control and test groups. Differences between the means for the control and test group were measured by using a t-test, with significance assumed if the p-value &lt;0.05. A t-value test calculates the probability of finding the observed results when the null hypothesis is supported. A low p-value &lt; 0.05 at an alpha level will indicate significance within our data.
+
+Results:
+In order to better understand the measurements taken and observe a general trend within the data, the mean was calculated for each trial for every frog leg tested, as summarized in Figure 1. For every leg observed, a 0.3V stimulus (each leg recorded a threshold of 0.2V, and thus all legs received the same 0.3V stimulus) was given for each trial. The first leg tested first without lidocaine had a mean voltage response of 0.367V and a mean response of 0.115V shortly after administering lidocaine. The most significant gap in the data was seen in the second leg: the control group without lidocaine recorded a mean voltage response of 0.745V and the treatment group with lidocaine had a mean response of 0.129V. The opposite occurred with the third leg: the control group mean response was calculated at 0.101V, whereas the treatment group mean response was only slightly under at 0.052V. Using a two-sample t-test to analyze our results, we determined that the mean voltage response for the control group was not significantly different than the mean response for the treatment group at a p-value of 0.08665. The control and treatment groups observed similar trends with respect to one another in each leg that was tested. 
+
+Discussion:
+Our hypothesis, which stated that frog leg muscles that were treated with lidocaine would exhibit a decrease in maximum muscle contraction compared to leg muscles without lidocaine, seemed to initially have been supported by the data we had obtained from the study. Calculating our p-value, however, showed that the data was not statistically significant and thus, we cannot reject the null hypothesis. Each frog leg that was tested with and without lidocaine showed similar trends: the measured voltage response was always higher without the presence of lidocaine than if lidocaine was administered. In other words, lidocaine can alter signal conduction in neurons by prolonging the inactivation of Na+ voltage-gated channels [Bean: 1983]. With enough blockage, the voltage-gated Na+ channels will not open and an action potential will not be generated, explaining the observed weaker muscle contractions of lidocaine-applied frog legs. Lidocaine is often used as a local anesthesia and is suitable for infiltration, block, and surface anesthesia. It acts as a critical numbing agent used for a wide array of medical and dental procedures [Balser: 1996]. It is important to study and understand the effects of lidocaine in the context of specific procedures that require its use from a topical numbing agent used for skin irritation to its use of decreasing the heart’s likeliness of initiating early action potentials that may cause arrhythmia [Bean: 1983]. By becoming familiar with lidocaine’s chemical properties and physical effects to a muscle area, we are better able to explore other possibilities of treatment that can potentially improve the treatment of pain and facilitate procedural operations. In future experiments we can look to treat different areas of an organism such as the upper-body muscles with lidocaine and observe the effects, perhaps to see if there are different outcomes than observed in the muscles. The experiment would consist of two groups, the treatment and control. As seen before in our experiment testing an organism’s leg muscle, the treatment group would be treated with lidocaine and the control group would not be treated. Incisions would have to be made to expose the tissues of an area of the upper body. Electrical probes may be placed in the appropriate muscle, enabling us to measure the voltage response of the muscle. 
+
+Literature Cited:
+Johnson A.D., Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-21.  Balser J.R., Tomaselli G.F. Local anesthetics as effectors of allosteric gating. Lidocaine effects on inactivation- deficient rat skeletal muscle Na channels. The Journal of Clinical Investigation. 98: 2659-2902.  Bean B.P., Cohen C.J., Tsein R.W. Lidocaine Block of Cardiac Sodium Channels. Journal of General Physiology. 5: 613-642.  Dowd F.J., Johnson B.S. Pharmacology and Therapeutics for Dentistry. 648-655.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-04+at+2.28.59+AM.png&Size=47903&Type=image%2Fpng&F=F_3JmBBbzyxBboQD2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mean Voltage Response of Maximum Leg Muscle Contraction in Treatment Groups With Lidocaine and Control Groups Without Lidocaine Show Inactivation Effects of Lidocaine on Action Potential Sustainability*************************************************************************
+
+
+

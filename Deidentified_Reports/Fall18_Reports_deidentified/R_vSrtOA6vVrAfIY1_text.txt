@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-29 18:37:53
+Author of this lab report is: Std_GLyUjJrs
+ID: R_vSrtOA6vVrAfIY1
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: NaCl has Bare Effect on Physarum Gravitaxis
+
+Abstract:
+Cell signaling process has three steps. The stimuli trigger​ the receptor. The receptor releases the second messenger. The second messenger triggers response pathway. In this experiment, we studied the cAMP cell signal pathway, which uses cAMP as the second messenger. We aimed to find out if NaCl would activate cAMP signal pathway. The model organism we used was physarum, an acellular slime mold. This organism would taxis to their favorable location in its plasmodial stage. One example is gravitaxis, the movement to the force of gravity. Our hypothesis is if Physarum grows with NaCl presented, it would have a greater rate of taxis. Our statistic shows that this hypothesis is not supported in this experiment. We suspect that the impact of NaCl in cAMP signal pathway might vary among different species. We noticed that there was an abnormality in sample growth. The test and positive control group barely grew while the negative control group grew at a significantly higher rate. This indicates that there existed other factors impacting the growth of samples. We suspect that the sample physarum had partially entered the reproductive cycle. In order to get a representative result on this topic, we need to perform the experiment again with equally distributed cycle physarum under the fir
+
+Introduction:
+Cell Signaling process is usually triggered by three steps. First, the stimuli activate the receptor or sensor proteins on the cell membrane. Then, the receptor or sensor proteins activates the signaling pathway by causing conformational change or releasing a second messenger. The second messenger would trigger the response pathway. Finally, the second messenger binds to an effector in order to trigger the cell to respond to the initial stimulus. There are many different kinds of pathways with different second messengers presented all sharing this similar mechanism [Iwasa: 2006]. One example of the cell signaling pathway is the cAMP-mediated pathway. It is a G-protein coupled pathway. When the G-protein at the receptor is activated, it activates adenylate cyclase which converts ATP to cAMP. The cAMP molecule is used as a second messenger to activate protein kinase A (PKA). PKA is able to phosphorylates other enzymes basing on the signal received [Iwasa: 2006]. This pathway might be enhanced by NaCl. According to previous studies, NaCl induces expression of genes related to heterocyst envelope formation, highly possibly via cAMP signal transduction system [Imashimizu: 2005]. We wanted to find out if NaCl activates cAMP signal pathway under regular environment. This topic can contribute to the understanding of cell signaling pathway. The model organism we used in this experiment is Physarum. Physarum is an acellular slime mold, which lives upon decomposing leaves and debris. They stay in plasmodial stage during the majority of its life cycle. In this stage, it is able to crawl by extending the leading edge with actin microfilaments. Taxis is a common behavior in this stage. It enables Physarum to grow to the favorable location [Karen: 2013]. In this experiment, we studied the impact of NaCl on Physarum cell signaling with Gravitaxis, the movement to the force of gravity. Our hypothesis is if Physarum grows with NaCl presented, it would have a greater rate of taxis. 
+
+Materials and Methods:
+We used potato adgar to grow physarum. With a sterilized spatula, we cut out 1 cm blocks from each plate in the middle and transferred 1 cm blocks of spatula to the plates. We added 10 mL 100 mM NaCl solution into three test plates and let it soak for 10 minutes. We poured out excess NaCl solution. We wrapped all the plates and placed them in a dark drawer. We made sure that no light would affect the growth of physarum. The test plates and positive control plates were placed vertically. The negative control plate was placed horizontally. We returned after 28 hours to measure the direction and distance of growth. Basing on the distance of growth and the time elapsed, we calculated the rate of growth. Finally, we ran a two-sample t-test to compare the growth rate of the control group and the test group. 
+
+Results:
+To measure the growth rate of samples, we divided the total growth by the time. The growth rate of the negative control group is 0.35mm/h in​ random directions. The growth rate of the treatment group is 0.048mm/h. The standard deviation is 8.3%. The most occurred direction is downward. The growth rate of the positive control group is 0.071 mm/h. The standard deviation is 7.1%. The most occurred direction is downward. To examine if there exists a significant difference between the test group and the control group growth rate, we ran a two-sample t-test. The result is shown in graph 1. The p-value is 0.74, indicating that there exists no significant difference between the two groups. We observed an abnormal phenomenon worth noticing. Only one of the three control group and two of the three test groups physarum grew. And the growth rates in gravitaxis groups are much lower than the growth rates in the negative control group. 
+
+Discussion:
+Because there is no significant difference between the growth rate of the control group without NaCl treatment and the growth rate of the ​test group with NaCl treatment, our hypothesis that if Physarum grows with NaCl presented, it would have a greater rate of taxis is not supported. One possible reason is that the previous study is done on nitrogen-fixing cyanobacterium, an organism growing in a high salt environment. This organism has already adapted to high salt concentration environment. Thus, salt stress would induce an increase in cellular cAMP in order to assist this organism to survive an environment with high salt concentration [Imashimizu: 2005]. However, Physarum is not a high-salt-environment organism. It might not have the similar responding pattern to the presence of salt stress as cyanobacterium does. NaCl thus has no effect on the production of cAMP in physarum. The rate of taxis would not be changed when it is presented. In this experiment, we also observed an abnormal growth pattern. The test and positive control group barely grew while the negative control group grew at a significantly higher rate. This indicates that there might exist other factors impacting the experiment outcome. As we set up the experiment groups, we noticed that the physarum was not distributed equally in the original plate. Some part of it turned green while some part of it was still normal yellow color. We suspect that the sample physarum had partially entered the reproductive cycle [Adler: 1974]. In order to get a representative result on this topic, we need to perform the experiment again with equally distributed cycle physarum under the first vegetable stage. 
+
+Literature Cited:
+Iwasa, J. 2006. KARP’S CELL AND MOLECULAR BIOLOGY. Nucleic Acids Research. 34: 200-211.
+Imashimizu, M. 2005. NaCl enhances cellular cAMP and upregulates genes related to heterocyst development in the cyanobacterium, Anabaena sp. strain PCC 7120. FEMS Microbiology Letters. 1: 91-103
+Karen, A. 2013. Physarum. Current Biology. 23: R1082-R1083 
+Adler, P. 1974. Genetic analysis in the Colonia strain of Physarum polycephalum: heterothallic strains that mate with and are partially isogenic to the Colonia strain. Genetics. 78: 1051-1062. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-29+at+6.16.34+PM.png&Size=20472&Type=image%2Fpng&F=F_3qwEaOey4OWBets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Graph 1. The growth rate of the positive control group is 0.048mm/h. The standard deviation is 8.3%. The growth rate of the treatment group is 0.071 mm/h. The standard deviation is 7.1%.*************************************************************************
+
+
+

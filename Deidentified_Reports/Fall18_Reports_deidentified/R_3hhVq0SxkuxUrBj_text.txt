@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 17:34:29
+Author of this lab report is: Std_UxebGiqh
+ID: R_3hhVq0SxkuxUrBj
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effect of acetylcholinesterase inhibitor on the contraction strength of the Gastrocnemius of the Rana pipiens
+
+Abstract:
+The neuromuscular system is comprised of muscles, controlled by nerves, that provide movement to the skeleton. Neural impulses travel through these nerves to the neuromuscular junction where the neurotransmitter ACh is released to then bind to receptor-gated sodium channels in the muscle fiber’s membrane, releasing sodium and generating an action potential. The action potential ceases as AChE catalyzes the breakdown of ACh in the synapse, allowing sodium channels to close. With the introduction of sevin solution, an inhibitor of AChE, into the synapse, it is hypothesized ACh will remain bound to sodium channels, creating a greater contraction force as a result of more sodium. This is tested upon the gastrocnemius muscle of the Rana pipiens. 0.1mL of 2% sevin solution is injected into the muscle and the contraction force is compared to the contraction force prior to the injection. While hypothesized that the introduction of AChE inhibitor into the synapse would create a greater contraction force, this was not supported by the results. The data was insignificant with a p-value of 0.652. While 2 of the muscles tested produced slightly higher contraction strengths, one of the muscles tested yielded a weaker contraction force, not supporting the original hypothesis.
+
+Introduction:
+The somatic neuromuscular system is a combination of the nervous system and muscular system and is responsible for the movement of the skeleton in vertebrate and invertebrate organisms. At neuromuscular junctions, action potentials signal neurons to depolarize. This depolarization causes the release of acetylcholine (ACh) from the presynaptic nerve terminal.  The ACh then plays a key role in initiating muscle contraction; it binds to receptors on the membrane of the muscle fiber, which opens sodium channels that generate the action potential in the muscle fiber. To prevent continued depolarization of the muscle fiber, Acetylcholinesterase (AChE) is present in the synaptic terminal to catalyze the breakdown of ACh so sodium channels can close and repolarization can occur, ceasing the action potential. By manipulating the amount of AChE present in the synaptic terminals by introducing inhibitors, the effects of the excitation-contraction coupling process can be altered. This is a promising method for the treatment of diseases such as Alzheimer’s and other neurological diseases that arise from imbalances of AChE in the synaptic terminal [Mukherjee: 2007]. The effect of inhibiting AChE is result from the increased time ACh molecues bound to receptor gated sodium channels of the muscle fiber before they are catalyzed by the decreased amount of AChE [Johnson: 2018].  The experiment created tests the effect of the AChE inhibitor in the synaptic terminal. The effect is focused on the contraction of the muscle. A solution of AChE inhibitor, Sevin solution, will be injected into a muscle and an electrical impulse will be introduced to the muscle to mimic a nerve impulse. The contraction strength of the muscle will be compared to the contraction strength before injection to determine the effects of the AChE inhibitor on contraction. The gastrocnemius from a Rana pipiens, commonly known as the Northern Leopard Frog,  will be used for the experiment. This is because the species is abundant, the muscle can be exposed and isolated easily, and the sciatic nerve controlling the muscle can be isolated easily as well. It is hypothesized that the muscle will contract with greater strength after the injection of the AChE inhibitor.
+
+Materials and Methods:
+Conducting the experiment requires the isolation of three gastrocnemius muscles from the Rana pipiens. The muscle needs to be exposed by peeling away the skin and cutting the distal tendon attached to the muscle. Frog Ringers solution needs to be applied periodically to the exposed muscle to prevent drying out and to maintain an isotonic solution. The cut tendon will be attached to a device that measures the contraction strength of the muscle while the proximal end is secured firmly to the lab table surface. Two electric probes will be placed directly into the muscle, completing a circuit. These probes will provide an electric stimulus that mimics an action potential caused by a nerve impulse. The voltage delivered by these probes needs to be determined by finding the twitch threshold. This is done by increasing the voltage until the contraction strength is significantly greater. The voltage determined from the threshold will be used for the rest of the experiment. After the threshold voltage is determined, the contraction strength of the leg will be tested for. An electric pulse is delivered to the muscle and the contraction strength is measured by the device. The software associated with the device will label the contraction strength as V2. The software labels the resting contraction force as V1. Using the equation V2-V1, the force of the contraction can be recorded. This is repeated five times, producing a new V2, V1, and contraction strength each time. These five contraction strengths are averaged together and recorded. The frog leg is then injected with 0.1mL of 2% sevin solution, AChE inhibitor. The 0.1mL is dispersed into multiple injection sites along the muscle and the solution is given one minute to diffuse throughout the muscle. The electrical impulses are then repeated five additional times, each time recording the V2 value, V1 value, and the determined average contraction strength. This is repeated for each of the three legs, resulting in an averaged contraction strength pre-injection and post-injection. These values can then be entered into a one-tailed paired t-test to determine the statistical significance of the data.
+
+Results:
+After the injection of the sevin solution, the contraction strengths did change, however, the changes were slight and inconsistent. Frog legs 1 and 2 produced a marginally higher contraction strength after the injection of the sevin solution, both increasing approximately 9% in strength. Frog leg 3 yielded a weaker contraction strength after the injection of the sevin solution, decreasing approximately 5% in contraction strength. These results are graphically depicted in figure 1, showing the averaged contraction strength of each muscle before and after injection. After statistically analyzing the data it yielded a t-value: 0.524, 2 degrees of freedom, and p-value: 0.652. 
+
+Discussion:
+Overall, from the data recorded from the experiment, the hypothesis cannot be soundly supported or unsupported. The statistical tests ran on the data supported that it is insignificant, and it would be invalid to make inferences upon insignificant data. This means the changes in muscle contraction strength cannot be supported by the introduction of AChE inhibitor into the synapse. As expected, the AChE did have effects on the contraction, however, they were inconsistent. Perhaps, the introduction of the AChE inhibitor into the synapse has effects on other variables than the strength of the muscle contraction. As supported by Mukherjee’s findings, the introduction of AChE inhibitor can have beneficial effects, such as boosting cognitive performance and memory, for persons who suffer from neurological diseases such as Alzheimer’s, not related to the processes of muscle contraction [Mukherjee: 2007]. Also, the data could be insignificant in result from improper experimental design. The sevin solution may not have been able to fully disperse throughout the muscle within a one-minute interval, creating skewed results. Also, the tension applied to each muscle from the device can impact the force it can produce which would also skew the data. The effect of AChE inhibitor can be tested further using different dependent variables. Also, the effect of AChE inhibitor on the strength of muscle contraction can be modified and retested to see if data becomes significant.
+
+Literature Cited:
+Mukherjee, P. K., Kumar, V., Mal, M., & Houghton, P. J. (2007). Acetylcholinesterase inhibitors from plants. Phytomedicine, 14(4), 289-300.  Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17–33.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+graph.jpg&Size=16895&Type=image%2Fjpeg&F=F_3qerFalGZ8oOzUc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph visually illustrates the contraction strength of the gastrocnemius muscle from each frog leg prior to injection and after injection of 0.1mL of 2% sevin solution as calculated from the V2-V1 equation with values being derived from the LabScribe software. The V2-V1 value is a relative unit that shows the strength or magnitude of the contraction in terms of a relative strength. Note the unit is not in terms of voltage.  The trend shown is: Frog leg 1 and 2 increased in contraction strength, whereas Frog leg 3 decreased in contraction strength.  Error bars illustrate standard dev. And the data yielded a statistical analysis of a t-value: 0.524, 2 degrees of freedom, and p-value: 0.652. *************************************************************************
+
+
+

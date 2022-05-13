@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 13:42:28
+Author of this lab report is: Std_XQVFjFrX
+ID: R_2zbU8xEBMGXVXuk
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The Effect of Lidocaine on the Muscle Contractions of a Northern Leopard Frog (Rana pipiens) Leg
+
+Abstract:
+This study tests the effect of Lidocaine on the muscle contractions of a Northern Leopard Frog (Rana pipiens) leg. The known effect of Lidocaine inhibiting sodium channels was tested to see its effect on the contractions of the gastrocnemius muscle. The hypothesis was if the gastrocnemius muscle of a frog leg is injected with 25 mM lidocaine, the amplitude of the muscle contraction will decrease, and the latency period will be lengthened. Two frog legs were injected with 0.1 mL of Lidocaine in order to see the drug’s effects on the amplitude and latent period of the contraction. The results showed a decrease in amplitude and an increase in  latency period after the injection. This favored the hypothesis; however, the data was statistically insignificant and can neither support or reject the hypothesis. 
+
+Introduction:
+Skeletal muscle is combined with bone to be responsible for movement in the body. There are different kinds of muscles, in which have different functions, as well as different thresholds. Each kind of muscle fiber uses myosin and actin to form a contraction, the movement of the muscle creating tension [Johnson:2018]. This action requires some form of energy, whether through glycolysis or oxidative phosphorylation. Contractions occur due to a chain of events, starting with an action potential being sent through a motor neuron attached to a muscle fiber cell. [Johnson:2018].  At the synapse between the two, called the neuromuscular junction, the action potential causes the Na+ and Ca++ voltage gated channels to open on the presynaptic cell. The Ca++ binds to the Acetylcholine (ACh) neurotransmitter vesicles and causes the exocytosis of the ACh from the vesicles [Johnson:2018].. The attachment of ACh causes the sodium channels to open and allows Na+ to flow into the post-synaptic cell, the muscle cell. This creates an action potential that stimulates the release of Ca++ in the sarcoplasmic reticulum into myofilaments, where a twitch, the smallest unit of a contraction, is created due to the attachment of myosin to actin [Hall:1993]. In a frog leg, contractions occur using this process, and can be measured through tracking the length and amplitude of the contraction. The contraction consists of the latency period, which is the time between when the stimulus occurs and when the contraction begins. It also consists of the contraction period where the contraction reaches its highest amplitude, and the relaxation period, which is the decreasing in amplitude until it is back at its resting tension [Johnson:2018]. Due to the necessity of sodium to create a contraction, inhibiting sodium from being released in any way would damage the contraction. Lidocaine has the function of blocking Na+ channels [Lin-2016]. The biological question is whether the injection of lidocaine will noticeably affect the contractions of a frog leg. This information may be helpful when determining the effectiveness of lidocaine on decreasing muscular contractions, as that it is commonly used to numb patients during oral surgeries. This ability to numb comes from the decrease in the ability for signals from nocireceptors, pain receptors, to form an action potential due to the blocking of Na+ gates [Lin-2016]. The hypothesis is if the gastrocnemius muscle of a frog leg is injected with 25 mM lidocaine the amplitude of the muscle contraction will decrease and the latency period will be lengthened. 
+
+Materials and Methods:
+Two severed frog legs were dissected to reveal the gastrocnemius muscle and the sciatic nerve. This was done through pulling the skin from the top of the leg down towards the foot. The legs were then dampened with frog Ringer’s solution, which contained electrolytes. The inner thigh muscles were separated, revealing the thin, white sciatic nerve, which was separated from the connective tissue surrounding it. The gastrocnemius muscle was attached to the muscle tension adjuster on a ring stand using a thread and adjusted to have enough tension so that the string was taut. Two stimulation electrodes were placed underneath the sciatic nerve. The entire frog leg was pinned down to stabilize it. The electrodes were connected to a IXTA-220 stimulator. A Each gastrocnemius musclefrog leg was tested without Lidocaine and was shocked until their voltage for maximum contraction was found. This was determined by finding the minimum voltage required to that created the largest amplitude for a contraction. The amplitudes voltage and time of latent periods were recorded and repeated three times. The gastrocnemius muscle was then injected with 0.1 mL of lidocaine. Before continuing, five minutes were waited. and at rest  for five minutes. The frog leg was then shocked with the found voltage for the maximum contraction three times, and the results were recorded.  The average amplitude and latency period for before and after Lidocaine was injected was calculated.This entire process was done once for each frog leg,  producing in total an average amplitude and latency for both the frog leg without the lidocaine and the frog leg with the lidocaine . The statistical test used was a two sample T-test, and the data for amplitudes and latency periods were collected. 
+
+Results:
+The average amplitude of the contractions from the two gastrocnemius muscles showed a large decrease after the injection with 0.1 mL of Lidocaine (0.296±0.15 v) compared to the control condition (0.68±0.02 v) (P-value=.21, t-stat=2.9, df=1) (Figure 1). The average latent period of the control condition (25±0.0 ms) showed an increase in time when injected (32.5±2.5 ms) (P-value=0.2, t-stat=3, df=1)(Figure 2). There was also a significant visual decrease in motion of the muscle from the tests with no injections and tests with an injection. The results were not statistically significant. 
+
+Discussion:
+The results for this experiment, while in favor of the hypothesis, are not statistically significant, and therefore cannot be adequately used to support the hypothesis, which stated that the injection of lidocaine to the gastrocnemius muscle of a frog leg will result in a decrease in the amplitude and an increase in the latent period at the found voltage for maximum contraction. This decrease in amplitude was most likely caused due to the injection of Lidocaine, which inhibits the Na+ channels from opening. This inability for the sodium to pass through some of the channels results in a decreased ability for a contraction to form. This is because the release of sodium ions into the muscle creates an action potential that releases calcium into the muscle cell, which is used to activate the cross-bridge created through the attachment of myosin in the muscle fiber to the actin, which creates the contraction. However, because some of the sodium ion gates are inhibited, there is a smaller voltage, since there is less calcium able to be released. This is shown through the smaller amplitude of the frog leg trials where they were injected with Lidocaine. The latent period was also extended because it took a longer amount of time for the sodium to be released, since some of its gates are blocked by Lidocaine. This would extend the time between the stimulus created by the IXTA simulator and the start of a contraction. In Hachiro Saito’s lab, conducted on frog legs as well, the injection of Lidocaine also decreased the amplitude of the contractions [Siato-1984]. This result aligns with the effectiveness of Lidocaine on decreasing contractions, and this trait may be used in the future in situations where contractions need to be decreased.
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 17-34. 2. Hall ZW. 1993. Synaptic Structure and Development: The Neuromuscular Junction. Science Direct. pp. 99-121 3. Lin EJ. 2016. Lidocaine. Journal of the Dermatology Nurses’ Association. 6:394-396 4. Siato H. 1984. Interactions of Lidocaine and Calcium in Blocking the Compound Action Potential of Frog Sciatic Nerve. Anesthesiology: The Journal of the American Society of Anesthesiologists. 3:205-8.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+1-+frog.PNG&Size=25363&Type=image%2Fpng&F=F_1EfZdtMcys6IZPu
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+2-frog.PNG&Size=25038&Type=image%2Fpng&F=F_1eVQeOCAI4Kf7EZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1. The average amplitude(v) of contraction obtained for two gastrocnemius muscles of Rana pipiens before and after the injection of 0.1 mL of Lidocaine, at the maximum contraction voltage for each muscle (3.0 V and 2.5 V respectively) (P-value=.21, t-stat=2.9, df=1). Three contractions were found for each frog leg for both conditions (no injection and Lidocaine injection) and averaged together.   Figure 2. The average latent period(ms) of  contraction obtained for two gastrocnemius muscles  of Rana before and after an injection of 0.1 mL of Lidocaine at  the maximum contraction voltage for each muscle (3.0 V, 2.5 V respectively) (P-value=0.2, t-stat=3, df=1). Three contractions were found for each frog leg for both conditions (no injection and Lidocaine injection) and averaged together. 
+
+*************************************************************************

@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-03-01 13:32:06
+Author of this lab report is: Std_r7JYhnjW
+ID: R_2e8do8YGUBrRD9K
+Course number: BIO103L
+TA: TA_bc8EVX09
+*************************************************************************
+Title: Decreased Soil Nutrient Availability Increases Resource Allocation to the Roots in Pisum sativum
+
+Abstract:
+Although most individuals of a plant species contain similar genomes, these individuals can exhibit different phenotypes through variations in resource allocation. These varying allocation patterns are often developed in response to different levels of access to important nutrients like nitrogen in the soil. It was predicted that as the concentration of nutrients in the soil decreases, resource allocation to the roots of field peas (Pisum sativum) would increase, because longer roots are essential to obtain necessary nutrients. Increased resource allocation is often shown through the calculation of the root:shoot ratio, with larger ratios correlating to larger roots and smaller ratios correlating to larger shoots. In this experiment, the effect of nutrient availability in the soil on root:shoot ratios in field peas (Pisum sativum) was tested with three different fertilizer concentrations, one used on a set of three trays for a total of nine trays. The data collected did not show a significant difference between the average root:shoot ratios among the three treatment groups for weight but just a slightly insignificant difference for length root:shoot ratios. This suggests that low nutrient availability may increase root length but does not have a direct effect on root weight.
+
+Introduction:
+All individuals of any species contain a set of genetic information (called their genome) that dictates how they develop. However, sometimes, differences among the environment in which individuals of the same species live can lead to differences in the expression of their genome, termed phenotypic plasticity. This plasticity is especially evident in plants in their resource allocation patterns based on biotic and abiotic factors, allowing them to survive in many different conditions [Shemesh: 2010]. It is possible that due to phenotypic plasticity, plants may be one of the few organism groups able to adapt to climate change and its associated impacts on water availability and soil quality. All plants must compete with other plants for access to limited resources like water, nutrients, and sunlight. Plants work with their limited amount of resources through allocations, or the way in which a species distributes and uses resources. This process of allocation relies on the concept of trade-offs that allow a species to evolve in a certain way that lets them use more resources for a certain activity and less resources for another activity [Johnson: 2018].
+Pisum sativum (commonly known as field peas) is like other plants in that it will display phenotypic plasticity in its resource allocation patterns across different environments. Resource allocation in plants can be quantified through the measurement of root and shoot weights and lengths to then create root:shoot ratios that express which part of the plant receives more allocated resources [Johnson: 2018]. With limited soil nutrients, it is likely that plants will allocate resources to the root system, especially to the root regions with access to large nutrient quantities, to allow for the development of longer roots to increase the probability of acquiring more nutrients [Shemesh: 2010]. It is advantageous to their survival that they elongate their roots or increase the number of lateral roots to increase nutrient uptake [Gersani: 1998]. Plants in soil with a higher availability of nutrients, especially nitrogen, do not need to devote resources to their roots and can therefore use those resources to build stronger or taller stems or to grow more leaves [Andrews: 1999]. Therefore, it is hypothesized that as nutrient availability increases, plants’ stems will be taller, meaning that the root:shoot ratios will be smaller. Likewise, as nutrient availability decreases, root:shoot ratios should increase due to larger root size.
+
+
+Materials and Methods:
+Nine trays of Pisum sativum plants were used to test the effect of nutrient availability on the resource allocation of this species of plant. Each of the trays was first filled with vermiculite while Pisum sativum seeds soaked in water. Three different concentrations of MiracleGro fertilizer were prepared through dilution to represent differences in nutrient availability: 150 mL of 100%, 150 mL of 50%, and 150 mL of 25%. The vermiculite was wet with water and about a dozen little holes were dug with fingers. 50 mL of fertilizer was added to each of the nine trays, and each of the three concentrations was added to a group of three trays to create three different treatment groups (i.e. 100% fertilizer was added to a set of three trays, the 50% fertilizer was added to three trays, and the 25% fertilizer was added to the remaining three trays). More vermiculite was added to each tray to cover the seeds. Trays were then taken to a greenhouse to allow for a controlled temperature and amount of sunlight. Plants were watered every day for two weeks. After two weeks, 3 individual plants from each of the nine trays was removed, with care to ensure groups of plants under the same experimental condition were kept together (I.e. the three groups of 3 plants treated with 25% were kept close together). For a group of three individual plants, a total weight was measured and then each plant was separated into root and shoot with a scissors cut where the color changes from white to green. All the shoots and all the roots were weighed together, and then the longest root and shoot were measured. This process was repeated eight additional times for each additional group of plants. After all data was recorded, keeping careful note of treatment groups, root:shoot ratios for weight and length were calculated and averaged for each treatment group. An ANOVA statistical test was then used to determine if there was any significant difference between the average root:shoot weight ratios and the average root:shoot length ratios of the three treatment groups. A significant difference was shown by a p-value less than 0.05.
+
+Results:
+The calculated root:shoot ratios for both length and weight exhibited the same general trend in that they decreased as the concentration of fertilizer increased (Fig.1 and Fig.2). The mean length root:shoot ratio for the 25% concentration was 1.493 ± 0.314, while that of the 50% concentration was 1.209 ± 0.12, and that of the 100% concentration was 0.905 ± 0.11 (Fig.2). The mean weight root:shoot ratio for the 25% concentration was 1.938 ± 0.412, while that of the 50% concentration was 1.533 ± 0.116, and that of the 100% concentration was 1.463 ± 0.217 (Fig.1). Despite this pattern, the difference in weight root:shoot ratios among the three treatment groups was not significant (p-value=0.256, df=2, f-stat=1.723). The difference in length root:shoot ratios was not significant either (p-value=0.074, df=2, f-stat=4.141).
+
+Discussion:
+The proposed hypothesis that as nutrient availability in the soil increased (related to a higher concentration of fertilizer), root:shoot ratios for weight would decrease was not supported by the results of statistical testing, as shown by the large insignificance in the difference between these ratios across the three treatment groups. However, it is possible that nutrient availability does have an impact on length root:shoot ratios, suggested by the significance of the difference between the ratios across the three treatment groups when analyzed at a 90% confidence interval. It is therefore likely that without the presence of outliers and experimental errors, this difference would also be significant when analyzed at a 95% confidence interval. It is also likely that the data for the length root:shoot ratios demonstrated greater significance because changes in root and shoot length are more directly affected by resource allocation to gain access to more nutrients or more sunlight, respectively. On the other hand, weight data could have simply increased as a result of water retention in the roots, meaning the difference in weight root:shoot ratios could have been attributed to biological processes instead of caused directly by the difference in fertilizer concentration. Other studies demonstrate that root mass does not respond to nutrient concentration but instead to available rooting volume, although it is hard to separate these two variables in testing [Hess: 2007].
+In contrast to the results of statistical testing, the general trend of the data collected during the experiment does seem to support the hypothesis, because the root:shoot ratios do decrease with an increase in nutrient availability, especially with regards to nitrogen. This is a result of the smaller degree of resource allocation to developing the root system of a plant that already has access to the necessary amount of nutrients. Due to trade-offs, when a plant has no need to develop its roots, it has a surplus of unused energy that it can then allocate to the shoot. It can therefore have either a longer and/or thicker stem or a larger leaf system, both designed to increase access to sunlight. It is also possible that the increase in root length could be attributed to the presence of neighboring plants, supported by a study that conclude that plants increase root size when they sense the presence of a competitor to give themselves a greater advantage in accessing limited soil nutrients [Hess: 2007]. Earlier studies concluded that as the number of competitors near a plant increases, the nutrient concentration per plant decreases in a one-to-one relationship, meaning that the ability to elongate root systems to access more limited resources is very essential when many neighboring plants are present [Gersani: 1998].
+The data collected suggests that plants with the same genotype can display a phenotype that may or may not match that of competing plants. It can therefore be inferred that it is possible for many species of plants to adapt to different environments and maybe a quickly changing climate without the presence of a large genetic change [Shemesh: 2010]. This also demonstrates that plants can adapt to grow in soils with lower nutrient quantities, meaning that use of synthetic fertilizers in the agriculture industry could be reduced. With this reduction, less chemicals would be added to the food people eat and less would be added to waterways due to percolation. Less fertilizer in water systems leads to less pollution and less eutrophication. Some current studies done on field peas have been elongated to look at the effects of increased nutrient availability on seed yield and seed nutrient content, finding that at the highest fertilizer concentrations, plants use most of the surplus nutrients to increase shoot biomass instead of to produce a greater number of seeds [Voisin: 2002]. Further studies could be used to confirm extrapolation of the results of this experiment to other species of plants, especially the cereal grains, fruits, and vegetables. This could help determine if it is feasible to lower fertilizer use and related environmental damage without significantly decreasing food yield from these plants. 
+
+
+Literature Cited:
+1. Johnson AD. Resource Allocation in Plants. Ecology and Evolution BIO 113 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 15-24.
+2. Hess L, De Kroon H. 2007. Effects of rooting volume and nutrient availability as an alternative explanation for root self/non‐self-discrimination. Journal of Ecology. 88: 241-251
+3. Gersani M, Abramsky Z, Falik O. 1998. Density-dependent habitat selection in plants. Evolutionary Ecology. 12: 223-234.
+4. Voisin AS, SalonC, Munier-Jolain N, Ney B. 2002. Effect of mineral nitrogen on nitrogen nutrition and biomass partitioning between the shoot and roots of pea (Pisum sativum L.). Plant and Soil. 242: 251-262
+5. Andrews M, Sprent J, Raven J, Eady P. 1999. Effect of mineral nitrogen on nitrogen nutrition and biomass partitioning between the shoot and roots of pea (Pisum sativum L.). Plant, Cell and Environment. 22: 949-958.
+6. Shamesh H, Arbiv A, Gersani M, Ovadia O, Novoplansky A. 2010. The effects of nutrient dynamics on root patch choice. PLOS ONE. 5(5): e10824.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+Plants.PNG&Size=12968&Type=image%2Fpng&F=F_beXgaCmwFfaeYg1
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2+Plants.PNG&Size=14065&Type=image%2Fpng&F=F_3mjCINFhIq1IxdF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparison between the Average Weight Root:Shoot Ratios for Three Differing Fertilizer Concentrations. Error bars indicate ±1 standard deviation. *The difference between these average weight root:shoot ratios was determined to not be significant (p-value=0.256, df=2, f-stat=1.723).
+Figure 2. Comparison between the Average Length Root:Shoot Ratios for Three Differing Fertilizer Concentrations. Error bars indicate ±1 standard deviation. *The difference between these average weight root:shoot ratios was determined to not be significant (p-value=0.074, df=2, f-stat=4.141).
+*************************************************************************
+
+
+

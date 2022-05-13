@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-10-30 12:23:50
+Author of this lab report is: Std_duu6DQW6
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: The Effects of Soil Substrate on Growth as indicated by root shoot ratio of oat plants (A. Sativa)
+
+Abstract:
+Desertification and over utilizing agricultural resources is a growing issue that affects the livelihood of millions of people worldwide. Poor soils often result in poor crop yields but they are becoming increasingly difficult to avoid. This study aims to discover more about the impact of soil substrate on the growth of plants. We used oat plants (Avena Sativa) as a model due to the ease of recording accurate root shoot ratio measurements from them. We hypothesized that sandy soil substrates will increase the root shoot ratio of oat plants, affecting their growth. We found that after a two-week exposure to three common soil substrates (Sand, Sand/soil mix, and Soil) there was a significant increase in root shoot ratio of the oat plants in the pure sand environment (P=0.007792).  We conclude that pure sand substrate does increase the root shoot ratio and therefore affect the growth and resource allocation of A. Sativa.
+
+
+Introduction:
+In nature there are a finite amount of resources available to organisms. In order to be successful in competition, organisms such as plants must allocate their resources in a way that responds to the challenges of their environment. In plants, resources are often allocated to either the roots or the shoots depending on environmental pressures [Johnson AD:2017]. In this case the roots refer to all parts of the plant below ground and the shoots refer to all parts of the plant above ground. A ratio between the roots and shoots known as the root shoot ratio (R:S) is sometimes used to demonstrate resource allocation [Yang:2017]. What we are interested in is testing the effects of different soil substrates on plants; we will use the R:S as a means to determine this impact. There are two ways of calculating R:S one is by length and the other is by mass. In previous testing we found that R:S calculated with length measurements were more reliable since our balances could not record mass values of small roots resulting in erroneous mass values of 0. 
+ In this study we used Oat plants as a model to test the effects of soil substrate on plant growth, as indicated by R:S by length. We chose Oats plants (A. Sativa) as our model species because it is easy to harvest them without damaging their roots and it is also easy to determine where their roots end and their shoots begin. A. Sativa also grow relatively quickly and are common crop making them suitable for our two-week time window and applicable, to a degree, to agriculture. We also chose three common soil substrates, pure soil to mimic ideal conditions, 50/50 soil/sand mix to serve as an intermediate, and pure sand to simulate the least ideal conditions for A. Sativa. Sandy soils are meant to simulate soils in areas that have been affected by desertification, drought, or over farming. The main difference between these soil types will be their ability to hold water and other nutrients. We believe that the sand will not be able to hold as much water or nutrients because of its larger particle size. In this experiment our independent variable is substrate type (discrete, categorical variable) and our depend variable is R:S length ratio (continuous, measurable variable). Our hypothesis states that soil substrates with more sand will increase the R:S and thus have an effect on the growth of oat plants (A. Sativa). 
+
+
+Materials and Methods:
+We created three soil types: the first was pure soil (we used vermiculite as our soil), the second was a 50/50 mix by volume of soil and sand, and the third was pure sand. We then filled three planter containers with each type of soil, resulting in a total of nine planters. Next, we planted 10-12 oat seeds (A. Sativa) in rows in each of our nine planters. All of the seeds were planted just below the surface and spaced apart evenly. The seeds were then moved to a greenhouse and watered daily for two weeks. We watered each container until excess water began to leak from the bottom. After two weeks in the greenhouse we harvested the oat plants and measured the R:S by length. We measured the length of the roots, which we determined to begin where the small fibrous roots left the thicker stem, and the shoots, which was everything above where the roots began. We measured three randomly selected oat plants from each of our nine containers. We measured with a ruler marked to the mm and stretched the plants so that they were straight when being measured. R:S were then calculated by dividing the root length values by the shoot length values. We used a One-way Analysis of Variance (ANOVA) test and subsequent Tukey-Cramer tests for statistical analysis. 
+
+
+Results:
+At the end of the two weeks, the A. Sativa plants in the pure sand substrate looked noticeably less healthy in their above ground regions with both bent or leaning stems and slight discoloration (figure 1a). The plants in the pure soil looked larger and healthier than those of the sand (figure 1b). The sand/soil mix looked more like the plants in the pure soil than the ones in the pure sand (figure 1c). The average R:S for pure sand was 1.146 with a standard deviation (SD) of 0.430 (figure 2). The average R:S for Sand/Soil mix was 0.766 with a SD of 0.253 (figure 2). The average R:S for pure soil was 0.664 with a SD of 0.207 (figure 2). This demonstrates a general trend of R:S increasing with the amount of sand present in the soil substrate. Our One-way ANOVA test resulted in the p-value P=0.007792 (table 2). The Tukey-Cramer tests found significance in the comparison between pure sand and pure soil as well as pure sand and sand/soil mix but no significance between sand/soil mix and pure soil (table 1). 
+
+Discussion:
+The data supports our hypothesis that sandy soil substrates increase the R:S of A. Sativa. Our one-way ANOVA test resulted in a p value of P=0.007792 which is significant at an alpha of a=0.05 (table 2). This is likely due to the sand having larger pores which allow water to drain more easily. As the water drains out it carries nutrients with it decreasing the availability of both water and soil nutrients. The R:S ratio was impacted in a way that could benefit the A. Sativa placed in sand. Larger roots could take in more water and nutrients to make up for the scarcity of these resources. However larger roots come at a cost, the shoot portion of R:S was likely reduced due to the increased allocation of resources to growing large roots [Johnson AD: 2017]. Similar results, and increase in R:S, were observed by Yang et al. when testing for soil remediation methods to combat leaded soils [Peng:2016]. Additionally water availability alone has been shown to be a factor that affects R:S. In Zhang et al. researchers found that mean annual precipitation can affect R:S in a desert ecosystem [Zhang:2017]. This study demonstrates that the reduced amount of water available after draining in the pure sand substrate could have impacted the R:S. Nutrients present in soils also impacts R:S. Peng et al. found that the addition of nitrogen (an essential abiotic nutrient) to soils decreased the R:S [Peng:2016]. However, the results of Peng et al. were not significant and they stated were likely due to the nitrogen enrichment causing increased shoot growth rather than reallocation of resources. This is still relevant to our study since additional soil nutrients may have impacted the shoot growth in our pure soil A. Sativa further decreasing their R:S ratio.
+ A potential source of error in our study comes from how we watered the plants. We watered each plant container until it began to drain however some were overwatered resulting excess drainage which could have impacted the amount of nutrients washed away. This could be improved by first determining the amount of water to fully saturate a plant container and only watering with that amount. This research could be furthered by studies that use a wider variety of soil substrates with varying pore sizes to determine if the sand’s pore size was the primary factor in the R:S increase. This would provide more evidence on whether or not our proposed explanation of large pore size holding less water and allowing more nutrients to drain is valid. Additionally, this study should be replicated with different plant species to determine if this is a trait specific to A. Sativa or if it is applicable to other plant species as well. If this study were repeated it might also be useful to use a larger number of plants and collect a larger sample to represent them. We collected three plants from each planter for a total of 27 A. Sativa, more samples would allow for more power and would be useful in determining if there is significance between the mix and pure soil. 
+The effects of soil substrate on plant growth have far reaching impacts. In much of the world, over-farming, drought and desertification are serious issues that result in increased sandy soil substrates. It is important to study the effects these transformations will have on our crops. 
+
+
+Literature Cited:
+1.	Johnson AD. Resource Allocation in Plants. Ecology & Evolution BIO113 Laboratory 
+Manual. Dept. Biology, Wake Forest University, Winston Salem, NC. Vers. 17.1 (updated August 14, 2017), pp. 15-26.
+
+2.	Peng Y, Yang Y. 2016.
+Allometric biomass partitioning under nitrogen enrichment: Evidence from manipulative experiments around the world. Scientific Reports. 6: 28918.
+
+3.	Yang Xiaoyu, Ma Siyue, Li Jianheng. 2017.
+Effects of different soil remediation methods on inhibition of lead absorption and growth and quality of Dianthus Superbus L. Environmental Science and Pollution Research. 24: 1-7.
+
+4.	Zhang Ke, Su Yong Zhong, Yang Rong. 2017.
+Biomass and nutrient allocation strategies in a desert ecosystem in the Hexi Corridor, northwest China. Journal of Plant Research. 130: 699-708.
+	
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.png&Size=27332&Type=image%2Fpng&F=F_8xdDIiNPfL5UcuN
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+2.png&Size=21545&Type=image%2Fpng&F=F_1S8DN43cRORzapD
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.jpg&Size=1658542&Type=image%2Fjpeg&F=F_9XOALEq4x1WoghT
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=56401&Type=image%2Fpng&F=F_eVxf7mOzvs4MMdL
+
+
+
+
+
+Figure Legends: 
+Table 1: Results from Tukey-Kramer test. Table 2: Results from One-way ANOVA test (p=0.007792, a=0.05) Figure 1: (a) A. Sativa growing in pure sand substrate after two weeks. (b) A. Sativa growing in pure soil substrate after two weeks. (c) A. Sativa growing in 50/50 sand soil mix substrate after two weeks. Figure 2: Mean R:S ratios of Sand, Soil, and mixed substrates with standard deviation Bars. The average R:S for pure sand was 1.146±0.430. The average R:S for Sand/Soil mix was 0.766±0.253. The average R:S for pure soil was 0.664±0.207.
+
+
+
+
+*************************************************************************

@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 13:54:01
+Author of this lab report is: Std_Sa0mreCK
+ID: R_1ePLNXkozgUB4IR
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Excess Calcium Presence in Skeletal Muscle Causes Shorter Latent Period After Stimulation
+
+Abstract:
+Calcium is a very important ion in the body and is involved in many different processes. One of these processes is skeletal muscle contraction. Calcium is crucial for muscle contraction because it allows for actin and myosin filaments to bind. If excess calcium is added directly into the muscle, we hypothesized that the reaction time of the muscle to a stimulus would be shorter. We tested this hypothesis by measuring the latent periods of a muscle twitch before and after an injection of calcium. We found that the latent periods were shorter after calcium was injected, meaning the reaction time was smaller in the presence of excess calcium. This finding can be further applied in research regarding faster muscle contraction in professional athletes.
+
+Introduction:
+Calcium is an ion known for the roles it plays in the neuromuscular system, specifically in voluntary muscle contraction. The entry of external calcium ions in to the membrane of the axon terminal is an essential step between depolarization of the membrane and release of neurotransmitter from the terminal [AD Johnson: 2016]. When an action potential reaches the neuromuscular junction, voltage-gated calcium channels open, allowing external calcium to flow down its concentration gradient into the synapse, where it becomes involved in a reaction between specific molecules on the inner surface of the axon membrane and molecules on the surface of synaptic vesicles [Sadava: 2017]. This causes the colliding of vesicles with the membrane, thereby leading to the release of quantal packets of neurotransmitter substance [Katz: 1995]. Another important role of calcium is to bind to sites on the muscle fibers, allowing for the actual muscle contraction. When the action potential reaches the sarcoplasmic reticulum, it releases calcium ions into the sarcoplasm where it surrounds muscle fibers. Muscle fibers are made up of proteins called actin and myosin. When a muscle contracts, the globular heads of myosin filaments binds to specific myosin-binding sites on actin. In order for these biding sites to become exposed, calcium must be present. Troponin, which is one of three proteins that makes up an actin filament, covers these binding sites when calcium is not present. Troponin has a large capacity and a high affinity for binding calcium [Winegrad: 2000]. When calcium enters the sarcoplasm and surrounds the muscle fibers, it binds to troponin and exposes myosin-binding sites. The myosin then binds and the muscle contracts. When studying this mechanism, the question arises about whether an increase in calcium in the muscle would lead to a faster reaction time when a stimulus is applied. By use of a myogram, which is a visual recording of the different stages within a single muscle twitch, the reaction times of a muscle twitch to an applied electrical stimulus can be measured. To record our myograms, we collected data from the muscle of the frog species, Rana Pipens, because its constant use of the leg muscles to jump requires that the muscles do not tire quickly. In addition, the muscle is the right size for the probe and the sciatic nerve can easily be isolated. All of these aspects of the Rana pipens leg and gastrocnemius muscle allow it to be a model organism for neuromuscular experimentation. We hypothesize that the injection of additional calcium directly to a frog leg muscle will result in a shorter latent period which means a faster reaction time to a stimulus that is applied directly to a muscle. 
+
+Materials and Methods:
+In order to test our hypothesis, we acquired three frog legs and made sure to keep the tissues wet with Frog ringer’s solution throughout the entire procedure. We exposed the muscle on one leg and isolated the gastrocnemius muscle by use of a string and a stand. We also exposed the sciatic nerve even though we were not directly applying the stimulus to it in order to remain consistent. We then inserted a probe directly into the muscle with the black side on the bottom and the red side on the top. After inserting the probe directly into the muscle, we found the threshold voltage of the muscle by applying stimuli with very low stimulus amplitudes and increasing the voltage until a twitch was recorded. We then took the threshold voltage and added 0.1. We applied three separate stimuli to the muscle and recorded the latent periods before each twitch. After recording the latent periods of the muscle, we added an injection of 0.1 mL of 50 mmol of calcium directly into the muscle and allowed it to settle for one to two minutes. We repeated the threshold test and the latent period test to determine the differences between the non-injected muscle and the injected muscle. We repeated this process two more times and recorded data in our lab notebooks. A graph of the mean reaction times for each frog leg before and after calcium injection was used to compare data. In addition, the mean reaction times of all groups combined before and after calcium injections were used to compare data. Lastly, a paired t-test was used, which reveals whether the means at two times points are statistically significant. In this case, we are determining whether or not the mean latent periods are significantly the same before and after an injection of calcium.
+
+Results:
+Overall, the mean reaction times of the frog leg muscles after an injection of calcium was much smaller than the mean reaction times of the frog leg muscles before the injection of calcium (t-stat= 4.47, df=8, P= 0.002). The mean reaction time of all controls was 20.6 milliseconds, and the mean reaction time of the legs after receiving calcium was 12.2 milliseconds. The threshold stimulus amplitudes remained at a constant 0.2 volts, with the exception of frog number two after injection of calcium, which had a threshold stimulus amplitude of 0.4 volts. The threshold twitch amplitudes of frog leg one and frog leg three were higher before the injection of calcium by about 0.1 mV. Frog leg number two displayed a higher threshold twitch amplitude after an injection than during the control tests. The latent periods of the twitches after a stimulus was applied was always shorter than after the introduction of calcium (Figure 1).
+
+Discussion:
+Our data shows that our hypothesis that the injection of calcium would lead to a shorter latent period, or a shorter reaction time, was supported. Since no other factors were involved, the mean reaction time of the legs, represented in Figure 1, as well as the overall mean latent period lengths proved that the injection of calcium into the muscle is the cause of this shorter latent period. Based off of this finding, it can be concluded that the interaction between actin and myosin is controlled by the concentration of calcium ions in the muscle fiber. Research has shown that contractile properties and calcium activation are interdependent, as calcium responsiveness affects actin-myosin interaction and vice versa [Rüegg: 1992]. If there is more calcium available in the muscle, its responsiveness will increase, causing the interaction between actin and myosin filaments to happen more quickly. We noticed that the second muscle displayed data that the first and third muscles did not. As previously mentioned, the threshold twitch amplitude of the second frog leg was lower before the addition of calcium than after the injection, which was different than the twitch amplitude of the first and third frog muscles. We attributed this data to the fact that the probe could have not been inserted far enough into the muscle. If the probe was not as far into the muscle of the second frog leg, it is possible that the stimulus did not deliver properly and was also not recorded properly. This could also explain why it took a larger stimulus to induce the threshold shock after an injection of calcium in the same muscle. Even though there was a difference in threshold voltage data, the muscle still showed a shorter response time when delivered a stimulus after injecting calcium. We noticed in the data of the first and third muscles that the amplitude of the threshold twitch decreased after in injection of calcium. We discussed that this could be because the extra water weight of the calcium injection made the muscle heavier, thus twitching was a bit more difficult. With the knowledge that the presence of extra calcium in the muscle can result in shorter latent periods, one can further explore its effects in athletic settings. For example, the effects on reaction times of muscles of athletes after an intake of calcium. 
+
+Literature Cited:
+	Johnson, AD. Neuromuscular Control. Comparitive Hpysiology BIO114 Laboratory Manual. Dep. Biology, Wake Forest University, Winston-Salem, NC. Vers.18.2(updated August 2, 2018), pp. 17.
+	Sadava DE. 2016. Musculoskeletal Systems. Life: The Science of Biology. W.H. Freeman. 950.
+	Katz, Bernhard. “The Relation between Force and Speed in Muscular Contraction.” The Journal of Physiology, vol. 96, no. 1, June 1990, pp. 45–64. Wiley Online Library, doi:10.1113/jphysiol.1939.sp003756.
+	Rüegg, Johann C. Calcium in Muscle Contraction: Cellular and Molecular Physiology. Springer Science & Business Media, 2012.
+	Winegrad, Saul. “The Intracellular Site of Calcium Activation of Contraction in Frog Skeletal Muscle.” The Journal of General Physiology, vol. 55, no. 1, Jan. 1992, pp. 77–88. jgp.rupress.org, doi:10.1085/jgp.55.1.77.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-13+at+12.10.00+PM.png&Size=58779&Type=image%2Fpng&F=F_3Pv0ugnJVL8xtgE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average Length of Latent Period Before and After Injection of Calcium. The latent periods were recorded three times for each muscle before and after adding calcium. The results of the three control stimuli were averaged for each frog and the results of the three stimuli after adding calcium were averaged for each frog.*************************************************************************
+
+
+

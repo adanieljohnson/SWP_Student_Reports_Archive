@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-28 18:33:32
+Author of this lab report is: Std_kGNQ4PQX
+ID: R_3kAkOZPnDO3oFPj
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Effect of glucose and fructose on the chemotaxis of polycephalum plasmodium
+
+Abstract:
+Cell signalling pathway is what governs the activity of cell when it is exposed to stimulus, it is very important due to the possibility of developing drugs targeting components of the signalling pathway. In this lab, we are using physarum, {polycephalum plasmodium}, as the model organism as it is a eukaryotic cell which has multi nucleus and behave like a large cell. The signaling pathway investigated is PIK3, the pathway that controls the chemotaxis toward nutrients. We know that glucose is an activator for this pathway, and we are curious about the effect of other sugar, such as fructose on the pathway. Fructose has a different structure but the same metabolic function and since there is a high specificity between molecule and receptor, we hypothesize that the physarum would move toward glucose and not fructose. 5 trials of each experimental group at 25mM are being set up as well as a negative control. The result supports our hypothesis as there are significant movement toward glucose but not fructose. Future experiment can be done on glucose derivative and other metabolically favored sugar to investigate on the specific activator of the PIK3 pathway.
+
+
+Introduction:
+	Cell signaling is a communication of cell to govern the basic activities of cells. It is very important as the way cell respond to external or internal stimulus determines the reaction of the cell under different conditions. In this lab, we are going to study the signalling pathway of physarum, polycephalum plasmodium. Physarum is a model organism because it is a multinucleate syncytium, multiple nucleus is contained with in one plasma membrane and we can observe it as one giant cell. Also, physarum is a eukaryotic cell and according to evolution, all eukaryotic cells are alike to some extent (Baldauf 1997), the signalling pathway of physarum is very similar to many signalling pathways on human so we can perform experiments that are too dangerous on physarum instead. 
+	The specific signalling pathway we are interested in is the PI3K pathway, this is the pathway that is in control of the chemotaxis and cell shape in alive amoeba (Matveeva 2008). When this pathway is inhibited, it is observed that the chemotaxis toward attractant such as glucose is slowed down significantly (Matveeva 2012). With this information, we concluded that PI3K is the signaling pathway which, when exposed to glucose, will induce chemotaxis and cellular movement toward the direction of glucose. The reason why glucose is an attractant is due to its ability to be metabolized into energy that physarum can use, however, there are multiple sugars that are metabolically useful to human (fructose, ribose), so we are curious about what is the reason behind the chemotaxis? Is physarum attracted to all sugar that can undergo metabolism or is there something special about glucose?
+	After some research, we decided to use glucose and fructose for our experiment. Glucose is an aldolase sugar with a 6 membered ring while fructose is a ketose sugar with a 5 membered ring, the structure between them are very different yet they can both undergo metabolism and yield ATP energy. In PI3K pathway, glucose act as a external attractant which bind with the receptor and induce a series of cellular reaction which leads to chemotaxis. The binding between signal and receptor is highly specific to induce the cellular reaction so there is a maximum non-covalent interaction between glucose and the PIK3 receptor which, theoretically, cannot be fulfilled by fructose. So we hypothesize that despite both glucose and fructose can yield energy through metabolism, the physarum is only going to move toward glucose and not move toward fructose. The null hypothesis is that the physarum move toward both fructose and glucose equally.
+
+
+Materials and Methods:
+	We have two experimental group and 1 control group, 5 trials were being done for each experimental group and 1 trial of negative control was being done. 11 water algar plate is being obtained as we are testing chemotaxis of sugar which is already the rood source for physarum and no additional nutrient should be added. For each of the water algar plate, three 1x1cm square is being removed on a line, the left block is the place for chemical, the middle block is for physarum and the right block is the blank to control for the gap between the block and the algar. 
+	Another 2 water algar plate was soaked with 25 mM of glucose and fructose respectively for 10 minutes. After 10 minutes, 5 1x1cm block were removed from each of the treated algar plate and inserted into the leftmost block of the experimental group algar. 11 1x1cm block of physarum was removed from the physarum algar and inserted into the middle of all 11 water algar plate. The rightmost block, the blank, was left inside of the plate as a control. For the negative control group, the physarum is in the middle, both the chemical block and the blank block has the original water algar inside instead of chemical block.
+	Each plate was labeled and sealed using paper tape, the plates were put into a black bag with no light and after 24 hours, the measurement were taken. Because we hypothesized that the physarum would move toward the chemical, a one tailed t-test is used with the significance value alpha =0.05. The variance is obtained using the 5 trials for each treatment group and the df is 4.
+
+
+Results:
+	As shown in figure 1, the migration distance of physarum under glucose is 2.2 cm and 0.4 cm for fructose, the migration direction for all of the plates are directly toward the chemical. The error bar, 1 standard deviation from the mean, does not overlap with each other and the p value is 0.0019 with df of 4.
+
+
+Discussion:
+	According to the result, p=0.0019 is smaller than 0.05 so the migration of physarum under glucose and fructose are significantly different from each other thus the alternate hypothesis that despite both fructose and glucose can yield energy through metabolism, the physarum is only going to move toward glucose not fructose is supported. So the PIK3 signalling pathway on physarum is only activated by sugar with a certain structure, the six membered ring. 
+	To further support this hypothesis, experiment should be down on glucose derivative such as 2-deoxy-D-glucose which is the glucose molecule but modified so there are no hydroxyl group on the second carbon. Glucose derivative without the hydroxyl group cannot undergo glycolysis (Herman 1965) so it would not yield any energy if absorbed by a cell. According to the research down by Randall, the physarum would move toward the glucose derivative, and would not move toward ribose, sucrose, other metabolic favorable sugar (Randall 1978). So it is supported that the PIK3 signalling pathway is only activated by the specific 6 membered ring structure and does not consider whether the molecule is beneficial to the physarum by energy yield.
+	In graph 1, there re some movement of fructose as indicated by the 0.4cm movement toward the fructose. There are two reasons that might lead to this movement. First, the physarum is being put on the water algar, so there are nothing but the chemicals added in its surrounding, so despite fructose does not activate the PIK3 pathway which leads to chemotaxis, the physarum would spread and try to get food and the only direction that there are something else then water is the direction of fructose so the physarum move there by spreading. Second, when we are treating the physarum, we noticed that there are other organelles growing on the physarum plate around the cereal which form black mashes. Despite not using the physarum in the are of the black mash, there can be contamination of the physarum plate which leads to the movement toward fructose.
+
+
+Literature Cited:
+1. Herman, Y., Canfield, C., Conrad, M., and Herman, R. (1965) The comparison of the 1-C14-glucose and 6-C14-glucose metabolism of reticulocyte-rich and reticulocyte-poor human red blood cells. Metabolism 14, 500-503
+
+2. Matveeva, N., Beilina, S., and Teplov, V. (2008) The role of phosphoinositide-3-kinase in the control of shape and directional movement of the Physarum polycephalum plasmodium. Biophysics 53, 533-538
+
+3. Matveeva, N., Teplov, V., and Beylina, S. (2012) Coupling of phospholipase C and PI3K/PTEN signaling pathways in Physarum polycephalum: The action of U73122 on motile and autooscillatory activity of plasmodium. Biochemistry (Moscow) Supplement Series A: Membrane and Cell Biology 6, 255-264
+4. Baldauf, S., and Doolittle, W. (1997) Origin and evolution of the slime molds (Mycetozoa). Proceedings of the National Academy of Sciences 94, 12007-12012
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-28+at+6.32.46+PM.png&Size=54071&Type=image%2Fpng&F=F_pfVB6LdgSzXC9vr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig.1 The migration distance of physarum under glucose and fructose treatment. df=4 p=0.0019. Error bars are 1 S.D. for glucose=0.84 fructose=0.55
+*************************************************************************
+
+
+

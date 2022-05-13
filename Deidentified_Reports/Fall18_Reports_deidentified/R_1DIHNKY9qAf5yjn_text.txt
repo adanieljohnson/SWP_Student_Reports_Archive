@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-15 07:18:30
+Author of this lab report is: Std_akIXGbzW
+ID: R_1DIHNKY9qAf5yjn
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The Effects of Injected Calcium on Frog Leg Muscle Contraction
+
+Abstract:
+The neuromuscular system is a system of interaction between neurons and muscles.  Action potentials generated in neurons spread to muscle cells, allowing muscles to contract and relax in response to stimuli. The neuromuscular system is unique in that it is only found in animals. Frogs are a common model organism for the neuromuscular system in animals because they are easily reared in a lab and small enough to be studied in a lab setting. This study used frog legs as models of neuromuscular system function. Action potentials from generated in neurons stimulate the release of calcium in muscle, causing muscle contraction. This study monitored muscular response in frog legs when shocked with voltage. Frog legs which were injected with calcium were expected to have a greater force of muscle contraction than those which were not injected with calcium. There was statistically significant evidence to suggest a difference between muscle contraction in control and calcium injected frog legs, but legs which were injected with calcium actually had a lower force of muscle contraction than those legs which were not injected with calcium. These findings suggest that there is a threshold in frog legs in which they can become oversaturated with calcium and no longer function efficiently. 
+
+Introduction:
+
+Nerves and muscles allow organisms to interact with their environment. While hormone-based systems take seconds for an organism to process, the neuromuscular system allows organisms to respond to stimuli in a matter of milliseconds [Johnson: 2018]. The neuromuscular system is made up of skeletal muscles which are innervated by motor neurons. The binding of neurotransmitter acetylcholine to a receptor on the membrane of a muscle fiber generates an action potential which spreads through a muscle fiber. Due to the action potential, calcium ions are released from the sarcoplasmic reticulum and stimulate muscle contraction [Johnson: 2018]. Calcium’s importance in muscle contraction is not a new concept. As early as 1958, a study by Ethel Cosmos examined calcium’s role in frog muscle. Cosmos used similar methods to investigate frog legs, including electrical currents through the muscle and injecting calcium. Cosmos stimulated frog muscles at a frequency of one shock per second, injected calcium, and determined the effects of the rate of exchange of calcium-40 with calcium-45 isotopes [Cosmos:1958]. Studies like this one and Cosmos’ are important in understanding neuromuscular function. Frog legs serve as model organisms for neuromuscular function because they are readily available for use in labs and small enough to be shocked by a probe. The same basic principles investigated in frog legs such as sodium channels, calcium, and action potentials are crucial to our understanding of human muscle function. The objective of the experiment described here was to discover the effect of injecting calcium to the exposed gastrocnemius muscle of a frog leg.  We hypothesize that if injected with calcium, frog legs will have an increased force of contraction than those frog legs without injected calcium.  
+
+
+Materials and Methods:
+
+Three frog legs were assembled and placed in a dissecting pan. Forceps were used to remove the skin from each frog leg, exposing muscle. Frog legs were regularly moistened with Ringer’s solution for the duration of the lab. Labscribe software was used to apply voltage to the frog leg. The probe was inserted into the gastrocnemius muscle of the frog leg. Each frog leg was used twice, once for control measurements and once for experimental. For the control portion of the experiment, no calcium was injected into the frog legs. We applied voltage to the muscle ten times and recorded the response from the legs. The voltage increased each time using amplitude intervals of 0.1, 0.2, 0.3, 0.4, 0.5, 1, 2, 3, 4, and 5.  After recording response from the legs, the experimental portion of the experiment began. Each frog leg was injected with 0.1 mL calcium, and voltage was applied in the same intervals listed above. Responses were recorded for each of the three frog legs. Observations were maintained in lab notebooks. A one-tailed two sample paired t-test was used to determine any statistically significant difference in force of muscle contraction as a result of gastrocnemius muscle being injected with calcium. 
+
+
+Results:
+The mean force of muscle contraction in frog legs without added calcium was 0.203 hertz (Fig. 1). The mean force of muscle contraction in frog legs with added calcium was 0.104 hertz (Fig. 1). Comparing these results, the mean difference between force of muscle contraction in frog legs without added calcium and frog legs with injected calcium was -0.099 hertz (Fig. 1). A p-value of 0.001 was obtained.  
+
+Discussion:
+Our hypothesis, that injecting frog legs with calcium would result in muscle contraction of greater force, was not supported. There was statistically significant evidence to suggest a difference in force of muscle contraction of frog legs in control and experimental groups. Frog legs injected with calcium had a lower force of muscle contraction than control frog legs (Fig.1). We hypothesized that increased calcium in frog legs would raise force of muscle contraction, but injected calcium actually lowered force of muscle contraction. Similar results were found by R.L. Moss when he explored calcium’s effect on muscle contraction in 1978. Moss notes changes in the amount of calcium released form the sarcoplasmic reticulum may not have a large effect on the amount of calcium bound to regulatory proteins [Moss: 1978].  While an influx of calcium will change the free calcium ion concentration available in the leg, it will not change the number of receptors to which it can bind. In other words, while this experiment increased the amount of available calcium in the frog legs, it did not increase the number of receptors which bound to calcium. This helps explain why more calcium did not result in an increase in muscle contraction force. Perhaps this study inhibited muscle contraction by increasing available calcium ions to a level above maximum efficiency. Further research on the effects of added calcium to the muscles could be useful in studying muscle function. With further research, perhaps a more direct link between added calcium and muscle exhaustion can be made.
+
+Literature Cited:
+1.	Cosmos, E. Factors Influencing Movement of Calcium in Vertebrate Striated Muscle. American Journal of Physiology. University of Rochester School of Medicine and Dentistry, Rochester, NY.  195(3): 705-711.  
+2.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018)
+3.	Moss, RL. Sarcomere Length-Tension Relations of Frog Skinned Muscle Fibres During Calcium Activation at Short Lengths. Journal of Physiology. Boston Biomedical Research Institute, Boston, MA. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Lab%21.png&Size=36643&Type=image%2Fpng&F=F_2684pX8rkNEJ0g9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Difference in Muscle Contraction of Each Frog Leg in Control and Experimental Portions of Study*************************************************************************
+
+
+

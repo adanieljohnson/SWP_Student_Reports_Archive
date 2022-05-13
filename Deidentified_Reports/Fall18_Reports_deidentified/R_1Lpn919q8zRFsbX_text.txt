@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-30 10:32:12
+Author of this lab report is: Std_UV8v9Hd7
+ID: R_1Lpn919q8zRFsbX
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Lack of Signal Transduced Response with Slime Mold
+
+Abstract:
+To assess the effects of signal transduction, a model organism plasmodium of Physarum polysephalum, was used. The pathway studied was the calcium activated signaling that can affect motility of physarum that can be activated and inhibited as the chemical receptors on the smooth endoplasmic reticulum bind. To assess the nuances of calcium activated signaling, stock solution of calcium was added to three potato dextrose agar plates (PDA), and stock solution of EDTA and Strontium Chloride was added to an addition three PDA plates, with an additional 3 control PDA plates. It was hypothesized that the calcium plates with activate binding and subsequently enhance motility and conversely the EDTA and Strontium Chloride inhibit binding and therefore motility as well. The results of a one-way ANOVA test concluded that there is a p-value of 0.831 leading to the acceptance of the null hypothesis. This could be due to the sugars present in the PDA plates or that EDTA does not significantly inhibit growth. This is an imperative study to assess how calcium activated signaling is conducted with the model organism physarum without conducting human studies. 
+
+Introduction:
+	Signal transduction is a process that involves an exterior chemical or physical stimuli that is transmitted through the cell resulting in an interior response [Berg:2002]. There are several signal transduction pathways that allow cells to interact with the environment where the organism must react to different stimuli such as light, chemicals, and temperature. To assess the effects of signal transduction and its mechanisms the organism Physarum polysephalum, slime mold, is an effective organism to study. Each physarum mass, a plasmodium, operates as one giant cell that allows us to see the intricacies of signal transduction without the use of scientific instruments [Johnson:2016]. Physarum is a key organism to study due to the similar to how our nervous system works.
+	One of the pathways in which physarum operates is the calcium activated signaling. The calcium on the surface cannot affect the calcium dependent enzymes inside the organisms but it is able to bind to calcium receptors on the smooth endoplasmic reticulum known as the ryanodine receptor that subsequently opens the Ca2+ channels [Johnson:2016]. Calcium activated receptors are a way to increase motility and inherent growth of the slim mold [Knowles:1978]. Conversely, the presence of EDTA and Strontium Chloride with surface channel calcium inhibits binding and subsequent motility of physarum.  
+	To test these ideas, we hypothesized that physarum will grow exponentially in the presence of excess calcium and will inhibit growth in the presence of EDTA and Strontium Chloride combined. 
+
+
+Materials and Methods:
+To alleviate the presence of further variables, we received nine potato dextrose agar (PDA) plates so that food is not a determining factor. The plates were dived into threes, and labeled each group either control, high calcium, or EDTA + Strontium Chloride. Following labeling, a 1cm by 1cm cube was cut out of the middle of each of the PDA plates. A stock solution of calcium and EDTA + Strontium Chloride was used by taking 1 mL of each respective chemical and mixing it with 20 mL of deionized (DI) water creating a final concentration of 1 mM. From the stock solution, 4 mL per PDA plate was used to saturate the plate. A ten-minute wait period was observed to allow the chemical to be absorbed. 
+	 Following the ten-minute wait period, the excess chemical was drained away. Using a given plasmodium plate, a 1cm by 1cm cube was carved out and placed into each of the PDA plates. They were then placed into a black bag and incubator at 27 degrees Celsius to avoid light and temperature from being aversion factors. A one-way ANOVA test was performed with an alpha value of 0.05, a Tukey-Kramer test for significance, as well as using the ImageJ to calculate the area of growth per plate. 
+
+
+Results:
+The results of the one-way ANOVA test illustrated that the data is insignificant (df=2, Fs=0.191, p-value=0.831), as seen in Table 1. Although the EDTA + Strontium Chloride illustrated the highest average area of growth (x ̅=2.361  = 2.549), there proved to be no significance between any of the data sets, as seen in Table 2 where A is the control, B is the EDTA and Strontium Chloride, and C is the high calcium. 
+
+Discussion:
+As seen in Table 1, there is no statistical evidence in support of the hypothesis. This can be identified through the p-value being 0.831 which suggests the null hypothesis is accepted. The null hypothesis states that there is no sufficient correlation between excess calcium on the growth of physarum and there is no sufficient correlation between the presence of EDTA and Strontium Chloride on the inhibition of growth of physarum. As seen in figure 1, the average of the high calcium plates is higher, but it is seen that there is no significance between that of the high calcium and the control. These results can be due to the presence of carbohydrates present in the PDA plates. The presence of agar and plain carbohydrates can significantly reduce the motility of physarum in the presence of high concentration of sugars and carbohydrates when testing varying sugars effect on them motility of Physarum. This is said to be due to the type of sugar present as there may be sucrose present that produces an osmotic effect of the sugar [Knowles:1978]. Another explanation for the unexpected results would be that EDTA may not inhibit motility. When the effects of EDTA on the inhibition of Ca receptors was tested using the plasmodium of Physarum in another experiment, it was identified that there was no significant inhibition and it produced the same motility rate as the control. The EDTA did not alter the receptors as predicted but potentially modified mechanism from receiving the signal to the movement [Ishida:1979]. Although the data was unexpected, it provides further evidence of the effects of calcium and EDTA and Strontium Chloride through the use of a model organism to better understand humans without using them as subjects. 
+
+Literature Cited:
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+
+Berg, Jeremy M., John L. Tymoczko, and Lubert Stryer. 2002. “Signal-Transduction Pathways: An Introduction to Information Metabolism.” Biochemistry. 5th Edition. https://www.ncbi.nlm.nih.gov/books/NBK21205/.
+Ishida, N., K. Kurihara, and Y. Kobatake. 1979. “Selective Modification of Positive Chemotaxis in the True Slime Mold Physarum Polycephalum by Ethylenediaminetetraacetic Acid Treatment.” Biochimica Et Biophysica Acta 587 (1): 89–98.
+Knowles, David J. C., and Michael J. Carlile. 1978. “Growth and Migration of Plasmodia of the Myxomycete Physarum Polycephalum: The Effect of Carbohydrates, Including Agar.” Microbiology 108 (1): 9–15. https://doi.org/10.1099/00221287-108-1-9.
+Terry, Lauren C., Julie M. Stefanski, and Brittany A. Eisemann. 2009. “Effects of Calcium on Growth of Physarum Polycephalum.” Bios 80 (4): 159–63.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+12.41.40+AM.png&Size=122389&Type=image%2Fpng&F=F_2wSqLJhh2rytvDe
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-29+at+2.07.03+AM.png&Size=21979&Type=image%2Fpng&F=F_3FRMtS4IGBX1UiV
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-29+at+1.14.20+AM.png&Size=68197&Type=image%2Fpng&F=F_2EpnT9k412TDgy7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: ANOVA Value. A one-way ANOVA statistical test using an alpha value of 0.05 and illustrating the degrees of freedom, Fs value, and p-value.   Table 2: Tukey-Kramer Test. Identifying that the significance between the data sets. Figure 1: The average growth per type of group of potato dextrose agar (PDA) plate. The graph includes standard error bars to illustrate the amount of uncertainty. *************************************************************************
+
+
+

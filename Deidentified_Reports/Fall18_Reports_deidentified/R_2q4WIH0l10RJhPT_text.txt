@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-17 18:28:14
+Author of this lab report is: Std_bdfJkb9d
+ID: R_2q4WIH0l10RJhPT
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: Detergent’s ability to deter Spinacia oleracea chloroplasts from reducing electron acceptors
+
+Abstract:
+Plants harvest the sun’s energy from high energy photons through a process called photosynthesis. They produce chemical energy in the form of glucose which sustains much of animal life on earth. A critical component of photosynthesis is the transfer of high energy electrons from carrier to carrier. These electrons are ultimately responsible for forming the chemical bonds that go on to create the final products of this crucial metabolic process. One way to estimate photosynthetic activity is through a “Hill reaction” assay that uses changes in color of 2,6 dichlorophenol indophenol (DCIP) that manifest due to modified chemical conformations because of oxidation and reduction activity. The present study uses this assay to determine the effect of detergent, a common environmental pollutant, on the ability of the chloroplast to metabolize as normal. Our results indicated a significant difference in the reduction of DCIP as detected by a photo spectrometer measuring absorbance in the presence and absence of detergent. This implies that detergents have adverse effects on a cellular level for electron transport in chloroplasts and should be taken seriously from an environmental standpoint as detergents continue to pollute water systems as a byproduct of many industrial systems.
+
+Introduction:
+Spinach, Spinacia oleracea, is a plentiful and leafy plant excellent for study in the lab due to its easy accessibility and robust nature. Its leaves are rich in chloroplasts which allow the organism to undergo a process necessary for all life on earth, photosynthesis [Johnson: 2017]. Photosynthesis is the metabolic process by which plants and some protists and bacteria are able to strore energy from the sun using a series of biochemical reactions. Many of these biochemical reactions include the transfer of electrons from molecule to molecule. One such reaction is called the Hill reaction and proceeds as follows: 
+2H2O + 2 electron acceptors(arrow facing right) (Light/ Chloroplasts) 2 electron acceptorsH2 + O2.
+This reaction is difficult to characterize using conventional techniques for many electron acceptors, unfortunately. It is possible, however, to use 2,6 dichlorophenol indophenol (DCIP) as a detectable electron acceptor because of its ability to change from a dark blue compound in solution to a colorless solution. The present study hopes to use chemical conformational changes in DCIP, which can be used to monitor reduction rate, as a proxy for photosynthetic activity of the chloroplasts in S. oleracea and analyze the effects of a common environmental pollutant, washing detergent, on the chloroplasts ability to transfer electrons from molecule to molecule. We expect that the presence of a detergent around the chloroplasts will decrease the extent to which DCIP is reduced because detergents have the ability to disrupt many normal metabolic processes as they are absorbed into the various chloroplast membranes. Some of this is tied to the prevention of conformational changes among key enzymes, the decrease of proton transport, and the destruction of the photophosphorylation metabolic pathway caused by the absence of a light dependent pH gradient [Deamer, 1967]. We hope that through this experiment we will be able to determine detergent’s effects on the chloroplast specifically instead of the cell or plant as a whole.
+
+
+Materials and Methods:
+We isolated and concentrated S. oleracea chloroplasts by centrifuging about a gram of ground leaf samples in 20 mL of 100 mM phosphate (200 x G, 3 min). We then centrifuged the supernatant again (1000 x G, 10 min), and resuspended the resulting pellet in 20 mL of 100mM phosphate to act as the source of chloroplasts for the Hill reaction assay. 3 test tubes were assigned to either negative control, positive control, stock detergent concentration, or 1:1 dilution detergent concentration group. The negative control group received 6 mL water, 2 mL 130mM DCIP, and 2 mL 100mM phosphate. The positive control group received 6 mL water, 2 mL 130mM DCIP, 2 mL 100mM phosphate, and 100 uL of enriched chloroplast solution. The experimental groups each received 5 mL water, 2 mL 130mM DCIP, 2 mL 100mM phosphate, and 1 mL of Charlie’s soap laundry liquid at either stock or 1:1 dilution concentration with 100 uL of enriched chloroplast solution. The assay was initiated with the addition of the chloroplast solution, and absorbance was measured at 600 nm in the spectrophotometer at 0, 10, 20, and 30 minutes time points. While samples were not being measured, they were placed under direct light from standard desk lamp. We converted the absorbance values to percent change and used a two- sample t-test to compare control and experimental changes in absorbance as a proxy for reducing ability of the chloroplasts.
+
+Results:
+There was very clear and consistent color change in the positive control group. As time progressed, the blue color dissipated at what appeared to be a steady rate in all three trials for this group. On the contrary, the negative control without any chloroplasts and both experimental groups with detergent present in varying concentrations had the same color throughout the 30 minute experimentation period in all three trials for each group. These results yielded a conclusion that there was a significant difference in reduction rate of chloroplasts from S. oleracea in the presence and absence of detergent (t(6) = 15.256, p = 0.00000501); (t(6) = 11.816, p = 0.0000222) as shown in figure 1.
+
+Discussion:
+We have the statistical ability to reject the null hypothesis in favor of our predicted, alternate hypothesis. Our hypothesis can be accepted, and detergent does, in fact, decrease the ability of chloroplasts to pass electrons from donor to acceptor according to our study. This would suggest that at a cellular, physiological level, outside pollutants with amphipathic properties such as a detergent disrupts some or all parts of the photosynthetic system and the electron transfer mechanisms that make it possible.
+
+Jonavic et al.(2010) conducted a study that showed the effects of a detergent on photosynthesis of the plant as a whole instead of isolated chloroplasts. Their findings indicated a result similar to ours, but without as stark of a difference in basal and disrupted photosynthetic levels. Their results showed a decrease in photosynthetic activity of about 55% due to the presence of a detergent. Our results, on the other hand, showed decreases in reducing ability approaching 95% when detergent was present. There are two plausible reasons for this discrepancy. Perhaps the detergent we used in our experiments was simply more potent, and, therefore, had a much more marked effect on the photosynthetic processes. The other explanation involves the physiology of the chloroplast and plant cells. Perhaps, the isolated chloroplast was more susceptible to the detergent than whole plants because the whole plant was able to use cell walls and cell membranes to act as a barrier to the detergent. This protection would allow whole cells functioning as part of a complete organism to better maintain homeostatic regulation and metabolize normally. In the case of our study, all of the enzymes and organelle membranes essential to electron transport processes are completely exposed to the adverse effects of the detergent [Deamer, 1967]. All of these findings seem in line with theory about chloroplast function and our hypothesis.
+
+
+Literature Cited:
+1.	Deamer, David W., and Antony Crofts. “ACTION OF TRITON X-100 ON CHLOROPLAST MEMBRANES : Mechanisms of Structural and Functional Disruption.” The Journal of Cell Biology 33.2 (1967): 395–410. Print.
+2.	Johnson AD. Cell Struture. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 17.2 (updated August 2, 2017), online.
+3.	Jovanic, Branislav R., et al. “The Effect of Detergent as Polluting Agent on the Photosynthetic Activity and Chlorophyll Content in Bean Leaves.” Health, vol. 02, no. 05, 2010, pp. 395–399.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-17+at+6.26.13+PM.png&Size=87893&Type=image%2Fpng&F=F_2QzBdxw8EZBnBox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Comparison of the percent change in absorbance due to DCIP reduction in the various spinach chloroplast treatments over the course of ten to thirty minutes. Bars represent percent change in absorbance +/- on standard deviation. Stock Concentration: (t(6) = 15.256, p = 0.00000501) 1:1 dilution: (t(6) = 11.816, p = 0.0000222).*************************************************************************
+
+
+

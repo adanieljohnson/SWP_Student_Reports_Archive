@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-22 22:08:09
+Author of this lab report is: Std_y3GPJu6m
+ID: R_xFKLsEDhuKsxltf
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The effect of pH on electron transport in chloroplasts
+
+Abstract:
+The goal of this study was to see if there was a relationship between pH levels and the rate of electron transport in spinach leaves (Spinacia oleracea) during the light dependent reactions in photosynthesis.  Since, it is difficult to directly measure ATP production, or the rate of photosynthesis, we measured the rate at which DCIP (2,6-dichlorophenol indophenol) became reduced in the presence of different pH buffers (pH 5, 7, and 10).  We accomplished this by isolating chloroplasts from spinach leaves and enriching them in different pH buffers.  These enriched chloroplasts had DCIP added to them and their absorbances were measured by a spectrophotometer for a duration of 30 minutes.  At the end of the study it was found that there was a significant difference between the pH 5 and pH 7 groups (p &lt; 0.05) while there was not a significant difference between the pH 10 and pH 7 group (p &gt; 0.05).  All the groups had an increase of absorbance, which indicated that the DCIP did not become reduced throughout the 30 minutes of the assay.  Further testing is needed to conclude if there is a correlation between pH and the rate of electron transport during photosynthesis.
+
+Introduction:
+The ability to acquire energy is universal throughout all living organisms.  For heterotrophs, they accomplish this by acquiring energy from other organisms.  Autotrophs on the other hand produces their own energy from the raw materials that surround them and for plants, this process is called photosynthesis.  Photosynthetic plants use light energy from the sun and the carbon dioxide in the atmosphere to produce glucose (C6H12O6) [Foyer: 2018].  The first part of photosynthesis, the light dependent reactions, relies on various oxidation and reduction reactions (commonly called redox reactions).  Chloroplasts absorb photons in chlorophyll molecules and this reduces NADP+ (Nicotinamide adenine dinucleotide phosphate) an electron carrier into NADPH [Johnson: 2016].  The NADPH molecules then donates these high energy electrons to the electron transport chain in the thylakoid membrane of the chloroplast.  These high energy electrons are then passed through various photosystems, which creates an electrochemical gradient.  This gradient then drives ATP (Adenosine triphosphate) production through the use of the ATP synthase [Johnson: 2016].  The products of the light dependent reactions are then used in the light independent reactions to synthesize glucose.
+	The rate of the transfer of electrons throughout the electron transport chain is variable because of external and varying environmental conditions.  For example, the acidification of the thylakoid lumen leads to a slower rate of oxidation of certain cytochrome complexes within the chloroplasts’ electron transport chain [Kramer: 1999].  To determine the rate of electron transport DCIP (2,6-dichlorophenol indophenol) can be used.  DCIP captures electrons from the electron transport chain and becomes reduced.  When it accepts electrons, DCIP changes color from blue to colorless [Johnson: 2016].  By measuring the change of color, or absorbance at 600nm, it is possible to determine the rate of electron transport within chloroplasts during the light dependent reactions of photosynthesis.  Within this experiment, chloroplast from the leaves of spinach (Spinacia oleracea) was extracted and then subjected to different pH levels to determine the effect of pH on the rate of electron transport.  Our hypothesis was that the there will be a higher rate of electron transport within the test group that had a neutral pH over the test groups that had a more acidic or more basic pH buffers.
+
+
+Materials and Methods:
+Before isolating the chloroplasts, the mortal and pestle, medium sized beaker and centrifuge tubes were placed into ice to cool.  To isolate the chloroplasts, large central veins of 4 medium sized spinach leaves removed and the remaining leaf pieces were rinsed with tap water.  The spinach leaves were then added to the cooled mortar and pestle.  10mL of grinding buffer (400mM sucrose in Tricine buffer, pH 8.0) was added to the mortar and pestle.  The spinach was grinded until it was a thick paste.  An additional 10mL of grinding buffer was added and then mixed with the original paste.  This was then strained through a three-layer cheesecloth into a chilled beaker.  
+	200µL of the filtered liquid in the chilled beaker was transferred into a microtubule labeled “Sample A” and it was stored on ice.  The remaining liquid was then placed into a 50mL centrifuge tube labeled “A” and centrifuged for 3 minutes at 1200rpm at 4°C.  The supernatant was then poured out of the tube labeled “A” into another chilled 50mL centrifuge tube labeled “B”.  200µL of the liquid from “B” was transferred into a microtube labeled “Sample B”.  The centrifuge labeled “B” was then centrifuged at 2800rpm for 10 minutes at 4°C.
+	The liquid from the centrifuged “B” was aliquoted into 3, 5mL volumes into 3 chilled conical tubes.  Each conical tube received 5mL of one pH buffer.  The three pH buffers were pH 5, 7, and 10.  All three of these chilled conical were then centrifuged at 2800 rpm for 10 minutes at 4°C.  The pellets were resuspended in 3mL grinding buffer (400mM sucrose in Tricine buffer, pH 8.0).  After this process there were three conical tubes with isolated chloroplasts, all suspended in three different pH buffers (pH 5, pH 7, and pH 10).
+	After isolating the chloroplasts, the assay to detect absorbance was started.  There was a total of 10 test tubes.  First, the blank test tube was made.  This included 8mL of water, no DCIP, and 2 mL of reaction buffer (100mM phosphate, pH 6.5).  Then the 9 other test tubes were created.  All of the 9 other test tubes had 6 mL of water and 2 mL of 130 mM DCIP.  We started the assay by adding 100µL of isolated chloroplasts into every test tube except the blank test tube.  So, there were 3 test tubes with pH 5 chloroplasts, 3 test tubes with pH 7 chloroplasts and 3 test tubes with pH 10 chloroplasts.  All of the test tubes were mixed after adding the chloroplasts.  All of the mixtures were then transferred to spectrophotometer cuvettes.  The spectrophotometer was then blanked at 600nm by using the blank test tube.  All of the cuvettes were then placed into the spectrophotometer to measure their absorbances for a time 0 reading.  The cuvettes were placed underneath a lamp for 10 minutes.  After the 10 minutes, the spectrophotometer was blanked and the absorbances for all the cuvettes were recorded.  This process was then repeated after another 10 minutes.  The total amount of time that passed was 30 minutes.
+	The percent change of the absorbance was then calculated by using this formula:
+ % change = [(Absorbance at time zero – Absorbance at time ‘N’ )/ Absorbance at time zero]  x 100%.  
+The percent change in absorbance was then plotted on an XY scatter plot against time.  A two tailed two sample t-test was used to obtain p-values.
+
+
+Results:
+All of the test groups including the control group had an increase of absorbance.  The pH 5 test group had the greatest percent change, while the pH 10 group had the least amount of change.  The average percent change of absorbance at 30 minutes was -4.2 ± 1.6 % for pH 5, -1.7 ± 0.67% for pH 7 and -1.5 ± 0.64% for pH 10. There was a significant difference (p = 0.01) for pH 5 and not a significant difference for pH 10 (p = 0.38).  
+
+Discussion:
+From the results of the paired two sample t-test, it was determined that there was a significant difference between pH 5 and pH 7, but not a significant difference between pH 7 and pH 10.  Even though there was a significant difference in one experimental group, there is inconsistency within the data.  For example, both of the experimental groups and also the control saw an increase of absorbance.  More specifically the pH 5 group had the greatest increase of absorbance.  This would indicate that the solution that was placed into the spectrophotometer was becoming darker blue, which is the opposite of what was expected.  DCIP becomes clear once it becomes reduced, which would signal a lower absorbance.  Since all three groups saw an increase of absorbance it can be stated that the DCIP did not become reduced so there was little to no electron transport activity.  Also, according to Figure 1, the pH 5 and pH 7 groups had a very similar trajectory because their absorbances had a very similar increase of absorbance.  The pH 7 group behaved in the opposite of what was expected.  Under a neutral pH, it was believed that there would have been a great decrease of absorbance or a greater rate of electron transport.  
+	There is strong evidence that shows that a variable pH has an affect on chloroplast activity.  For example, the pH of the lumen of the chloroplast is set at a homeostatic checkpoint.  It was found that lumen pH is regulated so that it stays within the range of 5.8 to 6.5 [Kramer: 199].  In another experiment, leaves from spinach were also taken, and their chloroplasts were isolated, and the rate of electron transport was determined by using DCIP as well [Gould: 1973].  This experiment came to the conclusion that electron transport and phosphorylation had the same pH optimum at pH 8.0-8.5 [Chain: 1973].  There was also a decrease of electron transport activity at around pH 6 [Chain: 1973].
+	These past experiments show that there is an inconsistency with the data that was collected, because there was no significant difference between one pH buffer and a significant difference between another.  In addition to this, our control group did not produce data that was expected.  This shows that there was an error during the study.  I suspect that there was an error in the preparation of the chloroplasts whether it be a resuspension error or a wrong volume of reagent that was added.  From the experimental data collected and the previous literature on the subject, I can neither reject nor accept the stated hypothesis because there needs to be more testing.  
+	For future studies, I would suggest repeating the stated procedure to see if this method produces reproducible data.  If it does indeed lead to the same conclusions, a lack of electron transport activity, I would suggest a modification of the method.  Perhaps, the addition of the pH buffers should be included after the chloroplasts were isolated and in suspension, unlike in our method where we created the chloroplast solutions with the pH buffers.  I would also suggest using another electron acceptor other than DCIP.  There is a possibility that DCIP is incompatible with the stated method and the various pH buffers.  Overall, there needs to be more work on this study to prove or disapprove the hypothesis that pH affects electron transport activity within the chloroplasts of spinach leaves.  If there is indeed a correlation, that is valuable knowledge.  This would further prove how devastating the effects pollution would have on the Earth.  Many pollutants get into the atmosphere and into the environments of many ecosystems and these pollutants have a potential to change pH levels.  By changing these pH levels, photosynthetic organisms could see a reduction in their photosynthetic capabilities.  This would not only harm the plants but also every living organism since photosynthesis is a necessary process that keeps ecosystems in balance.
+
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+2.	Kramer DM, Colette AS, Jefferey CA. 1999. How acidic is the lumen?.  Photosynthetic Research. 60: 151-163
+3.	Foyer HC. 2018.  Reactive oxygen species, oxidative signaling and the regulation of photosynthesis. Environ Exp Bot.154: 134–142.
+4.	Chain JMG, Iza S. 1973. Studies on the energy coupling sites of photophoshorylation I. separation of site I and site II by partial reactions of the chloroplast electron transport chain. Biochimica et Biophysica Acta (BBA). 314: 211-223 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+1.png&Size=35441&Type=image%2Fpng&F=F_2BntU0QVBc8IsEu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The percent change of absorbance using DCIP as an electron acceptor.*************************************************************************
+
+
+

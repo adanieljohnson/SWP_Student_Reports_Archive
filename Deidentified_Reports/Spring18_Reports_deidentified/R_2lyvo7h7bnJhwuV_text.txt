@@ -1,0 +1,75 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-22 19:08:28
+Author of this lab report is: Std_kENLmPiY
+ID: R_2lyvo7h7bnJhwuV
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Effects of Martin's IGR Consumption on Body Weight in Manduca sexta Larva 
+
+Abstract:
+	The tobacco hornworm Manduca sexta, like all Manduca, has 5 larval instars, with a developmental commitment pulse to metamorphosis occurring in the early stages of the 5th and final instar. In this experiment, we hypothesize that treating M. sexta 4th instar caterpillars with a Juvenile Hormone-mimicking insect growth regulator (Martin’s IGR) will postpone or entirely cancel metamorphosis into the 5th larval stage, causing the treated specimens to gain extra weight instead. The procedure for this experiment involved dripping a diluted solution of Martin’s IGR onto the 10 grams of food that the treatment group caterpillars consumed every day (the control group did not receive Martin’s IGR with their food), and collecting the weights of caterpillars in both experimental groups on days 1, 3, 5 and 7 of the experiment. The results of the experiment produced consistently higher average weights for the caterpillars in the treatment group, yet these results did not allow our group to reject the null hypothesis for this experiment. Our experiment demonstrates the relationship between a hormonal imbalance of Juvenile Hormone and the side effects of altered metamorphic timing (specifically through weight gain). 
+
+
+Introduction:
+The life cycle of any organism is a complex and ever-changing process that involves countless chemical and physical modifications. In this experiment, the main focus will be on a specific hormone found in Manduca sexta 4th instar caterpillars (tobacco hornworms), which go through a holometabolous life-cycle including the egg stage, the larva stage, the pupa stage, and lastly, the adult stage. The average complete Manduca sexta life-cycle takes 19-23 days (Johnson, 2016). The hormone of interest in this experiment, Juvenile Hormone (JH), is made up of a long chain of organic molecules and is produced mainly by the Corpora Allata glands behind the brain. During development, JH regulates the type of molt, JH concentrations staying elevated until the 4th larval instar, then dropping during the 5th larval instar. Towards the end of the 4th larval instar, low JH, hand in hand with increased Ecdysterone hormone levels, produce a “commitment pulse” that signals the initiation of metamorphosis. This specific experimental procedure will utilize the use of Martin’s IGR, a synthetic insect growth regulator, due to the fact that it mimics JH function (insect growth regulators may be administered to the Manduca sexta larvae to prevent them from advancing through the larval stages of its life cycle). We hypothesize that the group with Martin’s IGR incorporated into their diets will gain more weight over the course of 7 days, as opposed to the specimens in the control group receiving unadulterated food. This increased weight gain should occur due to the fact that the Manduca sexta in the treatment group will become stuck in their status quo phase of their lifecycle, unable to molt due to consistently high levels of JH. 
+
+Materials and Methods:
+	Eight caterpillars were collected and divided into two groups of four. Four caterpillars were assigned to the control group, while the remaining four were assigned to the treatment group. Both groups were housed in perforated plastic containers, which were each separated into two compartments with paper flashcards. Apart for the brief period of time each day that the caterpillars were either being fed or weighed, all the plastic housing containers were kept in an incubator maintaining a constant temperature of 25 °C. The control group was fed 10g of Great Lakes Manduca brand hornworm food per worm every day (with no additives), while the treatment group was fed the same brand of food, and the same amount per day, per worm, but soaked in 40 μL of Martin’s IGR (through the use of a pipette). The weights of caterpillars were recorded by placing all specimens on a balance on days 1, 3, 5 and 7 of the experiment. After all the data was collected at the conclusion of the experiment, a two-sample T-test was utilized to test for the presence of a statistically significant difference between average group weight and type of diet (IGR vs. no IGR), or if their difference is due to random chance alone. 
+
+
+Results:
+The bar graph above (Figure 1) shows that the treatment group did gain more weight over the course of 7 days in comparison to the control group. When the data from Day 7, the final day, was tested using a two sample T-test with a 95% confidence interval, the results were statistically insignificant. The resulting p-value of the test was 0.278. 
+
+On the third day of the experiment, a noticeable difference in color could be discerned between the control and treatment group specimens: the control groups’ color was a more vivid, brighter turquoise, while the treatment groups’ color was duller. 
+
+After 2 days of experimentation, the treatment group caterpillars became less active and less responsive to touch than the control group caterpillars. This was consistently observed during the weighing process, which involved peeling off the Manduca sexta from the flashcard and placing them on the scale. 
+
+Notable observations from the final results of the experiment include the presence of an outlier in the control group. This particular caterpillar weighed in at 1.10 grams on day 1, but lost weight throughout the experiment, weighing 0.77g on day 7. 
+
+
+Discussion:
+	Our initial hypothesis included the treatment group gaining more weight over the course of 7 days, in comparison to the control group. While the results of the experiment did produce consistently higher average weights for the caterpillars in the treatment group, these results do not allow our group to reject the null hypothesis for this experiment. A p-value of 0.278 (higher than 0.05) means that our data showed no statistically significant differences in weight gain between the groups. A biological explanation for what caused the treatment group to still gain more weight than the control group could be the direct relationship between JH levels and the relative contributions of nutrient- and body size-sensing pathways to metamorphic timing (Hatem et al., 2015). Procedural inconsistencies for the experiment included our group never settling on an exact volume of Martin’s IGR to be pipetted onto the treatment group’s food, 2 members adding 40 μL, the other two adding 30 μL each day. Another flaw in the procedure was the fact that some caterpillars in the treatment group ate a hole in the paper flashcard separators inside their plastic containers. This means that some caterpillars had access to more food than others, further increasing the variability of how much Martin’s IGR each treatment group specimen was actually consuming. A possible reason for the higher standard deviation value (2.80) for the control group than that of the treatment group (0.37), is that one caterpillar in the control group lost 0.33 grams of weight from day 1 to day 7. Weighing in at 0.77 grams on day 7, this specimen was 4.67 grams below the average weight for its group, producing a higher standard deviation value for its groups’ weights. For future experimentation, our group should focus on better communication in regard to specificities in procedural execution to reduce human error. If further testing of our hypothesis were plausible, using 5th instar larva Manduca sexta would most likely show more significant weight differences in response to JH-mimicking IGR treatment due to more exaggerated morphological differences expected from the control group hormonally allowed to molt into the pupal stage. 
+
+
+Literature Cited:
+1. Hatem N, Wang Z, Nave K, Koyama T, Suzuki Y. The Role of Juvenile Hormone and insulin/TOR Signaling in the Growth of Manduca Sexta. BMC Biology. 2015; 13: 44. 
+
+2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. 2016; Vers. 16.1:15–16.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+7.02.42+PM.png&Size=38412&Type=image%2Fpng&F=F_cvkhAOXtzsTnpMF
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1+.png&Size=34529&Type=image%2Fpng&F=F_0AhLsb9uxvRg6up
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+2.png&Size=23218&Type=image%2Fpng&F=F_0JPbZrHWJ5i06IB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Manduca sexta Control and Treatment Group Weight Averages 
+
+Figure 1: Average Manduca sexta Group Weight vs. Time
+
+Table 2: Day 7 Final Measurements 
+
+
+
+*************************************************************************

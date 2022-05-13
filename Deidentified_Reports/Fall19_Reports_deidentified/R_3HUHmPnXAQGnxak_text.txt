@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-13 12:14:03
+Author of this lab report is: Std_dJt6MfCE
+ID: R_3HUHmPnXAQGnxak
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Disruptive Effects of Juvenile Hormone on the Growth of the Manduca Sexta
+
+Abstract:
+An abstract is a summary of your work that includes parts of each section of the paper. Even though it is a at the front of a report, the abstract should be the last part of the report that you write. You do not know what you need to summarize until the rest of the report has been written. In about 200 words or less, it should summarize the study's main objective(s), give the scientific name of the organism you studied, and state your hypothesis. It also will summarize the study's background, the methods, major results, and conclusions. You should not include references in your abstract.
+
+Introduction:
+Hormones are chemical messengers that act as regulatory agents in organisms. The Manduca sexta (Tobacco Hornworm) in the Order Lepidoptera has a specific growth cycle controlled by a signaling system of hormones [Johnson: 2019]. This growth cycle is regulated by Insect Growth Regulators (IGR) that mimic and increase/inhibit the effects of insect hormones [Tunaz: 2004]. In the Manduca sexta caterpillar, 3 main hormones regulate their growth and development. Prothoracicotropic or Brain Hormone (PTTH or BH) controls the prothoracic gland’s release ecdysterone. Ecdysterone (20 E) affects the timing of molting of the insect. Finally, Juvenile Hormone (JH) regulates the type of molt. Manduca have 5 larval instars separated by molts and the timing and type of these molts are​ controlled by these hormones. A particularly important period in the life cycle of the Manduca is the commitment pulse. At this point, there is a small rise in JH and a larger rise in ecdysterone. This commitment pulse signals that the caterpillar is prepared to begin its transformation into an adult moth [Johnson: 2019].
+
+Knowledge of the impact of hormones on the growth cycle of insects can be used as a way to control the amount of time the insect spends in a particular stage of development. Because the Manduca sexta is a pest as an adult and causes detriment to the ecosystem, we can use knowledge of hormones to delay the insect’s progression into adulthood [Johnson: 2019]. This delay in the insect’s development is beneficial because we can prevent the insect from reaching adulthood and therefore decrease the negative impact that insect has on the ecosystem. If we exposed the Manduca sexta to increased levels of Juvenile Hormone, then the caterpillar’s development will be disrupted, the larval stage prolonged, and the insect will weigh less.
+
+Materials and Methods:
+The caterpillars were placed in two biodegradable plastic containers each with four compartments. One container was for the control group and one container was for the experimental group and each caterpillar was placed in their own compartment. Air holes were placed in the containers and the containers were stored in an incubator under controlled temperature and amount of light. The control group consisted of four Manduca sexta larvae that were each given ten grams of food with six drops of deionized water. The experimental group consisted of four Manduca sexta larvae that were each given ten grams of food with six drops of Methoprene (Precor 1:1250). The caterpillars were massed each day. The food was changed when it appeared to be dried up or completely consumed and the caterpillar waste was cleaned each day. Observations and data were collected for 14 days.  We conducted a two-sample, one-tailed​ t-test with a significance level of 0.05 to determine whether the experimental group has a significant decrease in mass compared to the control group.  
+
+Results:
+The mean mass of the experimental group was not statistically significantly different than that of the control group (t-stat= 0.913, df= 6, P= 0.198). However, there is a noticeable dissimilarity between the mean weight differences (last day mass- first day mass) of the experimental group versus the control group (Figure 1). The mean of the control group was 12.5 ± 1.86 grams and the mean of the experimental group was 9.9 ± 5.34 grams. The differences in mass over time can be seen in Figures 2 and 3. In these figures, there is a smaller rate of growth in the experimental group when compared to the control group.  
+
+Discussion:
+We fail to support our hypothesis that the growth of the Manduca sexta given Juvenile Hormone will be disrupted, the larval stage prolonged, and the insect weighs less than the control group. A possible explanation for this lack of significant difference in mass between the experimental and control groups was the small amount of Methoprene placed in the caterpillar’s food. The lethal dose of juvenile hormone for Manduca sexta is about 12 drops of Methoprene. An increased dose of the hormone (greater than the experimental conditions of 6 drops) may have shown statistically significant results. We can conclude there was not enough Juvenile Hormone to delay the pupation of the insect.
+
+Knowledge of the impact of hormones (IGRs) on the growth cycle of insects can be used as a way to control the amount of time the insect spends in a particular stage of development. This idea was discovered accidentally​ when a chemical that mimics juvenile hormone (juvabione) was used in paper towels. These towels were used the lab that was performing experiments on the Pyrrhocoris apterus L. Due to their use, the chemicals in the towels caused the insects to have low hatch rates and did not reach the adult stage of growth [Tasei: 2001]. 
+
+These accidental results have led to the use of Juvenile Hormones and other insect growth regulators as a non-toxic form of pest control. For example, juvenile hormones used in the control of mosquitoes have been used to precisely control the stages of development of the mosquito population. The use of IGRs on mosquitoes does not cause immediate death in the organism, which is favorable because mosquito larvae are a main food resource for other organisms such as fish. IGRs are advantageous because they can selectively control the growth cycle of organisms to reduce the impact on the environment [Tunaz: 2004].
+
+The conclusions reached in previous studies about IGRs as a pest control mechanism can be applied to Manduca sexta. Where mosquitoes used in previous studies cause the greatest detriment as larvae, Manduca sexta cause the greatest detriment to the environment as adults, therefore, increased juvenile hormone levels will beneficially prolong their larval stage [Johnson: 2019]. A study done in tobacco plants showed increased production of alkaloids by the plant when it was damaged by Manduca sexta feeding. The production of the chemical by this plant shows its need to repel the caterpillars due to its detrimental effects [Baldwin: 1988]. The use of Juvenile Hormone in Manduca sexta can keep the insect in its larval stage to reduce the harmful effects on plant species. Experiments with IGRs can be used to determine a strategy for repelling insects that is conscious of the environment and ecosystem. 
+
+
+Literature Cited:
+Baldwin IT, 1988. Short- term damage- induced increases in tobacco alkaloids protect plants. Oecologia (Berlin), 75, pp. 367-370.
+Johnson AD, Mallison S. 2016. Cell Structure. Biological Principals Laboratory Manuel. Dept. Biology, Wake Forest University, Winston- Salem, NC. Vers. 19.2 (updated July 8, 2019), pp. 5-15
+Tasei JN, 2001. 3. Apidologie, Springer Verlag, 32,  pp.527-545.
+Tunaz H, Uygun N. 2004. Insect Growth Regulators for Insect Pest Control. Turk. J. Agric. For. 28: 377-387.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+1.jpg&Size=6982&Type=image%2Fjpeg&F=F_Ucl4KEJUQ7x9QI1
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+2.jpg&Size=10091&Type=image%2Fjpeg&F=F_1HjGHvmKZnB40rJ
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+3.jpg&Size=8386&Type=image%2Fjpeg&F=F_1nZwqnoMiYinU2w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mean weight differences between experimental and control groups of Manduca sexta caterpillars. The mean of the control group was 12.5 ± 1.86 grams and the mean of the experimental group was 9.9 ± 5.34 grams. Standard deviation is shown via error bars. 
+Figure 2: The rate of growth of each control caterpillar over a 14-day period.
+Figure 3: The rate of growth of each experimental caterpillar over a 14-day period.*************************************************************************
+
+
+

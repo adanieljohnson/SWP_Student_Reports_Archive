@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-09-26 11:51:17
+Author of this lab report is: Std_nzrfiAUT
+ID: R_1jqcnKjbzZll1ta
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effect of Increase in Juvenile hormone by feeding on weight of Manduca Sexta Larvae
+
+Abstract:
+This experiment analyzes the effect of increasing juvenile hormone levels on the weight of Manduca sexta larvae. Four larvae were fed 4 drops of a JH mimic, to be compared against 4 in a control group. After two weeks of observation, an average of the change in weight from day 1 to day 14 was computed, as well as a two-tailed p-value using a two-sample t-test. We hypothesized that there would be a significant difference in weight between the control and experimental larvae; however, this hypothesis was not supported. It was concluded, based on observational evidence collected, that further experimentation should be conducted, increasing the amount of JH mimic and keeping all other variables of the experiment constant. 
+
+Introduction:
+The Manduca sexta is a widely used species that has an average lifecycle of 39 to 50 days, going through 5 larval instar phases [Johnson: 2018]. Juvenile hormone functions alongside ecdysone (20E) to control larval instar growth and pupation of Manduca sexta larvae. During larval stages of the Manduca sexta, Juvenile hormone, produced in the corpus allata of the larvae, has the primary function of regulating the “type of molting,” whereas 20E controls the “timing of molting” [Johnson: 2018]. The juvenile hormone “inhibits the secretion of the brain's prothoracicotropic hormone (PTTH)” until a target weight has been reached, triggering the corpus allata to cease production of the Juvenile hormone [Nijhout:1974]. This inhibition also affects levels of 20E, as PTTH “regulates the release of ecdysone” [Johnson: 2018]. JH levels remain high until larval eclosion, or molting, of the 5th instar larva, then decrease in JH and subsequent increase in 20E induces a “commitment pulse”, which signals that the larva is ready to pupate once it is “large enough and has stored enough nutrients” [Johnson: 2018]. The goal of this experiment is to focus on change in the weight of the larvae with increased exposure to Juvenile hormone. Specifically, we hypothesize that if Manduca sexta larvae are fed food with 4 drops of a JH mimic, then there will be change in larvae weight between the control and experimental groups.
+
+
+
+Materials and Methods:
+Eight Manduca sexta larvae were extracted from a common holding container and transferred into two- four celled containers, punctured to allow air flow. The larvae were weighed and divided into two groups of 4, one group to be control and the other to receive the treatment. Each caterpillar in the control group were given 10 grams of pre-prepared caterpillar food with 4 drops of water to maintain consistency. The caterpillar in the experimental group also received 10 grams of food each, but with 4 drops of the JH mimic instead of water. Both containers were then transferred to an incubator. Initially, the caterpillars were to be monitored and weighed daily, holding cells cleaned of waste. However, external circumstances shortened monitoring days to 11 days. The caterpillars were provided 20 grams of food each for the days they were not monitored. All other days, each caterpillar in control and experimental groups were weighed, described, and pictures were taken of the caterpillars to monitor progress visually. After 14 days, caterpillars, along with holding cells, were disposed according to TA instruction. A two-sample T-test was computed using an average of the change in weight from Day 1 to Day 14 of the Control and experimental groups, and was used to determine the validity of results and hypothesis. 
+
+Results:
+Over the two weeks, it was observed that all the caterpillar in the control group pupated, compared to only two in the experimental group.  The two-sample T-test showed a general increase of average change in weight from control to experimental group was observed: the mean change in weight calculated for the control group was 0.915g and 1.974g for the experimental group, with a standard deviation of 2.31 and 4.52 respectively (Table 1).  The mean change in weight from Day 1 to Day 14 for the experimental group was higher than the mean change in weight of the control group (t-stat = 0.417, df = 6, P = 0.69) (Table1). The average change in weight from day 1 to day 14 of control and experimental groups is presented in Figure 1. A two-tailed p value of 0.691 was obtained.  To further analyze the day to day weight changes of the caterpillars, a graph of weight of Control caterpillar 2 and experimental caterpillar 1 show an increase in caterpillar weight until pupation, then a steady decrease in weight (Fig. 2). 
+
+Discussion:
+Based on the statistically insignificant p-value, it can be concluded that the hypothesis is not supported. That is, we cannot say that there is a significant difference in Manduca sexta larvae weight between feeding 4 drops of JH mimic and no JH mimic.  There is evidence through past research proving that a specific weight, “approximately 5g” is needed to induce pupation, which requires a decrease in JH, which is “cleared from the haemolymph in about 24 hours” [Nijhout:1974]. It is interesting that even in the experimental group, two pupated, and the remaining two lost weight and stopped moving. All caterpillars lost weight by the end of the experiment. It is reasonable to assert that the two caterpillars that pupated reached the specific weight necessary to pupate and signaling to induce pupation had already began to take effect before being fed the JH mimic. As to the caterpillars losing weight regardless of being fed the JH mimic, it may mean that the amount of JH mimic fed to the experimental group was not enough to affect the caterpillars. A possible modification for future experimentation of this hypothesis would be increasing the amount of JH mimic fed to the experimental group and beginning the feeding process during earlier larval instars of the caterpillar. An addition could be to determine what the average weight necessary for pupation is affected if the JH mimic is introduced in earlier larval instars. These modifications, in conjunction with the results obtained in this experiment, contribute to further analyzing the role of Juvenile hormone in the life cycle of the Manduca sexta, specifically its regulation of weight and the consequent impact of weight on its function.
+
+Literature Cited:
+1. Johnson AD. Endocrine control of insect life cycle. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated May 1, 2016), pp. 7–12. 2. Nijhout FH, Williams CM. Control of moulting and metamorphosis in the Tobacco Hornworm Manduca Sexta (L.): cessation of Juvenile hormone as a trigger for pupation. Journal of Experimental Biology. Accessed September 25, 2018.      &lt;http://jeb.biologists.org/content/61/2/493.article-info&gt;.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Reprot+1+fig1.png&Size=246931&Type=image%2Fpng&F=F_9pj5N9FrARYrUUF
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio+report+fig2.png&Size=342819&Type=image%2Fpng&F=F_2fJ5fVaGIoElq7E
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio+report+tab1.png&Size=177599&Type=image%2Fpng&F=F_3lPpN0Jd7IpLHHb
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio+report+tab2.png&Size=118631&Type=image%2Fpng&F=F_RzzVOl4CVKlscWR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Computed results of two-sample t-test. Shows mean change in weight of caterpillars from day1 to day 14, df, p value, sd.
+Figure 1: Average change in weight from day 1- 14 of caterpillars. Control group (n=4) fed no JH mimic vs. Experimental group (n=4) fed 4 drops JH mimic. Graph presented with error bars based on data standard deviation. Two-sample t-test results showed no significant difference between control and experimental groups (p= 0.69) 
+Figure 2: Weight of Caterpillars 2 from Control group(n=4) vs. experimental group(n=4) over 11 of 14 days
+Table 2: Average weight of caterpillars from day 1 to day 14 for control(n=4) and experimental groups(n=4).
+*************************************************************************
+
+
+

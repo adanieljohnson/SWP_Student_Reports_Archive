@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-22 20:03:41
+Author of this lab report is: Std_GbCthm66
+ID: R_1OZZ3bmgKVguu20
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: The effects of red, blue, and green wavelengths on Photosynthesis measured by DCIP reduction in enriched spinach chloroplasts
+
+Abstract:
+Plants use photosynthesis to convert light waves to useable energy. During this process electrons are passed through the electron transport chain resulting in a series of redox reactions. Using the Hill reaction and DCIP as the electron carrier, we measured the effects of various wavelengths of light (red, blue, and green) on photosynthesis in enriched spinach chloroplasts by measuring the reduction of DCIP in each chloroplast sample. We expected the blue light wavelength to reduce the most DCIP, therefore having the highest rate of photosynthesis however, our results did not support this claim and our research was not consistent with previous studies conducted on the topic. The green light wavelength had the highest DCIP reduction rate, followed by the red light, and the blue light and fluorescent control had very similar low DCIP reduction rates. 
+
+
+Introduction:
+All living organisms require energy to drive everyday processing and functioning. Plants, along with certain kinds of protists and bacteria, use photosynthesis to produce energy in the form of ATP.  Photosynthesis requires a source of light, the presence of chloroplasts in the leaves of the plant, carbon dioxide, and water. During photosynthesis light dependent reactions (Photosystem II and Photosystem I) drive electrons to be carried through the electron transport chain by a series of electron carriers like NADH and FADH2. These electron carriers go through a series of redox reactions that leads to the formation of a proton gradient which is used to drive ATP synthesis. The process of electron transfer in the presence of chloroplasts and light is called the Hill Reaction which can be used to measure ATP production and reduction of the electron acceptor. In this experiment, we were interested in how different wave lengths of light—red, green, and blue— would affect the redox process in spinach leaves in comparison to a fluorescent control light. Similar previous research conducted has shown that blue light increases stomata opening and promotes photosynthesis by increasing guard cell swelling and as a result, opening the stomata [Zeiger:1997]. A second study reported a blue light specific response which induces rapid stomata opening and increased rate of photosynthesis [Wang: 2011]. We will use 2,6-dichlorophenol indophenol (DCIP) as an alternative electron receptor because its redox reaction can be measured more easily than similar electron receptors. We will use enriched chloroplasts from spinach leaves because spinach is a dark, leafy green indicating large chloroplasts. We hypothesize that if enriched spinach chloroplasts are placed under various wavelengths of light for a time period of 30 minutes, then more photosynthesis (increased reduction of DCIP) will occur in the presence of blue light. 
+
+
+Materials and Methods:
+Exercise #1 → Extracting the Chloroplast from Spinach Leaves by Differential Centrifugation
+We used a mortar and pestle along with an initial 10 mL of grinding buffer to grind 12 medium-sized spinach leaves excluding the veins. The grinding buffer consisted of 400mM sucrose in Tricine buffer, the pH was 8.0. We ground the leaves a second time after adding 10 mL more grinding buffer. We ground the spinach leaves into a paste with no chunks. Once ground, we drained the green liquid through three layers of a cheesecloth. From here, we transferred 200ul of the liquid into a microtube labeled “sample A”. We put the remaining liquid into a centrifuge tube and spun it at 200 x G for 3 minutes at 4 degrees C. After centrifuged we transferred the liquid from centrifuge tube A to centrifuge tube B but we did not transfer the sold debris at the bottom of the tube. We removed 200ul of sample B and put it in a microtube. Then we centrifuged sample B at 1000 x G for 10 minutes at 4 degrees C. We poured the supernatant into a clean tube marked C again leaving the debris at the bottom. Lastly, we took a 200ul sample of tube C and placed it in a microtube. The liquid from Tube C are the final enriched chloroplast to be used in the next exercise. 
+
+Exercise #2 → Determining Photosynthetic Reduction Activity with Hill Reaction 
+First we labeled 13 test tubes and set the spectrophotometer to read at 600nm. We then prepared 3 replications of the following reaction mixes: *We only made one tube of the blank. 
+Blank: 8 mL water, no DCIP, 2 mL reaction buffer (100mM phosphate pH 6.5); Fluorescent light and spinach chloroplast: 6 mL water, 2 mL 130 mM DCIP, 2 mL reaction buffer (100mM phosphate pH 6.5); Red light and spinach chloroplast: 6mL water, 2 mL 130mM DCIP, 2 mL reaction buffer (100mM phosphate pH 6.5); Blue light and spinach chloroplast: 6mL water, 2 mL 130mM DCIP, 2 mL reaction buffer (100mM phosphate pH 6.5); Green light and spinach chloroplast: 6mL water, 2 mL 130mM DCIP, 2 mL reaction buffer (100mM phosphate pH 6.5)
+To begin the assay, we added 100ul of the enriched chloroplasts from exercise 1 to all the tubes 0-13. We mixed each tube as soon as possible after adding the chloroplasts. Then we transferred the liquid mixtures to corresponding cuvettes. We immediately blanked the spectrophotometer using tube 0 and then we measured each absorbance and recorded them as Time 0. After we recorded the absorbances, we placed tube 0 out on the bench under no direct light, tubes 1-3 under a direct fluorescent light, tubes 4-6 under a direct red light, tubes 7-9 under direct blue light, and tubes 10-13 under direct green light. Each light was the same wattage, only a different color. After 10 minutes, we blanked the spectrophotometer with tube 0 and then recorded all 13 absorbances. Then we placed the samples back under the same lights. Then after another 10 minutes, we blanked the spectrophotometer and recorded the absorbances. Then we placed the samples back under the same lighting. After a third 10 minutes, a total of 30 minutes, we blanked the spectrophotometer and recorded the absorbances of each sample one last time. 
+The average percent change of each wavelength was compared individually to the average percent change of the fluorescent control by using a two-tailed two-sample t-test to get a p-value. The p-value was significant at the alpha &lt;.05 level.  
+
+
+Results:
+Figure 1 illustrates the effect each wavelength of light had on the reduction of DCIP. The graph shows percent change absorbances every ten minutes starting with time zero and ending at the 30-minute mark. The green wavelength consistently displayed the highest percent change, followed by the red wavelength, and then followed by the fluorescent (control) and blue wavelengths which produced consistently similar percent changes. 
+Figure 1 displays the total percent change in each wavelength from time zero to time 30 (30 minutes).  
+The p-values from the 3 statistical tests were as follows: Fluorescent and Red light p = .0186, Fluorescent and Blue light p = .9637, and Fluorescent and Green light p = .0339. 
+
+
+Discussion:
+After 30 minutes the chloroplasts exposed to blue light had a percent change almost equivalent to the fluorescent control while the chloroplasts exposed to red light and the chloroplast exposed to green light had much higher overall percent change DCIP reduction. Along with the percent change results, when the red light and green light samples were statistically tested against the control fluorescent group both two-sample t-tests produced statistically significant results (red p =.0186 and green p = .0339). However, when the blue light sample was tested against the fluorescent control, the result was not statistically significant ( p =.9637) . Based on previous studies, the blue light chloroplasts should have experienced a higher percent change because they should have been reducing the DCIP more quickly due to increased rate of stomata opening [Zeiger:1997] [Wang: 2011]. There are many factors that could explain our deviant results: incorrect preparation, external environmental factors, and taking untimely measurements. Referring to the procedure, there are many aspects that need to be completed immediately, and while we did the best we could we only had so many resources to prepare each test tube of chloroplasts with DCIP and then only one spectrometer to measure absorbance—with this being said we tried to control for this by immediately turning off the source of light but unavoidably some samples sat longer than others waiting to be measured. Our hypothesis was not supported, but after conducting the research and reviewing the primary literature, our hypothesis could have been expanded to include red light as producing a higher rate of DCIP reduction as well. The study by Wang et.al. discusses two components of stomata light responses: photosynthesis-dependent and photosynthesis-independent reactions. The photosynthesis-independent component refers to the blue light reaction, while the photosynthesis-dependent component refers to the red light reaction. Due to this, both blue light and red light show preferential absorption [Wang:2011]. In terms of green light, it is interesting that it had the highest percent change and therefore the most DCIP reduction considering that both red and blue light should have reduced more. Green light percent absorption is usually about 70-80% whereas red and blue light percent absorption is usually about 90% [Johkan: 2012]. The green light sample was the last of the samples to be measured each time which could have allowed more reduction to occur. Because the results of our study differ so vastly from the literature and the results of other studies, it would be beneficial to entirely reevaluate and conduct the study again. 
+
+
+Literature Cited:
+1. Johkan, M., Shoji, K., Goto, F., Hahida, S., & Yoshihara, T. (2012). Effect of green light wavelength and intensity on photomorphogenesis and photosynthesis in Lactuca sativa. Environmental and Experimental Botany, 75, 128–133.
+2. Zeiger, E., & Hepler, P.K. (1977). Light and Stomatal Function: Blue Light Stimulates Swelling of Guard Cell Protoplasts. American Association for the Advancement of Science, 196(4292), 887–889.
+3. Wang, Y., Noguchi, K., & Terashima, I. (2011). Photosynthesis-Dependent and –Independent Responses of Stomata to Blue, Red and Green Monochromatic Light: Differences Between the Normally Oriented and Inverted Leaves of Sunflower. Plant and Cell Physiology, 52(3), 479–489. https://doi.org/10.1093/pcp/pcr005
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-22+at+6.54.23+PM.png&Size=55520&Type=image%2Fpng&F=F_1GZVEgLKMt5I4ho
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-22+at+6.54.41+PM.png&Size=100099&Type=image%2Fpng&F=F_3qDzgC8nROspSAa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Total percent change from Time Zero to Time 30.  Each bar represents a wavelength of light. 
+Figure 2: DCIP Reduction in Various Wavelengths of light. Each line of the graph correlates to the color that is reflected by a certain wavelength of light: yellow corresponds to fluorescent light (control), red corresponds to red light (~635-700nm), blue corresponds to blue light (~450-490nm), and green corresponds to green light (~520-560nm). 
+*************************************************************************
+
+
+

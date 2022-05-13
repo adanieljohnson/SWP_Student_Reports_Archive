@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-10-09 21:14:41
+Author of this lab report is: Std_3apReOar
+ID: R_2RVu1ZAcnRrSzuW
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Synthetic juvenile hormone added to Manduca sexta diet results in delayed development
+
+Abstract:
+This experiment was conducted to isolate and observe the effects of increased levels of juvenile hormone on growth and development in Manduca sexta. This was done by observing and recording the weights of a control group with no additional hormones added, and an experimental group to which a fixed amount of 5% synthetic juvenile hormone was added into their food to calculate a difference if any between the control and the experimental groups. Since juvenile hormone is one of the key hormones in the control of molting, it was predicted that if additional juvenile hormone was introduced to Manduca sexta larvae this would result in slower growth and development. The results of the experiment showed no statistical significance regarding the comparison of data. However, a comparison between the two groups based on observations shows that the control group exhibited behaviors that precede pupation whereas the experimental group did not. No significant data can be drawn from this experiment for real-world application. 
+
+Introduction:
+This study focuses on the species of moth larvae known as the tobacco hornworm. The scientific name of this species is Manduca sexta. The hornworm is a common type of plant-eating pest commonly found throughout the United States. Its average life cycle spans from approximately 39 to 48 days through the life stages of egg, larvae, pupa, and adult. In the hornworms, growth and development are controlled by two hormones. The first being ecdysterone (20E) that regulates the timing of molting during development. The second is juvenile hormone (JH) that regulates the type of molting during development. These two hormones work together to control growth, molting, and metamorphosis. During the larval stage, the caterpillars rapidly grow to up to 10g [Reinecke: 1980]. Around the time of larval eclosion, the levels of juvenile hormone in the larvae begin to fall, then remain relatively low throughout development. This poses the question of if juvenile hormone levels were to remain high throughout development, would this cause a halt or delay in larval development? This experiment is to test our hypothesis: if additional juvenile hormone is introduced to Manduca sexta larvae to increase the amount present in their system, then this will result in slower growth and development in regard to weight gain and physical change observations recorded over a two week time period.
+
+Materials and Methods:
+For this experiment, we took eight caterpillars and separated them into two groups and placed in separate, divided containers. To prepare the containers for the caterpillars, we labeled them, as to keep measurements consistent, and punched breathing holes into the sides. Before placing the caterpillars into their respective containers, we prepared 10g of food per caterpillar. For the experimental group, we mixed in two drops of 5% synthetic juvenile hormone per 10g of food using a pipette and then divided the food between the four experimental caterpillars. For the control group, we added two drops of water per 10g of food using a pipette as well and mixed in thoroughly to prevent the possible bias of a difference in food texture, then divided between the four control caterpillars. We made sure to push all the food into one corner of all containers as to leave room for movement and growth. We measured and recorded the weight of all eight caterpillars, then proceeded to place them into their respective containers. We placed the caterpillars into a temperature-controlled refrigerator within the lab. We recorded weight and observations daily for approximately two weeks, making sure that containers were kept clean and they did not run out of food/food did not go bad. 
+	After collecting the data for two weeks, we subtracted the starting weight of each caterpillar from the maximum weight they reached over the two weeks. With the weight differences, we took the average of each group to find the mean weight change. With these values, a one-tailed two-sample t-test was executed to analyze the statistics of the data and compare the mean change in weight between the control and experimental group. 
+
+
+Results:
+The mean difference in weight for the control group was 6.13g and the mean difference in weight for the experimental group was 8.67g (Fig.1). The standard deviation for the weight difference in the control group was 5.86, and the standard deviation for the weight difference in the experimental group was 6.30 (Fig.1). To analyze our results, we used a one-tailed two-sample t-test. Upon the calculation of the data, the one tailed two-sample t-test showed the difference in the data held no statistical significance (t-stat= 0.5912, df= 6, p-value= 0.2880). In the days nearing the end of observation, it was clear that quite a few of the caterpillars were beginning to lose weight, growth was stagnating, and activity continually decreased. 
+
+Discussion:
+Our hypothesis predicted that the introduction of additional juvenile hormone would slow growth and development in the experimental caterpillars. Based on numerical data and the p-value produced by the one-tailed t-test alone, our hypothesis was not supported. The mean difference in weight in the experimental group was higher than that of the control group, suggesting that the addition of the synthetic juvenile hormone increased the rate of growth and development. However, if we were to draw our conclusion from observational results our hypothesis would be supported. In the last three days of observation, in two of the control caterpillars a blue pulsating line running along their dorsal sides became visible. This line is termed as the dorsal vessel. This exposure of this vessel is induced by the absence of juvenile hormone and is a precedent to pupation [Nijhout: 1975]. This means that two of the control caterpillars were days within pupation and had we extended observation we most likely would have been able to observe this. Though the mean weight of the experimental caterpillars was greater than that of the control, none of the experimental caterpillars had the exposed dorsal vessel, indicating that though their growth rate was increased, their development was slowed by the additional juvenile hormone. 
+	Based on the statistical results acquired from this experiment, the data could not be used to apply any real-world significance. If the results had produced a significant value, we would be able to apply this knowledge to help the control of the tobacco hornworm as a pest in the agricultural industry. Since we know that the presence of juvenile hormone inhibits the release of prothoracicotropic hormone in the caterpillars, we know that the decrease and absence of juvenile hormone allows for the release of the prothoracicotropic hormone which signals the commitment pulse for pupal eclosion. [Nijhout: 1974]. This suggests that a continuous presence of juvenile hormone should prohibit or delay the development in the caterpillars. If this experiment were to be redone something that could possibly change the outcome and significance is an increase in the amount of synthetic juvenile hormone added to the food given to the experimental caterpillars. It is possible that the two drops added in this experiment was not enough to increase the levels of the hormone to where it resulted in a significant difference. The insignificance of this data could also be attributed to the caterpillars themselves as the levels of hormones in a caterpillar vary from individual to individual which would explain why the weight change of the experimental caterpillars was greater in some and less in others given the same amount of the hormone in the same amount of food. 
+
+
+Literature Cited:
+1. Reinecke JP., Buckner JS., And Grugel SR. 1980. Life cycle of laboratory-reared tobacco hornworms, Manduca Sexta, a study of development and behavior, using time-lapse cinematography. The Biological Bulletin. 158: 129-140.
+2. Nijhout HF. 1975. Dynamics of juvenile hormone action in larvae of the tobacco hornworm, Manduca Sexta. The Biological Bulletin. 149: 568-579.
+3. Nijhout HF., And Williams CM. 1974. Control of moulting and metamorphosis in the tobacco hornworm, Manduca Sexta: cessation of juvenile hormone secretion as a trigger for pupation. Journal of Experimental Biology. 61: 493.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Catepillar+Figure.jpg&Size=27333&Type=image%2Fjpeg&F=F_2fJt4q7YyC7aFRr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparison of the mean change in weight of the control group vs the experimental group with 5% synthetic juvenile hormone added to diet.*************************************************************************
+
+
+

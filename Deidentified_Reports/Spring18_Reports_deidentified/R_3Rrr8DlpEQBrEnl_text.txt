@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 15:57:30
+Author of this lab report is: Std_FxnKf37H
+ID: R_3Rrr8DlpEQBrEnl
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Acetylcholine Inhibition on muscle contractions in the Rana pipiens.
+
+Abstract:
+Abstract:
+The objective of this lab was to look deeper into the role of Acetylcholine (ACh) inside of muscle contraction, more specifically, how it relates to voltage threshold. We used the chemical Sevin to act as an inhibitor of the ACh. This allowed us to effectively test whether the absence of ACh would affect the overall amount of stimulus needed to create a contraction. Our hypothesis was that we believe that we can effectively lower the voltage threshold for contractions by using Sevin to block ACh in the system. We utilized frog legs from the Rana pipiens to do the test. Each leg was first tested in its regular state. This gave us the voltage threshold of the untreated muscle. Afterwards, we injected the legs with Sevin ( ACh inhibitor) and ran the same test. We utilized a paired t-test to analyze the results. 
+
+
+Introduction:
+Introduction:
+In this lab we are studying the inhibition of Acetylcholine (ACh) and the effects of it on muscle contractions. Almost 40% of the human body is skeletal muscle. Muscles are used for stability and motion. Your muscles contract when you need to lift something heavy, or when you need to move swiftly. To test the contractions, we utilized the legs of the Rana pipiens frog. The hind legs of the frog mimics much of the motion that human legs use while hopping, skipping, or jumping. The muscles of the leg also offered an easier way of testing as the sciatic nerve could easily be found and exposed. The gastrocnemius (calf) muscle also mimics how the gastrocnemius muscle works in humans being built in a similar fashion and placed in similar manners. The goal of this work was a comparative analysis of the contracture responses induced by acetylcholine (ACh)—the so-called acetylcholine contracture (AChC)—in the twitch and tonic fibers. The AChC, the process involving the entire ECC system, reflects the development of contractile response in an intact muscle in a most adequate manner [I.E. Katina: 2008]. This study found that  voltage-dependent Ca2+ molecules are released from the sarcoplasmic reticulum depot and is the main mechanism inducing the acetylcholine contracture in fast and slow twitch muscle fibers [I.E. Katina: 2008]. For a muscle to contract it must receive an electrical message from the motor neuron. This signal is called an action potential. This Action potential causes the release of neurotransmitters from the sarcoplasmic vesicles into the synapse. This neurotransmitter is ACh. From Acetylcholine receptors bind with the receptors which then transport the signal to the muscles. Sevin is a chemical compound that blocks ACh, it inhibits the flow of the Acetylcholine inside of the muscle cells. In this experiment the dependent variable will be the threshold voltage for contractions. The chemical Sevin is the independent variable because it will always block the movement of ACh. The threshold voltage for contractions will depend on how well Sevin work at blocking the ACh flow. By injecting Sevin into the muscle fibers of the Rana pipiens leg we believe that we can block the flow of ACh, thereby changing the voltage threshold at which contractions happen making them happen at lower threshold percentages. 
+
+
+Materials and Methods:
+Materials and Methods
+The experiment was performed on two isolated frog legs from the R. pipiens. We recorded contractile responses of the legs and compared them to responses that were tested after the muscles had been treated with Sevin (ACh inhibitor). Before any test could be ran we had to prepare the frog legs. Firstly, we skinned each frog leg making sure not leave any on. Starting from the top portion of the leg we slowly worked our way down in preparing the specimen for testing. Looking at the top portion of the leg, near the start of the quadriceps and hamstring muscles, we located the Sciatic Nerve. In doing this we made sure to expose enough of the nerve so that we could use It in the test. From here we separated the Gastrocnemius Muscle from the rest of the bone cutting it at the tendon down by the foot on the frog leg. During this whole process we are making sure not to cut the muscle or the nerve. After preparation of the leg we used a stand and pins to position the leg in a way so that we could use a force transducer for testing the muscle contractions. For the appearance of our setup reference figures 1-3.  From here we sent small electrical stimuli through the nerve until we found the smallest amount that would cause a noticeable contraction, the voltage threshold. We tested these three times to make sure we were as accurate as possible. After finding the threshold of the muscle we injected 0.1 ml of the chemical Sevin (2%) into the gastrocnemius muscle. We massaged to make sure Sevin was properly proportioned around the entire muscle. We then waited about 7 minutes for the chemical Sevin to be fully introduced inside of the muscle fibers. After this we sent electrical signals through the nerve working our way back down to the smallest signal with noticeable contractions. From here we would use a paired t-test to compare our recorded results. 
+
+
+Results:
+Results
+The data collected shows that the inhibition of Acetylcholine inside of the muscle does influence muscle contractions. Looking at figure four we can see the comparisons of voltage threshold before and after treatment on each leg. A general trend that can be seen in the data is that after the treatment was added the voltage threshold required for contraction was higher. The average control voltage threshold for all the legs was 0.083V +/- 0.034 sd. The average voltage threshold after treatment for all the legs was 0.138V +/- 0.025 sd. A paired t-test was also used to help analyze the data collected. The results of the paired t-test were (t-stat= -2.668, df=3, P= 0.076) meaning that there is no statistical significance between the means of the control group and the means of the test group. 
+
+
+Discussion:
+Discussion
+The hypothesis we created was proven incorrect, the data we collected did not support our assumptions. When Acetylcholine is blocked the voltage threshold needed to create a contraction increased. When Sevin was not introduced into the muscle cell the voltage threshold for contractions were lower. This means that ACh helps to speed up the process of muscle contraction by lowering the threshold level needed for contraction. The results make sense in the way that ACh works inside of the body. Acetylcholine works as a neurotransmitter. Stimulation of the motor neuron tells the synaptic vesicles to release the ACh into the synaptic cleft. Once there it diffuses across the membrane and binds with receptors on the sarcolemma which then tell the muscles to contract. Blocking the neurotransmitter (ACh) would stop this chain of events from happening. If this happens then the signal wouldn’t reach the receptors at the same speeds thereby slowing down the process. Another study looks at the effects of cannabinoids on Acetylcholine and Choline contractures. Inside of this study it was found that Blocking the isoform of the ryanodine receptor (−RyR) with 150 μM dantrolene caused a reduction of the ACh contracture leading to weaker tension of contractions [Xochitl Trujillo: 2014]. Since the study did not focus on voltage threshold it was not that prevelant inside of the results, however the amount of stimulus needed to create a contraction inside of the muscle did increase once either ACh or an AChR was blocked. This effectively backs up our results. In our data there is a possibility of error, but it is very unlikely. Being that each separate muscle acted as its own control and test specimen there could have been a problem with over exerting the muscle. This would make it harder for the muscle to contract because of over use. Even so, the possibility of this happening to our muscles were very unlikely as we tried our best to allow enough relaxation time for the muscles in between each test. The next logical step in this experiment would be to test the affects of excess ACh inside of the muscle, or even test the affects of another molecule such as Ca++ or K+. Overall the experiment we ran was successful in determining the importance and role of ACh in muscle contractions. It places the voltage threshold at a certain spot making the contraction process faster compared to when it is not active inside of the process. 
+
+
+Literature Cited:
+Literature Cited:
+
+1.	Katina, I. E., and G. A. Nasledov. “A Comparative Analysis of the Contracture Responses Induced by Acetylcholine and Choline in the Twitch and Tonic Fibers of Frog Skeletal Muscles.” Biophysics; Moscow, vol. 53, no. 6, Dec. 2008, pp. 608–14. ProQuest, doi:http://dx.doi.org/10.1134/S0006350908060262.
+2.	Mazzetti, Luca, et al. “The ACh-Induced Contraction in Rat Aortas Is Mediated by the Cys Lt 1 Receptor via Intracellular Calcium Mobilization in Smooth Muscle Cells.” British Journal of Pharmacology, vol. 138, no. 4, Feb. 2003, pp. 707–15. CrossRef, doi:10.1038/sj.bjp.0705087.
+3.	Trujillo, Xóchitl, et al. “Effects of Cannabinoids on Tension Induced by Acetylcholine and Choline in Slow Skeletal Muscle Fibers of the Frog.” The Journal of Membrane Biology, vol. 247, no. 1, Jan. 2014, pp. 57–62, doi:10.1007/s00232-013-9610-3.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Capture.PNG+sciatic.PNG&Size=433672&Type=image%2Fpng&F=F_1LOHN0vmA6GQ9ye
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=calf+frog.PNG&Size=393999&Type=image%2Fpng&F=F_2dFPwK9sW7G58cj
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=setup.PNG&Size=342722&Type=image%2Fpng&F=F_1reIzctWvrw7io3
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+frog.PNG&Size=22937&Type=image%2Fpng&F=F_2A0bQFwHmv0lHz0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This picture shows the quadricep and hamstring muscle portions of the Rana pipiens frog Leg. In this image you can see the how the muscles and tissue have been separated so that the nerve could be found and exposed. The Sciatic nerve is the white string-like structure found inside of the red box. Figure 2: This figure shows the lower part of the dissection of the frog legs. The top leg shows the placement of the gastrocnemius muscle in the R. pipiens. The boxes around both legs show the general area that you should be focused on in this part of the dissection. Figure 3: This image shows the frog leg when it has been properly dissected and is ready to be tested. The red box shows the portion of the gastrocnemius muscle that was detached from the rest of the leg. Notice how a piece of string is used to keep this muscle elevated and perpendicular to the rest of the leg. Also take note of how pins have been placed to keep the leg from moving when contractions start. Figure 4. This shows the voltage threshold of each of the frog legs. Look at the blue bar for the control reading. The orange bars show the voltage threshold at which contractions were noticeable after the muscles were treated with the ACh inhibitor Sevin.
+
+*************************************************************************

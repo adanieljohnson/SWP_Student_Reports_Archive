@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 18:26:14
+Author of this lab report is: Std_hMC2f7po
+ID: R_2xwPtXfDMs8Jbcv
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Effects of Tetraethylammonium chloride on Frequency Threshold for Tetany in Rana pipiens
+
+Abstract:
+We injected the gastrocnemii of two respective Rana pipiens with tetraethylammonium chloride, a potassium channel blocker, to determine if blocking these channels would lower the frequency threshold for achieving tetany. Tetany essentially leads to a continuous contraction until the affected muscle can no longer produce energy and it relaxes. The legs in the experiment are from healthy adult frogs (Rana pipiens) and were tested first as control and then tested again 5 minutes after the injection of tetraethylammonium chloride. After testing this on two legs we were unable to achieve conclusive data as to whether blocking the potassium channels had any effect on lowering the frequency threshold. 
+
+Introduction:
+We will use tetraethylammonium chloride to block potassium channels in the gastrocnemii of the leg of a Rana pipiens. We are targeting the potassium channel because if there is no movement of potassium out of the cell after a muscle contraction, the muscle cannot relax [Johnson:2018]. The tetraethylammonium chloride will take effect almost immediately in a similar way to its effectiveness in the muscles of rabbits as seen in research by Haeusler and Thorens [Haeusler and Thorens:1980]. It is our hypothesis that blocking potassium channels will cause the gastrocnemius of Rana pipiens to achieve a state of tetany more rapidly than in that same leg without exposure to tetraethylammonium chloride. Tetany is when the time between the relaxation phase and the next latent phase of a muscle contraction is without pause or is negligible [Johnson:2018]. This causes a sustained contraction to occur until the muscle depletes all available energy and forcibly relaxes.
+
+Materials and Methods:
+For the experiment on the gastrocnemii of Rana pipiens we first obtained to adult frog legs. Upon obtaining the two legs, we removed the skin from both, careful not to damage any muscle fibers in the process. We then separated the thigh muscle of one leg and pulled the sciatic nerve away from the muscle so that it was still attached but could be accessible. After exposing the nerve, we detached the gastrocnemius at the Achilles tendon and tied a loop of string just below the junction of the tendon and the muscle. Once the string was tied we hooked the loop onto an apparatus so that the gastrocnemius was perpendicular to the table and so that the remaining portions of the leg lay flat. We then attached a sleeve electrode over the nerve ending and pinned down the portions of leg that were laying on the table so that they would remain stationary as the gastrocnemius twitched. We set the parameters on a program titled Lab Scribe, under the frog muscle section, as follows: amplitude = 1.5, pulse = 0, frequency = 5Hz. We ran the program and sent electricity through the leg for approximately 5 seconds. After 5 seconds we looked for signs of tetany within the myogram recorded, if no tetany occurred we raised the frequency by 0.5 Hz until tetany was seen. After determining the frequency at which tetany occurred in the control experiment we injected the gastrocnemius with 5 mL of 100 mmol tetraethylammonium chloride. It is important when injecting this solution to inject small portions into different spots up and down the muscle so that it does not concentrate in one location within the muscle. Tetraethylammonium chloride has immediate effects on the potassium channels of muscle [Haeusler and Thorens:1980], however, we allowed the leg to sit for 5 minutes after injection to ensure effectiveness of the potassium blocker. Upon completion of the 5 minutes of rest we set the frequency to 5 Hz (all other parameters remained the same) and began firing at 0.5 Hz intervals until tetany was shown in the recorded myograms. We then repeated this process with our second leg in the same manner, starting after the removal of the skin. Our dependent variable was the occurrence of tetany and our independent variable was the frequency at which tetany occurred. 
+
+Results:
+The myograms from leg #1 showed a decreased threshold for tetany from 7.5 Hz to 7 Hz (Fig. 1 and Fig. 2). The myograms from leg #2 showed no change in tetany threshold from the control experiment to after treatment of tetraethylammonium chloride (Fig. 3 and Fig. 4). The mean frequency of the tetraethylammonium chloride groups was not significantly lower than those of the control groups (t-stat = 1, df =1, P = 0.500). The control experiment on leg #1 showed tetany at 7.5 Hz (Fig. 1). The experiment after injection of tetraethylammonium chloride on leg #1 showed tetany at 7 Hz (Fig. 2). The control experiment on leg #2 showed tetany at 5.5 Hz (Fig. 3). The experiment after injection of tetraethylammonium chloride on leg #1 showed tetany at 5.5 Hz (Fig. 4). We compared the data between the two control groups and the two experimental groups using a paired t-test method on the means of threshold frequency for each respective group.
+
+Discussion:
+The results from this study merit further testing to determine whether there is correlation between blocking potassium channels and a decreased frequency threshold for achieving tetany for two reasons. First of all, in the data that we collected only the frequency threshold for leg #1 saw a decrease from 7.5 Hz to 7 Hz. The frequency threshold for leg #2 saw no change in frequency threshold from the control testing to the testing after injecting tetraethylammonium chloride (Fig. 3 and Fig. 4). This experiment should be repeated with a larger number of frog legs so that there is enough data to make a conclusive statement as to whether our hypothesis about blocking potassium channels is accurate. Second, when performing our experiment, we completed a higher number of trials for the control portion of leg #1 compared to the control portion of leg #2. This increased number of trials resulted in the earlier fatigue of the gastrocnemius muscle and could possibly cause inaccurate results. It would be best to redo the experiment with larger frequency intervals and shorter recording times for both control and treatment experiments. It would also produce more accurate results if the control and treatment groups were respectively tested an equal number of trials. It is important to note that When testing the effects of tetraethylammonium chloride on the treatment group in both leg #1 and leg #2, each trial caused the intensity of the tetany to become less as the muscle fatigued. The results from this experiment can be compared with the results of a similar experiment in which exhausting the muscles of a frog led to increased potassium permeability and “poisoning” of the muscle with a channel blocker decreased ATP production [Castle and Haylett:1986]. This decrease in ATP would cause a shorter time before tetany within the muscle such as we tested with our experiment.
+
+Literature Cited:
+Haeusler G, Thorens S. 1980. Effects of tetraethylammonium chloride on contractile, membrane and cable properties of rabbit artery muscle [cited 2018 March 21]. Available from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1282887/
+
+Johnson AD. Neuromuscular Control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 5, 2018), pp. 17-35.
+
+Castle NA, Haylett DG. 1987. Effect of channel blockers on potassium efflux from metabolically exhausted frog skeletal muscle [cited 2018 March 27]. The Journal of Physiology 383:31–43. doi:10.1113/jphysiol.1987.sp016394. Available from https://physoc.onlinelibrary.wiley.com/doi/pdf/10.1113/jphysiol.1987.sp016394
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=control+1.png&Size=34757&Type=image%2Fpng&F=F_2DZfcbfPbbw00X9
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=treatment+1.png&Size=31779&Type=image%2Fpng&F=F_3j2LDt6YsnSorxO
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=control+2.png&Size=23847&Type=image%2Fpng&F=F_3nBBV9YLqKc0TsI
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=treatment+2.png&Size=24715&Type=image%2Fpng&F=F_Bum7WMTyCn94t7H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Myogram of Tetany in Control Leg #1
+Figure 2. Myogram of Tetay in Tetraethylammonium Chloride Treatment Leg #1
+Figure 3. Myogram of Tetany in Control Leg #2
+Figure 4. Myogram of Tetay in Tetraethylammonium Chloride Treatment Leg #2
+
+*************************************************************************

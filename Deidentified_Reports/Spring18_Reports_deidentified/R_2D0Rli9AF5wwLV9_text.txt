@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-11 00:21:31
+Author of this lab report is: Std_d1XKcS9F
+ID: R_2D0Rli9AF5wwLV9
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Threshold of Muscle Contraction in Gastrocnemius Muscle and Sciatic Nerve of Rana Pipies Frog Legs
+
+Abstract:
+Lidocaine is commonly used as a sodium channel blocker in organisms to prevent action potentials in the cells from firing and creating muscle contractions. If action potentials cannot fire, then the threshold of the membrane potential cannot be reached as efficiently as a muscle without lidocaine when it receives an external stimulus. This substance can be injected into an organism and also function to block the sensation of pain. The threshold of muscle contractions of a gastrocnemius muscle of a rana pipies frog leg was tested without lidocaine injections and with lidocaine injections to see if the threshold changed when the sodium channel is blocked. The thresholds for the control and the treatment groups were taken three times and then averaged with six other thresholds from different frog legs to get the mean. The muscle should require a higher threshold for the contraction to occur if lidocaine successfully inhibits efficient signaling of action potentials. With a P-Value of 0.0136, this experiment did show statistical significance that lidocaine is an effective sodium channel blocker. 
+
+Introduction:
+Skeletal muscle is beneficial for support and mobility of human and animal bodies. The muscular system works in tandem with the nervous system to be able to respond to external and internal stimuli within one millisecond [Sakai: 2018]. The depolarization of a neuron will stimulate the release of acetylcholine (Ach) into the presynaptic nerve terminal to the muscle fibers or to bind to receptors on the membrane and open sodium channels. This will generate action potentials in the muscle fibers that create the release of calcium to activate muscle contractions. Muscle contractions only occur when an action potential has been fired after threshold is reached. Threshold is when the membrane potential reaches about -55mV. Lidocaine can be used as a sodium channel blocker when injected into an organism. A 2009 study found that lidocaine blocked voltage-gated sodium channels in axons and disrupted the formation of action potentials in rodents [Binshtok: 2009]. This prevented the transference of nociceptive information to the central nervous system, which means pain receptors didn’t send signals to the nervous system and motor function was impaired. Another 1995 study found that the “introduction of lidocaine into the facet joint resulted in a significantly reduced electromyographic response to either stimulation,” which means that lidocaine slowed the response of the nerve and muscle compared to stimulation without lidocaine injections [Indahl: 1995]. This experiment is going to study neuromuscular control when lidocaine is injected into the isolated gastrocnemius muscle of a frog leg. This study measures the threshold for two different frog legs three times, averages them, then injects lidocaine into the frog leg and waits an allotted period of time to take the threshold again. The independent variable is the amount of lidocaine and the dependent variable is the threshold. Both variables are continuous and measurable. The hypothesis is that if lidocaine is injected into the gastrocnemius muscle of the frog leg, then the threshold will increase. 
+
+Materials and Methods:
+Two separate frog legs were prepared for this experiment for contraction analysis of the gastrocnemius muscle. A specialized displacement transducer and a high-voltage stimulus insulator were used to create and measure the stimulus and response from the sciatic nerve. The threshold of the muscle contraction of the first frog leg was measured using iWorks software on a computer. This threshold was taken three times. After the control thresholds were taken, the fog leg was injected with 0.1 ml of lidocaine using a syringe. The threshold for the muscle was taken three more times, after waiting five minutes. These steps were repeated for the second frog legs. A two-tailed t-test was applied to the average control thresholds, the average treatment thresholds of this experiment, and six other frog legs also injected with lidocaine to see if there was a significant difference in muscle contraction with lidocaine among the frog legs. The compilation of eight different leg thresholds allows for a well-rounded examination of the effects of lidocaine as a sodium channel blocker. 
+
+Results:
+Figure 1 shows the average thresholds of the treatment group after lidocaine was injected and control group without lidocaine. For each frog leg, the threshold for the treatment groups was higher than all of the control thresholds. The chart indicates that the average threshold increased when lidocaine was injected into the gastrocnemius muscle of the frog legs. The error bars were added to show that there was variance among the thresholds of all eight frog legs. When looking at the error bars and columns as a whole, it is clear that while not all legs had the same threshold, the thresholds increased after lidocaine was injected. A two-sample t-test was run for this experiment to find the P-Value of the mean thresholds. The P-Value was 0.0136. The control mean was 0.168 V and the treatment mean was 0.406 V. 
+
+Discussion:
+Since the P-Value for the t-test was 0.0136, there is statistical significance between the control and treatment groups. The final results from this study support the research hypothesis because there is a significant difference between the mean threshold of the control group and the weight of the treatment group. The alternate hypothesis can be accepted on the basis of a P-Value less than 0.05. Lidocaine does affect the threshold of the gastrocnemius muscle of a frog leg. Since sodium channels are effectively blocked by lidocaine, action potentials in the muscle fibers cannot be generated in order to release calcium and create muscle contractions at the same rate as muscles without lidocaine. While completing the experiment, the data could have been different if more time was allotted to let the lidocaine take effect on the muscle and sciatic nerve. A study published in 2017 on the effects of lidocaine injections and pupil dilation showed that in the animal model, the pupil was temporarily paralyzed, and the b-wave could not be detected by an electroretinogram [Kumar: 2017]. This means the cells in the eye did not undergo depolarization and threshold couldn’t be reached to signal action potentials. Another study by Dr. Kaji on focal dystonia, involuntary muscular contractions, found that with local injections of lidocaine, the tendon reflex was stunted, and the movements of the muscles were reduced [Kaji: 1995]. The two previous studies and this experiment show similarities in how the lidocaine inhibits the muscle from reaching threshold normally. Lidocaine can be used to blunt the sense of pain and to reduce muscle contraction, and this study along with past studies supports data on the true effectiveness of lidocaine.  
+
+Literature Cited:
+1.	Sakai, 2018
+2.	Indahl, A., et al. “Electromyographic Response of the Porcine Multifidus Musculature after Nerve Stimulation.” Spine, vol. 20, no. 24, Dec. 1995, pp. 2652–58.
+3.	Binshtok, Alexander M., et al. “Coapplication of Lidocaine and the Permanently Charged Sodium Channel Blocker QX-314 Produces a Long-Lasting Nociceptive Blockade in Rodents.” Anesthesiology: The Journal of the American Society of Anesthesiologists, vol. 111, no. 1, July 2009, pp. 127–37.
+4.	Kumar, Usha R, and Hema L Ramkumar. “Electroetinogram,” American Academy of Ophthalmology, EyeWiki, 20 Nov. 2017, 11:15.
+5.	Kaji, Ryuji, et al. “Tonic Vibrations Reflex and Muscle Afferent Blocks in Writer’s Cramp.” Annals of Neurology. Wiley Online Library. Accessed 7 Apr. 2018.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+12.08.30+AM.png&Size=296090&Type=image%2Fpng&F=F_2P6bMEeeJhFiQTX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average thresholds of frog leg contractions for 8 different frog legs for the control and treatment groups
+
+*************************************************************************

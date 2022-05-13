@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 14:50:46
+Author of this lab report is: Std_ds5nstLX
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Inhibition and activation if IP3 signaling has no effect on Physarum chemotaxis.
+
+Abstract:
+Cellular signaling is essential to proper biological function. The inositol-1,4,5-trisphosphate (IP3) pathway is a cellular signaling pathway that modulates many different biological processes in many organisms. The IP3 is therefore relevant to many fields within biology. In particular, abnormalities in the IP3 pathway have been implicated in several types of cancer. The slime mold Physarum polycephalum is a useful model for cell signaling because it essentially functions as a single macroscopic cell. In this experiment, the ability of Physarum to move toward food stimuli was tested in the presence of A23187 (a known activator for the IP3 pathway) and neomycin (a known inhibitor for the IP3 pathway). At the end of the experiment, there was no significant difference between the two chemicals (χ2 = 0.6, df = 1, p = 0.439). It was therefore concluded that the IP3 pathway is not directly involved in chemotaxis. Future experiments should test the effects of these drugs on more complex behaviors, such as Physarum’s ability to find the shortest path in a maze. 
+
+Introduction:
+Cellular signaling is one of the most fundamental processes in both single-celled and multicellular organisms. It allows for the regulation of many biological processes. The inositol-1,4,5-trisphosphate (IP3) signaling pathway is a particularly important topic of study because it modulates many different biochemical processes. The IP3 pathway results in the activation of Protein Kinase C (PKC), as well as the release of calcium ions, which then activate many other proteins [Johnson: 2018]. Since there are so many targets of this pathway, its biological relevance extensive. For instance, several studies have implicated IP3 receptor abnormalities in various types of cancer [Kania et al.: 2017; Boutin et al.: 2015].
+	The slime mold Physarum polycephalum is commonly used as a model for studying cellular signaling because it essentially functions as a single cell. Cell signaling studies that use Physarum often involve studying the effects of treatments on simple behaviors. One such behavior is chemotaxis, which is movement and growth in response to chemical signals. In this experiment, the effects of both activators and inhibitors of IP3 signaling were assessed on chemotaxis of Physarum. The hypothesis for this experiment was that IP3 agonists would increase chemotaxis.
+
+
+Materials and Methods:
+Petri dishes with agarose were used for this experiment. Three dishes were treated with A23187 and three plates were treated with neomycin. One half of each plate was removed and replace with one half of a plate with the opposite treatment such that there were three replicates, each with one half treated with A23187 and one half treated with neomycin. A control plate with only agarose was also used. A small block was taken from a Physarum stock plate and placed in the center of each plate. An oat flake was placed in the upper corner of each half. The Physarum were left in an incubator for 48 hours. 
+After 48 hours, images were taken of each sample. Using an image analysis software (NIH: ImageJ), the area that the Physarum had occupied was measured and a two-sample t-test was performed to determine significance. As an additional measure, a chi-square test for goodness-of-fit was performed to compare each treatment. If the Physarum moved into one of the treatments, this was counted as a success for the chi-square test. It was expected that the Physarum would move toward A23187 in each trial (this was used to perform the chi-square test).
+
+
+Results:
+After 48 hours, the Physarum grew toward A23187 in all 3 replicates, while it grew toward Neomycin in only two replicates. The control plate grew toward both food samples. These values were not significant (χ2 = 0.6, df = 1, p = 0.439). The mean area of Physarum extended into A23187 was 4.69±3.6 cm2 and the mean area extended into Neomycin was 3.30±3.2 cm2 (Figure 1). These means were not statistically significant (p = 0.791).
+
+Discussion:
+The p-values calculated from both statistical tests performed meant that the null hypothesis could not be rejected. This suggests that activation and inhibition of the IP3 signaling pathway has no effect on the chemotactic behavior of Physarum. It is important to note that, because of the small sample size in this experiment, the results of this experiment are not definitive. While one of the plates exhibited the expected result, the small sample size prevented both of the statistical tests used from assigning significance. If the experiment were repeated with a much larger sample size, it is possible that a more significant result could be obtained.
+	A previous study by Satoh et al. [1980] demonstrated that various concentrations of calcium ions affected Physarum’s chemotaxis behavior. The authors suggested that increased levels of calcium allowed Physarum to move toward chemoattractants. This explanation accounts for the movement of all three replicates toward the A23187, because activating the IP3 pathway results in the release of calcium ions. However, this does not account for the two replicates that moved toward neomycin. A likely cause for this behavior is mixing of the two chemicals, as both chemicals were placed in the same dish. To rule out this possibility of error, future experiments should test the two chemicals separately.
+	While this experiment demonstrated that A23187 and neomycin did not have a significant effect on Physarum chemotaxis, future experiments could test the effects of these chemicals on more complex behaviors. For instance, it has been well established that Physarum has the ability to select the shortest path through a maze in order to reach a chemoattractant [Nakagaki: 2000]. Several studies have also suggested mathematical models which could be used to analyze Physarum’s ability to complete mazes [Ntinas: 2017]. Since this behavior is more complex than the behavior tested in this experiment, it is possible that altering IP3 signaling could have a more significant effect.
+
+
+Literature Cited:
+1.	Boutin B, Tajeddine N, Monaco G, Molgo J, Vertommen D, Rider M, Parys JB, Bultynck G, Gailly P. 2015. Endoplasmic reticulum Ca2+ content decrease by PKA-dependent hyperhposphorylation of type 1 IP3 receptor contributes to prostate cancer cell resistance to androgen deprivation. Cell Calcium. 57:312-320.
+2.	Johnson AD. Cell Signaling. Bio 214L Lab Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. 214.3. 
+3.	Kania E, Roest G, Vervliet T, Parys JB, Bultynck G. 2017. IP3 receptor-mediated calcium signaling and its role in autophagy in cancer. Frontiers in Oncology. 7:140.
+4.	Nakagaki T, Yamada H, Tóth Á. 2000. Intelligence: Maze-solving by an amoeboid organism. Nature. 409:470.
+5.	Ntinas V, Vourkas I, Sirakoulis GC, Adamatzky AI. 2017. Modeling Physarum space exploration using memristors. Journal of Applied Physics. 50:1-13.
+6.	Satoh H, Mito Y, Ueda T, Kurihara K, Kobatake Y. 1980. Conversion of positive to negative chemotaxis by Ca2+ ionophore treatment in plasmodium of Physarum polycephalum. Biochimica et Biophysica Acta. 633:436-443.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=lab+report+2+figure+1.png&Size=29955&Type=image%2Fpng&F=F_1QyZdjRqfcrjoBW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mean area occupied by Physarum in each treatment with standard error bars.
+
+*************************************************************************

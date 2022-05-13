@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 15:33:35
+Author of this lab report is: Std_ywKywAlt
+ID: R_1doXr90UW0Sg4l7
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The effect of caffeine on the gastrocnemius muscle of Rana pipiens
+
+Abstract:
+In this lab, caffeine was injected into the gastrocnemius muscle in Rana pipiens. Caffeine targets the sarcoplasmic reticulum from which the release of calcium occurs. Caffeine causes an increase in the force of contraction of skeletal muscle by causing an increased release of calcium ions from the sarcoplasmic reticulum. The release of calcium leads to the contraction of muscular tissue. In this lab, myograms of the contractions in the gastrocnemius muscle were observed.  It was hypothesized that injecting caffeine into the gastrocnemius muscle would result in uncontrolled contraction of the muscle. After conducting three trials on three separate frog legs, it was found that injecting caffeine into the muscle resulted in chemically-induced tetany, thus supporting the hypothesis.
+
+Introduction:
+Skeletal muscle in vertebrates consists of hundreds to thousands of myofibers, which are cylindrical, multi-nuclear, fused aggregates of cells [Johnson: 2018]. The individual myofibers are bound together by connective tissue to form functional groups, which are the skeletal muscles proper. Skeletal muscles are innervated by motor neurons, whose cell bodies are located in the grey matter of the spinal cord. Axons of motor neurons extend into a muscle then branch out to innervate several individual myofibers, at points called neuromuscular junctions [Johnson: 2018]. Nerve impulses arriving at the neuromuscular junction cause the release of acetylcholine from the presynaptic nerve terminal. Ach binds with its receptor on the membrane of the muscle fiber, opening sodium channels that generate action potentials in the muscle fiber. The action potential spreads throughout the length of the muscle, stimulating the release of Ca2+ from internal storage sites (the sarcoplasmic reticulum). The release of Ca2+ activates the contractile mechanism of the muscle fiber, causing it to shorten. In this experiment, the gastrocnemius muscle and the sciatic nerve were isolated from a frog leg and the neuromuscular properties were studied under the effect of caffeine.
+	The main target of caffeine seems to be the calcium channels in the sarcoplasmic reticulum from which the release of calcium occurs leading to contraction of muscle tissue. Caffeine seems to promote the release of calcium thereby enhancing the contractility of skeletal muscle in a variety of species. It was hypothesized that injecting caffeine into the gastrocnemius muscle of Rana pipiens will result in uncontrolled contraction of the muscle.
+
+
+Materials and Methods:
+Three Rana pipiens frog legs were collected and placed in a dissecting pan. With a pair of forceps, we grasped the skin at the top of the leg and pulled the skin down towards the foot. The skin leg was laid in the dissecting pan and moistened with frog Ringer’s solution. Using a dissecting probe, the inner thigh muscles were separated, beginning at the upper end and extending to the knee. A string was then tied to the Achilles tendon and the muscle was suspended. For each frog leg, 3 myograms were recorded for the control condition using the pin probes connected to the iWORKS TA machine. Using LabScribe, signals were emitted starting at a low amplitude until the threshold was located. Once the threshold was reached, the threshold value was tested in three trials in order to conform the value. Once the value was confirmed, 0.1 mL of caffeine was injected into each of the frog legs. Then, 3 additional myograms were recorded. The amplitude was measured after injecting caffeine, and the amplitude revealed that chemically-induced tetany had occurred. A paired t-test was carried out to compare the averages of the control group and the frogs injected with caffeine. 
+
+Results:
+The three frog legs showed a normal temporal contraction pattern with a contraction and relaxation phase. When the three frog legs were injected with 0.1 mL of caffeine, chemically induced tetany was seen. In this condition, the muscle had reached a state of maximal sustained contraction and never returned to a state of relaxation.  Figure 1 illustrates that the average amplitude from the myogram was significantly smaller in the three frog legs before being injected with caffeine (avg= 0.0791  0.051 V) compared to the average amplitude after the caffeine injection (avg= 0.9139   0.184 V) (t-stat=10.63, p-value= 0.009).
+
+Discussion:
+The results revealed that the amplitudes of the myograms of the gastrocnemius muscle before and after injection were significantly different which suggests that caffeine has an effect on the contractile processes.  The hypothesis can be accepted as injecting caffeine into the gastrocnemius muscle resulted in uncontrolled contraction of the muscle. According to the data, the frog legs experienced chemically induced tetany with the injection of caffeine. This could be a consequence of caffeine blocking the reuptake of calcium into the sarcoplasmic reticulum. Similar results were observed by Koshita and Oba [1989] who looked at the effects of caffeine contracture and tetanus tension in single fibers of frog skeletal muscle. They found that tetanus tension was almost maximally induced by electrical stimulus in caffeine-treated fibers. This study further confirms that caffeine can impact the release of calcium from the sarcoplasmic reticulum.
+
+Literature Cited:
+1.	Johnson AD. Hormone Regulation. Comparative Physiology BIO 114 Laboratory 
+Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 18.1 (updated January 5, 2018), pp. 7-14 
+2.	Koshita, Makoto, and Toshiharu Oba. 1989. “Caffeine Treatment Inhibits Drug-Induced Calcium Release from Sarcoplasmic Reticulum and Caffeine Contracture but Not Tetanus in Frog Skeletal Muscle.” Canadian Journal of Physiology and Pharmacology, 67(8), 890-895.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-10+at+3.30.27+PM.png&Size=23527&Type=image%2Fpng&F=F_1kYPS24ibzYjY1G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+
+Figure 1. Average amplitude of three myograms recorded during muscle contraction before and after caffeine was injected in three Rana pipiens legs. The bar represents the average obtained for three gastrocnemius muscles and the whisker represents the standard deviation.
+
+
+*************************************************************************

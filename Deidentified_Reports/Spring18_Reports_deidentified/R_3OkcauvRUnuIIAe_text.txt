@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 13:05:20
+Author of this lab report is: Std_KFo51mhr
+ID: R_3OkcauvRUnuIIAe
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The Effects of Lanthanum Chloride on Twitch Threshold in the Gastrocnemius Muscle of a Frog Leg
+
+Abstract:
+Calcium is an important ion in the process of skeletal muscle contraction because it allows the myosin to bind to the actin and perform a power stroke, which is essentially the muscle contracting. Without calcium, the muscle would not contract. In this experiment, we injected lanthanum chloride (1mM) into the gastrocnemius muscle of a Northern Leopard frog leg to determine if blocking calcium in the muscle will affect the threshold of the twitch. To examine the threshold, we used a force transducer accompanied by the software LabScribe and made the frog legs twitch to examine the threshold. We hypothesized that because calcium blockers prevent muscle contraction, injecting lanthanum chloride into the muscle will prevent contraction, making the threshold non existant or potentially extremely high. We concluded that since the lanthanum chloride had other surprising effects on muscle contraction, it does not block calcium as well as we thought, giving us insignificant results.
+
+
+Introduction:
+Skeletal muscle contraction allows movement in vertebrates. Movement is a essential part of life because it allows animals to complete tasks necessary to survival such as obtaining food, protecting themselves from predators and environmental hazards, and allows for reproduction. Skeletal muscle contraction is a very detailed process that involves thousands of myofibrils, motor neurons and specific ions such as calcium, potassium and sodium. For muscles to contract, graded potentials summate to produce an action potential in a motor neuron. Next, calcium enters the presynaptic neuron and neurotransmitters are released. The neurotransmitters bind to receptors, allowing a sodium influx. The graded potential at the motor end spreads across the postsynaptic membrane and sodium channels are activated, leading to an action potential in the muscle cells. The action potential causes calcium to bind to troponin, exposing binding sites on actin. Myosin binds to the actin and the myosin heads bend. ADP is replaced by ATP on the myosin head and calcium moves back into the sarcoplasmic reticulum [Johnson: 2018].
+	To examine muscle contraction, we will manipulate the sciatic nerve and gastrocnemius muscle of the leg of a Rana pipiens (Northern Leopard Frog). We will record a myogram by attaching the gastrocnemius muscle to a force transducer and recording the amount of force generated over a few seconds. Force transducers work by transforming mechanical energy into electrical signals [Johnson: 2018]. The myogram will allow us to visualize the various parts of a muscle twitch: the latent period, contraction phase, and relaxation phase. In this experiment we will be blocking calcium from leaving the sarcoplasmic reticulum by injecting a specific calcium blocker, lanthanum chloride into the muscle. We will test the threshold of frog legs before and after injecting the the calcium blocker, lanthanum chloride in to them. We hypothesize that because calcium is needed for muscle contraction to take place, blocking calcium from leaving the sarcoplasmic reticulum (and therefore disabling myosin from attaching to actin) will prevent the muscle from contracting, therefore the twitch threshold will be non-existant or potentially much higher than normal.
+
+
+Materials and Methods:
+Four four legs were obtained and dissected according to the instructional video. The skin was removed, gastrocnemius was detached at one end, and the sciatic nerve was exposed. Thread was tied to the achilles tendon, at the end of the gastrocnemius, and the muscle was suspended from the hook on the SMT-220 striated muscle transducer. The first leg was pinned down and moistened with frog Ringer’s solution. Electrode thread was attached to the red and black probes and both of the threads were placed under the sciatic nerve and taped into place. On the LabScribe software, the number of pulses was set to 1, the width was set to .1, and the frequency was set to 1. The amplitude was set to .1 and was increased until a threshold was reached. After three findings of the threshold, the muscle was injected with lanthanum chloride (1mM) and set aside for 10 minutes. The same process was done to the other three legs. After 10 minutes, the first leg, plump with lanthanum chloride solution, was resuspended from the hook on the muscle transducer and the threshold was retested. The same process was done for leg #2, #3, and #4. Results were recorded and discussed and the twitch amplitude was examined for further data. A paired t-test was used to determine the P-value.
+
+
+Results:
+Based on the graph, the average threshold for the control group was higher than the average threshold for the treatment group. Frog leg #2 and #3 had higher thresholds before the chemical was injected and frog leg #1 and #4 had the same threshold before and after the chemical was injected.. A paired t-test was done, (1 degree of freedom, t-value=1, and P-value=.5). With a P-value of .5, our results were insignificant. The threshold for the treatment group was lower. 
+
+Discussion:
+Because the threshold for the treatment groups was the same/significantly lower, we reject our hypothesis. Our insignificant results were not expected because as mentioned earlier, blocking calcium in a muscle cell would cause the muscle not to contract. The muscles happened to contract with a higher threshold than originally noted, so something was off with the lanthanum chloride.  After some research, we concluded that as expected, Lanthanum chloride does block calcium, but it also makes the muscle cell more sensitive to calcium, so less calcium is needed to produce a normal threshold. [Ciceri: 2012] That fact that it makes the muscle cell more sensitive to calcium was not expected at all. In the cell, calcium is released from the sarcoplasmic reticulum and into the sarcoplasm, but lanthanum chloride blocked that from happening. That being said, no chemical can block all the calcium entering the sarcoplasm, so the little that was still able to get to the sarcoplasm was more greatly affected the cell muscle contraction, due to fact that lanthanum chloride also makes the cell more sensitive to calcium. Because of this affect, the chemical basically counteracts its effects and essentially does nothing. 
+	In frog leg #1, the thresholds of both the treatment and control trials were the same and the twitch amplitude in the treatment trial was a bit higher. In frog leg #2, the treatment trial threshold was even lower than the control trial threshold, which is completely the opposite of what we stated would happen in our hypotheses. These results were disappointing but they were mainly out of our control. We potentially could have researched the chemical beforehand, if we had had access to the name of it before the lab, but since we did not, we just assumed it was strictly a calcium blocker, and did not have any other purposes. Even though this chemical might seem useless because it essentially cancels out itself, it actually is used in medicine. Lanthanum chloride is used to spark cell apoptosis in ovarian cancer cells. When the body becomes resistant to Cisplatin, an anti-ovarian tumor drug, lanthanum chloride is used along with Cisplatin, lanthanum chloride has an inhibitory effect on the cancer cells, which is beneficial to killing the cancer. [Wang: 2016] 
+	Although the fact that lanthanum chloride not having the effect we thought it would was the main reason for the in significant results, another issue could have been the condition of the frog legs. The frogs were sick with red-leg syndrome which is caused by Citrobacter freundii [Quintana:2017]. This disease decreases the frogs ability to jump, so their threshold could have been overall lower. This would not have affected our results per say, but it would make our experiment hard to compare to others done in the past.
+
+
+Literature Cited:
+Johnson, AD. Hormone Regulation. Comparative Physiology BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 5, 2018), pp. 17-34 
+
+Ciceri P, Volpi E, Brenna I, Elli F, Borghi E, Brancaccio D, Cozzolino M. 2012. The combination of lanthanum chloride and the calcimimetic calindol delays the progression of vascular smooth muscle cells calcification. Biochemical and Biophysical Research Communications. 418:770-773.
+
+Wang F. Lanthanum chloride enhances cisplatin-induced apoptosis in ovarian cancer cells. Cellular and Molecular Biology. 62: 1-5.
+
+Quintana, G., Niederle, M.V., Minahk, C.J. et al. 2017.Nisin Z produced by Lactococcus lactis from bullfrog hatchery is active against Citrobacter freundii, a red-leg syndrome related pathogen. World J Microbiol Biotechnol. 33: 186. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-25+at+12.26.12+PM.png&Size=27464&Type=image%2Fpng&F=F_3EFuA4RoHaeEC6f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1- This graph shows the threshold in volts of the control group (4 frog legs without any chemicals injected) and the treatment group (4 frog legs injected with Lanthanum chloride) of all of the frog legs. n=4. The control average was 0.21 and the treatment average was 0.185. (degrees of freedom=3, t-value=1.73, P-value=0.18). The arrow bars represent the standard deviation of the sets.. Because the P-value is greater than .05, the results are not significant.
+
+*************************************************************************

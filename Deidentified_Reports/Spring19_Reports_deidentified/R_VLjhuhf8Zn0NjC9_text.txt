@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-04 02:05:29
+Author of this lab report is: Std_tex2TjiF
+ID: R_VLjhuhf8Zn0NjC9
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effects of caffeine on the response of muscles 
+
+Abstract:
+This experiment looks at how caffeine affects muscles, the nervous system, and the firing of muscles in Rana Pipiens legs. Our hypothesis was that the caffeine would create a larger response in the muscle and reach tetany faster. The muscles responses were measured without caffeine injections and with caffeine injections. The p-value was determined to be 0.04967 so the difference in data was found to be significant. Our hypothesis was supported. This could possibly be from caffeine causing more calcium to be in the cell causing the cell to contract longer and more intensely creating a larger response. Further research on this topic could yield sports drinks that utilize caffeine to increase muscle contraction, to increase the force generated, and to increase the duration of the contraction.  
+
+Introduction:
+This experiment examines the relationship between the chemical caffeine, the nervous system, and the firing of muscles in Rana Pipiens legs. Muscle contraction is started by the nervous system firing an action potential down the nervous system which terminates in the muscle cell. The nerve cell releases a neurotransmitter that causes the muscle cell to release calcium ions (Ca2+) from the sarcoplasmic reticulum. The calcium allows myosin and actin in the cell to bind to each other which causes a contraction of the muscle cell. Motor units are nerve axons that are connected to many myofibrils. If the axon receives an action potential, then all myofibrils connected to the axon will contract. Spatial summation is when more motor units are stimulated which increases the force of the contraction of the overall muscle. Temporal summation is when motor units are repeatedly sent an action potential, this causes the muscle to contract again during the relaxation phase to create a pull. After a while, this will cause the muscle to enter tetany when the muscle is fully contracted and can not produce any more force. 
+Usually, calcium is taken back into the sarcoplasmic reticulum when the contraction is finished, and myosin and actin can no longer bond and form a contraction. However, Caffeine increases the release and uptake of calcium ions in muscle cells [Isaacson: 1967]. So, calcium is being taken into the cell and used released by the cell at a faster rate meaning more calcium will be in the myofibril. We hypothesized that the caffeine injected into the leg would increase calcium ions, which would cause the muscle to easily enter tetany and produce a higher response to the stimulus. 
+
+
+Materials and Methods:
+First, three Rana Pipiens legs were skinned and moistened with Ringer’s solution. Then, the sciatic nerve was separated from the thigh muscle. The Gastrocnemius was then separated from the leg and suspended in the air by a string. A probe was implanted into the Gastrocnemius. A stimulus was sent through the muscle 5 times and stimulus voltage recorded. 
+Next, the same frog leg was injected with 0.2ml of caffeine. A stimulus was again sent into the muscle 5 times and the stimulus voltage recorded for each. The process was repeated with two other Rana Pipiens legs. Each leg served as its own control group. A paired T-test was used to statistically analyze the results. 
+
+
+Results:
+The average stimulation voltage for the control group was 0.474 (+/-0.119) V (figure 1). While the average stimulation voltage for the experimental group was 0.933 (+/-0.178) V (figure 1). The paired t-test found the p-value to 0.04967 with the significant value being 0.05 and the t value to be 4.318037 with two degrees of freedom. 
+
+Discussion:
+Our hypothesis that caffeine would allow the muscle to reach tetany with a higher stimulus was supported. The p-value was below .05 which means the data we collected was significant, suggesting that muscles exposed to caffeine reach tetany faster and produce a higher response. The role of caffeine in contraction is through the influence of calcium on the cell [De Gubareff: 1956]. The increase in response of the muscle is possibly due to the increased amount of calcium that is in the myofibril. More calcium in the cell would allow myosin and actin to be able to bind to each other more frequently and for longer periods of time. This would allow the motor unit to have a larger response to a stimulus than a motor unit that has not been exposed to caffeine. The results show that after being exposed to caffeine the stimulation voltage increased a significant amount. This could be the calcium ions in the muscle cells increases the number of bonds formed between myosin and actin. Which would increase the duration and intensity of the muscle contraction. These results are supported by the experiment conducted by De Gubareff and Sleator. After receiving the caffeine injection, the muscle became very discolored, tough, and rigid. This possibly shows that the muscle had entered tetany and had fully contracted. Further exploring this research could lead to new solutions that could allow muscles to have a faster response time and be able to contract faster, with more force, and for longer. 
+
+Literature Cited:
+1.	Isaacson, Allen, and Alexander Sandow. 1967. "Quinine and caffeine effects on 45Ca movements in frog sartorius muscle." The Journal of general physiology 50.8  
+
+2.	De Gubareff, Taisija, and William Sleator. 1965. "Effects of caffeine on mammalian atrial muscle, and its interaction with adexosine and calcium." Journal of Pharmacology and Experimental Therapeutics 148.2 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+lab+2+graph.png&Size=8636&Type=image%2Fpng&F=F_1GTFtXG7dCx5zTm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average stimulation of control group with no caffeine and experimental group with caffeine. Three legs were tested to find the average stimulation voltage for the control and experimental groups. Each frog leg served as a control and experimental group. The errors bars were 0.119 and 0.178. *************************************************************************
+
+
+

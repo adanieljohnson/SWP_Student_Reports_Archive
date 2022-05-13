@@ -1,0 +1,95 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 22:29:37
+Author of this lab report is: Std_iYdPHBsj
+ID: R_1r3tLLyexpZEXiu
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Prioritizing behavior in Physarum polycephalum in relation to phototaxis and chemotaxis
+
+Abstract:
+Physarum polycephalum is a multinucleate organism that uses cytoplasmic streaming to move towards or away from different environmental stimuli, behaving as if it were one single cell. Physarum will move toward food with nutritional value, such as glucose, and away from light if possible, preferring darker environments. If these factors were to conflict with the physarum needs and preferences, how would the physarum react? For instance, how would it behave if it could not escape light, or if its food source was only available in light? How would it prioritize its need for food in comparison to its preference for darkness? Based on the results of this experiment, we found that physarum moves toward food a dark environment. In a light environment, the physarum has minimal movement. In a dark environment in which the food source is only available in light, the physarum moves toward to food before retreating back to its original position. By comparing physarum behavior in three separate environments (completely dark, completely light, and partially light), we can conclude that physarum (without a starvation period) prioritizes a dark environment over food. 
+
+Introduction:
+Physarum polycephalum is a multinucleate syncytium, meaning there are multiple nuclei contained in a single plasma membrane. This causes the organism to behave as a single cell would, but on a much larger, more observable scale [Roberts: 2015]¹. Although physarum has no nervous system [Johnson: 2016]², it is able to spread itself out in different directions through cytoplasmic streaming [Gladfelter: 2006]³. In this mechanism, the cytoplasm flows in different directions, pushing the membrane out or retreating back in. The direction the physarum streams is determined by different factors, such as light, food, and the force of gravity [Johnson: 2016]². 
+	Phototaxis is the physarum movement in response to light. The physarum can either move towards light (positive phototaxis) or away from light (negative phototaxis). Chemotaxis is the physarum movement in response to food, either moving toward food it has deemed nutrient-dense (positive chemotaxis), or away from food (negative chemotaxis) [Johnson: 2016]². When in unfavorable conditions, the plasmodium will hibernate by hardening to form a sclerotium. Once conditions become favorable again, it will break open allowing the physarum to reappear. If the conditions do not change or additional stresses are added, the physarum will sporangate, forming small pieces of spore capsules that have haploid gametes. The sores can be carried by wind or rain to a new location that will hopefully have more favorable conditions for the physarum to grow.
+	Physarum often does not prefer light [Masakatsu: 1976]⁴, and has a preference for food such as glucose and amino acids [Chet: 1977]⁵. This leads to the question of how much both of these factors influence each other. How does the physarum display phototaxis in the presence of light? How will the physarum react when its only food source is in light? Will it sacrifice the food in order to remain out of the light? How will it behave if it cannot escape the light? Does it value food over light preference? 
+	Considering typical physarum behaviors, we predict that if the physarum has preferable conditions, meaning it it’s environment is dark and it has access to food, then the physarum will move towards the food unaffected. In addition, we predict that if the physarum is unable to escape direct like, then it will sporangate in an attempt to reproduce and move to a different, more preferable environment. These two possibilities apply to our last prediction: if the physarum food is only available in the light and its preferences conflict, then it will prioritize the need for food over the preference for a dark environment. 
+
+
+Materials and Methods:
+In order to carry out our experiment, we first needed to prepare food by mixing 20 mL of 1% melted water agar with 1 mL of 20 mM glucose before letting it cool to solidify. We also prepared nine water agar plates for our tests. Each of these plates had two wells about four centimeters apart. Each well was 1 square centimeter and was cut out using sterilized forceps. In all nine plates, one of the two wells was filled with a 1 centimeter cube of glucose. The other well was filled with a 1 centimeter cube from the physarum stock plate, with the physarum facing up. Three of the plates were labeled “Control Dark” and were completely covered in foil and kept in a cabinet during the incubation period. Three of the plates were labeled “Control Light” and were not covered at all, and placed under light during the incubation period. Three of the plates were labeled “Test” and covered in foil, but with a hole in the tin foil above the well that contained the glucose. The hole was about 2 centimeters in diameter. These plates were placed under light during the incubation period. The incubation period lasted 72 hours to allow for physarum growth and behavior. After the incubation period, the distance the physarum moved was measured, in addition to the behavior and direction in which the physarum moved. Three two-sample T-tests with a 95% confidence interval were used to compare the differences between the Control Dark and Control Light, Control Dark and Test, and Control Light and Test.  
+
+Results:
+Statistical Results:
+Dark Control compared to Light Control: (T-value = 1.24, df = 4, p-value = 0.014) [significant].
+Dark Control compared to Test: (T-value = 0.075, df = 4, p-value = 0.471) [not significant].
+Light Control compared to Test: (T-value = 4.25, df = 4, P-value = 0.007) [significant].
+
+Discussion:
+The results supported our hypothesis related to the Dark Control by moving towards the food when it has preferable conditions (meaning the environment is dark). In relation to the Light Control, our hypothesis was not supported in the sense that it did not show any signs of sporangating. However, there was very little movement. Our hypothesis related to how physarum will prioritize food over light was not supported. Instead, we found that physarum prioritized dark conditions over food.
+There was a significant difference between the Dark Control and the Light Control (.014). This was expected since, as stated before, physarum favors dark conditions. In the Light Control, the light was preventing the physarum from behaving normally as it did in the Dark Control, where it could move towards the food without anything inhibiting it.
+There was also a significant difference between the Light Control and the Test (.007). However, the importance of this result is more clearly demonstrated in the difference between the Dark Control and the Test, which was not significant (.471). Since it is not significant, we can attribute the difference between these two groups as being attributed to chance. This tells us that the physarum in the Test moved toward the food in the same manner that it did in the Dark Control. However, the qualitative difference in these two groups was what it did after it moved towards the food. In the Dark Control, it continued to spread toward the food. However, in the Test, the distance measured was a gel track. After physarum moves across a surface, it leaves a trail behind of a clear, gel-like substance [Adamatzky: 2012]⁶. Using this information, if the physarum were to retreat back to its original position, the gel would confirm that it retreated back while also revealing how far the physarum moved before retreating back. This indicates that the physarum moved the same distance as the Dark control, but ended up retreating back to its original position. Since the independent variable between these two groups is the presence of light near the food, this difference in behavior can be attributed to the presence of light near the food.
+The biological explanation for this behavior is that the physarum was attracted toward the food, causing positive chemotaxis. However, when it detected the light impeding its path toward the food, it prioritized the dark environment over the food, causing negative phototaxis. In an experiment by Bernd Meyer, physarum were given two different options to attain food: they could either take a longer path with darker, more favorable conditions, or they could take a shorter path with patches of light. This research demonstrated the physarum ability to detect the better path to take [Meyer: 2017]⁷.
+The change in behavior from positive chemotaxis to negative phototaxis reflects the physarum decision-making aspect of behavior, which is very similar to the motivating aspect of behavior in more complex organisms. Both can enable their own system that allows them to maintain a generally stable behavior while adapting to short term changes in the environment [Meyer: 2017]⁷. Although these systems vary in type, considering more complex organisms use a nervous system to detect and respond to stimuli and physarum do not have a nervous system, the same function can be achieved, proving decision making to be a important quality for organisms to have, no matter their complexity.
+The physarum response to light in relation to food that was observed in this experiment could easily be influenced by the last time it was able to attain food, in other words, its need for food. In future experiments, we would confirm how much of a factor hunger might play in the physarum response to light by adding a three day starvation period before beginning the experiment [Lee: 2018]⁸. This experiment could also move further in the direction understanding physarum. Physarum do not have a nervous system [Johnson: 2016]², so how is it able to detect and respond to environmental stimuli?
+
+Literature Cited:
+1. Roberts SE, Gladfelter AS. December 2015. Nuclear Autonomy in Multinucleate Fungi. Current opinion in microbiology. 28: 60-65.
+
+
+2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1, pp. 15-16.
+
+
+3. Gladfelter AS, Hungerbuehler AK, Philippsen P. January 2006. Asynchronous nuclear division cycles in multinucleated cells. The Journal of Cell Biology. 172(3): 347-362.
+
+
+4. Masakatsu H, Ueda T, Kurihara K, Kobatake Y. Phototaxis in True Slime Mold Physarum polycephalum. 1976. Japan Society for Cell Biology 1(3): 269-278.
+
+
+5. Chet I. Naveh A, Henis Y. Chemotaxis of Physarum polycephalum towards Carbohydrates, Amino Acids and Nucleotides. September 1977. Microbiology Society. 102: 145-148.
+
+
+6. Adamatzky A. Simulating strange attraction of acellular slime mould Physarum polycephalum to herbal tablets. February 2012. Mathematical and Computer Modeling. 55(3-4): 884-900.
+
+
+7. Meyer, B., Ansorge, C., & Nakagaki, T. (2017). The role of noise in self-organized decision making by the true slime mold Physarum polycephalum. PLOS ONE, 12(3), e0172933.
+
+
+8. Lee J, Oettmeier C, Dobereiner HG. A novel growth mode of Physarum polycephalum during starvation. May 2018. Journal of Physics D: Applied Physics. 51(24): 244002.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-12+at+2.23.36+PM.png&Size=223058&Type=image%2Fpng&F=F_1eDUPhZDbJXt3nw
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-13+at+2.55.40+PM.png&Size=166109&Type=image%2Fpng&F=F_3Pc0hpKPeKwMjHb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.
+Summary of results for each group that was tested. The control group without light had the most movement, moving towards food. The control group with light had very little movement with little sense of direction. The test group had adequate movement, but had shown retrieval after some distance. Notable parts of this chart was that the test group consisted of mostly gel in measuring movement while the Control Dark was physarum, with both measurements being very similar. 
+
+Figure 2.
+The average distance the physarum moved for each group based on the presence of light in relation to food. Based on the results of three trials each for each group (N=3). Notable parts of this graph is the similarity between the Control Dark group and Test groups.
+*************************************************************************
+
+
+

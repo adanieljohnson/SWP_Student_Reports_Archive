@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-03 19:22:18
+Author of this lab report is: Std_pUUBlSau
+ID: R_2TWWarHokdEwgSf
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Blocking Calcium Channels with Lanthanum Chloride in the Muscles of Rana pipiens Does Not Prevent Muscle Contraction
+
+Abstract:
+This study focused on the role of calcium in muscle contraction, and how blocking calcium channels affects the twitch of the muscle contraction. We hypothesized that blocking calcium channels would decrease muscle contraction, which would increase the twitch threshold, or make it nonexistent. Calcium is important in muscle contraction because it aids allowing the thick myofilaments to bind to the thin myofilaments, shortening the sarcomere. Four legs from Rana pipiens were used in this experiment. We stimulated the sciatic nerve of each frog leg, without any calcium channel blocker, and measured twitch threshold. We then injected each frog leg with the calcium channel blocker, lanthanum chloride, and measured twitch threshold with treatment. Using the twitch threshold data for the control and the treatment frog legs, a paired t-test found the results of our experiment to be insignificant (p-value 0.412), so we could not conclude that blocking calcium channels has an effect on muscle contraction. This is because lanthanum chloride has an undesired effect of sensitizing calcium receptors, decreasing the desired effect of blocking calcium channels. Therefore, there was little difference between control and treatment groups, yielding insignificant results, which did allow for the con
+
+Introduction:
+Skeletal muscle exists in both vertebrates and invertebrates [Johnson:2018]. When the muscle is stimulated, action potentials travel along a nerve to the synapse, which in muscles is the neuromuscular junction [Johnson:2018]. This action potential ultimately leads to the depolarization of the neuron which then releases acetylcholine into the neuromuscular junction. Acetylcholine binds to receptors on the postsynaptic cell, helping the action potential to move forward. Eventually, the action potential results in the release of calcium, which plays a crucial role in the actual contraction of the muscle. Muscles consist of myofibers, including both thin and think myofilaments. During a muscle contraction, actin filaments slide past myosin filaments to shorten the muscle [Caruel:2018]. Calcium plays an important role by binding to the tropomyosin complex, moving it out of the way, to allow the myosin heads to attach to actin and shorten the muscle [Caruel:2018]. When calcium goes back into the sarcoplasmic reticulum, the myosin heads can no longer attach to the actin and the muscle relaxes [Johnson:2018]. Muscle contraction happens in three stages: the latent period, the contraction period, and the relaxation period. The latent period is the short amount of time where the muscle prepares for contraction after stimulation, the contraction period is the shortening of the muscle, and the relaxation period is when the muscle returns to its resting state. Collectively, these are known as the twitch, which is measured by a computer to make myograms [Johnson:2018]. In this study, we used injected lanthanum chloride into Rana pipiens, a frog, to block calcium channels, to see how inhibiting the role of calcium effects muscle contraction. Rana pipiens is a beneficial organism to study because its sciatic nerve and gastrocnemius muscle can be easily isolated to stimulate the muscle and measure twitch threshold to observe how blocking calcium can affect muscle contraction. We measured twitch threshold, the lowest stimulation frequency that is required to produce a muscle twitch for all four frog legs both before and after the calcium blocker was injected. We predict that blocking calcium in R. pipiens does have an effect on muscle contraction, and will prevent muscle contraction. Calcium is responsible for allowing space for the myosin heads to bind to the thin myofilaments and shorten the muscle. If calcium could enter the sarcoplasmic reticulum, there would likely be little to no calcium available to bind to tropomyosin to allow the thick myofilaments to shorten along the sarcomere and contract the muscle. Therefore, twitch threshold would likely be very high or nonexistent because it would take a lot of stimulus to produce a contraction with so little calcium available. Therefore, our hypothesis states that blocking calcium channels in the muscles of R. pipiens will prevent muscle contraction, resulting in a high or non-existent twitch threshold.
+
+
+Materials and Methods:
+To complete this experiment, we gathered four R. pipien legs. For each leg, we isolated the gastrocnemius muscle and the sciatic nerve and attached it to a specialized displacement transducer. Neither of these legs were originally treated, serving as a control. We then stimulated the nerve, beginning at a low voltage, until there was a muscle contraction. The amount of stimulus needed to produce a muscle contraction is the twitch thresholds. LabScribe software on the computer measured the muscle twitch and produced myograms. After finding the twitch threshold for each of the legs, we injected 0.1 mL of  1 mM of lanthanum chloride into the gastrocnemius muscle of each leg. We stimulated the legs again and found the twitch threshold for the three legs with treatment. After we obtained the results of the experiment, we produced a bar graph of the average control values and the treatment values. We then performed a paired t-test on the average of the twitch threshold of the control legs vs. the average twitch threshold for the treatment legs. 
+
+
+Results:
+Looking at the data, it appears that the twitch threshold did not very much between the control frog legs and the treatment frog legs. For two of the four legs, twitch threshold decreased after the calcium blocked was injected.  As seen in Figure 1, the average of the control group twitch threshold is higher than the treatment group twitch threshold by 0.012 volts. The control group average twitch threshold is 0.216 +/- 0.175 volts, while the treatment group twitch threshold is 0.204 +/- 0.173 volts. The error bars for the treatment and the control groups slightly overlap. This data was used in a paired t-test to determine the significance of the data. The degrees of freedom was 3. The paired t-test yielded a p-value of 0.412 and a t-value of 0.951. Because the p-value is above the critical value of 0.05, the results are not significant.
+
+
+Discussion:
+The results of this experiment are not significant, so we fail to reject our null hypothesis. Therefore, we cannot conclude that blocking calcium in the muscle of Rana pipiens has an effect on muscle contraction by increasing twitch threshold. It is likely that the chemical used to block calcium, lanthanum chloride, was inefficient at doing its desired job.  Hypothetically, the calcium blocker should have prevented muscle contraction, either raising the twitch threshold, or making it non-existent. This is because calcium plays an important role in the actual contraction of the muscle. Calcium is release by the sarcoplasmic reticulum binds to tropomyosin, which moves it to create space for myosin heads to attack to the thin myofilaments and contract the muscle [Johnson:2018]. If calcium channels are blocked, and the calcium cannot bind to the tropomyosin to move it in order for the myosin to shorten the muscle, the twitch threshold would increase because the muscle would need more stimulation to release more calcium to bind to the tropomyosin. The twitch threshold may also be nonexistent if too many calcium channels are blocked because not enough calcium at all may be able to enter the sarcoplasmic reticulum to bind to the tropomyosin. A previously tested experiment looked at the effects of three other calcium channel blockers, Felodipine, Nifedipine, and Verapamil on muscle contraction [Hagiwara:1993]. This experiment found that when these three drugs blocked calcium channels, muscle contraction decreased due to the reasons above. In this experiment, lanthanum chloride was the calcium channel blocker used, but it did not decrease muscle contraction, which was measured through twitch threshold. This is because lanthanum chloride has another effect that was undesired in this case, and influenced the results of the experiment so that muscle contraction did not decrease after the treatment. Another previous experiment found that lanthanum, in lanthanum chloride, activates calcium sensing receptors, which increases the sensitivity of the receptor to calcium [Lopéz:2010]. As a result, even when the lanthanum chloride blocked calcium channels, receptor sensitivity increased so less calcium was needed to bind to the tropomyosin and move it in order for the myosin to bind to the actin and shorten the muscle. The blocked calcium channels acted to increase the twitch threshold, while the increased sensitivity of the calcium receptors acted to decrease the twitch threshold, balancing each other out so that the measured twitch threshold with treatment was not very different from the control twitch threshold. In future experiments, it would be helpful to test another calcium blocker whose effects are more singular and accurate in order to test the effects of blocking calcium channels on muscle contraction. However, the use of lanthanum chloride to block calcium channels did not support the hypothesis of this study that blocking calcium channels decreases muscle contraction, resulting in a high or nonexistent twitch threshold.
+
+
+Literature Cited:
+Johnson 2018  Caruel, M, and Truskinovsky, L. Physics of Muscle Contraction, 2018.  Hagiwara, S, Mitusi, M, and Karaki, H. Effects of Felodipine, Nifedipine, and Verapamil on Cystostolic Ca2+ and Contraction in Vascular Smooth Muscle. 1993.  Lopéz, Natalia, and Fernández-Martín, José Luis. Lanthanum Activates Calcium-Sensing Receptor and Enhances Sensitivity to Calcium. 2010.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-03+at+7.21.42+PM.png&Size=107920&Type=image%2Fpng&F=F_11hjhmAR42CWBw6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1. Effect of lanthanum chloride on twitch threshold of muscles in Rana pipiens legs. The control group received no injection of lanthanum chloride into the gastrocnemius muscle, while the treatment group received an injection 1mM of lanthanum chloride into the gastrocnemius muscle. The average twitch threshold for the control group frog legs is 0.216 +/- 0.175 volts, while the average twitch threshold for the treatment group frog legs is 0.204 +/- 0.173 volts. The sample size for both the control and the treatment groups was four; we used four frog legs from four different frogs. From this data, we performed a paired-t test, which yielded a p-value of 0.412 and is not significant.
+
+
+*************************************************************************

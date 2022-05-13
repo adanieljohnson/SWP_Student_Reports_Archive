@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-23 18:38:14
+Author of this lab report is: Std_2v8eP3MT
+ID: R_7PsMYw1q3AExCp3
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The Effects of pH on the rate of electron transport in Spinach Chloroplast
+
+Abstract:
+Plants use photosynthesis to create ATP, the energy they need to power all cellular functions. Plants use sunlight to excite electrons store them as NADPH. These high energy electrons create proton gradients and electron transport chains which are used for ATP synthesis. DCIP can act also act an electron acceptor and by using spectrophotometry, we can experimentally track absorbance, which allows for the rate of electron transport to be observed. Since chloroplasts, the sites of photosynthesis, respond to changes in the environment, it is worth wondering how pH can affect electron transport rate. We hypothesized that the rate of electron transport will be decreased in pH5 and pH10 and that pH7 will have the highest rate of electron transport. Spinach leaves were used because of their easy accessibility and because of their large leaves. All the samples increased in absorbance over time. Even though not statistically significant, the pH 5 sample had the highest % change over time and also had the lowest absorbance and thus, our hypothesis was not supported. Our data showed that in the presence of pH stress the electron transport chain in the plant does not function well since absorbance increased.
+
+Introduction:
+Plants belong to a class of organisms called autotrophs which produce their food from simple inputs such as light, water, carbon dioxide, or other chemicals. Plants are able to produce glucose, the primary sugar used for energy, from carbon dioxide (CO2), water (H2O), and sunlight. The sunlight, which acts the source of energy for the process, is collected by organelles found in the leaves of plants called chloroplasts, which are the site of photosynthesis. Inside the chloroplasts, the light energy collected is used excite electrons in water to cleave H+’s from water which are then stored by reducing the electron carriers NAD+ to NADPH. These high energy electrons are then utilized to create a proton gradient. This gradient is formed by both an electrical membrane potential difference and by a concentration gradient of H+. This high energy gradient is used to fuel phosphorylation, the process by which plants are able to synthesize Adenine Triphosphate (ATP), the primary high-energy molecule used to fuel many biological processes. The newly synthesized ATP and the NADPH present are then used in the Calvin cycle, a process where a three-carbon sugar glyceraldehyde 3-phosphate is produced to by later used to create glucose. 
+Since the rate of electron transport can be difficult to track, it is possible to track the amount of NADP+ that is reduced to NADPH instead, since this reaction is what drives the electron transport chain. Experimentally, this can be observed by using an alternate electron acceptor, 2,6-dichlorophenol-indophenol (DCIP), which will change color from dark blue to clear when reduced. Thus, it is possible to test the effectiveness of photosynthesis by testing the absorbances in a spectrophotometer of solutions that contain chloroplasts and have been treated with DCIP. Lower absorbances will correspond to a higher rate of electron transport. Since, chloroplasts are living organelles, it is expected they will react to changes in the environment in order to ensure proper functioning of all enzymes. Dr. Wu and Dr. Berkowitz support this claim as they stated in their research” maintenance of high stromal pH in the light, is an important regulatory phenomenon that allows for optimal functioning of photosynthetic carbon reduction cycle enzymes” (Wu: 1992). Wu and Berkowitz also observed stromal acidification in their research and noted it could inhibit photosynthetic activity in a chloroplast. We hypothesize that the rate of electron transport will be decreased in pH5 and pH10 and that pH7 will have the highest rate of electron transport. Due to their easy accessibility and large leaves, we will use spinach leaves for the experiment. Time, light exposure, amount of chemicals and compounds used will all be independent variables. The absorbances of the solutions will be the dependent variables.
+
+Materials and Methods:
+Part 1: First, we placed the mortar and pestle, medium sized beaker and the centrifuge tubes into ice to cool and removed the central leaves from the spinach leaves. We then added the leaves to the cooled mortar and pestle along with 10mL of cold grinding buffer. We grinded the leaves into a thick paste and then again added another 10 mL of cold grinding buffer. Next, we strained the leaves mixture through 3 layers of cheesecloth into a cooled beaker/ After, we transferred 200 uL of the filtered liquid into a microtubule labeled A and placed it on ice. The rest of the solution we transferred into a centrifuge tube labeled A and spun it for 3 mins at 4 C. After spinning, making sure to keep the pellet at the bottom of tube A, we transferred the liquid into a centrifuge tube labeled B. We removed 200 uL of B and put it in a microtubule labeled B which was placed in ice. We then spun centrifuge tube B at 2800rpm for 10 mins. After spinning, we placed the liquid from tube B into centrifuge tube C, once again being very care to keep the pellet inside tube B. Next, we resuspended the pellet in 15mL of grinding buffer. After this step, we aliquot into 3, 5mL volumes into 3 different conical tubes. We added 5mL of pH buffer to each conical tube: 1 of pH 5, 1 of pH 10, and 1 with deionized water. We spun the conical tubes for 10 mins in the centrifuge at 2800rpm. After spinning, we separated the liquids from the pellets and then resuspended the pellets in about 3mL of grinding buffer. 
+
+Part 2: To prepare for the assay, we then prepared 10 test tubes according to the following table. We turned on the spectrophotometer and set the absorbance at 600 nm. Next, we transferred 100 uL of enriched chloroplasts to all the test tubes and mixed them immediately. We quickly transferred each mixed solution into individual cuvettes and used the blank to set the absorbance in the spectrophotometer.  Each sample was recorded by the spectrophotometer and placed in a rack under a bright light. These data points were marked as T0. After 10 mins, the machine was reblanked and the absorbance of each cuvette was recorded again and after, they were placed back under the lamp light. These data points (after 10 mins) was labeled T1. After another 10 mins, the machine was again reblanked and each absorbance value of each cuvette was recorded. These points (after 20 mins) were labeled T2 and the cuvettes again were placed under the lamp light. Finally, after another 10 mins (now 30 mins total), the absorbance of each cuvette was read and the data was marked under T3. To determine the significance of our results, we ran a two-sample t-test comparing the absorbance values of pH5 to pH7 and another comparing the absorbance values of pH10 to pH7.
+
+
+Results:
+All the test groups increased in absorbance over time. The pH5 test group had the highest percent change over time. The pH7 and pH10 groups stayed relatively stabled during the T2 to T3 period.
+
+Results of two-sample t-test:
+The p-value of pH 7 compared to pH 5 was 0.101654
+The p-value of pH 7 compared to pH 10 was 0.470865.
+
+Discussion:
+As previously mentioned, plants create the energy they use by ATP synthesis. This process is fueled by photosynthesis, in which several light-dependent oxidation-reduction reactions take place to create proton gradients and electron transport chains. The rate of electron transport is indirectly able to track the efficiency of photosynthesis because without proper utilization of sunlight and water, the electron transport chains would not function properly. By using the alternate electron acceptor DCIP and its property of changing colors once reduced, it is possible to track rate of electron transport. Furthermore, since chloroplasts are living organelles, they will react to changes in local conditions and the rate of electron transport will likely change. Thus, changes in pH likely affect photosynthesis and the rate of electron transport. The results of our experiment were different than expected since none of the samples reduced to the point where they changed color from dark blue to clear. Figure 1 showed that the pH 5 samples had the highest percent change of all the samples. This could be caused by the large presence of H+ ions in an acidic environment that reacted with DCIP. This could also explain why the pH 5 samples had the lowest absorbance values over time when compared to pH 7 and pH 10. However, overall, our hypothesis was not supported by the results of our experiment. We had expected for the pH 7 samples to have the highest percent change over time and the lowest absorbance. Instead, the pH 5 samples had the lowest absorbance. It is worth noting that the highest percent change, which also belonged to the pH 5 samples, was positive and the solution became darker over time. Our data also did not directly match up with Dr. Wu and Dr. Berkowitz’s research mentioned earlier of photosynthesis being inhibited by low pH because our data showed pH5 with the lowest absorbance (Wu: 1992). The results of the two-sample t-test was also important since both the p-value of pH5 compared to pH7(0.101654) and the p-value of pH10 compared to pH7(0.470865) were not statistically significant. This means that likely the data collected was due to chance or error. For future research, I think it is important to have a larger sample size to better understand the results of the data collected. I also believe it would be beneficial to better understand the mechanism of DCIP to understand how different pH environments could affect its color.
+
+Literature Cited:
+1.	Wu W, Berkowitz GA. 1992. Stromal pH and Photosynthesis Are Affected by Electroneutral K+ and H+ Exchange through Chloroplast Envelope Ion Channels Plant Physiol. 666-672
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=38730&Type=image%2Fpng&F=F_1kXNymz2hOu5Feo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Figure 1 shows the average percent change in absorbance over time. All the samples increased in absorbance over time.
+*************************************************************************
+
+
+

@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-10-28 21:51:59
+Author of this lab report is: Std_P5Q2tIHo
+ID: R_TpfH6mD1WNQl2wx
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: Effect of altered water color on aggressive behaviors in Betta splendens
+
+Abstract:
+Agonistic behaviors between members of the same species are common amongst males competing for access to mating opportunities. These threat behaviors manifest as distinct actions for different species; in Betta splendens, two of these agonistic behaviors include tail beating/flashing and the red mane. Since fish possess cone cells in their eyes, it was predicted that part of the aggressive response to another fish’s presence might be mediated by perception of the color red on another fish (as in the red mane). Thus, two male Betta splendens were placed in adjacent compartments of a tank with a clear divider separating them, and one of the compartments had red dye added to the water; the duration of aggressive behaviors was recorded. It was hypothesized that with the addition of red dye, there would be a decrease in duration of aggressive behaviors for both fish. The hypothesis was supported, as statistical significance was reached for each of the four t-tests performed. It was concluded that the red water caused each fish to perceive the other as dissimilar in coloring from itself, resulting in a decrease in perceived threat. The broader impact of studies on the relationship between behaviors and visual cues is an understanding of how vision evolved.
+
+Introduction:
+Intraspecific agonistic behaviors are threat behaviors performed by an organism when in the company of other organisms of the same species. Often times these threat behaviors are performed by males competing for access to females or for the opportunity to reproduce. Betta splendens will be used as the model organism because its intraspecific agonistic behaviors have been well studied and categorized according to their increasing intensity. Betta splendens, or Siamese fighting fish, are commonly found in Thailand, but they have also become popular as domesticated aquarium fish. Male Betta splendens may fight in order to gain access to bubble nests, so that they can then fertilize eggs by releasing their sperm in the water [Johnson: 2019].
+In previous experiments involving Betta splendens, the tail flashing/beating behaviors and the red mane were the most easily identifiable, so these will be the specific aggressive behaviors tracked over the course of the present study. Tail beating and tail flashing were observed simultaneously, so these behaviors will be recorded together. Both of these behaviors are broadside movements, or actions displayed when a fish has its side facing the other male. Tail beating refers to the sudden movements of the caudal fin directed toward the other male; tail flashing is used to describe the closing and reopening of the caudal fin. The red mane is the most intense of the facing movements, or movements in which the fish faces directly toward the other male. The red mane is the protrusion of the branchiostegal membrane from beneath the opercula, which is a vibrant red in appearance [Johnson: 2019].
+In addition to rod cells, two to three distinct types of cone cells have been found in the eyes of fish. Moreover, red-sensitive pigments have been identified in the eyes of multiple species of fish, including the bluegill, walleye, and piranha [Levine: 1982]. Therefore, since the display of the red mane has the highest intensity of the forward-facing aggressive behaviors, and it often predicts an attack, it is probable that Betta splendens also possess red-sensitive pigments. In order to determine if the reciprocation of aggressive behaviors is mediated through perception of the color red on another male, the present study endeavors to mask any color change and measure the difference in intensity of behavior. Thus, the water in one compartment of a tank will be dyed using red food coloring. It is hypothesized that if the water color of one fish’s compartment is dyed red, there will be a shorter period during which aggressive behaviors are demonstrated by both fish.
+
+
+
+Materials and Methods:
+Two male Betta splendens were placed in adjacent compartments of a tank, with both clear and opaque dividers separating them. The fish were observed for 3 minutes after removing the opaque divider, noting the amount of time they exhibited the tail beating/flickering and red mane behaviors. This was repeated twice, allowing the fish a 5-minute rest period after each trial, for a total of 9 minutes of observation. The behavior durations recorded during these 3 trials were used as the baseline/control data.
+The same procedure as above was then repeated, but at the start of the first observation period, red food coloring was added to the water of one fish’s compartment (referred to as “Fish 1”). A minimal amount of red coloring crossed over into the water of the adjacent compartment (that of “Fish 2”). Three 3-minute observation periods were conducted, with 5-minute rest periods after each of the three trials.
+Average duration of tail beating/flickering behaviors and red mane appearance were compared for the control and experimental trials using a one-tailed paired t-test.
+
+
+Results:
+The average duration of the tail beating/tail flickering response in Fish 1 was 2.38 minutes for the control trials (SD: 0.340), whereas its average duration was 0.407 minutes in the experimental trials (SD: 0.352). The duration of the tail beating/flickering behavior for Fish 1 was significantly different in the experimental from the control (t-stat = 6.91, df = 2, P = 0.0203). The average duration of the tail beating/tail flickering response in Fish 2 was 1.34 minutes for the control trials (SD: 0.331), whereas its average duration was 0 minutes in the experimental trials (SD: 0). The duration of the tail beating/flickering behavior for Fish 2 was significantly different in the experimental from the control (t-stat = 7.03, df = 2, P = 0.0196) (Figure 1).
+
+	The average duration of the red mane response in Fish 1 was 2.27 minutes for the control trials (SD: 0.667), whereas its average duration was 0.167 minutes in the experimental trials (SD: 0.0862). The duration of the red mane behavior for Fish 1 was significantly different in the experimental from the control (t-stat = 5.42, df = 2, P = 0.0324). The average duration of the red mane response in Fish 2 was 1.82 minutes for the control trials (SD: 0.390), whereas its average duration was 0 minutes in the experimental trials (SD: 0). The duration of the red mane behavior for Fish 2 was significantly different in the experimental from the control (t-stat = 8.07, df = 2, P = 0.0150) (Figure 2).
+
+
+Discussion:
+It was hypothesized that when the water in one of the tank’s compartments was dyed red, a shorter duration of aggressive behaviors would be observed. It seems that the data support the initial hypothesis, as the duration of the tail flickering/tail beating behavior as well as the red mane decreased in experimental trials for Fish 1 (the fish in the compartment with red water). Moreover, both the tail beating/tail flickering behavior and the red mane were eliminated entirely in Fish 2 (the fish in clear water). The decrease in aggressive response duration for all three studied behaviors was statistically significant in both fish. A possible explanation for these results is that Fish 2 was unable to distinguish Fish 1’s red mane from the surrounding water color, so it did not sense a threat and therefore didn’t reciprocate the aggressive behavior. As predicted, this seems to suggest a link between aggressive behaviors and visual stimuli, specifically related to color.
+A recent experiment found that a greater aggressive response was provoked from a triggerfish when placed in the presence of another fish with similar coloring, as opposed to when it was exposed to a differently colored fish; this phenomenon is termed “color-biased aggression.” It is thought that the similarity in coloring indicated to the triggerfish that the other fish would be competing with it for resources and reproductive opportunities [Roggers: 2018]. Therefore, according to the idea of color-biased aggression, the fish looking into the red tank (Fish 2) would have a distorted perception of the other fish’s coloring, and therefore would not see this fish as a competitor. Thus, it would have little motivation to display an aggressive behavior. This color-biased aggression also extends to interspecific interactions amongst fish. Hypsophrys nicaraguensis were found to show more aggressive behaviors towards species with more similar phenotypes (lighter coloring) than towards species with dark coloring [Lehtonen: 2015].
+In future studies, the methods outlined in the present experiment could be repeated, but instead of dyeing the water of one compartment red, fish of varying colors (and species) would be placed in this compartment, and the male Betta’s aggressive responses would be measured. Such a study would give more insight into what colors Betta splendens are able to perceive, as well as support or refute the idea of color-biased aggression. The broader implications of the study of how visual cues affect inter- and intraspecific agonistic behaviors amongst fish is a greater understanding of the forces driving the evolution of eyesight and color vision.
+
+
+Literature Cited:
+1.	Johnson (2019). Biology Core Resource Guide. 
+2.	Levine, J.S. and MacNichol, E.F., 1982. Color vision in fishes. Scientific American, 246(2), pp.140-149.
+3.	ROGGERS, R.D., SEEING RED: COLOR-BIASED AGGRESSION OF RHINECANTHUS ACULEATUS.
+4.	Lehtonen, T.K., Sowersby, W. and Wong, B.B., 2015. Heterospecific aggression bias towards a rarer colour morph. Proceedings of the Royal Society B: Biological Sciences, 282(1815), p.20151551.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=TBTFlabreport2.jpg&Size=12331&Type=image%2Fjpeg&F=F_vUgWI7UVNI9qK6R
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=RMlabreport2.jpg&Size=12800&Type=image%2Fjpeg&F=F_3PNToL3RT9hMBgD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Red Water Color on Duration of Tail Beating and Tail Flickering Response. As the control (blue bars), 2 male Betta splendens were placed in separate compartments of a tank with a clear divider in between, and the length of their tail beating/tail flickering behavior during the trial periods was recorded. This procedure was repeated for the experimental trials (orange bars) with the same 2 fish, except red food coloring was added to the water of Fish 1. Each bar is the mean duration of tail beating/tail flickering behaviors that occurred during three 3-minute trials. Error bars represent ±1 standard deviation of the sample.
+Figure 2. Effect of Red Water Color on Duration of Red Mane Response. As the control (blue bars), 2 male Betta splendens were placed in separate compartments of a tank with a clear divider in between, and the length of their red mane behavior during the trial periods was recorded. This procedure was repeated for the experimental trials (orange bars) with the same 2 fish, except red food coloring was added to the water of Fish 1. Each bar is the mean duration of red mane behavior that occurred during three 3-minute trials. Error bars represent ±1 standard deviation of the sample.
+*************************************************************************
+
+
+

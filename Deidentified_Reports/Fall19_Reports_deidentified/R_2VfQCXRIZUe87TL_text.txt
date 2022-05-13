@@ -1,0 +1,89 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-26 22:14:50
+Author of this lab report is: Std_QSsGSm3L 
+ID: R_2VfQCXRIZUe87TL
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The effect of temperature on the activity of Photosystem II
+
+Abstract:
+Photosystem II (PSII) is a major protein involved with the electron transport chain of photosynthesis. PSII converts solar energy into donating electrons to the electron transport chain, which produces an electrochemical gradient that drives the production of glucose in plants. One important environmental condition that needs to be considered when evaluating plant photosynthetic activity, especially given the possibility of regional temperature changes caused by climate change, is temperature. In this study we set out to determine the effect of temperature on PSII activity in spinach, a major agricultural export of the United States. In order to measure PSII activity, we used a reaction called a Hill Reaction. However, our results were not useful for conclusion, because there was no statistically significant difference between our samples PSII activity and 0, suggesting that the chloroplasts were not isolated correctly. 
+
+Introduction:
+Photosynthesis is one of the most important biological processes on the planet. Through photosynthesis, plants convert solar energy into chemical energy, both providing energy for the plant itself, as well as other organisms above plants in the food chain. Photosynthesis occurs primarily within the chloroplasts, and the reactions can be categorized based on whether or not light is necessary for the reaction. These categories are conveniently named the light-dependent and the light-independent reactions. 
+
+For the purposes of this study, we will focus on the light-dependent reactions and specifically Photosystem II. The light dependent reactions are built around the electron transport chain. The electron transport chain uses energy from the sun in order to excite electrons which then flow down the chain to produce an electrochemical gradient—a gradient which drives the rest of the reaction [Johnson: 2019]. One of the two enzymes responsible for converting solar energy into electrons is Photosystem II (PSII). PSII normally contributes an electron to plastiquinone, but it will also contribute electrons to other electron carriers [Walker: 2002]. A Hill reaction takes advantage of this fact to measure PSII activity, and it is the method we used (I will detail this method more specifically in the Methods). 
+
+Specifically, we will be evaluating the impact of temperature on PSII activity in spinach. Spinach is a very nutrient dense vegetable, and it a vitally important part of the American agricultural infrastructure [USDA: 2017]. Especially given the prospect of a changing climate over the next 100 years and a rapidly expanding global population [IPCC: 2019], it is vitally important to understand the growing patterns in regards to temperature of key agricultural staples, like spinach. We hypothesize that with increasing temperatures, PSII activity will increase accordingly, as the increased thermodynamic activity will increase the rate of the chemical reactions. 
+
+Materials and Methods:
+First, we need to isolate the chloroplasts from spinach cells. We used a mortar & pestle and a centrifuge. We grinded up the spinach leaves (after removing the major veins) into a paste-like solution using the mortar & pestle when the leaves are soaked in grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0). We centrifuged this paste once for 10 minutes at 1200 rpm, separating out the heavy debris from the cellular materials. We isolated this cellular material and centrifuged it again for 10 minutes at 2800 rpm, separating the chloroplasts, which are will collect at the bottom as a pellet, from small debris. This time, we removed the pellet, which contains the most rich supply of chloroplasts. These were the chloroplasts we used in our experiment. 
+
+As mentioned earlier, we measured the rate of PSII activity using a Hill Reaction. A Hill reaction uses an alternate electron acceptor, in our case DCIP, which the PSII can reduce, and the rate of this reduction served as our measure of PSII activity. DCIP in its regular form is a blue color, but when it is reduced to DCIP2, it becomes colorless. Thus, we measured the rate of reaction by the reduction of absorbance of this blue color (at 600 nm) using a spectrophotometer. 
+
+For our experiment, we had 3 treatment groups: one group at 20C, one at room temperature (approximately 25C), and one at 45C. Each treatment group had 3 samples, in addition to 3 samples that served as a negative control and 1 sample that was the blank. They were produced based on Table 1. 
+
+The following samples were allowed to react over the span of an approximately 30-minute period, with readings taken every 10 minutes. The Blank, Negative Control, and 25C sample were placed under a lamp at room temperature. The 20C sample and 45C were all placed in water baths set to those temperatures, with lamps of the same design placed above the samples. At each 10-minute interval, we took the absorbance reading at 600 nm. The samples were then transformed to a percent change from beginning to end, and compared with one another using a series of two-sample t-tests with  = 0.05. 
+
+
+Results:
+Figure 1 shows the results of our experience graphed on a line graph. 
+
+We then ran a two-sample t-test between all three treatment groups with the following null-alternate hypothesis structure (Note: We compared the percent change of each sample at the 30-minute time spot): 
+
+H_0:(% Change in Absorbance Sample A)=(% Change in Absorbance Sample B)
+H_A:(% Change in Absorbance Sample A)≠(% Change in Absorbance Sample B)
+
+Table 2. Table 2 shows a table of all the p-values from the tests with the null-alternate hypothesis structure shown above. N/A are shown because no t-test is needed to compare a sample to itself.
+
+Discussion:
+Based on these results, there was no statistically significant difference between any of the samples based on temperature. However, most interestingly, there was no statistically significant difference in PSII activity between any of the temperature samples and the negative control, the control that did not have any chloroplasts in it. Additionally, when a t-test was run to compare the mean of the negative control to a mean of 0, there was not a statistically significant difference. This suggests that the samples themselves did not react as if they had chloroplasts in them. Thus, we must conclude that somewhere in our methods we made an error or the spinach leaves which we grounded up had significant cell death already. Because of this result, we are unable to make any conclusions about the effect of temperature on PSII activity in spinach. However, previous research suggests that temperature does effect photosynthetic activity [Pastenes: 1996], so it is likely important to continue this type of research in the future. 
+
+
+Literature Cited:
+IPCC. 2018. The special report on global warming of 1.5C. 
+
+Johnson AD, Mallison S. 2016. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16. 
+
+Pastenes C & Horton P. 1996. Effect of high temperature on photosynthesis in beans (I. oxygen evolution and chlorophyll fluorescence). 
+
+USDA. 2017. Vegetables Annual Summary. 
+
+Walker D. 2002. ‘And whose bright presence’ – an appreciation of Robert Hill and his reaction. 73: 51-54. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-26+at+10.12.54+PM.png&Size=53098&Type=image%2Fpng&F=F_2cBIg3v8Ge7Yw1R
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-26+at+10.13.23+PM.png&Size=82186&Type=image%2Fpng&F=F_w7C6URK6Mty4oHT
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-26+at+10.14.09+PM.png&Size=61933&Type=image%2Fpng&F=F_21BbwRVYgm8GiT8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Table 1 shows the methods by which the samples for the experiment were produced, broken down by reactants. The Reaction Buffer was a solution with 100 mM phosphate at 6.5 pH, meant to increase the rate of reaction given our abbreviated time period. 
+
+Figure 1. Figure 1 shows the relationship between time and absorbance, partitioned based on temperature. The error bars show the standard deviation of the three samples in each sample group at each time interval. 
+
+Table 2. Table 2 shows a table of all the p-values from the tests with the null-alternate hypothesis structure shown above. N/A are shown because no t-test is needed to compare a sample to itself.*************************************************************************
+
+
+

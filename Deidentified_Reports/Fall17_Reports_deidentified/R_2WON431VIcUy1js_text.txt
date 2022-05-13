@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-10 14:18:55
+Author of this lab report is: Std_5tbIyTfX
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Inconclusive Effects of a Calcium Inhibitor, Sodium Butyrate, on Physarum polycephalum
+
+Abstract:
+All organisms must be able to respond to their environment in order to survive. In the case of Physarum polycephalum, a multinucleate syncytium, the response at the cellular level directly impacts the response at the level of the organism. Increased calcium concentrations have proven to increase cytoplasmic streaming, so we hypothesized that the introduction of sodium butyrate would decrease motility and growth in Physarum specimen. This was tested using PDA plates soaked in a 100μM sodium butyrate solution. Approximately 48 hours after inoculation with a physarum specimen, images were taken of each plate to determine the total surface area of the organism using ImageJ software. The control group displayed a mean of 1553 +/-730.6 mm2, and the experimental group displayed a mean of 1565 +/- 395.2mm2. A two sample t-test was used to determine significance using an alpha value of 0.05. The data was not significant, indicating the sodium butyrate did not have a significant effect on motility. Human error could be a contributing factor to this conclusion, as a second species was found growing on the plate during data collection. This could cause an unknown chemotactic effect on the physarum species, so we are unable to conclude whether sodium butyrate can inhibit growth.
+
+Introduction:
+The ability to respond to stimuli falls on a list of characteristics that all forms of life must possess. In order to survive, the organism must be able to take in information from its external environment, process it, and elicit a response if necessary. This often includes a response at the cellular level. In general, a ligand activates a receptor that creates a second messenger who carries the message further in the cell [Johnson: 2018]. 
+Physarum polycephalum acts as a model organism for studying the cellular response to external signals. The organism consists of a mass, called a plasmodium, that has multiple nuclei inclosed in one, large, plasma membrane. Although it does not have a coordinated nervous system like humans or other mammals, it still organizes itself to make a response throughout the organism using cell signalling pathways present in humans [Johnson: 2018]. 
+Derivatives of one such pathway help regulate movement in both Physarum and humans. The release of calcium ions into the cytoplasm achieves the arrangement of actin and myosin filaments in order to effect movement [Matveeva et al: 2010 and 2014]. When an extracellular signal associates with a G protein coupled receptor on the plasma membrane of a cell, the receptor binds to a G protein that then binds a GTP molecule and dissociates from its beta and gamma units. This allows an effector enzyme to bind; in this case, the enzyme is phospholipase C [Johnson: 2018]. This enzyme then cleaves a membrane lipid in order to create inositol triphosphate, IP3, and diacylglycerol, DAG. Each of these second messengers creates similar effects in the cell. IP3 acts as a ligand for calcium ion channels on the surface of the smooth endoplasmic reticulum, releasing calcium into the cytoplasm to, in the case of physarum and humans, allow myosin and actin filaments to associate with one another [Matveeva: 2010 and 2014]. For humans, this stimulates muscle contraction, but in physarum this increases the rate of cytoplasmic streaming. 
+While it is known that increased concentrations of calcium ions increase cytoplasmic streaming, it is unclear as to whether or not it has a direct effect on the motility and growth of the physarum specimen [Vogel et al: 2015]. We hypothesized that the introduction of a calcium inhibitor, specifically sodium butyrate, would decrease the surface area, as a measurement of growth and motility, of Physarum polycephalum. Sodium butyrate is a known inhibitor of calcium activated calcium ion channels in the cell. This would prevent the spread of calcium once it has been released from the smooth endoplasmic reticulum. We predict that this will inhibit the growth of Physarum, indicated by a smaller surface area. 
+
+
+Materials and Methods:
+A 1 to 20 dilution was completed to create 40mL of 100μM sodium butyrate solution. Twelve potato dextrose agar plates were soaked for 10 minutes using either 5mL of the sodium butyrate or 5mL of distilled water. A 1cm by 1cm square was cut from the center of all 12 PDA plates. The cut square was replaced with a physarum specimen of the same size. Each plate was covered in aluminum foil and stored in an incubator at 24 degrees celsius. After approximately 48 hours, images of the plates were taken and analyzed using ImageJ software in order to determine the surface area of the plasmodium. A two-sample T-test with an alpha value of 0.05 was used to determine significance between the mean surface areas of each group.
+
+Results:
+The mean area of the control group was 1553mm2, with a standard deviation of 730.6mm2. The mean area of the control group was 1565mm2, and a standard deviation of 395.2mm2. The standard deviation in the control group was much smaller, indicating concise data that lies closer to the mean than the experimental group. Furthermore, the two sample T-test produced a t-statistic of 0.0344, and a p value of 0.9732. 
+
+
+Discussion:
+The data do not support our hypothesis that the introduction of sodium butyrate would decrease motility of Physarum polycephalum. The p-value for the data, 0.9732, was much greater than the alpha value, 0.05, indicating that the mean surface area for the experimental and control groups did not differ significantly from one another. Thus, motility and growth, as measured by the surface area of the specimen, were not impacted by the introduction of sodium butyrate, a calcium inhibitor. 
+Our hypothesis was based on similarities between movement in Physarum polycephalum and muscle contraction in other specimen. Physarum movement is based around an actin-myosin pathway that is regulated using calcium ions [Uyeda and Furuya: 1986]. Like muscle contraction, calcium ions stimulate movement by allowing myosin filaments to interact with actin filaments. This causes cytoplasmic streaming in physarum, creating dynamic movement of the cytoplasm throughout the plasmodium. Matveeva et al reported that this increase in rate of cytoplasmic streaming often predicates increased motility and growth of the physarum specimen [2010]. However, calcium signalling can produce two different effects, a stimulatory effect in animal cells or an inhibitory effect in plant cells [Kohama: 2016]. Based on data from Matveeva et al indicating increased concentrations of calcium ions increasing the rate of cytoplasmic streaming, we predicted that Physarum polycephalum would following the stimulatory animal cell model. 
+On a molecular level, this inhibitor could have failed to completely inhibit the release of calcium ions or similar effects in the cell, for there are multiple pathways that inhibit the release of calcium into the cytoplasm. One of these pathways is regulated by a G-protein coupled receptor that activates phospholipase A, a protein that cleaves phosphatidylinositol to create two molecules, diacylglycerol, DAG, and inositol triphosphate, IP3, that both create effects in the cell [Johnson: 2018]. IP3 acts as a ligand to open calcium ion channels in the membrane of the smooth endoplasmic reticulum, flooding the cytoplasm with calcium ions. While sodium butyrate is known to inhibit the ion channel found in the smooth endoplasmic reticulum, it does not inhibit the subsequent chain of events that is stimulated by DAG [Johnson: 2018]. DAG is a protein kinase that regulates protein function by phosphorylating substrate proteins. This pathway also leads to a similar effect, resulting in the assembly of actin and myosin filaments [Shariff and Luna: 1992]. 
+That being said, there are a multitude of reasons that our data did not produce significant results as expected. The greatest contributing factor was human error. As displayed using figure 2, there was a unknown second species present on the PDA plates during data collection. This is most likely due to accidental infection of the plates by leaving the lids off of the plate for two long. Because potato dextrose agar is an abundant source of nutrients, bacteria or fungus would be likely to take up residence if they came in contact with the plate [Johnson: 2018]. Since the unknown organism was found on all 12 PDA plates, the error seems to be systematic rather than accidental, indicating procedural error. The data could have been affected by introducing an unknown chemotactic element to the experiment, giving data that is impossible to fully interpret. Furthermore, ImageJ software was also the most precise method of determining surface area available; however, it is not without error. It is very difficult to definitively determine the area of the physarum without very high resolution pictures and an extremely steady hand. 
+This hypothesis should be retested with procedural improvement. A set of inhibitors should be chosen that inhibits all possible sources of actin and myosin assembly, namely a combination that inhibits both the intracellular release of calcium ions and the diacylglycerol response.  Greater care should also be taken in preparing the PDA plates in order to limit exposure to unknown organisms. Lastly, data should be collected over time in order to determine whether or not the response to growth differs based on the amount of time that physarum is in contact with sodium butyrate and other calcium inhibitors. For example, the concentration of sodium butyrate could have slowed growth initially, but motility could have increased after a period of time in order for the surface areas to still be similar.
+The inhibition of growth in slime molds like Physarum polycephalum is important to plant growth. While slime molds like Physarum do not feed on plant tissue, they can decrease plant growth indirectly due to nutrient leaching or full coverage from the specimen [Hartman and Eshenaur: 2006]. Plant damage increases with growth of the slime mold, as nutrients from the surrounding environment become less available to the plant and coverage of the plant with the specimen increases. Increased coverage of low lying vegetation decreases the plants ability to survive because of its inability to photosynthesize without enough sunlight. Physarum and other slime molds are fairly easy to control in the dry season [Hartman and Eshenaur: 2006], however, growth inhibitors, like the ones studied in this lab, would be increasingly helpful during the wet season, where any attempts to break up the slime mold may increase the spread of the organism. 
+
+Literature Cited:
+1. Johnson AD. Signaling. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 1, 2018). Accessed April 08, 2018. &lt;https://sakai.wfu.edu/portal/site/c75c11d8-e847-48d6-ba53-96709cfe2307/tool/91dd27db-6f06-46fb-89f2-2b24871ec938&gt;. 
+2. Matveeva NB, Teplov VA, Beylina SI. (2010). Suppression of the Autooscillary Contractile Activity of Physarum polycephalum Plasmodium by the Inhibitor of the IP3-induced Ca2+ release, 2-aminoethoxydiphenyl borate. Biochemistry (Moscow) Supplement Series A: Membrane and Cell Biology. 4: 70-76.
+3. Matveeva NB, Beylina SI, Klyueva AA, Teplow VA. (2014). Involvement of Phosphatidylinositol 4,5-bisphosphate Binding Proteins in the Generation of Contractile Oscillation in the Physarum polycephalum Plasmodium. Cell Biophysics. 59: 758-763.
+4. Vogel D, Nicolis SC, Perez-Escudero A, Nanjundiah V, Sumpter DJ, Dusstour A. (2015). Phenotypic variability in unicellular organisms: from calcium signalling to social behavior. Royal Society Publishing. 282: 1-4.
+5. Uyeda TQP, Furuya M. (1986). Effects of low temperature and calcium on microfilament structure in flagellates of Physarum polycephalum. Experimental Cell Research. 165: 461-472.
+6. Kohama K. (2016). Calcium inhibition as an intracellular signal for actin-myosin interaction. Proceedings of the Japan Academy. 92: 478-498.
+7. Shariff A, Luna EJ. (1992). Diacylglycerol-Stimulated Formation of Actin Nucleation Sites at Plasma Membranes. Science. 256: 245-247. 
+8. Hartman J, Eshenaur B. (2006). Slime Molds, Lichens and Sooty Mold Problems on Plants. University of Kentucky College of Agriculture. Accessed April 08, 2018. &lt;https://plantpathology.ca.uky.edu/files/ppfs-gen-06.pdf&gt;.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.jpg&Size=13818&Type=image%2Fjpeg&F=F_3qBxsU4wsibGOg8
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.jpg&Size=171559&Type=image%2Fjpeg&F=F_26hhB4f51x2LPKZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average surface area of physarum specimen (average for control group= 1553mm2 +/- 730.6mm2, average for experimental group= 1565mm2 +/- 395.2mm2)
+Figure 2. Physarum polycephalum and unknown species grown on potato dextrose agar for approximately 48 hours.
+
+*************************************************************************

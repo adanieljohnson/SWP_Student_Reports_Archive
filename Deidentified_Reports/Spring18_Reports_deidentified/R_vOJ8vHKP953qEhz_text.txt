@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-28 18:44:31
+Author of this lab report is: Std_PCmWnmXe 
+ID: R_vOJ8vHKP953qEhz
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The Effects of Calcium Channel Blockers on the Electrophysiological Amplitude of Rana pipiens Legs 
+
+Abstract:
+	During this study, we determined the effects of electrical stimulation on the sciatic nerve of Rana pipiens, or frogs. We tested our hypothesis using three different frog legs. To do so, we injected a calcium channel blocker into the gastrocnemius muscle of the frog. The calcium channel blocker decreased the work of the muscle. In this same way, the myogram showed smaller action potentials and smaller peaks. During this study, we measured the rate of muscular contraction (in volts) through the Labscribe computer software. We hypothesized that if the release of calcium was inhibited and therefore less calcium was released, the rate of muscle contraction would decrease compared to when there was no inhibition to calcium release. The mean amplitude changed less than 0.01, so we do not have enough evidence to support our claim. Our hypothesis was not supported, as our data was statically insignificant. 
+
+
+Introduction:
+	Rana pipiens, belonging to the genus Lithobates, will be used as a mechanism to study nerve and muscle function. Skeletal muscle functions in supporting and moving the body. It is made of thousands of myofibers, or fused aggregates of cells, that are bound together by connective tissue [Tanabe:2005]. When a frog’s sciatic nerve is stimulated, a large number of fibers are activated. Frogs, like humans, have thousands of axons. The sciatic nerve includes a single bundle of fibers, which are surrounded by the perineum and epineurium. The gastrocnemius forms half of the calf muscle. The nerve impulse will be carried along the nerve fibers in the frog’s leg when the nerve is stimulated. Acetylcholine release in the neuromuscular junction binds to its receptor on the muscle fiber, which then opens sodium channels and generates an action potential in the muscle fiber. The action potential travels through the whole muscle fiber while stimulating calcium to be released from the sarcoplasmic reticulum. The release of calcium will result in the shortening of the muscle [MacIntosh: 2006]. Following this idea, calcium is required to continue with muscle contraction maintain an efficient rate of firing [Rüegg: 2012]. Past studies thus calcium’s importance in the skeletal muscle contraction of a frog. Based on previous knowledge, we believe that the calcium channel blocker should decrease the work of the muscle and this should be evident through the myogram.
+	We questioned the effect on the rate of muscle contraction if the calcium channels were inhibited. This study is relevant to the scientific community in that it provides extra inside into muscular contraction disorders. This information, along with other studies, can also be used to potentially create a new drug for people with heart arrhythmia (when the electrical impulses do not work correctly in the heart).  Based on this information we have about calcium release and muscle contraction, we hypothesized that if the release of calcium was inhibited and therefore less calcium was released, the rate of muscle contraction would decrease compared to when there was no inhibition to calcium release.
+
+
+Materials and Methods:
+	To conduct our experiment. we first obtained 3 frog legs (Rana pipiens) from our instructor. We began by preparing the frog leg. We did so by removing the skin (de-gloving), detaching the gastrocnemius and portion of Achilles tendon and stringing it to the force transducer. The sciatic nerve was then exposed. We then tied a string around the middle of the tendon, which hung from the ring stand provided in the lab. As a result, the gastrocnemius muscle was elevated. Next, the frog’s leg was pinned down to the dissecting tray with needles, and two electrode-stimulating electrodes were carefully placed through the gastrocnemius. Throughout this study, we used the software Labscribe to analyze how various experimental preparations affect the muscle and to measure amplitude. The needles were connected to this program through a force transducer, which sent electrical pulses to the frog leg muscle and in turn stimulated the muscle. After each pulse, a myogram was recorded on our computer, and then the threshold value was measured. We continued to increase the amplitude until the threshold value was obtained. After our control trials on all three legs were completed, we repeated the process again, but with 0.200 mL of a calcium channel blocker. We injected the calcium channel blocker into the gastrocnemius prior to experimenting. We ran a two-sample t-test with an alpha value of 0.05 to determine if our data was statically significant. 
+
+
+Results:
+	After running a student t test (paired two sample for means), it is evident that the control and experimental groups are not statistically significant (0.679, 8, 0.43). The groups were experimentally paired. The average peak assignment (in volts) for the control group was 0.334 volts and for the experimental group was 0.295 volts (figure 1).
+
+
+Discussion:
+Our hypothesis was not supported and our data was statically insignificant. Since the 
+mean amplitude changed less than 0.01, we do not have enough evidence to support our claim that that if the release of calcium was inhibited and therefore less calcium was released, the rate of muscle contraction would decrease compared to when there was no inhibition to calcium release. We expected to see a significant decrease in the rate of contraction based on previous studies and prior knowledge from lectures (such as from [Tanabe:2005]). We observed that the calcium channel blocker reduced the electrical conduction in the muscle, but only very slightly. This was most likely due to chance. There might be a relationship between amplitude of a simulated muscle contraction and the amount of calcium ion released, but our study can not advance this idea. Some studies have shown that if the number of ions decreases due to a calcium channel blocker, then the rate of contract will likewise decrease [Rüegg: 2012]. Although this study does not support our results, it furthers our hypothesis. We might have failed to accurately test our hypothesis as a result of sources of error. 
+	Potential sources of error include not waiting long enough for the muscle to relax, which could have caused the muscle to fatigue. Likewise, some of the calcium channel blocker could have also leaked out of the frog leg, which might have changed our amplitude. In a similar way, the metal wires used for the iWorks software may have touched, which could have messed up the data. This could have affected the results, making the rate of contraction with calcium channel blocker higher than without. Moving forward, we could repeat the experiment with different software, that is easier to use and also be extra careful with the calcium channel blocker. This study may be beneficial to those studying abnormal rates of muscle contraction and making medicine to help people with this problem. These medicines could regulate irregular heart rate contractions and potentially save a life.
+
+
+Literature Cited:
+
+References 
+
+1. MacIntosh, B. R., Gardiner, P. F., & McComas, A. J. (2006). Skeletal Muscle: Form and Function. Human Kinetics.
+ 
+2. Rüegg, J. C. (2012). Calcium in Muscle Contraction: Cellular and Molecular Physiology. Springer Science & Business Media.
+
+3. Tsutomu, et al. “Primary Structure of the Receptor for Calcium Channel Blockers from Skeletal Muscle.” Nature, vol. 328, no. 6128, July 1987, pp. 313–18. www.nature.com, doi:10.1038/328313a0.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+3.15.28+PM.png&Size=74393&Type=image%2Fpng&F=F_1NCAv28zswsdceG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The Effects of Calcium Channel Blockers on the Electrophysiological Amplitude of Rana pipiens Legs based on group type 
+
+
+*************************************************************************

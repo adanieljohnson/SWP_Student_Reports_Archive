@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-28 17:57:23
+Author of this lab report is: Std_puXRJYwc
+ID: R_1NljFXTtXTxez1P
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of Caffeine on the Growth of [Physarum polycephalum]
+
+Abstract:
+Signal transduction pathways are vital for cells to respond to external and internal environments.  The growth of [Physarum polycephalum] was analyzed in the presence of caffeine; caffeine is known to inhibit cAMP – a second messenger in a major signaling pathway of [Physarum].  We hypothesized that since caffeine inhibits cAMP, the growth of [Physarum] should be inhibited in the presence of caffeine.  Our results indicated that the caffeine did not show a statistically significant amount of inhibition in the growth of [Physarum] when compared to the control – slime mold in normal water-agar.  Our findings disagreed with our hypothesis as well previous studies that found that caffeine inhibits cyclic AMP (which should in turn inhibit the growth of [Physarum]).
+
+Introduction:
+Signal transduction pathways allow cells to respond to their external and internal environments.  [Physarum polycephalum], slime mold, is an is a multinucleate syncytium (a mass of multiple nuclei contained within a single plasma membrane).  [Physarum] function as an ideal model organism because we can explore and observe a variety of cell-level processes without using a microscope.  The slime mold is able to sense and respond to its environment because eukaryotes (even those that are distantly related) are comprised of cells that are more alike than they are different.  [Physarum] uses many of the same signal transduction pathways as human cells do.  The slime mold is easy to grow, handle, and observe in comparison to human cells.
+[Physarum polycephalum] spends most of its life cycle in the plasmodial stage.  The life cycle is unique in that the environment and environmental changes prompt the cells types to change.  When the slime mold is in dark and damp conditions, it remains as the giant and multicellular single cell that is known as plasmodium – it lives within damp, decomposing leaves and ground debris [Johnson: 2018].  The slime mold moves by crawling and extending its leading edge using actin microfilaments; it engulfs bacteria and other organic debris, and then actively transports hydrolytic enzymes into the food vacuoles to digest them.  Sclerotium is a stage in the life cycle that occurs when there is no food or water around; the plasmodium hardens to form sclerotium – it can live for years in this hibernation state [Hayase: 2008].
+[Physarum polycephalum] have receptors that are able to sense molecules in their environment.  The signaling cascades cause the cell to respond to those external molecules appropriately.  One of the two major G-protein coupled receptor pathways in [Physarum] uses cyclic adenosine monophosphate (cAMP) as a second messenger [Johnson: 2018].  It is known that cyclic AMP is inhibited by caffeine; specifically, caffeine blocks the activation of adenylate cyclase which is dependent upon cAMP [Johnson: 2018] [Brenner: 1984].  The purpose of this experiment was to determine how [Physarum] would function in the presence of caffeine.  Cyclic AMP signals growth in [Physarum] cells; so, inhibiting cAMP should inhibit the growth of [Physarum] [Kincaid: 1979].  Therefore, we hypothesize that treating [Physarum] with caffeine will inhibit its growth because it will not be able to effectively move toward a food source.
+
+
+Materials and Methods:
+Three water-agar plates were treated with 5 mL of 20mM caffeine pouring the caffeine into the plates and letting it soak for ten minutes.  After ten minutes, the caffeine was poured out of the plates.  Another three plates with only water-agar were used as control plates.  Six 1x1cm squares of [Physarum] were cut from the stock plate and placed in the six plates by replacing a square of water agar with a square of [Physarum].  The layout of each test can be seen in Figure 1.  Seven flakes of oatmeal were then placed, around the edges, in each plate.  After 48 hours of the [Physarum] incubating in a dark drawer, we observed the [Physarum] for growth or lack thereof.  The distance moved/grown was measured in millimeters; we measured length and width to determine area.  The change in growth was determined by subtracting the final area from the initial area of 1 cm2.  We used an independent one-tailed t-test, with equal variance, to analyze the results; the alpha value was set 0.05.  
+
+Results:
+As shown in Figure 2, one can see how the slime mold moved in both the presence of caffeine and not in the presence of caffeine.  When running a one-tailed t-test with equal variance, the [Physarum] treated with caffeine did not show a statistically significant amount of growth (t = 1.142, df = 4, p = 0.159).  The means of change in area, in squared centimeters, for both the control and experimental plates of [Physarum] are as follows:  30.54  6.39 (control) and 17.12  9.86 (caffeine).
+
+
+Discussion:
+In order to gain a better understanding of our results, we performed an independent one-tailed t-test with equal variance.  The calculated p-value of 0.15 lead us to reject our hypothesis, as shown in Figure 2.  We hypothesized that caffeine would inhibit the growth of [Physarum polycephalum].  Although the average change in area of [Physarum] of the control plates and the average change in area of [Physarum] of the experimental plates differed, it was not a statistically significant difference.  Overall, it seems that the [Physarum] treated with caffeine did grow less than that which was not treated with caffeine.  Also, a study completed found that caffeine inhibits cAMP – caffeine has a similar structure to that of cAMP so it works as an antagonist for cAMP [Kincaid: 1979].  Moreover, a different study determined that caffeine blocked the activation of cAMP in [Dictyostelium discoideum] [Brenner: 1984].  Our results did not show a statistically significant difference in growth between the [Physarum] treated with and without caffeine.  Our unsupported hypothesis could be due to the stock [Physarum] not growing as it should – it was defective.  The issues with the slime mold could have been due to being held at a temperature too cold; we were unsure of how the supply plant from which the [Physarum] was bought treated the [Physarum]; and, we were unsure of the age of the [Physarum].  These defects in the slime mold could have affected the cAMP-mediated pathway which would have affected our results.  Furthermore, the caffeine concentration may not have been sufficient enough to cause inhibition in the growth of [Physarum] by inhibiting the cAMP-dependent activation of adenylate cyclase.
+
+
+Literature Cited:
+Brenner M, Thoms S. 1984. Caffeine blocks activation of cyclic AMP synthesis in [Dictyostelium discoideum]. [Developmental Biology]. 101(1):  136-146.
+Hayase M, Maekawa A, Yubisui T, Minami Y. 2008. Properties, intracellular localization, and stage-specific expression of membrane-bound β-glucosidase, BglM1, from [Physarum polycephalum]. [International Journal of Biochemistry and Cell Biology]. 40:  2141-2150.
+Johnson AD. Cellular Signaling. Biological Principles Laboratory Manual. Dept. Biology Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016).
+Kincaid R. L., Mansour T. E. 1979. Cyclic 3′,5′-AMP phosphodiesterase in [Physarum polycephalum] I. Chemotaxis toward inhibitors and cyclic nucleotides. [Biochimica Et Biophysica Acta (BBA) - General Subjects]. 588(3):  332-341.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-28+at+5.50.47+PM.png&Size=35479&Type=image%2Fpng&F=F_2aWwqvf4zzEaeV4
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-28+at+5.50.57+PM.png&Size=59584&Type=image%2Fpng&F=F_3hcJFkJnCS0Ucw1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 shows the layout of each test plate.
+Figure 2 shows the change in area of each Physarum plate replicate over 48 hours of incubating in a dark drawer.
+*************************************************************************
+
+
+

@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-11 15:47:29
+Author of this lab report is: Std_oSpoEUpY
+ID: R_2Ug5aaVxXbbbZA4
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: A study of the effect of TEA Cl upon muscle contraction in frog legs 
+
+Abstract:
+	This lab report reviews the effect of tetra-ethyl-ammonium, a potassium channel blocker solution, on frog leg's muscle contraction. The aqueous solution, abbreviated as TEA, was injected into the three frog legs separately of 10 mM per leg. We hypothesized that injection of TEA will inhibit repolarization and prolong contraction time. In order to test this hypothesis, IXTA system and muscle transducer were used for muscle connection and stimuli control as we practiced different voltages and frequencies. Basing on the experimental data on iWorx software, paired T-test was run to determine the significance of our experiment and it turned out that our experiment was not as significant as we expected and the difference between two pairs of data was not as accurate as we assumed.
+
+Introduction:
+In this experiment, we chose northern leopard frog, Rana pipiens, as the experimental model to test the hypothesis of muscle contractions because it is commonly found in the North America and impressively easy to raise in captivity with powerful legs in medium size. The frog’s leg is a lever system designed for speed advantage with low high ratio of load arm to power arm.In general, the contraction of muscle involves three phases that could be recorded on the iWorx software on laptops in terms of myograms: the latent period, the contraction phase and relaxation phase. Moreover, Muscle contraction could be affected by many physical factors and its rate and magnitude could be affected by the amount of fluid around the myofibers. In our experiment, we will examine the effect of one particular fluid on muscle contraction. Tetra-ethyl-ammonium in aqueous state, accordingly, prolongs survival of a nerve and lengthens the duration of action potential by acting as a potassium channel blocker [Hagiwara and Watanabe: 1955]. A potassium channel blockade delays repolarization and increases the effective refractory period [Richard, 2011]. 
+Our hypothesis is that motor neurons will not be able to repolarize themselves, resulting in the muscles to be stuck in the state of contraction. Therefore, results in longer contractile time period.
+
+
+Materials and Methods:
+1.	Prepare three frog legs of Rana pipiens on the steel tray with pins.
+2.	Connect the IXTA USB cable with Mac laptop and SMT-220 Striated muscle transducer.
+3.	Peel off the skin of the leg on dissecting pan.
+4.	Moisten it with the frog Ringer’s solution.
+5.	Use dissecting probe to separate the inner gastrocnemius muscle and use a scissor to detach the muscle near its Achilles tendon towards the toes.
+6.	Separate the sciatic nerve from muscle.
+7.	Tie the gastrocnemius muscle with string and hang on the hook on the force transducer.
+8.	Immobilize the frog leg with pins.
+9.	Put the sciatic nerve on the stimulating electrodes.
+10.	Stab the electrical probes into the gastrocnemius muscle and gives stimulus to the muscles. Give stimulus with different amplitudes as frequency, numbers of pulses and, amount of tetra-ethyl-ammonium injected stay the same. 
+11.	On the computer, adjust the frequencies of the pulses, record contractile time and the frequency at tetany for statistical analysis and comparison. 
+12.	Inject the 10mM TEA solution into the muscle by disposable needles.
+13.	Repeat step 11.
+14.	Free the frog leg and dispose in a plastic bag.
+15.	Repeat step 3 to step 14 for other two frog legs.
+16.	Clean up the set up and work station.
+17.	Based on gathered data, run paired t-test for statistically results. 
+
+
+Results:
+	The mean contraction time of the three frog legs before and after injection of tetra-ethyl-ammonium was 258.33 and 736.67 as potassium channel has been blocked (Figure1). The mean frequency where tetany induced of the three frog legs before and after injection of tetra-ethyl-ammonium was 17 and 10 (Figure2). Treated frog legs showed lower tetany induced frequency but higher contraction time. Paired t-test was applied with t-value of 3.291and p-value of 0.081. Myograms also varied greatly. 
+
+Discussion:
+As we run the paired t-test aiming at comparing multiple pairs of observation of one contraction time group, the mean difference is much greater than 0. The null hypothesis of no statistical difference between having treatment or not was not rejected since p-value is greater than 0.05. Meanwhile, the one tailed hypothesis was not supported. Despite our final mean contraction time looked so different between the non-treated and treated group (736.6666667&gt; 258.3333333) and alpha level was close to 0.05, the p-value greater than 0.05 revealed that the difference between the two groups was not significant(P=0.081218). This phenomenon might be explained by repeated experiments on frog leg, resulting in fatigue and shorter contraction time. Based on the maximal and minimal frequency and contractile time we obtained last week, we started around the optimal value and experimented for several times until the optimal condition was reached. During that time period, ATP in the dead frog might encounter shortage and the effectiveness of providing stimulus via electrode might not be as high as we expected. 
+	Furthermore, our study could be improved by applying other physical factors of muscle contraction. Ideally, application of potassium channel blocker should raise the amplitude of myocardial contractions [Sitdikova and Khaertdinov: 2011]. But we didn’t prove this theory in our experiment. In addition, more accurate determination of the maximal, minimal, and optimal frequency before applying to our experimental model should be helpful. Fatigue is unavoidable in dead frogs and maybe we could wait longer time from recovering and attaining better results. When there is little or no ATP, muscle cannot contract when re-stimulated.
+
+
+Literature Cited:
+1. S. Hagiwara and A. Watanabe. 1955. The effect of tetraethylammonium chloride on the muscle membrane examined with an intracellular microelectrode. J Physiol. 129(3): 513–527.
+2. Richard E. Klabunde. 2011. Potassium-Channel Blockers (Class III Antiarrhythmics). 
+Accessed March 26, 2018. http://www.cvpharmacology.com/antiarrhy/potassium-blockers 
+3. Sitdikova GF1, Khaertdinov NN and Zefirov AL.2011. Role of calcium and potassium channels in effects of hydrogen sulfide on frog myocardial contractility. Bulletin of experimental biology and medicine. 2011 Jun;151(2):163-6.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7+2018-04-11+%E4%B8%8B%E5%8D%883.46.13.png&Size=46904&Type=image%2Fpng&F=F_3EarS6WAL5BYzUQ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7+2018-04-11+%E4%B8%8B%E5%8D%883.46.04.png&Size=48131&Type=image%2Fpng&F=F_2zx1NzAZU55RZGE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure1. Comparison of mean contraction time in non-treated and treated groups (258.33ms and 736.67ms). Error bar in the both groups is one standard deviation (+/- 16.07275127 in first column and +/- 266.2861869 in second column). 
+Figure2. Comparison of mean tetany induced frequency in non-treated and treated groups (17Hz and 10Hz). Error bar in the both groups is one standard deviation (+/- 1 in first column and +/- 2 in second column).
+
+*************************************************************************

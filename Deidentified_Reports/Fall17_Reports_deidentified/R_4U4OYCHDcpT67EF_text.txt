@@ -1,0 +1,51 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-02 15:04:48
+Author of this lab report is: Std_ieAA8GSW
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The effect of ACh Esterase inhibitor on amplitude of muscle contraction
+
+Abstract:
+This study serves to investigate whether ACh Esterase Inhibitor has an effect on the amplitude of muscle contraction. It is important to study this inhibitor because it has effects on human muscles and has been used in studies on Alzheimer’s and insecticides [Agency for Toxic Substances, 2007]. Acetylcholinesterase is an enzyme that breaks down acetylcholine, which occurs during the end of muscle contraction. With this enzyme being inhibited, calcium ions would continue to be released in the muscle fiber, which allows for contraction to continue. Because of this we hypothesized that the ACh Esterase Inhibitor would increase the amplitude of the muscle contraction. We studied the gastrocnemius muscle of a Rana pipiens leg and tested on three different legs. Using the LabScribe software five contractions were recorded continuously with the same voltage each time, first before the injection, and then a minute after the injection so the data could be compared. The data was then applied to a paired t-test and we were able to conclude that there was no significant difference between the control and experiment groups because each leg produced different results. The p-values were 0.00116, 0.33, and 4.95x10-5. 
+
+Introduction:
+This experiment uses the legs of Rana pipiens to discover whether an injection of an ACh Esterase Inhibitor into the muscle fibers would affect the amplitude of the muscle contraction. We chose to study this Inhibitor because acetylcholine is found all over the body and generates the stimulation of post-synaptic nerves, muscles and exocrine glands. [Agency for Toxic Substances, 2007]. For this experiment, we focus on acetylcholine in muscle contraction. It is released from the presynaptic nerve terminal after nerve impulses arrive at the neuromuscular junction. This release allows ACh to bind with its receptor on the muscle fiber and open up sodium channels which produces an action potential. This action potential stimulates the release of calcium ions through the length of the muscle fiber, which is what initiates the contractile mechanism. [Bio 114 Lab Manual, 2017]. This experiment focuses on an acetylcholinesterase inhibitor which prevents the breakdown of acetylcholine by blocking its normal binding site on the enzyme acetylcholinesterase. [Agency for Toxic Substances, 2007]. When this function is blocked, it leads to the accumulation of a large amount of the neurotransmitter acetylcholine. Acetylcholinesterase normally terminates the action potentials along the muscle fiber which causes the sarcoplasmic reticulum to stop releasing calcium ions. Without these calcium ions, the muscle stops contraction because myosin can no longer bind to actin. [Bio 114 Lab Manual, 2017]. Since the injection is inhibiting the action of acetylcholinesterase we expect the opposite of this to occur, meaning calcium ions will continue to be released and the muscle contraction would continue for longer and be larger. Therefore, we hypothesize that since ACh Esterase Inhibitor has an effect on the uptake of the ACh, the amplitude (mV) of the muscle contraction with the injection will be higher than the amplitude of the muscle without the injection of ACh Esterase Inhibitor. 
+
+Materials and Methods:
+This experiment utilizes three different Rana pipiens legs and repeats the same steps for each leg. To begin, the gastrocnemius muscle is dissected and suspended from a force transducer with two needle stimulation probes inserted into the muscle. Using the LabScribe software, the pulse amplitude will start at 0.0 V and then increased in 0.1 V increments until the threshold voltage for direct muscle stimulation is determined. Once this is found, the muscle’s response to direct stimulation is recorded for five pulses in a row at this voltage value. After this data is recorded for the control group, the leg is injected using a syringe with a 2% solution of Sevin which is the ACh Esterase Inhibitor. Using LabScribe, the muscle is stimulated at the same voltage as used previously and recorded for five contractions. The two different sets of five amplitudes produced from the muscle contractions in the leg are then compared using a paired T-test. 
+
+Results:
+The application of a 2 tailed, paired T test was used for each of the 3 different legs. Each leg yielded different results, with two legs having p-values low enough to signify that there was a significant difference between the control and treatment groups. For leg 1, the averages were 0.365 mV (SD=0.004) for the control group and 0.4924 mV (0.0376) for the treatment group. This gave us a relatively low p-value of 0.00116. For leg 2, the averages were 1.7208 mV (SD=0.0438) for the control group and 1.728 mV (SD=0.0404) for the treatment group. These averages were very similar in value, which yielded a p-value of 0.33, so this leg did not give significantly different results. Lastly, leg 3 gave the averages of 0.8416 mV (SD=0.024) for the control and 0.5894 mV (SD=0.0166) for the treatment group. This leg resulted in the lowest p-value of 4.93x10-5 which tells us that the results are significantly different for this leg. 
+
+Discussion:
+There was no significant difference between the control and treatment groups which means the hypothesis cannot be supported. Each leg produced different results, so no conclusion can be made from our data. According to study of rat skeletal muscle with a local block of acetylcholinesterase, a dysfunctional end plate that increases the release of ACh may be the initial point for regional abnormal contractions. [Mense, 2003]. The data from this study showed that an increased concentration of ACh causes damage to muscle fibers, which might explain the inconsistency with our results. In the experiment with the rats, they electrically stimulated the muscle nerve, while in our experiment we simply stimulated the muscle fibers so next time we would want to try stimulating the nerve. Some possible sources of error for our experiment were that the amount of voltage used for the five continuous contractions should have been higher. Additionally, the probes and tray were not completely cleaned after the first leg had been injected with the inhibitor meaning some of the Sevin solution could have soaked into the leg when testing it as a control. Next time, it would be better to use a greater number of Rana pipiens to have a greater sample size to compare results to. There is still a plethora of research to be done on acetylcholinesterase inhibitors and we can go beyond muscle contraction to look at its effect in the exocrine glands. 
+
+Literature Cited:
+
+Cholinesterase Inhibitors. (2007, October 16). Retrieved October 19, 2017, from Agency for Toxic Substances and Disease Registry website: https://www.atsdr.cdc.gov/csem/csem.asp?csem=11&po=5
+Comparative Physiology BIO 114 Laboratory Manual (Ver. 17.2 ed.). (n.d.).
+Mense, S., Simons, D. G., Hoheisel, U., & Quenzer, B. (2003). Lesions of rat skeletal muscle after local block of acetylcholinesterase and neuromuscular stimulation. Journal of applied physiology, 94(6), 2494-2501.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-11-02+at+3.03.04+PM.png&Size=26371&Type=image%2Fpng&F=F_b7Y1SzWCM08xTpP
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-11-02+at+3.03.34+PM.png&Size=29448&Type=image%2Fpng&F=F_bD7AdJjpZ6CJx4x
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-11-02+at+3.04.00+PM.png&Size=29027&Type=image%2Fpng&F=F_a01NMOZi9SL7d4N
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This displays the difference in muscle contraction amplitude between the two treatment groups for Leg 1 of the Rana pipiens. For the control group the mean was 0.365 mV (N=5, SD=0.004) and the 2% Sevin group was 0.4924 mV (N=5, SD=0.0376). The p-value was 0.00116.
+Figure 2. The difference of amplitude between the averages of the 5 contractions in the control group compared to the experimental group of the Rana Pipiens leg 2. The means were 1.7208 mV (N=5, SD=0.0438) for the control group and 1.728 mV (N=5, SD=0.0404) for the treatment group.
+Figure 3. This figure shows the average amplitudes of the control group versus the group with the 2% Sevin solution of the Rana pipiens leg 3. The means are 0.8416 mV (N=5, SD=0.024) for the control and 0.5894 mV (N=5, SD=0.0166) for the treatment group. The p-value is 
+4.93 x 10-5.
+
+
+*************************************************************************

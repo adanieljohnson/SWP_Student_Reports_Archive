@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-04 17:39:00
+Author of this lab report is: Std_zZ0YHKTG
+ID: R_2qaSz1KK0Le6toH
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title:  The effect of caffeine on the contraction of Rena Pipiens’s legs
+
+Abstract:
+Somatic neuromuscular system contains muscles and motor neurons as a kind of frog Rana pipiens’s legs have the same structure of Gastrocnemius muscle and Sciatic neuron. Also, drugs like caffeine can affect the contraction of muscles. In this experiment, the relationship between the injection of caffeine and contraction of R. pipiens’s Gastrocnemius muscles would be explored with the hypothesis that caffeine can lead to higher amplitude of contraction. In this experiment, the impulses were given to Gastrocnemius muscles before and after injecting caffeine. The amplitudes of contraction before and after injection were recorded. Results had small P-value, which supported the hypothesis that caffeine can lead to higher amplitude of contraction. In the future, experiments with more samples would be needed.,
+
+Introduction:
+Somatic neuromuscular system contains muscles and motor neurons. As the nerve impulses are conducted to the surface of the muscle and finally cause muscle contraction. For example, frog’s legs contain sciatic nerve which can cause the contraction of Gastrocnemius muscle. This structure also applies on Rana pipiens, a kind of frog. Besides, some drugs can cause the change in the amplitude of muscles contraction. For example, according to the research, when injecting caffeine into R. pepiens legs, sarcoplasmic reticulum will release more Calcium ions which leads to more and longer endurance of cross-bridges between actin and myosin, this can cause more drastic contractions of frogs’ legs [Weber: 1968]. In this experiment, I will explore how caffeine affect amplitude for the contraction of R. pipiens’s Gastrocnemius muscles. By researching in this topic, people will know more about how drugs like caffeine affect muscles then learn how to use caffeine better. My hypothesis is that as the caffeine can cause more drastic contraction, the amplitude of contraction will be higher when injecting caffeine.
+
+
+
+Materials and Methods:
+Prepare 3 legs of R. pipiens, for all the legs, stripping off the skin, and Gastrocnemius muscles were separated from other muscles with the only connection on the knee. Then the sciatic nerves were pulled out. Then tightly hang the Gastrocnemius muscle to the transducer with a string. Then for each leg, the pinnacle electrodes were probed into Gastrocnemius muscle. Open the software Labscribe, set the impulses of 1V and 1Hz which were given by electrodes to the leg for 5 times, recording the amplitude of contraction (in V). Then 1 mL of caffeine solution was injected into the muscle, giving another 5 impulses of 1V, 1Hz and recording the amplitudes of contraction (in V). All the data for amplitudes of contraction were recorded on Labscribe software. After previous steps for all three legs, I calculated the average amplitude of 5 impulses before/after injecting caffeine for each leg. Then perform paired T-test to determine whether the data was significant or not.
+
+Results:
+According to the figure, for all three legs, there are large differences between the amplitudes before and after injecting caffeine. As for the first leg, the average amplitude turned from 0.187±0.001V to 0.885±0.001V. The average amplitude turned from 0.292±0.013V to 0.692±0.005V for the second leg. And the amplitude of the third leg turned from 0.097±0.002V to 1.038±0.002V. By performing the paired T-test, it could be found that between treatment group and control group, the amplitudes before and after injecting caffeine have significant differences. As the result is: (t-stat = 4.34, df = 2, P = 0.0049). 
+
+Discussion:
+According to the paired T-test, amplitudes of all three legs have very small P-values, this means that the hypothesis that caffeine can cause more drastic contraction, the amplitude of contraction will be higher when injecting caffeine is supported. This follows the theory that when injecting caffeine into frogs’ legs, sarcoplasmic reticulum will release more Calcium ions which leads to more and longer endurance of cross-bridges between actin and myosin, this can cause more drastic contractions of frogs’ legs [Weber: 1968]. However, in this experiment, the number of samples is too small as 3 legs in each group, so that results may be inaccurate, in the future, I may perform this experiment with more samples to make it more accurate. In the future, I will research on how other drugs like Calcium inhibitor affect muscle contraction. For the results of these research, people will know what kind of drug to take when they have specific muscular diseases. Also, it will help make suggestions on the maximum mass of caffeine or other drugs which work on muscles that people can take every day. 
+
+Literature Cited:
+Weber, A., & Herz, R. (1968). The Relationship between Caffeine Contracture of Intact Muscle and the Effect of Caffeine on Reticulum. The Journal of General Physiology, 52(5), 750–759. https://doi.org/10.1085/jgp.52.5.750
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=%E6%97%A0%E6%A0%87%E9%A2%98.jpg&Size=37203&Type=image%2Fjpeg&F=F_1jqvBjNv9me9Tt7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+ Figure 1: the average amplitudes before and after injecting caffeine for all three legs *************************************************************************
+
+
+

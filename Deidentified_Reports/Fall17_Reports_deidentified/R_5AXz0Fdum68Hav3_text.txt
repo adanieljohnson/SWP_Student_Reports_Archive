@@ -1,0 +1,52 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-18 13:50:22
+Author of this lab report is: Std_AqcySwK0
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The Effect of Calcium Channel Activator on the Twitch Amplitude Threshold for the Leg Muscle of the Rana pipiens
+
+Abstract:
+In this experiment, the effect that the Calcium channel activator A23187 has on the twitch threshold in the leg muscles of the Rana pipiens, Northern Leopard Frog, was studied. This experiment was carried about by stimulating the sciatic nerve of the frog leg and measuring the amplitude of the twitch threshold with and without the Calcium channel activator during three trials. It was hypothesized that the Calcium channel activator would cause a decrease in the threshold of the twitch because the Calcium channels would be opened by the activator and there would be an influx of ions that trigger contractions and therefore the threshold will not need to be as high to be stimulated and contract. The study showed support for the hypothesis, as the muscles treated with the Calcium channel activator had a lower threshold than the controlled muscles without, since it activated muscle contraction which allows the threshold to be lower since a more minimal amount of voltage was then needed to stimulate a twitch.  
+
+
+Introduction:
+The purpose of this study is to examine the effect that the Calcium activator, A23187, has on the amplitude threshold when it is injected into the leg muscle of a Northern Leopard Frog, Rana pipiens. This species is especially important for researching neurons and the neuromuscular system because the muscle can stay alive and viable for a period of time while being studied and therefore the sciatic nerve can still respond to stimuli and twitches can be observed. Also, since these nerves are unique to animals, the intercellular communication examined in the frog legs can be used to compare to human muscles (Johnson: 2016). This experiment will be conducted in order to understand the way nerves and muscles react to the signals from the neuromuscular system and consequently contract. The way in which muscles contract begins with the axons of motor neurons entering a muscle, and spreading to supply nerves in myofibers at the neuromuscular junction. Here, nerve impulses cause the release of Ach which binds with receptors, which then opens Na⁺ channels that generate action potentials. These APs then cause Ca²⁺ release from the sarcoplasmic reticulum, which causes contraction and shortening of the muscle fibers. The threshold we are studying describes the minimum amount of stimulation in voltage that is necessary to conduct a twitch and muscle contraction. With this in mind, we hypothesized that the Calcium channel activator we are studying would cause the threshold of twitch amplitude to decrease because the opening of the Ca²⁺channels, due to the activator, will cause an inflow of positive ions and subsequently depolarization of the cell, so the threshold observed would presumably be similar to the AP threshold. The independent variable is the presence of Calcium channel activator, which also can be described as a categorical and discrete variable. The dependent variable studied is the strength of twitch in the frog leg, also measurement and continuous. 
+
+Materials and Methods:
+In order to study the neuromuscular function of Rana pipiens, or Northern Leopard Frog, the leg was prepared by removing the skin, exposing the sciatic never from between the inner thigh muscles, detaching the gastrocnemius muscle from the leg and then elevating the muscle above the dissecting pan with string. Ringer’s solution was used to moisten the legs throughout the experiments, and each leg was used as its own control because its threshold is tested first without the Calcium channel activator. The C-BNC-N2 simulator cable was attached to the sciatic nerve and the nerve was stimulated while finding and recording the threshold.  During each stimulation, the frequency (Hz) was set to 1 and the pulse width (ms) was set to 5. The gastrocnemius muscles of the legs were then injected with the Calcium channel activator, for the treatment groups, and the threshold was measured with the Calcium channel activator present. The Calcium channel activator used for the treatment group was 100nM A23187 solution, which was prepared prior to the experiment with the dissolving of 5.0mg in 10mL ethanol and then diluting to 100mL in Ringer’s solution. The statistical test used to organize the information from the experiment is a paired two-sample t-test. 
+
+
+Results:
+The results of this experiment showed that the threshold of amplitude generally decreased when the Calcium channel activator was used, in comparison to the control amplitude threshold. Specifically, we observed that in the first trial frog leg the threshold for the control and treatment groups were the same, which skewed the conclusiveness of the data slightly, because in the second and third trials the treatment threshold had decreased from the control threshold. The voltage out of the muscle contraction which shows the strength of contraction decreased between the control and treatment for the first trial, increased between the two for the second, and stayed the same for the control and treatment of the third. The paired t-test used to analyze the information showed a t-value of 1.511858, degrees of freedom of 2 and a P-value of 0.269703. Since this P-value is not less than 0.05, the results are not significant however. 
+Figure 1. This figure depicts the data of each of the three trials, comparing the control and treatment groups of each. In all the trials, except for the first, the twitch threshold decreased with the addition of the Calcium channel activator.
+
+
+Discussion:
+The hypothesis previously stated was largely supported by the results of the experiment because the amplitude threshold was decreased with the treatment of the Calcium channel activator. Through this information we can infer that the Calcium channel activator caused the opening of calcium channels, causing positive ions to flood in and depolarize the cell, because a lesser amount of voltage is then needed to stimulate a contraction of the cell.  The Calcium channel activator increases the ability of muscle contraction because an influx of Calcium ions is necessary to initiate muscle fiber contraction, therefore the threshold of the twitch can be presumed to have decreased because of treatment because the Calcium channel activator made the muscle more easily able to contract, therefore a lower threshold was needed to stimulate it (Barclay: 2012). Possible future steps in researching this field should be to do more extensive testing on threshold changes, because there is limited data on the interactions between threshold changes and Calcium channel activators. The data is relatively limited on this specific subject so more research on specifically the twitch threshold would be valuable to confirm that no other factors were behind the confirmation of hypothesis. Again, the data confirms that the hypothesis was mostly proven correct, however the statistical test shows the data was not strong enough to prove that the results could not have been affected by other factors, as shown with the P-value not being significant. Some possible factors that could have negatively affected the experiment is the fatigue of the frog leg during the treatment portion after acting as its own control, and also the few amount of trials used. In a similar study about the effect of Calcium on contraction thresholds in frog skeletal muscle, it is explained that the contraction threshold is changed because of the extracellular calcium concentration because it causes a larger depolarization to be required. The results of the study showed a decrease in contraction threshold of about 5mV, due to increase in extracellular Calcium. This study therefore supports the results obtained in this experiment, however this study also states that the studies of Calcium effects on contraction threshold often include inconclusive and differing results (Constantin: 1967). 
+
+
+Literature Cited:
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+Constantin LL. 1967. The effect of calcium on contraction and conductance thresholds in frog skeletal muscle. Physiological Laboratory. 1:119-132. 
+
+Barclay CJ. 2012. Quantifying Ca2+ release and inactivation of Ca2+release in fast- and slow-twitch muscles. The Journal of Physiology. 590: 6199-6212.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=clip_image001.png&Size=33682&Type=image%2Fpng&F=F_0fiAOAbnx42C8WV
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This figure depicts the data of each of the three trials, comparing the control and treatment groups of each. In all the trials, except for the first, the twitch threshold decreased with the addition of the Calcium channel activator.
+
+
+*************************************************************************

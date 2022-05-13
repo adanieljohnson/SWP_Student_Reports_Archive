@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 12:32:14
+Author of this lab report is: Std_DyaFPqOX
+ID: R_2P1haRT5nFifyzP
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Reducing effect of Acetylcholinesterase inhibitor on muscle contraction period
+
+Abstract:
+The Acetylcholinesterase inhibitor is a chemical that could be adopt in several ways. It functions positively as treatment to Alzheimer's disease and negatively as toxins to nerve. Thus, understanding and identifying the comprehensive property of AChE inhibitor is essential for proper use in daily life. This experiment investigates the reducing effect of AChE inhibitor on contraction period of Rana pipiens gastrocnemius muscle. The expectation is that the muscle will have shorter contraction period after the injection of the AChE inhibitor. However, the collected data show frog leg muscle has longer duration of the contraction period under the circumstances that AChE inhibitor is presented. Thus, the expectation that AChE inhibitor reduces muscle contraction period is unable to be directly supported by the results. Potential reason for the error is 2% Sevin, the AChE inhibitor, hasn’t fully functioned within limited time period after injection.
+
+Introduction:
+The acetylcholine plays an important role in the neuromuscular system. It’s initially released from the depolarization of neuron in the presynaptic nerve terminal. ACh functions as activator that binds to receptors on muscle fiber membrane, which leads to the conformational change and opening of sodium channel as well as generation of action potential in the muscle fiber. The action potential then transmits through the muscle fiber to trigger the release of Ca²⁺ ions from sarcoplasmic reticulum, and the ions further induce the contractile mechanism of muscle fiber [Sergio: 1963]. In correspondence to the activity of acetylcholine, the acetylcholinesterase enzyme works as an inactivator that breaks down the acetylcholine to maintain normal neuromuscular activities and avoid overstimulated receptors and disrupted neurotransmission caused by excessive acetylcholine. On the contrary, the acetylcholinesterase inhibitor targets at the acetylcholinesterase enzyme and prevents it from breaking down acetylcholine [Colović: 2013]. This further leads to accumulation of the acetylcholine and disruption of neuromuscular system, which causes stronger contraction force of muscles and shorter time to reach tetany. 
+
+This experiment purpose is to identify the effect of acetylcholinesterase inhibitor on neuromuscular system from measuring the duration of muscle contraction period and time needed to reach muscle tetany. 2% Sevin solution is applied to work as the acetylcholinesterase inhibitor. The hypothesis is that the Rana pipiens Gastrocnemius Muscle will have shorter contraction period and will reach muscle tetany faster if the AChE inhibitor is presented in the muscle.
+
+
+Materials and Methods:
+Three frog legs with the similar weight and length were prepared. Each frog leg was dissected with the dissecting probe to expose the white sciatic nerve and stabilized with Ring stand on the dissecting pan. The muscle was tied to the force transducer, and the white sciatic nerve was attached by stimulator electrode and connected to the stimulator. Several pins were used to fix the frog leg on the dissecting plan. The computer was connected to both force transducer and stimulator to record myograms. All the controlled group frog legs were stimulated by increasing stimulus frequency with 2Hz, 4Hz, 5Hz, 10Hz, 15Hz, 20Hz and 25Hz. The time span to reach the threshold was recorded for each stimulus frequency. Then, 5mL of 2% Sevin solution was then injected into each frog leg’s gastrocnemius muscle. Stimulation with the same stimulus frequency was applied for the treatment group after waiting for 5 to 10 minutes, and time span to reach threshold for treatment group was recorded. Statistical analysis based on paired t-test was used to make comparison of time span between control group and treatment group.
+
+Results:
+In table 1, both the control group and treatment group show a decrease in average time span for muscle contraction when the frequency of stimulation increases. The control group reaches tetany at stimulation frequency of 20 Hz, and the treatment group reaches tetany at stimulation frequency of 25 Hz.
+
+In figure 1, the average time span of treatment group is longer than that of control group for every stimulus frequency. Each bar is mean time span of 3 samples from each treatment or control group. Both of the control group and treatment group shows similar rate of decrement in muscle contraction time span correspondent to the same increment in the stimulus frequency. The rate of decrement in time span decreases when the stimulus frequency increases for both control group and treatment group. (t-stat=1.83, df=6, P=0.12)
+
+
+Discussion:
+The hypothesis, the Rana pipiens Gastrocnemius Muscle will have shorter contraction period and will reach muscle tetany faster if the AChE inhibitor is presented in the muscle, is not supported. From the data, the p-value for average time spans correspondent to various stimulus frequency shows that the results are statistically insignificant, which indicates the alternative hypothesis is rejected. The duration of contraction period decreases for both control group and treatment group when stimulus frequency increases, this is because the muscle higher stimulus frequency leads to more intense muscle contraction. The time span for control group and treatment group reaches zero because the muscle is fatigue and no muscle contraction can respond to the stimulus. The results are unable to support the hypothesis because the time span for muscle to reach tetany is longer in treatment group for each stimulus frequency. Though there’s difference in duration presented between control and treatment group, the results are not correspondent to previous studies that acetylcholinesterase inhibitor can decrease the muscle contraction period and disrupt the neuromuscular transmission [Colović: 2013]. These inaccurate results could come from errors in manipulating the experiment. Specifically, one potential mistake is more waiting time is needed between the injection of 2% Sevin solution and following experiment, and results could be more accurate if AChE inhibitor is fully absorbed by the muscle.
+
+Literature Cited:
+1.	Colović, M. B., Krstić, D. Z., Lazarević-Pašti, T. D., Bondžić, A. M., & Vasić, V. M. 2013. Acetylcholinesterase inhibitors: pharmacology and toxicology. Current neuropharmacology. 113: 315-35.
+
+2.	Sergio Ciani and Charles Edwards. 1963. The effect of acetylcholine on neuromuscular transmission in the frog. Journal of Pharmacology and Experimental Therapeutics. 142 (1): 21-23
+
+
+3.	Hermona Soreq and Shlomo Seidman. 2001. Acetylcholinesterase — new roles for an old actor. Nature Reviews Neuroscience. 2: 294-302
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=table1.png&Size=119447&Type=image%2Fpng&F=F_2v0T4qk6kv77CuQ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure1.png&Size=95982&Type=image%2Fpng&F=F_781kA4m0rpCIHtf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Average time span for muscle contraction to tetany
+Figure 1. Average time spans, with standard error bars.*************************************************************************
+
+
+

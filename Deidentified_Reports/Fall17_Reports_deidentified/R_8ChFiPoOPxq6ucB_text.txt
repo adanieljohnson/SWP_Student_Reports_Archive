@@ -1,0 +1,75 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-16 16:54:40
+Author of this lab report is: Std_QBsTAhBt
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Does Caffeine in Rana pipiens Gastrocnemius Generates Stronger Twitch?
+
+Abstract:
+After reading a report by A. Isaacson and A. Sandow about how caffeine can enhance muscle contraction by increasing calcium uptake and release on frog sartorius, our group tested on Rana pipiens gastrocnemius to see if caffeine has similar effect. Our alternate hypothesis is that caffeine can induce stronger muscle contraction and the stimulus voltage generated after caffeine injection will be higher.
+
+During the experiment, the gastrocnemius was separated from one end and suspended. Caffeine was directly injected into the muscle. Probes were placed inside the muscle to detect voltage change. Each leg acts as both control and treatment groups, so the threshold and other factors are controlled the same to eliminate confound variables. Stimulus voltages for 5 pulses were collected before and after treatment. Finally, a one-tail paired 2-sample T test was done to compare the two groups of data. The P value we got was 0.00338, which meant our result was statistically significant and our hypothesis was supported. Our further study may include testing on other kinds of muscles or on their species to make the conclusion application broader. 
+
+
+
+Introduction:
+As we’ve learnt in class, a nerve and muscle communicates through neuromuscular junction. Acetylcholine is released from presynaptic neuron, binds to the receptors on the muscle fiber, opens sodium channels and generates action potentials. Then, calcium ions are released which finally causes the muscle fiber to shorten.
+
+We read a paper named “Quinine and Caffeine Effects on 45Ca Movements in Frog Sartorius Muscle” written by Allen Isaacson and Alexander Sandow. They discovered that 1 mm caffeine in frog sartorius muscle can increase both the uptake and release of 45Ca by approximately 50% by generating twitch potentiation. [Isaacson: 1967] Therefore, we are interested and wanted to investigate how caffeine can impact on a frog, Rana pipiens, leg different from the un-treated condition. The muscle we tested on is the gastrocnemius as it is easy to separate. Also, frogs depend a lot on jumping, so its gastrocnemius is especially strong, so the twitch will be obvious. 
+
+We will measure three legs’ stimulus voltage by directly stimulating the muscle, then inject the caffeine and get the voltage change after treatment. Therefore, the control group and the treatment group are the same legs. The dependent variable is the stimulus voltage and the independent variable is the presence of caffeine. Because calcium is released more, our alternate hypothesis is that the legs will contract stronger, therefore the ones with caffeine would generate higher stimulus voltage compared to themselves before treatment. The null hypothesis will be there is no difference after caffeine treatment.
+
+
+
+
+Materials and Methods:
+1.	Place the frog legs in the dissecting pan, and carefully pull the skin down to the foot by using a pair of forceps. Through the whole experiment, add some frog Ringer’s solution to keep them moist.
+2.	Find the gastrocnemius which is the large muscle on the leg, use a pair of scissors to move between the bone and the muscle to separate them. 
+3.	Cut the tendon toward the foot to free the muscle on one end.
+4.	Cut a string long enough to suspend the muscle on the stand and tie it on the muscle.
+5.	Suspend the muscle perpendicular to the pan and adjust the string tension. 
+6.	Stable the leg by stabbing pins around the muscle into the pan.
+7.	Stable the probes into the muscle with the black one at the bottom and the red one on the top. 
+8.	Connect the devices to the lab top, and set the parameters on the LabScribe: Amp 1; #pulses 5; W(ms) 5; F(Hz) 1; HP 0.
+9.	Click “Apply” and “Record” to collect data. Record the 5 voltage changes by measuring the amplitude of the peaks. Data will be automatically given,
+10.	Start recording again, and after 5 peaks, inject 1 mL 200mM caffeine from a syringe. Be sure not to touch the probes placed. 
+11.	Collect the data of 5 voltage changes after injection after the change stabilizes.
+12.	Repeat the above steps for the other 2 legs. 
+13.	Run a one-tail paired 2-sample T test to analyze data.
+
+
+Results:
+During the experiment, we observed that after injection, the muscle stiffened, and the part unsuspended twitched and changed position. The pulses before injection is regular; after injection, the voltage immediately increased and formed an irregular pattern. Finally, it became stable and regular again.
+
+The sample size is 3; degrees of freedom is 2; T value is 17.157; and P value is 0.00338. Although we collected 5 data each before and after injection, I averaged them before typing into Excel and calculating them.
+
+By looking at Figure 1, we can observe that there is huge difference between the two groups. After caffeine is injected, the muscle contracts stronger and generated higher voltage change. There was no outlier as all of the three legs showed similar trends. 
+
+
+Discussion:
+The P value we calculated is 0.00338, which is very small. When P is smaller than 0.05, it is statistically significant. It suggests the null hypothesis is rejected. Therefore, our alternate hypothesis for caffeine can impact on muscles by making it contract stronger and create higher stimulus voltage is supported. Our result is also supported by Isaacson’s study as twitch potentiation is increased. Although we did not find how caffeine actually caused the change, since the previous study is supported, we could interpret it as calcium uptake and release is enhanced, so contraction is stronger.
+
+Because of the lack of equipment, we did not separate the sciatic nerve. In further experiments, we can measure the voltage change in the nerve to see if it is influenced as well. What’s more, combining with the published article, caffeine can induce stronger contraction on both frog sartorius muscle and gastrocnemius. We can further test on other kinds of muscles from frogs or muscles of different species to see if the finding applies to others so to increase its practical significance. 
+
+
+Literature Cited:
+Isaacson, A., & Sandow, A. (1967). Quinine and caffeine effects on 45 Ca movements in frog sartorius muscle. The Journal of general physiology, 50(8), 2109-2128.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=23729&Type=image%2Fpng&F=F_1ByCwzgBhtsTWqV
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The average stimulus voltage changes for the 3 frog legs twitch before and after caffeine injection. 
+
+
+*************************************************************************

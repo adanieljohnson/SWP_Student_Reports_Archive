@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-27 17:47:52
+Author of this lab report is: Std_0qHgVBL9
+ID: R_yt30JJ4fonmRcZj
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effects of Neomycin on the Strand Length (mm) of [Physarum polycephalum] Actin Filaments
+
+Abstract:
+The effects of the growth inhibitor, Neomycin, on IP3, a second messenger that affects calcium-release, were tested to look at the change in strand length (mm) of [Physarum polycephalum]. The purpose of this experiment was to examine the impact of a lack of calcium release on simple signal transduction. Six control plates (water agar) and six experimental plates (water agar + Neomycin) were tested, each containing a block of cultured [Physarum] in the center, and few flakes of oatmeal in a concentrated area near an edge. The plates were all placed in a dark environment for 64 hours, followed by measuring the longest mucous strand of each plate. Based on the two-sample one-tailed t-test performed, the data was statistically significant and supported the hypothesis that the Neomycin would inhibit strand growth. There were substantial greater strand lengths and overall growth of the [Physarum] in the control plates. Ultimately, the experiment offered evidence that calcium, and therefore second messengers, are crucial to [Physarum] growth and signal transduction.
+
+Introduction:
+In this experiment, we will be analyzing the inhibitory effects of Neomycin on the growth of [Physarum polycephalum], slime mold. [Physarum] is a bacterium that grows by extending out actin microfilament strands using cross-bridge formations. These strands tend to move towards food or any other protein that will help the organism attract food/nutrients to engulf. It is an efficient organism for this experiment because it grows quickly and has many variables to test its simple signal transduction pathways. Neomycin inhibits [Physarum] from growing by limiting the production of calcium-releasing proteins [Johnson:2018]. Generally speaking, Neomycin is used as an antibiotic or antimicrobial agent [Phongsamran:2018]. However, in this experiment, it is used to prevent the organism from producing second messengers that induce calcium release and therefore make it difficult to move towards food or other stimuli including proteins or bacteria that may contain nutrients. On a macromolecular level, Neomycin inhibits Phospholipase c (PCA), which cleaves phospholipids to form two second messenger molecules: IP3 and diacylglycerol. Diacylglycerol activates a protein kinase (protein kinase C) that controls other proteins. PKC, similar to PKA, phosphorylates enzymes to inhibit/stimulate them to prolong or speed up the action potential, thus increasing the release of calcium ions. IP3 binds to smooth ER receptors that are triggered to interact with calcium-regulated channels [Johnson:2018]. A lack of excited calcium-regulated channels will cause a lack of calcium release overall, which will increase the difficulty for the organism to grow and obtain nutrients. Ultimately, we hypothesize that the [Physarum] will not grow or move in the presence of Neomycin in the plate due to the inhibition of second messenger production and therefore a reduced source of calcium for strand growth and movement.
+
+Materials and Methods:
+This experiment required 12 water agar plates, six for control and six for Neomycin. Refer to the figure below to see how the two types of plates should be set up. 1 [Physarum] stock culture plate is needed to cut out 12 blocks of cultured [Physarum], and a few oatmeal flakes for each plate.  To set up the Neomycin plates, 4 ml of Neomycin were poured over the surface of six water-agar plates [before] the block was cut out. They each set for 10 minutes. The excess Neomycin was poured off the plate and the remainder of the set up followed that of the control plates. Each plate contained a single 1x1 cm2 block of [Physarum] in the center with a few oatmeal flakes in a concentrated area near an edge. A lid was placed on each plate, the sides were taped, and they were all covered in tin foil. All plates were placed flat, face up in a black bag in a dark environment for 64 hours. Each plate was uncovered analyzed for the longest actin strand (either mucous trail or slime mold). The longest strand of each plate was recorded (mm) and a two-sample one-tailed t-test was performed to determine the statistical significance of the means between the two test groups where  = 0.05. This statistical test analyzed the directionality of the data, specifically whether the mean of the test group had a significantly lower mean than that of the control, or a reduction in activity. Additionally, an outlier test was conducted using quartile means to ensure all data points were within reason to include in the results and analysis.
+
+Results:
+Based on a 95% confidence interval, the data between the test groups was statistically significant: p-value = 0.017, t-stat = 2.5, df = 9. An outlier test was performed to ensure the validity of all points. One strand measurement of a plate in the Neomycin group was proven to be an outlier, and therefore eliminated from the study. Refer to Figure 1, to analyze the mean of the 6 control plates compared to the mean of the 6 Neomycin plates.
+
+Discussion:
+   Based on the data gathered and t-test results, the hypothesis was supported. The data reflected what was predicted: the plates covered in Neomycin first accomplished little to no growth over the course of two and a half days. According to Figure 1, the control group achieved a substantially greater amount of strand length compared to that of the Neomycin plates; however, the data of the control was not very concise or concentrated, as evidenced by the large-scale error bars. While the concentration of the data was not evaluated for the purpose of the hypothesis, it’s interesting to consider the unpredictability of this organism. The P-value, 0.017, was less than the alpha, 0.05, and thus validated that the data was the result of the variable tested, not by chance. 
+   Since [Physarum] was tested as a living organism, its behaviors are more likely to be unpredictable, hence the single outlier of the experimental group. The [Physarum] in the Neomycin plates did not escape or grow past their original blocks most likely due to their struggle to sense positive stimuli outside of the block. Instead of trying to grow in harmful conditions, they formed new slime trails within their blocks, utilizing their calcium stores in a useful manner. The one plate with an outlier had an extremely thin mucous strand that spread nearly 100 mm - and made it to food. The mucous strand was on the very surface and must have found areas on the plate that had tolerable amounts of Neomycin. Evidently, this plate was not recorded in Figure 1. However, it’s important to consider that under certain circumstances, either an abnormal amount of calcium stores or certain second messengers, or an unevenly distributed layer of an inhibitor in an environment, [Physarum] can find ways to reach helpful stimuli, in this case, food. Relatively speaking, the [Physarum] severely struggled to move and grow beyond their central block in the Neomycin plates with an inadequate amount of second messengers to bind to release calcium. 
+   In a similar experiment conducted in 1988, Kuroda and his colleagues tested the change of cytosolic calcium-in concentration and the affects it has on the contraction and relaxation cycles of [Physarum]. They discovered that there was a high concentration of calcium during the contraction phase (growth phase). Additionally, they artificially increased the free Ca2+ ion concentration, which resulted in increased contraction. They ultimately concluded that a rise in calcium ions “induces the contraction of the actomyosin system” of [Physarum] [Kuroda:1988]. Kuroda’s experiment provides evidence for the data of this experiment because the [Physarum] didn’t have calcium ion stores or sources to grow, let alone the proteins to release calcium, and clearly didn’t have as much actomyosin activity. In another experiment, published a little more recently (in 2010), the suppression of auto-oscillatory contractile activity of [Physarum] was tested. The effects of inhibiting the IP3-induced calcium release was analyzed, and the study concluded that “IP3R is indispensable for the plasmodial” growth [Matveeva:2010]. The results of the two experiments further emphasize the importance of second messengers, such as IP3, for effective and efficient contraction and therefore growth of [Physarum]. Ultimately, there are necessary biological components (signal transduction pathways) and chemical components (proteins and receptors) needed for cellular communication. The more experiments conducted on simple transduction pathways, the greater chance there is of relaying it to more complex systems such as the human brain. In the big picture, studying these types of communicative pathways in organisms can help scientists predict root causes of signal transduction diseases and disorders.
+
+
+Literature Cited:
+1.	Kuroda R, Hatano,  Hiramoto, Kuroda H. 1988. Change of cytosolic Calcium-ion concentration in the contraction and relaxation cycle of Physarum microplasmodia. Protoplasma Supplementum. 1: 72-80.
+2.	Matveeva, Teplov, Beylina. 2010. Suppression of autooscillatory contractile activity of Physarum polycephalum plasmodium by the inhibitor of the IP3-induced Ca2+ Release 2-Aminoethoxydiphenyl Borate. Biologicheskie Membrany (Moscow). 27: 84-91.
+3.	Phongsamran, P. V., Kim, J. W., Cupo Abbott, J., & Rosenblatt, A. (2010). Pharmacotherapy for hepatic encephalopathy. Drugs, 70(9), 1131-48.
+4.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated Jan. 1, 2018).
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-27+at+1.32.22+PM.png&Size=77196&Type=image%2Fpng&F=F_1LC3kNh6l4DMMvY
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-27+at+5.46.18+PM.png&Size=134978&Type=image%2Fpng&F=F_WApvUoze8As38cN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Displays how to set up the plates for control and Neomycin plates.
+
+Figure 2. Average length of the longest strand of actin measured in both control and Neomycin settings after sitting for 64 hours. Due to an outlier, the control treatment bar contains 6 data points, while the Neomycin treatment bar contains 5 data points. The average length of the longest strand for the control plates was 13.3 mm +/- 11.7 mm while the average of the experimental group was 0.2 mm +/- 0.447 mm. The standard deviation of each treatment was calculated and is represented by the error bars above. The two sample one-tailed t-test concluded significant statistical differences between the two groups, indicated by the p-value: 0.017 being less than the alpha value: 0.05.*************************************************************************
+
+
+

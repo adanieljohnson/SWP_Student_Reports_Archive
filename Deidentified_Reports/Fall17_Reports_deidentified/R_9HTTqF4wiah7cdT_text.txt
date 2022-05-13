@@ -1,0 +1,52 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-05 16:30:40
+Author of this lab report is: Std_qVYCKXc6
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effects of Stress on the Metabolic Rate of Crayfish
+
+Abstract:
+Metabolism is an important biological process of animals which provides them with energy. Varies factors can influence how fast metabolism happens. We here conduct experiments on crayfish in terms of the effects of psychological stressor on them and hypothesize that the stressor would increase the metabolic rate of crayfish. We measure the metabolic rate by calculating the oxygen consumption in a closed environment (the glass jar), first with and then without the existence of the large crayfish. Our results perfectly supported our hypothesis and we may do experiments on animals that are more similar to human beings in the future.
+
+Introduction:
+Metabolism is a very basic but crucial life process of animals, which provides the body system with energy by converting the food, deal with wastes of the body and etc. So we can measure how active one individual creature is by measuring how fast it does metabolism, which is metabolic rate. We usually take the rate of a creature consumes oxygen as the metabolic rate. This is because when an organism produces energy by converting glucose, the carbon and oxygen atoms are converted into carbon dioxide, whose oxygen molecules are from the oxygen inhaled by the organism. The metabolic rate can be influenced by multiple factors including temperature, the intensity of activity, the body size and etc. [Gillooly: 2001] For example, normally, the larger the size, the lower the metabolic rate; to ectothermic animals, the higher the environmental temperature, the higher the metabolic rate. As human beings, we sometimes would feel ourselves breathing more heavily when facing psychological stress. As a result, we suppose that the metabolic rate can also be influenced by outside stressors. We decide to test this on crayfish whose biological structure is much simpler than the human’s. The crayfish is a sort of aggressive animal and when several ones are put together they would fight each other and usually the small one would be killed by the larger one. [Panksepp: 2003]As a result, we decide to use one large crayfish as an outside psychological stressor on the small crayfish and hypothesize that the metabolic rate of the small would increase with the existence of the large crayfish. 
+
+Materials and Methods:
+Control group we use the small crayfish as their own control group. 
+Procedure 
+1.	Measure the mass of the three crayfish, record the start time and the original oxygen concentration in the water. 
+2.	Put #1 crayfish into the glass jar to measure the oxygen consumption of it in 20 minutes and refresh the water. Do the same to #2 and #3 crayfish.
+3.	Refresh the water and put #1 small crayfish back into the jar. Put a large crayfish outside the jar in the tank. Then record the oxygen concentration in water every 5 minutes for 20 minutes by using an oxygen probe inserted in the top of the sealed jar.
+4.	Refresh the water and put #2 and #3 crayfish into the glass jar and the same large crayfish outside the jar in the tank. Then record the oxygen concentration in water every 5 minutes for 20 minutes by using an oxygen probe inserted in the top of the sealed jar. Recording and analyzing of the data We use the Microsoft Excel to record and analyze the data by running a paired t-test.
+
+
+Results:
+The results of our experiment show that the metabolic rate of the crayfish was higher in the presence of the larger crayfish. (see Fig.1) The P-value of paired t-test is 0.016.
+
+Discussion:
+According to the result of the experiment, there’s significant difference regarding the metabolic rate since the P-value is significantly less than 0.05. So we would say that our hypothesis is supported by the data, which means that psychological stressors do have effects on metabolic rate of crayfish.  However, there is one way that we can improve our experiment. We used the crayfish themselves as control groups so there is possibility that the crayfish’s metabolic rate raised because the oxygen concentration in the water decreased after they stayed in the jar for the first 20 minutes. Next we may use different crayfish as control groups. According to the past studies, psychological factors do influence the metabolic rate of human. For example, watching television can significantly reduce the metabolic rate of children and cause obesity. [Klesges:1993] So different moods would have different impacts on the metabolic rate of animals. The stress would increase while the relaxation would decrease the metabolic rate. Since we are quite successful on this experiment, we may plan our next experiment on a creature which is more similar to human beings such as dog or even a monkey to see whether a negative psychological influence would influence the metabolic rate of a mammal or not.
+
+
+
+Literature Cited:
+1. Jules B. Panksepp, Zhaoxia Yue, Catherine Drerup, and Robert Huber. Amine Neurochemistry and Aggression in Crayfish. Microscopy Research and Thechnique. 60:360–368
+2. James F. Gillooly, James H. Brown, Geoffrey B. West, Van M. Savage, Eric L. Charnov. Effects of Size and Temperature on Metabolic Rate. Science. 293:2248-2251 
+3. Robert C. Klesges, Mary L. Shelton, Lisa M. Klesges. Effects of television on metabolic rate: potential implications for childhood obesity. American Academy of Pediatrics. 91:281-286
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Capture.PNG&Size=29363&Type=image%2Fpng&F=F_6R7l1sVDsJ4ZuNn
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Fig.1 Avg. metabolic rate of the crayfish with and without psychological stressor. control mean  1.023 SD, variable 2 (treated with lanthanum chloride) mean  0.86 SD. P-value=0.016. The error bar represents the standard deviation.
+
+*************************************************************************

@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-30 23:44:23
+Author of this lab report is: Std_4v6MxdBy
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Effect of ACh Esterase on gastrocnemius muscle of Rana pipiens 
+
+Abstract:
+The objective of this lab was to examine the effect of Acetylcholine esterase (AChE) on the gastrocnemius muscle of Rana pipiens. The effect of AChE in a muscle contraction starts with the action potential arriving at the axon terminal opening the Na+ and Ca++ channels. When the AChE breaks down the ACh from the ligand gated ion channels keeping them closed allowing for the contraction to occur. Our hypothesis is that if ACh esterase inhibitor is injected into the gastrocnemius muscle of Rana pipiens, then the amplitude of maximum muscle contraction will increase. The effect of the 2% ACh Esterase inhibitor solution was tested by injecting the solution into the gastrocnemius muscle of three Rana pipiens legs. Observations were made through observing the myogram that was computed using the LabScribe software. In the myogram, the amplitude was calculated. The results did not support the hypothesis because although there was statistical significance for two of the legs the significance favored the control for one and the experimental for the other. The p-values of legs one and three were significant at had a 0.006396 and 0.000104 respectively but leg two was not significant at 0.06429 because it is not less than 0.05. 
+
+Introduction:
+For a muscle contraction to be activated, first, the action potential arrives at the axon terminal opening the Na+ and Ca++ channels. The ACh vesicles fuse with the membrane because the ions flow into the axon potential. When the ACh vesicles fuse, ACh is released into the synaptic cleft. The acetylcholine molecules then diffuse across the synapse and bind to the ligand gated ion channels on the muscle fibers. ACh Esterase, a neurotransmitter, breaks down the ACh from the ligand gated ion channels keeping them closed [Web.williams.edu; 2017]. AChE can be used in everyday life where there is a lack of the acetylcholine messenger. An example of this is in Alzheimer patients. AChE do not change the disease but it is shown to have benefits for patients who suffer from this disease [Anticholinesterase Inhibitors; 2014]. From an experiment published in 1975, “The Nature of the Prolonged Endplate Depolarization in Anti-Esterase Treated Muscle” by Sir Bernard Katz, Sec. R.S., and R:Milledi, F.R.S. it is concluded that if a muscle is treated with ACh Esterase there will be repeated nerve impulses. When ACh is added to the muscle, the latency period decreases. If ACh is modified, the number of muscle contractions will increase because the ligand gated ion channels will remain open [Katz, B., & Miledi, R.;1975].
+
+The purpose of this lab is to see how ACh Esterase inhibitor will affect the amplitude of muscle contractions in the gastrocnemius muscle of a Rana pipiens, which has the common name a Northern Leopard Frog, leg by observing the time and the number of muscle contractions that can be observed on the myogram. A Rana pipiens was used for this lab because they have a strong and defined gastrocnemius muscle and they are readily accessible. Rana pipiens are also vertebrates so they can potentially allow us to make connections to the same muscles in larger vertebrates. Through reading about what Ach Esterase inhibitor does, it is hypothesized that by adding ACh esterase inhibitor to the gastrocnemius muscle of Rana pipiens, then the amplitude of maximum muscle contraction will increase. 
+
+
+Materials and Methods:
+1.	Dissect the gastrocnemius muscle and the sciatic nerve of the Rana pipiens legs using the standard procedure.
+2.	Cut the end of the gastrocnemius of each leg, leave the medial end attached.
+3.	Make a loop with the thread and tie it to the tendon. 
+4.	Mount the transducer above the leg of the Rana pipiens on the ring stand so that the muscle makes a 90 angle to the table.
+5.	Pin the leg down at the muscle and at the nerve just so that it stays in place.
+6.	Place the stimulator electrode sleeve underneath the Sciatic nerve.
+7.	Find the threshold, maximum contraction, and 5 pulses of the max contraction using LabScribe software.
+a.	In order to find threshold, set parameters at 1 pulse, 0.5 Hz, stimulus duration 5 m/s.
+i.	Do gradations of .5 until threshold is found
+b.	In order to find maximum contraction, from threshold, slowly increase the amplitude until maximal contraction found.
+8.	Stimulate the muscle at the same voltage for 5 contractions and find the amplitude of each contraction.
+9.	Calculate the average of the amplitudes.
+10.	Add .2 mL of the 1.2 mL of 2% ACh Esterase inhibitor solution in each gastrocnemius muscle using a syringe.
+11.	Repeat steps 7-10 for the two other Rana pipiens legs. 
+12.	Compare results from the control to experimental using a paired t-test.
+
+Results:
+In Figure 1 the mean for the control is 1.2438V and for the treatment it is 1.113V. The standard deviations are 0.032236625V for the control and 0.086481212V for the treatment. The values are significant with a p-value of 0.006396. In Figure 2, the mean for the control is 1.7128V and for the treatment it is 1.7098V. The standard deviations are 0.002863564V for the control and 0.004086563V for the treatment. In Figure 3, the mean for the control is 1.4356V and for the treatment it is 1.4722V. The standard deviations are 0.005549775V for the control and 0.008043631V for the treatment. The values are significant with a p-value of 0.006396. The general trend of figures 1 and 2 shows that the average for the amplitude of maximal contraction for legs one and two is greater before the injection of 2% ACh Esterase inhibitor solution while figure 3 shows that the average is lower after the solution is injected. The error bars are small in Figure 1 and larger for Figures 2 and 3. 
+
+Discussion:
+The data did not support the hypothesis that if ACh is added to the gastrocnemius of a Rana pipiens, then the amplitude of maximum muscle contraction will increase. Although the difference in legs one and three were significant, we cannot draw any conclusions because the value of leg one favored the control while leg three favored the experimental. While our data was not able to support our hypothesis, there is still truth that what we expected may be true. In a previous article, the gastrocenemius muscle of rats were injected with diisopropylfluorophosphate (DFP), an Acetylcholine-esterase inhibitor. The results proved our hypothesis true. The injected muscles had a higher muscle contraction than the gastrocnemius muscles that were not injected [Mense; 2003]. 
+Some limitations that were noted in our lab were that some of the ACh esterase inhibitor spilled out from the muscle. This was most likely due to the fact that the amount of solution we were injecting was too larger of a quantity to fit in the muscle. A way to avoid this would be to either reduce the amount of solution injected or to insert small amounts very slowly and allow it to absorb in the muscle to not let it overflow. The muscle may have also fatigued after the control trials making the contractions after the injections of the AChE slower. Our sample size also only consisted of three Rana pipiens legs. In order to try and attain results that would lead us to a conclusion, we could conduct the experiment with a larger sample size. 
+
+
+Literature Cited:
+“Anticholinesterase Inhibitors.” MyVMC, 19 Mar. 2014, www.myvmc.com/treatments/anticholinesterase-inhibitors/.
+
+Katz, B., & Miledi, R. (1975). The nature of the prolonged endplate depolarization in anti-esterase treated muscle. Proceedings of the Royal Society of London B: Biological Sciences, 192(1106), 27-38.
+
+S. Mense, D. G. Simons, U. Hoheisel, B. Quenzer “Lesions of Rat Skeletal Muscle After Local Block of Acetylcholinesterase and Neuromuscular Stimulation” Journal of Applied Physiology Published 1 June 2003 Vol. 94 no. 6, 2494-2501 DOI: 10.1152/japplphysiol.00727.2002
+
+Web.williams.edu. (2017). Location, Structure and Function of Acetylcholinesterase. [online] Available at: https://web.williams.edu/imput/synapse/pages/IVA2.html [Accessed 15 Oct. 2017].
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+leg+1.png&Size=56247&Type=image%2Fpng&F=F_cBnKSWktY6jb5J3
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+leg+2.png&Size=68713&Type=image%2Fpng&F=F_9vERdfShOL4RfaR
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+leg+3.png&Size=55657&Type=image%2Fpng&F=F_djuSH764L9pRwvb
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Bar graph showing the effects of treating Rana pipiens leg number one with ACh Esterase Inhibitor. The bars show the averages of the amplitude of five pulses at max contraction both before and after the treatment. The error bars in the figure show the variability of data collected before and after the treatment.
+Figure 2. Bar graph showing the effects of treating Rana pipiens leg number two with ACh Esterase Inhibitor. The bars show the averages of the amplitude of five pulses at max contraction both before and after the treatment. The error bars in the figure show the variability of data collected before and after the treatment.
+Figure 3. Bar graph showing the effects of treating Rana pipiens leg number three with ACh Esterase Inhibitor. The bars show the averages of the amplitude of five pulses at max contraction both before and after the treatment. The error bars in the figure show the variability of data collected before and after the treatment.
+
+
+*************************************************************************

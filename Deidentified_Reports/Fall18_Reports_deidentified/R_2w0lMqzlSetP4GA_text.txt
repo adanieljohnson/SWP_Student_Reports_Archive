@@ -1,0 +1,96 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-07 08:31:48
+Author of this lab report is: Std_buLNoE7H
+ID: R_2w0lMqzlSetP4GA
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: Basic and Acidic pH Treatment of Chloroplasts Decreases Photosynthetic Activity in Brassica Oleracea
+
+Abstract:
+Increasing pollution levels worldwide have surfaced concerns about possible environmental consequences that acid pollution can cause, such as the risks of acid rain, on agriculture and produce production. Determining how photosynthetic activity, and therefor plant growth, is effected by acidic and basic pH treatments can give insight into optimal pH for produce growth as well as whether pollution and its potential risks carry serious detriment to farmers. To determine this, we treated enriched Kale chloroplasts with basic and acidic pH’s and measured relative photosynthetic activity using DCIP as the electron acceptor within The Hill Reaction. By using DCIP, relative photosynthetic activity could be determined by measuring the absorbance of the chloroplast samples over a span of 30 minutes. We predicted that chloroplasts treated with any solution with a pH that deviates from that near water would decrease photosynthetic activity. Chloroplasts treated with basic and acidic pH treatments had significantly lower levels of photosynthetic activity compared to the chloroplasts treated with a pH of 6.5. Data suggests that the electron transport chains involved in photosynthetic activity in Kale chloroplasts are inhibited in extreme basic and acidic conditions.
+
+
+Introduction:
+Plants depend on external resources in order to harvest energy for cellular processes. Photosynthesis is the process through which plants store and capture energy from sunlight, which is released by glycolysis in the cytoplasm and through respiration in the mitochondria. (Johnson: 2016). Photosynthesis is not only a process vital to the life of plants but also to the life of animals, as animals breathe in the oxygen produce by plants through photosynthesis. Further, plants absorb the carbon dioxide exhaled by animals, which is produced through their own metabolic processes. (Johnson: 2016). This relationship between animal and plant respiration is a key partnership of sustained life and is one significant reason to understand how to optimize the photosynthetic activity in plants. 
+
+Further, it is just as significant to understand factors that could inhibit plant photosynthesis. As acid pollution worldwide continues to increase, risk of acid rain and environmental changes threaten produce and agricultural production. (Ljiljana: 2014). By discovering factors that maximize photosynthetic activity within plants as well as factors that could inhibit photosynthesis, we become both aware of potential benefits to the agriculture business as well as a further understanding of what severe environmental changes due to pollution could imply for farmers and food production.  
+
+In this experiment, we test how pH affects the photosynthetic activity of Brassica oleracea, Kale plants, which are a loose leaf edible plant derived of the mustard family. (Brittanica: 2018). Kale leaves were chosen as the model organism because they are edible and well represent many leafy plants commonly found and grown. Metabolic processes within photosynthesis are dependent upon the presence of light and electron transport complexes within the mitochondria. During respiration, within the chloroplasts, light is absorbed into the chlorophyll molecules and electrons become excited and leave their carrier molecules, which results in chemical reactions that release electrons and generate a proton gradient. (Johnson: 2016). Protein enzymes catalyze the conformational changes involved within these processes, such as the Hill Reaction, which is the electron transport complex that will be studied within the experiment to determine the relative photosynthetic activity within enriched Kale chloroplast samples.  
+
+The Hill Reaction is the process of electron transfer that active chloroplasts undergo in the presence of light during photosynthesis. The electron acceptor used in this experiment is 2,6-dichlorophenol indophenol (DCIP) which is a dark blue compound that contains an aromatic ring structure that allows it to absorb light. When it is reduced, carbon double bonds are formed through electron rearrangement, which results in the compound turning from blue to colorless. (Johnson: 2016). For this reason, relative ATP production can be measured by recording the samples’ absorbance with a spectrophotometer at 600nm. In this experiment, our independent variable is pH treatment and our dependent variable is photosynthetic activity, which we measure by relative absorbance. 
+
+Protein enzymes, such as those that catalyze the Hill Reaction, rely on certain environmental conditions to function properly in order to maximize noncovalent bonds and enable enzyme-substrate specificity and proper binding. In inappropriate conditions, such as acidic or basic pH levels, enzymes become denatured and enzyme-substrate binding potential is inhibited. (Han: 2018). Because of this, we expect that treating the Kale chloroplasts with any pH treatment that is very basic or acidic, such as a pH of 10 or 2, will decrease photosynthetic activity. 
+
+
+Materials and Methods:
+A mortar and pestle, medium beaker, and 3 500 mL centrifuge tubes were put onto crushed ice to cool. After obtaining a large kale leaf, we removed the central vein, rinsed, then dried the leaf. Then, we put the leaf into the mortar and pestle with 10 mL of cold grinding buffer and ground them together until it became a thick paste. The paste was then strained through a few layers of cheese cloth into the chilled beaker. The remaining strained liquid was transferred into a cold centrifuge tube labeled “A”, which was then centrifuged at 2800 rpm for 10 minutes. After spun, we poured out the supernatant into another chilled centrifuge tube labeled “B” and centrifuged the sample 10 minutes at 2800 rpm. After being spun, we poured out the supernatant and re-suspended the left-over pellet with 15 mL grinding buffer. The solution was then split between three centrifuge tubes, 5 mL in each tube, labeled “pH 2”, “pH 6.5”, and “pH 10”. Then, 5 mL of pH buffer was added to a tube respectively, pH 2, pH 6.5, and pH 10. It is important that the pH buffers are added at the same time to their respective centrifuge tubes and allowed to rest for 10 minutes before a final centrifugation, at 2800 rpm for 10 minutes. While the samples were centrifuging, 13 test tubes were labeled and prepared according to Table #1. To begin the assay, 100 microliters of chloroplast were added to the tubes respectively and the tubes were mixed gently. Then, the solutions were transferred to spectrophotometer cuvettes. We blanked the spectrophotometer then measured the absorbance of each solution. We did this every 10 minutes for 30 minutes in order to record the absorbance of each solution over time. After data as collected, we ran an ANOVA to determine significant differences between absorbance between treatment groups followed by a Multiple Comparisons Test by method of a Tukey Test.
+
+
+Results:
+Based off average recorded absorbance, the sample treated with pH 2 had the highest absorbance, followed by the sample treated with pH 10. The sample treated with pH 6.5 had the lowest recorded average absorbance. Average absorbance is shown in Figure #2. General trends of absorbance measured for the treatment groups that received pH’s of 2 and 10 declined initially, while the treatment group given pH 6.5 had a general trend of increasing absorbance. By 30 minutes time, all three treatments had increase in absorbance, as shown in Figure #2. 
+
+The treatment group given pH 2 had the largest final percent change of 50% followed by the treatment group given pH 10, which had a final percent change of 47%. The treatment group given a pH of 6.5 had the smallest percent change of 33%, as seen in Figure #1.
+
+In order to determine if the treatment groups varied significantly from one another, we ran an Analysis of Variance test and concluded that the means of the treatment groups were significantly different from one another (0.01&lt; p &lt; 0.001). The ANOVA was followed by a Multiple Comparisons Test by method of a Tukey Test. The Tukey Test concluded that the treatment group of pH 6.5 was significantly different from treatment groups given pH 2 and pH 10, which were not significantly different from one another (CV = 0.249). This concludes that photosynthetic activity is Kale leaves are significantly lower when treated with acidic or basic pH treatments compared to treatment with a pH of 6.5, similar to that of water. 
+
+
+Discussion:
+Based off average recorded absorbance, samples given a treatment of pH 2 and 10 both showed significantly lower levels of photosynthetic activity than the sample given a pH of 6.5. This is deductible because the samples given a pH of 2 and 10 recorded significantly higher average absorbance than the sample given pH of 6.5. Photosynthetic activity was measured by determining the relative amount of electrons accepted by DCIP during The Hill Reaction, which results in a color change from blue to white. This reduction causes samples to record a decrease in absorbance when photosynthetic activity is high. Because of this, there is an inverse relationship between absorbance and photosynthetic activity. 
+
+Due to the statistically significant difference in means between samples given pH 2 and pH 10 and the sample given a pH of 6.5, our results support the hypothesis that kale leaves have optimal photosynthetic activity when treated with a pH similar to that of water, which has a pH of 7. Based on the Tukey Test conducted, there is not a significant difference in photosynthetic activity in Kale leaves that depend on whether the chloroplasts are treated with extreme acid conditions, like a pH of 2, or extreme basic conditions, like a pH of 10. Both acidic and basic conditions decrease photosynthetic activity in Kale leaves. 
+
+ Similar studies have also concluded that basic and acidic conditions decrease photosynthetic activity in various plants. Invers, studying aquatic botany, found Posidonia oceanica had photosynthetic rate that decreased linearly as pH increased at a pH of 8. (Invers: 1997). Long, studying Citrus sinensis, concluded similarly that photosynthetic activity declined as pH dropped toward acidic levels, near a pH of 2. (Long: 2018). The decrease in photosynthetic activity is due to an impairment of the electron transport chains, such as The Hill Reaction, which is inhibited due to environmental change that disrupts the non-covalent interactions vital to enzyme-substrate specificity and binding. (Johnson: 2016, Long: 2018). 
+
+The next step to be taken to further this study would be to complete the study with many pH treatments that vary in small increments in order to determine at which point the electron transport chains within the chloroplasts begin to be disrupted based off changes in environment and denaturation of vital electron transport enzymes. Due to increasing risk in the environment that pollution threatens, such as acid rain which could radically alter soil pH, it is significant to acknowledge that in this circumstance the agricultural business could see a dramatic decline in food production and could experience difficulties maintaining crops under acidic or basic soil conditions. This realization may invite a call to reduce pollution or to investigate ways to allow plants to flourish and photosynthesize properly even under extreme environmental conditions. 
+
+
+
+Literature Cited:
+1. Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16. 
+
+2. Ljiljana, T. Environment Pollution with Acid Rains. ProQuest. Vol 19, Iss 6. 2014. https://search.proquest.com/docview/1627693163?pq-origsite=summon
+
+3. ______ . Kale. Encyclopedia Britannica. October 4, 2018. https://www.britannica.com/plant/kale  
+
+4. Invers O. Effects of pH on Seagrass Photosynthesis: a Laboratory and Field Assessment. Science Direct. Volume 59, Issue 3-4, December 1997. https://www.sciencedirect.com/science/article/pii/S0304377097000727 
+
+5. Long A. Effects of Low pH on Photosynthesis, Related Physiological Parameters, and Nutrient Profiles of Citrus. Frontier Plant Science. February 21, 2018.     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5318377/
+
+6. Han, Y. Silk Fibroin-based Hydrogels as a Protective Matrix for Stabilization of Enzymes Against pH Denaturation. ScienceDirect. Vol 457, p 24-32. October 2018.  https://www.sciencedirect.com/science/article/pii/S2468823118302682 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-07+at+8.18.42+AM.png&Size=83058&Type=image%2Fpng&F=F_3ktb0gaISZfPEuL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-07+at+8.17.49+AM.png&Size=37002&Type=image%2Fpng&F=F_31pyi8T1MIQsTVF
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-07+at+8.17.34+AM.png&Size=39378&Type=image%2Fpng&F=F_1ozsl0cndNBvJiP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table #1: Components of 13 Labeled Test Tubes.
+   
+Figure #1: Percentage change of absorbance of Kale chloroplasts over time. Error bars are ± 1sd.   
+
+Figure #2: Absorbance of Kale chloroplast samples over time. The sample treated with pH 2 had the highest average recorded absorbance, followed by the sample treated with pH 10. The sample treated with pH 6.5 had the lower recorded average absorbance. Error bars are ± 1sd. Significant treatments are denoted with an asterisk *. 
+*************************************************************************
+
+
+

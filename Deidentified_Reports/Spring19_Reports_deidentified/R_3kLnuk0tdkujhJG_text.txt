@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-27 14:29:30
+Author of this lab report is: Std_k5yhzvaV
+ID: R_3kLnuk0tdkujhJG
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Developmental Effects of Insect Growth Regulators on Manduca Sexta Larvae
+
+Abstract:
+Manduca sexta are holometabolous insects who develop into pupa after a “commitment pulse” signaled by a drop in juvenile hormone (JH) and a spike in other hormones. In this experiment, six M. sexta were randomly separated into two groups. One group was treated with an Insect Growth Regulator (IGR) that acts as an analog for JH and one control group was not treated with any IGR. The average daily percent change in mean weight was 54.53% for the control group with a standard deviation of 33.63 and 42.64% for the treatment group with a standard deviation of 27.27. A 2-sample t-test comparing the average daily percent change in mean weight at an alpha value of 0.05 resulted in a p-value of 0.46 meaning we failed to reject the null hypothesis and determined our results are not statistically significant. This experiment did not indicate that an IGR could stall or prevent the development of M. sexta in the larvae stage into the pupa and adult stage.
+
+Introduction:
+Manduca sexta is a species of insects that grow from a larvae to an adult in four stages of maturation making them holometabolous [Odell: 1998]. A spike in hormones signals to the insect that it's time to transition to the pupa stage (the stage in development prior to adulthood) [Johnson: 2018]. Another hormone known as juvenile hormone (JH) drops at this hormone change called the “commitment pulse” [Jesudason: 1990].  The insects continue to grow throughout the stages of development [Johnson: 2018]. In this experiment, my lab group will treat M. sexta with JH to observe its effects on the caterpillar’s development. Because JH drops during the commitment pulse, consistent elevated levels may prevent the commitment pulse from occurring. Our hypothesis is that if M. sexta caterpillars are treated with an Insect Growth Regulator to increase JH, the M. sexta receiving this treatment will not progress into the pupa stage like the control group because the M. sexta will not experience a commitment pulse and therefore will not grow as much as the control group. The significance of this is that if treating insects with JH causes them to not mature, JH can be used as a pesticide that is not harmful to humans which could replace potentially toxic pesticides currently being used.
+
+
+Materials and Methods:
+Six Manduca sexta in the larvae stage were randomly divided into two groups, three were assigned to the control group and three were assigned to the treatment group. The M. sexta were separated into two containers by group, both containers had individual compartments for the M. sexta. Each M. sexta was put in their own compartment in the container assigned to their group and two air holes were poked into the walls of that compartment. The M. sexta also had their own food and treatment in the compartment with them. All M. sexta received 10 grams of food with five drops of water every other day. The control group received no treatment in their food and the treatment group received five drops of Insect Growth Regulator (IGR) in their food. The two containers containing the M. sexta were placed in an incubator that administered 12 hours of sunlight and 12 hours of darkness at a constant temperature of 25 degrees celsius. Every other day the M. sexta were weighed in grams, observed, and a fresh 10 grams of food with five drops of water and five drops IGR for the treatment group. After 9 days, we compared the average of daily percentage change in mean weight of the two groups with a two-sample t-test.
+
+Results:
+The M. sexta in both groups appeared larger every day of observation with no visual disparity between the two groups in terms of size, however, the M. sexta in the treatment group showed significantly less activity compared to the control group on a daily basis. Table 1 shows a summary of daily mean weight and daily percent change in mean weight in M. sexta treated with and without an IGR. The average and standard deviation of the daily percent change in mean weight by group is listed in the table. The mean weight of both groups increased continuously for the duration of the experiment although daily percent change in mean weight decreased. Figure 1 depicts the average of daily percentage change in mean weight by group of Manduca sexta treated with IGR and M. sexta without treatment, standard deviation bars are shown. The average daily percent change in mean weight of the control group is 54.53% with a standard deviation of 33.63. The average daily percent change in mean weight of the treatment group is 42.64% with a standard deviation of 27.27. A 2-sample t-test comparing the average daily percent change in mean weight at an alpha value of 0.05 resulted in a p-value of 0.46.
+
+Discussion:
+Based on the 2-sample t-test, we failed to reject the null hypothesis so our hypothesis is not supported. Our results are not statistically significant and the results of this experiment are due to chance. Juvenile hormone drops before the “commitment pulse” in the development of M. sexta so continually high levels should have prevented a commitment pulse and therefore stalled development and growth [Jesudason: 1990]. However, this experiment did not indicate that an IGR could stall or prevent the development of M. sexta in the larvae stage. Only three M. sexta were tested in each group and this limited number of subjects could be a source of error and could explain our high p-value. Repetition of this experiment could also improve accuracy of results. Our standard deviation is large because it represents the spread of the daily percent changes which varied greatly as time progressed because the growth of the M. sexta slowed as days went on. This research is important because if growth hormones such as juvenile hormone can prevent insects from maturing, these hormones can be used as a pesticide that is safer for humans. Some insects only behave as pests to crops when they are adults and many currently used pesticides are toxic chemicals intended to kill the insects [Johnson: 2018]. Using hormones to hinder development of insects would mean less chemicals on crops that will later be ingested by humans. M. sexta are holometabolous meaning they develop in 4 stages of maturation [Odell: 1998]. In this experiment, M. sexta were only observed in the larvae stage, not into the pupa stage, past the “commitment pulse.” To take this research further, one could conduct an experiment over a longer period of time to test whether M. sexta treated with an IGR can pupate by comparing a control and treatment group and observing the treated M. sexta for the duration of their lifespan to observe pupation or lack thereof. M. sexta usually transition into the pupa stage after about 18-23 days but this experiment only lasted 14 days [Johnson: 2018]. Our experiment was not conducted over a long enough period of time to allow the untreated M. sexta to pupate and therefore we could not visually observe whether the treated M. sexta would pupate when they should (as indicated by when the control group pupated). This could be a more effective measurement of the effects of Juvenile Hormone because weight increase and growth do not necessarily correspond directly with maturation past the commitment pulse.
+
+Literature Cited:
+1. Odell JP. 1998. Energetics of metamorphosis in two holometabolous insect species: Manduca sexta and Tenebrio molitor. Journal of Experiment Zoology. 280:344–353
+
+2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2, (updated August 2, 2018), pp. 5-14.
+
+3. Jesudason P, Venkatesh K, Roe RM. 1990. Haemolymph juvenile hormone esterase during the life cycle of the tobacco hornworm, Manduca sexta. Insect Biochem. 20:593-604. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-27+at+12.04.48+PM.png&Size=128558&Type=image%2Fpng&F=F_10JiksZ6oOIM0qB
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-13+at+12.32.31+AM.png&Size=102610&Type=image%2Fpng&F=F_d5R2njeG4nuTwHL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Summary of daily mean weight and daily percent change in mean weight in M. sexta treated with and without an IGR
+Figure 1. Average of daily percentage change in mean weight by group of Manduca sexta treated with IGR and without treatment. Although the control group is larger, the two groups have a relatively similar average of daily percent change in mean weight.*************************************************************************
+
+
+

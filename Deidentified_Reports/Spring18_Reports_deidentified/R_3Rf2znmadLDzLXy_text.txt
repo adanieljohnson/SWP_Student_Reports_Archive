@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-27 13:07:54
+Author of this lab report is: Std_BPmKhEja
+ID: R_3Rf2znmadLDzLXy
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Understanding the relationship between absorbance and salt concentrations in terms of photosynthesis.
+
+Abstract:
+Photosynthesis is a process, done by plants, algae, and plankton, that creates chemical energy from light energy. Photosystems I and II perform the crucial movement of electrons down gradients to create this energy. H2O is required for this to occur and the addition of salt could inhibit this process. Our hypothesis is that an increased salt concentration should decrease activity of Photosystem II therefore decreasing measured absorbances. The experiment uses a spectrophotometer to measure absorbances over the course of 30 minutes of spinach leaves after being spun in a centrifuge and added to various solutions of salt. The data will be analyzed using an ANOVA test. The results show varying levels of percent change between 0 and 30 minutes. Our hypothesis was not supported by our results as our ANOVA test showed a p-value of 0.584 and that there was no significance among or between any of our various solutions. The experiment could have been improved by better understanding the relationship between H2O and Photosystem II and by creating better salt solutions to use in our experiment.
+
+Introduction:
+Photosynthesis is a process done by plants, algae, and some forms of plankton that converts light energy from the sun to chemical energy in the form of sugars. The light energy travels through photosystems I and II, where the chemical energy travels down concentration gradients, and at the end, ATP-synthase is used to create ATP. Throughout this cycle, H2O is crucial for driving some of the processes such as the splitting of the H2O to make O2 in Photosystem II. The use of DCPIP extracts electrons which were bound to be passed to plastoquinone [Johnson 2018]. In many organisms, salt (NaCl) is found in small amounts. Typically, in organisms there is a relationship in concentrations between NaCl and H2O as NaCl leaves the cell, H2O should follow it [Chaves 2009]. The concentration gradient between these two substances is created through osmosis, which is the movement of water to create equilibrium between two concentrations [Alpaslan 2001]. As H2O leaves the cell, the plant should become less active as a lack of water would lead to less activity in photosystem II. Our hypothesis is that an increased salt concentration should decrease the activity of photosystem II therefore decreasing the measured absorbance.
+
+Materials and Methods:
+First, we must remove the main stems from the four spinach leaves and then add 10mL of the grinding buffer. Grind the spinach leaves and buffer until almost paste-like then add another continue 10ml of the grinding buffer and continue to grind. Strain this solution through a three-layer cheesecloth and place the solution into a 50mL centrifuge tube and spin it at 200xG for three minutes and 4°C. Remove this tube after the centrifuge is complete and place that new solution into another centrifuge tube without the dense particles from the bottom. Spin this tube at 1000xG for ten minutes and 4°C. Pour this solution into a 50ml tube and add 10ml of the grinding buffer and gently swirl. This is sample B pellet, which will be used in the experiment as the chloroplast dense solution. 
+Now, the experiment requires 13 numbered tubes: 0 is the blank, 1-3 will be labeled as no chloroplasts solutions, 4-6 will be 0mM Salt solutions, 7-9 will be 50mM salt solutions and 10-12 will be 100mM salt solutions. The blank will contain 8ml of water and 2ml of the Hill reaction buffer, the rest of the tubes will contain 5ml of water, 2ml of DCPIP, 2ml of the reaction buffer and tubes 4-12 will contain 1ml of their respective salt solution which was combined with the spinach solutions (B pellet). After creating each solution, transfer a small amount of each into a cuvet where the absorbance will be measured using a spectrophotometer. The absorbances will be measured every 10 minutes for 30 minutes starting at 0 minutes. Our experiment used an ANOVA test to compare the absorbances between the groups over the 30 minutes period.	
+
+
+Results:
+Results: Overall, the percent change in absorbance over the 30-minute period was similar between the four groups. In many of the cases, the percent change was 4 or less [Figure 1].
+
+Discussion:
+Overall, our hypothesis was not supported by our results. The ANOVA test that was performed showed an overall p-value of 0.584 indicating that there was no significance in our results. Even when looking at the Tukey-Kramer tests that compare the individual groups to one another, there was no significance between the groups. Summarily, there was no significance between or among the groups of the experiment. The role of water in photosystem II is crucial to understanding the shortcomings of the experiment. Water helps drive the acceptance of electrons and their further transition into the rest of the light-dependent reactions; however, DCPIP was used to accept the electrons that would normally would have been taken by plastoquinone to the rest to Photosystem I and the rest of the reactions. By changing the salt concentrations which should have drove water out of the cell as it followed NaCl. Since it was not taken normally by plastoquinone, the role of water may not have had a large impact on affecting absorbance [McEvoy 2006]. On the other hand, the experiment may not have impacted the movement of water enough, the concentrations of salts that were used may not have been strong enough to move impactful amounts of water. The concentrations when used in our total volume was incredibly minuscule and by increasing the salt concentrations we may have seen better results in terms of absorbance. 
+
+Literature Cited:
+Alpaslan, M., and A. Gunes. "Interactive effects of boron and salinity stress on the growth, membrane permeability and mineral composition of tomato and cucumber plants." Plant and Soil 236.1 (2001): 123-128.
+Chaves, M. Mꎬ, J. Flexas, and C. Pinheiro. "Photosynthesis under drought and salt stress: regulation mechanisms from whole plant to cell." Annals of botany 103.4 (2009): 551-560.
+ Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+McEvoy, James P., and Gary W. Brudvig. "Water-splitting chemistry of photosystem II." Chemical reviews 106.11 (2006): 4455-4483.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=214+Bio+lab+graph.PNG&Size=22032&Type=image%2Fpng&F=F_Cdni853nxtWoJUt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Figure represents the percent change over a period of thirty minutes measured every ten minutes. P value: 0.584
+
+*************************************************************************

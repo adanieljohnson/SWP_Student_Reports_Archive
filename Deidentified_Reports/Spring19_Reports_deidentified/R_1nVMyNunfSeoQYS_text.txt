@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-21 13:43:24
+Author of this lab report is: Std_L8OVsOfP
+ID: R_1nVMyNunfSeoQYS
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effect of Tubocurarine on Gastrocnemius Muscle Contraction Strength in the Raina pipens
+
+Abstract:
+In this experiment we investigated how an acetylcholine receptor antagonist affects the magnitude of skeletal muscular response in the gastrocnemius muscle of the Raina pipens. We hypothesized that the known antagonist Tubocurarine would decrease the strength of muscular contraction when injected directly into the muscle using a syringe. Upon the completion of our data analysis, our p-value was determined as 0.012011 allowing us to reject the null hypothesis and accept ours as true. In the future, this experiment could be repeated on smooth and cardiac muscle to determine the effect of Tubocurarine on those muscle types in comparison to skeletal muscle. 
+
+Introduction:
+Muscular contraction is a complex mechanism that can respond to a stimulus within milliseconds due to the electrical signaling of an action potential [Johnson: 2018]. Motor neurons innervate skeletal muscles and are the medium through which an action potential travels [Johnson:2018]. The points at which the branches of a motor neuron branches and comes in contact with the skeletal muscle are called the neuromuscular junctions [Johnson: 2018]. In order to initiate a muscle contraction, an action potential must fire and travel along the axon of a motor neuron arriving at the neuromuscular junction causing the release of the neurotransmitter acetylcholine (Ach) [Johnson:2018]. The ACh then binds to its specific receptor located on the membrane of the muscle fiber to trigger the opening of sodium channels [Johnson:2018]. The influx of sodium into the muscle fiber triggers another action potential that spreads through the length of the fiber and stimulates the release of calcium ions (Ca2+) from the sarcoplasmic reticulum [Johnson:2018]. The Ca2+ triggers the contractile mechanism of the muscle fiber by binding to troponin C and initiating a conformational change that allows a crossbridge to form between actin and myosin [Greig: 2013].  Without the signal from the neurotransmitter acetylcholine, the muscle fiber would not contract. Certain drugs have already been proven to inhibit or amplify the ability of acetylcholine and affect muscle contraction by binding to acetylcholine receptors [Zhang: 1998]. In this lab, we are testing the affect of the known antagonist Tubocurarine on the effect of muscle contraction strength in the gastrocnemius muscle of the Raina pipens. We predict that the addition of the ACh receptor antagonist will decrease the magnitude of the muscle contraction during direct muscle stimulation because the acetylcholine neurotransmitter will not be able to bind to its receptor sites and trigger the mechanism of muscular contraction. This study is important because it could potentially lead to the development of muscle relaxers that help treat diseases characterized by cramping and uncontrollable muscle contractions or spasms.
+
+
+
+Materials and Methods:
+We measured muscle contraction strength using a computer program called iWorx. To collect data using this program, we had to attach the gastrocnemius muscle to probes. In order to expose the muscle of our frog leg, we first had to deglove the leg by grasping the skin with forceps and pulling it down towards the foot. Once the skin had been removed, we carefully detached the gastrocnemius muscle of the frog leg by snipping the tendon that attached it to the lower bones of the frog leg making sure to keep part of the tendon long so we could tie a string around it. After we tied the string to the tendon, we used it to hold the muscle up. We then inserted the electrodes directly into the gastrocnemius muscle making sure the metal of the two probes did not touch and stayed within the meaty portion of the muscle. After we set up the muscle, we determined threshold by increasing the stimulus until there was a response. Once we determined threshold, we used this value to stimulate the leg three times for our control data. Once our control data was collected, we injected the muscle with approximately 5mL of the antagonist Tubocurarine using a syringe. After waiting 5 minutes, we used our determined threshold value and stimulated the leg three more times.
+Throughout the duration of the lab, we made sure to continuously moisten the frog legs with Ringer’s solution in order to prevent drying out, and to replenish it with electrolytes. We used three frog legs during our experiment, and repeated the same set-up and procedure for each one. Since frogs vary in their musculature and size, we used each leg as both a control and an experimental specimen. We recorded the strength of muscle response for each frog leg six times; there were three control trials and three experimental trials on each leg. Once we collected our data using the iWorx Physiological Recorder computer program, we averaged the response for each control and experimental set of data for each leg. We then evaluated these averages using a paired t-test and determined our p-value significance using 0.05 as our degree of freedom.
+
+
+Results:
+The average muscle contraction response for our first leg was 0.246 volts before it was treated with the tubocurarine, and 0.158 volts after treatment (Figure 1). The average muscle contraction response for our second leg was 0.216 volts before treatment, and 0.090 volts after treatment (Figure 1). The third leg had an average muscle contraction response of 0.105 volts before treatment and 0.008 volts after treatment(Figure 1). The average standard deviation for all three trials before the legs were treated was 0.008, and the average standard deviation once the legs were treated with the Tubocurarine was 0.0128 (Figure 1).
+Our calculated p-value from our paired T-test was 0.012011 making our data significant. 
+
+
+Discussion:
+There was a noticeable decrease in the muscle response of each frog leg’s gastrocnemius muscle after the injection of Tubocurarine. Upon the completion of our analysis, we were able to determine the significance of our data due to our very small p-value, and support our hypothesis. Additionally, we determined that there was no significant error in our experiment due to the very small p-value. However, the experiment could be repeated in order to solidify our results. We only used three test legs, and more data collected could give us better insight into how significantly Tubocurarine impacts muscle contraction. Since the muscular response decreased, we can determine that the Tubocurarine worked similarly to other neuromuscular blockers by binding to acetylcholine receptors to decrease the propagation of the motor action potential [Feldman:2012].
+In order to broaden the scope of our study, we could formulate a similar procedure using different muscles.  There are previous experiments citing the effects of agonists on smooth muscle contraction in the trachea [Zhang:1998]. Therefore, it would be reasonable to repeat this experiment to determine the affect of our particular antagonist, Tubocurarine, on the affects of smooth muscle, and potentially cardiac muscle as well. This study could even be expanded to include other antagonists and eventually result in different drugs that are able to help with uncontrollable muscle spasms and cramps in all areas of the body.
+
+
+Literature Cited:
+Johnson AD. Hormone Signaling. Comparative Physiology BIO114 Laboratory Manuel. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 6-13.
+Xiang-Yang Zhang, Feng-Xia Zhu, “Effects of enantiomers of b2-agonists on ACh release and smooth muscle contraction in the trachea” (1998)
+Stanley Feldman, Lakshman Karalliedde, “Drug Interactions with Neuromuscular Blockers” (2012)
+Carolyn A. Greig, David A. Jones, “Muscle Physiology and contraction” (2013)
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Lab+Report+2+Table.PNG&Size=14389&Type=image%2Fpng&F=F_1gSXahy8urBJ1Vi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The averaged muscle contraction response for each test leg with overall average standard deviation bars*************************************************************************
+
+
+

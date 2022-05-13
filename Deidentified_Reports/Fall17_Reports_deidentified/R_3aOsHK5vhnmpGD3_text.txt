@@ -1,0 +1,54 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-02 00:15:44
+Author of this lab report is: Std_eQGO6VbX
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The Effect of Lanthanum Chloride on Neuromuscular Function in Rana pipiens 
+
+Abstract:
+The purpose of this experiment was to determine how the neuromuscular function of Rana pipiens is affected by the addition of a calcium channel blocker (lanthanum chloride) into the muscle. Calcium plays a key role in skeletal muscle contraction. The release of calcium into the sarcoplasm triggers the binding of actin and myosin which leads to the power stroke or the muscle contraction.  The addition of a Ca²⁺ blocker should inhibit a skeletal muscle contraction thereby increasing the contraction threshold of the muscle before it will twitch. We tested the effect of 1mM lanthanum chloride by injecting 0.2mL into the gastrocnemius muscle. We attached the muscle to a force transducer then stimulated the sciatic nerve to observe the contraction threshold of the muscle. We hypothesize that if lanthanum chloride is injected into the gastrocnemius muscle then the contraction threshold of the muscle will be affected. Although we did observe a small change in the average contraction thresholds of the control and experimental groups, the results of the experiment were not statistically significant and no significant conclusions can be made (p=0.141, p=0.212, p=0).  
+
+Introduction:
+During a skeletal muscle contraction, the release of Acetylcholine causes an action potential in the muscle fiber which travels down the T-tubule. The action potential changes the conformation of the dihyrdopyridine receptor (DHPR) in the T-tubule which in turn causes the ryanodine receptor to open. An open ryanodine receptor allows Ca²+ to diffuse from the sarcoplasmic reticulum into the sarcoplasm. The flow of calcium ions into the sarcoplasm allows the binding of calcium to troponin which in turn causes myosin and actin to bind together, resulting in the muscle contraction [Schwartz: 1984]. In another experiment that tested the effects of calcium channel blockers, they found that the addition of two specific antagonists: Ω-Aga- IVA and FTX, resulted in the absence of a muscle contraction. Similarly, they found that another calcium channel blocker, Ω-CgTX blocks signals in the “frog neuromuscular junction” and results in the absence of a contraction [Protti:1996]. Based on this information we hypothesize that if 1mM lanthanum chloride is injected into the gastrocnemius muscle of a Rana pipiens leg, it will affect the contraction threshold of said muscle. 
+
+Materials and Methods:
+To begin the experiment, we chose and prepped three frog legs, with each of them serving as its own control group. We then used string to tie off the nerve attached to the gastrocnemius muscle and then attached the other end of the string to the force transducer, causing the muscle to hang at a ninety- degree angle. We pinned the rest of the leg down to prevent it from moving and then attached the sleeve electrode to the sciatic nerve for direct stimulation of the gastrocnemius muscle. We then used LabScribe software to send electrical signals to the sciatic nerve and determine the contraction threshold of the muscle. After finding the threshold, we injected 0.2mL of 1mM lanthanum chloride and waited eight minutes before stimulating the muscle again. We then repeated the same process as before and determined the contraction threshold of the muscle. Throughout the entire experiment we used frog ringer solution to keep the leg moist. We repeated these steps in each of the three legs and recorded the contraction threshold both before and after the lanthanum chloride was injected. After collecting this data, we performed a paired, two-tailed T-test to further analyze the results of our experiment. 
+
+
+Results:
+The average contraction threshold of the control group is 0.33 while the average contraction threshold of the experimental group is 0.3. For leg 1, the standard deviation is 0.4 ± 0.141 and p=0.141 (Figure 1). For leg 2, the standard deviation is 0.35 ± 0.212 and p=0.212 (Figure 2). Lastly, for leg 3, the standard deviation is 0.2 ± 0 and p=0 (Figure 3). After measuring the individual standard deviation of each frog leg, we found that none of our data was statistically significant because each p- value is higher than 0.05. Our results varied in each leg: in the first leg the contraction threshold increased after injection (Figure 1), in the second the threshold decreased (Figure 2), and in the third the threshold was the same as before the injection (Figure 3).
+
+Discussion:
+Our hypothesis was not supported because our data proved to be statistically insignificant. An inhibition of calcium should have caused the contraction threshold of the experimental group to increase. This is because calcium antagonists reduce or completely stop the amount of calcium that moves into the sarcoplasm which can lead to paralysis of skeletal muscles. This mechanism is accomplished by blocking the release of calcium from the T-tubule into the sarcoplasmic reticulum [Fill:1989]. We could have gotten varying results because we did not wait long enough for the lanthanum chloride to affect the gastrocnemius. Similar to our results, other studies have shown a wide variety of results. Some have shown that calcium antagonists prevent muscle contraction, while others the blockers either had no effect or a muscle contraction was still produced [Sekerci: 1996]. The calcium ions do not immediately stop flowing into the sarcoplasm as soon as the calcium channel blocker is injected, meaning that the muscle twitch isn’t immediately affected [Fill:1989]. Although we waited eight minutes before stimulating the nerve, maybe we needed to wait longer for the lanthanum chloride to take affect or the concentration we used was not strong enough to affect the contraction threshold significantly. If we were to redo this experiment, we could test a larger number of Rana pipiens legs and increase the wait time to 10 or 15 minutes before stimulating the nerve and recording data. Additionally, instead of testing contraction threshold in the next experiment we could measure the amplitude of the muscle’s response to stimulation before and after injection of a calcium channel blocker. The testing of the effects of calcium channel blockers can be applied to studies on cardiomyopathy or hypertension by reducing the flow of calcium into the heart [Sekerci: 1996]. 
+
+
+Literature Cited:
+Johnson AD. Unit 2 Nerve and Muscle Function. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated 8/15/17) pp. 19-37.
+Protti, D. A., Reisin, R., Mackinley, T. A., & Uchitel, O. D. (1996). Calcium channel blockers and transmitter release at the normal human neuromuscular junction. Neurology, 46(5), 1391-1391.
+Schwartz, A., & Triggle, D. J. (1984). Cellular action of calcium channel blocking drugs. Annual review of medicine, 35(1), 325-339.
+Fill, M. D., & Best, P. M. (1989). Block of contracture in skinned frog skeletal muscle fibers by calcium antagonists. The Journal of general physiology, 93(3), 429.
+Sekerci, S., & Tulunay, M. (1996). Interactions of calcium channel blockers with non- depolarizing muscle relaxants in vitro. Anesthesia, 51(2), 140-144. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=30011&Type=image%2Fpng&F=F_ahQ7UfaKPG2Jngx
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=29348&Type=image%2Fpng&F=F_2hSavzqtf3IRcH3
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+3.png&Size=27150&Type=image%2Fpng&F=F_8dpzAwBXRFl7ivj
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Contraction threshold of the Gastrocnemius Muscle in Rana pipiens leg 1 before and after injection of Lanthanum Chloride.
+Figure 2. Contraction threshold of the Gastrocnemius Muscle in Rana pipiens leg 2 before and after injection of Lanthanum Chloride. 
+Figure 3. Contraction threshold of the Gastrocnemius Muscle in Rana pipiens leg 3 before and after injection of Lanthanum Chloride. 
+ 
+
+
+*************************************************************************

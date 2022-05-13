@@ -1,0 +1,85 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-30 18:49:40
+Author of this lab report is: Std_uBSlGaPm
+ID: R_3nC7bPv05VKLbca
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The effect of 2% Sevin solution injection to Rana pipiens leg muscle on its neuromuscular control indicated by maximum contraction force
+
+Abstract:
+In this experiment, Rana pipiens are used to study the effect of  inhibitor on levels of muscle contraction forces. Rana pipiens relies on neurotransmitters released from motor neurons to control muscle contraction and relaxation. Acetylcholinesterase inactivation, induced by various inhibitors, leads to acetylcholine accumulation, hyperstimulation of nicotinic and muscarinic receptors, and disrupted neurotransmission. By exposing the gastrocnemius muscle and injecting 2% Sevin solution into it, we could record changes in muscle contraction level using a force detector. Eventually, data suggests that our hypothesis that “Injection of 2% Sevin solution into Rana pipiens gastrocnemius muscle increases the maximum level of contraction.” isn’t supported. Which could be the result of insufficient reaction time between enzyme inhibitors and AchE, and a lack of sufficient ATP supply.
+
+Introduction:
+One of the major movement strategies for living organisms is through muscle contraction. Skeletal muscle for both vertebrates and invertebrates consists of thousands of myofibers, which are cylindrical, multi-cellular, fused aggregates of cells. Muscles function to produce force and motion. They are primarily responsible for maintaining and changing posture, locomotion, as well as movement of internal organs. They rely on consumption of ATP to exert force. In this experiment, Rana pipiens are used to study the effect of Acetylcholinesterase inhibitor on levels of muscle contraction forces. Rana pipiens relies on neurotransmitters released from motor neurons to control muscle contraction and relaxation. 
+
+Acetylcholinesterase is involved in the termination of impulse transmission by rapid hydrolysis of the neurotransmitter acetylcholine in numerous cholinergic pathways in the central and peripheral nervous systems. The enzyme inactivation, induced by various inhibitors, leads to acetylcholine accumulation, hyperstimulation of nicotinic and muscarinic receptors, and disrupted neurotransmission. [Mirjana 2013]
+
+Our hypothesis is that “Injection of 2% Sevin solution into Rana pipiens gastrocnemius muscle increases the maximum level of contraction.”
+
+Materials and Methods:
+1.Dissect the Rana pipiens leg to expose gastrocnemius muscle.
+2.Cut off the far end of tendon connecting gastrocnemius muscle with the bone. And tie a string at the end of the tendon.
+3.Fix the dissected leg onto the dissecting pan using dissecting needles. And moisten the leg with frog Ringer’s solution.
+4.Tie the string to the force detector so that the gastrocnemius muscle is hanging vertically to the ground.
+5.Gently stick the electrodes into the gastrocnemius muscle. Fire different voltages ranging from 0.5V to 2V to find the threshold of action potential. (Remember to keep the muscle moist with frog Ringer’s solution throughout the experiment)
+6.Fire a 1.5V to the muscle and record the difference between resting level and the peak level contraction detected by the apparatus. Recorded as control group.
+7.Repeat step 6 five time. Each time with short interval to prevent habituation/fatigue of the muscle.
+8.Slowly inject 0.1 ml of 2% Sevin solution to gastrocnemius muscle.
+9.Wait for 1 minute and repeat step 7. Record these data as treatment group.
+10.Repeat step 1 to 9 with another Rana pipiens leg (3 legs in total -- Leg 1, Leg 2, and Leg 3)
+11.Apply paired t test to the collected data.
+
+Results:
+During experiment, significant differences in muscular contraction responding to electric pulses have been observed from three Rana pipiens legs. Leg 1 showed very mild gastrocnemius muscle contraction responding to 1.5V pulses. The level of contraction is so small that it was barely observed by eyes even when the pulse was increased to 2V. Instead of target muscle contraction, Leg 1 seems to repond to electric shocks by contracting its feet muscles. In contrast, Leg 2 and Leg 3 have more vigorous contractions on their gastrocnemius muscle responding to 1.5V shocks. The difference in contraction level is up to three times between Leg 1 and Leg 3. 
+After injecting 0.1 ml 2% Sevin solution into the muscle, vesicle filled with solution formed at the surface of gastrocnemius muscle. And it started to decrease in size as time passed.
+
+Data of relative contraction level of each of the three frog legs is shown below in Table 1. 
+
+As we could observe from table 1, both Leg 1 and Leg 2 shows increased muscle contraction level after injection of 0.1 ml 2% Sevin solution. While Leg 3 has reduced contraction level after injection. 
+
+The visualized comparison between control group data and treatment group data is shown in Figure 1 below. As we could observe from Figure 1, the enhancing effect of Sevin solution is shown in Leg 1 and Leg 2 while inhibiting effect is observed from Leg 3.
+
+Statistic test is performed for these data. A paired t test is used to test the significance of data collected. With t = 0.418, p = 0.717, and degree of freedom = 2. 
+
+Discussion:
+According to the data and paired t test, our hypothesis that “Injection of 2% Sevin solution into Rana pipiens gastrocnemius muscle increases the maximum level of contraction.” isn’t supported. A p value of 0.717 suggests that our data isn’t significant enough to reject the null hypothesis that injection of Sevin solution doesn’t make difference to muscle contraction level.
+
+The expected experiment should result in a enhanced muscle contraction level since the absence of Acetylcholinesterase leads to over-stimulation of neuromuscular junctions so that action potentials are constantly fired, leading to an overall summation on strength of muscle contraction.[Mirjana 2013] However, our injection of Sevin solution (Acetylcholinesterase inhibitor) doesn’t produce the expected result. Rather, it leads to enhance effect in some cases and inhibit effect on the others. Not significant enhancing effect could be caused by not sufficient time left for Acetylcholinesterase inhibitor to bind with Acetylcholinesterase in muscle. Since not enough enzymes are blocked, the enhance effect wasn’t that obvious. On the other hand, reducing effect on muscle contraction level could also be the result of insufficient ATP stock in muscles. Since the muscle is collected from dead organisms, the ATP storage entirely comes from outer environment, in this case, the frog Ringer’s solution. As a result, insufficient Ringer solution provided could lead to a reduced muscle contraction force since not enough ATP could support the contraction. Although Acetylcholinesterase inhibitor properly blocked the activity of Acetylcholinesterase, no greater force could be generated.
+
+Further experiment could be conducted by using more Rana pipiens sample to receive a more accurate data pool. Also, the experiment could be improved by leaving more time for Sevin solution to influence the enzyme.
+
+Literature Cited:
+Mirjana, B., Č.,  Danijela, Z., K., Tamara, D., L., Aleksandra, M., B., Vesna, M., V., (2013). Acetylcholinesterase Inhibitors: Pharmacology and Toxicology. Curr Neuropharmacol, 11(3): 315–335. doi:  10.2174/1570159X11311030006
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.jpg&Size=49873&Type=image%2Fjpeg&F=F_2zI3hFakgpFofWy
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.jpg&Size=49152&Type=image%2Fjpeg&F=F_3NPLHgeQuvoYbJz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1 , different contraction level of gastrocnemius muscle before and after injection of 2% Sevin solution
+
+Figure 1, the relative muscle contraction level of Leg 1, 2, and 3 before and after injection of 0.1 ml of 2% Sevin solution*************************************************************************
+
+
+

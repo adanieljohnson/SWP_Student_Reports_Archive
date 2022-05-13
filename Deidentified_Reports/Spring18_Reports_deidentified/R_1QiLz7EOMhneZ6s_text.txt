@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-26 17:48:48
+Author of this lab report is: Std_LG6jtJkx
+ID: R_1QiLz7EOMhneZ6s
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effect of Additional Acetylcholine on Amplitude of Muscle Contraction in Frog Legs
+
+Abstract:
+The purpose of the experiment performed was to investigate how the increased presence of Acetylcholine in skeletal muscle effected the amplitude of muscle contraction on a myogram. Acetylcholine is an essential component of the signaling cascade needed to produce a muscle contraction and has an influence on whether a not a traveling action potential will cause a contraction, as well as how it will impact the contraction itself. It was hypothesized that the excess presence of Acetylcholine would result in a significantly lower amplitude of muscle contraction compared to amplitude of muscle contraction that did not have the added Acetylcholine. Two frog legs were prepared and stimulated in identical procedures to identify the threshold value (in volts) that would allow for contraction of the muscle and the maximum amplitude that could result with and without the addition of excess Acetylcholine. A statistical two-sample t-test was performed to determine the chance that the resulting values were by chance and gave a p-value of 4.27 x 10-6. The hypothesis was supported at the end of the experiment as a result of the biological manipulation of the amount of neurotransmitter supplied for contraction and its impact on the amplitude of muscle contraction.
+
+Introduction:
+The cooperative action of skeletal muscle and the nervous system allows for movement of muscle throughout the body. Muscle contractions are facilitated through the use of motor neurons that receive signals and relay action potentials through the neurons and into skeletal muscle. In a case study popular case study investigating the action of the skeletal muscle and nervous sytem to allow for contraction, the neurotransmitter molecule acetylcholine was paired with two different conditions: a lack of potassium, and an excess of hydroxide (Davis:1931). In both cases, it was concluded that Acetylcholine acted as an inhibitor in muscle contraction amplitude, causing the amplitude to decrease. This conjoined both of the aforementioned systems as the nervous system reacted to the different conditions and thus sent signals that displayed changes in the skeletal muscle movement.  In the study performed in class, the subject was the (INSERT SCIENTIFIC NAME) frog. In each muscle contraction of the (INSERT SCIENTIFIC NAME), important steps in the signaling cascade occur to allow for the contraction. Such steps include the release of Acetylcholine neurotransmitter molecules from the vesicles in the axon terminal of the presynaptic cell. These neurotransmitters bind to Acetylcholine receptors on the postsynaptic membrane in the neuromuscular junction, allowing for transmittance of the action potential into the muscle fiber, eventually leading to a contraction. The study performed in class tested how the presence of added Acetylcholine in the skeletal muscle of the (INSERT SCIENTIFIC NAME) could impact the amplitude of a muscle contraction on a myogram. The hypothesis of the experiment was that there would be a significant decrease in the amplitude of the muscle contraction due to the presence of additional Acetylcholine as opposed to without the added Acetylcholine. 
+
+Materials and Methods:
+To begin the experiment, we set up the computer software “iWorx” and adjusted the setting to “Animal Muscle”. In the toolbar controlling the settings of the experiment, Pulse Amplitude (amp) was set to 0.000V to start, the number of pulses was set to three, frequency (FHz) and the pulse width (W) to 5 milliseconds. Two frog legs were prepared for testing through the same preparation procedure. The outer skin was peeled off of the entire leg, and the ventral side was located by finding the side of the leg that had a cleft in the thigh muscle, as opposed to the smooth thigh muscle located on the dorsal side of the leg. Once the ventral side of the leg was exposed, the cleft was pulled apart, exposing the inner muscle of the thigh. The sciatic nerve, a white, thin cord, was located and put to the side of the muscle. The gastrocnemius muscle was detached from the tibialis anterior muscle by breaking the seal between the membranous connective tissue holding the two muscles together, using scissors. The gastrocnemius muscle was then detached from the lower portion of the leg by cutting on the Achilles tendon towards the toes, making sure to cut as much as the Achilles tendon as possible. A looped knot of string was tied on the junction between the Achilles tendon and the gastrocnemius muscle, and the loop was placed around a hook on an adjustable mechanical arm. Pins were used to secure the frog leg around the femur on the thigh, and around the tibiofibular bone below where the gastrocnemius muscle was hanging. Once the leg was pinned, the arm was adjusted for both height and tension to allow the gastrocnemius muscle to sit at a ninety-degree angle with the mat. Two probes with silver conductive wire were laid next to the muscle, taking care not to touch each other. The sciatic nerve was laid overtop both of the probe wires, allowing for direct stimulation of the nerve. Periodically, the frog legs were lightly rinsed with frog ringers, a substance that replaced the supply of ATP needed for contraction. After the leg was set up, tests were run to find the threshold value of voltage that allowed for contraction of the frog muscle. To find the threshold, the amplitude was set at a value of 0.1 and was increased by increments of 0.1 in order to find the maximum V2-V1 value of each myogram, that represented the amplitude of the muscle contraction on the myogram as measured in volts. Once the threshold value was found, add the (threshold value + threshold value* 25%) and run another three myograms at that level, calculating the V2-V1 value of each myogram. After this first test was run, a syringe was used to draw 0.1 mL of acetylcholine out of a container. In the top half of the gastrocnemius muscle, 0.05 mL of acetylcholine was injected  and the other 0.05 mL was injected into the bottom half. After waiting sixty seconds, run three myograms at the calculated threshold value from the first test, and take note of the V2-V1 value for each myogram. The same process was repeated using the second frog leg. The biological waste was disposed of separately from the remaining garbage and the set up was disassembled and cleaned using ethanol spray. A two-sample t-test was run using the values derived from the experiment to determine the chance that the results of the experiment occurred coincidentally. 
+
+Results:
+As seen in Figure 1 and Table 1, and in each set of trials for the different frogs respectively, the amplitude of muscle contraction (as measured in volts) in muscles without the added Acetylcholine was significantly higher than that of the muscle contractions that had the added Acetylcholine. The threshold value found for the first frog leg was 0.5, and the threshold value found for the second frog leg was 1.5. The statistical two-sample t-test that was performed displayed results that the values and data collected had a very low chance of happening by chance. The degrees of freedom in the test was six, and the p-value obtained for the experiment was 4.27 x 10-6. This value falls far below the threshold of 0.05. 
+
+Discussion:
+According to the resulting data, it can be inferred that the use of additional doses of Acetylcholine resulted in significantly decreased amplitudes of muscle contraction compared to the amplitude of contractions without the added Acetylcholine, in each of the six trials. The results of the experiment performed in class reflected a similar result as seen in the study performed by E. Davis, in which two trials took place testing the effect of Acetylcholine and decreased potassium as well as Acetylcholine and increased hydroxide on the amplitude of muscle contraction in frogs; results showed that Acetylcholine acted as an inhibitor of muscle contraction amplitude in both cases (Davis:1931). Another example of this is seen in a case study performed in which Acetylcholine was injected into the nerves of a rabbit; this study showed similar results as the amplitude of the muscle contraction decreased with additional doses of Acetylcholine injected into the nerves (Diamond:1958). The results of the study performed in class as well as the case studies above can be attributed to  anatomical composition. Regardless of the amount of Acetylcholine released into the neuromuscular junction, the number of Acetylcholine receptors does not change, so the receptors will continue to fire action potentials into the muscle fiber. As the action potentials are continuously fired, the muscle can become fatigued more quickly as it tries to keep up with the increased presence of Acetylcholine neurotransmitter molecules still present in the neuromuscular junction. When the frog legs were stimulated without the added Acetylcholine, the amount of neurotransmitter molecules being released allowed for the completion of the transmittance of the action potential into the muscle fibers without causing fatigue in the muscle. After the addition of excess Acetylcholine, as seen in Figure 1 as well as Table 1 and 2, the calculated V2-V1 values as amplitude decreased immediately upon stimulation and thus the firing of action potentials. The biological alternate hypothesis was thus supported (and the null hypothesis was not) as it was predicted that the additional dose of Acetylcholine would cause a significant decrease in the amplitude of muscle contractions appearing on a myogram compared to without the additional dose of Acetylcholine. Statistically speaking, the two-sample t-test supported the statistical alternate hypothesis and did not support the statistical null hypothesis. The low p-value of 4.27 x 10-6 derived from the test determined that there was far below a five percent chance that the data was coincidental. The results of the statistical test further bolstered the biological alternate hypothesis as it gave evidence that it was very unlikely that the results acquired occurred by chance. The biological manipulation of neurotransmitters in the muscle contraction signaling cascade due to the excess presence of Acetylcholine resulted in significantly lower amplitude of muscle contractions on the myograms compared with the amplitudes displayed by the control group without added Acetylcholine. 
+
+
+
+Literature Cited:
+Davis, E. 1931. Relations between the actions of adrenaline, acetylcholine, and ions, on the 
+perfused heart. The Journal of Physiology. 71: 431-441.
+Diamond, J. 1958. The effects of injecting acetylcholine into normal and regenerating nerves. 
+The Journal of Physiology.145: 611-629.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-25+at+5.06.20+PM.png&Size=55163&Type=image%2Fpng&F=F_ROk8KJ6L94SmUr7
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-26+at+5.46.36+PM.png&Size=41477&Type=image%2Fpng&F=F_Agqrn7BEj27Mq6l
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-26+at+5.46.44+PM.png&Size=41529&Type=image%2Fpng&F=F_12JDwa4oVOHDemm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.  Amplitude of Frog Leg Muscle Contraction Before and After the Addition of Acetylcholine. Blue bars represent the amplitude, which was measured in volts, of the muscle contractions without the added Acetylcholine, and orange bars represent the amplitude of the muscle contractions with the added Acetylcholine. The first three trials were performed using the first frog leg, and the second three were performed using the second frog leg. Throughout the experiment, the amplitude of the muscle contractions without Acetylcholine on the myograms was higher than that of the amplitude of the muscle contractions with added Acetylcholine on the myograms. These results had a low probability of occurring by chance, as evidenced by the two-sample t-test’s p-value of was 4.27 x 10-6. 
+
+
+*************************************************************************

@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-01 11:56:16
+Author of this lab report is: Std_tTbzzbI5
+ID: R_1rH5Mn5gMkb8pXc
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: Effect of supplemental nitrogen on radish root length
+
+Abstract:
+To study how plants allocate resources differently in response to changes in their environments, we tested how the addition of nitrogen to the soil of Raphanus sativus (radishes) would affect the length of root growth, with our prediction being that a group of radishes that were not fed supplemental nitrogen would display overall longer root lengths than a group of radishes that were fed supplemental nitrogen. A formal analysis of the data revealed longer average maximum root lengths for the radishes that were not provided with extra nitrogen, as we had predicted. Based on these findings, we can conclude that in the absence of an addition of a necessary nutrient like nitrogen, radishes, and likely other plants, will dedicate more energy to increasing the lengths of their roots to ensure they collect a sufficient amount of it to function at relatively optimum levels. We can also predict that a similar pattern of differentiating resource allocation can therefore be further observed in other plant species in different environments with different resources and challenges.
+
+Introduction:
+
+Plants maximize their resources by efficiently allocating them to different areas of themselves in response to changes in their respective environments. For instance, in relatively dry environments, cacti generally will use significant amounts of their energy to preserve their water supply for as long as possible. This is demonstrated in one study done in the Great Plains, where it was observed that an Echinocactus was deprived of water for six years during a severe drought but maintained the same proportion of water over that time span. However, it “had lost almost 30 percent of its original weight.” Upon further examination, it was determined that the plant had utilized some of its sugar by oxidizing it to produce water and thus had been able to maintain its original water content [Cook: 1942]. For our experiment conducted in class, we wanted to test this concept of resource allocation by adding nitrogen in the form of a nitrate mixture to the soil of the radishes, and then measure the length of root growth after two weeks compared to a control group. Nitrogen is an essential element that virtually all plants utilize to build amimo acids, which make up proteins. In addition, they use nitrogen to synthesize chlorophyll, a green pigment that allows plants to absorb certain wavelengths of light that they can then use for photosynthesis. To test this concept, we created a control group (no extra nitrogen) and an experimental group (extra nitrogen). We hypothesized that if a group of thirty radish plants is fed additional nitrogen in the form of the said nitrate mixture compared to a control group of thirty radish plants that would not be fed any additional nitrogen, then the experimental group of radish plants would have shorter roots than the control group of radishes; we predicted the control group would have to allocate more resources to their roots to search for and collect nitrogen that is not as readily available as it is in the experimental group.
+
+
+Materials and Methods:
+To create the separate environments of nitrogen-infused soil and control soil (no nitrogen), we labeled a tray with six plastic pots inside, three that contained soil that was treated with nitrogen mixture, and three that contained untreated soil. We then planted 10 radish seeds in each of the six pots. To ensure uniformity, we watered all six pots 200 milliliters of tap water every day, and the three experimental pots received 20 milliliters of the nitrogen mixture daily as well. The tray containing the pots was placed in a greenhouse in full exposure to sunlight, with none of the pots receiving more sun exposure than any other. At the end of the two week period, every pot was removed from the tray, and all plants that had sprouted were carefully and individually sorted from the soil. We then determined the longest root on 18 radish plants, three from each pot, and measured them. In total, theoretically nine plants were chosen from the experimental group of radishes, and nine from the control group (this was not possible for this particular experiment due to complications which are explained in detail later). With these nine plants from each group, the radish in each pot (six in total) that presented the longest root was chosen to contribute to an overall average maximum root length per treatment group that could be analyzed using a t test. These six root lengths were averaged to create two means; one mean consisted of the three longest root lengths from the three control pots, while the other consisted of the three longest root lengths from the three experimental pots. After each maximum root length had been measured and recorded, we analyzed our data using a one-tailed two sample t-test.  
+
+Results:
+Based on our results featured in the above graph, it is evident that the control group of radishes displayed on average longer roots than the experimental group, with their average maximum root length between the three pots at 99.22 +/- 19.99 millimeters. Meanwhile, the experimental group had an average maximum root length of 58.44 +/- 35.02 millimeters. While there is some overlap of the error bars, the one-tailed two-sample t test revealed a p-value of 0.004, indicating that the difference between the average maximum root lengths of the control and experimental groups is significant.
+
+Discussion:
+Based on the data analysis that the difference in root lengths between the control and experimental groups is significant, with the average maximum root length of the control group longer than the experimental group, we can conclude that our hypothesis was supported. Nitrogen is a key element in many plant processes, including photosynthesis, generation of growth, and replicating DNA sequences. Therefore, nitrogen is essential to the existence and survival of virtually all plants. The control group of radishes that were not fed any extra nitrogen likely grew longer roots in order to compensate for their lesser amount of nitrogen. The control radishes would have recognized that more resources would need to be dedicated to growth in their roots than say their leaves or stem, since no other part of the plants could function properly anyways without a sufficient amount of nitrogen. The experimental radishes that received supplemental nitrogen in the form of the nitrate mixture, however, had a consistent and reliable supply of nitrogen that ensured that fewer resources would have to be dedicated to extend the length of their roots in search of more nitrogen. One aspect of this experiment that needs to be considered is the unaccounted for lack of growth of the radishes in the third experimental pot; only one radish seed sprouted out of ten planted. Therefore, it was the only plant that we were able to collect from the third experimental pot, while the other five pots all had three plants chosen at random from each one to have their maximum root lengths measured. This forced us to have to place, and then run, two zeros into the t test analysis. Despite this perceived flaw, we ran a separate t test with the two zeros not accounted for in the test, and the data still came out to be significant, with the alternative p-value in this instance still less than 0.05, at 0.001. This solidified our conclusion of our data and did nothing to detract from the support of our hypothesis based on the data analysis. We have drawn further support for our hypothesis and theory on plant resource allocation from a study that also manipulated resource allocation in plants. This study looked at many instances of resource allocation among various plants, finding that one crop that had seeds planted much closer together will “…reduce the number of branches they produce… and elongat(e) the main stem to capture the maximum amount of light.” [Bennet: 2012] With this study in mind combined with the results of our experiment, we can conclude that the concept of resource allocation in plants is not isolated to one type of plant or environment. In the future, this experiment would need to be replicated ideally at least two more times, and then again with more radish seeds per pot to increase the likelihood of having more than enough plants to randomly select a predetermined subsample to be measured. By replicating this experiment later on and furthering the research on plant allocation of resources, it is the hope that farmers would be able to better determine where and when to distribute food and resources to their crops so as to produce the greatest and most abundant yields possible with a limited amount of resources each year.
+
+Literature Cited:
+1.	Cook, C. W. “Insects and Weather as They Influence Growth of Cactus on the Central Great Plains.” Ecology, vol. 23, no. 2, 1942, pp. 209–214.
+2.	Bennett, Emma, et al. “Manipulating Resource Allocation in Plants.” Journal of Experimental Botany, vol. 63, no. 9, 2012, pp. 3391–3400. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-01+at+12.18.26+AM.png&Size=78653&Type=image%2Fpng&F=F_SI8Rt0dolJ0WllD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average maximum radish root length after two weeks of nitrogen treatment. The third experimental pot only produced one radish sprout, so therefore zeros (two) were included in the overall data analysis, and this graph reflects that analysis.
+
+*************************************************************************
+
+
+

@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 16:49:17
+Author of this lab report is: Std_VWsvqDqB
+ID: R_bfPBjazYsSKZ7gJ
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Effect of Acetylcholinesterase Inhibitor on the Gastrocnemius Muscle Contractions in Rana pipiens
+
+Abstract:
+This experiment was conducted in order to observe the effect acetylcholinesterase inhibitor has on muscle contractions.  The hypothesis was that the amplitude of the muscle contractions will increase while the threshold value for muscle contractions will decrease.  Six frog leg muscle contractions were measured before and after the inhibitor was injected into the gastrocnemius muscle to observe the effect on the threshold of the contractions. In addition, the amplitude values for contraction were measured using three of the six previous gastrocnemius contractions before and after the inoculation of the AchE inhibitor.  The data illustrated that the overall amplitude of muscle contractions decreased and the resulting threshold values actually increased in value. After comparing all the results obtained before and after the inhibitor was used, the data did not in fact support the hypothesis. 
+
+
+Introduction:
+Muscle contraction has a multitude of steps to it.  One of these steps occurs at the neuromuscular junction within an organism’s body.  The first part to the neuromuscular junction phase of muscle contraction is the arrival of an action potential.  It arrives at the presynaptic element of the neuron, stimulating the calcium channels to open and consequently flood the synapse with calcium.  Also at the presynaptic element, acetylcholine (or ACH) is stored within specific vesicles.  These vesicles are triggered to release the ACH that they store by the process of exocytosis.  As the ACH is released into the synapse, it will bind to ACH receptors located on the post-synaptic element.  These receptors also act as channels for sodium and potassium flow.  When the ACH binds it opens these channels allowing sodium to rush through and depolarize the sarcomere.  The depolarization will lead to the muscle fibers shortening and subsequently contracting the muscle. (Hall, 1993).  After muscle contraction, ACH is released from the ACH receptor into the synapse to be recycled by acetylcholinesterase and eventually to be used as new ACH in the next muscle contraction.  In this experiment, an ACHesterase inhibitor will be used to stop the recycling of ACH.  As a result, the ACH will remain in the synapse causing a higher amplitude of contraction and a decreased threshold value. 
+
+
+Materials and Methods:
+The contractions from six gastrocnemius muscles of Rana pipiens were measured before and after the injection of AchE inhibitor.  The skin on each leg was removed as to reveal the sciatic nerve and gastrocnemius muscle.  From here, a string was then used to hang the leg from a transducer which was responsible for measuring the actual muscle contraction.  Two electrodes were placed along the sciatic nerve for direct stimulation.  A set of electrical stimulations with ranging amplitudes from 0.02 to 0.5V were used to induced a contraction for each frog leg.  Measurements were then taken of the threshold value of contraction along with the amplitude of muscle contraction, which was determined using three of the six gastrocnemius contractions. The same procedure was then repeated but 0.1ml of AchE inhibitor was injected into the six muscles. After three minutes post-injection, stimulations with amplitudes up to 0.5V were sent into the muscle. Measurements of the amplitude of muscle contraction were once again taken along with the observance of the threshold value.  In addition, a two-tailed T-test was run for statistical analysis of the recorded data.
+
+
+Results:
+The results of this experiment showed that the mean amplitude of the contraction generated at the threshold stimuli was lower when the gastrocnemius muscles were injected with AchE inhibitor.  The T-test that was run for this data set yielded an average value of 0.0193  S.D 0.0197 (n=3) for contractions before the chemical was induced and an average value of 0.0157  S.D 0.0144 (n=3) after the AchE inhibitor injection.  As a result, the p-value generated was 0.8.  In addition, the minimum stimulation required to generate a contraction increased after the injection of the chemical.  This data was also put into a T-test and showed an average threshold of 0.0867  S.D 0.0737 (n=3) before injection and an average threshold of 0.12  S.D 0.0721 (n=3) after AchE inhibitor injection.  The resulting p-value was 0.6. 
+
+
+
+Discussion:
+The experiment yielded a wide range of data that contradicted the hypothesis to some degree. The acetylcholinesterase inhibitor led to a decreased amplitude for muscle contraction in the first two legs while the third leg showed an increase in amplitude.  These data points in our graph show that there was no clear trend for amplitude of muscle contraction and therefore cannot support the hypothesis that the amplitude would clearly increase.  The increase in amplitude was expected because of the inability of ACH to be recycled, thereby continuing the release of ions that depolarize the sarcomere.  (Johnson, 2018).  However, somewhere within the process this did not occur as expected.  Also, the threshold value for muscle contraction was higher after the injection of AchE inhibitor than before it was introduced. The third leg contradicted the data from the first two legs and showed a lower threshold value than when it was used as a control leg.  As a result, the threshold values fail to show a clear trend and do not support the hypothesis either. 
+
+
+
+Literature Cited:
+1. Hall, Zach. Sanes, Joshua. Synaptic structure and development: The neuromuscular junction. 	University of California. Accessed March 30, 2018. &lt;https://doi.org/10.1016/S0092-	8674(05)80031-5&gt;
+
+2. Johnson AD. Neuromuscular Control. Biological Principles Laboratory Manual. Dept. Biology, 	Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated Jan 5, 2018), pp. 17
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+Lab+report+2+graph+of+amp+of+threshold.png&Size=47401&Type=image%2Fpng&F=F_1ezxWCTwwawilo8
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+lab+report+2+graph+of+avg+threshold.png&Size=36553&Type=image%2Fpng&F=F_2Pvyn3qdzr7Hlcw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The Average Amplitude of the threshold stimuli for three gastrocnemius muscles before and after the injection of AchE inhibitor. 
+Figure 2: The average contractile threshold value of six gastrocnemius muscles responding to electrical stimuli.
+
+
+*************************************************************************

@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-03-02 15:51:59
+Author of this lab report is: Std_OYOpoHH9
+ID: R_xaNWNBVWLJhv5Bv
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: Exposure to salt water reduces overall growth and increases root:shoot ratio in Fagopyrum esculentum
+
+Abstract:
+Fagopyrum esculentum, or Buckwheat, is a crop plant with important nutritional and economic value that is grown in areas like southwest China. Like many other plants, Buckwheat can change its behavior and growth based on the availability, or lack thereof, of nutrients. This experiment aims to find out how exposure to salt water versus fresh water affects this plant’s growth. Our hypothesis was that the root:shoot ratios for plants treated with salt water would be larger than those of the fresh water plants, while the overall lengths of the treatment group will be smaller; both parts of our hypothesis were supported. Experiments such as this are key to learning more about how environmental factors affect Buckwheat’s growth and how we can protect these from factors causing negative effects, so that the plant can maintain its integrity as a nutritionally and economically valuable crop. More studies should be done testing the effect of other substances on Buckwheat growth. 
+
+Introduction:
+	In a given ecological community, there are biotic factors: stimuli originating from living organisms, and abiotic factors: stimuli from non-living sources. Living organisms must interact with, respond to, and adapt to these factors in order to be successful. Plants, for example, can change their behaviors depending on which resources are available or limited, a process known as energy allocation. This allocation can be measured with the root:shoot ratio, which compares the biomass of the root to that of the shoot by dividing the former by the latter (Johnson: 2018). One can use this ratio to determine several mechanisms of plant allocation, such as how the presence or lack thereof of essential nutrients affect a plant’s growth. 
+	Buckwheat, or Fagopyrum esculentum, is a food crop commonly grown in southwest China and is known for its high adaptability and resistance to harsh elements (Wang: 2017). This plant species can, however, accumulate certain toxic substances if grown in or near a polluted area (Kreft: 2001). Salt water in particular can negatively affect Buckwheat by causing ionic imbalances in the soil and therefore hindering water uptake via osmosis into the roots (Jovanovic: 2011). We hypothesized that the root:shoot ratio with regards to the length of Buckwheat plants treated with salt water will be higher, but that the overall growth of the plant will be less, than those of the Buckwheat plants treated with normal water.    
+
+Materials and Methods:
+A handful of Buckwheat seeds were planted in each of 4 containers of the same size and shape, each filled with about the same amount of vermiculite soil. Fifty milliliters of MiracleGro, along with 50 milliliters of tap water were added to each container. Two of the containers were then labeled to denote that they were to be treated with salt water, while the other two received tap water. 
+	The plants were placed in a greenhouse, controlling for humidity, temperature and light exposure. They were watered every other day for 2 weeks with 50 milliliters of the appropriate type of water (3% NaCl water or tap water). 
+	After 2 weeks, 3 individual sprouts from each container were gently uprooted (keeping the entirety of the plant intact). The length of the entire sprout was measured in centimeters, then the sprout was cut at the top of the root, where it meets the stem, and the lengths of the root and shoot were measured individually. Root:shoot ratios were calculated for each individual sprout using the measured lengths of the roots and shoots, then the average ratios for the control and treatment groups were calculated. A one-tailed, two-sample t-test was used to calculate p-values for the root:shoot ratios and overall length measurements. 
+
+Results:
+The root:shoot ratios for the salt water plants were generally higher than those of the tap water plants, and the average ratio for the treatment group (0.927, standard deviation = 3.31) was also higher than that of the control (6.18, standard deviation = 0.148). The p-value when comparing individual root:shoot ratios between control and treatment groups is statistically significant (t-stat = 3.89, df = 10, P = 0.00152) (Figure 1). 
+
+The overall lengths of the control plants were generally larger than those of the treatment plants. The same trend is true for the average length of each group (17.8 cm for control, standard deviation = 2.94 and 5.13 cm for treatment, standard deviation = 1.46). The results were statistically significant (t-stat = 9.44, df = 10, P = 0.00000134 (Figure 2). 
+
+There are no notable outliers in the data. 
+
+Discussion:
+Our results suggest that the treatment group saw significantly more relative root growth, while the control group saw significantly more overall growth. Both of these occurrences support our hypothesis, that the root:shoot ratio of the salt water plants would be higher while the overall growth of the tap water plants would be higher. Thus, our Buckwheat plants must be sensitive to certain substances, such as NaCl, present in their water. 
+
+The overall lack of growth seen in the treatment group could be accredited to, as previously mentioned, salt water causing an imbalance of ions in the soil and thus affecting the plants’ abilities to take up water via osmosis, which relies on ion concentration. In addition to the fact that salt water in fact does disrupt water potential and thus osmotic ability of the plant, the treatment of salt water also affects some of the plant’s proteins’ ability to operate properly (Jovanovic: 2011). Both of these instances would explain a lack of growth in the plant.
+ 
+The relative increase in root growth could be due to the plants’ search for cleaner water, or a need for roots to be bigger in order to create a better concentration gradient with the increased ion concentrations. It is also possible that more root surface area is needed to filter out the sodium and chlorine ions. 
+Since water is ultimately used towards the growth of the stem and leaves, as it plays a key role in photosynthesis, it is reasonable that the control group saw more shoot growth and overall had longer sprouts, as their ability to take up water was not hindered. 
+	It is important to consider what salt water can do to the growth plants such as Buckwheat when considering climate change and the rise of sea levels and how that will affect soil consistencies. If we better understand how plants generally react to salt, we can take steps towards making plants more resistant to salty conditions. Buckwheat in particular is typically grown close to the coastline of China. Thus, it is crucial to learn how to allow continued growth of these plants when considering its importance as a food crop and its economical significance in Asian countries. More studies like this one should be done, perhaps experimenting with other substances such as synthetic materials like plastics that may come from the ocean and potentially pollute the soil. It would also be applicable to conduct a similar experiment using other types of plants. 
+
+Literature Cited:
+Johnson AD. Resource Allocation in Plants. Ecology and Evolution Bio 113 Laboratory 
+Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 3, 2018), pp. 15–19.
+  
+Wang CL, Ding MQ, Zou CY, Zhu XM, Zhou ML, Shao JR. 2017. Comparative Analysis of 
+Four Buckwheat Species Based on Morphology and Complete Chloroplast Genome 
+Sequences. Nature. 
+
+Kreft I. 2001. Buckwheat Research, Past, Present and Future Perspectives- 20 Years of 
+Internationally Coordinated Research. The Academic Research Network of Slovenia. 
+
+Jovanovic ZS, Maksimovic VR, Radovic SR. 2011. Biochemical and Molecular changes in 
+Buckwheat leaves during exposure to salt stress. University of Belgrade, Institute of Molecular Genetics and Genetic Engineering. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-02+at+3.50.16+PM.png&Size=138702&Type=image%2Fpng&F=F_D7cIFPa8mMC1WDL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-02+at+3.50.39+PM.png&Size=140328&Type=image%2Fpng&F=F_3JrT11Knb4NbxTi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average root:shoot ratios of the control group and the treatment group, which are 0.927 and 6.189 respectively. Features error bars for +1 and -1 standard deviation from the respective means. Standard deviations were 0.148 for the control and 3.31 for the treatment. T-stat = 3.89, df = 10, P = 0.00152 
+
+Figure 2. Average full lengths (in centimeters) of the control group plants versus the treatment group plants, which are 17.8 and 15.134 respectively. Features error bars for +1 and -1 standard deviation from the respective means. Standard deviations were 2.94 for the control and 1.46 for the treatment. T-stat = 9.44, df = 10, P = 0.00000134 *************************************************************************
+
+
+

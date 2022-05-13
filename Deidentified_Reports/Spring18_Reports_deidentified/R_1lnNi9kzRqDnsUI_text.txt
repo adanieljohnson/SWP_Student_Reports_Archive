@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-12 20:11:24
+Author of this lab report is: Std_B5W7JW8K
+ID: R_1lnNi9kzRqDnsUI
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effect of Excess Acetylcholine on Contraction in the legs of Rana pipiens
+
+Abstract:
+The process of contracting a muscle is reliant on the release of the neurotransmitter acetylcholine from a neuron that then binds to the muscle at the neuromuscular junction. Acetylcholine is what transfers the signal for contraction from the neuron to the muscle. In this experiment we tested the effect of excess acetylcholine during contraction in a Rana pipien’s (frog’s) leg. We texted this by stimulating our frog’s legs with wires that were connected to an online program called iWorx. iWorx sent a signal to the frog’s leg to contract and then created a myogram of the amplitude of the contraction. We hypothesized that the amplitude of contraction would decrease once there was excess acetylcholine in the muscle. The results for our experient supported our hypothesis because the amplitude of the myograms when the leg had excess acetylcholine was lower than without the excess. 
+
+Introduction:
+The skeletal muscle in both invertebrates and vertebrates provides structure and movement for the body. In order to move the muscle it must be stimulated by a motor neuron. The motor neuron sends a signal to the muscle after it receives a signal from the brain and spinal cord. It sends that signal as an action potential down the motor neuron towards the neuromuscular junction. In order to translate the electrical impulse of the action potential into a chemical impulse the nerve depolarizes because lots of sodium is entering the cell as potassium is exiting. The depolarization signals the nerve to release acetylcholine from its vesicles into the synaptic cleft. The acetylcholine travels across the synaptic cleft to bind to receptors on the muscle, opening sodium channels and sending an action potential through the muscle leading to contraction. The amount of contraction that occurs can be measured by the amplitude which is measured in volts. There is a threshold of muscle contraction where the stimulus causes the maximum contraction to occur. For this experiment we will be studying muscle contraction by using a frog’s leg because it is small and manageable. For our test we are going to focus on contraction in the gastrocnemius muscle, also known as the calf muscle. In order to move the gastrocnemius muscle, which is a skeletal muscle, the frog must send signals through the nerve and use the neurotransmitter acetylcholine to create a contraction. So acetylcholine plays an important part in the contraction of a muscle and depending on the environment inside and outside the muscle, contraction will change. According to this study by J. Diamond done on the muscles of a rabbit,  If acetylcholine is injected into the muscle the impulses released are larger (Diamond, 1958). Acetylcholine changes the impulses in a muscle but what does a prolonged impulse mean for muscle contraction in general?  In this experiment we tested the effect of the additional acetylcholine on muscles by looking at how the contraction differs. The additional acetylcholine is our independent variable and the change in amplitude of the muscle twitch will be our dependent variable. We hypothesized that the additional acetylcholine would cause a decline in the amplitude of the resulting twitches.
+
+
+Materials and Methods:
+For this lab we used the computer software “iWorx” to create a myogram of the muscle twitch in our frogs legs. A myogram is a visual representation of the amount of force in a muscle twitch. To test this we set the Pulse Amplitude (amp) to 0.000V to start, the number of pulses to three, frequency (FHz) and the pulse width (W) to 5 milliseconds. We then prepared the frog leg by completely removing the outer skin of the leg to expose the muscle underneath. We placed the leg ventral side up and then proceeded to separate out the sciatic nerve. We then detached the gastrocnemius muscle by cutting it apart from the bone at the achilles tendon. We tied up the gastrocnemius at the achilles tendon and hung it from a stand. We then secured the leg to the table by using pins that secured the femur and the tibula on either side of the hanging muscle. We tightened the stand in order to keep the gastrocnemius muscle taught. We then used two probes that held silver conductive wire to help stimulate the muscle. Without letting them touch we laid the two wires atop the sciatic nerve. Now that the leg was set up we sent three stimuli to the muscle to make it twitch. By increasing the amplitude of the shock by increments of .1 we got to a point where the muscle eventually reached its highest stimulation. Once we found the threshold we added an additional 25% of the threshold and then ran the 3 myograms again to make sure we were within maximum. Using a syringe with .1 mL of Acetylcholine we injected half into the top of the gastrocnemius muscle and the other half into the bottom to make sure it was fully dispersed. We waited sixty seconds for the acetylcholine to be fully dispersed within the muscle then we ran the three myograms again. The amplitude in this test was set to 1.5 and we found the V2-V1 of each of the twitches, which tells us the force generated in a twitch. We did the same with the second frogs legs and then combined the results. We then disposed of the frog leg and cleaned up our table. In order to analyze the results of this experiment we ran a paired t-test.
+
+Results:
+Displays the data found through the iWorx program. Three trials were done with each frog leg; the first, second, and third trials were completely using frog leg number one, while the fourth, fifth, and sixth trials were completed using frog leg number two. The average amplitude of frog leg one without added ACh was 1.055V with a standard deviation of about 0.022, while with the added ACh, the average amplitude for frog leg one was 0.223V with a standard deviation of 0.026. The average amplitude of frog leg two without added ACh was 0.852V with a standard deviation of about 0.023, while with the added ACh, the average amplitude for frog leg two was 0.170V with a standard deviation of 0.016. Our results for the paired t-test were (t-stat=15.7, df=6, P=4.27E-06).
+
+Discussion:
+In this experiment our hypothesis was supported by our results.  According to our results for the paired t-test (t-stat=15.7, df=6, P=4.27E-06) because the P was smaller than .05 it means that we were within the proper range for accurate data so our data was significant. As seen in Figure 1, in both frog legs the amplitude of the twitches was lower after the acetylcholine was added. Why this occurs is because acetylcholine only has so many receptors to bind to at the neuromuscular junction. Because there is only a certain number of receptors only a certain amount of acetylcholine can be processed at one time. When excess acetylcholine is present at the neuromuscular junction the receptors can get overwhelmed and so instead of trying to process them faster it just slows the contraction down. In a study by E. Davis from the Depart of Physiology at the University of Manchester, who studied the effect of Acetylcholine on the cardiac muscle of Rabbits, he found that acetylcholine had a strong effect on the heart (Davis, 1931). He also found it lowered the amplitude and rate of the heart beat (Davis, 1931). So clearly excess acetylcholine has a negative effect on muscle twitch. In order to further support our hypothesis an experiment that focused on increasing the number of acetylcholine receptors on a muscle would be helpful. That way we could better see the connection between the receptors and the neurotransmitter. Along with this our results must take into account the fatiguing of a muscle. Before even adding the acetylcholine we had made the muscle twitch multiple times. This means that when it came time to add the acetylcholine it is possible that these muscles may also have just been tired and that could play a part in why we see a lower amplitude with acetylcholine. But, the muscle could have only been tired to a certain extent meaning that there is still a large percentage of our data which is not just due to fatigue. In the real world taking acetylcholine supplements is a option for people to invest in but, from this experiment it seems as if they may not really work the way you may want them to. If you are taking an acetylcholine supplement and it's not as necessary for you then you could be actually inhibiting your production.
+
+
+Literature Cited:
+Davis, E. (1931). Relations Between the Actions of Adrenaline, Acetylcholine, and Ions, on the Perfused Heart. The Journal of Physiology,71(4), 431-441. doi:10.1113/jphysiol.1931.sp002748  Diamond, J. (1959). The Effects Of Injecting Acetylcholine Into Normal And Regenerating Nerves. The Journal of Physiology, I45, 6II-629. doi/pdf/10.1113/jphysiol.1959.sp006166
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+8.08.46+PM.png&Size=122933&Type=image%2Fpng&F=F_zVvPiKJif2odEWt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Frog Leg Amplitude. For each frog leg there were three trials done and they were averaged to form the values shown along with the standard deviations for each. The amplitude values measured before the addition of acetylcholine are shown in blue, and the amplitude values measured after the addition of acetylcholine are shown in orange. 
+
+*************************************************************************

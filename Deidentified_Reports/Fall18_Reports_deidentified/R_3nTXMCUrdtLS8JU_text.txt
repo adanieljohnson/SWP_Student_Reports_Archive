@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-01 18:13:48
+Author of this lab report is: Std_D7WCezdh
+ID: R_3nTXMCUrdtLS8JU
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effects of Potassium Inhibitor on the Neuromuscular Control of Frog legs
+
+Abstract:
+The purpose of this experiment was to see the effects of potassium inhibitor on the neuromuscular control of the leg of an anura, also known as frog. Using electrodes, the thigh of three frog legs were shocked to produce a myogram. The myogram measured the force of contraction, time of contraction, and time of relaxation for each nerve impulse. These same legs were treated with potassium inhibitor and shocked again. The difference in data allowed us to find a difference in relaxation time. We had hypothesized that the potassium would increase the relaxation time due to the inefficiency of axons hyperpolarizing. While the data does show an increase in relaxation time after the potassium inhibitor was added, it was determined that the mean relaxation period of the control group was not statistically significantly different than that of the treatment group (t-stat = 3.08, df = 2, P = 0.09). Thus, inclining us to reject the hypothesis.
+
+Introduction:
+        Skeletal muscle of vertebrates and invertebrates consists of thousands of myofibers. Skeletal muscles are innervated by motor neurons which have their cell bodies the central nervous system. Axons of these motor neurons spread to myofibers. Where they meet is called neuromuscular junctions. The release of ACh (acetylcholine) from the presynaptic nerve terminal is caused by nerve impulses/signals known as action potentials that come from the central nervous system which is made up of the brain and spinal cord. The AP (action potential) opens Na+ sodium channels causing the inside of the axon (which is normally negative) to depolarize and become positive [Johnson: 2018]. Within a few milliseconds, voltage-gated potassium K+ channels open allowing the axon to stabilize and become negative again ready for another AP. The depolarization travels from the axon hillock to the terminals where Ca2+ channels rush and allow ACh to enter the synaptic clef where it can bind to receptors on the target muscle also known as the motor end plate. ACh binds to receptors allowing Na+ into the motor end plate thus depolarizing the muscle. Depending on frequency of stimulation, a signal may activate up to all of the Na+/K+ pumps available within 10 s, causing up to 22-fold increase in Na+ efflux [Clausen]. The depolarization signals the sarcoplasmic reticulum to release Ca2+ so muscles fibers can contract. K+ plays the role of hyperpolarizing the axon and muscle returning it back to its resting potential and is the factor our experiment will be focusing most on. 
+	In our experiment, we isolated the gastrocnemius muscle and static nerve from an anura (frog) leg and stimulated it by break induction shocks applied by micro-electrodes. The frog thigh muscle was shocked to mimic action potentials. An electrode and voltage reader produced a myogram from the signal allowing us to measure the strength of the contraction in volts and the time of contraction and relaxation in milliseconds. Potassium blocker, tetraethylammonium, was injected into the leg to see the effects of contraction and relaxation time. We hypothesized that the potassium inhibitor would make the muscle have a longer relaxation time.
+
+
+Materials and Methods:
+Three frog legs were dissected and soaked in ringer solution to allow the electric current to spread through efficiently. A piece of string was attached to the end of the gastrocnemius muscle and hooked onto the voltage reader that sent information to a computer program LABSCRIBE that showed a complete myogram of the muscle. Electrodes were placed into the muscle and each leg was stimulated with electric signals ranging from 0.5-3.0 amps in order to find an ideal voltage that would show a strong contraction but wouldn’t fatigue the muscle. Once this ideal signal was found, the leg was stimulated five times this time measuring the contraction height, the contraction time, and the relaxation time in milliseconds. The contraction height is the change of volts from resting potential to action potential. The contraction period is measured by looking at how long it took the muscle to reach max contraction and the relaxation period is measured by measuring how long it takes the muscle to reach its resting membrane from max contraction. 0.1mL of 100mM of potassium blocker, tetraethylammonium was injected into each frog leg. The muscle was then stimulated the same as before with the same ideal voltage and same number of signals. The signal height, contraction time, and relaxation time was recorded after waiting for five minutes to allow the potassium blocker to take full effect. A one-tailed, paired t-test was used as statistical analysis to compare the data. One leg at a time was tested for control first and treatment second after added potassium blocker. The averages of relaxation time for control and for treatment is what changed and thus compared in our analysis. 
+
+Results:
+In all three frogs the relaxation time increased after potassium inhibitor was injected. All three legs had similar results thus allowing us to compare them to each other. The average time in milliseconds of the relaxation time of an untreated leg was 122 ± 25 milliseconds while the treated leg had a relaxation period of 176 ± 40.1 milliseconds. The general trend shows the increase of averages with every leg. The specific statistical data for each leg in a one tailed paired t-test is as follows: (t-stat = 3.08, df = 2, P = 0.09).
+
+Discussion:
+ 	The results show an increase of relaxation time after the potassium inhibitor was added as predicted in our hypothesis, but the data is not statistically supported. The p-value for the average of all three frog legs is above 0.05 which is the cutoff significance meaning the averages we recorded could have happened by chance. The hypothesis is thus rejected. The reason the muscle would have an increased relaxation time has to do with the depolarization of the motor end plate. An action potential or in this case a shock from an electrode causes voltage-gated sodium channels to open allowing sodium molecules into the nerve. The influx of sodium molecules causes the inside of the axon membrane to become positive instead of its resting negative state. A few milliseconds after the sodium channels open, Voltage-gated Potassium channels open allowing potassium back into the cell and allowing it to return back to its negative charged state. The potassium’s role is to allow the axon or in this case the muscle too to relax or hyperpolarize which is why this period on the myogram is called the relaxation period. The positive charge travels down the axon like a wave until it reaches the axon terminals. There ACh is released binding to receptors that cause the muscle to become depolarized and finally contract with the release of calcium. 
+	The potassium inhibitor injected into the frog leg caused the hyperpolarization the signaling process to happen slower. It is important to note that inhibition of the Na+/K+ pumps leads to progressive loss of contractility and endurance [Clausen:2003]. Our data supports this because less voltage-gated potassium channels opened slowing down the process of relaxation and changing the endurance of the muscle. Excitability and contractility depend on the ratio between passive Na+/K+ leaks and Na+/K+ pump activity with the passive leaks often playing a dominant role [Clausen: 2003]. With every frog leg, the relaxation period increased in both the control and treated leg. This could have been to error associated with the leaking out of the potassium inhibitor contaminating the control legs since the same dissecting pan was used for all three legs in sequence. 
+The next step for this study would be to repeat and inject potassium inhibitor directly into the leg and into the nerve. This would allow us to see clearer results since shocking the static nerve would be more sensitive than shocking the muscle by itself. Since our p-value was very low, a repeat of the experiment in a more controlled environment would show better results. It is important to study the roles of sodium, potassium, calcium, and Acetylcholine to see the effects that the imbalance of any one of these has on mammalian bodies. In this experiment, potassium was the target of study because its role is very important in neuromuscular control. It is essential for second-to-second ongoing maintenance of excitability during work allowing motor functions to work properly and efficiently. 
+
+
+Literature Cited:
+1.	Clausen, T. Na+-K+ Pump Regulation and Skeletal Muscle Contractility. Physiol Rev 83: 1269-1324, 2003; 10.1152/physrev.00011.2003.
+2.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2018), pp. 17-19.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+graph+2.PNG&Size=15048&Type=image%2Fpng&F=F_3fC4KMKX9gC55gS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1:
+Mean average of relaxation time for each leg before and after potassium blocker was added is shown. Error bars represent +/- the standard deviation of each frog leg data set (t-stat = 3.08, df = 2, P = 0.09).*************************************************************************
+
+
+

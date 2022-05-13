@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 15:19:37
+Author of this lab report is: Std_mmAyx3C4
+ID: R_1eIwxlfHVGZkytG
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Influence of Calcium Ion on The Contraction of Frog’s Gastrocnemius Muscle
+
+Abstract:
+Calcium ions have important effects on the physiological mechanism of movements of muscles, to be specific, it can be regarded as the vital trigger of the entire mechanism. In this experiment we are going to conduct investigation the effect of changing calcium concentration in muscle fiber on the contraction of Frog’s Gastrocnemius Muscle. It is thoughted that the increase of calcium will lead to a stronger concentration of the muscle. We conducted the investigation through stimulating sciatic nerves to make the muscle contract on legs in the normal state and after injecting of calcium channel opener, comparing the result and analyze it through statistical tests. The result we obtained demonstrated a directly proportional relationship between calcium ion concentration and the intensity of muscle contraction, which supported the presumption  that the increase of calcium ion concentration can lead to an increase in the intensity of contraction of Frog’s Gastrocnemius Muscle. 
+
+Introduction:
+Calcium ions, which was the vital factor in the mechanism of muscle contraction, controls the muscle contraction through binding with specific Calcium receptor within the muscle cell to trigger the following processes that have to be completed for a muscle contraction. When nerve impulse arrives at the neuromuscular junction, where axon extended into branches and form chemical synapse with muscle cell, it will trigger the release of Ach that lead to the opening of Sodium channel, which generates action potential that will be conducted to muscle fiber to motivate the release of calcium ion. The calcium ion will bind with troponin and expose the myosin binding sites for the binding of myosin head. The myosin head will experience conformational change with the utilization of energy, which makes muscle shorten to complete the contraction.  [Savada:2012]
+In our experiment, we are going to investigate the effect of increasing the concentration of calcium ion within the cell that consists muscle fiber over frog’s legs with gastrocnemius muscle and nerves that can be easily anatomize for the experiment purpose. Thus, we hypothesized that the increase of level of calcium ion concentration will lead to the increase of intensity of muscle contraction. We are going to test the muscle response measured in voltage of Gastrocnemius muscle of legs in normal status, then inject Hi Ca Ringers (contains highly concentrated calcium ion) into the muscle to activate calcium channel, therefore we are able to increase the calcium ion concentration in the muscle fiber, and record the muscle response.
+
+Materials and Methods:
+2 frog legs were obtained from frogs of same species with conditions that are generally the same, strings, scissors, forceps, syringe and iWorx kit that contains software to demonstrate the data and a set of materials contains power source and needles to stimulate the frog leg. Legs before injection were regarded as control group (same for the data obtained), the same legs tested after injection were regarded as treatment group. The frog leg will be anatomized respectively, and the Gastrocnemius muscle and sciatic nerve on each leg will be partially separated from the leg for the following steps of experiment. We used strings to hang up the Gastrocnemius muscle from leg with the other end connect to the leg and sciatic nerve. Stimulus that simulate the nerve impulse from nerve will be imposed on the needle that will be attached to sciatic nerve. The threshold of muscle contraction and twitch was determined prior to the impose of stimulus simulation.  Stimulus that slightly exceeded the twitch threshold were imposed to the sciatic nerve for five times, the response of muscle contraction (measured in voltage) obtained from simulation software will be recorded. (Legs before the injection were regarded as control groups) For the experiment of treatment group, 5 ml of Hi Ca Ringers (50mM Ca) was injected to the gastrocnemius muscle, and a 5 minutes range of waiting time was added in order to let calcium ions enter into muscle fibers and cells. We repeated the stimulus step to the leg after injection and recorded response voltage. Same steps will be repeated on the other legs. . A comparison and of difference between average voltage of muscle response will be conducted to the experiment, and a paired T test will be utilized to analyze the data and generating statistical support to the experiment.
+
+Results:
+The tests were conducted to the frog legs 5 times for each, respectively, and what we obtained from the data was that the both treatment groups got a generally higher intensity of muscle contraction than those two sets of data from control group when stimulus was imposed on the sciatic nerve. The average  intensity of muscle  (measured in volts) of control group on first leg (with a stimuli of 1.5 amps) was 0.1026 V+/-0.006086V while the value in treatment group was 0.27 V+/-0.00827, the second leg(with a stimuli of 0.7 amps), the average value of muscle contraction was around 0.0926 V+/-0.005886V while it was around 0.212 V+/-0.033317V in the treatment group over leg 2 before they experienced the decline on the intensity of contraction. We conducted paired T tests(α=0.05) for both the average intensity of muscle contraction of control and treatment group between two legs and it within the data sets of each leg themselves, respectively. Since we only utilized two legs as sample for experiment in order to compare the difference of muscle contraction on the same leg before injection and after injection The result of test to average intensity is p=1.05&gt;0.05; the result of two test within each leg are, respectively, p=0.0000174(smaller than α=0.05, leg 1, with stimuli of 1.5amps), p=0.0096 (smaller than0.05,leg 2, with stimuli of 0.7 amps) 
+
+Discussion:
+The result we obtained about the intensity of muscle t and contraction (measured in volts) supported our hypothesis that the increase of calcium ion concentration will lead to an increase of intensity of muscle contraction. One of the main reason accounts for this phenomenon was that when the concentration of calcium ions in the muscle fiber increased, calcium would bind the receptor(troponin) , causing conformational change of troponin and allowed its head region to bind with actin binding cites, therefore the myosin could act with myofilament, causing an inward movement of myofilament  and generate the muscle contraction. [Gehlert:2014] Thus, the intensity mechanism mentioned above can have a directly proportional relationship with the concentration of calcium ions within muscle fiber, which could lead to an increase in the intensity of muscle and contraction macroscopically. The result (t=5.975 p value=0.105569, larger than 0.05) shown that we failed to reject the null hypothesis. We conducted the test again to values of intensity of contraction within two group themselves, and obtained result for leg 1(1.5 amps): t=24.147, p=0.0000174 (smaller than 0.05) ；leg 2(0.7 amps): t=8.695,p-value= 0.0096 (smaller than 0.05). Thus, we were able to reject the null hypothesis within the data of each leg themselves, which proved that the control group and treatment group within each leg were significantly differed from each other. Therefore, statistically we don’t have convincing evidence that there is a significant difference between average intensity of muscle contraction of two legs in general, but we have convincing evidence that they are differed within each leg. The possible errors during the data collection might occur on voltage value of muscle contraction, which might due to the dehydration and lack of ATP within died frog legs. In order to avoid the error, we are going to collect the data in a shorter time period and accelerate our progress, therefore we can collect more accurate data before the dehydration of muscle occur. In conclusion, the experiment about influence of calcium ions on muscle contraction has revealed the directly proportional relationship between level of calcium concentration and intensity of contraction due to the effect of calcium ion in the mechanism of muscle contraction.
+
+Literature Cited:
+Savada.2012. Life: The Science of Biology. Boston: Sinauer Associates. 991 pp
+Gehlert. 2014. Ca2+-Dependent Regulations and Signaling in Skeletal Muscle: From Electro-Mechanical Coupling to Adaptation. International Journal of Molecular Sciences.16:1066-1076 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Release+of+Calcium+Ion+triggers+muscle+contraction%28Obtained+from+Textbook%29.png&Size=393361&Type=image%2Fpng&F=F_12EhdT1pwpFGJor
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2+Display+of+Intensity+of+Contraction.png&Size=22359&Type=image%2Fpng&F=F_u7wGjmJyskJ59p7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Release of Calcium Ion triggers muscle contraction(Obtained from Textbook) [Savada:2012]
+Figure 2: Graphic display of average intensity of contraction of Frog’s Gastrocnemius Muscle of both Control group and Treatment group, error bar added (Control Leg1:0.006086, Treatment Leg1: 0.00827 Control Leg 2: 0.005886, Treatment Leg 2 :0.033317) 
+*************************************************************************
+
+
+

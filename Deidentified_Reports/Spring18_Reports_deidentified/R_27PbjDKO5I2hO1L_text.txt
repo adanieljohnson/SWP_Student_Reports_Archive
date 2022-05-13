@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-29 16:45:36
+Author of this lab report is: Std_O4Dwlnw1
+ID: R_27PbjDKO5I2hO1L
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: Effect of Lanthanum Chloride on Frog Muscle Contraction 
+
+Abstract:
+In this study, frog legs were used to determine whether or not lanthanum chloride could act as a calcium inhibitor and have an effect on muscle contraction by analyzing the amplitudes at which the muscle reached threshold. Three frog legs were used as both control and experimental trials to produce six trials and six threshold values—3 threshold values for the control group and three threshold values for the experimental/lanthanum chloride group. The average threshold values for each group were rendered statistically insignificant due to the p-value and therefore, the hypothesis was not supported by the results of this experiment. 
+
+
+Introduction:
+Lanthanum chloride is traditionally used to block calcium channels, which serve a very important role in muscle contraction. The release of Ca2+ from their channels in the sarcoplasmic reticulum “activates the contractile mechanism of the muscle fiber, causing it to shorten”, therefore causing muscle contraction (Johnson, 2016).
+In this experiment, we stimulated the sciatic nerve of a frog leg after exposing and isolating it in order to determine whether or not lanthanum chloride has an effect muscle contraction via threshold value. We set the experiment up to be able to determine the twitch threshold normally (or without treatment), and after being injected with lanthanum chloride to determine whether there was an effect on the threshold. A “threshold” is essentially the smallest amount of stimulation that will result in a muscle contraction (DeLuca, 1991). 
+We formed our hypothesis around this information; we hypothesized that the injection of lanthanum chloride into the frog leg muscle would result in higher threshold values in comparison to the control group threshold values because the lanthanum chloride would block calcium channels-- making it more difficult for the muscle to contract--and requiring higher stimulus amplitudes than the control group frog legs. 
+
+
+Materials and Methods:
+A specific set of procedures was followed and repeated for the duration of the experiment. Three frog legs, various dissecting probes, a syringe, and iWorks electrophysiology recorder and data collection system were the materials implemented in this experiment. After the frog leg was obtained, the skin was pulled off. It was hydrated with frog Ringer’s (electrolyte) solution immediately after. A probe was then used to separate the thigh muscle from the upper thigh area down to the knee. The tip of the gastrocnemius muscle was tied and hung taught from an apparatus while the rest of the leg rested on the dissecting pan. The leg was also pinned to the pan to add additional stability. Two stimulating probes were placed above and below the exposed sciatic nerve before the stimulus was applied. For the first control trial, the frog leg was stimulated at various amplitudes (starting at 0 and in increments of 0.1) until the threshold was reached. Once the threshold was reached, the response value was recorded. Then, the taught muscle was injected with approximately 0.5 mL of lanthanum chloride. Afterwards, the same process took place; the frog leg was stimulated with varying amplitudes until threshold was reached and the response values was recorded. 
+The above two trials were repeated for two more frog legs—totaling to three control and three experimental trials and six response amplitude values. After a finalization of methods, we determined that it would be most appropriate to use a two-sample t-test. 
+
+
+Results:
+
+In the three trials for the control group, the threshold values were consistently higher than the values of the control group. When the values were averaged for each group, the average threshold value for the control group was also higher than the average for experimental group. This data is illustrated in the graph below. 
+We performed a two-sample t-test on with the two sets of averages. The p-value was calculated to be 0.119 which means there was no statistical difference between our two sets of data. This also reared our results as statistically insignificant.
+
+
+Discussion:
+The results of this experiment did not support our hypothesis because the data collected was reared statistically insignificant. Since there was no statistical difference between the control and treatment groups, we must say that the injection of lanthanum chloride had no effect on the threshold values of the frog leg muscles in comparison to the control group. Our findings contradict previously published literature (Weiss, 1970). 
+Potential sources of error could have come from the frog legs themselves. We noted that two of the three frog legs were noticeably paler in color compared to other groups, but we were not sure how that would have affected the results of the experiment. In addition, some of the injected lanthanum chloride in the first frog leg spilled out of the muscle due to user error, potentially altering the results for its respective two trials. 
+For further experimentation, increasing the amount of lanthanum chloride injected into the frog muscle could produce the desired results, or using another calcium blocker entirely.
+
+
+Literature Cited:
+Johnson AD. Hormone Control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+
+Masuda, T., & De, C. J. (1991, June). Recruitment threshold and muscle fiber conduction velocity of single motor units. Retrieved March 29, 2018, from https://www.ncbi.nlm.nih.gov/pubmed/20870501
+
+Weiss, G. B. (1970, September 01). ON THE SITE OF ACTION OF LANTHANUM IN FROG SARTORIUS MUSCLE. Retrieved March 29, 2018, from http://jpet.aspetjournals.org/content/174/3/517
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-29+at+4.44.50+PM.png&Size=88752&Type=image%2Fpng&F=F_2QAkwWsh6SQJJIy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparison of threshold values between control and treatment group with standard deviation error bounds. “1” corresponds with the lanthanum chloride treatment group while “2” corresponds with the control group.
+
+
+*************************************************************************

@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-23 13:41:53
+Author of this lab report is: Std_2G1JwC2Z
+ID: R_8uj682P0WQeqIQ9
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Harvesting Energy in Spinacia oleracea: How Temperature Change Affects the Rate of Photosynthesis
+
+Abstract:
+Energy is extracted from outside sources in order to produce the sufficient amount of energy that is required for a cell to function. Photosynthesis involves the capture and storage of light energy to produce a proton gradient via electron transport. The Hill Reaction may be used with chloroplasts, the site of photosynthesis in plant cells, to measure the rate of photosynthetic reduction of DCIP. By measuring the percent absorbance using a spectrophotometer, the rate of photosynthesis can be measured and compared under different conditions. Temperature is a variable thought to have an effect on how well a plant cell can perform photosynthesis. A series of experiments were conducted to see if varying temperature, simulating a change in climate or season, had a significant effect on photosynthesis. It was found that there was no significant difference in percent change in absorbance between a variant temperature and standard temperature (in this case 25°C), except for the case after 20 minutes of exposure to 0°-3°C. It was determined that a larger sample size would be required for further study on verifying whether temperature has an effect on photosynthesis using the Hill Reaction method.
+
+Introduction:
+Many processes performed at the cellular level require additional energy to function, so energy must be extracted from an external source. Photosynthesis is used by plant (and some bacteria) cells to capture and store energy, which can then be released by glycolysis and respiration. Photosynthesis allows for the creation of energy, but none of the ATP created from this process is used for cell functions other than glucose synthesis in chloroplasts. The reaction for photosynthesis can be described as follows (Johnson, 2016):
+6CO2 + 12H2O → C6H12O6 + 6H2O + 6O2
+There are three stages in photosynthesis. The first two are light-dependent reactions, which generate most of the proton gradient that allows for ATP synthesis. Photosystem II involves the cleavage of water and the movement of electrons from chlorophyll to plastiquinone. Photosystem I involves the excitement of electrons and the production of NADH. 
+	Photosynthesis is one of many biochemical processes that occur in eukaryotic plant cells; many variables can affect how the reaction runs. It is thought that photosynthesis is affected by temperature – a range from 10° to 35°C may temporarily alter the rate of photosynthesis, but cells subjected to extreme temperatures could leave a plant cell permanently damaged (Berry, 1980). However, with varying temperatures that occur with changing seasons, and more recently, climate change, temperature can vary can be significantly without damage to a plant cell (Berry, 1980).
+Alternating the temperature of the environment can have different effects on photosynthetic rate depending on the duration of time the plant is exposed to the temperature change (Terashima, 2005). Over an extended period of time, a long term effect of temperature change may cause the optimum temperature of photosynthesis to change as a way for the plant cell to acclimate to its new environment. This experiment is concerned with discovering if temperature change over a short period of time has an effect on photosynthetic rate. The Hill Reaction allows for the measurement of the rate of photosynthetic reduction. The percent change in absorbance can be measured to determine how well electron transport flows through photosystems. The Hill Reaction can aid in assessing how well the photosynthesis mechanism in Spinacia oleracea (spinach leaves) adapt with temperature change. It is hypothesized that temperature change above and below standard temperature (25°C) will have a significant effect on how well photosynthesis (DCIP reduction reactions) can be performed.
+
+
+Materials and Methods:
+After removing the major veins in each leaf, we ground them up in 10 mL of cold 400 mM pH 8.0 grinding buffer using a chilled, dry mortar and pestle. We added an additional 10 mL of grinding buffer to the spinach leaves. After that, the spinach paste was strained through three layers of cheesecloth into a chilled beaker. The filtered liquid was then centrifuged at 200G for 3 minutes at 4°C. We collected the supernatant and then used the centrifuge again at 1000G for 10 minutes at 4°C. We removed the supernatant and resuspended the pellet in the bottom of the container with 20 mL grinding buffer. We prepared 13 test tubes with 6 mL of water, 2mL 100 mM pH 6.5 phosphate reaction buffer. We added 2mL of 130 mM DCIP to test tubes 1-12. The test tubes 1-3 were kept at 0°C, test tubes 4-6 at 25°C, test tubes 7-9 at 35°C, and test tubes 10-12 at 45°C.  We added 2 mL of enriched chloroplast to test tubes 1-12 and mixed immediately after. The blank tube consisted of 8 mL of water and 2 mL of reaction buffer. After blanking the spectrophotometer, we measured the absorbance of the solutions in test tubes 1-12 at 600 nm at time 0. We re-blanked the spectrophotometer and measured absorbance of the solutions in test tubes 1-12 at 600 nm after 10 minutes, then 20 minutes, and then 30 minutes. The absorbance at 10, 20, and 30 minutes were each compared with the time 0 absorbance by calculating percent change using the formula [(Absorbance at time zero – Absorbance at the time ‘N’ )/ Absorbance at time zero]  x 100%. The data were assessed for statistical significance using a one-way a-nova test and the post hoc Tukey-Kramer test to compare the differences in photosynthetic activity of the chloroplasts in different temperatures.
+
+Results:
+After collecting our data, we plotted how percent change in absorbance varied over time for the chloroplasts measured at the four different temperatures (0-3°, 25°, 35°, and 45° C). When comparing the percent change in absorbance over time between different temperatures, we used the one-way a-nova test and the Tukey-Kramer test as a post hoc test, which allowed us to see if there was a significant difference between the standard temperature (25° C) and the three temperatures above and below the standard. After 10 minutes we reported a p-value of .147 in comparing percent change in absorbance between different temperatures. After 20 minutes, we recorded a p-value of .022. Looking at our Tukey-Kramer test, though, we see that the significant difference that exists is between the 0-3°C and the 25° chloroplasts. After 30 minutes, we reported a p-value of .196. When comparing our p-values with a 95% confidence interval, it can be determined that there was only a statistically significant difference in absorbance change after 20 minutes under low temperature conditions.
+
+Discussion:
+Our main focus was to see if photosynthesis was affected by temperatures that varied above and below standard temperature (room temperature, 25°C). We tested this by running the Hill Reaction and measuring the absorbance of light after different time intervals at each experimental temperature. Our results ultimately did not support our hypothesis. For the percent change in absorbance after 10 minutes, we did not find that there was a statistically significant difference in absorbance among spinach leaves under varying temperature conditions. In other words, the extent to which the photosynthesis reaction ran was not statistically different among varying temperatures. We reported a p-value of .147, which is greater than .05 and therefore not significant. After the 20-minute mark, there was a statistically significant difference between absorbance between the leaves at 0-3°C and 25°C. We can report a p-value of .022, which is less than .05, indicating that there is a significant difference between photosynthesis rate after 20 minutes. Looking at our Tukey-Kramer test, though, we see that the only significant difference that exists is between the 0-3°C and the 25° chloroplasts. After 20 minutes, it seems that the cold temperature begins to have an effect on photosynthesis. For the final time benchmark, 30 minutes, there was no statistically significant difference between absorbance, and therefore the extent to which the photosynthesis reaction ran, between spinach leaves at temperatures that deviated from room temperature. We reported a p-value of .196, which is greater than .05 and therefore not significant. After 30 minutes, it seems that neither low nor high temperatures affect the extent to which the photosynthesis reaction occurs. Our results vary with various other experiments conducted that studied temperature effect on photosynthesis. Variations in temperature should greatly affect a plant cell’s ability to perform photosynthesis (Davison, 2004). Small increases in temperature, for instance, should cause photosynthesis to increase up to an optimal temperature (Davison, 2004). In an experiment conducted in the Department of Biological Sciences and the Marine Science Institute at the University of California, Santa Barbara, on photosynthesis in algae, the photosynthesis process should be negatively affected at temperatures that reach as high as 30°C (Valentine, 1992). On the other side of the spectrum, there are studies that show how photosynthesis is compromised at low temperatures. When subjected to temperatures that approach freezing, electron transport, for instance, may be hindered (Allen, Ort, 2001).
+In our data, we found that there appeared to be some suspicious values - the data that appeared to be outliers could not be tested due to our small sample size. The few outlying data values were considered in our graphs and in our calculations for determining statistical significance. The small sample size can likely be regarded as our main source of error, as variability in biological organisms is quite common, and small sample sized make it more difficult to identify trends among datasets.
+
+
+Literature Cited:
+1.	Allen, Damian J., and Donald R. Ort. “Impacts of Chilling Temperatures on Photosynthesis in Warm-Climate Plants.” Trends in Plant Science, vol. 6, no. 1, 2001, pp. 36–42.
+2.	Berry, J, and O Bjorkman. “Photosynthetic Response and Adaptation to Temperature in Higher Plants.” Annual Review of Plant Physiology, vol. 31, no. 1, 1980, pp. 491–543.
+3.	Davison, Ian R. “Environmental Effects on Algal Photosynthesis: Temperature.” Journal of Phycology, Wiley/Blackwell, 27 October 2004.
+4.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+5.	Valentine, James W. “Photosynthetic Response to Elevated Temperature in the Symbiotic Dinoflagellate Symbiodinium Microadriaticum in Culture.” Vol. 89, 21 July 1992.
+6.	Yamori, Wataru, and Ichiro Terashima. “Temperature Acclimation of Photosynthesis in Spinach Leaves: Analyses of Photosynthetic Components and Temperature Dependencies of Photosynthetic Partial Reactions.” Plant, Cell & Environment, Wiley/Blackwell, 8 Feb. 2005.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+2.jpg&Size=33090&Type=image%2Fjpeg&F=F_2SphgpTX7bK4rRv
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=table+1.PNG&Size=32692&Type=image%2Fpng&F=F_3j2KbkIMFkKFRD8
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.PNG&Size=122006&Type=image%2Fpng&F=F_SOxuJJb5zm17mYF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Tukey-Kramer Test among percent change in absorbance at different temperatures compared to standard temperature at each time mark 
+Figure 1: significance between percent change in absorbance after 20 minutes
+Figure 2: Figure: Percent change in absorbance vs. time for each set of chloroplasts at varying temperatures.
+*************************************************************************
+
+
+

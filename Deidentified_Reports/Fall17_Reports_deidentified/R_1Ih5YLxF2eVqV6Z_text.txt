@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-28 17:03:36
+Author of this lab report is: Std_P5Q2tIHo
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Caffeine affects neuromuscular control in the gastrocnemius muscle of Rana pipiens and increases twitch amplitude
+
+Abstract:
+Calcium plays in an integral role in the excitation-contraction coupling mechanism of neuromuscular control, as it signals for acetylcholine to diffuse across the synaptic cleft and later activates myosin binding sites on actin. Thus, a stronger muscle contraction should be observed if a substance which increases calcium release, such as caffeine, is introduced. It was hypothesized that the gastrocnemius muscle of Rana pipiens would have a maximal contraction amplitude higher than the control if injected with caffeine. Methods included the use of Lab Scribe software and a force transducer to stimulate 3 frog legs both with and without caffeine, with each leg serving as its own control. Contraction amplitudes were higher for all 3 frog legs after injection of caffeine, and data reached statistical significance in all 3 cases, with p-values of 0.0000271, 0.000232, and 0.000000173, respectively. It was concluded that greater twitch amplitudes with caffeine were due to its effect on the ryanodine receptors; it causes the ryanodine receptors to transport more calcium into the sarcoplasm, so it is more difficult to return the calcium to the sarcoplasmic reticulum and stop the contraction.
+
+
+Introduction:
+Muscle contractions are controlled by excitation-contraction coupling. Calcium channels are opened due to the depolarization caused by an influx of sodium ions. Calcium flows into the axon terminal and signals for acetylcholine (ACh) vesicles to empty their contents into the synaptic cleft and bind to receptors. The receptors open to allow sodium to flow into the cell and create a new action potential. This allows the ryanodine channel to open and release calcium from the sarcoplasmic reticulum.  The calcium in the sarcoplasm goes on to bind troponin, which activates the myosin binding sites on actin and facilitates contraction. Thus, it is reasonable to propose that an agent which potentiates calcium release would activate more myosin binding sites and result in stronger contractions [Sadava: 2016]. 
+	Several substances are known to impact calcium release in the excitation-contraction coupling pathway. One such substance is caffeine. In a study by Kalmar and Cafarelli, it was found that caffeine increased maximum force generation of muscle and muscular endurance [Kalmar: 1999]. This finding can be attributed to the ability of caffeine to increase calcium release at two different points, the first of which is at the presynaptic membrane, in which it signals for acetylcholine vesicles to fuse with the membrane. Calcium release also occurs at the postsynaptic membrane, in which it binds to troponin and allows for myosin and actin to bind [Sadava: 2016]. More myosin and actin interactions due to increased calcium release could result in stronger muscle contractions. Rana pipiens will be used as the model organism for the experiment because the gastrocnemius muscle is easier to work with due to its larger size, yet it is also small enough that the force transducer equipment can be used. The gastrocnemius muscle is primarily composed of fast twitch muscle fibers and is innervated by the sciatic nerve, which is also large enough to be connected to a nerve probe. It is hypothesized that a gastrocnemius muscle injected with caffeine will have a maximal contraction with an amplitude higher than the control. 
+
+
+Materials and Methods:
+Three frog legs were prepared for the experiment, with each leg serving as its own control. The skin on the legs was pulled from the top down using forceps; the leg was then moistened with frog Ringer’s solution, and this step was repeated every 5 minutes for the duration of the experiment. Using the dissecting probe, the inner thigh muscles were separated, beginning at the top and extending to the knee. The sciatic nerve was freed from its connective tissue using the forceps. Then, a string was tied onto the free end of the gastrocnemius muscle, and the other end of the string was made into a loop and strung onto the metal hook of the force transducer. The dissecting pan was positioned so that the string hung at a 90-degree angle to the table, and the leg was pinned down. The muscle probes of the force transducer were stuck into the muscle. 
+	For each individual leg, the twitch threshold voltage was determined by muscle stimulation. The parameters of the LabScribe software were set as follows: pulse amp- 1.000, number of pulses- 1, F(Hz)- 1, pulse width- 5 ms. The pulse amp was decreased in 0.1 V increments to find the minimum voltage that resulted in a muscle twitch. 
+	To determine the twitch amplitude without caffeine, the parameters were kept the same as in the previous step, except the pulse amp was changed to the threshold voltage. Five myograms were recorded and analyzed to find the twitch amplitude. 
+	To determine the twitch amplitude with caffeine, the parameters were kept the same, with the pulse amp as the threshold voltage. While recording, and after having 5 pulses, 0.1 mL of 200 mM caffeine was injected into the muscle. The resulting myograms were analyzed and twitch amplitudes were recorded. Twitch amplitude data was analyzed using a one-tailed paired t-test.
+
+
+Results:
+The average twitch amplitude for Frog 1 before caffeine was 0.0196 V (SD: 0.0018), whereas the average amplitude after caffeine was 0.8686 V (SD: 0.019, and the p-value was 0.0000271. In Frog 2, an average twitch amplitude of 0.0478 was recorded before caffeine (SD: 0.0045), while the average amplitude after caffeine was recorded as 0.8852 (SD: 0.0759), and the p-value was 0.000232. In Frog 3, the average twitch amplitude before caffeine was 0.0686 V (SD: 0.0026), whereas the average amplitude after caffeine was 1.311 V (SD: 0), and the p-value was 0.000000173. Following injection with caffeine, the twitch amplitude was significantly different than baseline. By referring to Figure 1, it can be noted that the standard deviation for Frog 3 after caffeine was zero. This is due to how much force the muscle was exerting; it was so contracted that the force transducer could only measure amplitude approximately. 
+
+
+Discussion:
+It was hypothesized that a higher amplitude of maximal contraction than the control would be observed in a gastrocnemius muscle treated with caffeine. Each of the three gastrocnemius muscles had much higher contraction amplitudes after the injection of caffeine, with voltages up to twenty times higher than the contractions without caffeine, so the original hypothesis has been strongly supported with statistical significance for all 3 legs. The potential physiological reason for the greater twitch amplitude is that caffeine potentiates calcium release, so it is more difficult to clear calcium out of the sarcoplasm and return it to the sarcoplasmic reticulum, which normally stops the contraction; when caffeine is present and there is even a small stimulation, the ryanodine receptor allows an abnormally large amount of calcium to flow out of the sarcoplasmic reticulum and into the cell [Sadava: 2016]. However, this is only one possible explanation for the maximal voluntary contractions with amplitudes 5 ± 2% greater with caffeine than with a placebo [Plaskett: 2001]. Another way in which caffeine could have affected the biological mechanism is by antagonizing adenosine, which hyperpolarizes muscle cells and causes them to relax. Therefore, with adenosine inhibited by caffeine, muscles are able to produce stronger contractions [De Gubareff: 1965].
+One way in which the data presented here could be flawed is that the muscle was stimulated directly instead of through the sciatic nerve due to technical difficulties. Although this condition was kept constant for all of the trials, the stimulation did not arrive at the synaptic cleft as an action potential but instead diffused across the muscle. Using the results of this study, the next steps could be to conduct a similar experiment, but to use A23187 instead of caffeine.  A23187 promotes transportation of calcium from the extracellular fluid into the cytoplasm, increasing internal calcium concentration. It was found that A23187 activates calcium channels, as when receptor-binding sites on calcium channels were blocked, no change in calcium concentration was observed [Dedkova: 2000]. Since A23187, like caffeine, increases calcium release, it can be expected that it would also increase twitch amplitude. 
+
+
+Literature Cited:
+1.	Sadava D, Hillis DM, Heller HC, Hacker SD. 2016. Musculoskeletal Systems. In: Pierson L, editor. Life: The Science of Biology, 11th ed. New York: Freeman. pp 1001-1014.
+
+2.	Kalmar JM, Cafarelli E. 1999. Effects of caffeine on neuromuscular function. The American Physiological Society. 87.2: 801-808. 
+
+3.	Plaskett CJ, Cafarelli E. 2001. Caffeine increases endurance and attenuates force sensation during submaximal isometric contractions. The American Physiological Society. 91.4: 1535-1544.
+
+4.	De Gubareff T, Sleator W. Effects of caffeine on mammalian atrial muscle, and its interaction with adexosine and calcium. Journal of Pharmacology and Experimental Therapeutics. 148.2: 202-214.
+
+5.	Dedkova EN, Sigova AA, Zinchenko VP. 2000. Mechanism of action of calcium ionophores on intact cells: ionophore-resistant cells. Membrane Cell Biology. 13.3: 357-368.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=neuromuscular+figure.jpg&Size=43312&Type=image%2Fjpeg&F=F_6JO8CJ2cMa5WtIV
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Caffeine on Twitch Amplitude. Untreated frogs (blue bars) have not had caffeine administered to them. The experimental group (orange bars) consisted of the same frogs, except these were administered 0.1 mL of 200 mM caffeine. Twitch amplitude was measured using a force transducer and Lab Scribe software. Each bar is the mean amplitude of 5 pulses. Error bars represent the standard deviation of the sample.
+
+
+*************************************************************************

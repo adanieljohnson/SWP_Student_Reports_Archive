@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-08 22:04:51
+Author of this lab report is: Std_PRF3MW2y
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: The Effect of Light Intensity on the Electron Transport System in Spinacia aleracea Chloroplasts
+
+Abstract:
+Photosynthesis uses light energy to produce glucose through the electron transport system and the Calvin cycle. The electron transport system passes light-induced high energy electrons along a chain, creating a proton gradient which generates ATP. The high energy electrons are finally accepted by NADP⁺ to create NADPH. This NADPH and ATP created by the electron transport system is used to produce glucose in the Calvin cycle. To test the effect of light intensity on photosynthetic activity, we used chloroplasts from spinach leaves, spinacia oleracea. We hypothesized that there would be an optimum light intensity at which the photosynthetic activity of the spinach chloroplasts would be maximized, and deviations from this optimum would lower the photosynthetic activity. In order to test this, we extracted spinach chloroplasts and placed them in varying light intensities (lumens) for 10 minutes. We measured the photosynthetic activity with a spectrophotometer.  Our data did not support our hypothesis because as the light intensity increased, photosynthetic activity also increased. From this we can conclude that higher intensity light allows for more activity in the electron transport system by producing more high energy electrons to increase production of NADPH.
+
+Introduction:
+     Photosynthesis is an important mechanism required to produce glucose in plants through light energy.  The light driven reactions of photosynthesis occur in the thylakoid membranes and are brought about by photosystem II and photosystem I.  The process of photosynthesis is dependent on light to excite the electrons from water, which are then passed down the electron transport chain from photosystem II to photosystem I.  This transfer of electrons causes NADP⁺ to be converted into NADPH.  Alternative electron acceptors other than NADP⁺ can also receive the high energy electron at the end of the chain.  The electron transfer reactions in the electron transport chain result in a proton gradient because the electron transport system provides the energy for proton pumping into the thylakoid lumen.  This proton gradient that is created is used to synthesize ATP.  This ATP, in combination with the NADPH produced at the end of the electron transport chain, is used to power the Calvin cycle to produce glucose [Rochaix: 2011].
+ 
+	We tested the effect of different intensities of light on the electron transport system.  Other researchers have conducted similar experiments which determined that photosynthetic activity did not decrease with high light intensity, contrary to our expectations.  Another experiment determined that light intensity did not affect the inhibition of oxygen in photosynthesis.  This demonstrates that another explanation for variations in photosynthetic activity in different light intensities is required, such as the excitation of electrons in the electron transport system.  R. H. Bohning and Christel A. Burnside tested the effect of light intensity on photosynthetic activity in both plants categorized as typical sun plans and those categorized as typical shade plants to gain data on maximum photosynthetic rates of several species of plants under similar experimental conditions.  Bohning and Burnside found that the light intensity had to be much lower for the shade plants to stop photosynthesis than sun plants.  They also found no evidence of decreasing photosynthetic activity with high light intensity [Bohning and Burnside: 1956].  Another experiment by Jolliffe and Tregunna measured the effect of light intensity on the inhibition of photosynthesis by oxygen.  The rate of photosynthesis is inhibited by oxygen in many plant species.  These researchers tested to see if light intensity would affect the inhibition of oxygen in photosynthesis.  They found that light intensity did not alter the effect of oxygen except at light intensities near the compensation point, or the amount of light intensity where the rate of photosynthesis is the same as the rate of respiration [Jolliffe and Tregunna: 1968].  Collectively, the results of these two experiments show that light intensity has different effects on different aspects of the photosynthetic mechanism, including the electron transport system, in ways contrary to what we predicted.
+
+     Spinach leaves (spinacia aleracea) served as the model organism for this experiment due to the high density of chloroplasts in spinach leaves [Seigneurin-Berny et al.: 2008].  Additionally, spinach leaves are excellent models for this experiment because their chloroplasts are easy to extract with a high degree of intactness and purity [Seigneurin-Berny et al.: 2008].  Our hypothesis for this experiment was that if spinach chloroplasts are placed in intense light, then there will be a decrease in photosynthetic activity, similarly seen in chloroplasts placed in darkness, demonstrating the idea that chloroplasts reach maximum photosynthetic rate in a light intensity optimum range.   In other words, by testing the photosynthetic activity of spinach chloroplasts in varying light intensities, we expected to find an optimum light intensity at which the photosynthetic activity of the spinach chloroplasts would be maximized and deviations from this optimum would lower the photosynthetic activity.  
+
+Materials and Methods:
+     We acquired store bought spinach that was kept in a refrigerator prior to use.  We removed the large central veins from 4 medium-sized spinach leaves.  Then we used a mortar and pestle to grind up the leaves with grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0).  After straining the mixture through cheesecloth, we centrifuged it for 3 minutes at 1200 rpm (200 x G).  We then separated the pellet from the supernatant and centrifuged the supernatant again for 10 minutes at 2800 rpm (1,000 x G).  We once again separated the pellet from the supernatant to separate the spinach chloroplasts from the cells.
+
+	After the mixture was centrifuged twice, the Hill reaction was assembled with the supernatant.  All reactions included spinach chloroplasts, water, 130 mM DCPIP, and reaction buffer (100 nM phosphate, pH 6.5) except the blank which did not include 130 mM DCPIP.  2,6-dichlorophenol indophenol (DCPIP), is an alternate final electron acceptor of the electron transport system, instead of NADP⁺.  When DCPIP is reduced, it changes from a dark blue color to colorless [Kubota et al.: 2008].  Therefore, we were able to measure the photosynthetic activity by the color change caused by DCPIP.  Each reaction was placed in a different light condition for 10 minutes, including 1630 lumens, 890 lumens, natural light, 600 lumens, and in complete darkness.  A lumen is the unit of luminous flux, equal to the luminous flux emitted in a unit solid angle by a point source of once candle intensity [Webb: 1919].  In other words, lumens are a measure of brightness.  Three replicates were used for each light intensity tested.  The absorbance of each reaction was taken at 0 minutes as a baseline and then again after 10 minutes with a spectrophotometer set at 600 nm.  We then calculated the photosynthetic activity, denoted by the percent change in absorbance.  The percent change in absorbance signifies the difference in color of the chloroplast solutions after 10 minutes compared to 0 minutes (% change = [(Absorbance at time zero – Absorbance at time ‘N’ )/ Absorbance at time zero]  x 100%).  The photosynthetic activity in various light intensities was compared to the photosynthetic activity in natural light.  We used a two sample t-test assuming equal variances with a critical value of 0.05 to test the statistical significance of our results by comparing the chloroplasts under various light intensities to chloroplasts under natural light.
+
+Results:
+     The placement of spinach chloroplasts in 1630 lumens light resulted in a significant increase in photosynthetic activity (t(2)= 3.9909, p= 0.01625).  In 890 lumens light, the spinach chloroplasts had a marginally insignificant increase in photosynthetic activity (t(2)= 2.6497, p= 0.0570).  There was a significant increase in photosynthetic activity when the spinach chloroplasts were placed in 600 lumens light (t(2)= 6.9597, p= 0.00224).  Finally, in complete darkness, the spinach chloroplasts had a significant decrease in photosynthetic activity (t(2)= -52.6488, p= 7.7903 x 10-7).
+
+
+Discussion:
+     Our hypothesis that photosynthetic activity of spinach chloroplasts would decrease in both high intensity light conditions and low intensity light conditions, signifying an optimum level of light intensity for photosynthesis, had to be rejected.  In the experiment, the chloroplasts placed in the highest intensity of light had the greatest photosynthetic activity.  The photosynthetic activity in the chloroplasts placed in the dark decreased in comparison to natural light, but all of the other intensities of light experienced an increase in photosynthetic activity. As the light intensity of the light bulb was increased, the photosynthetic activity also increased which does not support our hypothesis of high light intensities causing a decrease in photosynthetic activity similar to the effect of darkness, indicating that there is no fixed optimum light intensity for photosynthetic activity.
+
+	Possible future experiments include using higher intensities of light, including a photo-bleaching light bulb.  Since we did not see a decrease in photosynthetic activity at higher intensities of light, it is possible that we did not use high enough intensities to produce this effect.  It is possible that we did not reach the necessary intensity for the optimum light intensity for photosynthesis.  We were unable to test a photo-bleaching light bulb, which could have caused a decrease in photosynthetic activity.  This could also mean that there is a threshold of light for the spinach chloroplasts before they are saturated with as much light as they can.  If so, another future experiment could involve using more variety of light intensities to discover this threshold.  According to Boyer, at high intensities of light, rates of photosynthesis are often considered to be limited by either the diffusive resistance to CO₂ entry into the leaf or the activity of the carboxylating enzymes associated with carbon dioxide fixation [Boyer: 1971].  For photosynthesis to occur, carbon dioxide must diffuse into the leaf.  This carbon must then be fixed in the Calvin cycle to be the source of carbon in glucose synthesis.  If the inhibition of photosynthetic activity is due to diffusion of carbon dioxide into the leaf, the reasoning for our increase in photosynthetic activity at higher light intensities could be due to our complete separation of the chloroplasts from the spinach leaves, removing this possibility for inhibition.  By separating the chloroplasts rather than utilizing the entire leaf, the inhibition of carbon dioxide diffusion is not a factor, which could account for the increase of photosynthetic activity at high light intensities.  In future experiments, we could test the effect of light intensity on photosynthetic activity in an entire leaf.
+
+	The implications of this experiment are that the greater the light intensity, the greater the activity of the electron transport system.  Light excites electrons from water which are then passed on to form a proton gradient.  Greater light intensities serve to excite electrons more rapidly, leading to more proton gradients and increased production of NADPH and ATP.  Our experiment showed that DCPIP, an alternate electron acceptor, received more excited electrons under higher light intensities than low light intensities.  This means that chloroplasts in greater light intensities produce more NADPH in shorter amounts of time due to the increased rate of photosynthetic activity.  Increased photosynthetic activity from high light intensities also indicates increased production of glucose through the electron transport system and the Calvin cycle.
+
+
+Literature Cited:
+1. Rochaix, Jean-David. (2011) “Regulation of photosynthetic electron transport.” Biochimica 
+	et Biophysica Aca (BBA)- Bioenergetics, 1807 no. 3: 375-383.
+
+2. Bohning, R. H. and Christel A. Burnside. (1956) “The Effect of Light Intensity on Rate of 
+	Apparent Photosynthesis in Leaves of Sun and Shade Plants.” American Journal of 
+	Botany, 43 no. 8: 557-561.
+
+3. Joliffe, P. A. and E. B. Tregunna. (1968) “Effect of Temperature, CO2 Concentration, and Light Intensity on Oxygen Inhibition of
+       Photosynthesis in Wheat Leaves.” Plant Physiology, 43 no. 6: 902-906.
+
+4. Seigneurin-Berny, Daphne, Daniel Salvi, Jacques Joyard, and Norbert Rolland. (2008) 
+	“Purification of intact chloroplasts from Arabidopsis and spinach leaves by isopycnic 
+	centrifugation.” Current Protocols in Cell Biology, 3 no. 30.
+
+5. Kubota, Kenzo, Daisuke Koma, Yoshiki Matsumiya, Seon-Yong Chung, and Motoki Kubo. 
+	(2008) “Phylogenetic analysis of long-chain hydrocarbon-degrading bacteria and 
+evaluation of their hydrocarbon-degradation by the 2,6-DCPIP assay.” Biodegradation, 19 no. 5: 749-757.
+
+6. Webb, C. E. (1919) “The Principles of Scientific Illumination.” Journal of the Institution of 
+	Electrical Engineers, 58: 756-761.
+
+7. Boyer, J. S. (1971) “Nonstomatal Inhibition of Photosynthesis in Sunflower at Low Leaf 
+	Water Potentials and High Light Intensities.”  Plant Physiology, 48 no. 5: 532-536.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=214+photosynthesis+report.png&Size=43588&Type=image%2Fpng&F=F_0kSNmNrhgwQEufb
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph shows the percent change in photosynthetic activity in spinach chloroplasts in various intensities of light conditions.  The greater the intensity of light, the greater the increase in photosynthetic activity.  Each bar represents the mean ± standard deviation.
+
+*************************************************************************

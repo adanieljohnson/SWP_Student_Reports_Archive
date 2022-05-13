@@ -1,0 +1,85 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-06 07:06:20
+Author of this lab report is: Std_rWSAuRla
+ID: R_1lfQGqqjjkEg7sY
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: A Study into Acetic Acid as an Herbicide with regard to the Light Dependent Reactions
+
+Abstract:
+In this experiment, spinach leaves were used to determine the effects of household vinegar (5% AcOH) on the light dependent reactions. The goal of this study was to test the viability of AcOH as a natural and organic herbicide, that could be used implemented into routine agricultural techniques. As an increasing number of studies begin to suggest that widely used herbicides could be carcinogenic agents, proving that vinegar could be used as an herbicide could potentially remedy this issue by providing a safe and natural alternative [Landrigan, Benbrook: 2015].
+
+To test the effectiveness of vinegar as an herbicide, spinach leaves were ground and centrifuged to separate out the chloroplasts from the cells. These isolated chloroplasts were then treated with the herbicide DCMU or 5% AcOH. These samples were also treated with DCIP, which was used as a dying agent, allowing for the rate of photosynthesis to be measured via change in absorbance of the solution. Though the data yielded support the hypothesis that AcOH is a somewhat effective herbicide, the physical observations indicate that the data are most likely flawed. Therefore, no conclusion can be taken from this study. 
+
+
+Introduction:
+An increasing number of questions have been posed around the practices in the corn fields and potato patches of America. Questions such as, “What are GMO’s doing to adolescent’s minds?” “How are herbicides killing the environment?” or “What’s really in that cobb salad?” But perhaps one of the most frightening questions to be posed is arguably the one with the most weight: “Is the way food is grown causing cancer?” A rising number of papers are being released that suggest that the answer to that question is a “yes” [Landrigan, Benbrook: 2015]. These studies have led to a number of changes in the way foods are produced, including an up rise in organic and non-GMO crops. However, these alternative, healthier methods have also proved to be more expensive for a number of reasons including increased labor and increased cost in maintenance of crops [Fox News: 2016]. For this study, house hold vinegar was tested for its capability to replace other herbicides effectively. Vinegar is a cheap and organic compound that can easily be produced and used at a lower cost than many carcinogenic herbicides. Proving that vinegar is an effective herbicide could pave the way for more accessible organically produced crops. 
+
+Photosynthesis is divided into two parts: the light dependent, and light independent reactions. In this experiment, the former was examined in greater detail to test the ability of household vinegar (5% acetic acid) to blocks the light reactions of photosynthesis. The target organism for this test was spinach, with spinach leaves specifically being used. The target area for observation in this test was the Hill Reaction, a reaction that occurs within chloroplast that splits water molecules and reduces the electron carrier NADH to NADPH [Sauer, Park: 1965]. The effect of 5% acetic acid on this reaction is presently unknown, though many articles have hailed vinegar as an excellent herbicide [Evans, Bellinder: 2017]. Previously, 3(3,4-dichlorophenyl) 1,1-dimethyl urea (DCMU) has been proven to inhibit photosynthesis and was used as a variable for control [Schiff, et. al.: 967]. 
+
+It was hypothesized that treatment of vinegar would yield a reduced rate of reaction, but not to the same magnitude as DCMU. 
+
+
+Materials and Methods:
+A mortar & pestle, a medium-sized beaker (150-250 ml size), and 3, 50 ml centrifuge tubes were all placed into crushed ice to cool. While the mortar and pestle were cooling, the large central veins were removed from 4 medium-sized spinach leaves, throwing away the veins, and rinsing the remaining leaf pieces with tap water. Any excess moisture was blotted off from the leaves. When the mortar and pestle had sufficiently chilled, they were wiped dry and the spinach leaves were added. Then, 10 mL of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) were also added to the mortar. The spinach leaves were ground until it was a thick paste with no large chunks of leaves. An additional 10 ml of grinding buffer were added, mixing with the spinach slurry, and straining the entire volume of green slurry through three layers of cheesecloth into the chilled beaker. The filtered liquid was then spun in the centrifuge for three minutes at 1,000 x G and 4C. The centrifuged tube was then removed, and the supernatant was removed, being sure not to disturb the pellet. The solution was then spun in the centrifuge again at the same parameters for ten minutes. 
+
+Following this, 10 large test tubes were labeled and placed in the rack. The spectrophotometer was started and set to read at 600nm. The indicator substance DCIP reflects blue light and thereby appears blue. 600 nm light was selected because it would be absorbed instead of reflected, yielding absorbance values that would be easier to analyze.  The test tubes were then prepped with various solutions totaling to 10 mL of liquid total. Tube one had no chloroplasts, herbicide, or DCIP and was used as a blank. Tubes 2, 3, and 4, received chloroplasts and DCIP, but no herbicide. Tubes 5-7 received chloroplasts, DCIP, and vinegar. Tubes 8-10 received DCIP, DCMU, and chloroplasts. Once each test tube was mixed and swirled, 100 microL of the chloroplasts from the second centrifuged tube’s supernatant were added. Immediately thereafter the spectrophotometer was blanked at 600nm using Tube 0, immediately followed by the measure the absorbance of all the samples at 600nm. All test tubes and spectrophotometer cuvettes were placed under a 60W volt and allowed to incubate for thirty minutes with regular measures of absorbance recorded every ten minutes. 
+
+This entire process was repeated again to help ensure the accuracy of the experiment. With all of the data collected, the percent change was calculated for each test tube, and an average was taken from these percentages. A one-tailed t-test for significance was taken at alpha=0.05 for both vinegar against the negative control (no herbicide) and the positive control (DCMU treatment). 
+
+
+Results:
+The experiment yielded a p-value of 0.03602 (n=3, alpha=0.05) for the t-test between AcOH and no herbicide, and a p-vale of 0.00407 (n=3, alpha=0.05) for the t-test between AcOH and DCMU. These data are represented graphically in Figure 1. 
+
+Before adding chloroplast during the first round of the experiment, it was noticed that adding DCMU and vinegar to the test tubes yielded a pale pink color, which was considered unusual given that DCIP normally displays a blue color and shifts to colorless as photosynthesis is conducted. After a discussion with the TA, it was determined that the reaction buffer was mistakenly switched with the grinding buffer when preparing the test tubes. Because of this, the first set of test tubes had to be discarded.
+
+Upon correction of the mixing, ensuring that reaction buffer was used in the test tubes the second time, it was noted that while DCMU treated tubes did demonstrate a blue color, the vinegar treated tubes still displayed a pink color. 
+
+
+Discussion:
+Given only the data, it would be easy to assume that the original hypothesis was supported; however, in truth the results are inconclusive. The change in color in the vinegar treated tubes indicated that the solution underwent another reaction than was expected. Upon further investigation, it was discovered that DCIP is used as an analyte in titration [IJSO: n.d.]. Given the observed test tube’s sharp change in color, it is very likely that the contents of the test tube underwent titration instead of the desired Hill Reaction. 
+
+For future studies, it would be desirable to repeat this test with different parameters. Changing the indicator molecule from DCIP to another molecule that would not yield a titration would produce quantifiable data for analyses. A suitable substitute is not known at this time. As mentioned before, this could be revolutionary in providing cheap and easily accessibly pesticides to organic farmers. The 2016 Fox News article mentioned earlier in this paper cited high demand and low supply as one of the reasons for such a high price on organic vegetables, noting that while 58% of Americans claim they prefer organic vegetables less than 1% of the farmland worldwide is organic farmland. 
+
+Pushing to uncover the applications vinegar, and other common organic molecules like it, in agricultural practices can have profound effects on the way food is grown and on the rate of growth of organic farmland. Ideally, it could lead to the eventual elimination of biomechanically engineered, cancer-causing herbicides. 
+
+
+Literature Cited:
+[1] 	J. Schiff, M. Zeldin and J. Rubman, "Chlorophyll Formation and Photosynthetic Competence in Euglena During Light-Induced Chloroplast Development in the Presence of 3, (3,4-dichlorophenyl) 1,1-Dimethyl Urea (DCMU)," American Society of Plant Biologists, 1967.
+[2] 	G. Evans and R. Bellinder, "The Potential Use of Vinegar and a Clove Oil Herbicide for Weed Control in Sweet Corn, Potato, and Onion," Weed Science Society of America, 2017.
+[3] 	K. Sauer and R. Park, "The Hill reaction of chloroplasts: Action spectra and quantum requirements.," in Biochemistry, 1965, pp. 2791-2798.
+[4] 	International Junior Science Olympiad, "Analysis of Vitamin C in Fruits and Food Products".
+[5] 	P. J. Landrigan and C. Benbrook, "GMOs, Herbicides, and Public Health," The New England Journal of Medicine, vol. 373, no. 8, pp. 691-693, 20 August 2015. 
+[6] 	Fox News, "10 reasons organic food is so expensive," 21 November 2016. [Online]. 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-06+at+07.00.56.png&Size=490867&Type=image%2Fpng&F=F_2afoU8uQtkOcQFd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+The above graph shows the average percent change in absorbances for the three treatments. While these data appear to show that vinegar did inhibit the processes of photosynthesis, other factors may have contributed to these data as discussed above. *************************************************************************
+
+
+

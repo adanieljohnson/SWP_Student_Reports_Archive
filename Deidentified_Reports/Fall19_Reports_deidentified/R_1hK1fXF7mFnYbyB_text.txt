@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-09-23 15:26:03
+Author of this lab report is: Std_B2R5InHt
+ID: R_1hK1fXF7mFnYbyB
+Course number: BIO101L
+TA: TA_23dMbkjX
+*************************************************************************
+Title: Developmental Hormones in Manduca sexta instars
+
+Abstract:
+Not Required
+
+Introduction:
+In areas of the southeastern United States, adult Manduca sexta moths lay waste to large amounts of tobacco and tomato crops. These moths then lay eggs and reproduce in large numbers, which can cause even larger crop losses. Larval Manduca sexta caterpillars molt and grow as a result of two (main) hormones; Juvenile Hormone, or JH, and Ecdysterone, or E20. E20 controls the type of molt (the actual stage change in the instar), while JH controls the timing of the molt. In order to prevent instar Manduca sexta from developing into fertile adults, a number of things can be done. Either the instars can be killed using conventional pesticides at the risk of damaging the ecosystem, or the larva can be given additional Juvenile hormone in order to prevent the larva from pupating. This is caused by a spike in JH, which disrupts the molt timing, and causing the instar to grow to a larger size, but failing to pupate. By adding JH to the larval instar’s food supply, the growth cycle of the larva will be disrupted, and will not allow the larva to develop into a reproductive adult.
+
+Alternate Hypothesis:   If we add Juvenile Hormone to the food of larval Manduca sexta, then the instars will fail to develop into an adult moth.
+
+Null Hypothesis:   If we add JH to the food of larval M. sexta, then nothing will happen and the moth will develop as normal.
+
+
+
+Materials and Methods:
+In order to complete this lab, a number of materials are necessary. Namely, two populations of four larval instars should be split into two, four-celled containers with two air holes punched into the sides of each cell. Additionally, two spoons (one for food and one for cleaning), two pipettes, Deionized water, Juvenile Hormone, and two receptacles for waste and food. Add ten grams of instar food to each cell, and add six drops of water to one container’s food, while adding six drops of JH to the treatment container. Only add JH on the first day of treatment, and wet food with six drops of water every day, making sure to clean and add new food each day. Take the masses of the instars by day, noting their development into the pupa stage. Controlling the temperature and humidity can be done by placing the instars in an incubator. At the end of the experiment, use a Chi-squared test for independence, testing the groups on average adult mass and noting change if the p-value of the test is below 0.05.
+
+
+Results:
+“Normal” Growth: growth followed by decrease in mass until pupa
+“Abnormal” Growth: either no/little growth from initial mass or exaggerated growth (premature death ignored due to the addition of a second control group
+Chi-Squared test for Independence:
+Chi-Square = 10 &gt; Chi-Square (control) = 3.841
+P-value of this test is 0.0016 (0.05 confidence)
+
+
+Discussion:
+The results of this chi-square test show that the Chi-Square = 10 &gt; Chi-Square (control) = 3.841, therefore the null hypothesis is rejected because the Chi-square of the treatment is not dependent on the control. At a 0.05 significance level, the p-value of this test is 0.0016, which is well below the threshold to accept the alternate hypothesis that JH treatment of larval causes abnormal development and failure to pupate in larval M. sexta caterpillars. Further research should be done with E20 and periodic JH treatment rather than a one-time dose, in order to fully prevent crop damage by adult moths.
+
+
+Literature Cited:
+1.	Johnson, AD. Mallison, S. 2016. Hormone Regulation. Biological Principles Lab Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 19.2 (updated July 8 2019), pp. 5-16.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=JH1.PNG&Size=59815&Type=image%2Fpng&F=F_2qjxcX30eBDUDZb
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chisquaretable.PNG&Size=12054&Type=image%2Fpng&F=F_1pPVUFmTd0qqGny
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=control1.PNG&Size=56408&Type=image%2Fpng&F=F_2QR0CjKttciU5nH
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=control2.PNG&Size=65423&Type=image%2Fpng&F=F_3L5veTW2S1CqtnE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Tables already labelled*************************************************************************
+
+
+

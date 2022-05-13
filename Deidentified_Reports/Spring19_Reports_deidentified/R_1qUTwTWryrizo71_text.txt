@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-09 14:26:41
+Author of this lab report is: Std_Nns2FJd4
+ID: R_1qUTwTWryrizo71
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The optimal temperature range for the photosynthetic complex PSII of Spinacia oleracea
+
+Abstract:
+ Plants undergo the complex process of photosynthesis to make energy, which can be measured by studying a specific complex, Photosystem II, in the membrane of the chloroplasts and seeing how absorbance changes over time. This experiment sought to find the optimal temperature range for the photosynthetic processes of Spinacia oleracea, or spinach. Samples of chloroplasts were sequestered from spinach leaves and put into solutions. Those solutions were place into baths of different temperatures ranging from 0°C to 60°C. The absorbance was taken at the start of the experiment and then every 10 minutes for 30 minutes. Typically, spinach is a fall plant that grows in colder climates. Other studies have found that chloroplasts from spinach quickly deteriorate at 40°C and above due to aggregation of membrane proteins and too much movement throughout the lipid bilayer that makes it hard to move electrons. The experiment found significance between the 12°C and 25°C baths and the 25°C and 35°C bath, suggesting that 25°C was the optimal temperature for photosynthesis. The overall p-value of the group was found to be significant at 0.024. More research on different plants could be conducted to find the adaptability of plants in extreme environments. 
+
+Introduction:
+There are multiple stages of photosynthesis within all plants and some bacteria use to produce the food they need to survive. They can be split into two major categories called light independent reactions and light dependent reactions. The light independent reactions start off with Photosystem II (PSII) absorbing photon energy from antennas. It then passes electrons onto plastoquinone, which passes it on to other complexes in a series of redox reactions. The series of reactions allow for protons to cross the membrane, creating a proton gradient. The electrons eventually reach Photosystem I (PSI), which also passes electrons to create even more of a gradient. It also creates NADPH, which will later be used to provide energy. The electrons from PSII replenish the lost ones from PSI, and water splitting gives electrons back to PSII. The end products of these light dependent reactions are O2, NADPH, and ATP. The NADPH and ATP are important for the last stage, the Calvin-Benson cycle, which creates glucose molecules. Then, the glucose molecules, more NADPH, and ATP are used in the citric acid cycle to create more energy that the plant uses to stay alive. The last two cycles are light dependent reactions, which means they are carried out even in the absence of light. A known factor that affects photosynthesis of plants is temperature. One possibility for the change in photosynthetic rate could be that temperatures change the fluidity of the membrane, which could cause the protein complexes in the membrane to aggregate or not allow them to move and exchange electrons. A recent study found that in high temperatures, 45-50°C, PSII systems aggregated and other proteins slipped from their original positions in spinach leaves [Enami: 1994]. Another study found that plants seem to be able to tolerate between 10-30 °C, and if they’re native to a colder or warmer environment, can adapt more readily to those extreme temperatures [Oquist: 1982]. We decided to use spinach as our test subject because it was easy to obtain and is grown in cool but not extreme temperature climates. Thus, it should not adapt easily to the range of temperatures we put it in. One of the easier ways to study photosynthesis in plants is by specifically studying PSII through the use of the Hill reaction. In photosynthesis , some acceptor complex is reduced when it receives electrons from PSII. The Hill Reaction uses 2,6-dichlorophenol (DCIP) as the new electron acceptor. This specific molecule changes from dark blue to clear when it accepts electrons, due to a process of rearranging bonds. So, as photosynthesis happens, PSII will transfer more electrons to the DCIP molecule, which will cause for it to change conformation and become clearer. Using this logic, a lower absorbance or clearer liquid should directly correlate to an increase in photosynthesis. It also won’t interfere with the system because it is just posing an electron acceptor after PSII releases them. By using DCIP, we tried to find the optimal range of temperatures at which spinach was able to carry out photosynthesis.
+
+
+Materials and Methods:
+ For the first part of the experiment we isolated the chloroplasts from the spinach leaves. First, we crushed the spinach leaves using a mortar and pestle and added 20 mL of grinding buffer. After they were incorporated, we separated the liquid from any chunks using a cheesecloth. 50 mL of the liquid was put into a microtube labelled “A” and was put into a centrifuge at 1200 rpm for 3 minutes. The supernatant was poured into a separate container and marked “B” and the solid mixture at the bottom was left. Then, 200 µL of the liquid from B was put into a new centrifuge tube and centrifuged again at 2800 rpm for 10 minutes. The supernatant was once again drained, and the pellet at the bottom was kept. 20mL Grinding buffer was added to the pellet, which represented the chloroplasts isolated from the spinach leaves. The liquid was then transferred to tubes marked blank, 0°C, 12°C, 25°C, 35°C, and 60°C. There were three tubes, each filled with 100µL of the chloroplasts for all the temperatures. Each tube, except the blank, then received 6 mL of water, 2 mL of 130 mM DCIP, and 2 mL of 100 mM phosphate buffer. The blank received 8 mL of water, 2 mL of 100 mM phosphate buffer, and the chloroplasts. After being mixed, the absorbance for all of the tubes were recorded. They were then placed in ice or heat baths, depending on the temperature they were marked with. The blank stayed with the 25°C at room temperature, which meant just sitting out. Every 10 minutes the absorbance were recorded and then place back in the baths for a duration of 30 minutes. After all data was collected, an ANOVA statistical test was run to find the significance of temperatures and absorbance. 
+
+Results:
+Each temperature had its own general trend of absorbance through out the 30 minutes. In the ice bath, with the temperature 0℃, there was a general decrease in absorbance. Although, the blue dots on Figure 1 that represent 0℃ shows that at one point, photosynthesis wasn’t happening. There was a decrease in absorbance by 0.05 over the course of the experiment. There was also a decrease in absorbance for the 12℃ group, with a decrease of 0.06. The orange dots in Figure 1, which represent 12℃, show that it had the lowest absorbance recorded out of all of the temperatures. The 25℃ group also had a general decrease in absorbance with a 0.074 absorbance change, which came out to be close to 20% change in absorbance throughout the experiment. The grey dots in Figure 1 show visually the large decrease in absorbance compared to the other temperatures. The 35℃ and 60℃ remained close to the same, with a few rises and falls in their absorbances. They both had 98-99% similarity between all three absorbances taken, which means that the absorbances varied very little. Those minute changes in the two high temperatures, along with other general trends, can be seen clearly in Figure 1. There was a significant p-value of 0.024 throughout the group as a whole. Within the group, the significance was only found between group 25℃ and 35℃ and group 12℃ and 25℃. 
+
+
+Discussion:
+The results of the experiment suggest that there was a few significant temperatures found that affected the photosynthesis of the spinach leaves. A large decrease in absorbance, which mean increase in photosynthetic processes was found in the 25°C range, while 12°C and 0°C had a slightly lower, though still prevalent decrease in absorbance. The minimal decrease in absorbance for the higher temperatures shows that there was little to no photosynthesis occurring in those samples. The significance between 25°C and 35°C could suggest that the lower temperature had a significantly higher photosynthetic rate than the higher temperature. There was also a significant value found between 12°C and 25°C, suggesting that 25°C was once again the temperature that presented a higher photosynthetic rate. A conclusion could be made that the optimal temperature is 25°C with a range in between 12°C and 35°C. A study found that spinach leaves had a drastic decrease in photosynthetic rate at 45°C and above [Enami: 1994]. The data we found matches the study in finding that high temperatures lower photosynthesis for spinach leaves. However, the data also showed that the lower temperatures were not as detrimental as the higher temperatures and even allowed the chloroplasts to continue photosynthesis, although at not high as a rate as 25°C. The adaptability of the spinach, a fall grown plant, explains how it was able to continue to due photosynthesis in low temperatures [Oquist: 1982]. The study of how temperatures affect photosynthesis is becoming more of a prevalent topic as climate change continues to cause temperature changes and fluctuations across the world. For plants that have not adapted to a certain climate or ones that are used to milder climates, these temperature changes, early winters, and extreme summers could seriously affect their growth. Another important aspect of this study is connecting it to agricultural industries to find the best times to grow different produce, or how to manipulate plants into adapting to certain environments so that they can be grown in an array of temperatures. 
+
+Literature Cited:
+1. Enami, I, Kitamura, M, Tomo, T. Is the primary cause of thermal inactivation of oxygen evolution in spinach PS II membranes release of the extrinsic 33 kDa protein or of Mn? Biochimica et Biophysica Acta - Bioenergetics. 1-2: 52-58. 
+ 2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+  3. Oquist, G. 1982. Effect of low temperature on photosynthesis. Plant, Cell, and Environment. 6: 281-300.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-09+at+2.25.31+PM.png&Size=51568&Type=image%2Fpng&F=F_2Y9Q43BZ8OlpawE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+ Figure 1. Comparative graph of the rate of photosynthesis at different temperatures. Each set of chloroplasts were place in water baths at different temperatures for 30 minutes. The data shows the average absorbance for the temperatures at 10 minute intervals.
+*************************************************************************
+
+
+

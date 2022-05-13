@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-03 13:47:56
+Author of this lab report is: Std_uNrmuKhJ
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Temperature changes effect on photosynthetic rate in Spinacia oleracea
+
+Abstract:
+Spinacia oleracea is a common plant that normally operates in the temperature range of 11.1 ˚C to 22.2 ˚C because of the ability of CO_2 to diffuse with the most ease at that temperature. Our experiment tests which temperature (1 ˚C, 20 ˚C, 73.3 ˚C) would cause the highest amount of change in absorbance, which equates to photosynthetic activity due to the darker blue pigment that indicates high amounts of active chloroplasts. After conducting a one-way ANOVA test on the data, we found that there is a significant change in photosynthetic activity when altering the heat in the manner we did. The greatest change was in the 1 ˚C group. Although the temperature of 73.3 ˚C may have been too much for the plant, we were able to show significance throughout the entire data set. We believe that the 1 ˚C group showed to most change due to the natural process of a seedlings necessity to survive in winter and fall months at lower temperatures such as this one. Understanding the effects of temperature is important to provide an optimal environment for growing this plant and, excluding the extremes, the determined value can be extrapolated to most other plant species.
+
+Introduction:
+The purpose of this lab was to determine the optimal temperature for the most efficient photosynthetic rate in Spinacia oleracea (spinach). This plant can be found in the majority of temperate zones on Earth but is most prominent in northern Europe and the United States. Furthermore, seeds can be sown every two weeks from the beginning of spring to the summer [Britannica: 2017]. These months where spinach germination and photosynthetic activity are most active average to around 22.2 ˚C (71.9 ˚F) in the summer and 11.1 ˚C (52.0 ˚F) in the spring. These averages only account for the previously mentioned areas where spinach growth is most commonly found. Therefore, we assume that the optimal temperature will be somewhere in that range. Although, spinach’s activity is not limited to this specific time period. It can sometimes extend into the Autumn months of September and October [Britannica: 2017]. 
+One study suggests that the temperature mainly affects the CO_2’s ability to diffuse from the atmosphere to the areas of carboxylation due to higher gas-phase and liquid-phase resistance [Warren and Dreyer: 2006][Brooks and Farquhar: 1985]. This is because higher temperatures cause the molecule to expand and be exposed to more resistance forces. However, this effect doesn’t alter the results unless there is a long period of time in which the sample is exposed to the differing temperature, therefore we decided to only use three ten-minute intervals in order to limit this factor. Furthermore, several studies were found that illustrated the ability of spinach to adapt to different temperatures and show higher levels of photosynthesis in ranges that are not normal to the species [Yamori, Noguchi, and Terashima: 2005] [Lombardozzi, et al.: 2015]. Again, this effect takes at least a month or two to occur, but our methods allowed us to avoid this completely by making quick temperature changes, so there was no possible room for any adaptation. Drawing from the times of year and locations in which Spinacia oleracea is the most active, we hypothesized that the photosynthetic rate would be highest at 20 ˚C.
+
+
+Materials and Methods:
+To start, five spinach leaves were used and the leaf was separated from the main stem. Then 10 mL of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) was used while the remainder of the leaf was ground up until there was a thick paste. 10 more mL of the grinding buffer was added to the spinach slurry and the mixture was strained through cheesecloth into a beaker. The remaining green liquid left in the beaker was placed in a chilled 50 mL centrifuge tube and was spun at 200 x G for 3 minutes at 4 ˚C. Then, this supernatant was poured from the centrifuge tube into second centrifuge tube without transferring any of the debris. The second centrifuge tube was spun at 1000 x G for 10 minutes at the same temperature. This supernatant was poured into a third tube. Finally, 20 mL of grinding buffer was added, and the remnants were stirred. This solution is what was used in the trials testing with chloroplasts. 
+10 test tubes were labeled and the following was placed in each: 9 with 6 mL of water, 2 mL of DCPIP, 2 mL of Hill reaction buffer, and 1 with 8 mL of water and 2 mL of the buffer. The first nine mentioned were separated into three groups that were tested at 1 ˚C, 20 ˚C, and 73.3 ˚C. Beginning phase two of the experiment, 100 microliters of the solution was placed in each tube except the negative control. These were mixed immediately and transferred to cuvettes for spectrometer reading. The spectrometer was blanked and the data for time zero was taken for the ten samples. Tubes 1-3 were placed in a 1 ˚C bath, 4-7 in a 20 ˚C bath, and 7-9 in a 73.3 ˚C bath, while the blank and the negative control were kept at room temperature. After 30 minutes of recording data every 10-minute interval, one final set of data was taken. 
+For this experiment, one-way ANOVA was used to test significance. This is due to the fact that there are more than two groups and it is more effective to test the variance between the different times data was taken down.
+
+
+Results:
+After conducting the ANOVA test, we found that our data was significant when interpreting the percent change values (p= 6.35E-7). We decided that using the percent change rather than the actual absorbances would more clearly demonstrate the variance because ANOVA is essentially a test for variance to begin with. Our data showed that at 1 ˚C, there was the most change from t=0 to t=30 (fig. 1). Also, comparing the negative control value, one can see that the change at 1 ˚C was above average and there was a steady decline as the temperature increased.
+
+Discussion:
+The alteration in photosynthetic rate caused by temperature occurs during the acquisition of CO_2  due to an increase in gas-phase and liquid-phase resistance making it more difficult for the molecule to diffuse into the plant [Brooks and Farquhar:1985]. After conducting the experiment, our hypothesis that the photosynthetic rate would be changed the most at 20 ˚C was not supported. However, after running the ANOVA test we were given a significant value showing that our data is valid when showing that there is notable change in photosynthesis activity at all temperatures. It is not surprising that the most changed group was at 1 ˚C due to the fact that these plants must be able to undergo colder temperatures than what is usually optimal during the early fall and winter months. Almost as if there is a plant hibernation cycle, the plants germinate for one last time, then the seedling must be able to survive until the spring. This natural process helps to justify the data. Furthermore, there was very little change in the high temperature group because these plants likely had never been exposed to heat that intense. 
+We found that the high temperature was too extreme for the spinach plant to show any change at all. If we were to conduct a similar experiment going forward, a better route to take would be to have several more groups with a smaller increase in temperature, which would show more clearly where the photosynthetic activity begins to decrease. Although, after reading an article by Adams, an experiment to broaden our knowledge regarding the question of temperature’s effect in photosynthetic rate would be to change our subject to a type of underwater plant and conduct this experiment completely submerged in water [Adams et al.: 2017]. This would provide a unique outlook on the matter considering the environment is completely different.
+In conclusion, we received significant results showing that when Spinacia oleracea is placed in varying temperatures that were higher and lower than the previously-known optimal heat, it will alter the photosynthetic rate in a way that is foreign to the plant’s normal operating level.
+
+
+Literature Cited:
+Literature Cited
+1.	Adams, M. P., Collier, C. J., Uthicke, S., Ow, Y. X., Langlois, L., & O'brien, K.,R. (2017). Model fit versus biological relevance: Evaluating photosynthesis-temperature models for three tropical seagrass species. Scientific Reports (Nature Publisher Group), 7, 39930. http://dx.doi.org/10.1038/srep39930 Retrieved from http://go.libproxy.wakehealth.edu/login?url=https://search.proquest.com/docview/1899492193?accountid=14868
+2.	Britannica, T. E. (2017, April 03). Spinach. Retrieved March 20, 2018, from https://www.britannica.com/plant/spinach
+3.	Brooks, A., & Farquhar, G. D. (1985). Effect of temperature on the CO2/O2 specificity of ribulose-1,5-bisphosphate carboxylase/oxygenase and the rate of respiration in the light. Retrieved April 03, 2018, from https://link.springer.com/article/10.1007/BF00392238#citeas
+4.	Lombardozzi, D. L., G. B. Bonan, N. G. Smith, J. S. Dukes, and R. A. Fisher (2015), Temperature acclimation of photosynthesis and respiration: A key uncertainty in the carbon cycle‐climate feedback, Geophys. Res. Lett., 42, 8624–8631, doi:10.1002/2015GL065934.
+5.	Warren, C., & Dreyer, E. (2006). Temperature response of photosynthesis and internal conductance to CO 2 : Results from two independent approaches. Journal of Experimental Botany, 57(12), 3057-3067. Retrieved from http://www.jstor.org/stable/24036520
+6.	YAMORI, W. , NOGUCHI, K. and TERASHIMA, I. (2005), Temperature acclimation of photosynthesis in spinach leaves: analyses of photosynthetic components and temperature dependencies of photosynthetic partial reactions. Plant, Cell & Environment, 28: 536-547. doi:10.1111/j.1365-3040.2004.01299.x
+	
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=capture+2.JPG&Size=35008&Type=image%2Fjpeg&F=F_Ut1F3eY87MrKvbX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This figure shows the change in absorbance percentages in chloroplast solutions at 1, 20, and 73.3 ˚C. The error bars display the standard deviation of each set.
+
+*************************************************************************

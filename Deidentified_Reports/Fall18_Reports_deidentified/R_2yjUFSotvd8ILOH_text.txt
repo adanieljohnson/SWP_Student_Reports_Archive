@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-26 16:37:33
+Author of this lab report is: Std_hDTedbWB
+ID: R_2yjUFSotvd8ILOH
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Calcium Effects on the Growth of Physarum polycephalum 
+
+Abstract:
+Physarum polycephalum, a multinucleate slime mold, is an ideal model organism for the study of a variety of cell signaling processes. The movement of P. polycephalum is due to cytoplasmic streaming that creates a fluid motion of forward movement. Streaming is caused by actin and myosin interactions that create contractile motions. Induced calcium creates an excitatory effect followed by an inhibitory migration effect on Physarum. It was predicted that when Physarum is exposed to calcium chloride over a 72-hour period, then during the first 24 hours, calcium will enact an excitatory effect on growth followed by an inhibitory effect the last 48 hours. In addition, increased concentrations of calcium will increase the inhibitory effects on the organism. Cultures of Physarum were exposed to concentrations of 2 mM Ca 2+ and 5 mM Ca 2+, and migration was observed every 24 hours. Results were insignificant. Both 5 mM Ca 2+ (t-stat = 0.534; P = 0.621) and 2 mM Ca 2+ (t-stat = 0.464; P = 0.667) concentrations displayed variable amounts of migration. Understanding the role of calcium and its concentration is beneficial towards improving the motility in other various organisms.
+
+Introduction:
+     Physarum polycephalum, commonly referred to as slime mold, is a multinucleate system that allows for the observation of a variety of cell signaling processes. Physarum behaves as a single cell unit that uses many of the same signal transduction pathways as other organisms do. P. polycephalum is frequently studied because it provides a simple model system of complex cellular process such as the cell cycle, cell growth and differentiation, cell motility, and cell migration [Terry: 2009]. Environmental factors such as light, temperature, and food availability effect the organism’s lifecycle and motility [Gotoh: 1982]. The movement of P. polycephalum is due to cytoplasmic streaming. During streaming, the endoplasm moves back and forth, creating a fluid motion. If the forward streaming lasts longer than the backward streaming, the organism will successfully move forward [Gotoh: 1982]. This streaming is caused by the interaction between myosin and actin located in the walls of plasmodial tubes.
+     Studies in muscle cells between the interaction of actin and myosin are known to be associated with the contraction needed for movement. However, in non-muscle cells, it is a major component of the cytoskeleton, and is responsible for various physiological functions [Kohama: 2016]. The regulatory role of calcium is different in non-muscle cells such as Physarum. Calcium does not activate actin-myosin interaction, rather, it is inhibitory. However, studdies have suggested that various concentration and durations of time can have an effect on the growth of Physarum [Holmes: 1979]. The addition of calcium will have an initial excitatory response of actin-myosin interaction and growth, but after two days, growth is inhibited [Terry: 2009]. It is hypothesized that if Physarum polycephalum is exposed to calcium chloride over a 72-hour period, then during the first 24 hours, calcium will enact an excitatory effect on growth followed by an inhibitory effect the last 48 hours. In addition, increased concentrations of calcium will increase the inhibitory effects on the organism. 
+
+
+Materials and Methods:
+     A culture of Physarum polycephalum was obtained along with nine potato dextrose agar (PDA) plates to serve as a medium for the Physarum. Three PDA plates soaked in 5 mL of a 2mM Ca2 solution for ten-minute, three PDA plates in a 5mM Ca2 solution for ten minutes, and three PDA plates were left as a control. 1 x 1 cm cubes of Physarum were cut from the stock plate provided and were placed in each plate along a designated midline. All plates were sealed using Parafilm, covered in foil, and placed into a dark environment. Growth of the culture was measured every 24 hours over a 72-hour period. Growth was measured using a standard method of documenting the Physarum’s diameter using a millimeter ruler. Data was collected as percent change over time and was analyzed by two sample t-tests.
+
+
+Results:
+        The results obtained did not display any statistical significance. The control group was not statistically significantly different than that of the culture with 2 mM Ca 2+ (t-stat = 0.464, df = 4, P = 0.667). In addition, the control group was not statistically significantly different than that of the culture with 5 mM Ca2+ (t-stat = 0.534, df = 4, P = 0.621). Average rate of migration was variable across all sample cultures. Physarum soaked in 5mM Ca 2+ and the control sample displayed similar behavior; both had decreased growth until the final 24 hours of the study when growth initiated. The Physarum soaked in 2 mM Ca 2+ displayed continuous inhibition of growth over the three-day period. These comparisons are exemplified in Figure 1. 
+	The results expected should have replicated similar figures to the Effects of Calcium on the Growth of Physarum polyephalum study [Terry: 2009]. The results obtained from this study were significantly significant across all concentrations through the use of ANOVA analysis (F=3.981, df=1.571, P=0.032). The control Physarum displayed linear growth over 72 hours. The 2mM and 5mM cultures displayed similar growth, however 5mM exemplified a stronger inhibition of growth the last 24 hours. These results are displayed in Figure 2. 
+
+
+Discussion:
+     The data obtained neither supports or fails the initial hypothesis. Predictions thought induced calcium would have an excitatory effect followed by an inhibitory effect on Physarum polycephalum growth. Unexpectedly, an excitatory effect did not occur until the final 24 hours. Generally, growth was inhibited across all sample cultures. Primary research found that growth during the first two days should occur, and the addition of calcium should inhibit growth the final 24 hours [Terry: 2009]. The discrepancy in results may be attributed to the initial stock plates acquired. The culture plates had underdeveloped Physarum not ready for experimentation due to the developmental stage it must have been presented in. Motility can be attributed to cytoplasmic streaming due to actin and myosin interactions [Gotoh: 1982]. Calcium ions in Physarum are bound by a myosin chain that induces cytoplasmic streaming and movement. However, the Physarum may have been going through mitosis in the G2 or S phase, where the culture is known to suspend activity due to the lack of ATP needed for cytoplasmic interactions and movement [Holmes: 1979]. Had the cultures been developed, normal activity would have occurred with the initiation followed by inhibition of growth. 
+	Determining the role of calcium in the motility of Physarum polycephalum could potentially give insight to motility in other organisms. Physarum behaves as a single cell organism and is easy to manipulate to study the effects of cell signaling on a basic level. Understanding this knowledge may be applicable to other single celled organisms and applied to multi-cellular organisms, specifically in regard to motility.
+
+
+
+Literature Cited:
+Gotoh, Kuniyasu, and Kiyoko Kuroda. “Motive Force of Cytoplasmic Streaming during Plasmodial Mitosis of Physarum Polycephalum.” Cell Motility, vol. 2, no. 2, Jan. 1982, pp. 173–81. Wiley Online Library, doi:10.1002/cm.970020208.
+Hato, M., Ueda, T., Kurihara, K., & Kobatake, Y. (1976). Phototaxis in true slime mold Physarum polycephalum. Cell Structure and Function, 1(3), 269-278.
+Holmes, R. P., and P. R. Stewart. “The Response of Physarum Polycephalum to Extracellular Ca2+: Studies on Ca2+ Nutrition, Ca2+ Fluxes and Ca2+ Compartmentation.” Journal of General Microbiology, vol. 113, no. 2, Aug. 1979, pp. 275–85. Crossref, doi:10.1099/00221287-113-2-275.
+Kohama, Kazuhiro. “Calcium Inhibition as an Intracellular Signal for Actin-Myosin Interaction.” Proceedings of the Japan Academy: Physical and Biological Sciences, Series B; Ueno Park, vol. 92, no. 10, Dec. 2016, pp. 478–98. ProQuest, doi:http://dx.doi.org/10.2183/pjab.92.478.
+Terry, Lauren C., et al. “Effects of Calcium on Growth of Physarum Polycephalum.” BIOS, vol. 80, no. 4, Dec. 2009, pp. 159–63. bioone.org (Atypon), doi:10.1893/011.080.0403
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-26+at+4.33.46+PM.png&Size=54939&Type=image%2Fpng&F=F_3P51eh5f1XM48Fq
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-26+at+4.33.36+PM.png&Size=59368&Type=image%2Fpng&F=F_3EmzBBmzuuGtry2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average Rate of Migration vs. Time
+Figure 1 illustrates the average migration distance over a period of 72 hours. The control Physarum displays a decrease in migration over 48 hours followed by an increase in migration the last 24 hours. Physarum soaked in 2 mM Ca 2+ displays a continuous decrease in migration over a three-day period. Physarum soaked in 5 mM Ca 2+ displays similar results to the control: a decrease in migration over 48 hours, followed by an increase in migration the last 24 hours. Standard error bars are added to show the significance of the results obtained.
+
+Figure 2: Average Rate of Migration vs. Time [Terry:2009]
+Figure 2 displays estimated values of cumulative growth of P. polycephalum with the addition of various concentrations of CaCl2 from the Terry 2009 study. The control Physarum exhibits linear growth throughout a 72-hour period. Physarum soaked in 2 mM Ca 2+ has accelerated growth within the first 48 hours followed by a decrease in growth the last 24 hours. Physarum soaked in 5 mM Ca 2+ displays similar results to the 2mM sample, however a more significant inhibition of growth the last 24 hours. 
+
+
+*************************************************************************
+
+
+

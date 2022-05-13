@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-20 18:01:29
+Author of this lab report is: Std_OrNpK1Vq
+ID: R_1rwy9t8URsvQnac
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Local Anesthetic Effects on the Neuromuscular Stimulation of the Gastrocnemius Muscle 
+
+Abstract:
+The frog is an excellent model for the function of skeletal muscles because it closely matches human anatomy.  In vertebrates, action potentials cause chemical responses that allow muscles to contract.  Repeated contraction of the same muscle causes soreness.  Local anesthetics, such as lidocaine, have been used for decades to alleviate pain.  Recently the safety of lidocaine has been questioned because of suspected breathing problems.  In our experiment, we examined the connection of lidocaine to muscle movement by examining action potentials in lidocaine-treated gastrocnemius muscle of frogs.  Our data showed no significant difference between the mean number of action potentials observed in the control group which was not administered lidocaine, and the mean number of action potentials in the experimental group, which was injected with lidocaine solution.  Although the results of our experiment were not statistically significant, the results showed a reduction in action potentials.  If lidocaine also causes a reduction in the effectiveness of the muscles that we use to breathe, this could be significantly harmful.  Because lidocaine is so commonly used, studying its effects on muscles is important to answer questions about potential negative side effects. 
+
+Introduction:
+ In our experiment, we examined how lidocaine, a local anesthetic, affected the opening of sodium channels that lead to action potentials when injected into the gastrocnemius muscle of frogs. In vertebrates, the voluntary movement of skeletal muscles is caused by nerve impulses that trigger chemical responses generating an action potential in muscle fibers.  Action potentials spread from neuromuscular junction sites to the muscle’s motor end plate.  Sodium ions aid in this process by depolarizing the end plate.  The depolarization spreads and causes more voltage-gated sodium channels to open in the surrounding cell membrane until it reaches threshold and the action potential is fired across the cell membrane to the receptors on the muscle fiber [Sadava, 1004].  Current scientific research indicates that lidocaine interferes with and decreases depolarizations in muscles [Mitchell, 379].  The mechanisms for accomplishing this decrease are still being investigated, but it is believed that lidocaine prevents sodium from flowing through voltage-gated sodium channels [Cummins, 11].  To study the effect of lidocaine on action potentials we prepared an experiment observing gastrocnemius muscle contractions in three frog’s legs used both as a control and as an experimental group. The three frog’s legs were not treated with lidocaine for the first part of the experiment and were injected with lidocaine solution for the second part of the experiment.  The lidocaine solution was the independent variable and the action potential in the form of muscle twitches measured in volts was the dependent variable.  We predicted that treatment with lidocaine solution would suppress the sodium channels leading to a decrease in action potentials.  
+
+Materials and Methods:
+In this experiment, lidocaine solution was used to suppress the sodium channels in the gastrocnemius muscle of an experimental group of three frog legs.  Three frog legs were initially used as a control group and then the same frog’s legs were used for the experimental group.  Each frog leg was dissected to expose the gastrocnemius muscle and probes from a stimulator were attached.  The control group was not treated with the lidocaine solution and was exposed to single pulses of 5 second constant duration from a stimulator at 1.5 volts through the probes.  The experimental group was given a 0.1 mL injection of lidocaine solution into the gastrocnemius muscle and then exposed to a 1.5-volt pulse of 5 second constant duration through the probes.  The voltage of the muscle response in the form of twitches was recorded for both the experimental and control groups.  The means of the data from the experimental and control groups were used to perform a paired t-test with a 95% confidence interval.      
+
+Results:
+The paired t-test at a 95% confidence interval, with dF=2, resulted in a p-value of p = 0.219, shown in Table 1. Statistical Data.  Results of the data show that there was a difference in muscle twitches between the non-treated control group and the experimental group treated with lidocaine injection.  This is shown in Figure 1. which shows the comparison of the muscle response from the control and experimental groups measured in volts.  In this figure, the control group is represented by the before, or untreated, group, and the experimental group is represented by the after, or lidocaine-treated group.  The error bars represent ±0.03 standard deviations from the mean. The general trends in the data in Figure 1. show there was a reduction in the muscle response after the injection of the lidocaine. 
+
+Discussion:
+The data did not find a statistically significant difference between the mean of the control group without the lidocaine treatment, and the mean of the experimental group with the lidocaine treatment for this experiment.  The null hypothesis which states that there would be no change in mean muscle response between the control and experimental groups, was not rejected.  At the 95% confidence interval the null hypothesis is rejected when p-values are p&lt; 0.05.  The p-value for this experiment was p=0.219.  Although there was no statistical evidence to support the hypothesis that lidocaine can suppress sodium channels that lead to action potentials in the gastrocnemius muscle of a frog, we did observe a large difference between the results of the control and experimental groups.  The data show that there is some effect from the lidocaine, although it cannot be said that the lidocaine blocked the sodium channels to prevent an action potential from occurring.  Additional research can be done on the effect of lidocaine on muscle function.  Experiments on swine show that lidocaine has a relaxant effect on smooth muscle [Satoh, 305].  A relaxant effect on the muscles that are used for breathing could be the cause of breathing difficulties described in recent case studies.  In one research study, lidocaine administered to rats at higher doses effectively stopped respiration through blockage of Na+ flow in cells [Shakuo, 1586].  Further study is needed on the effect of lidocaine on muscles because of the potential side effects and the fact that lidocaine is so commonly used in medicine.  
+
+Literature Cited:
+1.	Sadava, David, et al. 2017.  Biology the Science of Life. Sunderland:  Sinauer Associates.  977-981.
+
+2.	Mitchell, M.R. and Plant, S.  1987. Effect of Lidocaine on actin potentials, currents and contractions in the absence and presence of ouabain in guinea-pig ventricular cells.  Quarterly Journal of Experimental Physiology. 73: 379-390.
+
+3.	Cummins, Theodore.  2007. Setting up for the block:  the mechanism underlying lidocaine’s use-dependent inhibition of sodium channels.  The Journal of Physiology. 582 (Pt 1): 11.
+
+4.	Satoh, Kenichi, et al. 2015. The effects of lidocaine on calcium release and the role of pathways in swine lingual artery contraction induced with agonists.  British Biomedical Bulletin. 3:304-316.
+
+5.	Sakuo, Tomoharu, 2016.  The effects of lidocaine on central respiratory neuron activity and nociceptive-related response in the brainstem-spinal cord preparation of the newborn rat.  Anesthesia and Analgesia. 122:1586-1593.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+Table.PNG&Size=6305&Type=image%2Fpng&F=F_3ISsvdJ5Cdq1Bdh
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+Figure.PNG&Size=26457&Type=image%2Fpng&F=F_2uVdVLM3p4btVx2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Statistical Data
+Figure 1.  Effect of Lidocaine on Gastrocnemius Muscle Response 
+The control group (before) was not treated with lidocaine.  The experimental group (after) was treated with 0.1 mL of lidocaine injected intramuscularly.  Each bar represents average response measured in volts of muscle twitches; error bars are ±0.03 standard deviations.  
+*************************************************************************
+
+
+

@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-09-25 17:23:38
+Author of this lab report is: Std_ZsTA9PyV
+ID: R_3Jg8mlIp9Gaz5my
+Course number: BIO101L
+TA: TA_74iQqt4j
+*************************************************************************
+Title: The Effect of Ecdysone on the Growth of Manduca sexta
+
+Abstract:
+.
+
+Introduction:
+The Manduca sexta, also known as the tobacco hornworm, is a common pest of plants such as tobacco, tomato, and eggplant [Byron: 2017]. As an adult, the Manduca sexta is a large moth that resembles a humming bird and as a larvae, the species has a bright-green, worm-like body with a red-tipped horn [Lotts: 2017]. The larvae tend to feed on the leaves on plants, where they cause defoliation and potentially expose them to pathogens [Byron: 2017]. The development of the Manduca sexta is regulated by the two hormones juvenile hormone and ecdysone.
+Juvenile hormone is released by the corpora allata in insects and opposes the metamorphosis of immature hormones [Williams: 1956}. As an insect develops through its larval stages, there is a high presence of juvenile hormone and when levels decrease around the fifth instar, the insect is able to molt into its adult form. Ecdysone, on the other hand, is secreted by the prothoracic gland in the prothorax of insects and regulates molting and stimulates metamorphosis [Cabej: 2011]. Ecdysone stimulates growth by acting on the epidermis and stimulating cuticle formation [Wigglesworth: 2019]. During the larval stages of an insect’s life, ecdysone is produced and is converted to its active form of 20-hydroxyecdysone, or 20E for short [Yamanaka: 2013]. 20E binds to a nuclear receptor and causes several gene expression cascades, leading to molting [Yamanaka: 2013]. Throughout the juvenile instars of an insects life, ecdysone levels rise and fall in coordination with the insect’s progression through molting into its next instar, before essentially becoming absent once the insect has molted into an adult form. Together, Juvenile Hormone and Ecdysone regulate the growth and development of an insect as it molts and proceeds throughout its larval instars and eventually molts into an adult.
+The following experiment will test the effect of excess ecdysone levels on the mass of Manduca Sexta. Using the presence of ecdysone in food as the independent variable and the mass of the organisms as the dependent variable, the experiment will confirm or reject the hypothesis that treating Manduca sexta with excess ecdysone will cause early metamorphosis and molting and cause reduced size in the organisms and possibly early death. By the end of the experiment, the Manduca sexta that were treated with ecdysone along with food are predicted to have on average a lower mass than the organisms  that receive just food and water.
+
+
+Materials and Methods:
+The materials used for the experiment were eight Manduca sexta, two four-celled plastic containers with lids, food, water, E20 reagent, a balance, and transfer pipets. The plastic cells were punctured in order to allow airflow when the lids were closed and labeled with numbers. In the experiment, eight Manduca sexta were selected, divided into two groups, and kept in the separate, enclosed plastic cells. The first group of four organisms was designated to be the control group to receive food and water, and the second group of four organisms was designated to be the treatment group to receive food and a reagent. For fourteen days, the four control group Manduca sexta were fed 10 grams of food along with 8 droplets of water. The treatment group of four Manduca sexta were fed 10 grams of food along with 8 droplets of E20. Each day, the masses of the Manduca sexta were taken using the balance, and the organisms were disposed of when they deceased.  After the experiment was concluded and results were gathered, a one-tailed, two-sample t-test was conducted using the average change in mass of the control group and the treatment group from day to day. 
+
+Results:
+Throughout the experiment, the control group receiving food and water every day grew from an average mass of .15 grams on day one to an average mass of 11.70 grams on day fourteen. One of the Manduca sexta died on the tenth day and was removed from the experiment. The treatment group that received food and E20 every day grew from an average mass of .16 grams to .43 grams. By the eleventh day of the experiment, all four of the treatment group Manduca sexta had died and been disposed of. Figure 1 shows the change in the average mass of both the control group and the treatment group throughout the experiment and the termination of the treatment group line on September 14th represents the death of all four organisms in that group. The figure shows that the average mass of the control group was larger than the average mass of the treatment group throughout the entire experiment. Figure 3 shows the individual Manduca sexta mass changes throughout the experiment and shows that the control group organisms that were not treated with excess ecdysone grew much larger than the treatment group. A two tailed t-test was performed using the average mass of the treatment group and control group every day, and the p value calculated was 0.0023.
+
+Discussion:
+Our hypothesis predicted that ecdysone would stunt the growth of the Manduca sexta and possibly cause death. The P value of 0.002 provides strong evidence in support of our hypothesis against the null hypothesis that the differences in masses of the groups would not be significant after fourteen days, so the null hypothesis is rejected.
+	The treatment of ecdysone most likely stunted the growth of the Manduca sexta because it induced molting that the organisms were not ready for. The Manduca sexta naturally produce a specific amount of ecdysone to induce the transition between instars, and the excess amount most likely stimulated the transition early, whereas the untreated control group produced the correct amount of ecdysone in order to molt at the right time that their bodies could support. In a previous experiment, it was determined that treatment of Manduca sexta with a dose of ecdysone delays certain responses in the organisms related to molting and growth [Truman: 1983]. This was because instead of having levels of ecdysone decline to prepare for molting into the adult forms, the Manduca sexta continued to molt into their larva form.
+
+	Based on the results of the two sample T-test, giving the treatment group ecdysone provided mass changes that was statistically different from the control group. The results of the control and experimental groups were found to be statistically significant and therefore our null hypothesis was rejected.
+
+
+Literature Cited:
+1.	Byron, Morgan A, and Jennifer L Gillett-Kaufman. “Common Name: Tobacco Hornworm.” Featured Creatures, University of Florida, Oct. 2017, entnemdept.ufl.edu/creatures/field/tobacco_hornworm.htm.
+2.	Cabej, Nelson R. “Neural Control of Postphylotypic Development.” ScienceDirect, Elsevier, 30 Nov. 2011, www.sciencedirect.com/science/article/pii/B9780124158313000057.
+3.	Lotts, Kelly and Thomas Naberhaus, coordinators. 2017. Butterflies and Moths of North America. http://www.butterfliesandmoths.org/ 
+4.	Truman, James W. “Ecdysteroids Regulate the Release and Action of Eclosion Hormone in the Tobacco Hornworm, Manduca Sexta (L.).” Journal of Insect Physiology, Pergamon, 1 Oct. 2003, www.sciencedirect.com/science/article/pii/0022191083900525.
+5.	Wigglesworth, Vincent Brian. “Insect.” Encyclopædia Britannica, Encyclopædia Britannica, Inc., 2 Jan. 2019, www.britannica.com/animal/insect/Role-of-hormones#ref68711.
+6.	Williams, Carroll M. “The Juvenile Hormone of Insects.” Nature, Nature Publishing Group, 28 July 1956, www.nature.com/articles/178212b0.
+7.	Yamanaka, Naoki et al. “Ecdysone control of developmental transitions: lessons from Drosophila research.” Annual review of entomology vol. 58 (2013): 497-516. doi:10.1146/annurev-ento-120811-153608https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060523/
+
+ 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-25+at+5.22.22+PM.png&Size=120357&Type=image%2Fpng&F=F_1dsp8n7gbnXxrh4
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-25+at+5.22.30+PM.png&Size=72809&Type=image%2Fpng&F=F_2rGRWh3cbuQoh1k
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-25+at+5.22.36+PM.png&Size=143773&Type=image%2Fpng&F=F_2RZWA7720MBfE1d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+.*************************************************************************
+
+
+

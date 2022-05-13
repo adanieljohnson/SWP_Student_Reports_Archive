@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 13:49:16
+Author of this lab report is: Std_hxFNWwOW
+ID: R_2uUlTGxXPnNkF8O
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Lanthanum Chloride poses no effect on the twitch threshold of the Rana pipiens
+
+Abstract:
+This experiment tested the effects of twitch threshold on the addition of lanthanum chloride to the gastrocnemius muscle of a Rana pipiens frog. The Rana pipiens is also known as the northern leopard frog, native to Canada and the United States. Lanthanum Chloride is chemical that can serve as a calcium blocker. In a normal muscle contraction, calcium is released, binds to troponin, which causes tropomyosin to shift so the muscle can contract. The sciatic nerve of four frog legs were stimulated both before and after the addition of lanthanum chloride to the gastrocnemius muscle. The data was recorded through a myogram that was hooked to a computer and the sciatic nerve. Our hypothesis was the twitch threshold of the leg would decrease after the addition of lanthanum chloride. The results contradict the hypothesis because the lanthanum chloride showed no trend to the twitch threshold. Some legs had a higher twitch threshold after the addition while others had a lower twitch threshold. In conclusion, injecting the gastrocnemius muscle with lanthanum chloride showed no correlation to whether or not the twitch would be higher or lower than before injection. 
+
+Introduction:
+The northern leopard frog, Rana pipiens, is native to Canada, Panama, and the United States. They are in the Anura order. The muscles in a frog have over 100 myofibers that are each individually bound by connective tissue. [Johnson : 2018] These muscles are innervated by motor neurons. A nerve has muscle contractions through a process called excitation-contraction coupling. First, action potentials travel along an axon to the neuromuscular junction. Then, depolarization releases acetylcholine, ACh, from the presynaptic nerve terminal. Third, ACh diffuses to the muscle fiber and binds to its receptor on the membrane opening sodium channels that generate an action potential. Next, the action potential spreads stimulating the release of calcium from the sarcoplasmic reticulum. Fifth, the release of calcium contracts the mechanism of the muscle fiber. Myosin heads use ATP to walk along thin filaments. Movement causes myofiber to shorten. Finally, calcium goes back into the sarcoplasmic reticulum and the muscle relaxes. A myogram can help monitor these twitches and produce a graph showing them. By attaching probes to the sciatic nerve, stimuli can be applied and the twitch can be observed. Figure 1 shows a picture of a frog leg. Lanthanum Chloride, a calcium blocker, is a compound that alters movement and tension responses in different frog muscles. [Weiss : 1970]. The goal of this experiment is to see how lanthanum chloride affects the twitch threshold of the sciatic nerve in the Rana pipiens. In a similar study, the addition of lanthanum chloride decreased the twitch threshold of the frog as higher concentrations of the lanthanum chloride was added. [DeBassio : 1971] Therefore, according to this study, the greater the concentration of lanthanum chloride, the easier it would be for a muscle to twitch. We hypothesize that after the injection of lanthanum chloride, the twitch threshold will decrease, making it easier for the muscle to twitch. We think this because if less calcium is being produced, than the twitch will come sooner requiring less stimuli.
+
+Materials and Methods:
+Start by obtaining four frog legs. Pull the skin of the leg off and moisten the open leg with Frog Wringer’s solution. Using your finger or small scissors expose the gastrocnemius muscle and the sciatic nerve. Next, obtain a piece of string and tie a knot at the end of the gastrocnemius muscle so that there is a loop. Hang the leg on first hook on the contraption. Put the sciatic nerve on the two probes. See figure 2 for a picture of the setup. Set the program to 1 pulse, w(ms) 5, F(Hz) 1, and HP 0. Stimulate the nerve until threshold is reached. Next inject the gastrocnemius muscle with 0.1mL of 1mM lanthanum chloride using a safety syringe. Wait ten minutes and then stimulate the nerve until threshold is reached. Repeat this with the other three frog legs. We used a paired t-test for this experiment. This way, there would be an easier comparison with the results between the frog legs twitch threshold before and after the injection of the calcium blocker.
+
+Results:
+The first and second frog leg showed an increase in twitch threshold after the addition of the calcium channel blocker. The twitch threshold of the third frog leg stayed the same even after the addition of the calcium blocker, and the twitch threshold decreased in the fourth frog leg after the addition of the calcium blocker. There were 3 degrees of freedom in this experiment. This means there were three independently variable factors affecting the way a system may exist. Our t-value is 1.39 and the p-value is 0.258. Because the p-value is much greater than 0.05, the results of this experiment were not valid towards proving our hypothesis. However, this makes them valuable because they disproved our hypothesis. The average for the threshold before injection was 0.2125  ∓0.18 a standard deviation and after injection was 0.1475 ∓0.19. 
+
+
+Discussion:
+These results did not support our hypothesis because there was no trend in the data to show where the addition of lanthanum chloride causes a decrease in twitch threshold. The p-value was 0.258 meaning the results are insignificant. The results may have happened due to a few reasons. The first is that in another study, lanthanum chloride was found to induce apoptosis. At varying concentrations, it also was found to have a bidirectional influence on calcification. [Zhang : 2012] This study shows where lanthanum chloride may be unreliable if trying to perform a specific task. This compound could induce apoptosis, induce calcium deposition, or inhibit calcium deposition. When cells die through apoptosis, one would think there would be little contraction. However the bidirectional influence on calcium explains why the apoptosis caused no effect on the twitch threshold.  Therefore, trying to block calcium with channel blockers in the frog leg would be better suited using another chemical such as Amlodipine or Diltiazem. Amlodipine, a calcium channel blocker, is used to treat high blood pressure by relaxing blood vessels so blood can flow more easily [DeNoon :  2018]. Diltiazem, a calcium channel blocker, is a drug for humans that  relaxes blood vessels in the body and lowers the heart rate. [DeNoon 2018] Another reason our results could have occurred is because the frog legs used were not healthy, they had red-leg syndrome. It is possible that the frog legs twitched differently because of this disease. One final way the results may have been skewed is the frog leg was stimulated regularly before the addition of lanthanum chloride. Thus, acetylcholine has already been released and calcium has already been released into the sarcoplasm and back into the sarcoplasmic reticulum. Two ways this experiment could be improved is by using healthy frogs and by using one frog leg solely without the addition of lanthanum chloride and one solely with the addition of lanthanum chloride.
+
+
+Literature Cited:
+Weiss, George B. “ON THE SITE OF ACTION OF LANTHANUM IN FROG SARTORIUS MUSCLE.” Journal of Pharmacology and Experimental Therapeutics, American Society for Pharmacology and Experimental Therapeutics, 1 Sept. 1970, jpet.aspetjournals.org/content/174/3/517.short.  DeBassio, William A., et al. “Influence of Lanthanum on Transmitter Release at the Neuromuscular Junction.” Journal of Neurobiology, Wiley-Blackwell, 11 Oct. 2004, onlinelibrary.wiley.com/doi/full/10.1002/neu.480020307.  Wake Forest Biology Manual 2018  “Diltiazem Oral : Uses, Side Effects, Interactions, Pictures, Warnings & Dosing.” WebMD, WebMD, www.webmd.com/drugs/2/drug-3783-276/diltiazem-oral/diltiazem-tablet-oral/details.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-27+at+2.46.42+PM.png&Size=85119&Type=image%2Fpng&F=F_qDVYm7nGUDuievT
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-27+at+2.46.35+PM.png&Size=289165&Type=image%2Fpng&F=F_2rU8scP7n5u2qMC
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-27+at+2.46.48+PM.png&Size=23802&Type=image%2Fpng&F=F_2ATODN53YguNpDh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: A picture of a frog leg illustrating where the sciatic nerve and gastrocnemius muscle is located. These are the two things that will be isolated in the experiment.  (www.medicine.mcgill.ca)
+Figure 2: The setup of the experiment.
+ Figure 3: The average twitch thresholds of frog legs before and after injection of lanthanum chloride where n=4 and the error bars, representing the standard deviation for each group are 0.18 and 0.19 respectively.
+
+
+*************************************************************************

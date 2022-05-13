@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-06 22:39:55
+Author of this lab report is: Std_dPYBgnjy
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effects of Acidic conditions on the Metabolic Rate of Procambarus sp.
+
+Abstract:
+The objective of this experiment was to study the effects of acidic water conditions on specific metabolic rate of Procambarus sp, also known as freshwater crayfish. We hypothesized that under acidic conditions the metabolic rate of the crayfish will decrease. Of the three crayfish tested, there were three control groups under neutral conditions (6.2 pH) and three experimental groups under acidic conditions (3.1 pH). After 20 minutes, the average specific metabolic rate under neutral conditions was 0.00010 mg of O2/minute*g of the crayfish, and that decreased to 0.0003 mg of O2/minute*g of the crayfish under acidic conditions [t-value: 3.73, df: 2, p-value: 0.0649]. A paired t-test shows that the p-value of the average specific metabolic rates is 0.0649 mg of O2/minute*g of the crayfish, which is not statistically significant, but it does show that there’s only a 6.49% chance that our results were due to chance. This experiment does show evidence of a decrease of metabolic rate under specific conditions.
+
+Introduction:
+      Both autotrophs and heterotrophs use a similar set of mitochondrial enzymes to convert high-energy molecules into low-energy ones, and capture the energy released during conversion in the form of ATP. The term metabolism describes the entire process of balancing energy capture, conversion, and transfer within cells or an organism and indicates the amount of energy being expended in the body at any given time. We can measure either oxygen consumption and carbon dioxide production, to measure metabolic rate, which are both excellent indirect indicators of energy production and use by an organism. 
+	When an organism converts glucose to energy, the carbon and oxygen atoms in the glucose molecules are converted through a series of reactions into CO2 gas. These reactions release the molecules NAD+ and FAD which transfer electrons to the electron transport system. As electrons move between the transport molecules of the chain, they give up energy, which is used to convert low-energy ADP into high-energy ATP. This system stops when electrons at the end of the chain are removed by a transfer to O2, which converts oxygen to water. This means that the oxygen we inhale is converted into water after it gains electron and the carbon dioxide we exhale is the remainder of glucose molecules that were broken down for ATP production. The amount of energy produced by breaking down glucose during routine physiological activities is directly proportional to the amount of oxygen consumed. Therefore, it is easier to measure oxygen consumption, so that is what we will use to estimate metabolic activity in this experiment.
+	In a lab done by Bronwyn Ellis and Stephen Morris, they investigated the respiration and metabolism of the freshwater crayfish Cherax destructor in respect to the acidification and alkalization of its environment. They exposed the crayfish to acidic conditions (pH 4.5), neutral conditions (pH 7.1), and basic conditions (pH 8.0) and studied water and oxygen consumption rate, hemolymph (a fluid equivalent to blood) oxygen transport, hemolymph glucose, and lactate concentrations. They also studied the effect of reducing the environmental concentration of calcium in acid water from 500 to 50 μmol l-1. They found that oxygen consumption in acid water (500 μmol l-1 Ca2+) decreased by 79% after 21 days compared with the control group. The acidic environment depressed the major aerobic and anaerobic metabolic pathways in the crayfish. They also determined acid and alkaline waters are in fact challenging environments for Cherax destructor and probably reduce growth and fecundity, but do not promote increased energy expenditure for homeostasis [Ellis: 1994].
+	In this lab, we will determine the relationship between acidity of water and the rate of metabolism in Procambarus sp, or freshwater crayfish. Crayfish are ideal for this experiment for two reasons. They are small aquatic animals which makes their oxygen consumption and therefore metabolic rate easy to measure. They are also ideal because their natural environment is in freshwater, which in the past century has been subjected to acidification due to atmospheric pollution, therefore this experiment we will allow us to study the effects of current climate conditions on this species. We will be studying the effects of acidic water conditions on specific metabolic rate, which is the amount of oxygen consumed per gram of body mass per unit of time. We predict that under acidic conditions the metabolic rate of the crayfish will decrease.
+
+
+Materials and Methods:
+A group of 3-4 people will measure the oxygen consumption by a crayfish in water with neutral conditions and in acidic water. For the control group, the neutral conditions, start by filling the screw-top glass testing chamber with water that has been saturated with air. Measure the pH of the water by using a pH probe, it should be around 6 pH. Place the crayfish in the container and secure the top so that the water overflows slightly. Make sure that the chamber is completely filled with water. Turn on the instrument and let your readings stabilize for 30 seconds to a minute, then take a baseline reading of the dissolved oxygen concentration.  At 5, 10, 15, and 20 minutes, read the oxygen concentration again. Remove the probe and determine the volume of water by carefully pouring the water from the test chamber though a funnel into a graduated cylinder.
+For the experimental group, use the same crayfish as the first section. Refill the chamber with oxygen-saturated water. Take 100mL of the acidic buffer and add 900mL of water. Then use the pH probe to test the pH of the experimental water, it should be around 3 pH. Place the crayfish in the container and take a baseline reading of the dissolved oxygen. At 5, 10, 15, and 20 minutes read the oxygen concentration again. Unseal the chamber, measure the amount of water used, and return the crayfish to its original holding pen.
+Refill the chamber with fresh water and repeat the entire process with two other crayfish. In the analysis of the collected data, we used a two-tailed statistical t-test to test the significance of the data gathered. 
+
+
+Results:
+Using a pH probe, neutral conditions were determined to be 6.2 pH and acidic conditions were determined to be 3.1 pH. Under neutral conditions, the O2 concentration had a total change of 0.77 mg/L however under acidic conditions, the total change in O2 concentration decreased to 0.23 mg/L. Under neutral conditions, the average specific metabolic was 0.000999 after 20 minutes, and decreased to 0.0003 under acidic conditions after 20 minutes [t-value: 3.732465, df: 2, p-value: 0.064874].
+
+Discussion:
+We hypothesized that the specific metabolic rate in crayfish would decrease under acidic conditions compared to neutral conditions, and our hypothesis was supported by the collected data. There is a visible decrease of oxygen concentration in both the control group and experimental group over time, and the average specific metabolic rate shows a decrease in the metabolic rate of the crayfish from neutral conditions to acidic conditions [t-value: 3.732465, df: 2, p-value: 0.064874]. The p-value of the average specific metabolic rates is 0.064874, which is not technically significant, but shows that there’s only a 6.49% chance that our results were due to chance.
+However, the results of the experiment done by Ellis and Morris found that oxygen consumption decreased by 79% in acid water after 21 days compared with the control group, and that the challenging acidic environment depressed the major aerobic and anaerobic metabolic pathways in the crayfish and probably reduced the growth and fecundity in the crayfish, but decidedly did not increase energy expenditure to maintain homeostasis [Ellis: 1994]. Based on these results, which are in agreement with our experiment, acidic conditions can decrease the metabolic rate of freshwater crayfish and thus further supports our original hypothesis and results of this experiment. 
+One factor to take into consideration is that the Ellis and Morris experiment used a sample size of 460 crayfish, and our experiment only used three. This difference in sample size could have caused the difference in p-value and if we ran the experiment again with a larger sample size, it could improve the statistical significance of our data.
+	Biologically, we expected that the acidic conditions of the water to decrease the metabolic processes because extracellular acidosis affects oxygen transport in respiratory proteins, such as hemoglobin and hemocyanin, and respiratory efficiency due to the reduced oxygen affinity of these proteins at lower pH. Animals that actively regulate internal pH will have a greater metabolic demand to meet the high energetic cost of pumping ions across membranes, but the decreased affinity of the respiratory proteins will make it more difficult for the organism to meet that metabolic demand due to the reduction in overall aerobic respiration [Ocean Acidification: 2010]
+In a further study, it would be interesting to run an experiment on the effects of acidity on calcifying organisms such as oysters, crabs, and reef-building corals, because they may also be affected by changing levels of acidity in oceans in more recent years.
+
+
+Literature Cited:
+1.	Ellis BA. and Morris S.1994. Effects of extreme pH on the physiology of the Australian ‘Yabby’ Cherax Destructor: acute and chronic changes in haemolymph oxygen levels, oxygen consumption and metabolite levels. The Journal of Experimental Biology. 198: 409-418.
+2.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated May 1, 2017), pp. 15–16.
+3.	2010. Effects of Ocean Acidification on the Physiology of Marine Organisms. In: National Research Council. Ocean Acidification: A National Strategy to Meet the Challenges of a Changing Ocean. Washington, DC: The National Academies Press. pp 46, 51.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=O2+concentration+over+time.PNG&Size=116886&Type=image%2Fpng&F=F_0BeM4bdkeyZVV65
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=average+metabolic+rate.PNG&Size=74681&Type=image%2Fpng&F=F_b7KLbw1gg9AoWXj
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average concentration of oxygen in water under neutral conditions (6.2 pH) and under acidic conditions (3.1) over the span of 20 minutes and measured periodically at 5-minute intervals. Error bars account for standard deviation from the mean (mean = x) [neutral at 0 min: x=8.46 ± 1.93; neutral at 5 min: x=8.28 ± 2.23; neutral at 10 min: 8.07 ± 2.23; neutral at 15 min:  x= 7.77 ± 1.56; neutral at 20 min: x=7.69 ± 1.45; acidic at 0 min:  8.76 ± 1.03; acidic at 5 min: 8.69 ± 1.04; acidic at 10 min: x=8.65 ± 1.05; acidic at 15 min: x= 8.60 ± 1.15; acidic at 20 min: x= 8.53 ± 1.42]
+
+Figure 2. Average specific metabolic rate under neutral conditions (6.2 pH) and acidic conditions (3.1 pH). Error bars display standard deviation from the mean (mean = x)[neutral: x=0.0010 ± 0.0011, acidic: x=0.00026 ±0.00034]. [t-value: 3.73, df: 2, p-value: 0.065].
+
+*************************************************************************

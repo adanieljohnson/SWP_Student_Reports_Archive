@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 15:09:18
+Author of this lab report is: Std_Rpb7ufFu
+ID: R_26gN3jhAkrASXER
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The Effects of Tubocurarine on Stimulus of the Gastrocnemius Muscle of a Frog
+
+Abstract:
+Tubocurarine is a neuromuscular blocker that inhibits the action of acetylcholine. Our hypothesis is that if we inhibit acetylcholine using tubocurarine solution in the synaptic cleft, we will see a decrease in muscle contraction.
+
+Introduction:
+This experiment will demonstrate the effects of inhibiting acetylcholine in the synaptic cleft on muscle contraction using the gastrocnemius muscle of a frog leg. The neuromuscular system consists of thousands of myofibers that are banded together to form functional groups [Johnson: 2018]. These muscles are stimulated by nerves in excitation-contraction coupling. These contractions are observed by using a forced transducer & myogram to see the effects on an entire muscle. Myograms are used to record different stages of a muscle twitch. Note that the chemical environment around the muscle can affect its properties. In the somatic neuromuscular system, nerve pulses can cause the release of acetylcholine (ACH). ACH binds with receptors on the muscle fiber membrane and elicits a depolarization by causing sodium/calcium ions to enter through associated channels generating an action potential [Kuo: 2015]. That action potentials will stimulate the release of Ca2+ from the sarcoplasmic reticulum. The release of Ca2+ activates the contractile mechanism of the muscle fibers. To inhibit this process, tubocurarine was used as an ACH inhibitor. Tubocurarine is a neuromuscular blocker that inhibiting the action of acetylcholine and blocking the neural transmission without depolarizing the postsynaptic membrane [PubChem: 2005]. Tubocurarine blocks the receptors and keeps them from functioning properly. Tubocurarine has very similar effects to Acetylcholinesterase, another acetylcholine inhibitor. Our hypothesis is that if we inhibit acetylcholine in the synaptic cleft we will see a decrease in muscle contraction.
+
+Materials and Methods:
+Select and obtain 3 frogs legs and place them on a clean dissecting pan. Then with a pair of forceps or your hands (wearing gloves), gently remove the skin of the frog leg. Once the skin is removed, gently separate the inner thigh muscles and locate the sciatic nerve and free it from its connective tissue. Then locate gastrocnemius muscle which will be where the prongs are inserted. Make sure to isolate the muscle by suspending it with string above the dissecting pan Once you have located the muscle, gently insert the two-prong probe, which is connected to the force transducer, into the muscle. But sure to keep the exposed tissue moist with frog Ringer's solution. Now set the stimulus parameters to pulse amplitude 0.75V, number of pulse to 1, frequency to 50Hz, and pulse width 5 ms. Now apply the stimulus to the muscle to obtain a control amplitude. Test each frog leg once to obtain three control amplitudes. Allow muscle to rest in-between each stimulus to prevent fatigue. After recording the control amplitudes, inject the muscle with 0.1 mL of tubocurarine. Then repeat the process with the same stimulus and record the results. After obtaining the data, then run a one-tailed paired t-test to determine how the control amplitudes compared to the experimental. 
+
+Results:
+The amplitude of the control frog legs remained fairly high except for the 3rd leg which was had a lower amplitude (0.342 V) as compared to the 1st leg (0.818 V). The experimental frog legs had smaller amplitudes with the 3rd legs again being lower than the first two. The standard deviation for the amplitude of the control frog legs was 0.26 and the standard deviation for the amplitude of the experimental frog legs was 0.13. The mean amplitude of the experimental group was significantly smaller than the mean amplitude of the control group (t-stat = 2.56, df = 4, P = 0.032) When observing the muscle stimulus, the control group appeared to have a larger contraction. By the end of the experiment, each frog leg remained intact and showed no signs of fatigue. The observed contractions of the experimental frog legs were much smaller than the control legs. Overall, the control and experimental frog legs had different amplitudes. 
+
+Discussion:
+Our hypothesis was supported in that the tubocurarine solution caused the experimental legs to have a decreased amplitude compared to the control. We observed a significant difference at the 0.032 level, which suggested that the tubocurarine solution did affect the ability for muscles to contract. It is known that acetylcholinesterase an inhibitor of the neurotransmitter acetylcholine [Čolović: 2013] which is the neurotransmitter of focus in this experiment. Since acetylcholinesterase was not available to us, we were given a substitute of tubocurarine. It is supported in past experiments that acetylcholinesterase and tubocurarine have very similar effects in the inhibition of acetylcholine [Blaschko: 1949] This supports our hypothesis because based on the results of past experiments tubocurarine should inhibit the acetylcholine in muscle contraction which would decrease the amplitude recorded. When looking at our results in Figure 1 it can be interpreted that the experimental group showed a decrease in their amplitude when stimulated at the same parameters of the control group. This shows that inhibiting acetylcholine will affect an organisms ability to contract its muscles, ultimately relaxing the muscles. With this knowledge, one could come to the conclusion that tubocurarine could possibility used as a muscle relaxant. Upon further research, Tubocurarine is used in some form of anesthesia to relax the muscles of the patient [Gray: 1947]. This not only supports our hypothesis that tubocurarine does decrease muscle contraction, but it also presents a practical use of tubocurarine in the world. Understanding tubocurarine and its effects on muscle contraction could further our understanding of muscle mechanisms and present practical uses in our scientific community today. 
+
+Literature Cited:
+1.	"Tubocurarine." National Center for Biotechnology Information. PubChem Compound Database, U.S. National Library of Medicine, 24 June 2005, pubchem.ncbi.nlm.nih.gov/compound/6000.
+2.	Kuo, Ivana Y., and Barbara E. Ehrlich. "Signaling in Muscle Contraction." Cold Spring Harbor Perspectives in Biology, Cold Spring Harbor Laboratory Press, Feb. 2015, www.ncbi.nlm.nih.gov/pmc/articles/PMC4315934/.
+3.	Čolović, Mirjana B, et al. "Acetylcholinesterase Inhibitors: Pharmacology and Toxicology." Current Neuropharmacology, Bentham Science Publishers, May 2013, www.ncbi.nlm.nih.gov/pmc/articles/PMC3648782/.
+4.	Blaschko, H., et al. "Tubocurarine Antagonism And Inhibition Of Cholinesterases." British Journal of Pharmacology and Chemotherapy, vol. 4, no. 1, 1949, pp. 29-32., doi:10.1111/j.1476-5381.1949.tb00512.x.
+5.	Gray, T. Cecil. "The Use of D-Tubocurarine Chloride in Anæsthesia." Annals of the Royal College of Surgeons of England, U.S. National Library of Medicine, Oct. 1947, www.ncbi.nlm.nih.gov/pmc/articles/PMC1940167/?page=1.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-30+at+3.07.15+PM.png&Size=45623&Type=image%2Fpng&F=F_2CHUff8MOHn2fkY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Firgure 1. Effect of Tubocurarine on Frog Legs. Normal frog legs (blue bars) received no treatment. Experimental frog legs (orange bars) received an injection of .1 mL of Tubocurarine. Each leg was tested twice, once as control and once with tubocurarine injection. *************************************************************************
+
+
+

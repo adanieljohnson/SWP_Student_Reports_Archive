@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-10-29 23:42:01
+Author of this lab report is: Std_NcdcJbY9
+ID: R_1jCk0Jz53C849Kr
+Course number: BIO103L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The Effect of Aquatic Temperature on the Agonistic Behavior of Siamese Fighting Fish  (Betta splendens) 
+
+Abstract:
+	Siamese fighting fish (Betta splendens) are a species of fish renowned for their aggressive behavior and accompanying vibrant color scheme.  The purpose of this experiment was to determine whether there was a significant correlation between environmental temperature and displayed agonistic behavior in domesticated Siamese fighting fish (Betta splendens).  Since wild Siamese fighting fish are typically found in waters with temperatures between 24-30 °C, it was hypothesized that as the aquatic temperature increased the total sum of average agonistic behaviors would also increase.  The hypothesis was tested by placing one fish with another in a tank of about 19 °C, and comparing the resulting total aggressive behaviors to that of two fish placed at 21°C.  Using a two-sample t-test (⍺=0.05), it was found that the difference in aggression between the two groups was insignificant.  However, there are both biological bases and other studies that support the original hypothesis.  Since the tested temperatures were lower than the average environmental temperature for wild fish, and the range of tested temperatures was limited, this study should be repeated with a wider temperature range to include higher temperatures, and should have more than 2 different temperatures tested.  
+
+Introduction:
+The Siamese fighting fish (B. splendens) is a species of fish originating from Thailand [Harliloglu: 2008] and can be commonly found in the wild in freshwater ponds in Asia [Sturgeon: 2001].  They are a tropical species that live in a temperature range of 24-30 °C [Luna: 1988].  
+The species is renowned for its high level of aggressive behavior paired with vibrant color changes in the wild fish.  The aggressive behaviors fall into two movement categories: broadside (side towards opponent) and facing (face towards opponent).  Common broadside movements in order of increasing aggression consist of pelvic fin flickering, tail beating and tail flashing, while common facing movements in order of increasing aggression consists of erecting pectoral fins, spreading gill covers, and a protrusion of the operculum known as the red mane [Johnson: 2019]. 
+Overtime, both the competitive nature of the fish and its vibrant color scheme (which only appeared in wild fish when they exhibited agonistic behavior) have intrigued numerous aquarium holders, scientists and gamblers [Harliloglu: 2008].  As a result, they have been artificially selected in domesticated fish sold world-wide [Sturgeon: 2001].  The purpose of this experiment is to determine whether aquatic temperature affects total observed agonistic behavior in domesticated Siamese fighting fish.  Since the water in its wild habitat consists of a high temperature range of 24-30 °C, and since Siamese fighting fish are naturally aggressive, it is hypothesized that as the aquatic temperature increases the total agonistic behavior displayed will also increase.
+
+
+Materials and Methods:
+The materials used during this experiment were as follows: a glass tank with three separate sections, opaque and transparent partitions, room temperature water (19°C), a heating pad (21°C), a timer and three individual fish.  One fish was placed in the room temperature tank, in a section next to another betta fish.  The sections at this point were divided with an opaque and a glass partition.  Then, the opaque partition was lifted for three minutes, and the resulting intraspecific behavior was observed and recorded for the chosen fish.  Four trials were taken of this process, with three minutes of rest with the opaque partition in separating the sections between each trial.  This same process was then repeated with the tank on the heating pad between one of the prior fish and a new fish.  The measurements for this group were recorded for a different fish than the other group.  The frequency of the different species typical agonistic behaviors, listed above, were recorded for both groups, and the total sum agonistic behaviors were found for each.  A two-sample t-test (α=0.05) was used to determine whether the difference between each group was significant.  
+
+
+Results:
+It was determined that the total sum of the agonistic behaviors was larger for the treatment group with the higher temperature (the experimental group) than the treatment group with the lower temperature (the control group).  The total sum of agonistic behaviors for the control group was 17.5 ± 1.50 behaviors, while the total sum of agonistic behaviors was 18.5 ± 4.20 behaviors for the experimental group (Figure 1).  Using a two-sample t-test (⍺=0.05) it was determined that the difference between these two groups was not significant (t-stat=0.3361, df=6, P=0.3741). 
+
+Discussion:
+Although the total sum of aggressive behaviors increased as the temperature increased,  this difference was deemed insignificant.  Therefore, the hypothesis that aggressive behavior would increase with temperature change was rejected.  However, in another study, it was found that overall activity level and “boldness” did significantly increase as the environmental temperature increased [Forsatker: 2016].  This conclusion has biological support since temperature directly impacts metabolic rate and physiological processes that cause agonistic behavior [Forsatker: 2016].  Also, a significant correlation between an increased environmental temperature and increased agonistic behavior has been seen in other similar fish species such as damselfish (P. moluccensis) and the Amazonian cichlid (A. agassizii) [Forsatker: 2016]. 
+The Forsatker study was conducted at a temperature of 26°C for one group and 30°C
+for another group.  The temperature differences in their study both had a greater difference in temperature between them, with a 4°C difference as opposed to a 2°C difference.  The temperatures used in their study were also significantly greater than the temperatures in this study, with a 7°C difference between the lower temperature and a 9°C between the higher temperature.  Likewise, Siamese fighting fish in the wild generally live in warmer temperatures of 24-30°C [Luna: 1988].  Therefore, the insignificant difference found in this study may have occurred since the temperature difference between the two treatment groups may have been too minimal to see a significant difference in behavior, and the temperatures themselves may have been too low to see aggressive behavior.  This study should be repeated with more treatments groups, a wider range of temperatures and higher temperatures overall in order to better test the original hypothesis.  These procedural changes would include temperatures that would be more indicative of wild temperatures, and would allow for more potential changes to be observed among more treatment groups in order to more accurately identify if there is a significant change in behavior between certain treatment groups.  Also, it would call for a more powerful statistical test (ANOVA) to be used for stronger results.  If a significant behavioral difference could be identified with a specific temperature change, it could help to better select for agonistic characteristics, benefitting the multiple industries that rely on the vibrant aesthetic and high aggression level of the fish.  
+
+
+Literature Cited:
+1) Sturgeon, D. 2001. Betta splendens: Siamese Fighting Fish, Animal Diversity Web.  University of Michigan Museum of Zoology.  Accessed October 28, 2019.   https://animaldiversity.org/accounts/Betta_splendens/
+
+2) Luna, M. Betta splenden Regan 1910, Siamese Fighting Fish.  The SPECIES table, Fish Base.  Accessed October 28, 2019. https://www.fishbase.se/summary/Betta-splendens.html
+
+3) Hariloglu, MM, Yonar, SM, 2008.  The Importance of Temperature, Individual Size and Habitat Arrangement on the Bubble Nest Construction of Siamese Fighting Fish (Betta splendens Regan, 1910).  International Journal of Science & Technology.  3, 1.  53-58. http://web.firat.edu.tr/iJST/3-1/8_harlioglu-s.%C3%BC..pdf
+
+4) Forsatker, MN, Nematollhi, MA, Biro, PA, Beckman, C, 2016.  Individual boldness traits influenced by temperature in male Siamese fighting fish.  Physiology & Behavior.  165.  267-272.  https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S003193841630628X 
+
+5) Johnson AD, Mallison S. 2019.  Intra- And Interspecific Agonistic Behaviors. Ecology & Evolution BIO 113 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers 19.1 (updated July 8, 2019). pp 49.  
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+5.14.59+PM.png&Size=39562&Type=image%2Fpng&F=F_ZJEnT2VCTEECdBD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure I. The effect of environmental temperature on the total average agonistic behavior for one specific Betta Splendens fish.  The control group (blue) was treated with water at 19°C while the experimental group (orange) was treated with water at 21°C.  The total sum of average agonistic behaviors was determined for each group by taking the average number of occurrences of specific agonistic behaviors and summing them.  The measurements control group and the experimental group consisted were made for two different fish.  Each bar represents 5 total agonistic behaviors.  The error bars are ± 1 s.d. *************************************************************************
+
+
+

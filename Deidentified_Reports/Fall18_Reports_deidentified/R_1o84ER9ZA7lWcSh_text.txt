@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 18:17:27
+Author of this lab report is: Std_duw0YjCA
+ID: R_1o84ER9ZA7lWcSh
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Caffeine Causes Increased Amplitude of Muscle Contraction
+
+Abstract:
+The effect of caffeine on the body as a stimulant is well known. Not so well known are the specific mechanisms by which it influences neuromuscular activity. We predicted that caffeine injection into the gastrocnemius muscle of Rana pipiens would cause a sustained contraction at a greater amplitude than the same muscle stimulated in the absence of caffeine. Our data showed a significant difference before and after the injection of caffeine and thus our hypothesis was supported (P = P = 1.04E-9, P = P = 1.25E-10, P = P = 6.33E-7).
+
+Introduction:
+Neuromuscular activity occurs through the conduction of an action potential's electrical signal over a muscle fiber's membrane as a result of signaling by a neurotransmitter. The action potential initiates a cascade of intracellular events that result in the interaction of actin and myosin within a muscle fiber, producing a contraction. The presence of calcium in a muscle fiber's sarcoplasm directly facilitates the mechanism by which contraction occurs, and, therefore, is essential for the normal functioning of muscular contraction. Caffeine has been shown to directly potentiate the power output of skeletal muscle at certain concentrations below the physiological maximum [Tallis: 2011]. Aware that caffeine acts as a stimulant, we predicted that the introduction of caffeine into the gastrocnemius of Rana pipiens would cause a sustained contraction of increased amplitude as opposed to stimulation in the absence of caffeine.
+
+Materials and Methods:
+Three frog leg specimens of the species Rana pipiens were prepared according to video instructions provided by the Biology Department. The legs were degloved and periodically moistened with frog Ringer's solution. A threshold stimulus amplitude for contraction of the gastrocnemius muscle was established for the first leg. Stimulus was applied using the probes of an iWorks TA data acquisition device, beginning with the number of pulses = 1, frequency = 1, and pulse width = 5 msec. Then, number of pulses was changed to 5 and stimulus voltage was changed to 0.5 V more than the determined threshold amplitude. The stimulus of the frog leg at this new amplitude and pulse number was recorded without caffeine first. Then, recording continued as 0.1mL (200 mMol) of caffeine was injected at various points in the gastrocnemius muscle. When the muscle contraction plateaued a maximum amplitude, the leg was once again stimulated with 5 pulses at the same voltage. The specific amplitude (V) of muscle contraction were recorded for each of the 5 pulses applied pre- and post-caffeine injection. The same process was repeated for the following two legs. The data was run through three paired t-tests, one for each of the individual legs.
+
+Results:
+Stimulation of the pre-caffeine injection gastrocnemius showed five separate muscular contractions which corresponded to the five separate pulses applied by the iWorks TA device. Upon the injection of caffeine, muscular contraction occurred without any outside stimulus. The Rana pipiens gastrocnemius became rapidly maximally contracted; the five pulses of stimulation applied after the caffeine injection caused no further visible contraction of the muscle. In all three legs, our data displayed a significantly higher amplitude of contraction after the injection of caffeine (leg 1: t-stat = 275.69, df = 4, P = 1.04E-9; leg 2: t-stat = 467.92, df = 4, P = 1.25E-10; leg 3: t-stat = 55.45, df = 4, P = 6.33E-7). Leg 1 and 2 displayed similar pre- and post- caffeine contraction amplitudes. The mean amplitude of leg 1 (pre-caffeine) was 0.454V ± 0.005 and (post-caffeine) 0.756V ± 0.003, while leg 2 (pre-caffeine) was 0.047V ± 0.005 and (post-caffeine) was 1.022V ± 0 (Figure 1). Leg 3, on the other hand, experienced a pre-caffeine amplitude of 1.341V ± 0.021 and post-caffeine of 1.990V ± 0.031 (Figure 1).
+
+Discussion:
+Based on the significance of this data, we can reject the null and accept our alternative hypothesis. Caffeine effected an increase in contraction amplitude of the Rana pipiens gastrocnemius muscle. Similarly, a systematic review of the literature on the role of caffeine in muscle contraction concluded that the ingestion of caffeine does indeed have a egrogenic effect, causing improved muscular voluntary contraction (MVC) and muscular endurance [Warren: 2010]. Our results are likely due to an influence of caffeine on the ability of calcium to control the interaction of actin and myosin filaments, which regulate gastrocnemius contraction at the level of individual sarcomeres. Other studies suggest that Ca2+ release into the sarcoplasm is caused by caffeine's interaction with the ryanodine receptor [Tarnopolsky: 2008]. These findings provide an interesting basis for further questioning. The role of caffeine in enhancing muscular performance, especially with regards to endurance or regular caffeine consumption, is something of particular relevance to humans. One study, for example, has already concluded submaximal muscle stimulation in combination with caffeine potentiates the same force regardless of whether the subject was a habitual or nonhabitual caffeine consumer [Tarnopolsky: 2000].
+	Additionally, error that occurred during the duration of our experiment should be noted. In carrying out the trial with our second Rana pipiens leg, the transducer was set to apply stimulus at 0.28 instead of 0.78—the threshold value, rather than 0.5 above it. During the same trial, the electrodes fell out mid-recording and were quickly reinserted. This, however, did not affect the recording of pre- or post-caffeine contraction amplitude values. 
+
+
+Literature Cited:
+1. Tallis J, James RS, Cox VM, Duncan MJ. 2011. The effect of physiological concentrations of caffeine on the power output of maximally and submaximally stimulated mouse EDL (fast) and soleus (slow) muscle. Journal of Applied Physiology. 112: 64-71.
+
+2. Warren GL, Park ND, Maresca RD, Mckibans KI, Millard-Stafford ML. 2010. Effect of caffeine ingestion on muscular strength and endurance: a meta-analysis. Medicine & Science in Sports & Exercise. 42: 1375-1387.
+
+3. Tarnopolsky MA. 2008. Effect of caffeine on the neuromuscular system — potential as an ergogenic aid. Applied Physiology, Nutrition, and Metabolism. 33: 1284-1289.
+
+4. Tarnopolsky MA, Cupido C. 2000. Caffeine potentiates low frequency skeletal muscle force in habitual and nonhabitual caffeine consumers. Journal of Applied Physiology. 89: 1719-1724.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-29+at+8.38.28+PM.png&Size=43916&Type=image%2Fpng&F=F_29gg7AedQm4qw5r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mean amplitude of contraction of three Rana pipiens gastrocnemius specimens before and after caffeine injection. A significant difference was shown between pre- and post- amplitude values of each leg. Leg 1: (t-stat = 275.69, df = 4, P = 1.04E-9). Leg 2: (t-stat = 467.92, df = 4, P = 1.25E-10). Leg 3: (t-stat = 55.45, df = 4, P = 6.33E-7). Error bars show ±1 s.d.*************************************************************************
+
+
+

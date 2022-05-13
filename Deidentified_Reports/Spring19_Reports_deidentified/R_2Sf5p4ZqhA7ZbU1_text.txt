@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-27 17:56:09
+Author of this lab report is: Std_mdKMdHMX
+ID: R_2Sf5p4ZqhA7ZbU1
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Effects of an Insect Growth Regulator (IGR) on Manduca sexta growth and development
+
+Abstract:
+Hormone signaling is a very important function in most living organisms. Understanding how certain hormones affect insect growth and development can lead to better understanding the roles and functions of hormones in human beings and beyond. Here we explore the effect of an Insect Growth Regulator (IGR), in this experiment Precor, on the growth and development of Manduca sexta caterpillars. Our expectation was that the weight and length of the caterpillars exposed to the IGR would be greater than those not exposed to the IGR. To test our hypothesis, we measured the length and weight of 8 caterpillars over a 14-day period, where the four caterpillars in the control group were fed caterpillar food with five drops of water, and the four caterpillars in the treatment group were fed caterpillar food with five drops of Precor. Our quantitative data showed no significant difference in the weight or length of the caterpillars exposed to the IGR, though the majority of the control group caterpillars pupated while none of the treatment group caterpillars pupated. The lack of significance suggests that the IGR did not have any effect on the growth of Manduca sexta, though the qualitative evidence suggests that it did have an effect on development. 
+
+Introduction:
+This experiment assesses the effect of hormones on insect development. Hormones play a vital role in development and many other functions in the body of insects and other organism. With a greater understanding of growth and development hormones in insects, scientists have learned to manipulate the growth and development of certain pests in order to prevent them from attaining their pest form through the use of Insect Growth Regulators (IGRs), which are also classified as “insect hormone mimics.” They are titled as such due to the effects they have on essential regulatory processes in the development of insects [Tunaz: 2004]. Manduca sexta caterpillar development is mainly controlled by two hormones: juvenile hormone (JH) and ecdysterone (20E). The ratio between JH and 20E determines different stages of their life cycles, which are comprised of the egg/embryo stage, the larva stage, the pupa stage, and the adult stage. For example, directly before pupal eclosion and pupation, there is something called the commitment pulse, in which 20E levels rise a little and JH levels remain very low. This pulse signals the caterpillar that it is large enough and has enough nutrients to pupate into a moth [Johnson:2018]. Affecting either JH or 20E levels could prevent this from occurring and therefore affect the development of Manduca sexta. This experiment treats the caterpillars with an addition of Precor, an IGR that resembles JH, and evaluates their weight and length as a reflection of their development. If there are differences in their hormone levels, this should affect their normal development. It is hypothesized that if Manduca sexta caterpillars are exposed to 5 drops of Precor, then their weight and length will increase.  
+
+Materials and Methods:
+We labeled each cell #1-8 on two four-cell containers, then we assigned eight Manduca sexta caterpillars #1-8. Using a gram scale and ruler, we recorded the weight (g) and length (cm) of each caterpillar. We repeated these measurements daily for 14 days. We measured out 10g of caterpillar food for each of the eight cells. For cells #1-4, the control, we wet the food with 5 drops of distilled water and placed in cells. For cells #5-8, the treatment, we added 5 drops of Precor using a disposable pipet to each 10g of food and placed in cells. We placed each caterpillar in the cell corresponding to its assigned number. We removed feces daily and refilled food as needed. When refilling the food, we removed remaining food from the cell and repeated the steps regarding food from above, paying special attention to whether the cell received food with 5 drops of distilled water or food with 5 drops of Precor. When the caterpillars were not being measured, they were placed in an incubator at 25C. We ran a one-tailed two-sample t-test to determine differences between the mean weights and lengths of the control group caterpillars fed with caterpillar food wet with water compared to the treatment group caterpillars fed with caterpillar food with 5 drops of Precor.
+
+Results:
+The mean weight of the control group was 6.59g, and the standard deviation was 3.56g. The mean weight of the treatment group was 6.63g, and the standard deviation was 4.21g. The mean weights and standard deviations of the control and treatment groups can be seen in Figure 1. The mean length of the control group was 6.69cm, and the standard deviation was 1.59cm. The mean length of the treatment group was 6.67cm, and the standard deviation was 1.77cm. The mean weights and standard deviations of the control and treatment groups can be seen in Figure 2. We used a one-tailed two-sample t-test to analyze our results. The mean length of the control group was not significantly different than the mean length of the treatment group (t-stat = 0.0381, df = 26, p-value = 0.48). The mean weight of the control group was not significantly different than the mean weight of the treatment group (t-stat = 0.02695, df = 26, p-value=0.49). When observing the caterpillars on the final day, three of the four caterpillars in the control group were brown and had pupated while the other was a darker color of larva nearing the pupa stage. The remaining living caterpillars of the treatment group (Caterpillar #7 died on Day 9) appeared swollen and bluer than the green shade they and the control group were on Day 1. 
+
+Discussion:
+Our hypothesis, that the weight and length of Manduca sexta caterpillars exposed to 5 drops of Precor in their food would increase, was not supported. We observed no significant difference at the 0.05 level, leading to the apparent conclusion that addition of an IGR does not affect growth in Manduca sexta. Figure 2 shoes a positive trend in length for the treatment group, while the control group’s length increased and then decreased over the 14-day period. It is also pertinent to assess the qualitative data taken as well. Since three of the four control group caterpillars appeared to have pupated and the other appeared to be coming close to pupation, while none of the treatment group pupated, it appears that the addition of the IGR did affect the development of Manduca sexta, despite its lack of increases in weight and length. This has been expressed in many other previous experiments [Tunaz: 2004]. Understanding the role and effect of IGRs on the development of insects could further our comprehension of the regulatory growth and development processes controlled by hormones in insects and even other organisms. A possible source of error could be the different ages of the caterpillars at the beginning of the experiment; while they seemed to be similar in age as their weights and lengths were relatively similar, it was unknown to us their precise ages in days. This could lead to some potentially pupating earlier than others. To improve our experiment, we would try to start with 8 caterpillars that were closer in age and much more similar in weight and length, as this may more accurately show changes in these measurements when comparing the treatment and control groups.
+
+Literature Cited:
+1. Johnson AD. Comparative Physiology. BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 11–12.
+2. Tunaz H, Uygun N. 2004. Insect growth regulators for insect pest control. Turkish Journal of Agriculture and Forestry. 28: 377-387.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO114L.Cat.Length.png&Size=35252&Type=image%2Fpng&F=F_2Xas0fpotOin80a
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO114L.CatWeight.png&Size=36082&Type=image%2Fpng&F=F_2sRxUhD7mOeqQjK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1: The mean weights of the caterpillars are being compared below with error bars. Figure 2: The mean lengths of the caterpillars are being compared below with error bars.*************************************************************************
+
+
+

@@ -1,0 +1,82 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-25 11:59:36
+Author of this lab report is: Std_xQdPDH9A
+ID: R_3qVv2zW4Op1H5TA
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The Effect of Azadachrine on the Growth in Length of Manduca sexta Caterpillars
+
+Abstract:
+Caterpillars of Manduca sexta are key examples of insects with a holometabolous life cycle in which there are four distinct developmental stages. Their molting cycle, which dictates their transition from one stage to the next, is regulated by two primary hormones: juvenile hormone and ecdysterone. In this experiment, we administered azadachtrin, which serves as an ecdysterone blocker, to the diet of our treatment group. Through this azadachtrine addition into the food source of our treatment group, we sought to determine if blocking ecdysterone would affect the growth in length of the caterpillars. During the 13 day period of this experiment, we noticed that the treatment group experienced decreased growth and diminished health as compared to the control group, but our results did not prove to be statistically significant (t-stat=0.6514, df=6, p-value=0.2695). Although the caterpillars who were fed azadirachtin grew less on average than the caterpillars who received distilled water, we cannot conclude that this difference in growth was not a result of random chance. 
+
+
+Introduction:
+    Pest control proves itself an enduring issue in the world of agriculture and successful farming. Caterpillars of Manduca sexta, colloquially known as tobacco hornworms, fall under the pest category in their larvae form, feeding on the upper leaves of tobacco plants [“Hawk moth”: 2019]. Characterized by a holometabolous life cycle, these caterpillars go through four distinct stages: egg, larvae, pupa, and adult. In this experiment, we focused on the larvae stage of caterpillars of Manduca sexta. The larvae stage can be broken down into 5 different “instar” phases. Each phase represents a new developmental stage for the larvae. By the fifth instar, the larvae transitions to the pupal phase and undergoes major metamorphosis to transition to the adult stage [Nijhout: 1975]. This molt to the pupal stage, however, is regulated by the production and release of two hormones: juvenile hormone (also referred to as JH) and ecdysterone (also known as 20E) from the prothoracic gland [Rewitz: 2006] . Both of these hormones play key parts in the caterpillars’ development. Juvenile hormone regulates the type of molt during development, whereas ecdysterone controls the timing of molting during insect development. Working opposite one another, once ecdysterone production begins, juvenile hormone production decreases. Further research shows that when there are low levels of juvenile hormone and high levels of ecdysterone, the insect is able to molt from a larvae to a pupae [Johnson: 2018]. Thus, the molt from larvae to pupa is dependent on low levels of juvenile hormone and high levels of ecdysterone for caterpillars of Manduca sexta. 
+In our experiment specifically, we sought to determine whether blocking ecdysterone would affect the caterpillars of Manduca sexta in their average growth in length. We focused on the ecdysterone hormone because ecdysterone is responsible for controlling the timing of molting for caterpillars of Manduca sexta. Thus, by using azadachtrine, an ecdysterone blocker, we sought to determine whether the caterpillars would even be able to reach the pupae stage. The azadachtrine sample came from the insecticide Azaguard, which is characterized as a “3% Azadirachtin formulated Insect Growth Regulator” and prevents molting between larval and pupal stages. [AZAGUARD: 2017]. Because we were only altering ecdysterone levels with azadachtrine, we hypothesized that the treatment group caterpillars would still experience instar progression due to the unmanipulated presence of juvenile hormone, but never show a commitment pulse or reach the pupation stage due to the blockage of ecdysterone. If this held true,  we predicted that the experimental group would instead continue cycling through instar phases, never reaching full pupae stage and thus not experiencing as much total growth as that of the control group. Thus, we hypothesized that the addition of azadirachtin to the diet of the treatment group would result in stunted growth overall. 
+
+
+
+Materials and Methods:
+For this experiment, we obtained eight total caterpillars of Manduca sexta. Because we wanted to specifically test the effect of blocking ecdysterone on pupation,  we did not select caterpillars who were inevitably about to pupate (showing a commitment pulse). Four of our caterpillars were put into a control group, while the remaining four caterpillars were placed into our treatment group. Each group received 10 grams of protocol food (obtained from a company called Great Lakes Manduca). The control group’s food had exactly 6 mL of diluted water added to it by a clean pipet, whereas the treatment group’s food had 6 mL of of azadirachtin (3% concentration) added to it with a different pipet. Following food preparation on day one, we measured the length of each caterpillar in centimeters. This same procedure was repeated each day: the food was refilled and restored (if necessary) and the caterpillars were measured. We carried this procedure out for a 13 day period, in which a group member would come in during the afternoon, take out any stale food or waste, and observe and measure each caterpillar. The caterpillars were stored in a refrigerator at 27 degrees Celsius, and only removed from this environment when measured (which usually lasted around 10 minutes). In order to determine whether our results were significant, we used a two-sample one-tailed t-test.
+
+
+
+Results:
+One of the general trends we saw across both groups is that the caterpillars progressively became more brown in the 13-day window. We also noticed that generally (with one exception in the treatment group), all the caterpillars did experience growth in terms of length, with the control group experiencing a higher average growth than the treatment group. On a similar wavelength, all of the caterpillars in our control group had pupated by day 11, whereas only half of our experimental caterpillars had pupated by day 13.  Lastly, we observed that less food was consumed each day by the treatment group, leading to more food being left behind each day in the cells of the treatment group.
+The mean difference in length in centimeters for the control group caterpillars of the Manduca sexta was 1.1 +/ 0.4830 (figure 1). The mean difference in length in centimeters for the treatment group caterpillars of the Manduca sexta was 0.775 +/- 0.8732 (figure 1). The mean difference in length was not statistically significant  (t-stat=0.6514, df=6, p-value=0.2695) because our p-value was greater than 0.05.
+
+
+Discussion:
+Our hypothesis was not supported based on the results of our experiment. Due to the inconsistencies in average growth among the group of caterpillars as a whole, we assumed that our results would not yield significant results. Despite our results not being statistically significant, in comparison to our control group, our treatment growth did experience less growth in terms of length, as predicted by our hypothesis. Our treatment group caterpillars also proved to be more sluggish and sickly in comparison to our control group caterpillars; in fact, one of the treatment group caterpillars that pupated had essentially exploded by day 13, leaking black residue all over its cell. This led us to believe that addition of azadachtrine into the diets of the caterpillars of Manduca sexta detrimentally affected their growth and livelihood. Thus, a possible consideration for farmers is to incorporate azadachtrine into their forms of pest control because it could potentially slow or decline the growth of pupation and/or possibly kill the larvae off. To add to this, research supports that adding azadachtrine into the diets of insects (in this particular case, seed kernels) does not kill off the insects immediately, but rather substantially decreases their diets so they stop eating [Morgan: 2009]. Over time, this can potentially result in reduced feeding overall, delays in development of larvae, malformed pupae and adults, and incomplete ecdysis. This research confirms that azadachtrine is a prime candidate for an insect growth regulator [Tunaz: 2004] because it serves as an insecticide as well as an appetite suppressant, delaying development and/or causing death to the larvae pests. Because azadirachtin serves as an appetite suppressant, its effects may have been more noticeable if we measured average weight gain rather than average length in the caterpillars. If we had taken note of weight gain, we would have been able to determine whether there was a large difference in average weights between the control and treatment group, and subsequently verify if azadachtrine was serving as an effective appetite suppressant, or if it did not cause a substantial difference in weights between the two groups/total insect development.
+Conversely, however, because azadirachtin serves as an appetite suppressant, the treatment group caterpillars may have just stopped eating entirely. If they stopped or significantly reduced eating, the treatment group would inevitably have worse overall health and less average growth in comparison to the normally-feeding control group caterpillars. Thus, the lack of food they were consuming may have contributed to the treatment caterpillar's decline, rather than blockage of ecdysterone in their systems. Additionally, if the treatment group caterpillars stopped eating entirely, ecdysterone would no longer be blocked by the azadachtrine, which would lead to an increase in ecdysterone. Thus, the caterpillars would have the high levels of ecdysterone and low levels of juvenile hormone (left untouched) necessary for pupation. Despite that possibility of pupation, the caterpillars would not be guaranteed success considering their weak and lethargic larvae stage. Weak pupae would result in less overall reproduction because many of them would either be too feeble to reproduce or die. Although azadachrtrine does not necessarily work to immediately kill insects off, it results in a very diminished and decrepit condition that often indicates imminent death. This further reaffirms the effectiveness of azadachtrine as a form of pest control. 
+This experiment was not error-free. Sometimes length was difficult to determine. Additionally, although we carefully selected caterpillars that were not displaying a commitment sizes, each caterpillar was a different length (with the 8 caterpillars ranging in lengths from 4.1 to 5.6 centimeters originally) and width. Because they were different sizes, some caterpillars could have been further along in the developmental process, meaning their growth was already slowing down, nearing pupation. Even though there was no noticeable commitment pulse, some of the caterpillars proved to be closer to  pupation than others, and thus experience less overall growth due to that rather than the presence or absence of azadirachtin in their diets. 
+The next logical step for this study would be to expand it. We could use the same control and original treatment groups (6 mL azadachtrine), but add two additional treatment groups that each received a higher dosage of azadachtrine (for example, treatment group two would receive 9 mL azadachtrine, treatment group three would receive 12 mL azadachtrine). Through this, we could potentially uncover the effects of ecdysterone blockage as azadachtrin concentration increased, and subsequently determine the most effective dosage at impairing insect growth and ultimately killing off these pests (or at least severely weakening them) [AZAGUARD: 2017]. In conclusion, our results were not statistically significant, yet on average, azadahctrin was shown to hinder insect growth. If we repeated this experiment again, we could potentially fix the discrepancies in data collection and caterpillar selection and obtain more statistically significant results. 
+
+
+
+
+Literature Cited:
+“AZAGUARD.” BioSafe Systems, BioSafe Systems, LLC, 16 Oct. 2017, www.biosafesystems.com/azaguard/.
+
+“Hawk Moth.” Brittanica Academic, Encyclopædia Britannica, 2019, academic.eb.com/levels/collegiate/article/hawk-moth/39605.
+
+Johnson AD. Biological Principles Laboratory Manual. Dept. Biology, Wake   Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2,2018), pp. 6-13.
+
+Morgan, E. David. “Azadirachtin, a Scientific Gold Mine.” Bioorganic & Medicinal Chemistry, vol. 17, no. 12, 2009, pp. 4096–4105., doi:10.1016/j.bmc.2008.11.081.
+
+Nijhout, H. Frederik. “A Threshold Size For Metamorphosis In The Tobacco Hornworm, Manduca Sexta (L.).” The Biological Bulletin, vol. 149, no. 1, 1975, pp. 214–225., doi:10.2307/1540491.
+
+Rewitz, Kim F., et al. “Identification, Characterization and Developmental Expression of Halloween Genes Encoding P450 Enzymes Mediating Ecdysone Biosynthesis in the Tobacco Hornworm, Manduca Sexta.” Insect Biochemistry and Molecular Biology, vol. 36, no. 3, 2006, pp. 188–199., doi:10.1016/j.ibmb.2005.12.002.
+
+Tunaz, H, and N Uygun. “Insect Growth Regulators for Insect Pest Control.” Turkish Journal of Agriculture and Forestry, no. 28, 2004, pp. 377–387.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio+lab+%231+figure.png&Size=64784&Type=image%2Fpng&F=F_2yaqkry7VqeVtOE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average Growth in Length (cm) of Caterpillars of Manduca Sexta. The control group caterpillars, who received 6 mL of distilled water in each 10 gram clump of food, grew an average of 1.1 +/- 0.4830 cm. The treatment group caterpillars, who received 6 mL of azadirachtin in their 10 grams of food, grew an average of 0.775 +/- 0.8732 cm.  Each group contained four caterpillars.  Lengths were determined from the head of the caterpillars to its end tip.  Results were not statistically significant (t-stat=0.6514, df=6, p-value=0.2695).*************************************************************************
+
+
+

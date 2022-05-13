@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-22 17:04:38
+Author of this lab report is: Std_84UjNqDQ
+ID: R_20SAOOx0LsnMA73
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Excess Carbon Dioxide Effect on the Hill Reaction using spinacia oleracea
+
+Abstract:
+In this study, the effect of excess carbon dioxide in the form of carbonated water was tested on the photosynthetic rates of isolated spinacia oleracea chloroplasts. We believe that the increased amount of carbon dioxide will increase the rate of photosynthesis. The Hill reaction is used to measure the rate of change of photosynthesis at four time points, over the course of thirty minutes. Three test groups of water, a 50:50 mixture of water and carbonated water, and 100 percent carbonated water are used. None of the test groups were found to have a significant difference in photosynthetic rates. The acid produced in carbonated water was thought to affect the color and absorbance values of the samples, confounding any results.
+
+Introduction:
+Energy is plants is derived using photosynthesis, which requires carbon dioxide and water, and yields sugar, water and oxygen. Chloroplasts, small, green molecules absorb solar radiation, exciting electrons. These electrons cause water to be cleaved into electrons and protons. The protons help run a proton gradient, which synthesizes ATP. The ATP and the excited electrons react to make glucose, the main energy storage molecule of the plant.   The amount of glucose made, and the rate of photosynthesis can be changed by altering the amount of reactants available. In this experiment, we will be changing the amount of carbon dioxide available by giving spinacia oleracea chloroplasts access to distilled water, carbonated water, or a 50:50 mix of each.   Photosynthesis is strongly stimulated by increased carbon dioxide concentration. However, it can also be down-regulated due to the effects of elevated carbon dioxide concentration on nitrogen concentration in leaves. [Medlyn: 2002] Plants begin watered with carbonated water few more than twice as large as tap water plants. Additionally, nutrients on potassium, carbon, oxygen, hydrogen, phosphorus, sulfur and sodium are already dissolved, so they are easier to absorb. [Danzell: 2002] Additionally, previous studies have found that the Hill reaction, which we use in this experiment, can be enhanced using carbon dioxide. [Punnet: 1963]   We believe that as the amount of carbon dioxide available increases with addition of carbonated water, the rate of photosynthesis will increase.
+
+Materials and Methods:
+To prepare for the experiment, ice was used to cool a mortar and pestle, a medium sized beaker, and three 50 mL centrifuge tubes. Large veins were removed from five spinach leaves and discard. The remaining leaf was rinsed with tap water and blot dry. The cold mortar and pestle were dried, and the spinach leaves were added. 10mL of cold grinding buffer were added to the mortar and the mixture was ground in to a thick paste. Another 10mL of grinding buffer were added and mixed thoroughly. This mixture was strained through three layers of cheesecloth into the cold medium sized beaker. The strained liquid was transferred into a cold 50mL centrifuge tube labeled “A”. The tube was spun with a counterbalance at 200G for three minutes at 4 degrees Celsius. After spinning, only the supernatant was transferred into a separate 50mL tube labeled “B”. The “B” sample was centrifuged at 1000G for ten minutes at four degrees Celsius. The supernatant was poured from this sample into a beaker labeled “C”. The “B” tube was placed on ice. 20mL of grinding buffer were added into the pellet in tube “B” and resuspended by stirring gently.   For the experiment stage, ten large test tubes were labeled as follows: one “blank”, three “water”, three “50:50”, and three “carbonated water”. The tubes were filled according to Table 1.     When all tubes are prepared, fill the “water”, “50:50”, and “carbonated water” tubes each with 2mL of 130 mM DCIP. Add 100 microliters of enriched chloroplasts from the resuspended “B” pellet to all tubes, including the blank immediately before measuring absorbance. Mix each tube and transfer to a cuvette. Clear and bubbles from the cuvettes and wipe clean. Set the spectrophotometer to 600nm. Blank the spectrophotometer using the “blank” sample and measure the absorbance of each sample. Place all samples on a sunny windowsill. Wait ten minutes, and blank the spectrophotometer again using the “blank”. Measure each sample and record absorbance. Repeat blank and measurements again after 10 more minutes. Repeat again for the final time after ten more minutes, for a total of thirty minutes incubation. Record all results in a table. Calculate the percent change of the absorbance for each sample for 0-10 minutes, 0-20 minutes and 0-30 minutes. Calculate average absorbance and percent change for each type of sample at each time point.   Use three ANOVA and Tukey-Kramer tests to determine if there is a significant difference between the percent change in absorbance for each sample for each time period; 0-10, 0-20 and 0-30. [Johnson: 2016]
+
+Results:
+As seen in Figure 1, the absorbance values for the water samples were greater than both the 50:50 samples and the carbonated samples. The absorbances for each sample set followed the same pattern of a decrease from time zero to time 10, and increase from time 10 to time 20, and another decrease from time 20 to time 30.    Three ANOVA tests were run for the percent change for each of the three samples in each testing group. The first ANOVA, for the percent change between 0-10 minutes yielded p= 0.503, with a Tukey-Kramer test stating there was no significant difference between any of the groups. The second ANOVA, for the percent change between 0-20 minutes yielded p= 0.313, with a Tukey-Kramer test stating there was no significant difference between any groups. The last ANOVA for the percent change between 0 and 30 minutes yielded p= 0.974, with a Tukey-Kramer result of no significant difference between any groups.
+
+Discussion:
+According to our ANOVA tests, none of our groups were significantly different from each other in percent change at any time. This data does not support our hypothesis, which was that the percent change would increase more quickly over time in groups with carbonated water present.   We believe that our results were confounded by the fact that carbonated water caused the colored samples to become a lilac purple, instead of a blue color. This change in color affected the absorbance of the samples, as they absorbed different wavelengths of light from the beginning. We believe this occurred because DCPIP turns pink in acidic environments. Carbonated water is a mixture of CO2 and H20, which creates H2CO3, or carbonic acid. The acid present in the carbonated water changed the color to lilac instead of blue. Because of this, we are unable to differentiate between differences in color, and differences in photosynthetic rates.   Future studies may include a pH buffer solution to ensure that the pH of the carbonated water will not alter the color of the sample when reacted with DCPIP. [Stern: 1961] It is possible that a different color indicator could also be used. More research into the effect of carbon dioxide levels on photosynthesis rates could help us understand how carbon dioxide levels in the atmosphere may be helping or hurting plant species on Earth. This research could help mitigate some of the climate change problems we are facing. [Walker: 1995]
+
+Literature Cited:
+1. Medlyn, B. E., Badeck, F. ‐, Pury, D. G., Barton, C. V., Broadmeadow, M., Ceulemans, R., . . . Jstbid, P. G. 2002. Effects of elevated [CO2] on photosynthesis in European forest species: A meta‐analysis of model parameters. Plant, Cell & Environment. 12.   2. Danzell, L. Greenberg, J. 2002. The Effect of Carbonated Water on Green Plants. CU Boulder.  3. Punnet, T. Iyer, R.V. 1963. The Enhancement of Photophosphorylation and the Hill Reaction by Carbon Dioxide. The Journal of Biological Chemistry. 239: 2335- 2339.  4. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16. 5. Stern, B.K. Vennesland, B. 1961. The Effect of Carbon Dioxide on the Hill Reation. The Journal of Biological Chemistry. 237: 596-602.  6. Walker, JC. 1995. There is more to climate than carbon dioxide. Reviews of Geophysics. 33: 205-211.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-22+at+4.20.41+PM.png&Size=49820&Type=image%2Fpng&F=F_2WO4H2y8KLHep0N
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-22+at+4.48.55+PM.png&Size=93628&Type=image%2Fpng&F=F_5Bj4vqh6Ik8Q43T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+ Figure 1: Percent change of photosynthesis at time ranges 0-10 minutes, 0-20 minutes, and 0-30 minutes. Water samples were treated using only distilled water. 50:50 samples were treated using 50 percent distilled water, and 50 percent carbonated water. Carbonated samples were treated using only carbonated water. Error bars are ±1 s.d. *************************************************************************
+
+
+

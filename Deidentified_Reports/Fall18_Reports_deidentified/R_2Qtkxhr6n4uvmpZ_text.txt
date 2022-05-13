@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 17:02:57
+Author of this lab report is: Std_odZEWLuW
+ID: R_2Qtkxhr6n4uvmpZ
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Injection of tubocurarine in Rana pipiens reduces acetylcholine and increases threshold potential
+
+Abstract:
+The twitch threshold of a Rana pipiens frog leg is predicted to increase due to the need of ACh in the synapse. The sciatic nerve was connected to a transducer to measure the twitch threshold and amplitude. Injecting 1mM tubocurarine into the gastrocnemius muscle of the frog leg inhibits the binding of acetylcholine (ACh) to its nicotinic receptor on the myofibril, further inhibiting muscle contraction. Our hypothesis was supported by the observed results, but these were not statistically significant, as demonstrated by a paired t-test. 
+
+Introduction:
+Muscles in all organisms have the ability to contract. In frogs, fused aggregates of cells, called myofibers, form skeletal muscles. These muscles are then supplied with nerves by motor neurons, which have axons that go from the muscle then to other myofibers at neuromuscular junctions. Acetylcholine (ACh) is a hormone that is released when impulses are sent to these junctions. ACh then binds to receptors on membranes of muscle fibers. Sodium channels are then opened and allow action potentials to occur, releasing Ca2+, which activates the contractile mechanism that allows the fiber to shorten. The purpose of our experiment is to work with Rana pipiens to isolate the gastrocnemius muscle and sciatic nerve from the frog leg in order to investigate the effects of the introduction of an acetylcholine antagonist on both amplitude and twitch threshold. The amount of acetylcholine released should be reduced when the nerve is stimulated since the tubocurarine has a presynaptic blocking agent [Gergis: 1971]. We work with Rana pipiens because it has been worked with many times before and does not have a confusing anatomy. Tubocurarine is an antagonist of the sensory nerve firing of acetylcholine [Norris: 1988]. As an antagonist to ACh, tubocurarine blocks the binding of ACh to the ACh receptors in the postsynaptic membrane of the muscle, inhibiting the opening of sodium channels and, therefore, inhibiting the occurrence of action potentials and, subsequently, contraction of the fiber. In our experiment, we are examining the impacts on the twitch threshold of the muscle twitch. We hypothesize that, if we inject tubocurarine, the acetylcholine will be unable to bind to the ACh receptors, therefore, the twitch threshold will have to increase because more ACh must be present in the synapse. 
+
+Materials and Methods:
+Three frog legs are tested as their own control. After skinning each leg and rinsing with Ringers solution, a dissecting probe was used to separate the inner thigh muscles and reveal the sciatic nerve, which was then removed using a dissecting needle and forceps. The sciatic nerve from each leg is then connected to a force transducer and stimulated directly with single pulses at a width of 5ms and at 1hz and constant duration with no treatment, measuring threshold potential and amplitude of twitch. Following, each leg is run with a treatment of 1mM tubocurarine, measuring both threshold potential and amplitude of twitch again. A paired t-test is used for each of the three frog legs to compare the results of our control to that of our experimental. 
+
+
+
+Results:
+From our paired t-test examining twitch threshold, the calculated p-value was P=0.38776 with t-stat 1.095066 and DF=2. This did not suggest a statistically significant result. This related to the data from the twitch thresholds of both experimental and control frog legs 2 and 3. Frog leg one presented the greatest measurable change in twitch threshold (Figure 1). The amplitude did not have a very great measurable change for any of the legs, however, the largest change was between control and experimental of the first leg (Figure 2). The experimental test for frog leg three had a noticeably lower twitch threshold than the control test, in addition to having a continual uptrend in the response amplitude as the stimulus voltage increased (Figure 3). The twitch threshold increased for all frogs except for frog leg 2. The amplitude response, however, was much lower for this leg when injected with tubocurarine.
+
+Discussion:
+Our hypothesis was supported by our results, however, the statistical test results indicate that our observations are not statistically significant. Despite a high p-value, tubocurarine did block ACh from binding to their receptors, inhibiting the opening of sodium channels and, subsequently, the release of calcium needed for the initiation of the contractile mechanism. The twitch threshold increase in frog legs from control to experimental tests was due to the injection of tubocurarine making confirmation changes. The twitch threshold for the second frog leg was essentially the same between control and with treatment because we were unable to record a small enough interval between 0 and 0.1 V stimulus amplitude. However, the stimulus reaction voltage for frog two was a lot lower after treating with tubocurarine. This could account for our high p-value and, therefore, lack of statistical significance. Each control twitch threshold differed due to biological differences in each of the frog legs. If we repeated this experiment, we could examine twitch height, as this is common in some scientific literature on the topic, addressing that a decrease in the height of the twitch is associated with the inhibited release of acetylcholine caused by doses of tubocurarine [Gergis: 1971]. Our research and experimental data are important to the scientific community in understanding the effects of acetylcholine in muscle control and the effects that tubocurarine has on muscle cells. An understanding of acetylcholine and how it is used in muscle cells is relevant in preventing unwanted muscle contractions in epileptic patients.  It would be interesting if a chemical with the same effect as tubocurarine could prevent muscle spasms and contractions after exercise, painful menstrual contractions, and contractions during pregnancy if there was a complication. 
+
+Literature Cited:
+Gergis SD, Dretchen KL, Sokoll MD, Long JP. Nov 1971. The effect of neuromuscular blocking agents on acetylcholine release. Proceedings of the Society for Experimental Biology and Medicine. SAGE Journals. 138, no. 2: 693–95.
+
+Norris CH, Housley GD, Hamilton Williams W, Guth SL, Guth PS. Feb 1988. The acetylcholine receptors of the semicircular canal in the frog (Rana Pipiens). Hearing Research. ScienceDirect. 32, no. 2: 197–206. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-31+at+5.59.07+PM.png&Size=66174&Type=image%2Fpng&F=F_p5Y1sB2zNoodMs1
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-14+at+4.58.14+PM.png&Size=312398&Type=image%2Fpng&F=F_3ESZ69juptJP941
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-14+at+4.58.32+PM.png&Size=256457&Type=image%2Fpng&F=F_1ocACHkenpZh4Mz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The measured twitch threshold for each frog leg when tested as a control and with a treatment of tubocurarine, showing an increase in twitch threshold after treatment for frog 1, negligible increase for frog 2, and minorly insignificant increase for frog 3. Figure 2. Relationship between stimulus amplitude and measured twitch amplitude for each control and treated frog leg, showing an increase in twitch amplitude after treatment of frog 3 and an uncharacteristic decrease in twitch amplitude for frog 1 and 2. Figure 3. Relationship between stimulus amplitude and measured twitch amplitude for control and treated frog leg 3, showing an increase in twitch amplitude after treatment.*************************************************************************
+
+
+

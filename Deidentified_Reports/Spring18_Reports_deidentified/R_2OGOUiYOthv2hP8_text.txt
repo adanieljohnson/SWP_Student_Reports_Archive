@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-20 14:28:55
+Author of this lab report is: Std_hvuzu3iB
+ID: R_2OGOUiYOthv2hP8
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: NaCl concentration has minimal effects on photosynthesis rate of Spinacia oleracea chloroplasts
+
+Abstract:
+Salinization resulted from both natural and artificial processes pose danger to plant growth. Research on mechanisms involved in resisting and adapting to saline environment may generate resolution to salinity. This experiment aimed to study how photosynthesis rate is affected by increased NaCl concentration. We expect photosynthesis rate to be reduced by increased salt concentration. Spinacia oleracea was the source of chloroplasts used in the present study. Filtration and centrifuge extracted chloroplasts from spinach leaves. The color difference of DCPIP caused by reduction during photosynthesis was measured by spectrophotometer to quantify rate of photosynthesis. The result did not confirm our hypothesis. There was no significant difference (p=0.052) in % decrease in absorbance among the three treatment groups, suggesting exposure to increasing NaCl concentration in 20 minutes had minimal effects on photosynthesis rate. On the contrary, the % decrease in absorbance was significantly different between the low-concentration group and the high-concentration group. We conclude that there exists an optimum salt concentration for plant growth that is not zero. 
+
+Introduction:
+Salinization, the increase of salt content in soil, is a common process as a result of extreme weather, natural rock weathering and agriculture practices, especially artificial irrigation. Salinity is one of the main factors that affect plant growth. High concentrations of salts in the soil reduce the ability for roots to extract water, and hence reduce transpiration rate. In addition, accumulation of salt ions causes damage to leaf lamina [Shapira: 2009]. Visible symptoms of exposure to high salt concentration in soil include growth inhibition and chlorosis of mesophyll [Tester: 2003]. Soil salinity presents a serious threat to crop cultivation. 
+Soil with no salt content is an unrealistic growing environment for plants in the nature. Therefore, it is rational that some plants may have resistance to a normal degree of salinity. The physiological mechanisms of salt tolerance are of our interest. Salt resistance is usually studied by measurement of crop yield [Maas: 1997] and accumulations of salt ions in plant organs [Dalton: 1997; Maggio: 2007]. We are most interested in how photosynthesis, the fundamental biochemical reactions in plants, is affected by increasing salinity. We assume photosynthetic components are damaged by high ion concentration in the leaves. Hence, rate of photosynthesis is hypothesized to decrease with increasing salt concentration. 
+Spinacia oleracea (spinach) leaves were used in this experiment, because spinach is commonly recognized as a good source of chlorophyll among leafy plants. The photosynthesis rate is quantified by the absorbance of DCPIP added to chloroplasts. During the Hill Reaction, DCPIP acts as an electron acceptor and is reduced from blue to colorless. We assume that increasing salinity statistically significantly decrease photosynthesis rate, and therefore reduces the rate of change in absorbance of DCPIP.
+
+
+Materials and Methods:
+For this experiment, all the solutions and apparatus used were stored on ice. Five medium-size spinach leaves provided by the laboratory were grinded up with 10 mL of cold grinding buffer (400 mM sucrose in pH 8 Tricine buffer) into a thick paste with no visible chunks. The paste was mixed with another 10 mL of grinding buffer. Then, gravity filtration through 3 layers of cheese cloth removes the insoluble and large residue. We centrifuged the filtrate at 200 x G/1200 rpm at 4ºC for 3 minutes. The supernatant after first centrifuging was centrifuged again at 1000 x G/2800 rpm at 4ºC for 10 minutes. The supernatant after second centrifuging was mixed with 20 mL of grinding buffer. 
+The blank solution was made up with 8 mL of water and 2 mL of reaction buffer (100 mM phosphate at pH 6.5). Similarly, the negative control was prepared with 5 mL water, 2 mL of 130 mM DCPIP, 4 mL of reaction buffer and 1 mL 500 mM NaCl solution. The rest 9 test tubes were divided into 3 treatment groups with 3 replicates. The first group, the low-concentration group, was made up with 6 mL water, 2 mL of 130 mM DCPIP and 2 mL of reaction buffer in each test tube. The medium-concentration group and high-concentration group had similar composition: 5 mL water, 2 mL 130 mM DCPIP, 2 mL reaction buffer, and 1 mL of 250 mM NaCl solution in the second group, 1 mL of 500 mM NaCl solution in the third group.
+Immediately after exactly 100 µl of the chloroplast mixture was added to the 9 treatment test tubes respectively, the spectrophotometer was blanked with a cuvette of blank solution. Then, we measured the absorbance of the remaining 10 tubes respectively by transferring the solutions into clean cuvettes. The data collected was referred to as Time Zero data. After first measurement of absorbance, all of the cuvettes, including the blank and the negative control, were exposed to light under a lamp for 20 minutes. At the end, the spectrophotometer was blanked by the cuvette of blank solution again and the absorbances of the other cuvettes of solutions were measured again. 
+A one-way ANOVA test (α=0.05) was used to compare the % decrease in absorbance among the 3 treatment groups.
+
+
+Results:
+Figure 1 shows the mean % decrease in absorbance of each treatment group after 20 minutes. The % decrease rises as concentration of NaCl solution added increases. There was no significant difference (p=0.052) in the average % decrease in absorbance of the 3 treatment groups. Further tests indicate that % decrease of the 500 mM NaCl group was statistically significantly higher than that of the 0 mM NaCl group. No significant difference was indicated between other groups.
+
+Discussion:
+Generally, our result failed to support our hypothesis. Statistically there was no significant difference in the overall average % difference in absorbance among the three groups, indicating no difference in the rate of photosynthesis of each treatment group. On the contrary, the graph (Fig.1) demonstrated a negligible upward trend in % decrease of absorbance. Therefore, it is still reasonable to assume there is a positive correlation between NaCl concentration and % decrease in absorbance. The result suggests photosynthesis rate either is not affected by change in NaCl concentration, or it will increase as NaCl concentration increases. In addition, the significant difference between the low-concentration group and the high-concentration group added credibility to previous suggestion. The present study deepened our understanding of the mechanisms of salt tolerance in plants, that salinity has a small effect to the chloroplast level and large damages should occur elsewhere.
+The result agreed with early study which shows that effect of salinity on photosynthesis was minimal compared to effects of other abiotic factors [Etheridge: 2005]. On the other hand, another study on spinach found that spinach yield increased with salinity when the electrical conductivity of irrigation water was below 9 dS m-1 and decreased at higher concentration [Ors: 2017]. Although there has been few research on the relationship between photosynthesis rate and yield, it can be assumed that there is an optimum salt concentration for plant growth that is not zero. 
+While most studies used electrical conductivity as the measure of salinity, our experiment focused solely on NaCl concentration. We propose that the concentration of NaCl we used to conduct our experiment may not be large enough to validate the result. Future experiment should be conducted with a large range of salt concentration. Furthermore, the present study temporarily exposes chloroplasts to NaCl. We had no control of the growing environment of the spinach leaves used. We suggest future studies to grow seedlings in soil of different salinity, then measure and compare photosynthesis rate of the mature leaves. 
+
+
+Literature Cited:
+1. Shapira O, Khadka S, Israeli Y, Shani U, Schwartz A. 2009. Functional Anatomy Controls Ion Distribution in Banana Leaves: Significance of Na+ Seclusion at the Leaf Margins. Plant, Cell & Environment. 32 (5): 476–85. 
+2. Tester M, and Davenport R. 2003. Na+ Tolerance and Na+ Transport in Higher Plants. Annals of Botany. 91 (5): 503–27. 
+3. Maas EV, Hoffman GJ. 1977. Crop Salt Tolerance–Current Assessment. Journal of the Irrigation and Drainage Division. 103 (2): 115–34.
+4. Dalton FN, Maggio A, Piccinni G. 1997. Effect of Root Temperature on Plant Response Functions for Tomato: Comparison of Static and Dynamic Salinity Stress Indices. Plant and Soil. 192 (2): 307–19. 
+5. Maggio A, Raimondi G, Martino A, Pascale SD. 2007. Salt Stress Response in Tomato beyond the Salinity Tolerance Threshold. Environmental and Experimental Botany. 59 (3): 276–82. 
+6. Etheridge SM, Roesler CS. 2005. Effects of Temperature, Irradiance, and Salinity on Photosynthesis, Growth Rates, Total Toxicity, and Toxin Composition for Alexandrium Fundyense Isolates from the Gulf of Maine and Bay of Fundy. Deep Sea Research Part II: Topical Studies in Oceanography. The Ecology and Oceanography of Toxic Blooms in the Gulf of Maine. 52 (19): 2491–2500. 
+7. Ors S, Suarez DL. 2017. Spinach Biomass Yield and Physiological Response to Interactive Salinity and Water Stress. Agricultural Water Management. 190 (August): 31–41. 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-18+at+2.51.50+PM.png&Size=57327&Type=image%2Fpng&F=F_12G4aWTm70B3vSu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average % decrease in absorbance of chloroplasts treated with 0 mM NaCl solution (low-concentration group, n=3), chloroplasts treated with 250 mM NaCl solution (medium-concentration group, n=3), chloroplasts treated with 500 mM NaCl solution (high-concentration group, n=3) and solution containing no chloroplast (negative control, n=1). Error bars represent +/- one standard deviation. ANOVA result showed no significant difference among % decrease in absorbance among the three treatment groups.
+
+*************************************************************************

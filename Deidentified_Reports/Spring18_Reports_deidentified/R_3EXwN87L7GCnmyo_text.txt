@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-05 07:45:22
+Author of this lab report is: Std_ZfLStI3S
+ID: R_3EXwN87L7GCnmyo
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: The effect of Paraquat and different light wavelengths on photosynthetic rate in Chickweed
+
+Abstract:
+This first part of the experiment aimed to analyze the effects of the herbicide, Paraquat, on the photosynthetic rate of chickweed. Due to inhibitory effects Paraquat has in plants, it was hypothesized that Paraquat would decrease the rate of photosynthesis in chickweed. This was tested through the Hill reaction as it allowed for the isolation of chloroplasts and monitoring of photosynthetic rates using 2,6-dichlorophenolindophenol (DCPIP) as an electron acceptor. The absorbances of each sample were measured by a spectrophotometer at ten-minute intervals over a period of thirty minutes. The herbicide did not significantly decrease the rate of photosynthesis in chickweed, which was supported by the analysis of a t-test. The other goal of this experiment was to analyze the effects of various light wavelengths, specifically red, blue, and green light, on the photosynthetic activity of chickweed. It was hypothesized that exposure to the blue light would increase photosynthetic activity the most, but our results indicated that the types of light wavelength had no statistically significant effect on the photosynthetic rate of the chloroplast samples, which was concluded through an ANOVA test.
+
+
+Introduction:
+In photosynthesis, plants use energy from sunlight to drive ATP production. When electrons within the photosystems of chloroplasts are excited, a concentration gradient is created and they are stored as high energy electrons in NADPH. In this way, plants are able to create glucose, which can be broken down and used for energy in the form of ATP. The rate of photosynthesis in plants can be affected by numerous factors including herbicides and light wavelength. A common herbicide like Paraquat,,reacts with photosynthetic enzymes, forming radical molecules that break down the membrane of the cell [National Center, 2018]. Chickweed is a good organism to test these effects because it is one of the invasive species of plants that are abundant in North Carolina. In a study by Qian, Chen, and Sun in Ecotoxicology, Chlorella vulgaris was exposed to varying concentration levels of paraquat (0.3 μM to 1 μM) for a total of 24 hours. A significant decrease in the total cell number in the algae was observed within the first 6 hours compared to the control group with no paraquat added. They also found a significant decrease in chlorophyll content when Chlorella vulgaris was exposed to 0.5 μM and greater [Qian et al: 2009]. Drawing from the evidence in this study, we hypothesize that there would be a significant decrease in the photosynthetic activity of chickweed upon the introduction of Paraquat to the chloroplasts.
+Plants also react differently to various light wavelengths due to the effects on chlorophyll. Chlorophyll absorbs both red and blue light, but reflects green, which is where plants get their pigmentation. Both blue and red light promotes growth in different ways. Blue light is suspected to encourage leaf growth while red promotes flowering (Sæbø et al. 1995). A previous experiment using lettuce leaves discovered that exposing leaves to different colors of light resulted in an increase or decrease in photosynthesis [Muneer 2014]. Sowbiya Muneer and his colleagues discovered that the rate of photosynthesis was greatest when exposed to blue light, followed by red and green light [Muneer 2014]. From this information and experiment results, we hypothesize that there would be an increase in the photosynthetic rate of chickweed when exposed to blue light (wavelength 490 nm), but lesser in red light (680 nm), and finally green (540 nm) light.
+
+
+Materials and Methods:
+To prepare for this lab, a mortar & pestle, 250 mL beaker, and 5, 50 mL centrifuge tubes were stored in ice. The stems from a patch of chickweed were removed to isolate just the leaf section.  The remaining leaves were added to the mortar and pestle, along with 10 mL of cold grinding buffer. A thick paste was produced through continuous grinding and the addition of another 10 mL of grinding buffer. The entire sample was strained through cheesecloth into the 250 mL chilled beaker.  50 mL of the remaining green liquid was transferred into a centrifuge tube marked “A,” which was spun at 200 x G for 3 minutes at 4 degrees Celsius. The supernatant of “A” was poured into a second centrifuge tube marked “B,” while the transfer of the debris at the bottom was avoided. Tube “B” was centrifuged at 1,000 x G for 10 minutes at 4 degrees Celsius. The supernatant was poured into a 3rd 50 mL tube marked “C.”  19 large test tubes were labeled and placed into a rack. Figure 1 shows the amounts of each reagent in each tube. The tubes with chloroplasts were promptly mixed immediately after they was added. The spectrophotometer, which was blanked using tube 0, was used to record the absorbance of each tube measured at time 0. The test tubes were placed into their specific environments, red, green, blue, or full light, and removed after 10 minutes. The absorbance of each tube was recorded, blanking in between each trial, and then the tubes were placed back into their respective environments. The absorbance was measured again at 10-minute intervals two times. The % Change for each time interval was calculated using the equation % change = [(Absorbance at time zero – Absorbance at time ‘N’ )/ Absorbance at time zero]  x 100%. The % Change vs time was plotted to examine which environment had the greatest % Change, which corresponds to the highest rate of photosynthesis. A one-tailed two-sample t-test was used to determine if the effect of the herbicide was significant or not. An ANOVA test was also used to determine if the varying light wavelengths had a significant difference on photosynthetic rate.
+
+Results:
+There is a general upwards trend for all the data sets except for the samples without chlorophyll. The environment that had the greatest rate of photosynthesis, the sample with the steepest slope, was chloroplasts exposed to red light with a percent change of 30.60 after 30 minutes (Figure 2). This was closely followed by the chloroplasts in full light, which had a percent change of 27.50 after 30 minutes (Figure 2).  In contrast, the environment that inhibited photosynthesis the greatest was the chloroplasts sample with Paraquat, which had a percent change of 19.77 after 30 minutes (Figure 2). For the light experiment, the chloroplasts in 490 nm inhibited photosynthesis the most with a percent change of 19.11 after 30 minutes (Figure 2). However, a one-way ANOVA test did not show any statistically significant difference (p-value = 0.316) in photosynthetic rate in chickweed based on the type of light the plant was exposed to. Further tests also indicated that there was no significant difference between the varying light wavelengths. For the herbicide experiment, a two-sample t-test was run in which the treatment sample was determined to not have a significant decrease in photosynthetic rate compared to the control (t-stat = 0.968, df = 4, P = 0.388).
+
+
+Discussion:
+In this experiment we were trying to determine if Paraquat was an effective herbicide on Stellaria media, an invasive plant to North Carolina. It was hypothesized that chickweed treated with Paraquat would result in a significantly lower rate of photosynthesis than the control group. However, this hypothesis is ultimately inconsistent with the results, which showed that the use of Paraquat did not significantly decrease the photosynthetic rate since there was an insignificant p-value of 0.388. Although the experiment showed a statistically insignificant result, a previous study discovered that with a concentration range of 0.02-0.2 mg/L of Paraquat severely inhibited Scenedesmus quadricauda, while a concentration greater than 2 mg/L of Paraquat completely inhibited growth and photosynthesis of the algae [Wong 2000]. In this experiment, the researchers allowed a longer length of Paraquat exposure while also varying the concentration ranges of the herbicide. Due to the lack of time and abundance of chemicals, this could have altered our results. It is possible that a stronger concentration was needed and a longer amount of time to allow the full effects of Paraquat. In the second experiment, the exposure to different light wavelengths was tested to see if this altered the photosynthetic rate of chickweed. It was hypothesized that the chickweed plants would have a higher photosynthetic rate in blue light, then red light, then lastly green light. Our data is inconsistent with our hypothesis as it indicated that there was consistently a higher rate of photosynthesis at red light, since it consecutively produced the highest percent change values after each 10 minute interval with the respective values of 13.61, 23.92, and 30.61, compared to the blue light, which had values of 14.72, 15.35, 19.11 after 10 minute intervals. After running an ANOVA test it was found that none of the light wavelengths significantly affected the photosynthetic rate since a p-value of 0.316 was obtained. Although our results are significantly insignificant, a previous study conducted found a higher rate of photosynthesis in blue light, than red light, and followed lastly by green light [Sæbø 1995]. The inconsistencies between our data and Muneers is likely to do to the ineffective way we tried to isolate light exposure. When each chlorophyll solution to was in their specific light environments, we could not inhibit all the surrounding light from interfering with the solutions, meaning regular full light could have mixed in as well as the other light colors. This means that the tubes were not subjected to enough concentrated light which could have led to large inaccuracies. This could be solved by putting the plants in a dark room with the color lamp as it would better prohibit the interference of full light in each environment. Also when examining other studies, the researchers exposed the plants to different wavelengths for much more extensive periods of time than we were able to. This could have altered our findings, as we could have not allowed enough time to determine if there was a significant difference in photosynthetic rate since we exposed the plant to light for 30 minutes while they exposed the plants for up to 12 hours. Another issue that applies to both experiments is the question of efficiency when isolating the chloroplasts. Often when transferring the supernatant to a new tube, small particles of debris would inevitably be transferred. This could have affected the isolation of the chloroplasts causing inconsistent results for both experiments. For future experiments, having more samples to test in their specific environments could produce a more intensive experiment. A larger data set would also allow for more accurate data.
+
+
+
+Literature Cited:
+Muneer, Sowbiya, et al. "Influence of green, red and blue light emitting diodes on multiprotein complex proteins and photosynthetic activity under different light intensities in lettuce leaves (Lactuca sativa L.)." International journal of molecular sciences 15.3 (2014): 4657-4670.
+
+National Center for Biotechnology Information. PubChem Compound Database; CID=15938, https://pubchem.ncbi.nlm.nih.gov/compound/15938 (2018).
+
+Sæbø, Arne, Trygve Krekling, and Maigull Appelgren. "Light quality affects photosynthesis and leaf anatomy of birch plantlets in vitro." Plant Cell, Tissue and Organ Culture 41.2 (1995): 177-185.
+
+Qian, H., Chen, W., Sun, L. et al. Ecotoxicology (2009) 18: 537. https://doi.org/10.1007/s10646-009-0311-8
+
+Wong, P. K. "Effects of 2, 4-D, glyphosate and paraquat on growth, photosynthesis and chlorophyll–a synthesis of Scenedesmus quadricauda Berb 614." Chemosphere 41.1-2 (2000): 177-182.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-22+at+7.48.24+AM.png&Size=42935&Type=image%2Fpng&F=F_2Bfl35H1f4h3s2r
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-05+at+7.43.47+AM.png&Size=78114&Type=image%2Fpng&F=F_2a9TMirUJhTpbdx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Amounts of reagents added to each test tube
+Figure 2: This scatterplot displays the % Change in Absorbance vs time for No Chloroplasts, Chloroplasts with Paraquat, Chloroplasts in Full light, Chloroplasts in Blue light (490 nm), Chloroplasts in Green light (540 nm), and Chloroplasts in Red light (680 nm). Two-sample t-test of Paraquat vs full light found no significant decrease in photosynthetic rate (t-stat = 0.968, df = 4, P = 0.388). An ANOVA test found no significant change in photosynthetic rate with the exposure to different light wavelengths (P = 0.316). 
+
+
+*************************************************************************

@@ -1,0 +1,82 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-07 15:50:25
+Author of this lab report is: Std_ywKywAlt
+ID: R_22n8uPBK71a4JIy
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The effects of pH on the rate of electron transfer in Spinacia oleracea leaves
+
+Abstract:
+Photosynthesis is a process carried out by all plants through which sunlight is absorbed, resulting in ATP synthesis and electron storage as NADPH. While these two things are difficult to measure, the rate of transfer of electrons can be measured with DCIP and the Hill Reaction. The rate at which electrons are transported is vital to the plant and photosynthesis altogether. S. oleracea leaves were treated with basic and acidic conditions over a period of three thirty-minute time periods. It was hypothesized that acidic conditions will result in a higher rate of electron transfer compared to basic conditions. Enriched chloroplasts were created in order to allow the reaction to occur. The statistical analysis of the experiment provided a p-value of 0.002 which showed the rate of electron transport in spinach is lower in alkaline environments compared to acidic conditions.
+
+Introduction:
+Photosynthesis is a process used by plants to store energy. Once light has been absorbed by chloroplasts, electrons become excited thus beginning the electron transport chain. This process involves a series of coupled oxidation reduction reactions. The first high energy electrons from NADH are donated to the first complex. Energy loss from the electrons passing through the electron transport chain complexes induces conformational changes in the proteins that allow proton pumping across the inner membrane to produce a proton gradient. These set of reactions results in ATP synthesis and electron storage as NADPH. These two are used in the Calvin cycle, where CO2 and ribulose phosphate are combined to create glucose [Iwasa: 2016].
+	While ATP production and reduction of NADP+ are difficult to measure, the rate of transfer of electrons can be measured with DCIP (2,6-Dichlorophenolindophenol) and the Hill Reaction. DCIP is integral to the reaction as the rate at which it is reduced can be utilized to measure the transfer rate of electrons. Furthermore, DCIP undergoes chemical rearrangement, resulting in a change from blue to clear when it is excited by an electron. Using this means of electron transfer rate measurement, other environmental and chemical conditions can be tested for their impact on the process [Cellular Biology Laboratory Manual]. It has been found that in land plants, the principle organs of photosynthesis are the leaves. Leaves have evolved to expose the largest possible area of green tissue to light and entry of CO2 to the leaf is controlled by small holes in the lower epidermis called stomata [Johnson: 2016]. Chloroplasts are also found in plant leaves surrounded by guard cells. These cells open and close tiny pores allowing for the gas exchange needed for photosynthesis [Cellular Biology Laboratory Manual].
+	 Acidic and basic conditions were tested to affect the photosynthetic rate of electron transfer. Spinacia oleracea, or spinach leaves, will act as the model organism due to the fact that they are easily accessible and have large leaves. Furthermore, S. oleracea is a leafy, green vegetable grown as an annual, making this model organism readily abundant to use. Treatment with either basic, neutral, or acidic pH buffer will act as the independent variable. Reaction conditions were held constant, proceeding under direct light and utilizing the spectrophotometer over three ten-minute intervals to record the absorbances. The percent change of the rate of electron transfer was calculated, ultimately allowing the determination of the effects of pH on the rate of electron transfer. It was hypothesized that acidic conditions will result in a higher rate of electron transfer compared to the basic conditions which will result in a lower rate of electron transfer in S. Oleracea.
+
+
+Materials and Methods:
+In order to obtain the enriched chloroplasts needed for the experiment, four Spinacia oleracea leaves were collected. The large central veins were removed and thrown away while the remaining leaf pieces were rinsed with tap water and dried off. Then, the pieces of leaf were placed in a pre-chilled mortar and pestle where 10 mL of grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) was added. The leaves were ground into a paste and an additional 10 mL of grinding buffer was added. Next, the spinach slurry was strained through three layers of cheese cloth into a chilled 50 mL centrifuge tube marked “A”. This was spun at 1200 rpm with a balance for three minutes at 4oC. The supernatant was then poured out of the tube marked “A” into the second chilled 50 mL centrifuge tube marked “B” and was spun at 2800 rpm for ten minutes at 4oC. The supernatant was poured out and the pellet at the bottom was kept for future use.
+	It was discovered that an additional step was needed due to the fact that the acidic pH buffer changed the solution to a light pink color, as seen in Figure 1. After the second spin with “B”, 15mL of reaction buffer (pH 6.5) was added to the pellet and was suspended by stirring gently with a transfer pipet. After, the mixture was aliquoted into three 5 mL volumes and was then placed in three small conical tubes in which 5 mL of the reaction buffer was added to each. The tubes were spun again at 2800 rpm for ten minutes at 4oC. The pellet was then resuspended in 3 mL of grinding buffer in order to concentrate the chloroplasts. These three tubes were used to place 100 uL into the ten test tubes.  
+	Ten large test tubes were labeled Blank and 1through 9 while the enriched chloroplasts were being spun. The blank was prepared with 8 mL of H2O, no DCIP, and 2 mL of pH 6.5 buffer. Tubes 1 through 3, assigned for acidic conditions, were prepared with 6 mL of H2O, 2 mL of DCIP, and 2 mL of pH 6.5 buffer. Tubes 4 through 6, assigned for control conditions, were prepared with 6 mL of H2O, and 2 mL of pH 3 buffer. Finally, tubes 7 through 9, assigned for basic conditions, were prepared with 6 mL of H2O, 2 mL of DCIP, and 2 mL of pH 10 buffer. 
+	The assay began when 10 uL of the prepared enriched chloroplasts was added to all of the tubes, including the blank. The tubes were immediately mixed after adding the chloroplasts and the mixtures were then transferred to spectrophotometer cuvettes. Using a spectrophotometer set at 600 nm, the absorbance values were recorded for Time 0 and then the tubes were placed under direct light for ten minutes. After blanking the spectrophotometer, the absorbances were measured three additional times, placing the samples under direct light and waiting ten minutes in between each measurement. The percent change over time was then calculated for each set of absorbances. Two two-sample t-tests were employed to compare the means of the two pH conditions that were tested-acidic and basic conditions- to the control condition which was a pH of 6.5. The average percent change for each rate of electron transfer reaction was noted. 
+
+
+Results:
+When the mean values were compared, the rate of electron transfer was significantly different between that of the control condition at pH 6.5 and the acidic condition at pH 3 (t-stat=7.410, p-value= 0.002). It must be noted that there was an outlier absorbance value that was recorded for Tube 2 at a pH of 3, 0.091nm, that was disregarded when calculating the standard deviation. Furthermore, the mean value for the rate of electron transfer was also significantly different between that of the control condition of pH 6.5 and the basic condition at pH 10 (t-state= 15.77, p-value= 0.001). Over the thirty-minute trial period, the absorbance values increased for pH 10 as shown in a change from an absorbance of 0.413 at time 0 to an absorbance value of 0.438 at time 30. (Fig. 3). Over the thirty-minute trial period, the absorbance values decreased for pH 3 as shown in a change from an absorbance of 0.036 at time 0 to an absorbance value of 0.0305 at time 30. (Fig. 3). Overall, the reaction that proceeded under acidic conditions showed a much larger increase in absorbance values compared to the basic conditions. The absorbance values for pH 3 increased more over the course of thirty minutes as shown by ta greater percent change of 24.209 versus a smaller percent change of 6.05 for pH 10 (Fig. 2).
+
+
+Discussion:
+As previously mentioned, in order for photosynthesis to occur in plants, the plant takes in raw materials from the environment, which include water through its roots and carbon dioxide which moves into the stomata by diffusion. Chlorophyll, the green pigment found in chloroplasts, traps light energy from the sun. Variations to the pH can alter this photosynthetic process and various pH values can impact the electron transport in different ways.  It was hypothesized that acidic conditions will result in a higher rate of electron transfer compared to the basic conditions which will result in a lower rate of electron transfer in S. Oleracea.
+	The results from the two, two-sample t-tests revealed that there was a correlation between basic or acidic conditions and the rate of electron transfer in S.Oleracea. Based on the data, it can be concluded that the acidic conditions at a pH 3 had a higher electron transfer rate of 24.209% compared to basic conditions with an electron transfer rate of 6.05%. A low percent change at pH 10 means that these conditions prove to not be favorable. As previously mentioned, an outlier existed in test tube 2 of the acidic condition. This absorbance value was removed but this outlier could have resulted from the fact that the pH buffer was added to the DCIP before the enriched chloroplasts were added. This ultimately means that the pH buffer and the DCIP had the chance to interact before the desired reaction with enriched chloroplasts could begin. To avoid this consequence in the future, the buffer should be added after the addition of the enriched chloroplasts, thus reducing the possibility of multiple interactions to occur.
+	The absorbance values from the basic conditions could be utilized to highlight the fact that alkaline conditions impact the electron transfer rate, ultimately resulting in a decreased rate of transfer. It can be concluded that the alkaline conditions represent a baseline that is similar to the control conditions. Since alkaline conditions were used as a baseline, it can be concluded that the acid ultimately did have an impact on the rate of transfer. Basic conditions are not favorable due to the fact that the electrons are not transferred as quickly which is why the color change happened at a slower rate. This could also help explain why the basic pH value absorbances decreased over time trials. The acidic conditions reveal contrasting information and as electrons are being transferred, the rate of electron transfer is increasing. The color changes from clear to blue a lot faster which means that the electrons are being transported exponentially quicker. This is reflected in the percent change of 6.05 at time 30 for pH 10 compared to the higher percent change of 24.209 for pH 3.
+	Although these findings are important for consideration, it must be noted that enriched chloroplasts can only be applied so far. Most studies on the effects of pH on electron transport have been carried out with isolated thylakoids or chloroplasts as seen here. Further testing must be done in intact leaves in order to see the measure of pH across the thylakoid membrane [Schönknecht: 1995]. The photosynthetic electron transport inside an intact spinach leaf may be regulated at a different pH and this is worth further examination.
+
+
+Literature Cited:
+1.	Johnson. 2016. “Essays in Biochemistry” Portland Press Ltd. Doi: 10.1042/EBC20160016
+
+2.	Schönknecht et al. 1995. “Relationship between photosynthetic electron transport and pH gradient across the thylakoid membrane in intact leaves” Proc. Natl. Acad. Sci. USA
+
+3.	Iwasa et al. 2016. Cell and Molecular Biology Eigth Edition. John Wiley and Sons.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+10.22.43+AM.png&Size=503082&Type=image%2Fpng&F=F_3LZN6vnnmBW3dEJ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+10.23.08+AM.png&Size=134798&Type=image%2Fpng&F=F_2ARmgbSzzoylUEc
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+10.23.16+AM.png&Size=141201&Type=image%2Fpng&F=F_3FJUPyeZA2BvZAN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Acidic pH Variation
+Figure 1 shows the pink color for test tubes 1 through 3 (which had pH 3 buffer) along with the same constants the rest of the tubes had. An additional step was needed since the blue color was desired.
+
+Figure 2. Percent Change vs. Elapsed Time
+Figure 2 displays the difference between the percent change in absorbance values between all three of the conditions that were tested (pH 3,6.5, and 10) over the three trials. The whisker bar represents the standard deviation due to the fact that the spectrophotometer was not blanked after every absorption taken.
+
+Figure 3. Absorbance vs. Elapsed Time
+Figure 3 displays the change over time of the absorbance values between all three of the conditions tested (pH 3, 6.5, and 10). The whisker bar represents the standard deviation due to the fact that the spectrophotometer was not blanked after every absorption taken.
+*************************************************************************
+
+
+

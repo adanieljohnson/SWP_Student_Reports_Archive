@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-26 16:59:21
+Author of this lab report is: Std_xFu4WcGh
+ID: R_3KD4rtDQZHL0Mug
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Effects of Juvenile hormone on the molting process of the Manduca Sexta
+
+Abstract:
+Hormones play an important role in the development of many organisms. In order to asses the role of hormones in the molting process of insects the effects of juvenile hormone on Manduca sexta caterpillars was observed. The expectation was that caterpillars given an increased amount of juvenile hormone would maintain a lower weight as they should not pass the 5th larvae state. The collected data showed a significant difference in mass between the control and experimental group. This difference shows that juvenile hormone has an effect on the mass of Manduca sexta caterpillars however not in the way it was originally thought. The caterpillars given large amounts of juvenile hormone showed a larger growth rate than the control group meaning that rather than maintaining a lower weight, the caterpillars continued to grow. This was likely due to the miscommunication of hormone signaling due to the increased amount of juvenile hormone present. Developing a better understanding of this communication could further our understanding of how organisms are able to maintain homeostasis. 
+
+Introduction:
+Hormones are important chemicals that send signals throughout an organism to different cells and tissues. Much like the process of puberty in humans, insects go through a stage called molting where they transition into adulthood. Molting is controlled by the secretion of different hormones which signal for different processes to begin [Nijhout: 1974]. To investigate the effects of hormones on this process the Manduca sexta caterpillar was used as it has been thoroughly investigated by many scientists and therefore can lead to a better understanding of how the hormones work together to induce molting [Nijhout: 1974] In this species three main hormones, juvenile hormone, prothoracicotropic hormone, and ecdysone play a part in the molting process, with juvenile hormone being responsible for the progression from one larval stage to the next [Riddiford: 2003]. With this being the case it stands to reason that altering the amount of hormone present would have some effect on the larval stages of the Manduca sexta. With juvenile hormone playing a role in the transition from one stage to the next, altering the levels present should change the rate of transition. Due to this, we hypothesize that increasing the amount of Juvenile hormone in the Manduca sexta caterpillar will prevent the caterpillars from reaching the 5th larval stage and cause them to maintain a lower weight.
+
+Materials and Methods:
+Eight Manduca sexta caterpillars of approximately equal age were divided into two groups of four. Both groups were kept in an incubator in plastic containers divided into 4 sections. Each caterpillar was given 10 grams of food with some type of liquid mixed in. One group had 8 drops of juvenile hormone mimic mixed in with the 10g of food. The other group had 8 drops of water mixed with the 10g of food. Each caterpillars food was replaced every 2 days, and the weight of the caterpillars was measured and recorded daily for fourteen days using a standard lab scale. The average rate of change for each data set was then found and compared using a 2 sample t-test and 2-tailed p-value to compare control and experimental groups. 
+
+
+Results:
+The mean rate of weight gain for the control group was 0.3702g and the mean rate of weight gain for the experimental group was 0.9400g, as seen in figure 1. The standard deviation for the experimental group was 0.3266 and the standard deviation for the experimental group was 0.1599, these values are also represented in figure 1. A two-sample t-test was used to analyze the results, obtaining a 2 tailed p-value of 0.0202. When observing the caterpillars there were some oddities seen throughout, though most occurred within the control group. One of the caterpillars in the control group died on day 9, and another began to pupate on day 11. Overall the caterpillars in the experimental group seemed to be more active. 
+
+Discussion:
+The null hypothesis, that Juvenile hormone would have no effect on the weight of the Manduca sexta caterpillar was rejected as there was a statistically significant difference in the change in weight of each group. This being said, the caterpillars that were given high levels of juvenile hormone did not maintain a lower weight as hypothesized, in fact, they were substantially larger than those that were not given the hormone mimic. This indicates that the increase in juvenile hormone levels does not decrease weight gain, but increases it. The most likely reason for this is that Juvenile hormone is normally present during larval life to allow growth and progression from one stage to the next until the larva attains a proper size for metamorphosis [Riddiford: 2003].  Since the hormone levels were so high the caterpillars likely never reached the impulse point giving the signal that they had obtained the needed nutrition, and thus continued to eat [Nijhout: 1974]. This supports the idea that hormones work together to signal the molting process, as the levels of juvenile hormone were not where they should be to produce the signal for transition to the next larval stage. By altering the level of one hormone, the entire process was thrown off as the proper signals were not being sent. Through this the true importance of hormones to the overall function and survival of organisms becomes apparent. Hormones send messages through the body signaling the release of different hormones and other chemicals that lead to growth and homeostasis. Through this experiment, we can see that, in altering the levels of one hormone, the entire process of life is affected. In further research, we can assess the effects of altering the levels of other hormones and see whether they produce positive or negative effects. In this research, it could be found that altering the levels of specific hormones in organisms is beneficial to survival, and there could be some potential for a cure to certain diseases. Understanding the effects of hormones on the development of different organisms could further our understanding of the way in which different parts of the body communicate with each other, and thus how organisms maintain homeostasis.
+
+Literature Cited:
+1. Nijhout HF & Williams CM. 1974. Control of moulting and metamorphosis in the tobacco hornworm, Manduca sexta (L.): growth of the last-instar larva and the decision to pupate. Journal of Experimental Biology, 61(2), 481-491.
+
+2. Riddiford LM, Hiruma K, Zhou X, & Nelson CA. 2003. Insights into the molecular basis of the hormonal control of molting and metamorphosis from Manduca sexta and Drosophila melanogaster. Insect biochemistry and molecular biology, 33(12), 1327-1338.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-12+at+12.59.18+PM.png&Size=35398&Type=image%2Fpng&F=F_2YrWF3oWtjDo2X2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average rate of weight gain for caterpillar groups showing standard deviation*************************************************************************
+
+
+

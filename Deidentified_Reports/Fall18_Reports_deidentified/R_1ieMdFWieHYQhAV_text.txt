@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-29 13:33:00
+Author of this lab report is: Std_Inp8958A
+ID: R_1ieMdFWieHYQhAV
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effect of Caffeine on Nerve Twitches in the Gastrocnemius Muscle of Rana pipiens
+
+Abstract:
+Abstract: Skeletal muscles are controlled by motor neurons that extend into the muscle to form neuromuscular junctions. When nerve impulses arrive at the neuromuscular junction it sets off a stream of events, called an action potential, that eventually stimulates the release of calcium from the sarcoplasmic reticulum which activates a contractile mechanism in the muscle fiber, causing the skeletal muscle to shorten or contract. This experiment tested the change in the V2-V1 value (amplitude) after 0.1mm of caffeine was injected into the gastrocnemius muscle of a frog leg. I hypothesized that injecting caffeine will cause an increase of the V2-V1 value. To conduct this experiment, my lab group used 3 different frog legs and tested each one, first as the control group, and then second as the experimental group. The control group received 5 shocks 0.5V above threshold and the experimental group received 5 shocks 0.5V above threshold after it had been injected with caffeine. My hypothesis was statistically supported from the findings of this experiment (P = 0.003). The data gathered that the amplitude of the contraction of muscle is greater after there has been an injection of caffeine. 
+
+Introduction:
+Introduction: Skeletal muscles consists of thousands of myofibers, the cells of muscle, which are formed by fused aggregates of cells. These muscles contain many motor neurons within them that extend into the skeletal muscle and branch out to reach myofibers at points called neuromuscular junctions. When nerve impulses arrive at neuromuscular junctions, an action potential occurs leading to the release of calcium from the sarcoplasmic reticulum. This release of calcium then turns on the contractile mechanism in the skeletal muscle which then causes the physical reaction of a twitch or contraction in the muscle through a process known as excitation-contraction coupling. There have been many experiments done in the past to test neuromuscular control in muscles of a frog leg by testing the twitch in a muscle by using a myogram. For example, blocking the potassium current using a voltage-clamp technique in the sartorius muscles of a frog leg makes it unlikely that contraction will occur during a twitch [Sanchez: 1978]. Based off of this experiment, we decided to create an experiment that would hopefully cause the opposite result. It has been shown in previous experiments that caffeine can cause a twitch in the skeletal muscle of frogs at a low dosage and a contraction at a high dose [Isaacson:1967]. My lab group hypothesized that injecting caffeine into the gastrocnemius muscle of a frog, Rana pipiens, will increase the V2-V1 (amplitude) of the twitch.  
+
+Materials and Methods:
+Methods: Place one of the three Rana pipiens legs in the dissecting pan. Pull the skin at the top of the leg down towards the foot to remove it. Moisten the skinned leg with Ringer’s solution to keep it from drying out. Separate the sciatic nerve from the connective tissue. Detach the gastrocnemius muscle at the Achilles tendon by cutting towards the toes at the Achilles tendon. Tie a loop of string to the junction between the Achilles tendon and the gastrocnemius muscle. Cut off excess string. Suspend the gastrocnemius muscle at 90 degrees to the dissecting tray by hanging it off of the force transducer using the loop of string tied to the leg. Adjust the force transducer so the leg is not too high or too low to the ground. Use pins to secure the leg across the tibia bone and muscle and pin around the femur bone in order to immobilize the gastrocnemius muscle. It is important to not put a pin through the gastrocnemius muscle. Use the precision tensioner on the fore transducer to put tension in the muscle and string attached to it. Insert stimulation probes into the muscle. Insert the red needle into the upper part of the muscle and the black needle into the lower part of the muscle. Open up the LabScribe program which will deliver shocks and record the muscles response to them. Find the threshold of the muscle by slowly increasing the amplitude of the shocks until an action potential occurs, causing a twitch in the muscle. During the experiment, shock the muscle at 0.5 V over the threshold amplitude. Have 5 trials and shock the muscle at the same amplitude at the same amount at each trail. Measure the V2-V1 for each of the control trials and record results. Use the control 1 muscle as the experiment 1 muscle. Change the muscle from the control into the experimental by injecting 0.1mm of caffeine into the muscle with a syringe. Run the program by shocking the muscle 5 times in order to get a baseline for the muscle. Then, with the program still running, inject 0.1 mm of caffeine into the muscle and shock it 5 times again. Take the V2-V1 values from before injecting caffeine to after injecting caffeine for each trail value. Record results. Follow this same procedure for the remaining two frog legs and record results. 
+
+Results:
+Results: The V2-V1 values from the control group were statistically significantly greater than those of the experimental group (t-stat = 3.25, df = 28, P = 0.003). The values used in the two tailed two sample T-test were the V2-V1 values found in each trial of the experiment. The threshold for the first frog leg equaled 0.5V. The threshold for the second frog leg was 0.4V and the threshold for the third frog leg was 0.3V. The leg would twitch at threshold during the control testing. After 0.1mm of caffeine was injected into the gastrocnemius muscle, the leg would become swollen from the liquid and then would become hard to the touch. In the second experimental leg, the toes of the frog would move up and down after it had been shocked and injected with caffeine. The toes continued to move up and down even after the leg had been disconnected from the force transducer.
+
+Discussion:
+Discussion: My hypothesis, that injecting caffeine into the gastrocnemius muscle of a frog will cause an increase in the V2-V1 value was statistically supported by this experiment (P = 0.003). The results illustrate that in two out of the three frog legs, the leg injected with 0.1 mm of caffeine had a spike in the V2-V1 value. Leg 2 failed to have this said increase in the amplitude that legs 1 and 3 exhibited. This could be due to the slightly higher standard deviation value that leg 2 has (Fig. 1). Overall, the legs exhibited a rapid increase in their measured twitches in the myogram display in LabScribe. The contraction period in the experimental legs was longer and had a more uneven increase in contraction then the control legs. In low concentrations, caffeine effects the frog skeletal muscles by increasing the tension output of a twitch by acting as a twitch potentiators. In higher concentrations, caffeine can cause contracture in the frog’s skeletal muscle [Isaacson: 1967]. This is an important article because it explains the effects of caffeine on the skeletal muscle of frog’s in both high and low concentrations. Although the experiments in this article were done on the Sartorius muscle of a frog, it can be expanded and applied to the gastrocnemius muscle because these are both considered skeletal muscles. High levels of caffeine producing extended contractions in frog skeletal muscle is an important finding because it explains why tetanus occurred in the frog leg’s that were tested. After being injected with caffeine, the gastrocnemius muscle became hard to the touch, as if it was being continually contracted. A possible source of error in this lab is that my lab group incorrectly determines the threshold for each muscle, and therefore, tested the leg at the wrong amplitude. This could explain why the experimental testing on Frog Leg #2 did not increase from the control value. In future experiments, it would be interesting to inject other substances and/or chemicals into the gastrocnemius muscle and see if any mimic the leg’s reaction to an injection of caffeine. 
+
+Literature Cited:
+Literature Cited: 
+1.	Isaacson A, Sandow A. 1967. Quinine and Caffeine Effects on Ca Movements in Frog Sartorius Muscle.  Journal of General Physiology. 50(8), 2109.
+2.	Sanchez JA, Stefani E. 1978. Inward calcium current in twitch muscle fibres of the frog. The Journal of Physiology. 283(1).
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-28+at+2.09.44+PM.png&Size=63033&Type=image%2Fpng&F=F_3HhpBQMWcyWLL3U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph represents the average amplitude of the trials in control and experimental legs. The standard deviation of each average is included. The two sample T-test determined that the control group was significantly different from the experimental group (t-stat = 3.25, df = 28, P = 0.003).*************************************************************************
+
+
+

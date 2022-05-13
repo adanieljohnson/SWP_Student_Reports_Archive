@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 00:10:50
+Author of this lab report is: Std_tQX5pXab
+ID: R_3pgx1b6779MgFXF
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The Effects of Lidocaine on the Threshold of Muscle Contraction of the Rana pipiens
+
+Abstract:
+In this experiment we determined how the injection of lidocaine, a sodium blocker, would affect the threshold of the muscle contraction of the gastrocnemius muscle of the Rana pipien. By injecting a sodium blocker into the muscle of the Rana pipien we are blocking the action potential which will cause the muscle to contract. We were given three frog legs which we used to determine the threshold before and after the injection of lidocaine. Once we determined the minimum threshold without the lidocaine we injected each leg with lidocaine and waited for a few minutes to find the minimum threshold again. We used a one tailed paired t-test to determine the statistical significance of our data. After running the t-test on the data from our experiment it can be determined that there is a statistical significance between a higher threshold and the injection of the sodium channel blocker lidocaine.
+
+Introduction:
+In this lab we examined the response of the gastrocnemius muscle and sciatic nerve of the Rana pipien to a stimulus with and without the addition of Lidocaine which blocks the sodium channels in the muscle. To create a contraction in any muscle there first has to be an electrical impulse that reaches neuromuscular junction. When the impulse arrives it stimulates the release of acetylcholine (ACh) which then binds to a receptor to open the sodium channels which generates the action potential. The action potential spreads signaling the release of calcium which causes the muscle to contract [Johnson,2018]. By blocking the sodium channel, the depolarization of the action potential is blocked therefore, the threshold should be increased. A sodium blocker is commonly used in the form of lidocaine as a local anesthetic to numb a certain area. Sodium blockers are often used in dentistry when parts of the mouth needed to be numbed. For this lab we are testing the effects of lidocaine on the gastrocnemius muscle and the sciatic nerve and the response threshold of a frog leg. Similar studies have shown that by inhibiting sodium channels one also lowers the excitability of the muscle [Binshtok, et al., 2007]. We hypothesize that by inserting 0.1mL of 25 mMol of lidocaine into the gastrocnemius muscle of the Rana pipien the threshold will increase in the muscle.
+
+Materials and Methods:
+Obtain three (3) frog legs and prepare them by using forceps to remove the skin. Then separate the gastrocnemius muscle and free the sciatic nerve from the connective tissue. Lay silver thread across the sciatic nerve and make sure they are not touching, this will be used to measure the response to the stimulus. Measure the minimum threshold three times before injecting the gastrocnemius muscle with 0.1 mL of 25 mMol lidocaine hold a few drops to sprinkle over the sciatic nerve. Find the minimum threshold after waiting eight (8) minutes for the chemical to take place. Repeat the process over again with the second and third frog legs. Use a paired one- tailed t-test to compare the frog legs response before and after they were injected with lidocaine
+
+Results:
+When doing the experiment, the threshold was determined to be 0.075 V, 0.08 V, and 0.086 V for the respective 3 frog legs before lidocaine was injected into the muscle. After the injection of lidocaine and a waiting period of 8 minutes to five the chemical time to take effect the threshold was measured again and was 0.3 V, 0.3 V, and 0.152 V respectively. Figure 1 depicts the average of both the control and treatment groups with a standard deviation of +/- 0.08. Completing a paired t-test show the results to value 0.0412 for p. In the case of this experiment there were 2 degrees of freedom which means for a one-tailed paired t-test our t-table value is 2.920 which is larger than the calculated t-value of -3.26. The biggest trend in our results show that there was an increase of threshold once lidocaine was added.
+
+Discussion:
+Our results gave us a p-value of 0.0412 which is less than .05 which makes our results statistically significant. Since our p-value is less than 0.05 we can accept our alternate hypothesis and say there is enough statistical evidence to say that the addition of 0.1 mL of 25 mMol of lidocaine increases the threshold of the muscle contraction in the Rana pipien. The main reason we used a one-tailed t-test over a two-tailed t-test is because we were testing to see if our treatment group’s threshold was significantly greater than the control group. Our results support our alternate hypothesis as shown in Figure 1 since the threshold of the treatment group is much higher than that of the control group. The reason the thresholds of the treatment group is higher than that of the control is because lidocaine blocks the opening of sodium channels which therefore blocks the depolarization of the action potential, which causes the threshold to increase. The results our experiment also support the findings of other studies. When testing how sodium channel blockers effect inhibition of nociceptors (a sensory receptor for painful stimuli) a similar study was able to determine that by blocking sodium channels you also block the excitability or action potential of all neurons [Binshtok, et al., 2007]. Our experiment is similar to the one conducted by Binshtok because both studies are testing the effects of drugs that act as sodium blocker. While in our experiment we tested how lidocaine affect the threshold of the muscle contraction Binshtok tested the possibility of selectively blocking the excitability of primary sensory nociceptor (pain-sensing) neurons by introducing the charged, membrane-impermeant lidocaine derivative [Binshtok, et al., 2007]. As out results show that the threshold would increase after the sodium channel is blocked by the lidocaine our experiment agrees with the previous study mentioned. The reason our results matter is because lidocaine is a commonly used drug for dental repair, it is important to understand how it effects the body and why it works to numb the mouth for example when having dental surgery.
+
+Literature Cited:
+Binshtok, Alexander M., et al. “Inhibition of Nociceptors by TRPV1-Mediated Entry of Impermeant Sodium Channel Blockers.” Nature, vol. 449, no. 7162, Oct. 2007, pp. 607–10. www.nature.com, doi:10.1038/nature06191
+Laboratory Manuel, Wake Biology, Edition Ver. 18.1, updated 1/5/2018
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-09+at+10.16.50+PM.png&Size=22599&Type=image%2Fpng&F=F_YWBU3zmYurHKZRT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mean threshold amplitude injected with lidocaine (experimental group n=3) vs. no injection of lidocaine (control group, n=3). Error bars represent +/- 0.08. T-Test did show a statistical significance in the data collected as the p-vale of the one-tailed paired t-test equaled 0.0412 and the calculated t-value (-3.23) was lower than the value listed in the t-table (2.920) 
+
+*************************************************************************

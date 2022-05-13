@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-19 16:43:53
+Author of this lab report is: Std_Cpijyua9
+ID: R_30uG5OEy29EqXKv
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Novocain Injections in Gastrocnemius Muscle of Raina pipiens Significantly Affects Voltage Response
+
+Abstract:
+Novocain is a synthetic drug often used in the medical industry to dull pain. It does this by blocking sodium ion channels which stop the membrane from depolarizing, which stops an action potential from being created or continued. By using Northern Leopard, Raina pipiens, frog legs as a model to study if Novocain effectively blocks muscle response, we found that it does significantly affect the muscles response, in amperes, after being shocked by controlled action potentials. Novocain demonstrates how some toxins, like Tetrodotoxin, are effective. They disallow the membrane from depolarizing and in turn completely paralyze or even kill their prey.  
+
+Introduction:
+Northern Leopard frogs, Raina pipiens, are ideal models to measure how muscle responses are affected by different chemicals, as they have large Gastrocnemius muscles and Sciatic nerves, which allow for easy measurements. In this experiment we are measuring our dependent variable, muscle response (amps), by producing artificially controlled action potentials (volts). We are using Novocain as a treatment to see how the Gastrocnemius muscle response changes, due to the chemical’s effects. Our hypothesis is that the Novocain will decrease the voltage response in the muscle, because Novocain is a sodium channel blocker. The amount of sodium released from an impulse, with Novocain, will be lower than without Novocain, because Novacain produces a weaker response as the Sodium ions cannot diffuse through the membrane as quickly as normal, but the diffusion of potassium is not affected. The Potassium will rush out of the cell before all the Sodium ion have entered, as they are delayed, lowering the amplitude of the response. 
+Novocain is a good substitute for studying toxins that block Sodium channels, like tetrodotoxin, which comes from the order Tetraodontiformes which includes pufferfish, one of the oldest known poisons [Hwang: 2007]. This class of toxins can similarly block sodium channels while leaving the potassium ion gates intact [Narahashi: 1964]. By using Novocain which is much safer than the tetrodotoxin, we can effectively study the mechanism of sodium ion gate blockage without putting ourselves at risk.  
+
+
+Materials and Methods:
+Three R. pipiens frog legs were taken and degloved to expose the Gastrocnemius muscles. The sciatic nerve was freed from the muscle and then attached to LabScribe software through an electrical conduit to measure voltage response to the nerve impulse. Measurements were recorded for the threshold potential of each Gastrocnemius muscle. Then to make certain that a full response from the muscle was measured, the voltage stimulus was moved up .1 volts for each of the distinct thresholds for the each of the Gastrocnemius muscles. Each muscle was then shocked three times, .1 volts above the threshold potential, and the response, measured in amps, was recorded for control.  Novocain was then injected into each of the frog legs. We waited approximately three minutes before measurements were recorded for voltage response from the gastrocnemius, again from impulses .1 volts above threshold. We then used a paired t-test to compare whether the Novocain significantly affected the voltage response from the gastrocnemius muscle or not. 
+
+Results:
+The average response, in Amperes, produced by the R. pipiens was .203 amps before the Novocain injection, and .074 was the average amperage produce after the Novocain injection. The average standard deviation for the control group was .0441, while the average standard deviation for the treatment group was .0553. Using a paired T-test, the mean response in amps of the control group was significant compared to the mean response in amps of the Novocain injected group (T-stat=4.45, df=2, P=.047).
+
+Discussion:
+From the results of this experiment, we fail to reject our hypothesis, as the difference between the control muscle response was significantly different to the muscle response from the muscles after being injected with Novocain, P=.047. This supports the idea that Novocain is successful at blocking sodium ion channels and slowing the depolarization of the membrane, which results in a lower muscle response. This means that possibly if enough of the Novocain is injected it could completely stop any muscle response from happening. This would explain why it would be advantageous for organisms to evolve to possess sodium blocking toxins or venoms. It could be either used as a defense mechanism to slow down predators as the prey escapes, or to paralyze the prey, so less energy is required to chase it down before ingestion. 
+In future experiments, it would be interesting to see how strong of a dose of Novocain is required before there is no response in the muscle. Or to test if there is a certain threshold, which once passed, has no more negative effect on the Gastrocnemius muscle. It has been shown in previous studies [Vornovitskii: 1966], that calcium levels in the Sartorius muscle in Rana ridibunda, commonly called the Marsh Frog, rise with increasing levels of Novocain. It would be interesting to see how the levels of both ions would change if calcium ion channels like the Ryanodine receptor was blocked before Novocain was injected. 
+
+
+Literature Cited:
+1.	Narahashi, Moore, Scott. 1964. Tetrodotoxin blockage of sodium conductance increase in lobster giant axons. Journal of General Physiology. 154.
+2.	Hwang, Noguchi. 2007. Tetrodotoxin poisoning. Advances in Food and Nutrition Research. 52. 
+3.	Vornovitskii. 1966. Interactions between calcium ion and novocain on the skeletal muscle fiber membrane. Bulletin of Experimental Biology and Medicine. 62: 1089-1092.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.JPG&Size=24786&Type=image%2Fjpeg&F=F_Agkoq5QSb7sLBM5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Response of R. pipiens Gastrocnemius Muscles to Voltage Stimulus .1v Above Threshold*************************************************************************
+
+
+

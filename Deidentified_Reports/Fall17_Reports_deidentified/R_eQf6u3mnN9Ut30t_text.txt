@@ -1,0 +1,53 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-03 13:24:14
+Author of this lab report is: Std_nzLKNTDO
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Diuron Herbicide and Cold Temperatures do not Jointly Inhibit Photosynthesis in Spinach Plants
+
+Abstract:
+Doing background research on how agriculture is regulated in colder environments, our group wondered if there was need for less, additional or no herbicides in some of their growing seasons. After reading research regarding the joint inhibition of photosynthesis in seagrass by extreme temperatures and herbicides, we set out to find the effects of cold temperatures on the photosynthetic rates of an agricultural plant, spinach. Specifically, whether cold temperatures would further deter photosynthesis in spinach plants that were already under the treatment of herbicides. Our team hypothesized that the two factors combined, freezing temperatures with a strong herbicide, would act to jointly deter photosynthesis more so than either would do individually.  Grinding spinach chloroplasts into a solution we were able to track their photosynthetic rates through the addition of DCPIP. Their rates of photosynthesis could be seen through the reduction of DCPIP as it made the solution clear. Following the collection of our data, we determined through a two-tailed t-test that our results were insignificant , with a p-value of .1178. We believe that these results can be attributed to a short observation time and that spinach plants are particularly effective at adapting to colder temperatures
+
+Introduction:
+Plants are immobile, without the ability to consume other organisms they have developed the unique process of photosynthesis, where they can create energy utilizing rays from the sun. Using photons from the sun to excite a free electron, originally cleaved from water, they trigger a pathway that ultimately creates a proton gradient that ATP Synthase uses to catalyze the reaction of ADP to ATP, a usable energy source for the cell [Lambers: 2008].  Multiple factors can affect this process in plants. Herbicides are chemicals used to interfere with photosynthesis, usually by interfering with the reduction pathways. Temperature effects photosynthesis during the light-independent phases, as temperatures that are too high or too low interfere with enzyme activity.  In a recent 2017 study, Adam D. Wilkinson concluded that there were “significant interactions between the effects of temperature and diuron (herbicide), with a majority of the combined stresses causing sub-additive effects (on photosynthesis).” Wilkinson’s study was done to examine how improving water quality could help seagrass during extreme weather events, however our group wanted to test these findings with agricultural implications. Knowing that herbicides and cold weather could jointly inhibit seaweed, our group wanted to test how these joint factors could relate to common agricultural plants, specifically with spinach. Based off of Wilkinson’s findings, we hypothesized that as spinach plant were exposed to a herbicide while simultaneously under the duress of colder temperatures, the two factors would have a join detrimental effect on the rate of photosynthesis. Spinach was chosen as our subject as its chloroplast is easy to isolate for testing, and it is a commonly grown agricultural plant.  
+
+Materials and Methods:
+This experiment requires 4 large spinach leaves , Distilled water, 10mL 130mM DCPIP 12mL Reaction buffer, and 8mL Herbicide Diuron. To begin we removed the veins from four large spinach leaves. Using a mortar and pestle, we ground the spinach leaves into a solution of 10mL cold grinding buffer (400mM sucrose in Tricine buffer, pH 8.0)   until the paste was thick and the leaves had been thoroughly ground in. This paste was added to another 10mL of grinding buffers before being strained through cheesecloth into a chilled beaker. The now filtered green liquid was put into a 50mL centrifuge tube and spun at 200 x G for 3 minutes  at 4 C. We transferred the contents of this tube into another 50mL centrifuge tube, leaving the debris at the bottom that had settled out, and spun this second tube again at 1,000 x G for 10 minutes at 4 C. We added 20mL of grinding buffer  to this solution and suspended it. We prepared 8 test tubes, each with 6mL of water, 2mL of DCPIP, 2mL of the reaction buffer and 1mL of the herbicide Diuron. In addition, a blank solution was prepared using 8mL of water and 2mL of the reaction buffer. When our group was ready to begin testing, 100uL of our green, suspended solution was added to each test tube. Four of the test tubes were placed in a bucket of ice under a light for the duration of their monitoring, while the other 4 test tubes sat under the light in room temperature. We recorded the initial absorbance of each test tube using the spectrophotometry and proceeded to record the absorbance of each test tube at every ten-minute interval, for a thirty-minute period. Following the recording of this data, a two-tailed T-Test was used to analyze the data for significance.  
+
+Results:
+No obvious trends were seen from our data, as both the room temperature and chilled chloroplasts showed similar absorbance rates. Overall, we saw a 0.8%  change in absorbance of the chloroplast solution containing the herbicide and a 1.3% change in absorbance of the chloroplast solution that was subject to cold temperatures along with the herbicide. For the chloroplast solution that in room temperature, it started out with an average absorbance of .3915 which rose .3975 and .4005 in subsequent 10-minute waiting periods before reaching .38825 at the end of the thirty-minute period. Meanwhile, the solution in the cold temperature only rose during the first ten minutes from .402 to .403 before lowering to .398 and .396 at the twenty and thirty-minute marks. For the two solutions, the room temperature chloroplasts had an average absorbance of .3945 while the chloroplast solution in freezing temperatures averaged .4002. For this experiment we found a P value of .117 using a two-tailed t-test, which was above the predetermined alpha value of .05 
+
+Discussion:
+This study confirmed   a null hypothesis, that the cold temperatures would not combine with the herbicide to further deter photosynthetic rates, the opposite of what our group anticipated. Although both solutions showed very slow rates of photosynthesis, the data went against our hypothesis as photosynthesis wasn’t jointly inhibited.  This was proven by an insignificant P value of .1178, well above the desired value of .05 or less. The negative effects of low temperatures is well documented and even highlighted in studies as recent as Dr. Huggins documenting the negative impact on tree metabolism in freezing temperatures [Huggins: 2017] This made our results somewhat surprising. However, in another study specific to spinach, it was found that in the short-run cold temperatures had little effect on chloroplast activity [Ito: 2013] With these conflicting reports it’s difficult to exactly determine why we gathered the results we did, as other studies had supported our hypothesis. It’s possible that these studies show that the grounds for our hypothesis were not applicable for spinach plants. Additional research, such as that by Dr. Yamori, have shown that RuBP levels and carboxylation rates in the spinach actually leveled off after time to acclimate with the temperature difference [Yamori, 2005.]  This provides evidence that our spinach should have been affected by the temperature originally, even if it would adapt to the conditions at some point. It’s possible that our time limit in which we examined the specimens wasn’t long enough to observe this, as during the half hour the absorbance rates were very varied without a clear, linear trend. It’s also possible that we failed to truly chill the samples as it was difficult to completely engulf them in ice due to the orientation of the bucket. To improve this study in the future, we  would want to consider increasing the time the samples are surveyed for to an hour, doubling the length in time. Additionally, instead of trying to place them in rocky ice I believe the samples would sit better in a fridge or freezer if a light could still be shown on them this way. For future study, this experiment is worth evaluating as it can tell us the effectiveness of herbicides in different temperatures. Information such as that will become increasingly more important as we enter an age of global, year-round agriculture.  
+
+Literature Cited:
+1. Ayana Ito, Hiroshi Shimizu, Ryosuke Hiroki, Hiroshi Nakashima, Juro Miyasaka, Katsuaki Ohdoi, Effect of Acclimation of Root Area to Low Temperature on Nutritional Quality of Spinach, IFAC Proceedings Volumes,Volume 46, Issue 4, 2013, 2. T. D. Huggins, S. Mohammed, P. Sengodon, A. M. H. Ibrahim, M. Tilley and D. B. Hays, Changes in leaf epicuticular wax load and its effect on leaf temperature and physiological traits in wheat cultivars (Triticum aestivum L.) exposed to high temperatures during anthesis, Journal of Agronomy and Crop Science, 204, 1, (49-61), (2017). 3. Lambers H., Chapin F.S., Pons T.L. (2008) Photosynthesis. In: Plant Physiological Ecology. Springer, New York, NY 4. Wataru Yamori, Photosynthetic response to fluctuating environments and photoprotective strategies under abiotic stress, Journal of Plant Research, 129, 2005 5. Wilkinson, Adam D. et al. “Combined Effects of Temperature and the Herbicide Diuron on Photosystem II Activity of the Tropical Seagrass Halophila Ovalis.” Scientific Reports 7 (2017): 45404. PMC. Web. 18 Mar. 2018.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=New+Chloroplast+Graph.PNG&Size=18810&Type=image%2Fpng&F=F_22Gtq0315TA66k8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Figure 1 is graphs the average absorbance of the two spinach chloroplast solutions. The average absorbance of the solution in room temperature conditions was .3945 while the average absorbance of the solution in freezing temperatures was .4002.  Standard error bars shown represent standard error of the mean. 
+
+*************************************************************************

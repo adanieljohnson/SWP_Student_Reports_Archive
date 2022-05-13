@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-11 17:00:13
+Author of this lab report is: Std_AcwCp8dU
+ID: R_2dyfD0F08dJzcuq
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: Effect of Different Wavelengths of Light on Photosynthetic Activity
+
+Abstract:
+Redox reactions involved in photosynthesis can be affected by a variety of environmental factors. One of these potential factors is the wavelength of light that the plant is exposed to. This lead us to question: Do different wavelengths of light affect photosynthetic activity? We created one blank sample, samples of chloroplasts exposed to white light, samples of chloroplasts exposed to red light, and samples of chloroplasts exposed to green light as well as samples of chloroplasts exposed to the dark and samples of no chloroplasts exposed to white light. Overall, white light had the strongest effect on photosynthetic activity, followed by green and red light. We concluded that photosynthetic activity can be affected by different wavelengths of light.
+
+
+Introduction:
+All living organisms extract their energy from one or more external sources, either directly or indirectly. Plants capture and store energy from the sun through Photosynthesis (Johnson, 2016). Photosynthesis involves multiple redox reactions in which the captured light stored as energy in electrons is transferred from one molecular complex to another (Johnson, 2016). These complexes use the energy from moving electrons to pump protons to generate a proton gradient across a lipid bilayer, and this gradient is used to drive ATP synthase which synthesizes ATP (Johnson 2016). All of these components are contained in specialized organelles known as chloroplasts (Johnson 2016).  Like many other reactions involving the production of energy, redox reactions can be affected by a variety of environmental factors (Johnson 2016). One of these potential factors is the wavelength of light that the plant is exposed to. Different chloroplasts absorb different wavelengths of light. Green plants utilize chlorophylls a and b and a variety of carotenoids to capture light for photosynthesis (Johkan et al., 2011). Chlorophylls a and b reflect green light rather than absorb it, which is why these plants appear green. Plants are normally grown under sunlight or a combination of artificial red and blue light (Johkan et al., 2011). The percent absorption of blue or red light is about 90% while that of green is around 70-80% (Johkan et al., 2011). Another recent study showed results which demonstrated “that supplemental light quality can be strategically used to enhance the nutritional value and growth of lettuce plants grown under RBW LED lights”(Lin, 2013). At low intensities, different wavelengths of light such as green light are usually unavailable for plant growth, but at high intensities many of its effects could be shown. This leads us to question: Do different wavelengths of light affect Photosynthetic Activity? We hypothesize that if spinach leaves are exposed to different wavelengths of light, then there will be a significant difference in their absorbance measurements.  
+
+
+Materials and Methods:
+We packed a mortar and pestle and cooled it while removing the large central veins from 4 spinach leaves. Adding 10 mL of grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0), we grinded the spinach leaves to a thick paste. We then added 10 mL more and mixed it to a volume of green slurry. Using a centrifuge, we spun 3 samples with filtered liquid, one at 200 xG, and two at 1,000 G for less than 10 minutes each at 4 degrees Celsius. After completing each spin, we would pour the supernatant in the next sample, leaving the remaining pellet at the bottom of the sample. We also added 20 mL of grinding buffer to the pellet in the second sample and transferred 200 microliters of the resuspended pellet into another tube. For the next part of the experiment, we used the sample with the highest chloroplast density from the previous experiment and created one blank sample, 3 samples of chloroplasts exposed to white light, 3 samples of chloroplasts exposed to red light, 3 samples of chloroplasts exposed to green light as well as 3 samples of chloroplasts exposed to the dark and 3 samples of no chloroplasts exposed to white light. The blank sample consisted of 8 mL of water and 2 mL of 100 mM phosphate at a pH of 6.5. The samples with no chloroplasts included 6 mL of water, 2 mL of 130 mM DCIP and 2 mL of 100 mM phosphate at a pH 6.5. The samples that consisted of chloroplasts included 6 mL of water, 2 mL 130 DCIP, and 2 mL of 100 mM phosphate at a pH of 6.5.   Once ready to begin the assay, we added 100 microliters of the enriched chloroplasts to the samples. After recording the absorbances with a spectrophotometer set to 600 nm, we placed the sample under their perspective condition for intervals of 10 minutes, and recorded change in absorbances. We used a paired t test to statistically test the data.
+
+
+Results:
+White light showed the largest decrease in absorbance. Red Light showed less of an effect than green light, but both appear to have a similar effect. The samples of no chloroplasts and chloroplasts exposed to the dark were similar, as both had positive percent changes. Overall, white light had the strongest effect on photosynthetic activity, followed by green and red light. The p-value was .042223 for the comparison between white light and dark light, serving as a template that the experiment was done properly. There were significant differences between green light and white with a p value of 0.034 and a significant difference between white light and red light with a p value of 0.0212. The significant values are marked by stars on the graph in Figure 1.  It appeared that white light was absorbed the most as it had the largest margin of percent change. Another major trend to note going forward is that white light, green light and red light all absorb light to some extent, and red and green absorb light very similarly. There was no significant difference found between red and green light as they had a p value of 0.044. Their points also followed in a similar manner and were adjacent to each other. 
+
+
+Discussion:
+Based off our p-value of .042223 which is statistically significant as well as the results in Figure 1, we can successfully answer our research question, concluding that different wavelengths do affect photosynthetic activity.  Based off of the data in figure 1, we were able to support our hypothesis that that if spinach leaves are exposed to different wavelengths of light, then there will be a significant difference in their absorbance measurements.  It appears that as wavelength of light increases, its activity will decrease. For example, green light is at a lower wavelength than red light but according to Figure 1 had less of an absorbance in its samples than red light which means it displays more photosynthetic activity. One possible explanation could be that shorter wavelengths are emitting more energy for the redox reactions involved in photosynthesis. Another possible explanation could be that different colored lights trigger different responses within the plant. For example, blue/red light provide target energy to pigments involved in photosynthetic CO2 fixation and basic metabolism (Metallo et al., 2018) while Green light targets plant morphology and physiology, including leaf growth and stem elongation (Johkan et al., 2011). If this is the case, it would be beneficial for greenhouses to use a combination of different wavelengths of light to ensure efficient growth of all aspects of the plant. There is currently not much data regarding plant growth exposed to solely green light (Metallo et al., 2018) so a future study to build off of this experiment should focus on how photosynthetic activity is affected by exposing the plant to different intensities of green light. In the experiment that we conducted, there was not any significant variation in the intensity of light, as they were all high intensity and placed above the chloroplast samples. Green light at a high intensity had the second largest effect on the chloroplast sample; this can be built off of by exposing the samples to different intensities of green light in the next experiment to obtain more variety in the results. 
+
+
+Literature Cited:
+Johkan M, Shoji K, Goto F, Hahida S, Yoshihara T. Effect of green light wavelength and intensity on photomorphogenesis and photosynthesis in Lactuca sativa. Environmental and Experimental Botany. 75: 128-133 
+
+Metallo RM, Kopsell DA, Sams CE, Bumgarner NR. Influence of blue/red vs. white LED light treatments on biomass, shoot morphology, and quality parameters of hydroponically grown kale. Scientia Horticulturae. 235: 189-197
+
+Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+
+Lin KH, Huang MY, Huang WD, Hsu MH, Yang ZW, Yang CM. The effects of red, blue, and white light-emitting diodes on the growth, development, and edible quality of hydroponically grown lettuce (Lactuca sativaL. var. capitata). Scientia Horticulturae. 150: 86-91
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-11+at+4.52.33+PM.png&Size=99165&Type=image%2Fpng&F=F_12mtczSln7bAxSm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+: Figure 1: Average % Change of Each sample every 10 min in over 30 minute span*************************************************************************
+
+
+

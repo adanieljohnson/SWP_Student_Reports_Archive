@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-28 16:17:34
+Author of this lab report is: Std_RBEFVZFq
+ID: R_1Io1yRVj9MwMN7d
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: pH effect on photosystem II activity in collard greens 
+
+Abstract:
+The environment is constantly changing as humans continue to develop throughout the world. These environmental changes can cause detrimental effects on plant growth. One important environmental change is the acidification of soil due to the effects of acid rain. This acidification in many areas of the world can cause a decrease in photosynthetic activity for many plants. Collard greens, a common food, are affected by changes in pH. Photosystem II activity was measured in chloroplasts from collard greens at various pH. Photosystem II activity in collard greens was decreased when the pH was above 7. There were also slight decreases in photosystem II activity when the pH was below 6. 
+
+Introduction:
+Pollution is an ever growing problem in today’s society. Burning fossil fuels causes the release of sulfur and nitrogen oxides into the atmosphere. This has greatly contributed to a sharp increase in the acidity of rain over the past 10 years [Dove: 2006]. As pollution continues to threaten our world today, it is important to understand its detrimental effects when looking to the future. Specifically acid rain, has a large impact on plant life. In past experiments, maximum rates of electron transport activity where reported around pH 8.5 for Photosystem II and 8.9 for Photosystem I [Thaler: 1972]. When the pH is lowered (more acidic) the functions of Photosystem I and II shows decreases in certain vegetation. For collard greens, their optimal pH is from 6 to 6.5, indicating that collard greens respond better to mildly acidic environments than basic ones [Sanders: 2001]. Because plants have various pH tolerances, changes in pH can cause conformational changes in the tertiary structure which decrease the activity of these photosystems. Photosystem I and II are located predominantly in the leaves of plants within the thylakoid membrane. These light dependent systems utilize an electron transport chain that forces a proton gradient to form across the membrane so that ATP synthase can synthesize ATP molecules. This electron transport requires a good electron carrier molecule, usually NADPH2. In order to measure the activity of photosystem II, DCIP is added causing the Hill reaction. Photosystem II more readily passes electrons to DCIP. DCIP is dark blue when oxidized and clear when reduced [Johnson: 2018].  Using DCIP, absorbances can be recorded using a spectrophotometer. These absorbances are directly related to Photosystem II activity, because photosystem II reduces DCIP, making the solution more clear. pH 7 is being used as a control for this experiment, and all other pH solutions are experimental groups. If the pH is above 7, then photosystem II activity will be reduced in collard greens and DCIP absorbance will not change as much over time. 
+
+Materials and Methods:
+2 large Collard greens were obtained and deveined. The leaves were pureed together using a mortar and pestle along with 10 mL of grinding buffer. After the leaf slurry was created it was strained through 3 layers of cheesecloth into a centrifuge tube labeled A. Tube A was centrifuged at 200 x G for 3 minutes at 4℃. The supernatant was poured into another tube labeled B, which was centrifuged again at 1000 x G  for 10 minutes at 4℃. The supernatant was transferred to another tube. 20 mL of grinding buffer was added to the debris pellet in Tube B, and the pellet was resuspended. 5 mL each of the resuspended pellet were placed into 4 centrifuge tubes. 5 mL of 5, 7, 9, or 11 pH were added to each tube and were left sitting for 10 minutes. The tubes were centrifuged for 10 minutes, then the pellets were resuspended. The Hill reaction was used to measure PS II activity. 2 mL of reaction buffer and 6 mL of water were added to 13 test tubes. 2 additional mL of water were added to tube 1, the Blank. 2 mL of 130 mM DCIP were added to all test tubes excluding the blank. 100 µL of pH 5 reagent was placed into 3 tubes. The same thing was done for pH 7, 9 and 11 in their respective tubes. The absorbances were recorded with the spectrophotometer set at 600nm at time 0. After sitting in light the absorbances were again recorded at times, 10, 20 and 30 minutes. A one-way Anova statistical test was used to determine the statistical validity of the results. 
+
+Results:
+Table 1. showed that all pH’s decreased in absorbance over time. pH 9 and pH 11 decreased at a slower rate than pH 7. In figure 1 the % change over time was depicted. Figure 1 illustrated that pH 9 and pH 11 had a lower increase in % change over time than pH 7 did.  The p-value (0.00086) indicated that the results between the 4 groups was statistically significant in figure 2. pH 7 showed statistical difference from pH 9 and 11. The difference between pH 5 and pH 7 was not statistically significant. 
+
+Discussion:
+The results indicated that the alternate hypothesis is accepted and the null is rejected. When the pH was above 7, Photosystem II activity was significantly decreased as determined by DCIP absorbance. Table 1 indicated that the average absorbances were decreasing over time in all the pH groups, indicating that photosystem II was still active. The results in figure 1 and 2 showed that photosystem II activity was decreased over time in pH 9 and pH 11 solutions when compared to pH 7 (the control). The Anova statistical test was used in order to compare the mean results of all the groups and determine statistical significance between the pH groups. The mean % change of pH 9 and pH 11 was very similar as seen in figure 2. This could potentially indicate that there is a limit to how much pH can reduce photosystem II activity. In the future, an exact pH could be determined at which % change will flatten out. Another important point to recognize was that photosystem II in pH 5 showed lower % change over time as illustrated by figure 1. This indicates that there is likely a maximum acidity level that photosystem II in collard greens can function in. These results are also consistent with previous findings that collard greens grow best in soils with a pH between 6 and 6.5 [Sanders: 2001]. Two possible applications for future research could be determining pH sensitivity in certain plant families. This would allow farmers to adjust for conditions that alter soil pH in order to optimize a plants ability to photosynthesize and grow.
+
+Literature Cited:
+Dove, J. (2006). Student Teacher Understanding of the Greenhouse Effect, Ozone Layer Depletion and Acid Rain.
+Johnson, D. (2018). Cell Biology Lab Manual 
+Sanders, D. (2001). Collards | NC State Extension Publications.  
+Thaler, P. (1972) Change in pH dependence and sequential inhibition of photosynthetic activity in chloroplasts by unsaturated fatty acids. (2003, January 22). 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-28+at+1.58.32+PM.png&Size=155756&Type=image%2Fpng&F=F_d7sQNLT1QOAj5yF
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-28+at+1.59.22+PM.png&Size=145831&Type=image%2Fpng&F=F_yNGqv2UDiXEZrrP
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-28+at+2.00.00+PM.png&Size=102190&Type=image%2Fpng&F=F_1psMAe4sW6omFg2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Table 1. Highlights the average absorbances recorded using a spectrophotometer and the standard deviation of those absorbances. The absorbances were recorded in various pH solutions over a 30 minute time frame so that changes in absorbance were able to be compared to changes in time for pH 5, 7, 9, and 10.  
+
+Figure 1. The pH was varied, with the orange line (pH 7) being the control group at a neutral pH. The percent change of absorbance over time allowed all of the pH’s used in the experiment to be plotted on a graph and visually compared. pH 7 had the highest percent change. pH 9 and pH 11 yielded similar results and had the lowest percent change. All of the lines on the graph showed an increase in percent change as time passed.  
+
+Figure 2. There was a significant difference (0.00086) in the average % change of the four pH groups according to the Anova statistical test. More tests indicated that pH 7 had a mean % change that was significantly higher than both pH 9 and pH 11. No significant differences were found between the other sections. 
+*************************************************************************
+
+
+

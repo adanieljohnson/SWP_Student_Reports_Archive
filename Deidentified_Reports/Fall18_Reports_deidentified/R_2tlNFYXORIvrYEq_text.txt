@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-28 00:35:15
+Author of this lab report is: Std_P5Q2tIHo
+ID: R_2tlNFYXORIvrYEq
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Exposure to caffeine does not significantly increase Physarum polycephalum movement toward food source
+
+Abstract:
+Caffeine serves as a cAMP phosphodiesterase inhibitor within the movement pathway, inhibiting the breakdown of the second messenger cAMP. Physarum polycephalum is an ideal organism for these studies, as they possess signaling pathways comparable to those of humans. It was hypothesized that, with the addition of caffeine to a sample of Physarum, a faster rate of movement would be observed. Methods included the preparation of caffeine-soaked plates with Physarum and food placed at opposite ends; measurement of distance traveled by Physarum during 48 hours was recorded to calculate rate. The average rate of movement was higher for the control plates compared to the caffeine group, but data failed to reach significance (p= 0.345). It was concluded that the constant extension of actin filaments (caused by the inability for cAMP to be broken down), paired with the inability for Physarum to replenish ATP, might have resulted in death in the caffeine group. However, a lower concentration of caffeine solution might be utilized in future studies. Implications of continuing this signaling research would be to better understand the positive and negative effects of caffeine on humans.
+
+Introduction:
+Physarum polycephalum, otherwise known as slime mold, typically inhabits moist environments such as amongst detritus in the soil, where it spends most of its time as a plasmodium. The slime mold is an ideal organism to use in experiments, as its signaling pathways are similar to those in humans; thus, conclusions from Plasmodium signaling studies may be applicable to human cases. Moreover, Physarum may be grown in the laboratory with ease, and it shows a variety of intelligent behaviors. For example, when presented with a stressor such as heat or food shortage, Physarum starts its reproductive cycle [Johnson: 2016]. Additionally, it has been found that Physarum respond to oatmeal flakes (a source of carbohydrates as well as yeast and bacteria) with positive chemotaxis [Carlile: 1970]. Therefore, by starving Physarum polycephalum and placing oatmeal a distance away, it can be motivated to move/grow.
+Movement, or extension of the actin microfilaments, is controlled by a G-protein coupled pathway with cAMP as the second messenger. The effector enzyme, adenylate cyclase, converts ATP into cAMP when activated by the G-protein. cAMP binds to other enzymes in the cell, such as protein kinase A, which then phosphorylate other enzymes. This signaling pathway is halted when cAMP is degraded by phosphodiesterase. Inhibition of phosphodiesterase has a similar effect to increased production of cAMP. Caffeine affects the movement mechanism by working as a cAMP phosphodiesterase inhibitor [Johnson: 2016]. With the inhibition of the enzyme responsible for breaking down cAMP, reuptake of cAMP cannot occur, signaling continues and the cell remains in motion. Another signaling molecule in movement, calcium, was also found to be affected by caffeine. In previous studies with Physarum, caffeine was shown to increase the amount of calcium released by internal stores [von Olenhusen: 1979]. In humans, calcium is released from the sarcoplasmic reticulum and then binds to troponin on the actin filaments so that actin and myosin may interact to generate a muscle contraction. This mechanism is thought to be similar in Physarum; therefore, an increase in free calcium caused by caffeine would result in more actin microfilaments being in the appropriate state to generate movement [Fabiato: 1979]. For these reasons, it is expected that when caffeine is introduced, Physarum will move faster relative to Physarum in neutral conditions.
+
+
+Materials and Methods:
+To begin, five plates containing medium of 2% agar in distilled water were each filled with 5 mL of 20 mM caffeine solution. These plates were allowed to soak for 10 minutes, at which point any solution not absorbed by the gel was poured out. Squares of approximately 1 cm² in area were cut out 1 cm away from one end of the plate; this process was done to the plates treated with caffeine as well as to 5 additional untreated plates. Blocks of agar from a stock Physarum polycephalum plate (with an area of approximately 1 cm²) were then transferred to both groups of plates to fill the holes created in the previous step. Next, one large oatmeal flake was placed at the opposite side of each plate (1 cm away from the edge of the plate). After securing the lids, the plates were placed in black plastic bags and stored in an incubator at 25-27˚C. The distance traveled by the Physarum was measured after 48 hours, and average rate of movement was calculated for both experimental and control plates [Johnson: 2016]. The rates of the two groups were compared by conducting a two-sample t-test.
+
+
+Results:
+After 48 hours of incubation, the distance traveled by Physarum was measured and the respective rates of movement were calculated, the results of which are shown in Figure 1. Although the average rate of movement for the control group was greater than that of the experimental, the two-tailed t-test determined there was no significant difference in rates between the groups (p = 0.345).
+
+
+Discussion:
+It was hypothesized that the addition of caffeine to the water agar medium would result in an increase of the rate of movement of Physarum. The hypothesis may not be accepted, as there was no significant difference in rate between caffeine and control groups.
+In experiments in which sperm were treated with caffeine, cAMP concentrations were found to increase, demonstrating the role of caffeine as a cAMP phosphodiesterase inhibitor. Moreover, these sperm exhibited greater motility, indicating that cAMP phosphodiesterase inhibitors affect the movement mechanism in a positive manner [Lardy: 1971]. The lack of functional cAMP phosphodiesterase to break down cAMP results in the inability to shut off the signaling pathway, and consequently cAMP continues exerting its effects inside the cell. Since cAMP activates protein kinase A, which subsequently phosphorylates other enzymes, signaling is perpetuated and motion of the organism continues [Johnson: 2016].
+In the current experiment involving slime mold, caffeine would keep the actin microfilaments in a constant state of contraction (as cAMP phosphodiesterase can’t work). This would result in constant extension of the actin microfilaments, and the Physarum would use up all the available ATP [Johnson: 2016]. However, Physarum couldn’t replenish ATP since the food source was at the other end of the plate. This might have resulted in death, explaining why the Physarum appeared not to move in three out of five experimental replicates. Moreover, these observations might also be explained by the effects of the large release of calcium caused by caffeine. After binding to the actin microfilaments and changing their conformation, calcium would result in greater movement of Physarum and further depletion of its ATP.
+In future studies, it would be beneficial to perform experiments with a concentration of caffeine solution lower than 20 mM, as this concentration may have exceeded the organism’s threshold for caffeine. When E. coli, another single-celled organism, was exposed to 8 mM caffeine, 30-50% of the sample died, so the 20 mM caffeine solution might have been fatal to Physarum [Grigg: 1968]. In another study with Physarum, exposure to a 15 mM solution of caffeine resulted in increased force output as well as movement [von Olenhusen: 1979]. Therefore, a future study could use this concentration as a starting point. Perhaps in this altered experiment, the lower concentration of caffeine used would result in the hypothesized effects.
+	 Further investigation of caffeine’s effect on movement is a worthwhile endeavor, as Physarum’s signaling pathway is similar to that of humans. Additional experimentation could provide insight into the positive and negative implications of caffeine usage by humans. An observed positive outcome of caffeine has been its use before exercise to increase contractile force of muscles [Tarnopolsky: 2008]. In contrast, however, a growing number of deaths related to excessive intake of energy drinks or coffee has been reported, with the cause of death often described as ventricular fibrillation, or an arrhythmia of the heart due to its inability to contract properly [Avci: 2013]. Thus, supplementary experiments on how caffeine affects signaling events could elucidate the reasons for both positive and negative effects on human physiology.
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+2.	Carlile MJ. 1970. Nutrition and chemotaxis in the myxomycete Physarum polycephalum: the effect of carbohydrates on the plasmodium. Microbiology. 63.2: 221-226.
+3.	von Olenhusen KG, Wohlfarth-Bottermann KE. 1979. Effects of caffeine and D2O on persistence and de novo generation of intrinsic oscillatory contraction automaticity in Physarum. Cell and tissue research. 197.3: 479-499.
+4.	Fabiato A, Fabiato F. 1979. Calcium and cardiac excitation-contraction coupling. Annual review of physiology. 41.1: 473-484.
+5.	Lardy HA, Garbers DL, Lust WD, First NL. 1971. Effects of phosphodiesterase inhibitors and cyclic nucleotides on sperm respiration and motility. Biochemistry. 10.10: 1825-1831.
+6.	Grigg GW. 1968. Caffeine death in Escherichia coli. Molecular and General Genetics. 102.4: 316-335.
+7.	Tarnopolsky MA. 2008. Effect of caffeine on the neuromuscular system- potential as an ergogenic aid. Applied physiology, nutrition, and metabolism. 33.6: 1284-1289.
+8.	Avci S, Ridvan S, Fatih B. 2013. Death of a young man after overuse of energy drink. The American journal of emergency medicine. 31: 1624-e3.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=20473&Type=image%2Fpng&F=F_3DqpmlrD9jTirB0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average rate of movement in mm/hr of Physarum polycephalum for caffeine vs. control groups. Physarum in the control were placed in plates containing water agar, whereas the experimental group was placed in water agar saturated with 20 mM caffeine solution. An oatmeal flake was positioned at the opposite end of each plate, and Physarum movement was measured after 48 hours. Each bar represents the mean rate of movement for 5 replicates. Error bars show 1 standard deviation above and below mean rate values.
+*************************************************************************
+
+
+

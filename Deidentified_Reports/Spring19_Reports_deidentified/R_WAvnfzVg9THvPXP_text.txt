@@ -1,0 +1,86 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-26 01:23:11
+Author of this lab report is: Std_XhvBpSmG
+ID: R_WAvnfzVg9THvPXP
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The effect of pesticides on the photosynthetic capability of the common crop plant Spinacia oleracea
+
+Abstract:
+Photosynthesis is vital to the survival of plant life. Disrupting the fragile highly specialized process would disrupt the energy production at the cellular level and ultimately kill the plant. We tested three common pesticides (Atrazine, Roundup, and Spectracide), to determine if they have an affect on photosynthesis of Spinacia oleracea. We used a DCIP Decolorization assay to test their effects on Photosynthesis and used ANOVA tests to determine if a significant difference between groups existed. The presence of pesticides affected photosynthetic activity (all p-values &gt;.01) negatively, supporting our hypothesis. Our results demonstrated adding pesticides can have negative impacts on crop plants, potentially harming crops. Knowing if/to what extent pesticides can affect crop plants is important in agricultural decisions.
+
+Introduction:
+       All organisms extract their energy from consuming and processing external factors. Cellular Respiration and Photosynthesis are vital to energy production and utilize highly specialized components and steps to create molecular energy efficiently. Photosynthesis has two main processes, any part of which, if disrupted, will ultimately starve the plant of energy and subsequently cause it to die. Light reactions in the thylakoid and thylakoid membrane use photons from the sun in photosystems to excite electrons and subsequently create a photon gradient to then power the production of ATP synthesis. Dark reactions (can also occur in light) essentially use CO2 from the environment to create high energy proton carriers to be used in the Thylakoid. This is a very fragile process and exact mechanisms and components vary between species and environmental factors (Wright: 2001). Pesticides target specific components or structures in this important energy process to effectively disrupt photosynthesis activity in plants. While photosynthesis has specific components, the same general processes are present in all photoautotrophic life. We sought to test if pesticides can have unwanted negative effects on crop plants.
+	We tested three types of pesticides (specifically herbicides), each with different methods of action, to see if and how much they affected the crop plant Spinacia oleracea. We tested the effects of Atrazine, Glyphosate (Roundup), and Diquat (Spectracide) on Spinach. Atrazine inhibits the function of photosystem II (PSII), a vital component of light reactions in the thylakoid membrane. PSII captures energy to excite an electron to then pass it down the membrane, via Q (plastoquinone), and ultimately create ATP. The effect of Atrazine on photosynthesis is not time dependent, it begins almost immediately, making it ideal for our experiment (Brewer: 1997). Roundup, or Glyphosate, works more indirectly than Atrazine to affect plant growth. It affects the EPSP enzyme activity which is important in breaking down other molecules to then synthesize amino acids needed in other cellular processes. This ultimately causes the plant to yellow and die in a matter of hours or days. Spectracide, or Diquat, has a very direct effect on plants; it disrupts cell membranes in plants by travelling to the cytoplasm, disrupting peroxisomes, causing the release of peroxides and free electrons to cause severe injury to cells and the plant. It ultimately breaks down the cell membrane and causes lysis of the cell. We chose these pesticides as they are common household pesticides and affect the photosynthetic ability of cells. Spinacia oleracea was an appropriate model organism as most of these pesticides affect cells in the leaf when applied; and, the edible, important part of spinach is its leaves. Based on the expected mechanisms of action and type of assay we are using, we expect pesticides to have an effect on the photosynthetic ability of Spinacia oleracea.
+
+
+Materials and Methods:
+Part 1: Isolation of Chloroplasts
+First, to isolate the chloroplasts, we removed the large central veins in four to five large, healthy Spinach leaves. The leaves were then placed in a chilled mortar and pestle, which we then added 10mL of Grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) and we grinded the leaves until it was a thick paste with no large leaf pieces left. We then added another 10 mL of Grinding buffer and mixed with spinach until it was a slurry. The mixture was then strained through three layers of cheesecloth into a chilled beaker. It was then transferred into a 50 mL centrifuge tube. The mixture was then in the centrifuge for 3 mins at 4˚ Celsius at 1200 rpm. We made sure to add a balancer tube of water to the centrifuge for balance. We then poured the supernatant of A into another 50 mL tube labelled B, making sure not to include the pellet or debris separated out in the first centrifugation. Tube B was then centrifuged for 10 minutes at 2800 rpm also in 4˚ Celsius. We transferred the supernatant of this tube into another tube labelled C. We then resuspended the pellet of tube B (B-pellet) in 20 mL of Grinding buffer using a transfer pipet. B-pellet contained the highest concentration of purified chloroplasts, thus we used this mixture as our chloroplast source in out subsequent experiment.
+Part 2: Pesticides
+To test the effect of these pesticides directly on photosynthesis and the energy extrication, we isolated chloroplasts directly in solution. We used a 2,6-dichlorophenolondophenol (DCIP) as an alternative electron acceptor to measure activity in PSII and, therefore, the amount of total photosynthesis occurring in the cell. We used the DCIP decolorization assay: as the molecule is reduced along the Electron Transport Chain in the Thylakoid membrane, its structure rearranges from an aromatic structure (dark blue color) to have more conjugated C double bonds, becoming colorless. 
+We labelled 17 test tubes as follows. Each treatment had 3 tubes to create 3 replicates. We then made the test tubes following the table below:
+
+No Chloroplasts acted as a negative control to ensure the assay ran appropriately. The plus chloroplasts acted as a baseline to compare the experimental conditions of herbicide percent changes. Once all tubes were prepared, we added 100 μL of the Chloroplasts from Part 1 to all tubes except the 3 -C tubes. We mixed each tube and then transferred to spectrophotometer cuvettes to get a time zero measurement. We blanked the machine at 600 nm with the blank tube, then measured the rest at the same absorbance level. We then placed the tubes on the windowsill for 10 minutes to let the natural processes occur. We then blanked the machine again with the blank tube at 10 minutes and remeasured the absorbances of all tubes. We repeated the same process at 20 minutes and finally 30 minutes.
+Data Analysis:
+We recorded absorbances at time 0, 10, 20, and 30 minutes. We compared each absorbance back to the first time point to calculate a percent change in absorbance over time. We then compared the percent change of each condition to others to determine the effect of the herbicide on photosynthesis at all three time points. We ran a one-way ANOVA test on each time point to determine if there was a significant difference between the 4 conditions (plus Chloroplasts, +C Atrazine, +C Roundup, +C Spectracide).
+
+
+
+Results:
+We compared the percent changes at each time point to determine if the pesticides had an effect on the photosynthetic capacity of Spinacia oleracea. As seen in Figure 1, the plus chloroplasts had a very large percent change, Spectracide rose to about 35%, and Atrazine and Roundup had very low percent changes through the measured time points.
+
+
+Discussion:
+	In this experiment we sought to determine if different pesticides could potentially damage crop plants. Even though each herbicide had a different mechanism of action, as predicted, they all had a statistically significant effect on photosynthesis in the chloroplasts of Spinacia oleracea at one if not multiple time points. Figure 1 illustrates Spectracide had a higher percent change than the other two herbicides over time. With the DCIP decolorization assay, this would mean more photosynthesis was able to occur and more energy was synthesized. Considering the results of the ANOVA the difference between the control and Spectracide was significant, thus photosynthesis was still substantially affected by Diquat. Moreover, at 10 minutes and 20 minutes there was a significant difference between Spectracide and the other two pesticides. This would mean that Diquat had a significant difference on photosynthesis (compared to the control), however, a substantially less effect than the other two pesticides. This difference could be due to the mechanism of action of Spectracide dealt with the plant cell as a whole and our assay only included chloroplasts.
+Atrazine and Roundup had a more direct disruption in the process of photosynthesis and had similar levels of interference (Fig. 1). Atrazine entering directly into the chloroplasts and inhibiting PSII from activating Q had a major effect on the photosynthetic ability of Spinacia oleracea. Roundup similarly inhibited photosynthesis yet had a more indirect mechanism of action. It is possible that the specific type of Roundup we used had an additional chemical that directly affected photosynthesis or the inhibition of the EPSP enzyme prevented certain proteins from working properly within the chloroplasts. 
+Another important component of our test was the experimental technique used. We suspended the chloroplasts, pesticides, and buffer in solution and water, these mixtures were then placed in sunlight to provide light energy for photosynthesis to occur. The Atrazine we used was an opaque white mixture, similar to milk. The Roundup turned the mixture a dark blue green color, while Spectracide was still mostly clear. Our experiment could have bias for pesticides that were opaque in the nature of their liquid that we did not account for before carrying out our tests. Changing the color/being opaque affected out experiment in two ways. First changing the color of the mixture in test tubes could prevent sunlight from reaching the chloroplasts overall decreasing the level of photosynthesis. Whereas, pesticides on intact leaves could probably carry out a higher level of photosnthesis. The second way is in the measurement of absorbance. The opaque or dark blue/green mixtures would have a very high absorbance and would not decrease as the pesticide still in the mixture alone would prevent the absorbance from changing very much. Both of these biases would cause the absorbance reading of Atrazine and Roundup to be skewed higher.
+A study using three pesticides investigated how concentrations of pesticides affected the growth of cyanobacterium. They found concentrations that were four to six-fold greater than the concentration of cyanobacterium result in detrimental effects while lower concentrations stimulated photosynthesis (Chen: 2007). These results support our findings of lower levels of photosynthesis in the presence of pesticides in a liquid mixture. This could also incite further studies on if the concentration/amount of pesticides put on crops could effectively control weeds while leave higher order crop plants untouched or even stimulate growth. 
+Testing if pesticides affect photosynthesis and to what extent is very important for the growth of crops and food. From our results, while Spectracide had a significant effect on Spinacia oleracea, it would be the best choice of the three to use for pest control. As said before, all plants have the same essential steps in photosynthesis and disrupting them in anyway can be detrimental (Chen 2007, Glyphosate: 2013). However, different processes or molecules are specific to different species, thus pesticides that target the specifics of weeds and undesired plants’ photosynthesis processes is valuable research for the agriculture industry. 
+
+
+Literature Cited:
+Brewer PE, Arntzen CJ, Slife FW. 1997. Effects of Atrazine, Cyanazine, and Procyazine on the Photochemical Reactions of Isolated Chloroplasts. Weed Science. 27(3):300–308.
+Chen Z, Juneau P, Qiu B. 2007. Effects of three pesticides on the growth, photosynthesis and photoinhibition of the edible cyanobacterium Ge-Xian-Mi (Nostoc). Aquatic Toxicology. 81(3):256–265.
+Glyphosate | Glyphosate: mechanism of action. 2013. [accessed 2019 Mar 2]. 
+Wright IJ, Reich PB, Westoby M. 2001. Strategy shifts in leaf physiology, structure and nutrient content between species of high- and low-rainfall and high- and low-nutrient habitats. Functional Ecology. 15(4):423–434. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.PNG&Size=34474&Type=image%2Fpng&F=F_300H1nRwe2ICG9l
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+2.PNG&Size=34258&Type=image%2Fpng&F=F_1n2sh2vESZjgheM
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.PNG&Size=57753&Type=image%2Fpng&F=F_3FKh9BVzoQLXqLH
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+3.PNG&Size=36475&Type=image%2Fpng&F=F_9ock3vw1PaUgpVL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Components added in each test tube during the experiment.
+
+Table 2. Average absorbances of the replicates measured at each time point. All absorbances and the calculated percent changes compared to time zero are listed.
+
+Figure 1. Graph of the percent changes of each experimental group (standard deviation error bars are present). This graph includes the negative control (No Chloroplasts), and positive control of Plus Chloroplasts for reference. We ran the DCIP decolorization assay, meaning the more photosynthesis that occurred, the more DCIP was broken down into its colorless chemical conformation, the less absorbance that would be recorded, the more the percent change would occur. We measured the decrease in absorbance between trials and compared them to our zero time point to find the percent change of that condition at that specific time point. The average percent change of each assay is graphed.
+
+Table 3. Results of the ANOVA tests at each time point comparing the percent of change between groups. P values and degrees of freedom of each test it included.*************************************************************************
+
+
+

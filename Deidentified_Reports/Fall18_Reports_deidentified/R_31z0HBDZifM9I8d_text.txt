@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 01:54:19
+Author of this lab report is: Std_9kqaFWyL
+ID: R_31z0HBDZifM9I8d
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Concentration of Ethanol in Rana pipiens Gastrocnemius Muscle has No Effect on Twitch Amplitude
+
+Abstract:
+Movement, or contraction, in skeletal muscle is the result of a biological process known as excitation coupling. Where the sarcomere, a unit of muscle cells, shortens in response the firing of an action potential by the nervous system. Ethanol has been known to block or slow down excitation coupling in skeletal muscle. It was hypothesized that if Rana pipiens gastrocnemius muscle, a skeletal muscle,  was treated with ethanol there would be a statistically different average twitch amplitude compared to muscle treated without ethanol. Average twitch amplitude was determined of three replicates treated without ethanol then with ethanol, using a transducer. The data was not statistically significant (t=0.0248, df=2, p=0.98). This could be the result of a low concentration of ethanol in the treatment of the muscle.
+
+Introduction:
+Organisms move as a function of muscles. There are three different types of muscles: striated, smooth, and cardiac. The control of voluntary muscle movement are by the striated or skeletal muscles. These muscles contain many myofibrils organized by structures known as sarcomeres. In sarcomeres, when a muscle is stimulated and contracts, the thick and thin filaments slide past each other, shortening the myofibrils in the muscle. Contraction is transduced by a biological process known as excitation coupling; motor neurons transmit an action potential down to synaptic terminals where calcium is released from the sarcoplasmic reticulum. This results in the release of the neurotransmitter acetylcholine generating an action potential down the muscle cell. After the action potential has reached the end of the muscle cell the sarcomere shortens and the muscle contracts.  Ethanol has been found to interfere with the neuromuscular system signals in cardiac, smooth, and skeletal muscle [Cofán: 2000]. In a study focusing on the effects of ethanol on the excitation of calcium ions during contraction in isolated mouse skeletal fibers, it was found that ethanol reduces the calcium ion level in the sarcoplasmic reticulum loading stage [Cofán:2000]. The mouse is a different from the model organism for this lab, the Rana pipiens or the Northern Leopard Frog. However, this lab specifically investigates the Rana pipiens gastrocnemius muscle, a skeletal muscle, which functions in response to excitation coupling in the sarcomere, similar to mouse skeletal muscle. Therefore, it can be hypothesized that if Rana pipiens gastrocnemius muscle, a skeletal muscle,  was treated with ethanol there would be a statistically different average twitch amplitude compared to muscle treated without ethanol. 
+
+Materials and Methods:
+Three Rana pipien legs were collected and degloved.The gastrocnemius muscle and portion of Achilles tendons for each Rana pipiens leg were detached. Then, a Rana pipiens leg was strung to the force transducer. LabScribe was used to record the threshold of the Rana pipiens gastrocnemius muscle. LabScribe was set to the parameters: 5 pulse, frequency 1Hz, pulse width (W) 5ms, pulse amplitude 0.000V. The threshold stimulus of the muscle was determined to be 0.3V. Next, 1V was added to the threshold found in order to determine the stimulus for the investigation. Three pulses were conducted at 1.3V. The amplitude of each contraction was recorded. After, 0.2mL of 2% Ethanol was injected into the gastrocnemius muscle by a syringe strung to the force transducer. After a five minute waiting period three pulses were conducted at 1.3V. The amplitude of the contractions was recorded. For the two other Rana pipiens gastrocnemius muscles three pulses were conducted without the injection of ethanol; then, three pulses were conducted after 5 minutes of injecting 0.2mL of 2% Ethanol into the gastrocnemius muscle for each Rana pipiens leg. Each contraction was recorded. The data was analyzed using a two-tailed paired t-test.
+
+Results:
+The average twitch magnitude was determined by collecting three twitch amplitudes without ethanol and then three other twitch amplitudes without ethanol in each of the three Rana pipiens gastrocnemius muscles. The average twitch magnitude rate for the muscles treated with no ethanol was 0.4303 +/- 0.1579 amps. The average specific metabolic rate for the muscles treated with ethanol was 0.4313+/- 0.1139 amps. The data was not statistically significant (t=0.0248, df=2, p=0.98).
+
+Discussion:
+The hypothesis was not supported; the p-value was greater than 0.05. Therefore, ethanol does not affect the twitch amplitude of the Rana pipiens gastrocnemius muscle. This could be due to the low concentration of ethanol used to treat each Rana pipiens gastrocnemius muscle. In a study looking at the effect of ethanol on the excitability and neuromuscular transmission of frog skeletal muscle, it was demonstrated that ethyl alcohol increases the likelihood of the depression of excitability in neuromuscular transmission in the cell [Inoue: 1967]. The study determined that with increasing concentrations, that there was an increase in the amount of calcium needed to depolarize the muscle cell [Inoue: 1967]. This blocked the action potential production in the frogs[Inoue: 1967]. The study looked at the muscle exposure of 2% and 3.5% ethanol concentrations in comparison to 0% ethanol in 6 frog skeletal muscles, after 30 minutes of exposure[Inoue: 1967]. This is contrary to our study that only looked at the twitch amplitude after 5 minutes of exposure to only 2% ethanol. For further study, there should be higher concentrations of ethanol exposed to the gastrocnemius muscle in the Rana pipiens for a longer duration of time in order to yield more accurate data. This investigation of ethanol’s effects in the skeletal muscle of the Rana pipiens allows us to learn more about the physiological effects in human skeletal muscle in regards to ethanol exposure. 
+
+Literature Cited:
+Robert, Esther Tobías, Emilio Sacanella, Ramón Estruch, Alvaro Urbano-Márquez; ACUTE ETHANOL TREATMENT DECREASES INTRACELLULAR CALCIUM-ION TRANSIENTS IN MOUSE SINGLE SKELETAL MUSCLE FIBRES IN VITRO, Alcohol and Alcoholism, Volume 35, Issue 2, 1 March 2000, Pages 134–138, https://doi.org/10.1093/alcalc/35.2.134
+
+INOUE, F. and FRANK, G. B. (1967), EFFECTS OF ETHYL ALCOHOL ON EXCITABILITY AND ON NEUROMUSCULAR TRANSMISSION IN FROG SKELETAL MUSCLE. British Journal of Pharmacology and Chemotherapy, 30: 186-193. doi:10.1111/j.1476-5381.1967.tb02124.x
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-30+at+1.53.20+AM.png&Size=37348&Type=image%2Fpng&F=F_3PhjP3fjScT8EHd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. represents the average twitch magnitude compared to the treatment of ethanol or no ethanol in each Rana pipiens gastrocnemius muscle replicate. The average twitch magnitude rate for the muscles treated with no ethanol was 0.4303 +/- 0.1579 amps. The average specific metabolic rate for the muscles treated with ethanol was 0.4313+/- 0.1139 amps. The data was not statistically significant (t=0.0248, df=2, p=0.98).*************************************************************************
+
+
+

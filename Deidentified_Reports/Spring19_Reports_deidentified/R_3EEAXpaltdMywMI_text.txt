@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-13 23:42:34
+Author of this lab report is: Std_7U10LmV6
+ID: R_3EEAXpaltdMywMI
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Juvenile Hormone Growth-Inhibiting Effects of IGR in Manduca Sexta
+
+Abstract:
+Insects have the ability to control many physiological functions that aid in growth and development through hormonal signaling; Juvenile Hormone (JH) is one of the three main hormones involved in such processes. Our experiment analyzes the effects of a JH suppressor in insect growth regulators (IGR), an emerging alternative to insect pest control. The analysis will focus on species of Maduca Sexta, which undergoes complete metamorphosis, evenly divided into a control and treatment group. By treating one group of M. Sexta caterpillars with water and another with a solution of IGR respectively, we expect to see a delay in percent growth of the latter group. Our data showed a significant and observable trend that corresponded to higher percent growths of the control group, indicating that IGR largely effects the developmental stages of insects, especially likely when treated with higher levels of IGR such as in agricultural situations and large-scale applications. 
+
+
+
+Introduction:
+Insect growth regulators (IGR) are chemicals that inhibit the life cycle of an insect. They are commonly used as insecticides to tame the rapidly spreading population of insects that are harmful to crops [Saha: 2016]. Like vertebrates, insects regulate growth, development, and behavior through hormone and neuron-based signaling. Many characteristics of insect development, such as molting and formation of pupa, is controlled by 3 main hormones: PTTH, Ecdysterone, and Juvenile Hormone (JH). PTTH regulates the release of Ecdysterone; Ecdysterone regulates the timing of molting during insect development; and in turn, JH regulates the type of molting [Schneiderman: 1964]. Both Ecdysterone (20E) and JH are crucial throughout the lives of insects – they are consistently present throughout development. During an insect’s stage from a larva to pupa, the presence of JH steadily declines until it reaches its lowest point. Here, levels of 20E begin to rise and, as a result, the larval-pupal transformation is initiated, known as the commitment pulse [Weeks: 1986]. We will be using Manduca Sexta in this case study to further understand the effects of IGR on insect development as it undergoes complete metamorphosis and observes many of the physiological aspects previously mentioned. This experiment will examine the physical characteristics and measured length of caterpillars as a reflection of growth due to the effects of an IGR – specifically, a treatment group of M. Sexta that receives IGR will appear shorter in length than a control group that receives a substitute of water. This analysis is important in understanding the effects of IGR in insecticides used widely by farmers to control the widespread of pests.  
+
+Materials and Methods:
+Lab Equipment and Set-Up
+
+In preparation for the experiment, two containers were obtained each with divided “cells” that would separate individual M. Sexta. In addition, we obtained a sufficient amount of food for the caterpillars and a balance to weigh the food out evenly. Pipettes were also obtained to facilitate the transfer of IGR reagent and water from the bottle to the food itself. 
+
+Methods
+
+One container was used for the treatment group that received IGR and the other for the control group that received water. The control group will help us identify normal rates of growth in comparison to the treatment group that receives a growth-inhibiting IGR in order to see if altering levels of JH will slow the growth of M. Sexta. Making sure each of the container’s cells had an opening for airflow, 10g of food were massed out for each caterpillar-containing cell for a total of 60g. Once the foods were placed within their respective cells, a transfer pipette was used to deliver five drops of water to the foods of the control group and five drops of IGR to the foods of the treatment group. Relatively small and similar-sized caterpillars were hand-picked and placed into three cells per container. Observations and measurements were recorded every two days.
+
+
+Statistical Tests 
+
+Differences between means were tested using a p-value test, with significance assumed when P&lt;0.05.
+
+
+
+Results:
+Percent growth was calculated for each of the three caterpillars in both control and treatment groups from their initial measured length to their final measuring. For simplicity, the mean of all three caterpillars for each group was taken, as seen in Figure 1. In addition, the standard deviation value for each group was calculated and labelled on the graph. From Figure 1, the average percent growth for all three caterpillars in the control group was 55%, a higher overall percent than the treatment group at around 46%. The standard deviation values for the control group was 0.0496 and 0.0393 for the treatment group. The percent growth for each group in control and treatment categories are summarized on Table 1, which also displays overall means. Using a two-sample t-test to analyze our results, we determined that the mean of the percent growth for the control group was significantly different than the percent growth for the treatment group at a P value of 0.03163. Each day the caterpillars were observed they grew progressively bigger in length and width as well as an average increase in the observed amount of food consumed. When observing the caterpillars on the final day, all but the exception of one caterpillar had decreased in length and were found to be unresponsive and less firm (soft/squishy feel) than before. These caterpillars also seemed to be secreting a lot of fluid. With the caterpillar measurements on the final day as outliers compared to the rest of the measurements, the control and treatment groups had similar increasing trends of growth with the control group at a higher overall growth percent. 
+
+
+
+Discussion:
+Our hypothesis, which stated that M. Sexta caterpillars treated with JH-inhibiting IGR would observe a delay in growth and development by measuring shorter in length than those treated with water, was supported by the data we were able to obtain. We observed that across caterpillars 1-3 in the control and treatment group, each caterpillar in the control group underwent a higher percent growth from their initial length measured on day one to the final length measurement at the end of the experiment than the caterpillars in the treatment group. With the p-value test confirming a significance within our data, this indicates that the predicted effects of IGR in the development of M. Sexta was supported by the experimental observation of two isolated groups of caterpillars, which allowed us to independently see the effects of IGR. Past experiments have shown that IGR does not necessarily have to be toxic to its target; rather, it produces the onset of abnormalities which impairs the survival of the insect, usually during its immature stage of growth [Siddall: 1976]. It is reasonable here with the data to associate this IGR-induced abnormality to be a lower percent growth as opposed to an IGR-free group of the same species [Lab Manual: 2018]. The abnormality could perhaps be due to an inhibition of a physiological regulatory process essential to normal insect development. It is important to understand the basic inhibitory/acceleratory effects of IGR in the context of its global use on pests. Modern agricultural pesticides must be able to reduce insect population below the level of economic damage done: with a greater knowledge of IGR and only a relatively low amount required for apparent effectiveness, large insect populations could be maintained at a low level with IGR alone, potentially excluding the more harmful effects of regular pesticide. IGR has the ability to not only save agro-economic disasters from insects, but also change the way we handle pests every day more efficiently. 
+
+Literature Cited:
+Weeks, J.C., Truman, J.W. 1986. Hormonally Mediated Reprogramming of Muscles and Motoneurones During the Larval-Pupal Transformation of the Tobacco Hornworm, Manduca Sexta. The Journal of experimental biology. 125: 1-13.
+
+Schneiderman, H.A., Gilbert, L.I. 1964. Control of Growth and Development in Insects. Science. 143: 325-333.
+
+Saha, I., Joy, V.C., 2016. Short-Term Biochemical Ill Effects of Insect Growth Regulator (IGR) Pesticides in Cyphoderus Javanus Borner (Collembola: Insecta) As Potential Biomarkers of Soil Pollution. Environmental Monitoring and Assessment. 188: 98.
+
+Siddall, J.B., 1976. Insect Growth Regulators and Insect Control: A Critical Appraisal. Environmental Health Perspectives. 14: 119-126. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure%3Atable.png&Size=666967&Type=image%2Fpng&F=F_VQOSMet5O4BrL6V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Mean Percent Growth and Standard Deviation of M. Sexta in Control and Treatment Groups
+
+Table 1. Percent Growth of M. Sexta in Control and Treatment Groups*************************************************************************
+
+
+

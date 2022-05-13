@@ -1,0 +1,92 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-06 23:39:06
+Author of this lab report is: Std_iPgHQqSu
+ID: R_3HiCrS3E4Ki1hqh
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The Exploration of DCIP Reduction Rate on Spinach and Collard Greens
+
+Abstract:
+Within plant chloroplasts, photons cause photosystems to lose electrons, which are replaced with electrons from water molecules. The light dependent stage uses light energy to produce ATP.  In this experiment, the DCIP reduction was explored among the two plant species, spinach and collard greens.  DCIP was used to observe a color change to observe oxidation-reduction reactions.  Four experimental groups were prepared: spinach chloroplasts under normal light, spinach chloroplasts under lamp, collard greens under normal light, and collard greens under lamp.  Each plant was tested in both regular room light and direct light.  The absorbances of each were measured at 0, 10, 20, and 30 minutes.  Spinach and collard green both under direct light yielded significantly different results, suggesting that the combination of direct light and different physical properties of the plants contributed to different rates of DCIP reduction.  Differences in weight to volume ratios and thickness of leaves contributed to different activation levels of chloroplasts.  Analyzing both spinach and collard greens under similar environments and in different exposures of light helps to understand the biological strategies to manage net productivity as part of adaptation to unfavorable conditions.  
+
+Introduction:
+Photosynthesis is the process of capturing and storing energy from sunlight.  Within the chloroplasts of plants, the photons cause photosystems to lose electrons, which are replaced with electrons from water molecules.  In addition, the water molecules split into oxygen and hydrogen ions, and a proton gradient is generated across the thylakoid membrane to drive ATP synthesis.  Using light energy to produce ATP, this stage of photosynthesis is light dependent, in which ATP formation and oxidation-reduction reactions occur.  However, measuring photosynthetic activity by these measures is rather difficult.  Robert Hill demonstrated a general process in which alternative electron acceptors other than NADP+ could also receive electrons from the electron transport chain in chloroplasts [Johnson: 2016].  The chemical compound, 2-6, dichlorophenol indophenol (DCIP) was used to observe a color change to observe oxidation-reduction reactions by absorbing light maximally at 600 nm, turning active chloroplasts from dark blue to colorless.  This became the method to measure DCIP rates as a means of understanding photosynthetic activity.  
+
+Plants use photosynthesis to store energy, while the majority of organisms rely on their ability to harness that energy into usable forms.  The amount of energy converted by photosynthetic organisms in an ecosystem is termed primary productivity, and environmental changes can affect the rate of photosynthesis, therefore changing primary productivity and ecosystems that depend on them.  
+
+In this experiment, the rate of reduction of DCIP is explored among the two plant species, spinach (Spinacia oleracea L) and collard greens (Brassica oleracea).  Because collard greens are darker green than spinach, it was hypothesized that there would be more chloroplasts present and therefore predict a greater reduction of DCIP.  Experimentally, this would be evident by observing a rapid decrease in absorbance values in both direct light and  room light conditions.  
+
+Specifically, if collard greens are tested against spinach, then a lower absorbance value will be observed in collard greens, predicting that collard greens will have a greater reduction of DCIP than spinach.  In a study testing photosynthesis, light saturation, specific leaf weight, and chlorophyll content on barley lines isogenic for color, it was observed that green members of isogenic pairs had significantly higher photosynthesis than pale green or golden members [Ferguson: 1972].  The more the absorbance values trend downwards/decreases over 30 minutes, the faster the DCIP reduction.  In both direct light and room light, we expect enriched chloroplasts from collard greens to have lower absorbance values after 30 minutes compared to that of spinach.  
+
+
+Materials and Methods:
+Enriching Chloroplasts by Differential Centrifugation
+A mortar & pestle, a 150-250 mL beaker, and three 50 mL centrifuge tubes were placed on ice.
+Either four spinach leaves or collard green leaves were prepared by throwing away the veins and drying excess moisture from the leaves.  All the dry spinach leaves, 10 mL of cold grinding buffer (400 mM sucrose in Tricine grinding buffer, pH 8) were added to mortar and pestle to become a thick paste.  Finally, an additional 10 mL grinding buffer was added before straining the volume of slurry through three layers of cheesecloth.  The filtered liquid was transferred into a 50 mL centrifuge tube and spun at 1200 rpm in the RT-7 centrifuge for 3 minutes at 4C.  The supernatant was poured out of one centrifuge and into another centrifuge tube.  The new tube was then spun at 2800 rpm for 10 minutes at 4C.  Finally, the supernatant was transferred to another centrifuge tube, while adding a new 20 mL grinding buffer to pellet and stir and stored on ice.  The steps for enriching chloroplasts were repeated for collard greens. 
+
+Preparing Assay
+The spectrophotometer was set to 600 nm, and 17 large test tubes were used to prepare the following.  Two blank solutions were prepared, each with 8 mL water and 2 mL reaction buffer (100 mM phosphate, pH 6.5).  In addition, four experimental groups were prepared: spinach chloroplasts under normal light, spinach chloroplasts under lamp, collard greens under normal light, and collard greens under lamp.  Each group contained three replicates, and each replicate was prepared with 6 mL water, 2 mL 130 mM DCIP, and 2 mL reaction buffer.  The assay was begun by adding 100 μL of spinach chloroplasts to test tubes #1, and #6-11.  100 μL of the collard green chloroplasts was added to test tubes #2, and #12-17.  Each test tube was mixed after adding respective chloroplasts and were transferred to cuvettes.  The absorbance of all samples were measured, representing Time Zero data points.  Test tubes #6-8 and #12-14 were placed under room light, while test tubes #9-11 and #15-17 were placed directly under a lamp.  The absorbances of each test tube were measured and recorded after 10, 20, and 30 minutes. 
+Each plant was tested in both regular room light and direct light.  
+
+Statistical Test
+A two-tailed T-test was used specifically to analyze the absorbance values at time 30 minutes in order to determine significance between test groups.  
+
+
+Results:
+The comparison between spinach and collard greens both under room light did not demonstrate statistically significant differences (t-stat = 0.96, Degrees of Freedom = 4, p-value = 0.390).  Comparing spinach in both room light and direct lamp light also did not yield statistically significant differences (t-stat = 2.65, Degrees of Freedom = 4, p-value = 0.057), and collard greens compared under room light and direct light did not either (t-stat = 1.50, Degrees of Freedom = 4, p-value = 0.209). It was analyzed that spinach and collard greens both under direct light yielded significantly different results (t-stat = 3.97, Degrees of Freedom = 4, p-value = 0.017).  
+
+Discussion:
+The Robert Hill reaction explores how alternative electron acceptors other than NADP+, such as DCIP, could be used to observe oxidation-reduction reactions via a color change from blue to colorless [Johnson: 2016].  In addition, an early study that green members of isogenic pairs had significantly higher photosynthesis rates than pale green or golden members [Ferguson: 1972] led us to the hypothesis that in both room light and direct light conditions, the absorbance values for collard greens would decrease at a faster rate than for spinach due to an increased number of chloroplasts  and chlorophyll pigments that absorb UV light.  By having lower absorbance values at the end of the experiment, it would suggest that collard greens active chloroplasts would reduce DCIP at a faster rate than that of spinach.   
+
+The comparison between spinach and collard greens both under room light did not demonstrate statistically significant differences, indicating that room light was not much of a factor in DCIP reduction.  Furthermore, comparing spinach in both room light and direct lamp light also did not yield statistically significant differences, and collard greens compared under room light and direct light did not either.  The samples of collard greens were a lighter shade of green than the sample of spinach leaves used, so by selecting collard green leaves that had darker shades of green like anticipated, results could have been more precise.   
+
+It was analyzed that spinach and collard greens both under direct light yielded significantly different results.  Collard greens and spinach not only showed different shades of green, but displayed different leaf thickness.  Studies showed that changes in thylakoid membrane thickness is associated with PSII and light harvesting complex II [Johnson: 2011], suggesting that species with different inherent properties contribute to differences in light absorbing capabilities.  
+
+Our hypothesis was rejected because the photosynthetic rate of spinach under both room light and lamp light was faster than that of collard greens, as shown by a rapid decrease in absorbance values due to rapid DCIP reduction rate.  A study showed that specific leaf weight and chlorophyll content was greater in thin leaves with smaller mesophyll cells than in thick leaves with larger mesophyll cells [Wilson, 1969], suggesting that spinach would inherently have more chloroplasts and therefore undergo photosynthesis at a faster rate than collard greens would. 
+
+The experiment contained limitations that should be closely monitored in future investigations.  Spinach and Collard greens should be kept under their different optimal temperatures in order for the maximum number of active chloroplasts to be achieved.  Furthermore, the experiment was run simultaneously for both plants chloroplasts, but measuring absorbance values was slowed down with just one spectrophotometer, which contributed to different Time Zero data.  Time exposure to light may have also been a factor in the activity of chloroplasts between spinach and collard greens, as it may take more time for collard greens chloroplasts to be activated.  Furthermore, the weight to volume ratio could contribute to the number of chloroplasts.  Analyzing both spinach and collard greens under similar environments and how they were affected in different exposures of light allows for scientists to understand the biological strategies to manage net productivity as part of adaptation to unfavorable conditions.  
+
+
+Literature Cited:
+Johnson, AD. Cell Structure. Biological Principles Laboratory Manual Dept. Biology, Wake Forest University, Winston-Salem, NC&gt; Vers. 16.1 (updated May 1, 2016), pp. 15-16 
+
+Ferguson, H.; Cooper, C. S.; Brown, J. H.; Eslick, R. F. Effect of Leaf Color, Chlorohyll Concentration, and Temperature on Photosynthetic Rates of Isogenic Barley Lines1. Agronomy Journal 1972, 64 (5), 671–673.
+
+Johnson, M. P.; Brain, A. P.; Ruban, A. V. Changes in Thylakoid Membrane Thickness Associated with the Reorganization of Photosystem II Light Harvesting Complexes during Photoprotective Energy Dissipation. Plant Signal Behav 2011, 6 (9), 1386–1390.
+
+Wilson, D.; Cooper, J. P. Apparent Photosynthesis and Leaf Characters in Relation to Leaf Position and Age, Among Contrasting Lolium Genotypes. New Phytologist 1969, 68 (3), 645–655.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+10.44.19+AM.png&Size=84670&Type=image%2Fpng&F=F_3I0nd6z4gGPAz8V
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+10.44.33+AM.png&Size=135776&Type=image%2Fpng&F=F_1Kg0LDTgn9v0OdE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Measuring average absorbance changes over time to determine DCIP reduction rate for spinach and collard greens under room light and lamp light conditions. 
+
+
+Figure 2: Measuring absorbance after 30 minutes to determine DCIP reduction rate for spinach and collard greens under room light and lamp light conditions. Comparing spinach under room light vs. direct light: (t-stat = 2.65, Degrees of Freedom = 4, p-value = 0.057); collard greens under room light vs. direct light: (t-stat = 1.50, Degrees of Freedom = 4, p-value = 0.209); spinach and collard green both under room light: (t-stat = 0.96, Degrees of Freedom = 4, p-value = 0.390); spinach and collard green both under direct light: (t-stat = 3.97, Degrees of Freedom = 4, p-value = 0.017).  *************************************************************************
+
+
+

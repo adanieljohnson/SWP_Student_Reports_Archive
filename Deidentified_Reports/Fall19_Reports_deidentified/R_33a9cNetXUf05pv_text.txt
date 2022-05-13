@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-09-30 12:59:36
+Author of this lab report is: Std_R08O4jpL
+ID: R_33a9cNetXUf05pv
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: The Effect of Salt Water on Raphanus sativus Leaf Surface Area
+
+Abstract:
+Radish are commonly consumed by humans; with an increasing industrial landscape, it is common for plants to be exposed to less fresh water and more tainted water such as salt water. Examining how radish plants compare, in size, with salt water conditions can help us to estimate how their growth will change over time with less access to fresh water. In this experiment, radish plants were exposed to 6 M NaCl water and regular water and then their average leaf surface areas were compared. There was no statistical significance between the plants watered with salt water compared to the plants watered with regular water with a p-value of 0.22. The experimental hypothesis was not proven. There was a large outlier within our control group, which may have accounted for insignificant results that were received. 
+
+
+Introduction:
+In the environment, plants need water in order to grow and undergo photosynthesis. Additionally, plants use water for nutrient transport. Plants will allocate their resources to different systems in order to compensate for their inability to receive adequate nutrients (Johnson, 2016). Other edible plants such as pepper hybrids the have shown a significant plant height decrease when watered with NaCl infused water compared to plants watered with regular water (Chartzoulakis and Klapaki, 2000). Additionally, rice plants were shown to decrease in leaf surface area as their salt concentrations increased (Amirjani, 2010). High salinity can result in growth limiting factors such as smaller leaves because the plants will not have the proper access to water for nutrient flow or growth support. If the radish plants are watered with NaCl infused water, then they will have smaller leaf surface area than those plants without salt water because the salt watered plants will have had inadequate access to nutrients. Thus, the salt water will osmotically draw water from the leaves to their roots in order to compensate for the lack of water, leaving those plants exposed with salt water with smaller leaves. 
+
+Materials and Methods:
+Obtain 6 sets of radish plants and label 3 as treatment groups and 3 as control groups. Plant each of the sets of plants with the same amount of soil. Place all of these sets in a greenhouse with moderated temperatures and all with the same access to sunlight. Water the 3 sets of treatment groups with 100 milliliters of 6 Molar NaCl solution every day for 2 weeks at approximately the same time. Then water the 3 sets of control groups with 100 milliliters of 9 pH water every day for 2 weeks at approximately the same time. Measure the surface area of the 3 largest leaves in each group. After measuring and recording their surface area, calculate the averages of the individual groups. Then average the 3 control groups with each other and the 3 treatment groups with each other. Compare these averages with a two-sample t-test.  
+
+
+Results:
+The average leaf surface area of the control group was 3.31 cm2 and the average leaf surface area of the treatment group was 4.14 cm2 (Table 1). There was no significant difference between the leaf surface area of the control group and the treatment group (t=1.44, df=4, p=0.223). 
+
+Discussion:
+Prior to conducting this experiment, it was hypothesized that plants exposed to salt water would have a smaller leaf surface area than those that were not watered with salt water. The results from this experiment do not support the hypothesis made earlier. The radish plants watered with NaCl had an overall larger surface area than the control plants watered with regular water (Figure 1) Additionally, according to the statistical test that was run, these results were not statistically significant. The p-value obtained was 0.223, indicating that there was a 22.3% chance that our results were due to chance. Radishes are a type of plant that has a large importance within the current global agricultural system. Since radishes are affected by a changing industrial world, these plants have less access to freshwater through an irrigation system (Chartzoulakis and Klapaki, 2000). Therefore, their water is tainted with different chemicals or products such as salt. This experiment helps us to understand the importance of maintaining a freshwater irrigation system in order to not have potential harmful side effects of crops that are being consumed.
+	Moreover, potential errors include the outlier in the control group. One set of plants in the control group was significantly smaller than the other sets in the control and treatment groups. When this one set of plants was observed, they were yellow and completely drooping. However, they were not omitted from the results. This outlier set was likely responsible for the difference between the groups as well as the large standard deviation that can be seen in the control group and not in the treatment group. Future studies can examine these same experiment conditions with a larger sample size in order to expel the potential outlier that may impact data. Additionally, future studies could examine these conditions with other plant species in order to examine whether or not salt water impacts leaf surface area of other plants species. 
+
+
+Literature Cited:
+Amirjani, M.R., n.d. Effect of NaCl on Some Physiological Parameters of Rice 12.
+Chartzoulakis, K., Klapaki, G., 2000. Response of two greenhouse pepper hybrids to NaCl salinity during different growth stages. Scientia Horticulturae 86, 247–260. https://doi.org/10.1016/S0304-4238(00)00151-5
+ Johnson, AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake 	Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016).  
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-29+at+10.39.30+PM.png&Size=80555&Type=image%2Fpng&F=F_3Pu8wrZNY04XHsB
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-29+at+10.39.34+PM.png&Size=199816&Type=image%2Fpng&F=F_1jOnpK2uK4S40kL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Average Leaf Surface Areas of the Control and Treatment Radish Plants 
+The following data was collected in cm2.
+
+Figure 1: Average Leaf Surface Area of Control and Treatment Radish Plants 
+The blue bar illustrates the control radish plants average leaf surface area. The average surface area from the control plants was 3.31 cm2 with a standard deviation of 0.960 cm2. The gray bar illustrates the treatment radish plants average leaf surface area. The average surface area from the treatment plants was 4.14 cm2 with a standard deviation of 0.294 cm2. 
+*************************************************************************
+
+
+

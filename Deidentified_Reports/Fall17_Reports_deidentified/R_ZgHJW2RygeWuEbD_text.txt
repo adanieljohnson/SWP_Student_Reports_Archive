@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 15:30:36
+Author of this lab report is: Std_4xszWaF7
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Slime Mold Growth Does Not Depend on Inhibitor Concentration
+
+Abstract:
+Cleaning and sanitization are incredibly necessary daily tasks.  Uncleanliness regularly results in lots of preventable illnesses.  In this experiment, we tested whether or not different concentrations of lidocaine results in different amounts of growth inhibition.  After the experiment that tested the growth, a one-way ANOVA test with an alpha value of 0.05 was applied to the data that came from the 3 test groups (1.25 mM, 0.625 mM, and 0.3125 mM).  The statistical test resulted in an insignificant p-value of 0.067.  We concluded that as long as an inhibitor was present, the concentration did not matter.  Further experiments should be conducted to determine which inhibitors or which inhibitor combinations are more effective over a long duration of usage.  There has been an increasing issue with bacteria building up a tolerance/immunity to our chemical agents
+
+Introduction:
+Around the globe, there are many different types of bacteria and molds.  Not all of the species are toxic, but it is important to prevent the growth of the hazardous organisms.  A good understanding of how concentrations of inhibiting chemicals effect the overall growth of the target organism would help prevent many unnecessary illnesses.  Pharmaceutical companies can use this information to formulate the most cost-effective cleaning products. In this experiment we utilized the test organism Slime Mold (Physarum).  Slime Mold is a good model organism because it shares many physiological properties with its harmful relatives. [USDHS: 2017].  Slime Mold is known to seek out food sources while avoiding chemicals that it is averse to, as a result its amount of growth is inversely proportional to its inhibition by a chemical. [Konijin: 1969].  Slime mold grows toward positive stimuli such as food sources, while avoiding negative stimuli such as light or inhibitors. We will be testing the effect of different concentrations of Lidocaine on the growth of Slime Mold.  Lidocaine is known to inhibit slime mold growth by preforming nerve blocks.  In order to have an action potential the electrochemical gradient must be built up via the sodium-ion channels.  Lidocaine specifically acts on nerve cells by inhibiting the sodium channels from passing sodium ions across the membrane, thus preventing an electrical signal from firing [USNLM: 2017].  We hypothesis that as the concentrations of the lidocaine decrease, so will the solution's ability to inhibit the Slime Mold's growth.
+
+Materials and Methods:
+First, we created 3 different lidocaine solutions by diluting an original micro-tube of lidocaine solution.  The three different concentrations of Lidocaine solutions were 1.25 mM, 0.625 mM, and 0.3125 mM.  Next a total of 10 petri-dishes were made, 3 dishes for each of the test groups and one control group.  Each dish was made by soaking the original potato agar dishes in 10 mL of solution for 12 minutes then draining the excess.  After each of the dishes were made, a square centimeter chunk of slime mold agar was placed in the centers of each agar.  Each of the dishes were then wrapped in aluminum foil to eliminate light and placed in a warm incubator (25 degrees C) for 24 hours.  The amount of growth was then estimated using an online program called ImageJ.  ImageJ calculates the square area of growth by taking a picture and outlining the perimeter of the mold. The growth data was then analyzed using a one-way ANOVA test.
+
+Results:
+The one-way ANOVA test resulted in a non-significant p-value of 0.067.  There was a trend in the data that showed that any of the concentrations of lidocaine resulted in a noticeably lower amount of growth than in the control group.  There was a peak in the experimental groups in the 0.625 mM Lidocaine.
+
+Discussion:
+Based on the p-value of 0.067, we can conclude that there is no correlation between concentration of the lidocaine inhibitor and the growth of the Physarum.  Although the value 0.067 is not significant at the alpha value 0.05, it is very close and further tests should be conducted in order to confirm the results of this experiment.  The p-value could have been low but not significant because there was a higher amount of growth in the 0.625 mM Lidocaine group.  This could have been a result of an experimental error when we were setting up the plates.  We could possibly not have not evenly soaked the plate.  This lower concentration could have resulted in ineffectively inhibiting the sodium ion channels.  We saw the trend that any of the three concentrations of lidocaine resulted in a lower amount of growth than that of the control.  Based on these results we are able to say that the exact concentration of lidocaine does not matter when inhibiting the slime mold growth and that each of the concentrations was fairly effective.  The sodium-ion channels are highly affinitive to localized anesthetics because of nature of the drugs binding site and the charge [Fozzard: 2011].  Future tests could include even lower concentrations of lidocaine to find the effectivity threshold that is often present in chemotaxis effecting chemicals [Bonner:1977]. Pharmaceutical companies can use this information to focus on using specific inhibitors rather than focusing on specific concentrations.  When making a cleaning product, chemists should focus on testing other chemicals that inhibit other pathways that can possibly be more effective.   Combinations of inhibitors are often used in cleaning agents in order to maximize the inhibition rate and avoid a buildup of resistance [Bushway:1976].  Although this experiment resulted in a result that showed no correlation between lidocaine concentration and inhibition effectivity, other inhibitors should be tested.
+
+Literature Cited:
+American Society of Health (2017). Lidocaine Viscous. U.S. National Library of Medicine. 
+Bushway R.J., Hanks A.R. 1976 Pesticide Inhibition of growth and macromolecule synthesis in 
+the cellular slime mold Dictyostelium discoideum. Pesticide Biochemistry and 
+Physiology. Volume 6. Issue 3. 254-260.
+Bonner John Tyler. (1977). Some Aspects of Chemotaxis Using the Cellular Slime Molds as an 
+Example. Mycologia. Volume 69. No. 3.
+Fozzard, Harry, Sheets, Michael. Hanck Dorothy. (2011) The Sodium Channel as a Target for 
+Local Anesthetic Drugs.  Frontiers in Pharmacy. Volume 2.
+Johnson A.D. (2017). Photosynthesis Biological Principles Laboratory Manual. Department of 
+Biology, Wake-Forest University. Version 16.1.
+Konijn Theo M. (1969). Effect of Bacteria on Chemotaxis in the Cellular Slime Molds. Journal 
+of Bacteriology. Volume 2. 503-509.
+United States Department of Health and Services (2017). Facts about stachybotrys chatarum and 
+other molds. Center for Disease Control and Prevention.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+3.27.02+PM.png&Size=56485&Type=image%2Fpng&F=F_1MYFRT4nFLkzjti
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+3.28.15+PM.png&Size=35189&Type=image%2Fpng&F=F_1NdZh5inJHkQnIm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1:  This table shows the values and results of the one-way ANOVA test that was conducted on the raw data.  This shows that there was a P-Value of 0.067 which is not significant at an alpha-value of 0.05.
+Figure 1:  This bar graph represents the growth (in cm2) over the 24-hour growth period.  The error bars represent the standard error of each of the groups.
+
+*************************************************************************

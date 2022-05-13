@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-23 15:30:41
+Author of this lab report is: Std_yTJCy273
+ID: R_cZL7heiCqabQiAh
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Cooling Muscles on Contraction Force in Rana pipiens
+
+Abstract:
+The force of muscle contractions should be affected by the temperature as people believe that athletic performance is hindered by the cold. The experiment was conducted on the gastrocnemius of the Rana pipiens where the legs were tested for maximum contraction force at room temp and then cooled in an ice bath and tested again. The hypothesis was rejected as the two tailed t test yielded a p value of 0.44 with an alpha value of 0.44 and 3 degrees of freedom.
+Introduction
+
+
+Introduction:
+Muscle contraction are controlled by electrical signals sent by the nervous system via motor neurons. The place where a motor neuron meets a muscle is called the neuromuscular joint also called the NMJ. At the NMJ acetylcholine is released to bind on the muscle and open Na+ channels to start a muscle action potential or MAP. The MAP is responsible for the muscle contraction by signaling the release of Ca2+ from the sarcoplasmic reticulum which uncover the actin myosin binding sites.  The muscle being isolated in the Rana pipiens is the gastrocnemius muscle of the frog leg which is needed for the frog to hop. A commonly held belief in the athletic world is that cold weather will hinder athletic performance. A study conducted on humans saw a decrease in maximal output of the test subjects [Sargaent:1987]. Sargaent’s study as well as the belief that cold temperature hinders leads us to believe that by cooling the frog legs we will see a decrease in the force of contractions measured in volts.
+
+Materials and Methods:
+The Rana pipiens legs will be held in a refrigerated unit until being brought to the lab. Once in the lab the leg will be degloved and the gastrocnemius detached at the distal tendon. The sciatic nerve will be isolated from the larger thigh muscles as well. The gastrocnemius will be attached at the distal end to an apparatus that will measure the force of the contraction. A contraction will be induced by electrodes applied directly to the muscle. First the threshold of the legs will be tested then add 1 volt to the threshold to test contraction force at. The contraction force will be taken 3 times at room temperature with a 30 second rest between contractions. The frog leg will then be placed in an ice bath at 6 degrees C for 5 minutes then test the contraction force at the same voltage 3 times with a 30 second rest period between stimulation. The 3 values for each leg at room temperature and after the ice bath will be averaged and put through a two tailed paired t-test with an alpha value of 0.05. 
+
+
+Results:
+The average contraction force of the room temperature legs was 0.546 volts +/- 0.097 volts. The average contraction force after an ice bath was0.414 volts +/- 0.310 volts. The two tailed paired t-test had a p-value of 0.44 with 2 degrees of freedom with an alpha value of 0.05.
+ The graph below is an illustration of the averages of room temperature contraction force and after ice bath contraction force with standard deviation bars included. 
+
+
+Discussion:
+The results of the experiment were determined to not be significant. Cooling the legs for the intended time period seemed to have no effect on contraction strength.  The legs may not have had a long enough time period to cool in the ice bath. The study conducted by Sargaent had subject in the ice bath for 45 minutes [Sargaent:1987], 9 times the length each leg was iced in our study. Another study by Rall argues that temperature will not effect contraction force because the reaction of a single contraction does not have a high Q10 but other factors surrounding it such as the tetanic force is much higher and repeated contractions should be slower due to cross-bridge turnover being hindered by the cold [Rall:1990]. 
+References 
+
+
+Literature Cited:
+Sargeant, A. J. (1987). Effect of muscle temperature on leg extension force and short-term power output in humans. European journal of applied physiology and occupational physiology, 56(6), 693-698.
+Rall, J. A., & Woledge, R. C. (1990). Influence of temperature on mechanics and energetics of muscle contraction. American Journal of Physiology-Regulatory, Integrative and Comparative Physiology, 259(2), R197-R203.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+3.30.07+PM.png&Size=17259&Type=image%2Fpng&F=F_2dg6uQ2e38yvj8U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+depicts the average contraction force of frog legs before and after icing the legs with standard deviation bars*************************************************************************
+
+
+

@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-17 21:35:09
+Author of this lab report is: Std_ypjTYUVb
+ID: R_eRSit3n2HT8M2yZ
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Extra Acetylcholine on the Minimal Voltage Potential Threshold of Muscle Contraction of Frog
+
+Abstract:
+Neuromuscular system is a crucial way an animal reacts to changes in its environment. This experiment investigates the effect of extra ACh on the minimal voltage potential threshold of muscle contraction on the frog’s gastrocnemius muscle. It is hypothesized that after injection of ACh, a smaller voltage is needed to contract the muscle, because there will be more abundant ACh. The hypothesis is not supported by the results as the experimental group (post-injection) has a higher minimal voltage threshold, mean difference of 0.15v, than the control group (pre-injection) (t-stat=8.660, df=2, p=0.013). This could be due to the extra ACh crowning and blocking the neurotransmitter receptors. This knowledge is useful as some people may have neuro-disorder of which their bodies produce an unhealthily high amount of ACh.
+
+
+Introduction:
+The neuromuscular system plays a vital role in an animal’s response to changes in its internal and external environments. Muscle contractions are caused by neuron signals. The neurotransmitter Acetylcholine (ACh) released from the axon terminal is turned into an action potential into the T-tubule, which triggers the sarcoplasmic reticulum (SR) to release calcium. Calcium binds to troponin, which causes tropomyosin to leave the actin binding site and allow for actin and myosin to bind, causing muscle contraction [Sadava: 2014]. Not any level of voltage potential can cause muscle contraction. The minimal voltage potential threshold must be reached to cause a contraction [Johnson: 2016]. 
+
+This experiment investigates the effects of extra ACh’s effect on the minimal voltage potential threshold of muscle contraction of frog’s gastrocnemius muscle. The independent variable is whether the muscle would be injected with ACh. The dependent variable is the change in minimal voltage potential threshold. Given such information, it can be hypothesized that if ACh is injected into the muscle, then a smaller amplitude of voltage potential is needed to contract the muscle, as there will be more abundant ACh ready to use for contraction. A small potential may be able to cause the same neurotransmitter diffusion.
+
+
+Materials and Methods:
+3 frog legs are skinned with each of the sciatic nerve isolated. The gastrocnemius muscle is detached from the leg using a scissor at one end and then it is attached to a string and pulled up by the iWorx instrument. The rest of the leg muscle is kept on the table surface. After that two electric impulse needles are inserted into the gastrocnemius, with the black one at the bottom and the red one on top. The three frog legs are then tested with different amplitudes of voltage to find the minimal voltage threshold needed to contract the muscle (control group). The gastrocnemius muscles are then injected with 10mL of ACh then tested again with the same procedure using different voltages to find the minimal threshold (experimental group). Mean, two-tailed two-sample t-test were used to evaluate the results, which were calculated using MS excel.
+
+
+Results:
+Looking at Figure 1 and table 1, a significant difference between before and after injection of ACh can be seen. In each of the trials, the minimal voltage threshold after injection of ACh is always higher than pre-injection. There is a mean difference of 0.15 +/- 0.3v. The experimental group’s minimal threshold is statistically significantly higher than that of the control group (t-stat=8.660, df=2, p=0.013).
+
+
+Discussion:
+The alternative hypothesis, that if ACh is injected into the muscle, then a smaller amplitude of voltage potential is needed to contract the muscle, is not supported by the results. But the null hypothesis that the injected ACh has no effect on voltage threshold is also not supported. Figure 1 and table 1 show that the experimental group, injected with ACh, needs a statistically significantly bigger amplitude of voltage potential to contract the muscle, which is the opposite of the alternative hypothesis. 
+
+This result could be due to the fact that after ACh is released and bind to the receptors on muscles, the ACh needs to be broken down and recycled and receptors need to reset. However, when there is too much ACh in the cells, the receptors are blocked by the extra ACh. Therefore, more voltage is needed to activate the contraction. similar situations are when certain pathological states increase or decrease ACh receptors number; or drugs or toxins inhibition the ACh receptors, causing a higher minimal voltage potential threshold [JA: 1992].
+
+Knowing that extra ACh rises the minimal voltage threshold for muscle contraction is useful as some people may have neuron disorder that causes their body to produce an unhealthily high amount of ACh. Further experiments can be done to explore what happens when there are less ACh than a healthy person, or competitive substrates that compete with the same neurotransmitter receptors, such as nicotine or other substances that are harmful to human health. 
+
+
+Literature Cited:
+1.	Sadava, David E., et al. 2014. Life: the Science of Biology. Boston. Sinauer
+2.	Johnson AD. Unit 2: Nerve & Muscle. Comparative physiology BIO 114 laboratory manual. Dept. Biology. Wake Forest University. Winston-Salem, NC. Vers. 18.2, updated 8/2/18
+3.	Ja, Martyn. 1992. Up-and-down Regulation of Skeletal Muscle Acetylcholine Receptors. Effects on Neuromuscular Blockers. Dept. Journal of Anesthesiology. 76:822-843
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-17+at+21.18.36.png&Size=75213&Type=image%2Fpng&F=F_2CUMMDGNwSYfvTL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-17+at+21.18.47.png&Size=251414&Type=image%2Fpng&F=F_2QmMDhVWzJkBpHg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Minimal voltage threshold for muscle contraction of gastrocnemius muscle before and after injection of ACh measured in volts
+Figure 1. The minimal voltage potential threshold before and after injection of ACh*************************************************************************
+
+
+

@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-05 19:09:15
+Author of this lab report is: Std_Mhwtxz57
+ID: R_1ir0Npos37hPzxD
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title:  Comparing the Effects of 2,4-D and Paraquat Herbicides on Electron Transport
+
+Abstract:
+In this experiment the effects of various herbicides on electron transport activity was examined. It was hypothesized that paraquat would be the more effective electron transport inhibitor based on its electron accepting capabilities. The experiment was designed by creating three groups, one control and one of each herbicide, in solution with Spinacia oleracea chloroplasts and electron accepting molecule DCPIP, which changed colors when reduced. The absorbance was taken over a period of 30 minutes, and this data was analyzed to show statistical significance between 2,4-D and the control, but not between any other groups. This led us to reject our hypothesis, as it was clear that 2,4-D had the most impact on the rate of electron transport. 
+
+Introduction:
+Photosynthesis is a process used by plants, protists, and select bacteria to harvest energy. Photosynthetic activity in complex plant cells happens in organelles known as chloroplasts. Photosynthesis involves coupled reduction-oxidation reactions, which create an electrical current. This electrical current causes a proton gradient, which provides the energy necessary for ATP synthesis. The coupled redox reactions make up the “electron transport chain”. In nature, the electron transport chain uses the electron-carrying molecules NADH and NADPH. The first two stages of photosynthesis are light-dependent and are referred to as photosystems I and II. The third stage of photosynthesis is not light dependent. Herbicides are solutions that can be used to alter photosynthesis. Herbicides can act through numerous mechanisms at any stage of photosynthesis. A study conducted in 1975 showed that 11 herbicides acted through two different mechanisms to slow photosynthetic activity. Five of the herbicides acted before illumination began, and six of the herbicides acted only post-illumination [Alsop, Moreland: 1975]. In this experiment, we will compare the effects of two different common herbicides, paraquat and 2.4-D, on the rate of electron transport in the chloroplasts of Spinacia oleracea (commonly known as spinach). Spinach is an ideal model for monitoring electron transport rates as it is very easy to isolate and enrich the chloroplasts in spinach. Paraquat is an electron-acceptor, so it will act by inhibiting the electron transport chain  [Fukushima, et al: 1993]. The herbicide 2.4-D is an auxin-type herbicide, so it has a much different mechanism of inhibition, affecting the plant signaling molecule auxin to slow the plant from transporting effectively [Mann, et al: 1965]. In this experiment, we will use DCIP, as it makes a distinct and measurable color change when it is reduced. Therefore, we can measure the rate of electron transport by measuring absorbance. We predict that the herbicide paraquat will have a greater effect on slowing down the rate of electron transport in spinach, which will lead to lower absorbance values, which indicates a lower rate of electron transport. This is likely to occur because paraquat has a direct effect on the transport of electrons within chloroplasts. It is hypothesized that 2,4-D will not have as great of an effect on electron transport, as it is not an electron acceptor. 
+
+
+Materials and Methods:
+Four spinach leaves were obtained.. In order to isolate the chloroplasts, the four leaves were placed in a mortar and pestle with 10 mL of buffer solution (400 mM sucrose in Tricine buffer, pH 8.0), and grinded to a slurry. An additional 10 mL of buffer solution was added. The solution was then then strained through a cheesecloth and the liquid was collected. The liquid was spun in a centrifuge for 3 minutes at 1200 rotations per minute. The chloroplast suspension was spun at 2800 rotations per minute for 10 minutes. The pellet from the second spin was used for the remainder of the experiment. 13 test tubes were labelled, one blank, four control tubes (labelled #1-4), four tubes with paraquat (labelled #5-8), and four tubes with the herbicide 2,4-d (labelled #9-12). To the blank, only 8 mL of water and 2 mL of reaction buffer (100 mM phosphate, pH 6.5) was added. To test tubes #1-4, 6 mL of water, 2 mL of DCPIP, and 2 mL of reaction buffer was added , these tubes served as the control group. To tubes #5-8, 5 mL of water, 2 mL of DCPIP, 2 mL of reaction buffer, and 1 mL of paraquat was added. To tubes #9-12, 5 mL of water, 2 mL of DCPIP, 2 mL of reaction buffer, and 1 mL of 2.4-d was added. Once the tubes were ready, 100 μl of our enriched chloroplasts was added to each tube. A small amount of each mixture was then transferred to cuvettes, the spectrophotometer was blanked (set at 600 nm), and the absorbance of each solution was measured and recorded . Each tube was placed under a light and allowed to sit for ten minutes. After ten minutes, the absorbances were measured again, and the percent change between the initial absorbance and the absorbance after ten minutes was calculated. This step was repeated at 20 minutes and at 30 minutes. After all of the data had been recorded, multiple two-tailed t-test were used in order to determine whether or not there was statistical significance between the control group and herbicide groups. The t-test was performed with the paraquat group and the control group, as well as the 2,4-D group and the control group, and finally, between the paraquat group and the 2,4-D group. A t-test was performed on the percent change between time zero and thirty.
+
+
+Results:
+Statistical test: Two-tailed t-test  The t-test that was performed on the paraquat and control groups showed no statistical significance between the means of each group (p-value​ = 0.0699, df = 3, t stat = -2.764). The t-test that was performed for the 2,4-D group and the control group did show statistical significance (p-value = 0.0147, df = 3, t stat = -5.087). The t-test between the paraquat and 2,4-D groups also showed no statistical significance (p = 0.054, df = 3, t stat = -3.084). . The absorbance in the control group was initially higher than both herbicide groups. After 30 minutes, the herbicide 2,4-D was much higher than that of the control and the paraquat herbicide groups. In figure two, the percent change of 2,4-D was much lower than the percent change of the paraquat and control groups. 
+
+Discussion:
+Photosynthesis is a process of plants that is used to derive energy from the sun. Photosynthesis is comprised of three systems, two light dependent systems and one light independent system. One of the important mechanisms used in photosynthesis is the electron transport chain, the energy from which is used to create a proton gradient. Prior to this experiment, it was hypothesized that an electron accepting herbicide, paraquat, would have a stronger effect on the rate of electron transport in spinach plants, than the herbicide 2,4-D, which is not a known electron acceptor. The results of this experiment show that it is likely that each herbicide, paraquat and 2,4-D, have different mechanisms of inhibiting plant growth. This data is somewhat concurrent with the data found in the 1975 experiment [Alsop, Moreland: 1975]. The data shows that 2,4-D had more impact on the rate of electron transport than did paraquat. By referencing figure 1, it is clear that the paraquat group and the control group have very similar representations on the graph. The paraquat and control group were both allowing DCPIP to be reduced, while the 2,4-D group was not. The t-test determined that there was statistical significance between the 2,4-D and the control with a p-value of 0.0147, but not between the paraquat and the control (p-value = 0.0699), or the 2,4-D and the paraquat (p-value = 0.054). The paraquat was essentially less effective than the 2,4-D at inhibiting electron transport. This means that the hypothesis was rejected, considering that it was predicted paraquat would be the more effective inhibitor of electron transport. This rejection could be explained in a number of ways. DCPIP could have been a much more efficient electron acceptor than paraquat, 2,4-D could have been a more efficient inhibitor of electron transport, etc. [Fukushima, et al: 1993]. However, it was correctly assumed that paraquat and 2,4-D acted through different mechanisms, as it is safe to assume that if both herbicides acted through identical mechanisms, the results of this experiment would have been much more similar. Therefore, our results do concur with The Alsop and Moreland experiment from 1975. In terms of real-world application, this does not mean that 2,4-D is a better herbicide than paraquat, only that it is a better inhibitor of electron transport. If you wished to determine which was a better herbicide, there are several other factors that would need to be considered, and a much different experiment would need to be designed. This concept of herbicidal effects on Spinacia oleracea could be taken in a number of different directions and could be monitored at all stages of photosynthesis. It is important to understand the role of herbicides on plant growth and photosynthesis because of the real world applications that herbicides have. Herbicides are used throughout the agriculture industry to control or deter plant growth. 
+
+Literature Cited:
+Alsop, W R., Moreland, E D., (1975). Effects of herbicides on the light-activated, magnesium-dependent ATPase of isolated spinach (Spinacia oleracea L.) chloroplasts. Pesticide Biochemistry and Physiology, 5(2). 163-170. https://www.sciencedirect.com/science/article/pii/0048357575900711   
+
+Fukushima, T. , Yamada, K., Isobe, A., Shiwaku, K., Yamane, Y. (1993). Mechanism of cytotoxicity of paraquat: I.NADH oxidation and paraquat radical formation via complex I. Experimental and Toxicologic Pathology, 45(5-6). 345-349. https://www.sciencedirect.com/science/article/abs/pii/S0940299311804240   
+
+Mann, J. D., Jordan, L. S., & Day, B. E. (1965). A survey of herbicides for their effect upon protein synthesis. Plant Physiology, 40(5), 840–843. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC550391/
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=214+Lab+report+revision+figure+1.png&Size=22690&Type=image%2Fpng&F=F_3EuoDrHfM9I8S3r
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=214+lab+report+revision+figure+2.png&Size=17750&Type=image%2Fpng&F=F_3iCmRvXwiJfm7s5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+
+Figure 1: This figure shows the difference in absorbances between the paraquat herbicide, 2,4-D herbicide, and the control group. The absorbance was taken at zero minutes light exposure, 10 minutes of light exposure, 20 minutes of light exposure, and 30 minutes of light exposure. The absorbances shown are an average of four trials of each group. 
+
+Figure 2: This chart shows the percent change of the absorbance of each group after 10, 20, and 30 minutes.*************************************************************************
+
+
+

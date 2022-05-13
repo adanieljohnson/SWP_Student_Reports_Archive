@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-08 07:55:19
+Author of this lab report is: Std_IoXjcUsE
+ID: R_22xIzBHyFSjospb
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The effect of caffeine on the amplitude muscular contraction 
+
+Abstract:
+The neuromuscular junction acts as a connection between the nervous system and muscular system where stimuli above threshold results in a muscular contraction. With the knowledge of the neuromuscular junction, we can manipulate it through the use of chemicals such as caffeine. Caffeine asks as a stimulant at the neuromuscular junction, activating higher levels of Calcium ions to flow around. In this experiment, we looked at the effect of caffeine on the amplitude of muscular contraction on [Rana pipiens] frog legs, specifically the sciatic nerve which innervates the gastrocnemius muscle. In the control group, threshold stimulus was applied to the sciatic nerve and the muscular response was recorded on IMBX software. The treatment group received an injection of caffeine before stimulus. The data collected showed that there was a significant difference in muscular contraction between the two groups. The significance of the statistical analysis indicates that caffeine does stimulate a larger change in contraction that allows muscles to respond more forcefully.
+
+Introduction:
+The neuromuscular system combines the nervous and muscular system to sense and respond to internal and external environments. Skeletal muscles are innervated by motor neurons into several individual myofibers at points called neuromuscular junctions. Nerve impulses arrive to the neuromuscular junction through the neurons to cause a release of acetylcholine (ACh). ACh generates an actin potential in the muscular fiber, which releases Ca2+ and activates the contraction of the sarcomere, and all together the muscle fiber [Johnson: 2018]. This lab focuses on the gastrocnemius muscle, which is innervated by the sciatic nerve, of [Rana pipiens]. The [Rana pipiens] frog was used in this experiment since their species has historically been a part of research regarding the neuromuscular junction. They have a unique muscular structure that makes them a compelling research model [Christenson: 2014]. An NCBI study explains the frog’s “impressive force” due to the contractility of its leg’s muscles and the efficient coupling mechanism between fiber and muscle [Moo: 2017]. This experiment treats the [Rana pipiens] with an injection of caffeine straight into the gastrocnemius muscle and evaluates the response of the frog’s responding muscle contraction. It has been reported that caffeine increases the amount of ACh transmitter released by the nerve terminal during nerve stimulation. It acts as a stimulant. This catalyzes a change in Calcium release [Wilson: 1973]. Those findings present a physiological change but raise the question how much of a difference in tetany caffeine induces. I hypothesized that caffeine will create a higher muscle contraction when stimulated with the same voltage as no caffeine.
+
+Materials and Methods:
+Three [Rana pipiens] legs were provided. On each leg, the skin was pulled off, exposing the muscle. Everything was moistened with Ringer’s solution. Using fingers, the sciatic nerve, located at the thigh, was freed from surrounding muscle and blood vessels and placed upon the nerve stimulator. The gastrocnemius muscle was separated from the tibialis anterior using scissors and strung at 90degrees from the force conductor, which was connected to the IWRX software system. The nerve was stimulated at 0.1 volts 3 times and the response was reported. Then, 0.1 mL of 200 mmol caffeine was injected into the gastrocnemius muscle and it was stimulated at 0.1 volts again. This process was repeated with the other two legs. A paired t-test was used to analyze the data and locate significance.
+
+Results:
+The average amplitude for the control group was 0.570 V, while the average amplitude for the caffeine group was 1.276 V (Fig. 1). On average, the tetany contraction of the frog leg increased over two times after the injection of caffeine. The control group had a higher standard deviation of 0.439 V than the caffeine group, whose standard deviation was 0.202 V (Fig. 1). A paired t-test was used to analyze the significance of the results. The statistical analysis yielded a p-value of 0.003, meaning statistically significant results at the 0.05 level. After injected with caffeine, the frog legs contraction looked greater from the human eye than before. The muscle also got very hard to the touch and looked lighter in color.
+
+Discussion:
+My hypothesis that caffeine will create a higher muscle contraction when stimulated with the same voltage as no caffeine was supported by the data. The paired t-test shows statistically significant differences between the control and treatment groups. In both groups, there were pretty high standard deviations. These values could account for small discrepancies between the individual frog’s muscle strength. Overall, the results suggest that caffeine acts as an agonist and promotes the muscle contraction in [Rana pipiens]. Since caffeine increases the amount of ACh transmitter released by the nerve terminal during nerve stimulation, the muscle more effectively contracts and at a higher amplitude. Caffeine creates a chemically induced tetany. Another study examined the effects of caffeine on frog legs and emulated the same results. The study published from the Juntendo University School of Medicine found that caffeine increased the amplitude of threshold contraction. The results suggested that the effect of caffeine was noted at the presynaptic part of the neuromuscular junction [Onodera: 1974]. Our findings aligned well to theirs. A future study could test the effect of higher concentrations of caffeine. The purpose of this study would be to identify if there is an optimal amount of caffeine to be injected. Then this could be potentially be safely applied for human use.
+
+Literature Cited:
+1. Christenson MK, Trease AJ, Potluri LP, Jezewski AJ, Davis, VM, Knight LA, Kolok, AS, Davis PH. “De Novo Assembly and Analysis of the Northern Leopard Frog...” Journal of Genomics, NCBI, Oct. 1 2014. 
+ 2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 11–16 
+3. Moo EK, Peterson DR, Leonard TR, Kaya M, Herzog W. “In Vivo Muscle Force and Muscle Power during near-Maximal...” PLOS One, NCBI, Mar. 10, 2017.  
+4. Onodera, Kayoko. “Effect of caffeine on the neuromuscular junction of the frog...” The Japanese journal of physiology, 1974. 
+5. Wilson, David. “Effects of caffeine on neuromuscular transmission in the rat” American Physiological Society, Vol 225, Oct. 1 1973.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-08+at+7.42.51+AM.png&Size=75558&Type=image%2Fpng&F=F_1gngsX4Z9YGVUKr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mean response before and after caffeine treatment. Each bar is a mean response of 3 frogs from before and after the treatment of caffeine, error bars are s.d.*************************************************************************
+
+
+

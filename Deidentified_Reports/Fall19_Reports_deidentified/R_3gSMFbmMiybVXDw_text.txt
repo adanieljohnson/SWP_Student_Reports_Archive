@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-28 22:47:59
+Author of this lab report is: Std_4rAjiWkb
+ID: R_3gSMFbmMiybVXDw
+Course number: BIO102L
+TA: TA_VP4awTgP
+*************************************************************************
+Title: The effect of increased temperature on the photosynthetic activity of spinach chloroplasts
+
+Abstract:
+Photosynthesis is demonstrated by sunlight being converted into food and energy for a plant, producing oxygen in the process as well. In studying this process, this experiment attempted to find a connection between photosynthetic activity and increasing temperature, specifically the difference between room temperature and 45°C. Spinach leaves were used as the test subject, as they are readily accessible and their chloroplasts are easily harvested. We hypothesized that if the temperature of the chloroplasts’ environment was increased to 45°C, then there would be decreased in photosynthetic activity, represented by the percent change in absorbance. Two positive control groups were used, one at room temperature, and one at the increased temperature, and the absorbance of each was measured at three ten-minute intervals. The experiment showed that photosynthetic activity was greater in the room temperature chloroplasts, but analysis through a one-tailed paired t-test demonstrated that the data observed was not significant. The information gained from this experiment and others with similar hypotheses provide insight as to the factors that make photosynthesis the most efficient.
+
+Introduction:
+Photosynthesis is a process used by plants where light from the sun is harvested to create the plants’ own food from carbon dioxide and water, producing oxygen as a byproduct. It is a three-step process, two of which are light-dependent, while the other is light-independent. Light-dependent reactions, which occur during Photosystem II in the photosynthetic process, gain reducing power through NADPH, which is later used to drive the proton gradient during the synthesis of adenosine triphosphate, the energy currency of all cells. The purpose of light-dependent reactions is to create 6-carbon glucose molecules through the reducing power of NADPH combined with energy from ATP, and both of their interactions with RUBISCO, an enzyme complex. The Hill reaction measures Photosystem II activity, which is subsequently affected by outside factors, such as differing environmental conditions, chemicals, temperature, and wavelengths of light. When plants are in an environment of an optimum temperature, the electron transport rate, and thus photosynthetic activity, is higher than that in thylakoids from plants grown at higher temperatures [Yamori: 2005]. Evidence of photosynthesis and this Photosystem II activity can be seen in spinach leaves, through the measurements of the activity in their chloroplasts. We hypothesize that if we increase the temperature of a spinach leaf’s environment from room temperature to 45°C, then the photosynthetic activity of the spinach leaf would decrease.
+
+Materials and Methods:
+To test our hypothesis, we utilized four spinach leaves for photosynthetic activity measurement. The leaves were grinded by mortar and pestle, and differential centrifugation was used twice in order to enrich and harvest the chloroplasts. The second supernatant was isolated after centrifugation, and additional grinding buffer was added to increase the volume of the pellet. For the negative control group, DCIP was added to a total of three test tubes with water and reaction buffer, without the addition of chloroplasts. Six test tubes of the positive controls contained chloroplasts for their photosynthetic activity to be measured. Half of them were kept at room temperature (25°C), while the other half were placed in an incubator at 45°C. A blank test tube was also used in order to blank the spectrophotometer at 600 nm. The absorbances were measured upon creating the mixtures (time zero), and then at 10-minute intervals for a total of 30 minutes. Percent change between each test tube’s original absorbance and its absorbance at each interval was recorded. A one-tailed paired t-test was used to analyze the data, with the determination that a significant difference between data was present with a P-value less than 0.05. 
+
+Results:
+Throughout the experiment, there were minimal, but present differences in absorbance values between the different test groups. With the positive control group at 25°C, it was obvious that the absorbance value changed, showing that there was photosynthetic activity present in the chloroplasts. The group that did not have chloroplasts was used as a reference point, as there was minimal percent change in absorbance, showing no photosynthetic activity. The absorbances of the group at 45°C changed as well, but to a lesser overall percentage. Figure 1 helps to visualize this data, showing that the absorbances of the positive control groups changed from their original, and that the absorbances of the chloroplasts at 25°C changed more than those at 45°C. The standard deviation for the room temperature group was greater than that of the incubated group, as depicted by the error bars in the graph. The one-tailed paired t-test showed that these general trend conclusions are not significant, as the p-value was calculated to be 0.15.
+
+Discussion:
+The general trend seen in the data was that there was a greater percent change in absorbance of the chloroplasts kept at 25°C in comparison to the chloroplasts kept at 45°C, demonstrating decreasing photosynthetic activity at an increased temperature, as we predicted in our hypothesis. The evaluation of our one-tailed paired t-test value, however led to the conclusion that our results were not significant, which thus suggests that the trend we observed was most likely due to chance. Since the data was insignificant, the question of the effect of increased temperature, specifically 45°C, on the photosynthetic activity of spinach leaf chloroplasts cannot be answered. In an experiment that studied interactions of increased temperature and drought on photosynthesis in wheat, it was found that the two variables often go hand in hand, with drought being more severe with increasing temperature. Nevertheless, each of the variables separately confirmed a decline in photosynthesis, as well as a reduction in the efficiency of water-use [Shah: 2003]. Other variable within the study environment were not taken into account, as most of them were consistent for both groups, such as light exposure, amount of solution and water, and humidity. We did not have the appropriate equipment to confirm that these factors were indeed exact for each group, as the incubator may have skewed some of the factors for the spinach leaves that were measured at 45°C. In another experiment that studied this same effect, it was discovered that the rates of electron transport in Photosystem II in spinach leaf chloroplasts decreased significantly at a higher temperature compared to those at room temperature. It was noted that all activity was nearly lost at 45°C [Mathur: 2011]. Using this information, a future experiment should keep the same hypothesis, but should measure the variables over a longer period of time. This could influence more accurate data, as photosynthesis would have more time to develop in the leaves and external influences on the data would have the chance to stabilize, as a means not to interrupt the data. A future experiment could also measure codetermining factors in photosynthetic activity, such as humidity and temperature, to see greater differences in activity. It is important to study photosynthesis, as it is the way not only plants survive, but us humans do as a result. Studies concerning photosynthetic activity help define what factors benefit and counteract photosynthesis, assisting in creating an understanding of how this process functions most efficiently.
+
+Literature Cited:
+References
+
+1. Yamori W, Noguchi K, Terashima I. 2005. Temperature acclimation of photosynthesis in spinach leaves: analyses of photosynthetic components and temperature dependencies of photosynthetic partial reactions. Plant, Cell & Environment. 28: 536-547. 
+2. Shah N, Paulsen G. 2003. Interaction of drought and high temperature on photosynthesis and grain-filling of wheat. Plant and Soil. 257: 219-226. 
+3. Mathur S, Singh P, Mehta P, Jajoo A. 2011. Effects of high temperature and low pH on photosystem 2 photochemistry in spinach thylakoid membranes. Biologia Plantarum. 55: 747-751.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Percent+Change+of+Test+Samples+vs.+Time.png&Size=125783&Type=image%2Fpng&F=F_2QYEMvgSosLU6zy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The graph depicts the difference in percent changes of the absorbances of the spinach leaves in the negative and positive control groups, with their standard deviations represented by the error bars.
+*************************************************************************
+
+
+

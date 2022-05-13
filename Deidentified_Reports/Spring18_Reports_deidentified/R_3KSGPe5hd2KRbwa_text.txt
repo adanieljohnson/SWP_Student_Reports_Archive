@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 14:24:35
+Author of this lab report is: Std_Awseqrq9
+ID: R_3KSGPe5hd2KRbwa
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effect of Acetylcholine on the Skeletal Muscle of the Frog Leg
+
+Abstract:
+Using a myogram, we are able to record a single of a muscle twitch. When testing the effect of acetylcholine on the skeletal muscle of the Frog leg, this tool allows the amplitude (volts) of each twist to be recorded. After dissecting the frog’s leg and isolating the gastrocnemius muscle and sciatic nerve and using the myogram, iWorx, a distinction between the contraction before and after the addition of ACh was found.  With a two-sample t-test, control group and experimental group were compared, and the results showed a significant difference between the two groups (P=.000004). An addition of Acetylcholine decreases the amplitude of the contraction in the skeletal muscle. 
+
+Introduction:
+Similar to hormones, nerves and muscles allow organisms to sense and respond to the internal and external environments. The main difference is that in the neuromuscular system, it can respond in milliseconds. Skeletal muscles have thousands of myofibers (cylindrical, multi-nuclear, fused aggregates of cells) that are bound together by connective tissue to form functional groups—skeletal muscles. These muscles are innervated by motor neurons, in which the axons of motor neurons extend into a muscle and then branching out into individual myofibers, called neuromuscular junctions. Muscle contraction is stimulated by a nerve through a process called excitation-contraction coupling. This process occurs when nerve impulses arrive at the neuromuscular junction and release acetylcholine (ACh) from the presynaptic nerve terminal. ACh binds to its receptor, opens sodium channels that generate an action potential in the muscle fiber. The action potential spreads throughout the length of the fiber to stimulate the release of CA+2 from the sarcoplasmic reticulum. This then activates the contraction mechanism of the muscle fiber, thus causing it to shorten. By isolating the gastrocnemius muscle and sciatic nerve from a frog leg, the basic properties of neuromuscular control will be shown. 
+In a study by E. Davis form the Department of Physiology, University of Manchester, frogs were used to test how different drugs—Adrenaline and Acetylcholine— influence the contraction of a muscle in the frog. In the study, it was found that at certain levels of additional ACh was least effective and reduced in contraction somewhat in amplitude and rate (Davis 1931). A myogram is a visual representation or recording of the different stages within a single muscle twitch. If there is an addition of ACh to the gastrocnemius muscle, then the myogram will show the muscle contract at a smaller amplitude. 
+
+Materials and Methods:
+To begin the experiment, we set up the computer software “iWorx” and adjusted the setting to “Animal Muscle”. In the toolbar controlling the settings of the experiment, Pulse Amplitude (amp) was set to 0.000V to start, the number of pulses is set to three, frequency (Hz) and the pulse width (W) to 5 milliseconds. 
+Two frog legs were prepared for testing through the same preparation procedure as follows: The outer skin was peeled off of the entire leg, and the ventral side is located by finding the side of the leg that had a cleft in the thigh muscle, as opposed to the smooth thigh muscle located on the dorsal side of the leg. Once the ventral side of the leg was exposed, the cleft is pulled apart, exposing the inner muscle of the thigh. The sciatic nerve, a white, thin cord, is located and put to the side of the muscle. Using scissors, the gastrocnemius muscle will then be detached from the tibialis anterior muscle by breaking the seal between the membranous connective tissue holding the two muscles together. Making sure to cut as much as the Achilles tendon as possible, the gastrocnemius muscle is detached from the lower portion of the leg. A looped knot of a string will then be tied on the junction between the Achilles tendon and the gastrocnemius muscle. The loop is placed around a hook on an adjustable mechanical arm. Pins are used to secure the frog leg around the femur on the thigh, and around the tibia bone below where the gastrocnemius muscle is hanging. Once the leg is pinned, the arm should be adjusted for both height and tension to allow the gastrocnemius muscle to sit at a ninety-degree angle with the mat. Two probes with silver conductive wire are laid next to the muscle, taking care not to touch each other. The sciatic nerve is then laid overtop both of the probe wires, allowing for direct stimulation of the nerve. 
+After the leg is set up, tests are run to find the threshold value of the ​voltage that allows for contraction of the frog muscle. To find the threshold, the amplitude is set at a value of 0.1 and increases by increments of 0.1 in order to find the maximum V2-V1 value of each myogram, that represent the amplitude of the muscle contraction on the myogram. This is measured in volts. Now that the threshold value is found, use the equation: Threshold value + Threshold value* 25% to ensure that we are safely within the threshold when running test. 
+For the control, run three myograms with the new value calculated. Calculate the V2-V1 value of each myogram. For the experiment, a syringe should be used to draw 0.1 mL of acetylcholine out of a container. In the top half of the gastrocnemius muscle, 0.05 mL of acetylcholine is injected, and the other 0.05 mL is injected into the bottom half of the gastrocnemius. Wait sixty seconds, and then run three myograms more with the same calculated threshold value. Record the V2-V1 value for each myogram. The same process is repeated using the second frog leg. To compare the control and experiment amplitudes use a two-sample t-test. 
+The biological waste should be disposed of separately from the remaining garbage and the set up needs to be disassembled and cleaned using ethanol spray. 
+
+
+Results:
+For Frog 1, represented by trials 1-3 in Figure 1, it took less amplitude to get to the threshold compared to Frog 2, where it took a higher amount of amplitude. This explains why for the controls of the Frogs, they started at different amplitude values. Figure 1 shows a difference of about .2 V in the control. The general trend is that with added Acetylcholine the amplitude decreases significantly for each frog. This is consistent with each frog and each trial. A two-sample t-test is performed to compare the difference between the control and experiment and show if there is a significant difference by random chance. We will use a the two-tail p-value to test the statistical significance for both directions, negative or positive.  The mean of the control group is statistically significantly different than that of the experimental group (t-stat= 15.7 df= 6, P= 0.000004). 
+
+Discussion:
+The findings in the results, shown in Figure 1, support the hypothesis that with an addition of ACh to the gastrocnemius muscle, then the myogram will show the muscle contract at a smaller amplitude. When the addition of ACh is not present, the amplitude is substantially higher than when it is present. There is about a .8 difference in the amplitude or contraction. Muscle contraction is stimulated by a nerve impulse that arrives at the neuromuscular junction and releases acetylcholine (ACh) from the presynaptic nerve terminal. ACh then binds to its receptor, opens sodium channels that generate an action potential in the muscle fiber. CA+2 is releases and the muscle shortens causing a contraction. When too much ACh has released the strength of the contraction decreases substantially. There are two reasons as to why this might happen. The first is because there are only a certain number of receptors available to bind with the ACh and when there is an excess amount of ACh, the muscle becomes insensitive. The second is due to ACh reaching the terminals and adaption occurring too quickly for contractions to happen (Diamond 1958). The next logical step is to test how different amounts of additional ACh affect the amplitude of the contraction. This would entail finding the max amount of extra ACh a muscle can intake before there is too much for the muscle to function in producing a contraction. 
+
+
+Literature Cited:
+Davis, E. (1931). Relations between the actions of adrenaline, acetylcholine, and ions, on the perfused heart. The Journal of Physiology,71(4), 431-441. doi:10.1113/jphysiol.1931.sp002748
+
+Diamond, J. (1959). The effects of injecting acetylcholine into normal and regenerating nerves. The Journal of Physiology,145(3), 611-629. doi:10.1113/jphysiol.1959.sp006166
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-26+at+6.39.46+PM.png&Size=81777&Type=image%2Fpng&F=F_1Ke7IGAXGn6KumB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Shows data collected from the iWorx program. Three trials were done for each frog leg. Trials 1-3 correspond to the first frog and trials 4-6 correspond to the second frog. The amplitude values without the addition of acetylcholine (Control) are displayed in blue and the amplitude values with the addition of acetylcholine (Experiment) are shown in orange. 
+
+*************************************************************************

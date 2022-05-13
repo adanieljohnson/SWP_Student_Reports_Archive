@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-09 20:21:11
+Author of this lab report is: Std_aMo3KstR
+ID: R_2EsBlBqsuG8mBu9
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The effect of voltage-gated calcium channels on the relaxation-contraction process of the Rana pipiens' gastrocnemius muscle
+
+Abstract:
+Rana pipiens’ (leopard frog) gastrocnemius muscles are used in this experiment as subjects for studying how the calcium channels in the skeletal muscle mediate the relaxation-contraction cycle. Since the calcium channel causes calcium influx to the sarcoplasm and calcium ions binds to the actin subunits to induce contraction, we hypothesize that the injection of calcium blocking agents will debilitate the gastrocnemius muscle contraction. All four subjects were used as control and treatment group, and we waited ten minutes for the injection of lanthanum chloride (a calcium channel blocker) to take effect before performing the treatment round of experiment. The paired t-test shows that the p-value of this experiment is 0.115, which is insignificant. Thus, we conclude that the calcium blockage does not induce any significant change in the muscle’s ability to contract. Other researchers claimed that different calcium channels have different sensitivity to lanthanide ions, which explains our result. For further research, we need to study the differences between calcium channels to know more about the mechanism of muscle contraction.
+
+Introduction:
+Rana pipiens (northern leopard frogs) legs were used in this experiment to determine the ionic mechanism of skeletal muscular contraction. We use frog legs because they are relatively easy to handle, prepare, and experiment on. The nerve bundle can be seen with the naked eye [Jonson: 2018].  In the neuromuscular system, electrical signals sent by the central nervous system is conveyed to the skeletal muscles by the motor neurons [Jonson: 2018]. The neurotransmitter acetylcholine is released into the neuromuscular junction by the facilitation of Ca ions, docking protein, exocytosis, and diffusion after the action potential reaches the axon terminal. The acetylcholine then transfers the action potential through the surface of muscle fibers. The t-tubules deliver the electrical current into the centers of the muscle fibers and the voltage sensor convey the voltage change to the voltage-gated Ca2+ channels embedded in the sarcoplasmic reticulum (SR) and opens them. Since the concentration of Ca2+ inside the SR is higher than the sarcoplasm, once the channel is opened, Ca2+ flows into the sarcoplasm and binds to troponin, which then alters the configuration of tropomyosin and causes muscle twitch. Voltage-gated Ca2+ channels, embedded in both the axon terminal and the SR membrane play a very important role in the contraction of skeletal muscles [Sadava: 2017]. Blocking the calcium channel completely would cause the muscle unable to contract because there will not be enough Ca2+ ions to bind with troponin. Lanthanide ions La3+, block Ca2+-permeable channels and has been used by a widely in the scientific community [Halaszovich: 2000]. In this experiment, to find out the effects of dysfunctional calcium channels bring to the skeletal muscle, Lanthanum chloride (which contains lanthanide ions) was used on the subjects. We hypothesize that there will be no detectable muscle twitching after the calcium channels are blocked.
+
+Materials and Methods:
+The skin of all frog legs was peeled off and discarded properly before exposing their Sciatic Nerve for further stimulation. All legs were used to be both control and treatment subjects. We separate their gastrocnemius muscle from their peroneus by cutting off their Achilles tendon and tie a string to the tendon to hold its elevation. The electrical force transducer was attached to the Sciatic Nerve. We used the same threshold stimulation for both subjects. To find the threshold stimulation, we started at zero and increased voltage by 0.1 each time. After three sequential stimulation, each leg was injected with 0.1 mL1mM lanthanum chloride. We waited for ten minutes before initiating the second round of test. To find a new threshold, the steps taken the first time was repeated. IWorx is the software we used to record the amplitude of each twitch. For each leg, three sequential stimulation was applied, so that we can get an average, more reliable value. We used a paired t-test to analyze the data collected in the experiment. In order for the data to be statistically significant, the p-value should be less than 0.05. The used frog legs and syringe were disposed properly in specialized containers.
+
+Results:
+The threshold of the frogs’ gastrocnemius muscles before the treatment is the same, 0.2 volts. The threshold of the muscles after the injection of lanthanum chloride changed to 0.3 volts for the first subject and 0.15 for the third and fourth subject but didn’t change for the second subject. The average twitch amplitude before the injection of the first subject is 0.098V. For the second subject, the control average twitch amplitude is 0.65 (Figure 1). Average control twitch amplitude for subjects 3 and 4 is 0.243V. After the injection of 0.1 mL of diluted lanthanum chloride, with the change of the twitch threshold, the twitch amplitude of the muscle also increased for all subjects. The average twitch amplitude of subject one is 0.228V, 1.111V for subject 2, and 0.45 for subject 3 and 4. When the four subjects’ data are put into the statistical test, we see that the p-value of this experiment is 0.115, t-value is 2.67, and the degrees of freedom is 2. The average twitch amplitude of the four subjects before the injection is 0.331, and the average after injection is 0.596 (Figure 5).
+
+Discussion:
+Since the p-value is 0.115, which is higher than 0.05, out hypothesis is not supported. The statistical result leads to the conclusion that injecting lanthanum chloride into skeletal muscle fibers of a frog leg to block the calcium channels does not have a significant influence on the ability to twitch the muscle have before the injection.  After looking into the possibilities given by former researchers, we believe that this result is not an indication of an experimental fail at all. In fact, a study has shown that although lanthanide ions have largely been used as calcium channel blockers, the actual effectiveness varies widely [Halaszovich: 2000]. The effectiveness of lanthanide depends largely on the channel’s sensitivity to lanthanide ions; thus, the blockage result varies between channels. This discrepancy in sensitivity to lanthanide ions results in a half-maximal inhibition of calcium channels; therefore, the concentration of lanthanide ions must vary from cell to cell to achieve maximal inhibition.  Since we injected only one chemical into the gastrocnemius muscles of our subjects without knowing the different levels of sensitivity of calcium channels, some calcium channels may not be blocked effectively. In this experiment, the threshold of subject two is larger than the threshold of the other three subjects in the treatment round of experiment. The twitching force of subject 2 is also larger and tend to increase each time the stimulus is delivered. Research shows that the twitching force of skeletal muscles are tightly related to temperature and stretching tension [Ishii: 2014]. Their study shows that the twitching force of the muscle tends to increase drastically after being stretched. In our experimental process, human errors could have led to a slight increase of tension in the muscle of subject 2, causing it to have the seemingly abnormal responses to the exact same stimulus in the control round. Errors in measuring the amplitude of the twitch could also exist, but it should be insignificant to be accounted since the average was taken with each group and with each treatment.  For further research, to understand more about the specific mechanisms of calcium channels, we need to focus on the different functions of different types of calcium channels, as well as the effect of the differentiation brings. Before performing an experiment like this, the properties of calcium channel blocker should be studied thoroughly, and experimenters should learn to target different calcium channels so that the maximum blockage could have a chance to be achieved.
+
+Literature Cited:
+Halaszovich, C. R., Zitt, C., Jüngling, E., & Lückhoff, A. (2000a). Inhibition of TRP3 Channels by Lanthanides BLOCK FROM THE CYTOSOLIC SIDE OF THE PLASMA MEMBRANE. Journal of Biological Chemistry, 275(48), 37423–37428. https://doi.org/10.1074/jbc.M007010200 
+Ishii, Y., Watari, T., & Tsuchiya, T. (2004). Enhancement of twitch force by stretch in a nerve-skeletal muscle preparation of the frog Rana porosa brevipoda and the effects of temperature on it. Journal of Experimental Biology, 207(26), 4505–4513. https://doi.org/10.1242/jeb.01259 
+Jonson, D. (2018). Comparative Physiology BIO 114 Laboratory Manual. Course Guide, 18 (1), 7-9.
+Sadava, D., Hillis, D., Heller, H., Hacker, S. (2017) Life: The Science of Biology. Sunderland, MA: Sinauer Associates, Inc.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=182940&Type=image%2Fpng&F=F_3EAyzK7lK8uXd4U
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=201720&Type=image%2Fpng&F=F_2Se2HO1jBsdDrZN
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+3.JPG&Size=54909&Type=image%2Fjpeg&F=F_3HuxQtaFLjcIVf1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Twitch threshold of subject no.2 before injection of lanthanum chloride (control) is 0.2V. Twitch amplitudes after three sequential stimuli vary, relatively stable statistics are taken into account. The average of amplitude is 0.653V.  
+Figure 2: Twitch threshold of subject no.2 after injection of lanthanum chloride (treatment) is 0.3V. Twitch amplitudes after three sequential stimuli are overall similar. The second twitch has the largest amplitude as 0.116V. The average of amplitude is 1.111V. 
+Figure 3: Paired t-test of this experiment with an error bar of control and treatment groups’ standard deviation. The standard deviation of the control group (before injection of lanthanum chloride) is 0.235 and is 0.375 for treatment group (after injection of lanthanum chloride). The average amplitude of muscle twitch of all four subjects is 0.3755V+/- 0.235. An increase of twitch amplitude is recorded for the treatment group, with the average being 0.6695V +/- 0.375. The statistical test shows a p-value of 0.115, which means that the result is not statistically significant.
+
+*************************************************************************

@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-07 02:43:12
+Author of this lab report is: Std_RwquF7Er
+ID: R_1N55UuIhSDv6B01
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: How leaf color affects the rate of Photosynthesis 
+
+Abstract:
+The rate of photosynthesis is affected by the thickness and color of leafy green plants’ leaves. Autotrophs obtain their energy by absorbing sunlight in chloroplasts where a series of reactions, including an electron-transport chain, convert this into chemical energy. In this experiment, the leaves of Brassica oleracea and Spinacia oleracea differ in regard to both of these variables so they are excellent subjects to test. B. oleracea should have a faster rate of photosynthesis because its leaves contain more chloroplasts. Photosynthesis activity will be determined by measuring the change in absorbance of DCIP, an electron acceptor, over the course of thirty minutes; the rate of electron transfer will be directly measured, which is an indirect indicator of photosynthesis. The results showed no clear trend about which leaves carry out photosynthesis fastest. The results did not support the hypothesis, as P= 0.814, and the spinach leaf showed the fastest rate of photosynthesis. Further testing should focus on agriculture applications of the most efficient photosynthesizing leaves of food crops like these.
+
+Introduction:
+Photosynthesis is the chemical process by which autotrophs harvest light energy and turn it into ATP, the major energy-carrying molecule in biological organisms. This process takes place in mesophyll cells of plants, which contain chloroplasts, the organelle responsible for photosynthesis. During this process, an electron transport chain is utilized and is part of the conversion of light energy into its final chemical form, ATP. In this experiment the molecule DCIP will be used and is an electron acceptor that when reduced changes color from blue to colorless. By measuring the absorbance of DCIP at different time intervals, the rate of electron transfer for a given leaf can be measured, which indirectly shows photosynthetic activity. Other factors, such as such as the shade of green and thickness of leaves will also affect the rate of electron transfer. This experiment will compare the rate of electron transfer between Brassica oleracea, kale, and Spinacia oleracea, spinach. These two plants have leaves with varying characteristics and will therefore be model organisms to compare these factors that affect the rate of photosynthesis. It has been shown that leaves of darker shades of green are more efficient at absorbing light of the same wavelengths, and therefore can perform photosynthesis at a faster rate than plants with leaves of lighter shades of green [Terashima: 2009]. It has also been proven that the thicker the leaves of plants with similar leaf morphologies, the faster the thicker leaves are able to carry out photosynthesis [Boardman: 1977]. In this experiment, it is predicted that B. oleracea will have a higher rate of photosynthesis compared to S. oleracea because kale is both a thicker leaf and darker shade of green compared to spinach. This means that B. oleracea contains more chloroplasts, and therefore a greater amount of light can be absorbed and converted into ATP. As a result, more electron transport chains will be present in the B. oleracea solution, making the rate at which DCIP is reduced faster compared to S. oleracea, which has fewer total places where electrons can be transferred to the test molecule. 
+
+Materials and Methods:
+Four healthy leaves of about equal size were selected from spinach and kale plants, the central veins were removed, and then grinded using a cooled mortar and pestle with 20mL of grinding buffer. The same materials and equipment were used for both plant leaves, but each sample was kept separate. After grinding to completion, the mixtures were strained through three layers of cheesecloth and then 200 μl of the filtered liquid was transferred from the beaker into a microtube labeled “Sample of A (plant)” and stored on ice. The remaining liquid was put in a centrifuge tube and labeled “A (plant)” and spun at 200 x G for 3 minutes at 4 degrees C. Next, the supernatant was poured out of the tube marked “A” into a second chilled 50 ml centrifuge tube marked “B”. 200 μl of the liquid was again removed and placed in a microtube labeled “Sample of B (plant)” and stored on ice. The 50 ml tube containing the chloroplast suspension (Tube “B”) was spun at 1,000 x G for 10 minutes at 4 degrees C. This supernatant was poured into a third 50 ml tube marked “C (plant)” where 20 ml of grinding buffer was added to the pellet and suspended by stirring with a transfer pipet. Keeping consistency, 200 μl of this resuspended pellet were transferred into a microtube labeled “Sample of B Pellet (plant)” and stored on ice. Finally, 200 μl from tube “C” was removed and placed in a microtube labeled “Sample of C (plant)” and stored it on ice. This completed part one of the experiment.
+For part two, 17 large test tubes were labeled and placed in a tube rack, and a spectrophotometer was set to 600 nm. 6mL of water was pipetted in tubes 1 and 2, and 8mL into tubes 3-17. Every tube also contained 2mL of reaction buffer, along with tubes 3-17 containing 2mL of 130mM DCIP. 100 uL each of spinach chloroplasts were added to blank 1 and tubes 6-11, and 100 uL of kale chloroplasts were added to blank 2 and tubes 12-17. When measuring absorbance, the machine was immediately blanked at 600 nm using Tube 1 (spinach blank), and all subsequent absorbances for tubes 6-11 were recorded. This process was repeated with the kale samples. Tubes 1-8 and 12-14 were put in lamp light and tubes 9-11 and 15-17 in darkness. After 10 minutes, the same process of blanking the spectrophotometer with tubes 1 and 2, and recording the absorbances for the other tubes was performed. This was repeated at the 20- and 30-minute mark. 
+
+
+Results:
+Each group saw their absorbance value decrease over the course of the experiment, except for the two that started with negative absorbance values. These two groups, however, showed decreasing values between the intervals of 10 to 30 minutes from .457 to .313 (dark blue line), and from .29 to .075 (red line) as seen in figure 1. The two samples containing no chloroplasts both finished with the highest absorbance values of .378 and .313. There was no trend to the data with regards to the different groups tested. The spinach chloroplasts in light ended with the lowest absorbance value (.001), followed by kale chloroplasts in dark (.057), then kale chloroplasts in light (.075), spinach in darkness (.083), and lastly the two groups with no chloroplasts (.313 and .378) which is shown in figure 1. The mean of the control group was not statistically significantly different than that of the experimental group (t-stat = 0.246, df= 6, P= 0.814).
+
+Discussion:
+Previous studies have shown that both leaf thickness and color affect a plant’s ability to carry out photosynthesis. Increased thickness and darker shades of green have positive effects on this process, which led to the prediction that kale should exhibit more photosynthetic activity compared to spinach. This should have been represented in the data with the sample containing kale chloroplasts in light finishing with the lowest absorbance value. However, the sample of spinach leaves in light had the lowest final absorbance value of .001, followed by kale in darkness (.057) and kale in light (.075) in figure 1. Spinach in darkness had a final absorbance very similar to the two kale values (.083). The data was also proven to be statistically insignificant between the experiment and control group, and the hypothesis was rejected by the results, P=.814. The close absorbance values along with the p-value indicate that little difference in total photosynthetic activity exists between kale and spinach. Both leaves produced very similar values, especially considering the final absorbances were all extremely small values. Studies have shown that leaves of darker shades of green carry out photosynthesis at a faster rate, however, it was observed that there was not much variation in leaf color between the two plants [Ferguson: 1972]. This observation further supports the conclusion made from the data that kale and spinach have similar rates of electron transfer in their mesophyll cells. The high p-value can also be attributed to the sample size. Only three samples of each leaf were used in each group, which is not enough sets of data to accurately draw a confident conclusion. The results also did not show much variation between chloroplasts in light and dark conditions, even though it has previously been shown that chloroplasts of leafy greens function better in light [Boardman: 1977]. On average, the ones in light had a final absorbance of .038, while the dark ones had an average final absorbance of .070. More pronounced differences between these two sets would most likely be seen if the experiment was conducted over a longer period of time. Another error that could have led to these results is the spectrophotometer. Two different machines were used in the lab, as the original one produced faulty absorbance values that did not keep consistent with the blank value.  The second machine saved the blank, and was used for the spinach absorbance values, which follow more closely the predicted overall trend the data should have produced. Further, when grinding the leaves, the kale did not fully grind into a mostly-liquid mixture but instead still contained many large chunks. This might have also resulted in the faulty absorbance values for the kale samples. Finding which plants have a faster rate of photosynthesis could have many applications in the agriculture industry. Understanding how plants respond to different light conditions, and how they most effectively harness energy from the sun is vital to the regions in which certain crops will grow best, and also which plants will be best for human consumption. 
+
+Literature Cited:
+Terashima, I., Fujita, T. 2009. Green Light Drives Leaf Photosynthesis More Efficiently than Red Light in Strong White Light: Revisiting the Enigmatic Question of Why Leaves are Green, Plant and Cell Physiology. 50: 684–697.
+
+Boardman, NK. 1977. Comparative Photosynthesis of Sun and Shade Plants. Annual Review of Plant Physiology. 28: 355-77.
+
+Ferguson, H., C. S. Cooper, J. H. Brown, and R. F. Eslick. 1972. Effect of Leaf Color, Chlorohyll Concentration, and Temperature on Photosynthetic Rates of Isogenic Barley Lines1. Agron. J. 64:671-673
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-24+at+5.10.29+AM.png&Size=310867&Type=image%2Fpng&F=F_1PZ4HcalmuAqsN3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The rate of photosynthesis as measured by absorbance for spinach and kale leaves over the coures of 30 minutes. Three different samples were used for each group. The lowest final absorbance was seen in the “light spinach” with an absorbance of .001, while the “no chloroplasts spinach” finished with the highest value of .373. No clear trends exist from this data. T-stat = 0.246, df= 6, P= 0.814.*************************************************************************
+
+
+

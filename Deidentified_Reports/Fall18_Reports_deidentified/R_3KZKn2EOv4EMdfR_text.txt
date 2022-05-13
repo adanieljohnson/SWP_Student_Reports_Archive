@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-09-26 18:24:38
+Author of this lab report is: Std_DFi6EBNv
+ID: R_3KZKn2EOv4EMdfR
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Blocking ecdysterone hormone prevents pupation in Manduca sexta caterpillars
+
+Abstract:
+Blocking the hormone ecdysterone results in the prevention of pupation in Manduca sexta larvae. Treating these caterpillars in their final instar before pupa molting prevents the commitment pulse from occurring. This experiment treated two groups of caterpillars, one with water and the other with azaguard (an ecdysterone blocking chemical), and hypothesized that the experimental group would not pupate while the control group did. Our hypothesis was proved correct by our qualitative observations, but the quantitative results did not prove to be statistically significant.
+
+Introduction:
+This experiment determines the effects hormones on insect juvenile development. Hormones are important chemicals in all living organisms that have specific vital roles in regulation and growth. The hormones in insects help regulate the timing and typing of molting. Since insects have exoskeletons, they cannot grow outwardly without molting. Molting is where the hard exterior of the insect is shed off, revealing the softer skin underneath. This allows the insect to grow in size, change its physical appearance, or both. Molting allows the insect to progress between its life stages, often larva to pupa and then to the adult stage. This type of staged life cycle is called being holometabolous. The Manduca sexta, which is the organism being experimented with, is a holometabolous insect. This insect was chosen because their hormone regulation has been studied extensively and it is simple to manipulate their hormone levels. [Nijhout: 1976] Our caterpillars were chosen while they were in the beginning of the fifth instar. The Manduca sexta is an insect found in 4 forms during its lifetime; egg, larva (caterpillar), pupa, and adult. While in its larval stage, the caterpillars molt through five instars, after which it molts into a pupa. Hormones are crucial in the regulation of molting. The hormone E20 regulates the timing of the molt that the insect initiates. This means that a rise in E20 in the insect’s body will trigger a molt soon. The determining factor for a caterpillar to molt into a pupa requires that E20 rises in a small amount while another growth hormone, juvenile hormone (JH), rises in small amount. This rise in E20 without a presence of JH during the fifth instar is called the commitment pulse and dictates that the next molt will be into a pupa. In this experiment, we utilized a chemical called azaguard that blocks the E20 hormone. We predicted that if the chemical blocks E20, then a commitment pulse will never occur, and the caterpillars will not molt into pupae.
+
+Materials and Methods:
+Eight roughly equal weight Manduca sexta caterpillars were selected and separated into two groups of four each. Each caterpillar is placed into a separate rearing area. Each caterpillar in one group (control) is provided with 10 grams of Manduca sexta diet, treated with 7 drops of water. Each caterpillar in the other group (experimental) is provided with 10 grams of Manduca sexta diet, treated with 7 drops of the E20 blocking chemical, azaguard. The azagaurd was an 8ppm concentration, or 1 part azaguard for 1250 parts water. Weigh each caterpillar daily and record, making sure to replace the food if it runs out or dries up. A two-sample t-test was used to compare the results of each group. The independent variable was the presence of azaguard, and the dependent variable was the weight of the caterpillars. Qualitative measurements of each caterpillar were also recorded, such as color and firmness.
+
+Results:
+We used a two-sample t-test to analyze our results. The mean percent increase of the weight of the control group was not statistically significantly different than that of the experimental group (t-value = 1.0511, p-value = 0.3704) (Table 1). However, when observing the caterpillars on the final day, there was a large visible difference. Three out of four caterpillars in the control group had pupated, with the remaining caterpillar being very close to pupating. In contrast, three of four caterpillars in the experimental group had died, and the last living caterpillar was very sluggish and non-responsive. As a result of this experiment, the weights of each caterpillar were not statistically significantly different, however, there was a clear qualitative difference between the two groups.
+
+Discussion:
+Our hypothesis, that the caterpillars treated with azaguard would not pupate, was not statistically supported by our raw data. The data used did not calculate into a statistically significant p-value, but the qualitative observations we recorded indicate a clear effect of azaguard on the caterpillars. The E20-blocking chemical did prevent the experimental group caterpillars from pupating. We can infer that when the hormone E20 is blocked, the caterpillars cannot initiate a molt, and die due to loss of water. [Nijhout: 1976] Our hypothesis may not have been supported by our data as our t-test used the initial and final weights of each caterpillar. This does not take into account the weight loss from the caterpillars during their lifetime. The caterpillars reach a maximum size during the final instar, but then stop eating and lose a large portion of their weight through water loss.
+
+Literature Cited:
+1.	Nijhout, H. Frederik. “The role of ecdysone in pupation of Manduca sexta”, 1976, The Biological Laboratories, Harvard University, Cambridge, Mass. 02138, U.S.A.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=ttest.PNG&Size=23880&Type=image%2Fpng&F=F_xA6hZDJqQPylhoR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Two-sample t-test comparing percent mass increase between experimental and control group caterpillars*************************************************************************
+
+
+

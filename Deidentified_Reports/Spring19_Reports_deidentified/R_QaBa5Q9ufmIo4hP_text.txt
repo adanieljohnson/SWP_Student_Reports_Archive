@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-20 00:11:58
+Author of this lab report is: Std_duD5HZw5
+ID: R_QaBa5Q9ufmIo4hP
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: How Sodium Channel Blocker Affects Muscle Contraction in a Frog Leg 
+
+Abstract:
+The nervous system and the muscular system are important for movement.  Both of these systems interact via ion channels and receptors to eventually cause muscle contraction.  In this experiment, we examine what happens when we interfere with one of these interactions.  We will manipulate sodium channels using a 25 millimolar sodium channel blocker called lidocaine.  Sodium channels play an essential role in action potential propagation through an axon, so when they are inhibited it is likely that action potentials will not travel with the same frequency that they would with uninhibited sodium channels.  Our hypothesis is if sodium channel blocker is injected into the muscle of a frog cell, no action potential will be generated and the muscle will not contract.  The results show that frog legs with sodium channel blocker experience a higher threshold value than frog legs without sodium channel blocker, but the results are not statistically significant due to the outcome of the paired t-test.  
+
+Introduction:
+The nervous system plays a role in muscle contraction.  The nervous system consists of neurons that transmit electrical signals to other cells.  Due to the numerous voltage-dependent ion channels, action potentials can travel with varying shapes, frequencies, and patterns [Bean: 2007].  When a neuron stimulates a muscle cells, the muscle cell will contract.  After an action potential travels down the axon of nerve cell and reaches the axon terminal, calcium enters the axon terminal and vesicles containing acetylcholine fuse with the synaptic membrane.  The acetylcholine binds with acetylcholine receptors on the postsynaptic membrane and the influx of sodium starts an action potential.  The action potential travels down t tubules and the conformational change of a protein receptor causes calcium to flow out of the sarcoplasmic reticulum.  This causes muscle contraction.  Clearly, sodium plays an essential role in the generation of action potentials.  In this experiment, muscle contraction was observed by applying a voltage to the sciatic nerve of a frog leg.  One particular study found that certain sodium channel blockers have caused block at depolarized potentials and slow recovery from the block. [Hondeghem: 1984].  According to another resource, they claim that many commonly used antiepileptic drugs are used to prevent the propagation of current via sodium channels [Ragsdale: 1998].  According to these sources, sodium channels play an essential role in action potentials and in transmitting electrical signals.  This experiment serves to investigate the effects that sodium channel blocker will have when different frog legs are stimulated with various amplitudes.  We hypothesized that if we inject sodium channel blocker into the sciatic nerve of the frog leg, then no action potential will be generated, resulting in no contraction of the muscle.    
+
+Materials and Methods:
+Three frog legs were obtained and the sciatic nerve of each frog leg was isolated by pulling back the skin and separating the inner thigh muscles.  The frog legs were coated with Ringer’s solution.  Additionally, the LabScribe software was downloaded onto a computer and the settings were set to 0.000 V, 1 pulse, 1 Hz, and 5ms.  A light load was applied to the frog leg and the probes were placed underneath the sciatic nerve.  An initial amplitude of 0.0 V was applied to the nerve, and the amplitude was increased by 0.1 V until the sensor indicated muscle contraction.  The amplitude applied to the frog leg that caused an initial muscle contraction was recorded as the threshold value, and the nerve was stimulated with 0.1 V more than the threshold.  0.1 mL of sodium channel blocker ( 25 millimolar lidocaine) was injected directly into the gastrocnemius muscle of the frog leg and a timer was set to 5 minutes.  After 5 minutes passed, 0.0 V was applied, and then the amplitude was increased by 0.1 V until there was a muscle contraction.  This was recorded as the threshold value and the nerve was stimulated once again but an amplitude of 0.1 V greater than the threshold.  This same process was repeated for the other two frog legs.  Each frog leg served as its own experimental and control group.  The experimental trial involved the sodium channel blocker and the control trial was the frog leg without sodium channel blocker.  The mean threshold value for each of the experimental and control trials were calculated, and standard deviation was calculated as well.  A paired-t test was used to statistically evaluate the data.  
+
+Results:
+The results of this experiment show a slight trend.  Each of the control trials exhibited threshold values of 0.2 V.  The experimental trial for the first frog showed a 0.2 V threshold, the experimental trial for the second frog showed a 0.3 V threshold, and the experimental trial for the third frog showed a 0.8 V threshold.  The experimental threshold values were either equal to or greater than the control threshold values.  Similarly, the mean control threshold value was 0.2 V and the mean experimental threshold value was 0.43 V which is greater.  The standard deviation for the control group was 3.4 x 10-17 V, and the standard deviation for the experimental group is a larger value, 0.321 V (Figure 1).  Although this data shows a trend, it is not statistically significant because the p-value calculated with a paired t-test is 0.336.  0.336 is greater than 0.05, so the results are not statistically significant.  The frog legs tested in this experiment were not all the same size.   
+
+Discussion:
+Our hypothesis, that if we inject sodium channel blocker into the sciatic nerve of the frog leg, then no action potential will be generated, resulting in no contraction of the muscle, cannot be supported by the outcome of this experiment.  It cannot be supported because the p-value is 0.336 which is greater than 0.05, meaning that the results of this experiment are not statistically significant.  In addition, the results show that the experimental trials did experience muscle contraction, but at a higher threshold.  The result of the statistical test indicate that the results might be due to chance.  Each frog leg used in this experiment was obtained from different frog and therefore has a unique genetic makeup.  The muscle differences and differences in the sciatic nerve could have contributed to data that was not statistically significant.  The different muscles could have responded in different ways to the applied voltage.  The primary source of error in this experiment is likely due to the differences in genetic makeup.  Additionally, another source of error could be the injection of the sodium channel blocker.  It is possible that the sodium channel blocker stayed in one area of the muscle and did not spread throughout the entire muscle.  To improve upon this source of error, in future experiments the sodium channel blocker could be massaged into the muscle.  In order to improve this experiment, it is possible that a larger number of frogs could be used.  In addition, the amount of sodium channel blocker could be increased.  
+	The modulated receptor hypothesis states that lidocaine has a low affinity for rested sodium channels and a high affinity for open and inactivated channels [Davis: 1986].  One particular experiment analyzed lidocaine block of sodium channels of rabbit Purkinje fibers, and found that the modulated receptor hypothesis was supported through their experiment [Bean: 1983].  Theoretically, evidence of this hypothesis should have been observed in our experiment, but the results were not statistically significant because of the p-value.  It is evident through research that sodium channels play an essential role in the nervous system and action potential propagation.  It is important for action potentials to propagate down axons to transmit signals.  These signals can involve muscle contraction.  Overall, the nervous system and the muscular system interact to ensure that organisms move and function properly.  
+
+
+Literature Cited:
+1.	Bean, Bruce P. (2007) "The action potential in mammalian central neurons." Nature Reviews Neuroscience 8.6 : 451.
+2.	Hondeghem, L. M., & Katzung, B. G. (1984). Antiarrhythmic agents: the modulated receptor mechanism of action of sodium and calcium channel-blocking drugs. Annual review of pharmacology and toxicology, 24(1), 387-423.
+3.	Ragsdale, D. S., & Avoli, M. (1998). Sodium channels as molecular targets for antiepileptic drugs. Brain Research Reviews, 26(1), 16-28.
+4.	Davis, J. E. S. S. E., Matsubara, T. E. T. S. U., Scheinman, M. M., Katzung, B. E. R. T. R. A. M., & Hondeghem, L. H. (1986). Use-dependent effects of lidocaine on conduction in canine myocardium: application of the modulated receptor hypothesis in vivo. Circulation, 74(1), 205-214.
+5.	Bean, B. P., Cohen, C. J., & Tsien, R. W. (1983). Lidocaine block of cardiac sodium channels. The Journal of general physiology, 81(5), 613.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.jpg&Size=64197&Type=image%2Fjpeg&F=F_2uQBuZrL1kKzXDb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This figure shows a graph detailing the mean experimental threshold value and the mean control threshold value.  It also shows the standard deviation for each group.  *************************************************************************
+
+
+

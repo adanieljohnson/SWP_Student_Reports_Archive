@@ -1,0 +1,86 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-18 21:38:00
+Author of this lab report is: Std_OYOpoHH9
+ID: R_1BW2PHTvJXSxBqP
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: Tank size does not have significant affect on time it takes for male Betta splenden to show red mane to opponent 
+
+Abstract:
+Animals have various methods for intimidation and displaying dominance when under threat. Siamese fighting fish, or Betta splendens, are known for their agnostic behaviors and thus make ideal test subjects for studying how environmental factors can affect displays of aggression. It was hypothesized that a larger tank would result in a longer waiting period before at least one of two male Betta fish showed agnostic behavior. Trials were conducted using three different-sized tanks and by placing two male Bettas in a tank together and timing until red mane was displayed. The results did not support this hypothesis. Further studies should be done on this topic, controlling for more variables, using more test subjects, and conducting more trials. It is important that we better understand what triggers animals to behave in a threat-induced manner, so that humans and animals can more successfully coexist. 
+
+Introduction:
+“Ethology” refers to the study of animal behavior in terms of physiology and evolution. Within the context of ethology, one can study and quantify certain threat-induced behaviors of a given species (Johnson: 2018). These threat behaviors, also called agnostic behaviors, occur interspecifically (between opponents of different species) or intraspecifically (between opponents of the same species). 
+
+Betta splendens, or Siamese fighting fish, or simply Betta fish, are particularly known for their changes in behavior when confronted with a threat or “opponent.” These behaviors, when occurring intraspecifically, are categorized as either facing movements or broadside movements. Facing movements include, ranking from least to most “aggressive,” pelvic fin flickering, tail beating, and tail flashing. Pelvic fin flickering occurs when the pelvic fin of a Betta becomes vertically erect and “flicks” away from the opponent. Tail beating is when the fish “beats” its tail (caudal fin) towards the opponent, and tail flashing is the opening and closing of the caudal fin. Facing movements are, from least to most aggressive, facing the opponent with erect pectoral fins, spreading the gills and gill covers (opercula), and displaying “red mane” (protruding of the branchiostegal membranes from underneath the gills). Additional threat behaviors in Betta fish include darting, biting, darkening of scale color, arching of the back, lowering of the head and raising of the dorsal fin (Johnson: 2018). 
+
+Studies in the past have explored how certain changes in the surrounding environment affect the way male Betta splendens display dominance. In one particular experiment, it was suggested that certain pharmaceuticals, such as metformin, which are capable of polluting large bodies of water, can change the hormonal makeup of a male Betta over time and alter their tendencies towards aggression (MacLaren: 2018). The goal of this study was to see how altering the size of an environment where two male Betta fish are present will affect the amount of time it takes for one of the fish to show agnostic behaviors. 
+
+It was hypothesized that the larger the tank, the more time it would take for at least one of the fish to display red mane. 
+
+Materials and Methods:
+3 aquariums each of a different size were used, within which were no stimuli or barriers. 3 male Bettas of roughly the same size were used and were kept separated and unable to see each other in between trials. 
+
+For testing, two of the fish were placed in a tank together and the time at which red mane was displayed by at least one of the fish was recorded. Experimentation was always stopped after 3 minutes, unless the fish engaged in any physical contact, in which case they were separated earlier. Rest periods occurred in between each trial and were always 5 minutes. A total of 3 tests were conducted in each tank size, with a different pairing of fish every time. 
+
+A one-way ANOVA test with a Tukey-Kramer post-hoc was used to test for significance in each pairing of data. 
+
+Results:
+Our data was not significant for any pairing (f-stat = 2.10, df = 2, p-value = 2.03). The times recorded for tests in the medium tank were generally lower than those of the larger tank and those of the smaller tank. The times of the tests in the large tank were also generally higher than those of the small tank. Average times were 59.67 seconds for the small tank, 9.34 seconds for the medium, and 96 for the large. 
+
+In the third test for the medium-sized tank, no red mane was shown within the 3 minute time slot. Thus, the data point for this test was 0.
+
+There also appears to be a major outlier in the data for the large tank. Two of the tests for the large tank had times of 165 and 120 seconds, while the remaining test had a time of 3 seconds. 
+
+Discussion:
+Our hypothesis- that a larger tank would correlate with an increase in amount of time before a male Betta fish displayed red mane towards another male Betta- was not supported by our results. The average time of the largest tank was in fact higher than the average times of both the medium and small tanks. However, these results were not significant. In addition, the small tank did not have the lowest average time, which does not align with our hypothesis. 
+
+It is likely that there are many other factors besides the size of the environment that contribute to the length of time it takes for a male Betta fish to display red mane to another male Betta in proximity. These factors may include the size and color the fish, as well as their potentially inherent submissive or dominant tendencies. It is also possible that the time at which red mane is displayed when two male Bettas come into contact is completely random and not based on external factors whatsoever. Since we only had a total of 9 data points, 2 of which were outliers, it is important that this experiment be done again with more trials and test subjects, and controlling for more variables such as stimuli outside the tank. 
+
+For the outlying data point in the large tank (which was 3 seconds in comparison to 120 and 165 seconds), the fish that showed red mane first in this trial was already displaying some agnostic behaviors, such as darting and erect pectoral fins, before being placed into the tank with the other male. It is possible that this fish saw the other fish through a crack the divider. Therefore, this fish was already prepared to show its red mane when being placed into the tank with its opponent. 
+   
+As for the third trial in the medium-sized tank, in which no red mane was shown, it is possible that habituation between the fish had occurred by this point in the experiment. But this does not explain why the other two times for the medium tank were so low. Thus, other factors may be affecting the outcome of this trial, such as color, size, and dominant/submissive tendencies, as previously mentioned.  
+
+It has indeed been documented in previous studies that male Bettas can be inherently dominant or submissive, and that naturally dominant males will approach other males and initiate threat displays. Based on this evidence, it is possible that natural dominance is a stronger factor in affecting the amount of time it takes for a male Betta to express threat behaviors to another male Betta (Wallen: 1984).  
+
+Further observation and experimentation on what can trigger agnostic behaviors in animals are important for learning how humans can more peacefully coexist with wild, and even domesticated, animals. This coexistence is important in promoting understanding and thereby preventing potentially harmful encounters between humans and other animals. 
+
+Literature Cited:
+Johnson AD. Animal Behavior. Ecology and Evolution Bio 113 Laboratory 
+Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 3, 2018), pp. 47–55.
+
+MacLaren RD, Wisniewski K, MacLaren C. 2018. Environmental concentrations of metformin
+exposure affect aggressive behavior in the Siamese fighting fish, Betta splendens. PLOS.  
+
+Wallen K, Wojciechowski-Metzlar CI. Social conditioning and dominance in male Betta 
+splendens. Behavioral Processes. Dept. Psychology, Villanova University, Villanova, PA. Vers. 11 (updated July 25, 1984), pp. 181-188. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-18+at+9.36.08+PM.png&Size=237954&Type=image%2Fpng&F=F_Ubc8ALmqwKZfVg5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average times before red mane was displayed by at least one of two male Betta fish in small, medium, and large tank sizes: averages were 59.67, 9.34 and 96 seconds respectively (f-stat = 2.104, df = 2, p-value = 2.03) and standard deviations were 32.25, 8.33 and 83.62 respectively (includes error bars for +1 and -1 standard deviation) *************************************************************************
+
+
+

@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-05 20:05:59
+Author of this lab report is: Std_m7FiHziC
+ID: R_2Yx2U9ZRhDVglLh
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Effect of Lidocaine on the Amplitude of Muscle Contraction in Frog Legs
+
+Abstract:
+The purpose of the experiment performed was to investigate how the supplementation of Lidocaine, a sodium channel blocker, effected skeletal muscle contraction on a myogram. Sodium is an essential component in muscle contraction in that an influx of the ion allows for the creation of an action potential and thus the propagation of sodium ion channels along the axon towards the neuromuscular junction. It was hypothesized that the presence of Lidocaine would result in a significantly lower amplitude response of muscle contraction being that less muscle fibers would be able to contract. Two frog legs were prepared and stimulated in identical procedures to identify the threshold value (in volts) that would allow for contraction of the muscle and the response of the muscle stimulus was recorded at this point. A paired t-test was performed to determine statistical significant difference at 0.2 volts. The hypothesis was supported by statistical analysis as a result of the biological manipulation of the amount of neurotransmitter supplied for contraction and its impact on the amplitude of muscle contraction. This study was conducted to test and explain how a sodium channel blocker influences muscle contraction.
+
+Introduction:
+The subject manipulated in this study was the Rana Pipiens, commonly known as Northern Leopard frogs. There are three types of muscles responsible for all mammalian body movements, both conscious and unconscious: skeletal, cardiac, and smooth muscle [Sweeney and Hammers 2016]. The neuromuscular system includes all of the muscles in the body as well as the nerves serving them. By working together, muscles and nerves make the body moves through communication with the brain. Unlike hormone based systems, the neuromuscular system can respond within milliseconds, which is important especially when in fight or flight situations. This experiment will focus on the manipulation of skeletal muscles, or muscles connected to the skeleton that allow for the contraction, and thus movement of bones [Hatze 1976]. The purpose of this lab was to further our understanding and knowledge of the role of sodium in skeletal muscle contraction. In doing so, we will isolate the gastrocnemius muscle and sciatic nerve from three Northern Leopard frog legs, and demonstrate some basic properties of neuromuscular control. The somatic nervous system is part of the peripheral nervous system [Baulieu: 1997]. The somatic nervous system consists of afferent (sensory) nerves and efferent (motor) nerves. Nerves stimulate muscle contraction through excitation-contraction coupling, or the process of converting an electrical stimulus into a mechanical response. Neuromuscular control is the unconscious trained response of a muscle to a signal [Johnson: 2016].  Myograms visually record the three distinct phases: latent period, contraction phase, and relaxation phase, within a muscle stretch [Swank and Bergner: 1948]. Muscle contractions are regulated by the flow of ions at the neuromuscular junction. The influx of sodium ions allows for the depolarization of the nerve terminal, which in turn allows for calcium ions to rush into the postsynaptic nerve terminal. The calcium ions trigger acetylcholine (ACH) to be released. The ACH molecules travel across the synaptic cleft where they bind to acetylcholine receptors on the crests of junctional folds [Hall and Sanes: 1993]. Thus, sodium channels are important in that they allow for the depolarization of the cell, which brings the cell closer to threshold, or the necessary amount of stimulus needed to create an action potential [Bean: 2007].  It was hypothesized that the addition of Lidocaine, a sodium channel blocker, into the gastrocnemius muscle of the frog would cause the threshold stimulus to increase seeing that some of the sodium would have been kept from entering the cell and therefore causing the depolarization to take longer. 
+
+
+Materials and Methods:
+To begin the experiment, we set up “LabScribe” on a computer and adjusted the setting to “Animal Muscle”. In the toolbar controlling the settings of the experiment, Pulse Amplitude (amp) was set to a start point of 0.000V. Three frog legs were prepared for testing through the same preparation procedure. The outer skin was peeled off, starting at the thigh and pulling down, off the toes, and the ventral side, which had a cleft in the thigh muscle, opposed to the smooth thigh muscle located on the dorsal side of the leg, was left facing up. Using finger, forceps, or scissors, the cleft was pulled apart, leaving the inner thigh muscle exposed. The sciatic nerve, an off white, thin tube, was located and put to the side of the muscle with a nonmetal object. The gastrocnemius muscle was then detached from the tibialis anterior muscle by running scissors in between the membranous connective tissue, which held the two muscles together. The gastrocnemius muscle was then detached from the lower portion of the leg by cutting under the Achilles tendon towards the toes. Twine was knotted on the Achilles tendon before the start of the gastrocnemius muscle, and the string was looped around a hook on an adjustable mechanical arm, leaving slight tension on the thread. Pins were placed on either side to secure the frog leg around the femur, and the tibiofibular bone, below where the gastrocnemius muscle was hanging. The lower leg was also pinned to create a ninety-degree angle at the knee joint. Once pinned, the mechanical arm was again adjusted for height and tension to allow the gastrocnemius muscle to sit at a ninety-degree angle with the mat. Two probes with silver conductive wire were laid next to the muscle, and the sciatic nerve laid across the two probes, making certain that they were not touching, which allowed for direct stimulation of the nerve. Throughout the set-up, the frog legs were rinsed with frog Ringers, an electrolytic substance to keep the legs moist. Tests were then run to find the threshold value of voltage that allowed for contraction of the frog muscle. To find the threshold, the amplitude was set at a value of 0.25 and was increased by increments of 0.25. The pulse frequency was set to 50 pulses per second (Hz) and the pulse width (duration) was set to 10 milliseconds.  Once the threshold value was found and exceeded by three measurements, 0.15 mL of a 25 mMolars dilution of Lidocaine was administered by a syringe into the gastrocnemius muscle. The sodium channel blocker was dosed in small amounts dispersed throughout the muscle to ensure that it did not cause a rupture. The same process was repeated using the second and third frog legs. When finished, the biological waste was disposed separately, and the set up was undone and cleaned with ethanol. A paired t-test was run using the values derived from the experiment to determine the chance that the results of the experiment did not occur coincidentally. 
+
+
+Results:
+After looking at the data, it was concluded that the average amplitude was higher for the legs stimulated without the addition of the sodium channel blocker. Being that amplitude is directly related to the strength of contraction, it can be inferred that the Lidocaine resulted in a weaker contraction of the muscle because less muscle fibers were able to contract. 
+
+
+Discussion:
+According to the resulting data, it can be inferred that the supplementation of Lidocaine use of significantly decreased amplitudes of muscle contraction compared to the amplitude of contractions not inhibited by the sodium channel blocker. The results of the experiment performed in class reflected a similar result as seen in a study performed by Vasanth Vedantham and Stephen C. Cannon in which they tested for the correlation between Lidocaine and the productivity of sodium gated ion channels. They too concluded that the lidocaine induced slowing of sodium channel [Vedantham and Cannon 1999]. Statistically speaking, the paired t-test supported our hypothesis that the legs that were injected with Lidocaine would decrease the amplitude, or force produced by the muscle. The low p-value derived from the paired t-test determined that there was far below a five percent chance that our data occurred purely by chance. Therefore, the force of a gastrocnemius muscle contraction in rana pipiens is directly affected by the addition of a sodium channel blocker. Thus, it can be concluded that the manipulation of sodium channel blockers is a good way to inhibit muscular contraction, and act as a local anesthetic. The study of drugs and how they affect our bodies is essential for safe application. In the case of Lidocaine, the logical application is already being implemented, seeing that Lidocaine is an extremely well-known local anesthetic most notably used by dentists. Moving forward, if this experiment were to be repeated, more trials testing the amplitude of contraction for each muscle should be completed as well as across more subjects. Furthermore, being that this methods and procedure produces a valid outcome, different species, or muscles could be tested, and other substances that inhibit the response could be examined.  
+
+
+Literature Cited:
+1.	Sweeney, H. Lee and Hammers, David W. “Muscle Contraction.” COLD SPRING HARBOR LAB PRESS, PUBLICATIONS DEPT, 1 BUNGTOWN RD, COLD SPRING HARBOR, NY 11724 USA. February 2018. &lt;http://apps.webofknowledge.com/InboundService.do?customersID=ProQuest&mode=FullRecord&IsProductCode=Yes&product=WOS&Init=Yes&Func=Frame&DestFail=https%3A%2F%2Fwww.webofknowledge.com&action=retrieve&SrcApp=Summon&SrcAuth=ProQuest&SID=8FJrW3lmMOIm4Jl6Qws&UT=WOS%3A000424506800009&gt;
+2.	Hatze, H. "A myocybernetic control model of skeletal muscle." Biological cybernetics 25, no. 2 (1977): 103-119.
+3.	Baulieu, E. E. "Neurosteroids: of the nervous system, by the nervous system, for the nervous system." Recent progress in hormone research 52 (1997): 1-32.
+4.	Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 17-34.
+5.	Swank, Roy L., and Grace E. Bergner. "A STUDY OF THE HUMAN MYOGRAM. A STUDY OF NORMALS, AND OF PATIENTS WITH ADDISON'S DISEASE, THYROTOXICOSIS AND PROGRESSIVE MUSCULAR ATROPHY." The Journal of clinical investigation 27, no. 1 (1948): 24-33.
+6.	Hall, Zach W., and Joshua R. Sanes. "Synaptic structure and development: the neuromuscular junction." Cell 72 (1993): 99-121.
+7.	Bean, Bruce P. "The action potential in mammalian central neurons." Nature Reviews Neuroscience 8, no. 6 (2007): 451.
+8.	Lynch, C. I. I. I., Stephen Vogel, and Nick Sperelakis. "Halothane depression of myocardial slow action potentials." Anesthesiology 55, no. 4 (1981): 360-368.
+9.	Vedantham, Vasanth, and Stephen C. Cannon. "The position of the fast-inactivation gate during lidocaine block of voltage-gated Na+ channels." The Journal of general physiology 113, no. 1 (1999): 7-16.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-05+at+8.05.06+PM.png&Size=40598&Type=image%2Fpng&F=F_DAenjYdPi5Vysp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Amplitude of Frog Leg Muscle Contraction Before and After the Addition of Lidocaine. The control group is comprised of the collected response recordings of the legs stimulated before the addition of the sodium channel blocker. The experimental group contains the average of the responses of the same three legs at the same voltage (0.2V) once the Lidocaine was administered. The average force contraction of the control group was found to be 1.664 0.1595, while the average force contraction of the experimental legs was 1.3880.0731. These results had a low probability of occurring by chance seeing that the paired t-test provided a p-value of 0.036.
+
+
+*************************************************************************

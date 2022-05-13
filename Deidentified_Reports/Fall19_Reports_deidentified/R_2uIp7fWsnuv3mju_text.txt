@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-10-28 00:14:14
+Author of this lab report is: Std_3BCr4TOM
+ID: R_2uIp7fWsnuv3mju
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: The Effect of Water Color on the Time Spent Engaging in Agonistic Behavior in Betta splendens 
+
+Abstract:
+This study examines the effects of water and opponent color on male Siamese fighting fish, or Betta splendens. We hypothesized that when the male Betta splendens were exposed to treatment in red colored and blue colored water that they will spend less time engaging in agonistic behaviors (as measured by time in broadside movements and red mane) when the water color aligns with the color of the opponent male. This study was conducted with both the same and opposite color opponent as the test subject, and each trial was repeated with each water color (red, blue, and clear as a control). The results showed that our hypothesis was supported in that water color has an impact, but not in the way that we expected, as the red water increased aggression no matter what color the opponent betta was. However, the p-values deemed the differences in data to not be significantly significant. This study could have future implications ensuring the safety of bettas in domestic aquariums and in breeding more or less aggressive sub-species of Betta splendens.
+
+Introduction:
+Originally from southeast Asia, Siamese fighting fish (Betta splendens) have become a popular domestic pet because of their attractive appearance and low maintenance. However, both wild and domesticated male bettas become very aggressive when confronted with another male betta. These intraspecific agonistic behaviors cause the bettas to fight to the death if unattended, and there are several telling behaviors that can reveal how intense the fight is. The first type of movements are called broadside movements, which consist of pelvic fin flickering, tail beating, and tail flashing. The second type of movements are the facing movements, with one of the most aggressive behaviors being the protrusion of the branchiostegal membranes, causing a red “mane” effect. Studies have found that Betta splendens will mirror, escalate, or submit to such behaviors presented by an opponent, but the degree of the response can be affected by many environmental factors, such as likeliness to their own appearance and water temperature [Clayton: 1968] .Furthermore, it has been proven that a red light stimulus was effective in intensifying the aggressive response of the bettas [Bisazza: 1996]. In this experiment, the environmental factors being manipulated are the color of the water and color of the opposing betta, both of which are either red or blue. We hypothesize that when the male Betta splendens are exposed to treatment in red colored and blue colored water, we expect that they will spend less time engaging in agonistic behaviors (as measured by time in broadside movements and red mane) when the water color aligns with the color of the opponent male.
+
+Materials and Methods:
+The colors of Betta splendens that we used were blue and red, and the water colors were blue, red, and clear as a control. To change the environmental factor of water color the water was colored using ten drops of food coloring and then stirred thoroughly, before the fish was placed in the tank, to ensure that the stirring did not disturb the fish. Then, the fish were tested both with members of their own color and the opposite, making the groups blue/blue, blue/red, and red/red. Each of the three groups was tested in each of the three water colors, causing nine preliminary trials. After the preliminary trials we decided to gather more data on the blue/red group in each color water, as the data was the most inconsistent and we wanted more replicants of the data. We determined that each trial should last three minutes with five minutes of rest between each trial, to ensure that we did not exhaust the fish and give them time to settle back to their individual baseline level of aggression. In addition, blinders were placed between the test subjects between each trial to keep the subjects in isolation until we were ready to study them.
+To gather the data we first had to define aggressive response. We decided that their aggressive response will be measured based on the time spent in seconds in broadside movement and red mane behaviors. After all of the trials were complete, a two-sample t-test comparing the mean time spent in broadside movement and mean time in red mane display was conducted.
+
+
+Results:
+For the red-colored Betta splendens, they spent an average of 27.667 seconds (standard deviation: 20.841) in broadside movement in the blue-colored water and 68.667 seconds (standard deviation: 59.601) in the red-colored water (p-value: 0.324). The red-colored fish spent no time in red mane demonstration in the blue-colored water (standard deviation: 0) in contrast to the 108.333 seconds (standard deviation: 15.308) in the red-colored water (p-value: 0.000254). For the blue-colored Betta splendens, they spent an average of 139 seconds (standard deviation: 87.846) in broadside movement in the blue-colored water and 115.333 seconds (standard deviation: 9.292) in the red-colored water (p-value: 0.666). The blue-colored fish spent 192.667 seconds (standard deviation: 70.209) in red mane demonstration in the blue-colored water in contrast to only 92 seconds (standard deviation: 26.665) in the red-colored water (p-value: 0.081). 
+
+Discussion:
+The hypothesis was that when the male Betta splendens were exposed to treatment in red and blue colored water that they will spend less time engaging in agonistic behaviors (as measured by time in broadside movements and red mane) when the water color aligns with the color of the opponent male. We found that the red fish in the blue water was much less aggressive than its blue-colored opponent, while both colored fish were highly aggressive in the red-colored water. The hypothesis was supported in that the color of the water did have an impact on the aggressive behaviors of the fish, increasing the time spent in both broadside and red mane displays. However, the hypothesis is rejected in how it carried out, seeing as the color of the opponent did not have a percievable impact, and the red-colored water was the most consistently impactful. Once the two-tailed t-test was performed, the p-values revealed that the differences in the levels of aggression in each color water are not significantly different. It is possible that the blue sub-species of betta fish are more aggressive, but future studies would have to look into this further as the results of this study can not support that claim. This research has future implications in how to breed for a desired level of aggressiveness (whether it is high or low) among domestic Betta splendens breeders. Similar studies have found that the level of aggression of each individual fish is intrinsic and genetically linked [Romano: 2017], and by combining this data with environmental factors (water color) it is possible to raise a fish’s aggression level beyond their genetic predisposition. 
+
+Literature Cited:
+Angelo Bisazza, Claudio Cantalupo, & Giorgio Vallortigara (1996). Lateralization of displays during aggressive and courtship behaviour in the Siamese fighting fish (Betta splendens). Physiology & Behavior, 60(1), 249-252.
+Frances L. Clayton, & Hinde, R. (1968). The Habituation and Recovery of Aggressive Display in Betta splendens. Behaviour,30(1), 96-106. Retrieved from http://www.jstor.org/stable/4533204
+Romano, D., Benelli, G., Donati, E., Remorini, D., Canale, A., & Stefanini, C. (2017). Multiple cues produced by a robotic fish modulate aggressive behaviour in Siamese fighting fishes. Scientific reports, 7(1), 4667. doi:10.1038/s41598-017-04840-0.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-27+at+8.41.31+PM.png&Size=21363&Type=image%2Fpng&F=F_Ov9nag0vWADP6wN
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-27+at+8.41.39+PM.png&Size=18008&Type=image%2Fpng&F=F_12rp7ZeJOp0fWqz
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-27+at+8.41.56+PM.png&Size=15398&Type=image%2Fpng&F=F_21ofiAKFU0Uf4ml
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-27+at+8.42.05+PM.png&Size=15245&Type=image%2Fpng&F=F_3f6v6Pzm6vTI9TX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Statistical Values of Red/Blue Betta fish in Red/Blue colored water
+Table 2: Average time spent in Broadside and Red Mane behaviors in red/blue water for red/blue fish
+Figure 1: Average time spent in broadside movements in red/blue water for red/blue fish
+Figure 2: Average time spent in red mane display in red/blue water for red/blue fish*************************************************************************
+
+
+

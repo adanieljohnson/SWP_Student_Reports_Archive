@@ -1,0 +1,91 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-21 22:11:52
+Author of this lab report is: Std_d6vnLGUx
+ID: R_T0CVzxk2Gk3aqBz
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Effect of A23187 on [Physarum polycephalum] chemotaxis in the presence of  Ca2+
+
+Abstract:
+[Physarum polycephalum] is a slime mold that’s utilized in the lab setting because it is easy to grow and has complex behaviors, even though it responds to its environment solely through intracellular signal transduction. Two of the three most common pathways for Physarum to use are IP3 and Ca2+ pathways. Both of these pathways signal the release of stored Ca2+ from the smooth ER. Ca2+ is imperative to the Physarum because it is required for growth and signaling. Certain ionophores, such as A23187, initiate the intake of Ca2+. We wanted to test the Ca2+ channel activator A23187’s effect on the Physarum’s movement towards the Ca2+. We hypothesized that Physarum treated with the activator would move towards Ca2+ (positive chemotaxis) more than untreated Physarum because the activator would promote the uptake of Ca2+. Physarum growth was recorded after 48 hours in the presence of a Ca2+ treated strip, with 3/6 replicates soaked in the activator. Physarum moved towards the Ca2+ however the treated group did not leave the starting block. This suggests that our concentration of A23187 killed the Physarum and that Physarum does not need an activator to have a positive chemotaxis for Ca2+, because of calcium’s stimulatory effect on growth within the first 48 hours. 
+
+
+Introduction:
+Most functions in a cell are products of major intracellular signal transduction pathways. Signaling pathways play important roles in modulating, initiating and inhibiting necessary functions of the cell. Even Ca2+ signals alone play various roles across many processes within a cell. For example, large spikes in Ca2+ allow the cell to produce quick responses, however slow regulated levels produce changes to signals in the cell [Berridge: 2003]. 
+
+A good model organism for examining these signaling processes is [Physarum polycephalum]. Physarum is also known as slime mold, it is interesting in that it is multinucleated within one plasma membrane and thus behaves as a single mass/cell called plasmodium [Johnson: 2018]. Physarum is a model organism in labs because it is easier to grow than human cells while still using mostly the same signaling pathways and intelligent behaviors [Johnson: 2018]. More specifically, Physarum is helpful in studying signaling because it mediates responses to its environment purely through intracellular signal transduction pathways. It mainly utilizes three common pathways and among these is the Ca2+ pathway [Johnson: 2018]. 
+
+In the cell of Physarum, Ca2+ is required for growth and its uptake can be initiated by the activator A23187 [Holmes: 1979]. Within the plasma membrane, there are two common pathways that trigger Ca2+ release from the smooth ER; IP3 and Ca2+. In the Ca2+ pathway, Ca2+ enters the cell through Ca2+ channel in the plasma membrane and binds to the ryanodine receptor on the smooth ER. In the IP3 pathway, IP3 is a product of a G coupled protein pathway with the effector PLC. When PLC creates IP3, it binds to a receptor on the smooth ER and also initiates a Ca2+ release [Johnson: 2018]. 
+
+Clearly Ca2+ plays a critical role within the cell, but Physarum is a good model to study these internal changes because of its external behaviors in response. Ca2+ release can be measured in the growth of Physarum but the role of the activator in allowing uptake of Ca2+ can be measured by the Physarum’s positive movement towards a source of Ca2+. This behavior is called chemotaxis, and it allows a qualitative and quantitative observation of the Physarum’s signaling and environmental responses. 
+
+Since Ca2+ is important for Physarum growth we expected that Physarum would move towards Ca2+ (positive chemotaxis) when it was present and would have increased growth once in contact with the Ca2+ [Holmes: 1979]. However, here we wanted to test the activator A23187’s effect on the Physarum’s movement towards the Ca2+. Thus we hypothesized that Physarum treated with the activator would move towards Ca2+ (positive chemotaxis) more than untreated Physarum because the activator would promote the uptake of Ca2+.
+
+
+Materials and Methods:
+To test our hypothesis, we created a system of Physarum in water agar plates. 
+We prepared 6 water (2%) agar plates, each with a 1cm2 cube cut out in the middle of the agar. We transferred a 1cm2 cube of Physarum into the cube of each plate. Since Physarum is easily spread, we used a metal spatula to cut and move the cubes, while sterilizing before and after each step, to prevent unwanted spread of Physarum. Our sterilization methods consisted of sitting the metal spatula in a tube of ethanol and then holding it over an ignited (95% alcohol) lamp. Overall, we had three plates for our control and three testing plates. We soaked 6 filter paper strips in Ca2+ until they were completely wet and placed one strip in all six plates. In the three experimental plates we also soaked each Physarum with approximately 50 µL of the Ca2+ channel activator A23187 with a concentration of 100 µM. We wrapped all 6 replicates in foil (to control for light effects) and placed them in an incubator at 37 ˚C. After 48 hours we returned and measured the direction (in relation to the Ca2+ strip) and amount of movement from the leading edge to the starting point (in mm) for each Physarum replicate.
+
+We compared the distance traveled of the treatment group and control group using a one tailed two-sample t-test. We set our significance at 0.05. 
+
+
+Results:
+General trends we noticed in the data were that all of the treated replicates had not left the starting block, while all of the control replicates moved towards the Ca2+ treated strip (Table 1). 
+
+The two sample t-test produced the following results (t-stat = 12.159, d.f. = 4, P = 0.000263) to report the statistical analysis of the difference between the chemotaxis distance of control and treatment group (Figure 2).
+
+
+Discussion:
+Our data did not support our hypothesis that Physarum treated with the activator would move towards Ca2+ (positive chemotaxis) more than untreated Physarum. The results show that our control group moved towards the Ca2+ strip and our treatment group did not move outside of the starting box (Table1). These findings show that despite not being in contact with an activator Physarum had a positive chemotaxis for Ca2+, because it promotes growth in the cell [Holmes: 1979]. Previous studies show that Ca2+ promoted growth in the first 48 hours when in contact with Physarum and actually inhibited growth after 72 hours [Terry: 2009]. Our data aligns with this study because we measured our Physarum at 48 hours of contact with Ca2+ and there was movement and growth in the direction of the Ca2+. 
+
+However, our treatment group deviated from previous expectations that the activator would stimulate growth towards Ca2+, instead of having an inhibitory effect. We believe the results of no movement are due to an error in preparation. We soaked our Physarum in approximately 50 µL of the Ca2+ channel activator A28135 with a concentration of 100 µM, however studies report that optimal activator dilutions are approximately half the concentration, reportedly being tested up to 5o µM [Terry: 2009]. Thus, we are led to believe that our high concentration of A23187 had extremely harmful if not fatal effects on our treatment group. If we were to repeat this experiment again, we would dilute the activator concentration to at least 5o µM. We would also be interested in the difference in growth rate in the first 48 hours compared to the rate after 72 hours, therefore we would take measurements during both time periods. 
+
+Ultimately, the control group’s positive chemotaxis towards Ca2+ illustrates the importance of Ca2+ as a chemical in cell signaling and functioning, despite the presence of a channel activator. Stimulation of Ca2+ uptake did not need to be induced for the organism to model a behavior that reflects the benefits of Ca2+. Thus, even the external presence of Ca2+ showed evidence of signaling changes within the organism. 
+
+
+Literature Cited:
+Berridge MJ, Bootman MD, Roderick HL. 2003. Calcium: Calcium signaling: dynamics, homeostasis and remodeling. Molecular Cell Biology 4:517-529.
+
+Johnson A.D. 2018. 214.2: Photosynthesis. Cell Biology Lab Manual. Department of Biology Wake Forest University, Winston-Salem, NC.
+
+Holmes RP, Stewart PR. 1979. The Response of [Physarum polycephalum] to Extracellular Ca2+: Studies on Ca2+Nutrition, Ca2+Fluxes and Ca2+Compartmentation. Journal of General Microbiology 113:275-285. 
+
+Terry LC, Stefanski JM, Eisemann BA. 2009. Effects of calcium on growth of [Physarum polycephalum]. BIOS 80:159-163.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=tab.png&Size=109561&Type=image%2Fpng&F=F_2uvWxt1ofkMIXAG
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=fig.png&Size=41953&Type=image%2Fpng&F=F_2UbFqebjDoWP0aA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1.
+Effect of A23187 on movement direction for Physarum.
+The control (white rows) shows the direction traveled by 3 replicates of the control group in relation to the Ca2+ treated strip. The treatment (shaded rows) refers to the direction traveled by 3 replicates treated with A23187, in relation to the Ca2+ treated strip. This table is to report qualitative observations of chemotaxis. 
+
+Figure 2. 
+Effect of A28135 on movement distance for Physarum.
+The control (blue bar) show the mean distance traveled by 3 replicates of the control group towards the Ca2+ treated strip. The other “bar” refers to the mean distance traveled by 3 replicates treated with A28135, towards the Ca2+ treated strip. Each bar is the mean distance of three replicates; error bars are s.d.
+
+
+*************************************************************************

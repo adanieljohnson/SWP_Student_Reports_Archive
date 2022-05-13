@@ -1,0 +1,78 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-28 18:35:35
+Author of this lab report is: Std_LBXm78mG
+ID: R_Xhr4wDbgD3FGmqt
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Lab 2: Neuromuscular Control in Rana Pipiens 
+
+Abstract:
+The main objective of this experiment was to test the effects of a set frequency of electrical stimulus on untreated Rana Pipiens’ legs versus those treated with a potassium ion channel blocker to compare and contrast contractile periods and to look at the differences of when tetany was induced. We hypothesize that the contractile periods will be longer and the frequency required to enter tetany will be lower for the treated group. To do so, we used three different legs and first measured the contractile periods of each leg untreated and then did so again after they were treated. Looking at our results it is clear that those treated with the 100 mM tetraethylammonium solution had longer contractile times and entered tetany at a lower frequency. 
+
+
+Introduction:
+While hormonal and neural communications are both effective in sending and receiving messages, this lab focuses on specifically the neural connections in Rana Pipiens. In frog legs, the sciatic nerve runs down the leg and is responsible for most of the reactions that occur when the muscles contract or relax. Electrical stimulus to this nerve causes contraction. Repeated stimulation with changes in frequency causes the leg to vary in contractile periods during a measurable interval of time. At high frequencies, the leg will enter tetany where not enough ATP is available for the leg to relax and then contract again and would cause the leg to remain contracted until the stimulus was removed. 
+The sciatic nerve fires messages through action potentials that are generated mostly by the shift of sodium ions entering the neuron and potassium ions leaving. This causes the cell to become temporarily depolarized which causes further depolarization down the axon: eventually leading to depolarization of the axon terminals. Almost immediately after depolarization comes repolarization: where potassium ions are then rushed back into the cell and sodium ions leave the cell. This then brings that section of axon back to a resting potential. After the last portion of the axon is depolarized and then repolarized, the axon terminal is then depolarized. This depolarization of the axon terminal causes calcium channels to open and this increased concentration of calcium inside the axon terminals results in exocytosis of a neurotransmitter: for contraction of muscles this neurotransmitter is acetylcholine. This neurotransmitter gets released into the synaptic gap and causes a response from the muscle cells: calcium released from the sarcoplasmic reticulum and binding to troponin causing a conformation change and then exposing myosin-binding sites on the actin. The myosin heads will then bind to the actin, causing a contraction of the muscle. So then, what happens to the entire process if the cell is permanently depolarized? Meaning that potassium channels are never opened up not allowing the potassium ions to leave the cell after depolarization. 
+In another study, the venom of a Chilean Tarantula was extracted and injected into dissected rats to observe the effects of the chemicals on the animal body [Swartz, Mackinnon: 1995]. This is insightful because it illustrates the importance of potassium channels in animals. If a venom from a Tarantula is used to neurologically impair its victims, the results of our experiment should highlight the similar negative effects of blocking potassium channels. Using a chemical equivalent of a potassium channel blocker, 100 mM tetraethylammonuim, my lab group and I hypothesize that with repeated stimulus at a set frequency, the contractile period will be longer and the treated muscle will then enter tetany at a lower frequency. 
+
+
+
+Materials and Methods:
+The first step for this lab is to download and set up the iWorx electrophysiological recording software to record the responses of the electrical stimulus administered. Once set up, the next step is to meticulously dissect the frog leg: being sure to expose the Sciatic Nerve and separate the Gastrocnemius Muscle. Insert the electrodes: red in the middle section of the muscle and black just above the base of the muscle. Tie a piece of string to the end of the Gastrocnemius Muscle (closest to the foot) and hook it up to the sensors on the clamps above the dissecting table (Figure 1). This will record the response to each stimulus given. In the software, adjust the amplitude to 0.44 V, the pulses to 1, and the frequency to 1Hz. This will be the same for all three legs tested. At these settings administer the first stimulus to the first leg and record the contractile period. Next, with the same untreated, increase the frequency until tetany is present and record this frequency. Next, inject 1 ml of the 100 mM tetraethylammonium solution into the top, middle and bottom sections of the Gastrocnemius Muscle: being careful not to spill any of the solution onto the dissecting table. Wait 1-2 minutes for the solution injected to diffuse throughout the muscle. Keeping the same settings in the software for amplitude, pulses and frequency, administer an electrical stimulus and record the contractile time. Next, increase the frequency until tetany is present in the now treated leg and record the value. Repeat these steps just mentioned for legs 2 and 3 and record same values. Conduct a paired t-test for the values and record results of statistical test. 
+
+
+Results:
+As seen in the graphs below, our untreated legs had an average contractile time of 258.33 ms while our treated legs had an average contractile time of 736.67 ms. Also, our untreated legs required approx. 17 Hz of frequency to induce tetany while our treated legs required approx. 10 Hz. We then calculated a paired t-test in which our value was 0.0182. Each error bar on the graph represents the standard deviation. 
+
+
+Discussion:
+
+	The results of our lab concluded a few things. The first of which being that the treated frog legs had longer contractile times and tetany was induced at lower frequencies. This then indicates that our null hypothesis was rejected, showing that there was indeed a significant difference in contractile times and frequencies to induce tetany between our untreated and treated legs. Our paired t-test value further confirms this as it was 0.0182. This value is less than 0.05, indicating statistical significance. This significance is largely due to the potassium channels that were closed and never allowed the nerve to repolarize and eventually go back to its resting potential: causing a longer time for it to fully contract and relax again and causing the muscle to fatigue completely with less stimulation given. However, the chemical injection may not only be the reason for this. Because we tested the untreated legs and made the legs undergo fatigue and eventually tetany just before treating the same leg, the leg could have had longer contractile times and lower frequency to induce tetany just because the leg has already been fatigued from previous testing on it before it was treated. It could have gone into tetany with less stimulation simply because the leg was tired from already entering tetany and had no remaining ATP for further testing when it was then treated. To bypass this confounding variable, it would be smarter to test both legs from the same frog: one treated and one untreated and compare the values of each contractile period and when tetany was present. This would eliminate the problem of expending ATP on the first test then trying to get accurate results assuming that the same amount of ATP is still available for the leg when it was then treated.
+	The flipside of this report offers more insight on chemical channel blockers. In a study showing the detrimental effects of potassium channel blockage in humans, patients with episodic ataxia type 2 - a genetic mutation that causes potassium channels to remained closed - had recurrent hour-long exercise-induced attacks of ataxia and imbalance [Jen, Yue, Nelson, Yu, Litt, Nutt, Baloh: 1999]. This is relevant because it further demonstrates the effects of blocking potassium channels not just with a dissected frog leg, but more importantly on a macroscopic scale and how it pertains to us humans. These negative effects of blocking these channels holds true to multiple species in the animal kingdom and it is important to analyze the roots of this to prevent future problems in our lives or even improve someone’s quality of life that is already diagnosed with this disease.
+
+
+
+Literature Cited:
+1.	Jen, JJ. Yue, QY. Nelson, SN. Yu, HY. Litt, ML. Nutt, JN. Baloh, RB. 1999. “A Novel Nonsense Mutation in CACNA1A Causes Episodic Ataxia and Hemiplegia.” Neurology 53, no. 1. pp. 34-35.
+
+
+2.	Johnson AD. Comparative Physiology BIO114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated May 1, 2018), pp. 17-34.
+
+
+3.	Swartz, KS. Mackinnon, RM. 1995. “An Inhibitor of the Kv2.1 Potassium Channel Isolated from the Venom of a Chilean Tarantula.” Neuron 15, no. 4. pp. 941-949. 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=423362&Type=image%2Fpng&F=F_1QKk5P6HUnfNXms
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+9.23.11+AM.png&Size=54961&Type=image%2Fpng&F=F_3QWx1820gUtTBVs
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+9.23.37+AM.png&Size=46723&Type=image%2Fpng&F=F_25QToPlGC0QKElJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Setup for Data Collection
+Figure 2. Average Contractile Times for Untreated and Treated Legs (in ms)
+Figure 3. Average Frequency when Tetany was Induced for Untreated and Treated Legs (in Hz)
+
+
+*************************************************************************

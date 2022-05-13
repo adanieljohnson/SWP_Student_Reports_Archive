@@ -1,0 +1,89 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-20 18:14:27
+Author of this lab report is: Std_HUzu0zoR
+ID: R_23HKgiT8RrNl0gV
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: The effect of lights at varied wavelengths on the photosynthetic activity of Spinacia oleracea chloroplasts
+
+Abstract:
+The light dependent reactions of photosynthesis utilize light photons to excite electrons that drive an electron transport chain in the chloroplasts of plants to generate ATP and NADPH that are used to create sugars in the light independent reactions. Photosynthetic activity can be affected by several factors including the wavelength of light that a plant, more specifically its chloroplasts, are exposed to. By creating an assay of Spinacia oleracea chloroplasts and exposing them to varied light conditions of blue, red, white and darkness, we targeted the chlorophyll pigments within the chloroplasts to see which one would absorb the most light and in turn generate the highest photosynthetic activity. Photosynthetic activity was measured by the absence of color, and therefore lower absorbance values from a spectrophotometer, if and when a molecule DCPIP was reduced in the assay. We hypothesized that the blue light treatment group would have the highest photosynthetic activity. The experiment yielded results that were insignificant, as seen by the p-values of 0.43 and 0.96 for the blue and red light treatment groups, respectively. This means that although the blue treatment group had the most activity, we could not accept our hypothesis. 
+
+Introduction:
+Photosynthesis is one of the most important natural processes to occur on this planet, and it is one of the driving forces that makes life sustainable on Earth, providing sugar, water, and oxygen to its inhabitants. The process is broken up into two sets of reactions: the light-dependent and the light-independent reactions. In the light dependent reactions, which is what we are focusing on in this experiment, solar radiation excites electrons in photosystems I and II, which then cleaves H2O to release electrons and create a H+ gradient between the thylakoid lumen and the chloroplast stroma within a chloroplast. These electrons then travel down an electron transport chain before reducing NADP, an electron acceptor that becomes NADPH when reduced (Alberts: 2015). However, if DCPIP ((2,6-dichlorophenol-indophenol), a blue dye, is introduced to chloroplasts, the DCPIP will act as an artificial electron acceptor and become colorless when it is reduced (Investigating the light dependent reaction in photosynthesis). In this experiment, we will utilize this knowledge to measure the color, or lack of color, in our assay. By using a Spec20 spectrophotometer, we can measure the absorbance of the solutions in assay to determine the photosynthetic activity of our chloroplasts. The more clear the solution, the more activity is present. 
+In this experiment, we will be testing how varied wavelengths of light affect photosynthetic activity in Spinacia oleracea chloroplasts. We will be constructing an assay of chloroplasts with DCPIP and reaction buffer and subjecting them to light conditions of varied wavelengths: red (~700 nm), blue (~500 nm), white (combination of all visible wavelengths) and no light at all (Visible Light). It has been found that in Spinacia oleracea, the optimal wavelengths for absorption in chloroplast pigments was between 400 and 450 nm as well as at 650 nm (Lederer: 2007). This is due to the nature of chlorophyll pigments a and b, which absorb maximally in those wavelength areas on the visible light spectrum (Pigments). Chlorophyll a absorbs maximally in both blue and red wavelength ranges, whereas chlorophyll b absorbs maximally in the blue range, with slight absorbance ~650nm (orange light). With that being said, we believe that if the chloroplasts are placed in an environment with blue light, they will have the highest photosynthetic activity because of the combined utilization of both chlorophyll pigments absorbing light photons, which can in turn be used to excite electrons and begin the light dependent reactions.
+Spinacia oleracea is a good source of chloroplasts to use for this experiment because they have a high density of chloroplasts in their leaves. This means that following centrifugation, we can purify a strong sample of chloroplasts with respect to other debris from the leaves, hopefully providing our experiment accurate data regarding the photosynthetic activity within the Spinacia oleracea leaves.
+
+
+Materials and Methods:
+The Spinacia oleracea to be used in the experiment was store-bought and kept in a refrigerator until needed. To prepare the chloroplasts from the leaves, the central veins were removed, and the rest of the leaf was ground into thick paste with pestle and mortar with 10 mL grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) added. The slurry was then mixed with an additional 10 mL of buffer, and strained through cheesecloth into a chilled 150 mL beaker. The remaining liquid was placed in a 50 mL centrifuge tube marked “A” and spun at 1200 rpm in RT-7 centrifuge for 3 minutes at 4℃. The supernatant was poured from “A” and placed into another chilled 50 mL centrifuge tube “B.” Tube “B” was centrifuged at 2800 rpm in RT-7 centrifuge for 10 more minutes at 4℃. The supernatant was discarded, but the remaining pellet was left undisturbed, and placed on ice. 20 mL of grinding buffer was then added to the pellet and a suspension was made by stirring the pellet and grinding buffer with a transfer pipette.
+	The assay was created with twelve replicates of the same solutions containing 6 mL of dH2O, 2 mL of 130 mM DCPIP, and 2 mL of  reaction buffer (100 mM phosphate, pH 6.5). A blank was also constructed with 8 mL dH2O and 2 mL of the reaction buffer (no DCPIP). 100 μl of the enriched chloroplast solution was pipetted to each of the test tubes and mixed by inversion. A Spec20 was blanked with the blank solution, and a few mL of every subsequent test tube was transferred to cuvettes and measured immediately. Three of the cuvettes were then placed in a dark, enclosed environment with a white light bulb, three with a light bulb with red cellophane over it, three with a light bulb with blue cellophane over it, and three placed in an environment without light. Absorbances were measured every 10 minutes for 50 minutes, and the cuvettes were replaced to their respective environments immediately after being measured. Percent change between each measurement and the initial Abs value was calculated by:
+ Abs1-Abs2Abs1*100
+The percent change allowed us to calculate data points to test for statistical significance. A two sample equal variance t-test was run to determine if the data was statistically significant or not, with respect to a critical value of p=0.05.
+
+
+Results:
+The average percent change in absorbance after 50 minutes for the blue group was the largest with 9.83%±16.2, for the dark group 2.29%±0.364, for the red group 4.24%±2.26, and for the white group 4.94%±2.83. The white and dark groups represent positive and negative control groups, respectively. Following a two-sample t-test, the p-values were found to be p=0.43 for the blue light environment and p=0.96 for the red light environment. 
+
+
+Discussion:
+Overall, the data from the experiment was found to be insignificant as seen in the results of the t-tests. For both of the treatment groups (red and blue), the calculated p-values were higher than the allowed critical value of 0.05. This means that we cannot reject the null hypothesis that photosynthetic activity is not affected by varied wavelengths of visible light. However, our alternate hypothesis that the chloroplasts exposed to blue light would have the highest activity was supported, as seen in figure 1, but the data is not significant so we cannot accept this hypothesis as being supported. To try to account for the insignificance in our data, we examined the data from the white group after just 20 minutes and found that this was the only data that showed any statistical significance (t(4)=(5.40, p=0.0057). 
+	Our data showed that the chloroplasts placed in a blue light environment had the greatest photosynthetic activity, which is what we expected to happen like in the previously mentioned case study (Lederer:2007). Another experiment dealing with photosynthetic activity of Spinacia oleracea leaf disks in varied light conditions found that apart from white light, the blue and red lights were the most successful at inducing photosynthesis (Photosynthesis Results). This is another interesting point about our experiment, because even though white light was meant to be the positive control, and supposed to have the highest photosynthetic activity, the chloroplasts in white light did not have the highest activity as seen in figure 1. The flawed data is possibly from defective chloroplasts themselves. After the 50 minute mark, all of the chloroplast samples were removed from their environments and had their absorbance measured, then all were saturated with white light from the lab room to see if we could find a difference in absorbance percent change from the chloroplasts in their different environments. There was no significant difference, and therefore we speculate that there was an issue with the chloroplasts that were used in assay. However, several other factors may have affected our results. Human error could have easily occurred during the pipetting process in making the assay as well as possibly mixing up the cuvettes, providing incorrect data for the certain treatment groups. Also, since there is no certain way to make sure each test tube in the assay contained the same concentration of chloroplasts, we can speculate that some test tubes may have had lower concentrations of chloroplasts, which would hinder their efficiency at photosynthesis compared to those with higher concentrations. We also have no control over how the Spinacia oleracea was handled prior to the experiment, and there may have been damage or improper handling that affected our results. 
+	Future experimentation can be done on other factors that affect photosynthesis such as temperature, carbon dioxide concentration, and light intensity (Rate of photosynthesis: limiting factors). These, as well as wavelength, are all factors that can be utilized by greenhouses and other forms of agricultural industry to improve the health and yield of their crops during harvest. Inhibitors and other factors that would limit photosynthetic activity on a molecular level would also be useful, as it is possible that we find out new information about how photosynthetic pathways work. Inhibitors are important in the agricultural industry as well, as herbicides are used to block photosynthetic pathways to kill unwanted plant growth such as weeds. For wavelength and its effect on photosynthesis, there needs to be further experimentation with a more controlled environment and larger sample size. Yet, it remains important to the scientific community, as we can learn more about how chlorophyll pigments, such as a and b, work and why they absorb best at the certain wavelengths that they do.  
+
+
+Literature Cited:
+Alberts B, Alexander J, Lewis J, Morgan D, Raff M, Roberts K, Walter P, Wilson J, Hunt T. 2015. Energy
+ Conversion: Mitochondria and Chloroplasts. Molecular Biology of the Cell, 6th ed. Abingdon, UK:
+ Garland Science, Taylor & Francis Group. pp 784.
+
+Investigating the light dependent reaction in photosynthesis. Accessed March 18, 2018.
+http://www.nuffieldfoundation.org/practical-biology/investigating-light-dependent-reaction-p
+Hotosynthesis
+
+Lederer, Alison (2007) "Investigation of Photosynthetic Properties In Spinach and Geranium:
+Pigments, Starch Production, and Light Wavelength Absorbance," ESSAI: Vol. 5, Article 29
+
+Photosynthesis Results. Accessed March 18, 2018.
+ https://faculty.unlv.edu/debelle/lab/196/photosynthesis/index.html
+
+Pigments. Accessed March 19, 2018. https://www2.mcdaniel.edu/Biology/botf99/photo/p3igments.html
+
+Rate of photosynthesis: limiting factors. Accessed March 18, 2018.
+http://www.rsc.org/learn-chemistry/content/filerepository/CMP/00/001/068/Rate%20of%20photosynthesis
+%20limiting%20factors.pdf
+
+Visible Light. Accessed March 18, 2018. https://science.nasa.gov/ems/09_visiblelight
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO214L1.png&Size=6112&Type=image%2Fpng&F=F_0lgQwUddiWxFheN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Photosynthetic activity for Spinacia oleracea chloroplasts at varied wavelengths, represented by average percent change in absorbance over a 50 minute period. Percent change was averaged over three trials. Error bars represent the standard deviation of the data. A two-sample t-test was run and found that for the blue light environment (t(4)=(0.88, p=0.43), and for the red light environment (t(4)=(0.057, p=0.96).
+
+
+*************************************************************************

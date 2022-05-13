@@ -1,0 +1,82 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-22 11:28:42
+Author of this lab report is: Std_NbGlCOtT
+ID: R_cvXUgWqFCANOzl3
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: How an Azamax Diet Inhibits Manduca Sexta Molting and Growth
+
+Abstract:
+	This experiment studies the effects of hormone inhibitors on the lifecycle of the Tobacco Hornworm (Manduca sexta). It is part of the Order Lepidoptera, which includes moths, butterflies, and skippers. It moves from larva, to pupa, to moth during its life cycle. The stage changes are triggered by molts [Johnson, 2018]. We believe that the manipulation of growth hormones will prevent molts and therefore growth of the Manduca sexta. By giving the larva hormone inhibiting chemicals through their diet we tested this hypothesis. Our data showed the insects that received the treatment grew less than those without. And our statistical tests showed some of this data this information to be statistically significant. Ultimately, we saw that changed levels of growth hormones prevented the Manduca sexta from growing normally. 
+
+
+Introduction:
+The molting and life cycle of a Manduca sexta are controlled by two main hormones. They are ecdysteroids and juvenile hormones [Johnson, 2018]. The two work in conjunction to trigger molts in the caterpillar which allow the transition into adulthood. Juvenile hormone exists in the caterpillar for the duration of its youth and has slight increases before each molt. Ecdysteroid also exists during youth and similarly has relatively large increases before each molt. Not only are the relative amounts of each hormone important to trigger a molt, but so is their ratio. There is an increase in both hormones at a specific ratio that triggers the molt. There are two main molts in the growth process before the caterpillar enters adulthood. [Johnson, 2018] 
+	We want to investigate how the animal’s growth responds to changes in these hormone levels. Will it still be able to adapt and grow on a normal pattern? Or will altered hormone levels prevent the animal from maturing normally? 
+	Azamax is a ecdysteroid inhibiting chemical. This means it prevents the release of the hormone in the caterpillar body. We want to see how adding Azamax to the diet of Manduca sexta caterpillars affects their growth and development. We believe that the change in hormone levels and specific ratio required for molts will prevent the caterpillar from following a normal growth pattern. The azamax will cause the caterpillar not to molt and will therefore prevent growth. Our experiment tests this hypothesis.
+	The independent variable is how much of the Azamax solution the Manduca sexta diet contains. The dependent variable is how the animal matures and grows. 
+	By either supporting or refuting the current information, this study will be able to further inform the science community about the life cycle, growth and hormone regulation in Manduca sextas. Azamax is also used as a pesticide. This experiment will test the effectiveness of the chemical as a pesticide. If the animals do not grow and are killed, Azamax works effectively. 
+
+
+Materials and Methods:
+1. Eight Manduca sexta caterpillars, in the 1st instar larva phase, were split into two groups of four.
+2. One of the groups, the control, was fed 10g of food with 7 drops of water each day with no added Azamax. 
+3. The second group, the treatment, was fed 10g of food with 7 drops of Azamax. 
+4. The caterpillars were fed like this for 8 days. 
+5. Each day the caterpillars weight (g) and length (cm) were recorded. 
+6. The caterpillars were all kept in the same 23 degree celsius environment.
+7. At the end averages were made among the treatment and control caterpillars to compare. 
+8. We then used a two sample t-test to analyse our data.  
+
+
+Results:
+	Figure 1 and table 1 below represent the data taken for the weight of the caterpillars. The weight corresponding to each day is an average of the four caterpillars in either the control or treatment group. After looking at the data one can clearly see that overtime the control group gained the most weight. 
+	The two sample t-test below, shown in table 2., uses the data we collected for weight of treatment and weight of control. This statistical test provides a p-value of .0496. This gives us a confidence interval of above 95%. 
+       Table 3 and figure 2 represent the data taken for the length of the caterpillars. The length corresponding to each day is an average of the four caterpillars in either the control or treatment group. Like seen with the weight measurements, the controls ultimately grew more and were longer than the treatment. 
+		Table 4 shows the two sample t-test using the data we collected for length of treatment and length of control. The P-value provided by this test is .104. This does not provide us with a 95% confidence interval. 
+
+Discussion:
+In the beginning of the experiment we hypothesized that adding Azamax to the Manduca sexta diet would affect the hormone levels enough to prevent molting and therefore growth of the caterpillars. This proved to be true. The caterpillars that were fed ecdysteroid inhibitor did not grow normally. They consistently weighed less and were not as long as shown in the graphs above. This means the ratio and levels of the two hormones are crucial to the proper growth and development of Manduca sextas. Because ecdysteroid was inhibited, there was no sharp increase to trigger the molt and growth. Our results match and support the data found in our lab manual.  
+In order to calculate our confidence interval for this experiment we looked at the p-values in the t-tests. We decided that in order for the experiment to be statistically significant the p-value needed to be less than .05, making the confidence interval larger than 95%. The p-value for the weight data was .049 rendering it statistically significant. The length data, on the other hand, only has a confidence interval of about 90% which does not fall within the statistically significant range. However, this data is also very strong as 90 is not far from the 95 benchmark. The two sample t-test allowed us to evaluate our data realistically, knowing our findings, at least for the weight, are statistically relevant. 
+There is slight room for error in the experiment. Each day, different people measured the length of the caterpillars. These measurements can be very subjective and can cause error. But, because the data was taken over a long period of time and trends were still identifiable, the error is not enough to alter major conclusions of the experiment. This subjectivity could also by why the confidence interval renders this data statistically insignificant. 
+This study could be supplemented by an experiment testing the effects of inhibiting juvenile hormones. This could provide information on how ecdysteroids and juvenile hormones work together to initiate molting, if one is more important than the other, and general growth patterns of the Manduca sexta. 
+
+
+Literature Cited:
+1. Johnson AD. Hormone Regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston - Salem, NC. Vers. 18.1 (updated January 5, 2018) pp. 6-13
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+11.16.12+AM.png&Size=83817&Type=image%2Fpng&F=F_d6A9C6UcVH47wy1
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+11.16.18+AM.png&Size=83770&Type=image%2Fpng&F=F_72pJIKtfYg0WuLr
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+11.18.18+AM.png&Size=85099&Type=image%2Fpng&F=F_cSbfGYim9ZHrBiZ
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+11.18.25+AM.png&Size=446266&Type=image%2Fpng&F=F_dnb7OhYXgV0CrkN
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+11.18.49+AM.png&Size=97185&Type=image%2Fpng&F=F_3pEGqDE51lrzpY1
+
+Figure 6: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-22+at+11.18.57+AM.png&Size=89309&Type=image%2Fpng&F=F_1NCxgkVGS4Azol7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: graph of average weight for control and treatment caterpillars
+
+
+*************************************************************************

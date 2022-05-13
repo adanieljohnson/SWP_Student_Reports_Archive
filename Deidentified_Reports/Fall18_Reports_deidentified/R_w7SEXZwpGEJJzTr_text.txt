@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-09-25 16:25:13
+Author of this lab report is: Std_kSsvxXlf
+ID: R_w7SEXZwpGEJJzTr
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effects of juvenile hormone methoprene on change in average weight of tobacco hornworm, Manduca sexta 
+
+Abstract:
+Hormones play a key role in the development and life cycle of the tobacco hornworm, Manduca sexta. To better understand how varying levels of these hormones can be utilized for insecticide and regulatory purposes, it is important to understand the effects of hormones such as  ecdysone and juvenile hormone. In this experiment, we analyzed the effects of an increased amount of methoprene, a type of juvenile hormone, in the diet of the Manduca sexta. We hypothesized that if a group of Manduca sexta caterpillars were fed a diet with increased levels of methoprene mixed in, then there would be a statistically significant difference between that group and a control group that were fed a normal diet. After feeding the caterpillars the two different diets over a span of two weeks, recording their weights, and performing a two-sample t-test, our results showed that our hypothesis was supported at the .05 probability level. These results suggest that the increase in methoprene caused the caterpillars to increase in weight, and altered their developmental process by keeping them from molting.
+
+
+Introduction:
+The Manduca sexta tobacco hornworm is an insect in the order Lepidoptera, with a lifespan of 19-23 dyas. Their life stages require molting, a process in which their skin cells secrete a new outer layer called a cuticle as they go through the development process. Previous research has established that their development from a larval stage to a pupal stage is largely driven by hormone and neuron based signaling, with two major contributors being juvenile hormone and ecdysone. Juvenile hormone regulates the type of molt the Manduca sexta undergoes, and ecdysone regulates the timing of the molt throughout development [Riddiford: 2003]. Based on this information, we began to ask what the effects of an increase in one of these hormones would have on the weight of these caterpillars. Since an increase in certain types of hormones have proven to be effective as insecticides, we wanted to look at the effects of raising the level of juvenile hormone (more specifically methoprene, a type of JH) that the Manduca sexta was exposed to [Wilson, 2004]. Therefore, the intent of the experiment was to put increased levels of methoprene in the caterpillar’s food. Based on the background information we found about the Manduca sexta, we expect that there will be a statistical difference in the average weight of the caterpillars with an increase in methoprene in their diet.
+
+
+Materials and Methods:
+Eight Manduca sexta caterpillars weighing 1.2 to 2 grams each were selected and divided into two groups of 4. 4 caterpillars were placed in a container, each separated in its own compartment, and labelled the control group. The remaining four were placed in an identical container and labelled the experimental group. All caterpillars were kept in the same incubator at 25 degrees Celsius, undergoing a 12 hour light/12 hour dark cycle. We fed the two groups two different diets over a span of two weeks. The control group received 40g (10g each) of caterpillar food, and the experimental group received 40g (10g each) of caterpillar food mixed with 40 drops of methoprene. Food was replaced as needed throughout the two weeks. Each day, every caterpillar was weighed, and physical observations were made about both groups and recorded. At the end of the two weeks, a two-sample t-test was used to compare the control and experimental group to determine if the data was significant.
+
+
+Results:
+The average change in weight of the experimental group over the span of two weeks was 8.7525, and the average change in weight of the control group was 4.1025 (Figure 1). We used a two sample t-test to determine if our results were statistically significant. This two-sample t-test concluded that the mean of the experimental group was statistically significantly different from the control group. Our degrees of freedom was 6, the t-value was 2.806, the one tailed p-value was .01545, and the two-tailed p-value was .0309. Because our p-value fell below the alpha level of .05, there was a statistically significant difference between the experimental and control groups. Throughout the experiment, we observed that there was a visible difference in weight in the experimental group, as they appeared much larger than the control group. The control group also began to pupate during the seventh day, during which they became noticeably smaller.
+
+
+Discussion:
+Based on these results, our hypothesis, which states if there is an increase in methoprene in the Manduca sexta diet, then there will be a significant difference in their weight, was supported. The two sample t-test we performed confirmed that there was a significance difference at the p = .05 level, and therefore we could reject our null hypothesis. Because our p value was less than .05, our results suggest that an increase in methoprene does have an impact on the amount of weight gained in the Manduca sexta. A possible effect of the increase in juvenile hormone is that it could have prevented the caterpillars from molting, therefore causing them to continue to grow and increase in weight without developing into the pupal stage. It is also possible, however, that the experimental group simply ate more than the control group, which could have caused a difference in weight. Other research on the developmental effects of juvenile hormone has shown that when manipulated, certain types of juvenile hormone can be utilized as an insecticide [Wilson, 2004]. Further analysis  and experimentation with juvenile hormone could prove to be useful in an environmental setting, due to its relevance in areas concerning pest control.
+
+
+Literature Cited:
+Wilson, T. G. (2004). The molecular site of action of juvenile hormone and juvenile hormone insecticides during metamorphosis: how these compounds kill insects. Journal of insect physiology, 50(2-3), 111-121.
+
+	Riddiford, L. M., Hiruma, K., Zhou, X., & Nelson, C. A. (2003). Insights into the molecular basis of the hormonal control of molting and metamorphosis from Manduca sexta and Drosophila melanogaster. Insect biochemistry and molecular biology, 33(12), 1327-1338.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=hormones.png&Size=34781&Type=image%2Fpng&F=F_1H8ksBTprsae7jh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mean weights of experimental group (fed 10g of methoprene) and control group (fed no methoprene) of Manduca sexta caterpillars. Error bars represent +/- one standard deviation. T-test results showed the one tailed p-value was .01545, and the two-tailed p-value was .0309 (p&lt;0.05)*************************************************************************
+
+
+

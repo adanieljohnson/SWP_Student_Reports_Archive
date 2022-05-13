@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-10-31 18:01:48
+Author of this lab report is: Std_FYMFY4dg
+ID: R_3PMN3m7WOyUHyJY
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Effects of Potassium Ions on the Muscle Contraction Force of Frog Legs
+
+Abstract:
+The frog is an ideal candidate to study muscle contraction due to its convenient leg structure, which consists partly of the sciatic nerve and the gastrocnemius muscle.  Additionally, muscle contraction involves action potentials arriving at the neuromuscular junction and promoting sarcomere contraction.  Within this muscle contraction, ions play an important role.  Specifically, the objective of this experiment is to determine the effect of potassium ions on the muscle contraction force.  Our hypothesis was that the contraction force of the gastrocnemius muscle would change when potassium ions were added to the muscle.  However, the experienced outcome of the experiment was that there was no significant change seen in the muscle contraction force after injection of potassium ions into the gastrocnemius muscle as compared to before injection.  This could have been due to the ion’s charged nature or the lack of dispersal of the ions throughout the muscle.  From this experiment we concluded that potassium ions do not have a significant effect on the muscle contraction force of the gastrocnemius muscle.
+
+Introduction:
+Like the Manduca sexta for insect endocrinology and the white rat for genetics, the frog is an ideal candidate to study muscle contraction and neurons because of the ease with which one can expose and test the nerves and muscles.  Therefore, the frog is as a biological subject in this experiment.  The leg of a frog contains two key parts, the sciatic nerve and the gastrocnemius muscle [Johnson: 2018].  Within the gastrocnemius muscle, there are myofibers which consist of sarcomeres.  These sarcomeres contain two different filaments, actin and myosin, which slide past each other as dictated in the Sliding Filament Theory, causes the muscle to contract [Squire: 2016].  On these myofibers are neuromuscular junctions, which cause the release of acetylcholine into the synaptic cleft [Johnson: 2018].  Once the acetylcholine binds to its receptor, it causes the opening of sodium channels, which cause an action potential to occur [Johnson: 2018].  This action potential then travels down the length of the axon and stimulates the release of calcium, which then stimulates the contraction of sarcomeres [Johnson: 2018].  This contraction can be manually stimulated in two ways, through the sciatic nerve or the gastrocnemius muscle.  When contraction is stimulated through the sciatic nerve, rather than the gastrocnemius muscle, the contraction force reaches a plateau of a maximum contraction force that is higher than that of the gastrocnemius muscle.  This is due to the fact that the sciatic nerve is able to reach more muscle cells than the probes that are stimulating the gastrocnemius muscle, and therefore more cells are able to contract upon sciatic nerve stimulation.  
+	Within muscle contractions, ions play an important role in both the traveling of an action potential down an axon and the contractions of sarcomeres.  Within the neuron, potassium plays an instrumental role in the development of action potentials, and therefore in muscle contraction as well.  One question that arises from this fact is the potential effects that the addition of extra potassium ions on muscle contraction.  The purpose of this experiment is to discover the effect of an excess of potassium ions on muscle contraction.  Our hypothesis for this experiment is that if extra potassium ions are injected into the muscle, then the contraction force will change.  This is because the concentration gradient of potassium is important to the neuron, and if that is changed, it will change the contraction force.
+
+Materials and Methods:
+First, we obtained three frog legs and skinned them.  We then separated the gastrocnemius muscle from the bone and tied it to the contraction force measuring device, positioning the frog so the gastrocnemius muscle was at a 90 degree angle to the table.  We then inserted two probes into the muscle, which allowed us to stimulate the gastrocnemius muscle directly.  After, we inserted 2 probes into the gastrocnemius muscle and then tested the contraction force of the muscle at .3, .4, .5, 1, and 2 volts.  After this, we injected .1 mL of a 20 mM potassium ion solution into the gastrocnemius muscle and waited five minutes for the ions to diffuse throughout the muscle.  We then repeated the same measurements of contraction force at .3, .4, .5, 1, and 2 volts.  During this entire procedure, we also made sure to not move the frog leg once the first measurement had been taken, including during injection, to keep the contraction force measurement conditions constant.  After completing the total of 10 measurements on the first frog leg, we then repeated them on the next two legs.  With this data, we ran a two-tailed paired t-test on the data of the contraction force at .5 volts to determine whether the contraction force with extra potassium ions was significantly different than the contraction force without extra potassium ions.
+
+Results:
+For the three trials, Frog 3 had the highest overall average contraction force, whereas Frog 1 had the lowest overall average contraction force, and the contraction force for all three frogs increased as the stimulation voltage increased (Fig 1).  However, the threshold for the different for the 3 separate frog legs, with some legs contracting as soon as .3 volts, and others as late as 1.0 volts (Fig 1).  There was no observed trend in contraction force for the legs with K+ or the legs without K+.  We chose to analyze our data collected at .5 volts.  For our data of contraction force at .5 volts, we calculated a non-significant p-value of of .72 (Fig 2).
+
+Discussion:
+Our results did not support our hypothesis.  There is no observable trend in the data, as some of the with K+ values are higher, and others are lower than their paired without K+ values.  We therefore concluded that the addition of K+ ions does not significantly affect the contraction force of the gastrocnemius muscle (Fig 1).  Our conclusion is supported by the fact that the contraction force of the leg with extra potassium ions at .5 volts was not significantly different than the contraction force of the leg without extra potassium ions at .5 volts (Fig 2).  This result was determined because our p-value for this data was .72, meaning that the contraction forces for with and without K+ at .5 volts were not significantly different (Fig 2).  This is most likely due to the fact that the ions did not have enough time to permeate the actual cells, and therefore the ions could have no real effect on the contraction force because they were all concentrated in one area, only affecting a few cells, which does not produce significant differences in overall contraction force.  Another possibility is that the concentration of the K+ ions was too low, so there were not enough K+ ions present to have an effect.  A source of error could have been the discrepancy of the volume of the K+ solution injected.  Because we used a syringe and not a micropipette, our volumes of solution that we injected into each leg most likely varied significantly from our goal value of .1 mL.  
+Our results contradict previously published studies which states that both intracellular and extracellular K+ concentrations play a role in muscle contraction, so a change in K+ concentration to potentially toxic levels should have theoretically affected muscle contraction [Lindinger: 1991].  The observed periodic and sporadic decrease in contraction force could have been due to the disruption of the muscle sarcomere structure by the sheer volume injected into the muscle (Fig 1).  In fact, the muscle during injection was observed to swell tremendously.  
+Our next step would be to repeat this experiment, but with this time including more accuracy in the injection volume and the location of the injection.  Additionally, we would also give the ions more time to disperse throughout the muscle.  Overall, although this experiment showed that a change in K+ ion concentration did not affect the contraction force of the gastrocnemius muscle, it does offer some interesting areas of further study, including investigating: if not potassium, what ions do affect the contraction force?
+
+Literature Cited:
+1. Johnson AD. Comparative Physiology. BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 5-13. 2. Squire JM. 2016. Muscle contraction: Sliding filament history, sarcomere dynamics and the two Huxleys. Global Cardiology Science & Practice. 2:1-23. 3. Lindinger MI, Sjøgaard G. 1991. Potassium Regulation during Exercise and Recovery. Sports Medicine. 11:382–401.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-31+at+11.50.07+AM.png&Size=183574&Type=image%2Fpng&F=F_2QrMPFsj8b0ij4J
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-31+at+11.50.14+AM.png&Size=76171&Type=image%2Fpng&F=F_307Z8o0HkyfzzdT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Contraction force of gastrocnemius muscle with and without added K+ ions through direct gastrocnemius muscle stimulation at 5 five different tested voltages. Figure 2: Average contraction force of gastrocnemius muscle when stimulated with .5 volts. P-value = .72.*************************************************************************
+
+
+

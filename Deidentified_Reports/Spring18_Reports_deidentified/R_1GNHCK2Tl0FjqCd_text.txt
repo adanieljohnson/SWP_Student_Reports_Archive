@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 17:25:21
+Author of this lab report is: Std_oQYuBoYX
+ID: R_1GNHCK2Tl0FjqCd
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: How Excess Acetylcholine Affects Muscle Contractions
+
+Abstract:
+In this lab, we attempted to measure any differences in muscle contractions of the gastrocnemius muscle of Rana pipiens that were created by the presence of excess Acetylcholine in the sciatic nerve. We did this by measuring the amplitude of muscle contractions of the muscle at different input Amp levels. We did this for two different frog legs and averaged the results. We then repeated the process after injecting Acetylcholine into the muscle fibers. We found that it drastically decreased the time it took for the muscle to contract.
+
+Introduction:
+In this lab, we tried to explore the effects of different chemicals on muscle contractions. We used the gastrocnemius muscle of a Rana pipiens, or northern leopard frog, and tried to measure any differences that were caused by the muscle contractions before and after the introduction of Acetylcholine. Acetylcholine is a neurotransmitter that stimulates skeletal muscle contractions in animals [Adam: 1990]. I hypothesized that the addition of more Acetylcholine would have no effect on the muscle contractions because there is already a sufficient amount of the chemical in the nervous tissue of the frog.
+
+
+Materials and Methods:
+We received two frog legs from the same frog, and we immediately removed the skin from them. Then, we carefully separated the gastrocnemius muscle from the lower joint. We found the end of the sciatic nerve of the frog that would be closer to the frog’s central nervous system. Then, we took the detached end of the muscle and suspended it, giving it a little bit of tension on it. We connected a positive and negative electrode to the sciatic nerve and secured the leg to the work surface. Then we tested the twitch threshold of the legs, and then we tested the amplitude of the twitches (in volts) at 1, 2, 3, 4, and 5 Amps of input into the sciatic nerve. We then injected 0.1 mL 10mg/mL Acetylcholine into the muscle and repeat the tests. Then repeat the process on the other leg. We will use two different two sample t-tests: one to find the differences in twitch threshold, and one to find the differences in amplitudes.
+
+
+Results:
+The t-value for the twitch threshold test is 1.715, and the p-value is 0.228, which means that the results are not statistically significant. This is probably due to having such a small sample size. In the second two sample t-test, the one that used the voltages that were output from the whole number Amp inputs from 1-5, we found a t-value of 25.296 and a p-value of 6.39×10-9, which is considered a statistically significant figure. For the second t-test, the average of the control group was .5097 and its standard deviation is ± 0.0136. The average of the experimental group was .2291 and its standard deviation is ± 0.0208. There are 8 degrees of freedom. As figure 1 shows, the introduction of Acetylcholine does not necessarily change the pattern of twitching and/or the distribution of the amplitude of the twitch, but it does reduce the amplitude drastically.
+
+
+Discussion:
+
+The main conclusion of our data is that Acetylcholine reduces the twitch amplitude of Rana pipiens gastrocnemius muscles. This does not support my hypothesis. I had assumed that the introduction of more neurotransmitter would not affect the muscle contractions because the neurotransmitter already existed in the nerve. The extra neurotransmitter actually sped up the muscle contraction by a lot, which makes sense [Adam: 1990]. The higher the concentration of the neurotransmitter is within the nerves, the faster the muscle should be able to contract. This fits in with Adam’s research, which spoke of how an increase in Acetylcholine levels should trigger a decrease in muscle contraction time. A potential error is that we did not properly inject the Acetylcholine into the gastrocnemius muscle, but this should not be a factor because we injected the compound into the muscle the same way on both legs.
+
+
+Literature Cited:
+Adam, L P, and E G Henderson. “Calcium Channel Effectors Are Potent Non-Competitive Blockers of Acetylcholine Receptors.” Pflugers Archive: European Journal of Physiology., U.S. National Library of Medicine, July 1990, www.ncbi.nlm.nih.gov/pubmed/2172919.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2018-03-27.png&Size=54188&Type=image%2Fpng&F=F_SVMroxbItvd6VmF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 shows the average amplitude of the muscle contraction for both legs during their control and experimental phases at different input Amperages. 
+
+*************************************************************************

@@ -1,0 +1,49 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-01 06:45:57
+Author of this lab report is: Std_VijX24fD
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of nicotine on the amplitude of Rana pipien gastrocnemius muscle contractions
+
+Abstract:
+This experiment focused on how amplitude values of Rana pipien gastrocnemius muscle contractions would change in response to an injection of 1 ml of nicotine. It was hypothesized that injecting nicotine into the Rana pipiens gastrocnemius muscle would increase the amplitude of contractions. This was due in large part to the fact that nicotine is an ACh agonist, the primary chemical that initiates muscle contractions. Three frog legs were connected to an iWorks machine and underwent stimulation of the sciatic nerve. After 5 pulses at 1.0 mV the legs were injected with nicotine and stimulated again. It was found that amplitude did increase significantly after the nicotine injection. Conducting a paired-t-test using the average control and experimental amplitudes revealed the P-value to be 0.0026, therefore P<0.05 (0.05 being the predetermined α) and the data collected significant. This served to support the idea that nicotine was the main factor responsible for the increase in amplitude. Therefore, nicotine's ability to mimic ACh and consequently trigger the same process of creating AP's suggests that it heightened the functions of ACh on the muscles and raised amplitude levels.
+
+Introduction:
+Skeletal muscle is at the basis of all movement. It is comprised of numerous muscle fibers containing structures that cause contraction. These subunits, called sarcomeres, are activated by a process that begins with acetylcholine. A neuron, containing acetylcholine (ACh), releases the chemical onto the membrane of the muscle fiber. This initiates a release of sodium from Na channels, generating an action potential (AP). The AP activates a release of calcium, causing sarcomeres (the contracting structures of muscle fibers) to shorten. From this, the importance of acetylcholine in muscle contraction is made evident. Experiments, like that of T.M. Egan and R.A. North, have observed the effects of the ACh agonist, nicotine, on muscle fiber. Nicotine, an ACh agonist as previously mentioned, acts the same as ACh. In Egan and North’s experiment, they tested the effects of ACh and nicotine on rat locus coeruleus neurons, a section of the animal's brain. They found that nicotine depolarized locus coeruleus neurons and increased the rate of action potential discharge [Egan,North: 1986].
+In this experiment, the effects of nicotine on directly stimulated Rana pipien (frog) leg muscles will be observed and recorded. The independent variables are the level of voltage applied to the Rana pipien legs and the amount of nicotine injected into the legs. The dependent variables are the amplitude values recorded during stimulation of the pre-nicotine injected legs and the post-injected legs. Based on my understanding of muscle contractions as well as Egan and North’s findings that nicotine raises the rate of action potential discharge, my hypothesis is that injecting nicotine into the Rana pipiens gastrocnemius muscle will increase the amplitude of contractions. 
+
+Materials and Methods:
+For this experiment, three frog legs were placed on a dissecting tray. The skin from all three legs was removed. The upper thigh muscle was peeled apart to expose the sciatic nerve and a BNC connector was attached to the nerve. The tendon of the gastrocnemius muscle was cut, separating it from the bone, and a string loop was tied to the tendon on each leg. The legs were kept moist by applying Ringer’s solution. After placing the loop of Leg 1 onto the hook of the iWorks system and securing the muscle to the tray, the wires were inserted into the muscle. Using iWorks to measure and stimulate, a voltage of 0.1V was applied for 5 pulses and then, without stopping the reading, the leg was injected with 1 ml of nicotine. Changes were observed and the group waited for the muscle to return to a resting state before once again applying 5 pulses at 0.1V to the leg. This was done for all three Rana pipien legs. A paired t-test was used to compare the results of each leg pre and post-injection.
+
+Results:
+There was a clear growth in amplitude values between the legs pre-injection and post-injection. In the first leg, the average signal amplitude pre-injection was 0.3152 volts whereas the average signal amplitude post-injection was 1.413. This is a difference of 1.0978. In the second leg, the average amplitude pre-injection was 0.0996 and the average amplitude post injection was 1.087, a difference of 0.9874. Finally, the third leg had an average pre-injection amplitude of 0.3562 and an average post-injection amplitude of 1.2784, a difference of 0.9222. The average difference between control and experimental amplitudes of all three legs was 1.0025. Amplitude values in all trials remained in a similar range with no prominent outliers. All three muscles contracted/tensed up immediately upon the injection of nicotine. A paired sample-t-test was conducted to compare the amplitude values in nicotine and no nicotine conditions. 
+The mean amplitude of the muscle contractions, after nicotine, was substantially greater than the mean amplitude before (t-value=19.56, α=0.05, P=0.0026, df=2). Figure 1 shows the average pre-injection amplitude and average post injection amplitude for all three legs. The standard of deviation for the control was 0.1378 and the standard deviation for the experimental group was 0.1638.
+
+
+Discussion:
+The results of this experiment supported the original hypothesis that nicotine will increase the amplitude of Rana pipien leg muscle contractions.The data collected showed that the Rana pipien legs had an average amplitude increase of about 1.0 after the nicotine injections. This increase can be attributed to the nicotine injections because conducting the paired t-test showed that P<0.05, indicating that the data is statistically significant. The null hypothesis, that there will be no difference between the experimental and control leg amplitudes, can therefore be rejected. These results were highly expected based on the previously known functions of neurons and skeletal muscles. Because nicotine is an ACh agonist, the most important neurotransmitter in the process of skeletal muscle contraction, its injections into the muscle most likely heightened the effects of ACh during contractions and therefore produced a stronger output amplitude. In other words, the postsynaptic membrane, in this case the muscle fiber, translated the influx of nicotine as ACh, which heightened the production of Na and consequently APs, resulting in a higher amplitude value. In addition, T.M Egan and R.A. North’s findings that nicotine increases the rate of action potential discharge in certain animal brain areas supports the findings in this experiment that nicotine caused the increase in amplitude of muscle contractions. A limitation of this experiment was that already present electric charges in the iWorks system sometimes acted on the legs prior to recording data. This presence of unmeasured electric activity in the legs affects the accuracy of the data. An opportunity to further this experiment would be to repeat the steps as is with the same sample size but instead of injecting the legs with just nicotine they would be injected with an ACh antagonist as well, such as a calcium channel blocker, and then stimulated. The addition of an antagonist would help reveal more information in regards to nicotine’s ability to mimic ACh in different chemical environments or simply its ability to raise amplitude in the presence of opposing factors.
+
+Literature Cited:
+1. Egan, T. M., and R. A. North. 1986. Actions of acetylcholine and nicotine on rat locus coeruleus neurons in vitro. Science Direct. 19: 565–71.
+
+2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 19-21.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-11-01+at+3.30.18+AM.png&Size=66915&Type=image%2Fpng&F=F_bpays8qTznsngAR
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average amplitude values of pre-nicotine and post-nicotine Rana pipien legs. 
+Three legs were used, each acted as their own control. Control bar shows mean amplitude of 0.257. Experimental bar shows mean amplitude of 1.259. Error bars show s.d. Standard of deviation for the control was 0.1378. Standard deviation for the experimental group was 0.1638. Paired t-test was used (t-value=19.56, α=0.05, P=0.0026, df=2).
+
+
+*************************************************************************

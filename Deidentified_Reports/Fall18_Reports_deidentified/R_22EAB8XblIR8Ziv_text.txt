@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-31 18:01:35
+Author of this lab report is: Std_DFi6EBNv
+ID: R_22EAB8XblIR8Ziv
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Treatment of Rana pipiens legs with Tubocurarine results in increased twitch threshold in response to stimuli
+
+Abstract:
+The injection of tubocurarine into the gastrocnemius muscle of a Rana pipiens frog leg was used to determine the effects of acetylcholine (ACh) on muscle contraction. The experiment connected the sciatic nerve to a transducer and stimulated the nerve with electrical pulses to observe the muscle contractions on a suspended Rana pipiens gastrocnemius muscle. We predicted that tubocurarine would cause an increase in the twitch threshold needed to initiate a muscle contraction since it blocks the binding of ACh to its nicotinic receptor on the myofibril. Our hypothesis was supported by our results but did not turn out statistically significant as determined by a paired t-test.
+
+Introduction:
+The neuromuscular system allows organisms to move their body through electrical stimulation of muscles by a neuron. Skeletal muscles are made up of thousands of cells called myofibrils. These cylindrical-shaped fused collections of multi-nuclear cells form long fiber-like strands. Nerve cells trigger the contraction of the myofibrils by releasing a neurotransmitter called acetylcholine (ACh). ACh binds to its receptors on the fibers’ surface, opening sodium channels, which generates an action potential in the muscle fiber. This action potential then spreads through the fiber, releasing Ca²⁺ ions from intracellular storage sites called the sarcoplasmic reticulum. The Ca²⁺ activates the fiber contraction mechanism, and the muscle shortens (Bullock: 1946). The twitch threshold is the measure of the smallest electrical signal sent by a neuron to trigger a muscle contraction, or twitch. This experiment investigates the effects of Tubocurarine, an ACh antagonist, on the twitch threshold of the gastrocnemius muscle of a severed Rana pipiens leg through stimulation of the sciatic nerve. We chose to use Rana pipiens because of the high volume of scientific literature published involving the frog species as well as simple anatomy to dissect and work with. The tubocurarine antagonizes the ACh by binding to the nicotinic acetylcholine receptors, causing a conformational change in their protein subunit structure and thus preventing ACh binding (Pederson: 1990). We hypothesized that if tubocurarine is injected, the ACh will not be able to bind as many of the muscle cells’ receptors, thus requiring more ACh present in the synapse to initiate muscle contraction, increasing the twitch threshold as the action potential of the nerve cell needs to be higher to release more ACh. 
+
+Materials and Methods:
+Each frog leg had the skin pulled down from the thigh to the foot, exposing the musculature and bone structure. Then the inner thigh muscles were separated from the knee to the site of severance to expose the sciatic nerve. The nerve was then freed from the thigh and placed over a transducer electrode. Keep all exposed tissues moist with frog Ringer’s solution. The gastrocnemius muscle was then separated from the foot by cutting through the Achilles tendon. The gastrocnemius was attached to a force transducer, hanging perpendicular to the dissection pan. Our experiment involved the stimulation of the gastrocnemius muscle by action potentials generated in the sciatic nerve attached to the muscle. Each measurement involved stimulating the sciatic nerve was by a single electrical pulse from a transducer with 5ms pulse width and a 1 Hz frequency. For the control tests, the twitch threshold voltage was recorded from the myogram results. After finishing the control stimulation, 1 mL of 1mM tubocurarine was injected directly into the gastrocnemius muscle, and the measurements were repeated in the same fashion as the control. 
+
+Results:
+Examining twitch threshold in the experiment resulted in a calculated p-value of P=0.388 with t-stat 1.095 with 2 degrees of freedom in a paired t-test. This did not suggest a statistically significant result. However, the twitch threshold did increase from control to experimental with the exception of frog leg two (Figure 1). It can be noted that while frog leg two had the same twitch threshold for the control and experimental tests, the response amplitude for the experimental test was much lower (Figure 2). Frog leg one presented the greatest increase in twitch threshold (Figure 1) while frog leg two had the largest difference in response amplitude (Figure 2). The experimental test for frog leg three had a lower twitch threshold than the control test while also having a proportional increase in the muscle twitch response amplitude as the stimulus voltage increased (Figure 3). 
+
+Discussion:
+Based on our results, our hypothesis was supported, but the statistical test results indicated that what we observed was not statistically significant. From what was observed, it seems that the tubocurarine blocked the acetylcholine from binding to its receptors, preventing sodium channels from opening, and not initiating the cascade for the muscle contraction mechanism (Pederson: 1990). Each frog leg’s twitch threshold was a different voltage, which may be explained by inherent differences in the separate frogs’ anatomy. We were looking not at specific values for twitch threshold changes but instead remarking if there was any increase in twitch threshold after the injection of tubocurarine. We noted an increase in twitch threshold for frog legs one and two, supporting our hypothesis, but in frog leg three, the twitch threshold stayed the same. This was likely due to the fact that our initial threshold measurement was too large for the specific frog, stimulating 0.1 V across the sciatic nerve and recording a response amplitude of 0.379 V, compared to the much lower initial responses of frog leg one (0.037 V) and frog leg three (0.024 V). When stimulating frog leg two after treatment with tubocurarine, we noted an identical response amplitude as the control (0.1 V) but also a vastly lower response amplitude (0.044 V). We can infer that the twitch threshold of frog leg two is likely much lower than we recorded because we didn’t have small enough incremental stimulating voltage. Thus, despite the calculated statistical significance, it is highly likely that tubocurarine has the hypothesized effect on the muscle response. However, another possible explanation is that the frog legs were in tetany after running out of available ATP, but the frog legs were freshly severed, and the tests were done in imminent succession to one another, so this explanation is not as likely. Our experimental results are important to the scientific community by determining the importance of acetylcholine in muscle control and the effects that tubocurarine can have on muscle cells. Learning about how acetylcholine is used in the movement of muscle cells may have some usage in preventing unwanted muscle contractions such as those in epileptic patients or other such seizure-prone conditions.
+
+Literature Cited:
+Bullock, T. H., et al. “GENERALITY OF THE ROLE OF ACETYLCHOLINE IN NERVE AND MUSCLE CONDUCTION.” Journal of Neurophysiology, vol. 10, no. 1, Jan. 1947, pp. 11–21. Crossref, doi:10.1152/jn.1947.10.1.11.
+Pedersen, Steen E., and Jonathan B. Cohen. “D-Tubocurarine Binding Sites Are Located at a-y and c-6 Subunit Interfaces of the Nicotinic Acetylcholine Receptor.” Proc. Natl. Acad. Sci. USA, 1990, p. 5.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.+Twitch+Threshold+and+Stimulus+Amplitude.PNG&Size=69363&Type=image%2Fpng&F=F_1C453r0qKu6YCDa
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.+Comparing+twitch+thresholds+of+control+and+experimental+groups.PNG&Size=15907&Type=image%2Fpng&F=F_2ZQQrOBYC5Y8Xz1
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+3.+Frog+Leg+1+comparing+control+and+experimental+response+amplitudes.PNG&Size=46637&Type=image%2Fpng&F=F_sdrM1up1wujgO8V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparing twitch thresholds of control and experimental groups for all frog legs
+Figure 2. Comparing frog leg 1 control and experimental muscle twitch response amplitudes
+Figure 3. Comparing twitch threshold and stimulus amplitude for all groups of frog legs*************************************************************************
+
+
+

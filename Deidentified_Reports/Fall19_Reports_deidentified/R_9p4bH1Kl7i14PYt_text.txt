@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-14 17:37:11
+Author of this lab report is: Std_dJAdQnwl
+ID: R_9p4bH1Kl7i14PYt
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Juvenile Hormone’s effect on Growth and Transition in the Manduca sexta
+
+Abstract:
+An abstract is a summary of your work that includes parts of each section of the paper. Even though it is a at the front of a report, the abstract should be the last part of the report that you write. You do not know what you need to summarize until the rest of the report has been written. In about 200 words or less, it should summarize the study's main objective(s), give the scientific name of the organism you studied, and state your hypothesis. It also will summarize the study's background, the methods, major results, and conclusions. You should not include references in your abstract.
+NOT NEEDED FOR THIS LAB
+
+Introduction:
+In animals, the endocrine system is comprised of glands that produce and secrete hormones which regulate certain activities and development in the body [Johnson: 2019]. While humans are comprised of many glands and hormones, insects have three main hormones which control development, molting, pupa formation, and adult formations [Johnson: 2019]. The three hormones effecting these in insects, particularly the Manduca sexta, or hornworm, are the Prothoracicotropic or Brain Hormone (PTTH or BH), Ecdysterone (20E), and Juvenile Hormone (JH) [Johnson: 2019]. Both 20E and JH have been repeatedly showing different effects on the organism. For this experiment testing the growth and development, JH would be the appropriate hormone to test since it specifically controls growth, development, metamorphosis, and reproduction of insects [Noriega: 2006]. When the JH levels are at the right level, it triggers the organism to go through major developmental changes which effect the type of molt.  Through the Manduca sexta life cycle of about 39-48 days long, it is reasonable to test the effects of interrupting JH through the organism’s endocrine system [Johnson: 2019]. If JH levels are too low, the organism will not be able to survive and grow to molt, however if the JH levels are too high, it will interfere with the organism being able to advance to the next instar, ultimately hindering the pupa. Because JH regulates growth and the type of molt during development, interfering with the organism’s normal secretions could cause notable effects. Therefore, if we treat the Manduca sexta with 10 drops of JH with their food, then there will be a negative effect on the timing of their transition to the pupal stage, and they will lose weight. 
+
+Materials and Methods:
+For this experiment, we treated and observed eight Manduca sexta caterpillars over the course of two weeks. Four of the caterpillars were treated as a control group while the other four were our experimental group. To have a baseline, we weighed each caterpillar and recorded their weight in grams the day we received them. We separated the control and experimental groups by placing the four of each in different containers with 10 grams of food each. The control group’s food was treated with 10 drops of distilled water while the experimental group’s food was treated with 10 drops of JH. For the next two weeks, we measured the weight on a daily basis of each caterpillar and recorded it as well as checked for food moistness and cleaning the feces from each cube. We replaced a new 10 grams of food, with their group’s specific treatments, if the food was gone or too dry. When not taking measurements, they were kept in an incubator. We tested this experiment through a one-tailed t-test with an alpha value of .05.  
+
+Results:
+The average change in weight of the experimental caterpillars treated with JH was smaller than the average change in weight of the control caterpillars treated with distilled water. While the average change in mass for the control group was 14.0972 grams +/-0.66 standard deviations, the  average change in mass for the experimental group was 13.16035 grams +/-1.52 standard deviations which can be seen in Figure 1. Although the means of average change for caterpillars was higher for the control group, this mean was not statistically significantly different than that of the experimental group average weight change which can be understood by our significance measurement (p =0.15). In the beginning, the control group grew more than the experimental group, however as the experiment progressed towards the middle to end of the second week, they caught up quicker in weight to the control caterpillars. In Figure 2. one can note the difference in sizes of the caterpillars from the first day, until the day they were dispatched. 
+
+Discussion:
+Our hypothesis, that JH treated caterpillars would have a negatively timed effect on their transition to the pupal stage and that they would lose weight, was not supported. With our significant value, (p=.15), we reject the null hypothesis.  The alternate hypothesis, that JH treated caterpillars would not have a negatively timed effect on their transition to the pupal stage and that they would not lose weight, was true. Although the experimental group did not necessarily lose weight, they did not gain weight as much or as fast as the control group, treated with distilled water, did. With p=.15, it says that the different change in growth was not statistically significant to our experiments procedures. We could have obtained the results that did not support our hypothesis due to the varying starting weights, daily observation time not being consistent, or other factors related to the specific caterpillars. To better this experiment next time we would try to obtain a group of caterpillars that were roughly the same starting weight in both groups and weighing the caterpillars at the same time every day for the two weeks which would benefit the observation of growth rate to closer precision. In past studies however, JH was found to have delayed or prevent the onset of metamorphosis, type of molt, in the Manduca sexta [Williams: 1980]. This study in turn does support the claim that growth rate and transition stage timing were impacted with JH treatment. In addition, another study shows that not only could JH prevent metamorphosis of the final instar to an adult, but it has a significant effect at both the pupal and adult stage of the caterpillar [Riddiford: 2008]. These studies support our hypothesis that JH slows the growth rate in the Manduca sexta caterpillars and has negative effects on their transition stage. This experiment as well as further studies on the hormone effects on insects are important for understanding how species would react to hormone growth regulators, which, for example, can help in the protection of crops. In knowing that JH is an inhibitory growth regulator, designs of growth inhibition on certain insects could be done to help farmers protect their crops.  
+
+Literature Cited:
+Johnson AD, Mallison S. 2019. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 19.2 (updated July 8, 2019), pp. 7-12. 
+
+Noriega, F.G., Ribeiro, J.M.C., Valenzuela, J.G., Hernandez-Martinez, S., Pham, V.M., Feyereisen, R. 2006. Comparitive genomics of insect juvenile hormone biosynthesis. Insect Biochemistry and Molecular Biology, 36, pp. 366-374. 
+
+Williams, C.M. 1980. Effects of juvenile hormone on ecdysone-dependent development in the tobacco hornworm, Manduca sexta. The Biological Bulletin, 158. 
+
+Riddiford, L.M. 2008. Juvenile hormone action: a 2007 perspective. Journal of Insect Physiology, 54, pp. 895-901. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-23+at+11.54.07+PM.png&Size=32491&Type=image%2Fpng&F=F_2BmHIhcRXddv1RL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=F5458416-4A61-448D-BEC5-05049EDA243E.JPG&Size=896135&Type=image%2Fjpeg&F=F_1CHGU9oTm9HjSIq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph shows the average weight change for both the experimental and control groups. The error bars represent the standard deviation for the experimental group as +/- 1.52 while the control group standard deviation is +/- 0.66. One sample t-test results showed average weight change for experimental group to be lower than the control group. 
+
+Figure 2. This photo shows the difference in sizes of the control and experimental groups from the first day until the day they were dispatched. The control group is on the left of both photos and the experimental group is on the right in both photos. *************************************************************************
+
+
+

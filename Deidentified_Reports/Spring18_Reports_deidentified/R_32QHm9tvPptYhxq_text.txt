@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-11 20:10:22
+Author of this lab report is: Std_AjCtbidJ
+ID: R_32QHm9tvPptYhxq
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The Effect of Nicotinic ACh Receptor Antagonist on the Minimal Threshold of Skeletal Muscle Contraction on Frog Legs
+
+Abstract:
+The purpose of the experiment was to measure the effect a neuromuscular blocking agent, nicotinic ACh receptor antagonist, has on the skeletal muscle contraction of a frog leg. In particular, we measured the minimal threshold of muscle contraction by conducting several trials on two frogs using the software iWorx. A control group and experimental group (given the blocking agent) were compared to test the hypothesis of the experiment; if a frog leg is treated with nicotinic ACh receptor antagonist, then the minimum threshold of skeletal muscle contraction is increased. After conducting the experiment, a statistical test, T-test, was performed in order to obtain a p-value, showing the statistical significance between the control and experimental means. The test showed if there was a direct correlation between the nicotinic ACh receptor antagonist and the increase of voltage needed to reach a contraction. Our hypothesis was further supported by the two p-values obtained in the experiment. The p-value obtained was 6.38E-8, meaning data obtained was statistically significant. The study highlights the effectiveness of neuromuscular blocking agents and how useful they could be for surgery, orthopedy, endoscopy, and to prevent traumatisms during electroconvulsive therapy and tetanus. 
+
+Introduction:
+The neuromuscular system allows organism to sense and respond to internal and external environments within milliseconds. The neuromuscular system consists of skeletal muscles, innervated by motor neuron [1]. Axons of motor neuron extend into muscle and branch out at neuromuscular junctions [1].  The muscle is stimulated by a nerve via excitation-contraction coupling; action potentials arrive at the neuromuscular junction and the depolarization process releases acetylcholine (ACh) [1]. In this experiment, a series of exercises are completed to test the effectiveness of nicotinic ACh receptor antagonist has on the skeletal muscle contraction in a frog leg. A frog leg is used to demonstrate specific properties of neuromuscular control. In particular, the gastrocnemius muscle and sciatic nerve from a frog leg was isolated to test the minimal threshold of skeletal muscle contraction [1]. The iWorx data system is used to show clear and accurate results that can be saved on a laptop. In the experiment, the independent variables the nicotinic ACh receptor antagonist and dependent variable is the minimal threshold of muscle contraction [1]. Two frog legs are used in the experiment; both frog legs tests the effectiveness of nicotinic ACh receptor antagonist. Each are tested without the treatment and then treated with the nicotinic ACh receptor antagonist. It is predicted that the nicotinic ACh receptor antagonist will increase the threshold of muscle contraction since the antagonist will bind to the nicotinic ACh receptor on muscle neuron, inhibiting ACh form fully binding to the muscle neuron. Essentially, the antagonist will reduce the amount of sodium to enter the cell and begin the muscle contraction process, increasing the threshold of skeletal muscle contraction [2]. In addition, the nicotinic ACh receptor antagonist is a depolarization inhibitor slowing down the rate of contraction, while increasing the voltage in order to start a muscle contraction [3]. It is hypothesized that if a frog leg is treated with nicotinic ACh receptor antagonist, then the minimum threshold of skeletal muscle contraction is increased. The alternative hypothesis is that nicotinic ACh receptor antagonist affects the minimum threshold of muscle contraction, so the threshold of muscle contraction may be varied by nicotinic ACh receptor antagonist. The null hypothesis is that nicotinic ACh receptor antagonist does not affect the threshold of muscle contraction, so the threshold of muscle contraction is not varied by nicotinic ACh receptor antagonist. It is predicted that the alternative hypothesis is accepted, and the null hypothesis is rejected. 
+
+Materials and Methods:
+In this experiment, two frog legs were prepared with frog ringer solution. The purpose of frog ringer solution was to keep the frog leg hydrated, in order to produce a proper muscle contraction. Each leg was skinned with our hands and the skin was pulled down towards the foot of the frog. A dissecting probe was used to gently separate the inner thigh muscle, beginning at the upper and extending to the knee. The nerve was then gently freed from its attaching connective tissue using some dissecting needle and forceps. Each frog leg was hung up using a cloth string. Afterwards a silver wire was wrapped around the top and bottom of the gastrocnemius muscle of each frog leg. Red and black clips were attached to the top of the gastrocnemius were the silver wire was wrapped. This was essential for iWorx to produce accurate data. Each frog leg was subjected to two trials. The minimal threshold of muscle contraction was found for first and second leg. Then both legs were injected with 0.2 mL of 1 mM tobocurcaine using a syringe. We waited 10 minutes before recording the minimal threshold of contraction, in order to make sure the nicotinic ACh receptor antagonist properly reacted with the muscle. After the results are gathered a statistical test, a Two Sample T-test, was used in order to obtain a p-value, showing the statistical significance between the control and experimental means. The test showed if there was a direct correlation between nicotinic ACh receptor antagonist and the minimal threshold contraction of frog legs. 
+
+Results:
+The results from the data and bar graph depict several general trends. According to the graph and observations the control group experienced minimal threshold of muscle contraction with a smaller voltage compared to the experimental group (Fig. 1). The results are expected as the experimental group was given the nicotinic ACh receptor antagonist, raising the minimal threshold of muscle contraction since it serves as a depolarization inhibitor making it take more voltage and energy to start a muscle contraction. During the lab, a test was used to analyze and compare the differing populations means, the mean of the experimental group and the mean of the control group. More specifically, a two-sample t-test was used to find the statistical significance between both populations means. The p-value obtained was 6.38E-8. The p-value obtained was very low, as a p-value below 0.05 implies that the data obtained was statistically significant, supporting the alternate hypothesis [4]. The mean minimal threshold of contraction for the frog legs control group was 0.168 g+/-0.02573 g. The mean minimal threshold of contraction for frog legs experimental group was 0.243 g+/-0.008232 g, which was significantly different from the control (p=6.38E-8, t=2.10), due to the p-value below 0.05. 
+
+Discussion:
+The result from this study highlights several patterns on the effectiveness of nicotinic ACh receptor antagonist on the minimum threshold of skeletal muscle contraction in frog legs. First, the results support the hypothesis that if a frog leg is treated with nicotinic ACh receptor antagonist, then the minimum threshold of skeletal muscle contraction is increased. This was due to the fact that the null hypothesis was rejected, and the alternate hypothesis was favored. The null hypothesis was rejected because both p-values obtained were below 0.05. More specifically frog legs p-value was 6.38E-8. In addition, there was no overlap between the two error bars on the graph (Fig. 1). Since, the p-value found was below 0.05 the data was statistically significant [3]. The results are predicted since nicotinic ACh receptor antagonist would increase the threshold of muscle contraction because the antagonist will bind to the nicotinic ACh receptor on muscle neuron, inhibiting ACh form fully binding to the muscle neuron. Essentially, the antagonist would reduce the amount of sodium entering the cell in order to initiate the muscle contraction process, increasing the threshold of skeletal muscle contraction. In addition, the nicotinic ACh receptor antagonist is a depolarization inhibitor slowing down the rate of contraction, while increasing the voltage in order to start a muscle contraction [3]. The bar graph highlights how the control group resulted in a need for a smaller voltage to stimulate a muscle contraction on average than the treatment group (Fig. 1). Although the experiment was successful, and the null hypothesis was rejected, it would be wise to conduct more trials for the experiment, in order to highlight the effect and effectiveness of a neuromuscular blocking agent. Our results from our experiment highlight a need to research more on the effectiveness of nicotinic ACh receptor antagonist on skeletal muscle, as they are useful agents used in surgery, orthopedy, endoscopy, and to prevent traumatisms during electroconvulsive therapy and tetanus [3].  
+
+Literature Cited:
+1. Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology,   
+	Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated January 5, 2018), pp.
+17-33.
+
+2.  Albuquerque, Edson X., et al. “Mammalian Nicotinic Acetylcholine Receptors: From Structure to 
+Function.” Physiological Reviews, U.S. National Library of Medicine, Jan. 2009, 
+
+3 . “Nicotinic Receptor Antagonists.” Nicotinic Receptor Antagonists - Pharmacorama, 
+
+3. Gale, R. P., Hochhaus, A., & Zhang, M. -. (2016). What is the (p-) value of the P-
+value? Leukemia, 30(10), 1965-1967. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+7.31.29+PM.png&Size=196859&Type=image%2Fpng&F=F_2EHxA03uGEJt8lF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig 1. The bar graph represents the average minimal threshold of muscle contraction of both frog legs. The experimental group was given 0.2 mL of 1mM tubocurcarine (nicotinic ACh receptor antagonist) and the control group was given no treatment. The error bars represent standard deviation. 
+
+*************************************************************************

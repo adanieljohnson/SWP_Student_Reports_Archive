@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-30 21:57:48
+Author of this lab report is: Std_IuGkAOSl
+ID: R_1n3o2aqw9hgJeHH
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Effect of lanthanum chloride on contraction of gastrocnemius muscle in Rana pipiens
+
+Abstract:
+In this study we injected lanthanum chloride (LaCl3) to prevent the gastrocnemius muscle from contracting in Rana pipiens. We hypothesized that LaCl3 would stop muscle contraction because LaCl3 blocks calcium channels muscle fibers. The Ca channels are necessary for muscle contraction because they trigger the movement of acetylcholine filled vesicles. These vesicles fuse with the cell wall and release their contents and activate other processes that allow muscles to contract. We used the legs of Rana pipiens to measure contraction after LaCl3 injection. The legs are controlled by the gastrocnemius muscle and the sciatic nerve. We exposed the muscle and used pin electrodes to measure the contraction in the legs twice, once before injection and once after. Then we averaged the results of the two tests and ran a 1 tailed paired t-test. This indicated that we found a significant difference in the contraction levels before and after injection. 
+
+
+Introduction:
+The legs of Rana pipiens are controlled by the gastrocnemius muscle and the sciatic nerve. When stimulated with electricity, the leg will twitch and contract. Muscle contraction is due to an action potential that opens calcium ion channels. These Ca ions trigger the movement of acetylcholine filled vesicles to bind with the membrane of the neuron. ACh is released to bind in the synaptic cleft, opening sodium ion channels that depolarize the cell, causing an action potential (Ebashi and Endo: 1968). Lanthanum chloride is a compound that inhibits the opening of calcium channels. This would prevent the vesicle movement and keep ACh from being released into the cleft, preventing the opening of sodium ion channels and thus stopping an action potential from occurring. In this experiment, we plan to inject LaCl3 in the gastrocnemius muscle. We hypothesize that if LaCl3 is injected into the muscle, the contraction will not occur. 
+
+Materials and Methods:
+To perform our experiment we used LaCl₃, 3 Rana pipien legs, a syringe, and software to measure contraction. In order to expose the muscle, we skinned the leg. Once the muscle was exposed we suspended the leg from a ring stand with a force transducer and stuck the electrode pins into the muscle and stimulated at a variety of amplitudes. After we found control results, we injected the LaCl₃ into the muscle and waited for it to diffuse evenly. We repeated the measurements for the experimental and then ran a 1 tailed paired t-test to see if our results were significant.
+
+Results:
+We found that the LaCl3 increased contraction in the first leg and decreased in legs 2 and 3. When injected with LaCl3, leg 1 started contraction at only 0.2v, but legs 2 and 3 did not begin contracting until 1v and 0.4v respectively. The averages of these results are shown in figure 1. Figure 1 shows that in general, contraction went up after LaCl3 was added. The results of our 1 tailed paired t-test were (Degrees of freedom: 8, t-value: 3.95, p-value: 0.00424). The results were significant.
+
+Discussion:
+We hypothesized that if LaCl3 is injected into the muscle, the contraction will not occur. Although contraction was lowered significantly in legs 2 and 3, results from leg 1 indicated a large increase in contraction. Leg 1 refuted our hypothesis, but legs 2 and 3 supported it. Leg 1 having such a large increase is most likely due to error. When we tested leg 1 we had the pins in the wrong part of the muscle. Other than the main source of error, other error could have occured from different innate muscle contraction ability. It is difficult to compare different legs because they could be of different strengths. This error affected our averages, indicating that contraction increases when LaCl3 is injected, causing our p-value to be under 0.05, but for the wrong reason. When looking at the results from legs 2 and 3, it can be seen that the LaCl3 may have plugged the calcium channels and kept the acetylcholine filled vesicles from binding with the cell membrane. If this occurred, it would prevent muscle contraction because acetylcholine could not be released into the synaptic cleft. However, contraction still occurred in legs 2 and 3, indicating that amplitude could play a role in forcing muscles to contract. It could possibly do this by forcing the voltage gated channels open, and allowing calcium to trigger the vesicles to bind with the membrane. This information can be useful in situation when someone would need to either stop Ca channels or reduce muscle contraction for any reason such as paralyzing someone for medical reasons.
+
+
+Literature Cited:
+Ebashi, S., and M. Endo. “Calcium and Muscle Contraction.” Progress in Biophysics and Molecular Biology, vol. 18, 1968, pp. 123–183., doi:10.1016/0079-6107(68)90023-0.s 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+leg+lab+reults.png&Size=44769&Type=image%2Fpng&F=F_T0dZJ3YIIx0EXbH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The experimental group had a higher average contraction at all amplitudes.*************************************************************************
+
+
+

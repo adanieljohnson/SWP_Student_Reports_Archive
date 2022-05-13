@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-08 15:05:00
+Author of this lab report is: Std_9ABGFEMx
+ID: R_7USkEAIw6zimbzH
+Course number: BIO101L
+TA: TA_VFGqFWXo
+*************************************************************************
+Title: The Effects of Inhibiting Ecdysone in Manduca Sexta
+
+Abstract:
+N/a
+
+Introduction:
+The Manduca Sexta, also commonly known as the Tobacco Hornworm, has a standard life cycle of about 39-48 days until they become a functioning adult moth [Berkely: 2019]. The hornworm was used in this experiment because they are pests as larvae, so they destroy crops, and they also have a relatively short life cycle. As a larva, the hornworm goes through about five instar larval molts, which can be measured by their approximate weight. During these instar larva phases; the insect has two primary hormones that work together throughout its juvenile life to control growth, molting, and metamorphosis [Johnson: 2019]. These two hormones are the Juvenile Hormone (JH) and the Ecdysterone (20E) hormone [Gilbert: 1979]. The Corpus Allata produces Juvenile Hormone where is spreads to target cells to regulate the type of molt during the development of the hornworm [Johnson: 2019]. M. Sexta knows when to molt when it reaches a critical weight [Hatmen: 2015]. The Prothoracic Gland produces the 20E hormone, where they then spread through the body to regulate the timing of molting during development. Azaguard is an insect growth regulator that inhibits Ecdysone [Johnson: 2019]. We hypothesize that by inhibiting the production of 20E, the development of the Manduca Sexta will be prolonged.
+
+Materials and Methods:
+To test the null hypothesis, two groups of four hornworms were used. One group was the control group, so there was no change to their food, and the other group was the experimental group in which Azaguard was added. Therefore, our independent variable is whether the hornworm is treated with Azaguard, and our dependent variable is the mass of the hornworms. Each hornworm got their cube with two holes poked for airflow. The cubes were in groups of four, so we could easily distinguish between the control and the experimental group. About 10g of hornworm food was weighed out, and five drops of water were added for the control group and five drops of Azaguard to the experimental group. Then the food was balled to minimize the surface area and thus the drying of the food. Once a day for 14 days, someone came to check on the hornworms and mass each one and recorded it in grams in a chart. The food was checked to make sure it was still moist. If the food was not wet, then the process of making the food was repeated for each hornworm. At the end of the experiment, a two-sample t-test was used to determine whether to accept the alternative hypothesis or reject it. The one-tailed p-value was used because the hypothesis shows directionality.
+
+Results:
+During the first week of the trial, both groups, experimental and control, were the same until the fourth day. Here, the control group started to gain weight, and the experimental group began to decrease in weight, as seen in Figure 1. By the seventh day of the experiment, all the hornworms that were given Azaguard died. Then we restarted our test over again. The second group of hornworms started slightly larger than the first group; however, almost the same result happened, as seen in Figure 2. 
+In our first experiment, the mean weights of the experimental group were statistically significantly different from the mean weights of the control group at a 95% confidence level (t-stat = 2.34, df = 14, P = .017). The standard deviation of the control group was 1.32, and the standard deviation of the experimental group is .05. In our second group, the mean weights of the experimental group were statistically significantly different from the mean weights of the control group at a 95% confidence level (t-stat = 2.56, df = 14, P = .011). The standard deviation for the control group was 2.97, and the standard deviation of the experimental group was .27. Both p-values are one-tailed. 
+
+Discussion:
+Our experiment was an exciting one because it did not turn out exactly how we hypothesized. Yes, the hornworms given Azaguard did not grow as much as the control group that had no changes, but eventually, all the experimental hornworms died. The experiment supported our hypothesis because the development of the hornworms with 20E inhibitor was delayed, which ultimately lead to death. Because two hormones control the growth of the Manduca Sexta, then without one, the hornworm will not be able to grow successfully. During each molting cycle, the epidermis responds to ecdysone to trigger the next larval instar phase [Sedlak: 1979]. 20E is the same hormone as ecdysone, so when inhibited, the time to molt between each instar phase is delayed. The molting of new skin allows the hornworm to grow and expand, but when this growth is inhibited, then the Manduca Sexta will have an unsuccessful growth cycle [Berkley: 2019]. Without both hormones, the hornworm will not be able to grow and will eventually die, as seen in Figure 1.
+One way to further expand this experiment would be to add another group of hornworms. This group would be given excess 20E to see what effect it would have on the Manduca Sexta. Growth of the hornworm can be accelerated in time, and this would result in a smaller adult form [Hatem: 2015]. Time and growth are related, and since growth and hormones are related, then we can infer that hormones and time are associated. By changing one of these components, it will interfere with another as seen in Figure 1 and 2. This study of inhibiting growth hormones in pests is relevant to the world because we can decrease their harmful effects. A shorter developmental cycle would allow farmers to reduce their time as pests, thus minimizing the effects that these hornworms have on their crops. During their larval stage, a single caterpillar can quickly destroy an entire tobacco plant [Berkley: 2019]. This substantial agricultural threat could be eliminated simply due to the changes in hormone regulation with Azaguard in the Manduca Sexta. 
+
+
+Literature Cited:
+1.	Berkley C. Teach Life Cycles with the Tobacco Hornworm. Carolina Biological Supply Company. Accessed September 23, 2019. &lt;https://www.carolina.com/teacher-resources/Interactive/teach-life-cycles-with-the-tobacco-hornworm/tr30179.tr&gt;
+2.	Gilbert LI, Sedlak BJ. 1979. Correlations between epidermal cell structure and endogenous hormone titers during the fifth larval instar of the Tobacco Hornworm, Manduca sexta. Tissue and Cell. 11: 643-653. 
+3.	Hatem N, Wang Z, Nave K, Koyama T,Suzuki Y, 2015. The role of juvenile hormone and insulin/TOR signaling in the growth of Manduca sexta. BMC Biology, 13, pp. 1-12.
+4.	Johnson AD, Mallison S. 2019. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 19.2 (updated July 8, 2019), pp 7-13.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+1+hormones.jpg&Size=37138&Type=image%2Fjpeg&F=F_2ZQ4GFqHqFAAxGY
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chart+2+hormones.jpg&Size=39661&Type=image%2Fjpeg&F=F_2rN2OnwBOOQaq8C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The daily average mass (in grams) of hornworms in the experimental group (“Treatment Weight”; orange line) and in the control group (“Control Weight”; blue line) for experiment one
+
+Figure 2. The daily average mass (in grams) of hornworms in the experimental group (“Treatment Weight”; orange line) and in the control group (“Control Weight”; blue line) for experiment two *************************************************************************
+
+
+

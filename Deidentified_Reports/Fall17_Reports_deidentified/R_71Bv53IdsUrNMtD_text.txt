@@ -1,0 +1,42 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 11:47:24
+Author of this lab report is: Std_fvZaMFMl
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Lanthanum Chloride on Gastrocnemius Muscle Response to Sciatic Nerve Stimulus in Rana pipiens
+
+Abstract:
+In this experiment, we used Rana pipien legs to test the effect of the calcium antagonist, lanthanum chloride, on gastrocnemius muscle response to sciatic nerve stimulus. We hypothesized that there would be a significant decrease in muscle response between our control and treatment groups. We used a IXTA device to stimulate the sciatic nerve and record muscle response. After several trials, we found that although there was a decrease in muscle response, it was not enough to be deemed statistically significant. Since the p-value of our data was slightly above 0.05, we could not statistically support our hypothesis. Upon discussion and observing other studies, we believe that a more potent calcium antagonist would be helpful in reducing muscle response enough to make a statistically significant result.
+
+Introduction:
+Prior knowledge tells us that in order for the muscle to contract, calcium ions are necessary and must bind to their appropriate binding site in the muscle fibers. In order to stimulate the contraction of muscles, we know that the sciatic nerve can be directly stimulated to produce a response in the gastrocnemius muscle. From this knowledge, we may question, what would happen if the calcium ions couldn’t bind to their appropriate binding site? If a neurotransmitter like lanthanum chloride, a calcium antagonist, is injected, theoretically the calcium binding site will be blocked. With blocked calcium sites, calcium cannot bind and cause the muscle to contract. Answering this question definitively though could help medical professionals better understand the mechanics of muscle contraction and potentially develop medications that could have some impact on muscle contractions. For this experiment, we will utilize the leg of a Rana pipien to test the effect lanthanum chloride has on the gastrocnemius muscle’s response to sciatic nerve stimulus. Rana pipien is a good model system in this case because it is easy to expose both the gastrocnemius muscle and sciatic nerve, and both are large enough to see and handle with ease. A study published in 1983 observed the effect of a calcium antagonist on Rana pipen legs. When Eisenberg, McCarthy, and Milton injected a frog skeletal muscle with D-600, a calcium antagonist, the muscle resulted in complete paralysis. [Eisenberg:1983] Therefore, we hypothesize that the gastrocnemius muscle will produce a significantly smaller response to a sciatic nerve stimulus when it has been injected with lanthanum chloride than it would without any treatment at all.
+
+Materials and Methods:
+We began by peeling back the skin of the leg, using a strong pull to expose the muscles, tendons, and nerve. Once visible, we used scissors to cut the tendon holding the gastrocnemius muscle in place. By cutting this, we were able to isolate the gastrocnemius and attach it to the IXTA machine. To do this, we lifted the gastrocnemius and tied a string around the free end. We lifted the muscle so it was raised to a 90-degree angle to the rest of the leg and tied the other end of the string to the hook on the IXTA machine. Also, we gently moved the muscles at the top of the leg to locate the sciatic nerve. Then used the banana clip to attach the stimulus probe to the sciatic nerve, this allowed for stimulation of the nerve. Throughout the experiment, we also used Frog Ringer’s solution to occasionally wet the Rana pipen leg to prevent the leg from drying out and losing its natural function. We used the IXTA machine to produce 5 1.0 volt stimulations then recorded the muscle response to these stimulations. This data served as the control for that leg. Then, we injected the gastrocnemius muscle with 0.2 mL of 1mM lanthanum chloride (made by dissolving 12 mg in 100mL of frog ringer) and waited 10 minutes to ensure that the solution had time to take effect in the muscle. We repeated the 5 1.0 V stimulations and recorded the responses as our treatment data. To test the statistical significance of the difference between our control and treatment, we used a one-tailed paired t-test.
+
+Results:
+For our three control groups, the average muscle response was 0.6717 V with a standard deviation of 0.1441. For our treatment group, the average decreased to 0.4259 V with a standard deviation of 0.1949. In our results, we see a decrease in muscle response after the 1mM lanthanum chloride was injected to the gastrocnemius muscle. This change was seen in the actual muscle as well. After the lanthanum chloride was injected and we stimulated the sciatic nerve, the muscle visibly did not have as strong of a twitch as it did prior to injection. In each trial, we saw a decrease from the control to the treatment, so this trend is indicative of what we saw throughout our experiment. However, though the pattern is seen in the graph, after running a paired one-tailed t-test, our p-value was 0.054571. 
+
+Discussion:
+In our results, it is clear that the muscle response decreased when we injected the muscle with 1mM lanthanum chloride. However, we cannot support our hypothesis because our p value was slightly more than 0.05 which makes it too high to reject the null hypothesis and say that the difference between the two groups was significant and not just due to random chance. But, the muscle response did decrease in every trial and in the overall average. This can be explained by the lanthanum chloride blocking some calcium binding sites on troponin, making it impossible for tropomyosin to move out of the way and allow myosin to attach and contract the muscle in those locations. However, since this was a simple lab experiment with a fairly diluted concentration of lanthanum chloride, we did not observe complete paralysis like the study done by Eisenberg, McCarthy and Milton. In their experiment, the calcium antagonist was much more potent and was therefore able to bind to all of the calcium binding sites, completely stopping the muscle from contracting. [Eisenberg: 1983] This difference could have been a flaw in our experiment. We were told in the beginning that the 1mM of lanthanum chloride was so weak that it didn’t produce very obvious results of a decrease in muscle response, therefor it was unlikely to result in a significant decrease. If the experiment were to be done again, a more potent solution of lanthanum chloride may be helpful to produce a statistically significant decrease in muscle response. That way, more calcium binding sites would be blocked and the muscle would likely contract even less. However, we do still know the role of calcium on muscle contraction, so further experimentation could potentially confirm our original hypothesis.
+
+Literature Cited:
+Eisenberg, R. S., McCarthy, R. T., & Milton, R. L. (1983). Paralysis of frog skeletal muscle fibres by the calcium antagonist D-600. The Journal of Physiology, 341, 495–505.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.jpg&Size=19310&Type=image%2Fjpeg&F=F_aa5uF5LAVy3uc4J
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The control response bar indicates the average muscle response, 0.6717 V of three Rana pipen legs that had no lanthanum chloride injected. The error bar indicates the standard deviation, 0.1441. The treatment bar displays the average muscle response of three Rana pipen legs, 0.4259 V, after being injected with 1mM lanthanum chloride. The error bar on the treatment response bar indicates the standard deviation of the treatment response, 0.1949. A paired one-tailed t-test produced a p-value of 0.054571.
+
+*************************************************************************

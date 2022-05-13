@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-28 09:22:39
+Author of this lab report is: Std_ompvkt72
+ID: R_1QKklWGq6qkdGta
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Effect of Tubocurarine on the Gastrocnemius Muscle of a Frog
+
+Abstract:
+The main objective on the study on Rana Pipiens was to determine whether tubocurarine would cause a decrease in the strength of muscle contractions in the frogs’ legs. Our hypothesis stated that we believed the tubocurarine was an ACh receptor blocker and therefore would cause smaller contractions in the frogs’ legs after it was injected. We use the Rana Pipien frog because they are a wide spread species and the sciatic nerve and gastrocnemius muscle are easy to get to and perform experiments on. The legs of two frogs were attached to the LabScribe software to record a myogram, so we could determine the threshold. The threshold was recorded before and after adding tubocurarine on both frog legs. We found that the overall average threshold for the experimental group was higher than for the control group which is not what we expected. We had outliers in the experimental group that had a threshold higher than the control group which caused our hypothesis to not be supported. 
+
+Introduction:
+	 Nerves and Muscles allow organisms to sense and respond to the internal and external environments, like hormones, but the results can be seen in milliseconds instead of days in animals. The neuromuscular system cannot be studied in plants because or fungi because there are no nerves, so we used a type of frog known as Rana Pipiens. A nerve stimulates muscle contraction through excitation-contraction coupling (Johnson: 2016). We used a transducer to collect a myogram. The amount of fluid surrounding myofibers can affect the rate and magnitude of muscle contractions. When nerve impulses arrive at the neuromuscular junction, acetylcholine (ACh) is released from the presynaptic nerve terminal. ACh can bind with a receptor to open sodium channels that can generate an action potential which then causes the release of Ca2+ from the sarcoplasmic reticulum. The release of the Ca2+ activates a mechanism of the muscle fiber which causes it to shorten which we can see. We use the Rana Pipien frog because they are a wide spread species and the sciatic nerve and gastrocnemius muscle are easy to get to and perform experiments on. 
+	The gastrocnemius muscle is located on the back portion of the leg forming half of the calf muscle. The function is for plantar flexing the foot at the ankle joint and flexing the leg at the knee joint. Tubocurarine is a compound of the alkaloid class obtained from curare and used to produce relaxation of voluntary muscles. Tubocurarine affects transmitter released at neuromuscular junctions during repetitive stimulation. Tubocurarine has a competitive blocking action which is not dependent on membrane potential and an additional voltage-dependent blocking action. The effect of tubocurarine “could be accounted for entirely by competition with ACh for the ACh receptors on the post-synaptic membrane” (Colquhoun: 1979). Tubocurarine decreases the strength of the muscle contractions in the frog legs. The effect of tubocurarine “might be the result of block of ion channels” (Colquhoun: 1979). If tubocurarine decreases the strength of the muscle contractions in the frog legs, it is clear that tubocurarine is an ACh receptor blocker. 
+
+
+Materials and Methods:
+Our group used two frog legs that were prepared by removing the skin and separating the thigh. The leg was attached to the LabScribe software to record a myogram, so we could determine the threshold. The threshold was recorded before and after adding tubocurarine on both frog legs. All the settings on the lab scribe stayed the same (pulses=1, F (Hz)=1, HP=0) except for the amplitude which we increased by 0.1 from 0-1 then by 1 from 1-12. The frogs were each given about 0.45 mL of tubocurarine in multiple spots of the gastrocnemius muscle after the original data had been taken. Then we waited between 10 and 20 minutes for it to settle, then we recorded the myograms and thresholds again. 
+
+Results:
+We found that the overall average threshold for the experimental group was higher than for the control group which is not what we expected. However; from an amplitude of 0.1 to 7, the control groups threshold was higher than the experimental which is what we p expected. From an amplitude of 8 to 11, the experimental group’s contractions were higher, and then at 12 amps, the control group was higher again. The mean of the control group was not statistically significantly different than that of the experimental group (t-stat=0.4454, df=2, P=0.6996). However; the averages shown is figure 1 amplitude 0.1 through 7 aligned with our hypothesis, but when we ran the test to determine if they were significantly different, the outliers in the experimental group made more of a difference and made it then insignificant. 
+
+Discussion:
+	Our results did not support our hypothesis due to the fact that the p-value was greater than 0.05. However; without the outliers in the experimental group of frog 2 that had a threshold 1.052 much higher than the control of frog 2’s threshold at .846, the results would’ve most likely supported our hypothesis since on averages would’ve changed. Ignoring the outlier data, the experimental group was given tubocurarine which should’ve made the contractions and threshold values smaller than the control groups. As mentioned earlier, the addition of the tubocurarine decreases the strength of the muscle contractions in the frog legs, and as shown in the beginning of our results, the tubocurarine caused the voltage of contractions to be lower.  
+	Due to the discrepancies in our data, it would be wise to run another experiment which focuses on the same hypothesis, but with more specific variables. In the next experiment, we could run tests on more than two frogs. Our results did not compare well with the results of most other published studies due to high threshold our experimental group of frog 2. However; there has been evidence that “some investigators report that tubocurarine has no marked effect on the release” of ACh, which would fall in line with the results that we obtained (Magleby: 1981). On the other hand, our hypothesis does correlate with most other studies that supported that more tubocurarine affects transmitter release at neuromuscular junctions decreasing contractions during repetitive stimulation.  We could have had multiple control groups and adequate time to allow the tubocurarine to take effect, waiting maybe closer to 30-60 minutes instead of 10-20. After analyzing the results of that experiment, it would be easier to understand the effect of tubocurarine on the neuromuscular junctions of the gastrocnemius muscle of the frogs. Due to the outlying data, other future studies should look at the same experiment with a larger sample size. This could be useful for animals when they need to relax voluntary muscles, perhaps evolutionarily, animals that need to fit into small spaces need to be able to relax their muscles and may have more ACh receptor blockers in their bodies than animals that need to contract their muscles often.  
+
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated May 1, 2016), pp. 19-33.
+2.	Colquhoun, D, Dreyer, F, Sheridan, R E, (1979), The actions of tubocurarine at the frog neuromuscular junction. The Journal of Physiology, 293 doi: 10.1113/jphysiol.1979.sp012888.
+3.	Magleby, K L, Pallotta, B S, Terrar, D A, (1981), The effect of (+)‐tubocurarine on neuromuscular transmission during repetitive stimulation in the rat, mouse, and frog. The Journal of Physiology, 312 doi: 10.1113/jphysiol.1981.sp013618.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-24+at+2.27.12+PM.png&Size=74174&Type=image%2Fpng&F=F_2QxqLXHY4nqs5P6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: average of voltage of contractions at each amplitude
+
+*************************************************************************

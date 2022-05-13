@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-09-24 14:04:54
+Author of this lab report is: Std_OSgdso7l
+ID: R_2cwHXiUwjoXUEpH
+Course number: BIO101L
+TA: TA_VFGqFWXo
+*************************************************************************
+Title: Inhibiting Effect of 20E Hormone Blocker on Manduca sexta Larvae Growth
+
+Abstract:
+n/a
+
+Introduction:
+Manduca sexta, commonly known as the tobacco hornworm, is an insect that can be considered a pest to certain growing crops. One way to treat these pests is to figure out what hormones or hormone blockers can be used as a pesticide treatment. Like other insects, the hornworm uses hormones to regulate growth and development throughout its life cycle (including the egg, 5 instar larva stages, pupa, and adult stages) [Johnson: 2016]. The hornworm is a good model organism because of the ease in handling due to their relatively large size and short life cycle.
+Two hormones of interest that are important for the hornworm development are the juvenile hormone (JH) and ecdysterone (20E). Both JH and 20E are needed, and the effect of these hormones are based on their absolute concentrations, concentration ratios, and developmental stages of the hornworm. Usually, JH remains high until the 4th instar larva, when it starts the drop and there is a rise in 20E. From the 5th instar larva to adult, JH remains low and 20E rises and falls [Johnson: 2016].
+	For this experiment, we aim to study the effect of the 20E hormone in the development of the hornworms by blocking this hormone and measuring the mass throughout larval development. Past research has shown that 20E hormone, generally the ecdysone hormone, is important as a growth hormone involved in cuticle formation and molting through different larval stages [Truman: 1974]. We predict that abnormal level of 20E hormone should cause disruption in the growth of larvae and we should see a difference in growth rate. The null hypothesis is blocking the 20E hormone has no effect on hornworm growth, specifically the mass growth of the larvae. The alternative hypothesis is blocking the 20E hormone has an effect on the hornworm growth, specifically the mass growth of the larvae.
+
+
+Materials and Methods:
+To test our hypothesis, we acquired 8 hornworms at a young larval stage. We divided them into two groups, 4 in control and 4 in experimental. All of the hornworms are fed premade hornworm food from Great Lakes Hornworm. Each hornworm in the control group was fed 10 grams of food with 10 drops of water, while each in the experimental group was fed 10 grams of food with 10 drops of 20E hormone blocker called AzaGuard (1:1250).
+Each hornworm larva and their food were kept inside a labeled individual chamber of plastic containers with holes punched on the sides for air. There were two containers, one control and one experimental.	
+	Food was replaced when old food was no longer moist by touch. Each larva was massed each day for 14 days. We used two-sample t-test to compare the mass growth rate between the control and experimental, and compared whether there was a significant difference between the two groups.
+
+
+Results:
+By visual observations daily, the control group larvae seem to continuously grow larger throughout 14 days, while the experimental group did not seem to grow in size. One or two died larvae in the experimental group died about 1 to 2 days after replacing food containing 20E blocker. We used data up to Day 9, with 3 control larvae alive and 2 experimental larvae alive, for analysis.
+Figure 1 graphs the mean weight of hornworms each day for both the control and experimental groups. The visual trends show that the experimental group’s weight did not fluctuate much and generally stayed the same throughout the 9 days. The control group’s weight increased throughout 9 days and Figure 1 visually shows increase in mass for the control group.
+ Based off of the average mass each day, we calculated average growth of the groups per day. Figure 2 is a visual representation of the mean growth rate per day for the control and experimental groups. The figure shows the higher growth rate of about 0.13696 g/day for control group, while the experimental group treated with 20E hormone blocker only grew about 0.00024 g/day. Using a two-sample t-test to compare the difference in average growth rates of the two groups, the two-tailed p-value is 0.020926.
+
+
+Discussion:
+The results of the experiments supported our hypothesis that blocking the 20E hormone will cause disruption in the growth of larvae and that there is a difference in growth rate when 20E hormone level is abnormal. We reject the null hypothesis and support the alternative hypothesis that blocking the 20E hormone has an effect on the hornworm growth.
+Not only does the 20E blocker inhibits growth of larvae, a certain amount will eventually kill them. Figure 1 shows that the larvae treated with 20E hormone blocker did not seem to grow when compared to the control group. This means that the blocker is correlated with growth inhibition. Figure 2 shows that the average growth rate of experimental group each day is statistically significantly different from the control group growth rate (low p-value of 0.020926). Again, this supports the hypothesis that blocking 20E hormone has an effect on growth of hornworm larvae.
+This experiment supports a past study that states that the 20E hormone is an important growth hormone for proper development throughout larval stages [Truman: 1974]. The significance of finding the effect of blocking the 20E hormone can be used in understanding what hormones can be manipulated to make effective pesticides. This experiment is evidence that 20E hormone blocker can be an effective pesticide to inhibit growth or kill hornworm larvae. Future studies can investigate the concentrations needed for 20E blocker to be effective or at what stage the blocker is most effective in killing or inhibiting growth.
+
+
+Literature Cited:
+Johnson, AD, Mallison S. 2016. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 5-13.
+
+Truman JW, Riddiford LM, Safranek L, 1974. Temporal Patterns of Response to Ecdysone and Juvenile Hormone in the Epidermis of the Tobacco Hornworm, Manduca sexta. Developmental Biology, 39, pp. 247-262.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=71172&Type=image%2Fpng&F=F_2cnI67OLuw3Y0vP
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=52422&Type=image%2Fpng&F=F_Z1AouyiCpVI17yN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Mean Weight of Hornworm Larvae for Control and Experimental Group each Day. Observing the data trends visually shows that average mass of experimental group treated with 20E hormone blocker did not fluctuate much throughout 9 days, while control group mass continuously increased as they grew in size.
+
+Figure 2. Mean Growth Rate of Hornworms per Day for Control and Experimental Groups. Graph clearly shows the higher growth rate of about 0.13696 g/day for control group, while the experimental group treated with 20E hormone blocker only grew about 0.00024 g/day. Two-sample t-test results in two-tailed p-value of 0.020926.*************************************************************************
+
+
+

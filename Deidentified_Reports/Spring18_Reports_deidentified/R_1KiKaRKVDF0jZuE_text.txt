@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-28 13:32:56
+Author of this lab report is: Std_sGFclhch
+ID: R_1KiKaRKVDF0jZuE
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Effects of Lidocaine on Frog Sciatic Nerve Threshold
+
+Abstract:
+Frogs are one of the most common experimented organism regarding isometric skeletal muscle contract. The effects of lidocaine, which have been previously experimented and tested for dozens of years, is akin to a muscle anesthetic and will serve as a sodium channel blocker to the frog’s sciatic nerve. It was hypothesized that the application of lidocaine will affect the contraction threshold. After thorough experimental procedures, which included, but is not limited to, the utilization of the iWorx software, it was calculated that lidocaine exhibited a significant effect on threshold through a two-sample T-test (P = 0.0137, T = -2.818). These results were in accordance to previous studies and the predicted effects of lidocaine were accepted.
+
+Introduction:
+    In both vertebrates and invertebrates, muscle contraction is an extensive but quick process that is innervated by motor neurons from the central nervous system. Isometric muscle contraction, in specific, occurs in three significant periods: the latent period, the contraction period, and the relaxation period (Fulton, 1925). Skeletal muscles themselves consist of myofibrils, which are long bundles of protein, that consist of thick myofilaments and thin myofilaments. The thick myofilaments are composed of myosin, a fibrous protein that, together with actin on the thin myofilament, is involved in the contraction of skeletal muscles. The thin myofilaments are composed of actin, troponin, and tropomyosin. Actin is a structural protein that forms bonds specifically with myosin, tropomyosin is a protein that regulates binding between actin and myosin, and troponin, which responds to calcium-binding, regulates the position of tropomyosin. These thin and thick myofilaments are arranged in specific orders called sarcomeres, which are responsible for the striated pattern that accrues from contraction in skeletal muscle. 
+	The physiological process that results in the contraction of the muscle, whether it is in frog or any other species, is triggered by an action potential occurring in the sarcolemma of the muscle fiber. The action potential will propagate through the t-tubules and trigger the release of calcium from the sarcoplasmic reticulum. The calcium will then bind to the troponin on the thin myofilament, causing it to shift the tropomyosin, exposing the binding site for the cross-bridge between actin and myosin. A singular contraction, or a “twitch,” is what will be measured in terms of threshold, or the minimum stimulus required for a twitch. During the latent period, the time between the application of the stimulus and the onset of the response, excitation-contraction occurs. In the contraction period, the time from the onset of contraction to the peak of tension, cross-bridging occurs at enough a rate that the muscles shorten. Lastly, in the relaxation period, from peak tension to the baseline, calcium is being pumped back into the sarcoplasmic reticulum and the muscle stretches back to its original length. When the muscle is contracted repeatedly, there is a point where each “twitch” is progressively reduced called tetany. 
+	Frogs readily use their leg muscles to jump across obstacles and this contraction is what will be measured (by the gastrocnemius). Previous studies have confirmed that lidocaine, a sodium channel blocker and muscle anesthetic, causes a nonreversible block or loss of “impulse activity” in the muscle, which results in lower threshold limits (Bainton, 1994). To test these findings, using lidocaine as the independent variable and threshold value as the dependent variable, it was hypothesized that lidocaine will trigger either an increase or a decrease in the minimum threshold.
+
+
+Materials and Methods:
+Three different frog legs were organized and prepared on a dissecting plate. The skin of the frog legs was peeled off to reveal the muscles and the sciatic nerve. To find the sciatic nerve, the upper par of the frog leg, like a Ziploc bag, was separated until a small cream-colored line was revealed. Following this, the gastrocnemius muscle was separated and cut at the frog’s Achilles tendon to allow proper muscle contraction. Four different pins were used to isolate major muscle groups and to keep them from uncontrollably contracting. Following this, a yarn loop was tied at the end of the gastrocnemius muscle and hanged 90 degrees from the dissecting plate to ensure proper muscle contraction. A ringer solution was kept readily to moisten the muscle. Before the application of Lidocaine, the control portion of the experiment was conducted by applying small, continuous bouts of voltages and finding what the minimum threshold for contraction is. This process was repeated three times for each frog leg. Then, .2mL of lidocaine was injected into the gastrocnemius muscle via a syringe for each frog leg. The same procedure of finding the minimum threshold was carried out three times for each frog leg. A two-sample T-test was conducted with the averaged results to determine if the alternate hypothesis is significant (confidence interval of 95%). 
+
+Results:
+     According to the data recovered from the experiment, the trend that was most notable is that the lidocaine application substantially increased the minimum threshold, which turned out higher than the control (refer to Table 1). From these trends alone, the action of the sodium channel blocker lidocaine seems to be working as a higher voltage Is needed to initiate a response from the frog leg. According to the conducted two-sample T-test, the results were significant, and the experimental hypothesis was accepted (P = 0.0137, T = -2.818) with a confidence interval of 95%.
+
+  The dissection and preparation of the frog was met with many difficulties throughout the procedures. Some of this difficulty, but not all, included damage to the sciatic nerve due to repeated excitation or through the dissecting procedure itself, as well as incorrect practices for the dissection because of inexperience. Some confounding or systematic errors may have been introduced due to the iWorx software as it is not a perfect tool for measuring threshold. These systematic errors may have been prevalent in some confounding data (refer to the error bars of Figure 1) or data that was recorded incorrectly.
+
+Discussion:
+According to the results of the two-sample t-test and the relevant trends found in the data (Figure 1), lidocaine application to the gastrocnemius muscle severely increased the threshold limit of the frog leg. These results conform to the proposed hypothesis that lidocaine will affect the threshold limit and conform to previously accepted results from similar studies (Chen, 2012). With a confidence interval of over 95%, the null hypothesis is denied, and the alternate hypothesis is accepted, although further experimentation would increase the acceptance. Although the data conformed with what was to be expected, there were a plethora of errors, in the form of systematic and human errors, that may have adversely affected the results. During the preparation of the frog legs for analysis, the sciatic nerve was handled roughly, and this could have, by itself, increased the threshold limit. Furthermore, the iWorx software, although accurate, is not perfect and multiple errors came up along the way which could have affected the results. A previous study has linked sodium inactivation, via lidocaine, to be enhanced by lowering the external calcium concentration (External solution like the Ringer Solution) which is a favorable direction to take the results (Saito, 1984).
+
+Literature Cited:
+Bainton, C. R., & Strichartz, G. R. (1994). Concentration Dependence of Lidocaine-induced Irreversible Conduction Loss in Frog Nerve. Anesthesiology,81(3), 657-667. 
+
+Chen, L., Wang, Q., et. al. (2012). The Effects of Lidocaine Used in Sciatic Nerve on the Pharmacodynamics and Pharmacokinetics of Ropivacaine in Sciatic Nerve Combined with Lumbar Plexus Blockade: A Double-Blind, Randomized Study. Basic & Clinical Pharmacology & Toxicology,112(3), 203-208. 
+
+Fulton, J. F., & Scholar, C. W. (1925). The Latent Period of Skeletal Muscle. Quarterly Journal of Experimental Physiology,15(4), 349-366. 
+
+Saito, H., Akutagawa, T., Kitahata, L. M., Stagg, D., Collins, J. G., & Scurlock, J. E. (1984). Interactions of Lidocaine and Calcium in Blocking the Compound Action Potential of Frog Sciatic Nerve. Anesthesiology,60(3), 205-208. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=1.PNG&Size=22280&Type=image%2Fpng&F=F_2ygBJeZYZxkgmCO
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=2.PNG&Size=18653&Type=image%2Fpng&F=F_273VeWFdeJcit7O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Final averaged values for the minimum thresholds of the frog leg muscle. Standard deviations are also explicitly included based on the raw data.
+
+Figure 1. Averaged values of Minimum thresholds for each frog leg for the control and lidocaine. The error is within +/- 0.117 for the control and +/- 0.208.
+
+*************************************************************************

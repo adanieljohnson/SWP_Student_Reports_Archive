@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-01 16:44:22
+Author of this lab report is: Std_PidDP2kK
+ID: R_3iriBCCNzMMOUzo
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effect of Tetraethylammonium on Contraction Period of Frog Legs
+
+Abstract:
+In this lab, we dissected the gastrocnemius muscle and sciatic nerve from a frog leg. The Nerve and muscular systems work together in organisms to perform a quick response to stimuli in the environment. We increased the voltage in 1.0 V increments to determine the threshold voltage for direct muscle stimulation. After finding the threshold potential for each frog leg, we added 0.1mL of potassium blocker of 100mm of tetraethylammonium. We used a paired t-test to analyze the data. When potassium blocker was added the length of the contraction time tended to increase by showing the average relaxation time of each of the legs. Our results supported our hypothesis that the addition of potassium blocker would increase the length of contraction time in the treated frog legs.
+
+Introduction:
+In this lab, we dissected the gastrocnemius muscle and sciatic nerve from a frog leg. The Nerve and muscular systems work together in organisms to perform a quick response to stimuli in the environment. Within these systems an action potential is sent down an axon to the neuromuscular junction. Sodium, Calcium, and Potassium all play a role in the ultimate movement of the muscle. Potassium is abundant within a cell. During hyperpolarization Na+ channels close and K+ channels open which make the inside of the cell more negative which is a feedback to decreased negativity in the cell after depolarization [Johnson: 2018]. Experiments in the past have tested the effects of potassium modulators like tetraethylammonium on the contractility of isolated human uterer rings. These experiments found that the contractile period is increased with the use of potassium blocker [Soares de Moura:2005]. We hypothesize that adding potassium blocker to the frog leg would cause the length of the contraction period to increase compared to that of the untreated leg.
+
+Materials and Methods:
+We started this experiment by exposing the skin of the frog leg by using forceps to pull the skin towards the foot. We then separating the inner thigh muscles to reveal the white sciatic nerve and the nearby blood vessels. In the LabScribe software we set the pulse amplitude to 0.000 V, the number of pulse to 1, the Frequency to 1, and the pulse width to 5 ms. We hit record to stimulate the nerve.  We increased the voltage in 1.0 V increments to determine the threshold voltage for direct muscle stimulation. After finding the threshold potential for each frog leg, we added 0.1mL of potassium blocker of 100mm of tetraethylammonium. We used a paired t-test to analyze the data.
+
+Results:
+For frog leg one the average contraction time of the control group was 87 milliseconds +/- 6.78 ms while the average of the treatment group was 139ms +/- 23.54 ms. For frog leg two average contraction time of the control group was 133ms +/- 8.72 ms and the average contraction time of the treatment group was 158 ms +/- 6.78 ms. For frog leg 3, the average contraction time of the control group was 146 ms +/- 8.0 ms and the average contraction time of the treatment group was 232 ms +/- 28.91 ms. We carried out a paired t-test to determine whether or not there were significant.  For frog leg one, the average difference in contraction period of the control and treatment group was 52 ms. The t-value was 6.35 and the p value was .0032. For frog leg two the average difference between the treatment and control group was 25 ms with a t-value of 4.56 and a p-value of .01. The third frog leg had an average difference in contraction time of 86 ms with a  t-value of 6.35 and a p-value of .0032. Figure 1 shows that when potassium blocker was added the length of the contraction time tended to increase by showing the average relaxation time of each of the legs.
+
+Discussion:
+Our results supported our hypothesis that the addition of potassium blocker would increase the length of contraction time in the treated frog legs. This would make sense because when an action potential is sent, the K+ has to reenter the cell in order to repolarize and hyperpolarize it. With the K+ being blocked, the cells remain depolarized for longer than they would if K+ was able to enter. The action potential was sent to the neuromuscular junction to contract, but the signal to relax took longer due to the K+ blocker. This is similar to the way in which the isolated human ureter rings experienced a longer contractile period when treated with tetraethylammonium  [Soares de Moura:2005]. The large amount of standard deviation on the third frog could be due to the amount of liquid on the leg. This could have caused the shock to disperse farther than expected and not directly to the leg. The next logical step for this study is to work to apply the possibility of a lengthened period of contraction to other organisms, since the potassium blocker was displayed an increase on time in this experiment. It can also extend to other parts of the human nervous and muscular systems in the way it was used for the ureter ring [Soares de Moura:2005].
+
+Literature Cited:
+
+Johnson AD. Hormone Regulation. Biological Principles Laboratory Manuel. Dept, Biology, Wake Forest University, Winston-Salem, NC. Vers 18.2 (updated August 13, 2018), pp  17-33.   
+
+Soares de Moura, Roberto, and Miguel De Lemos Neto. “Effects of Potassium Channel Modulators Cromakalim, Tetraethylammonium and Glibenclamide on the Contractility of the Isolated Human Ureter.” The Journal of Urology, Elsevier, 24 Nov. 2005, www.sciencedirect.com/science/article/pii/S0022534701660166.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph.png&Size=40404&Type=image%2Fpng&F=F_25uM4aSMD7czLiD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 shows that when potassium blocker was added the length of the contraction time tended to increase by showing the average relaxation time of each of the legs.*************************************************************************
+
+
+

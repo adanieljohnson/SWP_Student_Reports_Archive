@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-10-30 11:16:58
+Author of this lab report is: Std_IWgZwLi8
+ID: R_3lR0PEMu89YBSJK
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Southern Leopard Frog Caffeine Injection: Measuring Gastrocnemius Contraction Before and After Caffeine Injection
+
+Abstract:
+This paper examines caffeine’s effect on the Southern Leopard frog’s gastrocnemius muscle contractions. It is hypothesized that if injected with caffeine, the muscle’s contraction will be greater than if not injected. In this experiment, three frog legs were skinned and the sciatic nerves were exposed. Using LabScribe, each leg was stimulated with one voltage for five pulses to cause muscle contractions. The resulting forces were recorded in the form of an electromyogram. The same three frog legs were then injected with 0.1mL of caffeine and the muscle was again stimulated with one voltage for five pulses. An electrogram recorded the resulting forces. The muscles’ responses were averaged in two groups: before and after caffeine injection. Using a paired t-test, it was determined that the results were significant, supporting our hypothesis: injecting the gastrocnemius muscle with caffeine causes greater muscle contractions than when muscles are not injected with caffeine.
+
+Introduction:
+Caffeine is a stimulating drug that effects the central nervous system, heart, and blood. It is used widely today and found in many foods and drinks: coffee, sodas, energy drinks, cocoa, and the list continues [The Editors of Encyclopaedia Britannica: 2017]. Because of its commonality, it is important to examine how caffeine affects the body; for example, many studies have been done on how caffeine affects different muscle contractions. As shown by Gubareff and Sleator, caffeine affects the strength of muscle contractions as well as the length of action potentials in the atria muscle of guinea-pigs [Gubareff: 1965]. A muscle contraction is one way that an organism responds to its internal or external environment [Johnson: 2018], and this experiment examines the effect of caffeine on the gastrocnemius muscle contraction of Southern Leopard frogs. The independent variable is the presence or absence of caffeine and the dependent variable is the muscle contraction measured in volts, and it is hypothesized that if caffeine is injected into the muscle, then there will be a greater contraction than if caffeine was not injected. Caffeine is a stimulant, which means that increases alertness while raising blood pressure and heart rate [The Editors of Encyclopaedia Britannica: 2017], which is why it is hypothesized that caffeine will increase the muscle contractions of the Southern Leopard frog. 
+
+Materials and Methods:
+Three frog legs were labeled L1, L2, and L3 and were placed into separate dissecting pans. We skinned each leg by pulling the skin down the leg with a pair of forceps and applied Ringer’s solution to keep the legs moist; Ringer’s solution was applied throughout the experiment. With a dissecting probe we separated the inner thigh muscles of L1 in order to expose the sciatic nerve; next with forceps and a dissecting needle we exposed the nerve from its tissues. We pinned the leg in order to keep the nerve exposed and to keep the leg from moving as we stimulate the nerve. The pins connecting the electric stimulus and the frog leg were placed directly on the sciatic nerve. Using LabScribe we set the stimulus mode to pulse, the number of pulses to five, and the stimulus amplitude to 1.0 V. After hitting record, electromyograms were generated, showing the voltage stimulated by the muscle for each pulse. We then injected the gastrocnemius muscle with 0.1 caffeine mL. With the LabScribe setting unchanged, we again recorded the voltage stimulated by the muscle. We repeated the process describe above for L2 and L3 and used a paired t-test to analyze our data.
+
+Results:
+As shown by Table 1, the average voltage stimulated by the muscle contraction before caffeine was injected was 0.193 v with a standard deviation of 0.229 whereas the average voltage stimulated by the muscle contraction after caffeine was injected was 0.509 v with a standard deviation of 0.0439. The p-value of the paired t-test was .00000263. Graph 1 displays a visual representation of the statistical data; the averages are represented by two bars and error bars are present.
+
+Discussion:
+Because our p-value was less than 0.05, our results are significant, and our hypothesis was supported: caffeine does cause greater muscle contractions in Southern Leopard frog muscles. This is important because even though caffeine is a stimulating drug, it is widely consumed today; for example, many popular drinks contain caffeine: soda, coffee (unless the coffee is decaffeinated) and energy drinks [The Editors of Encyclopaedia Britannica: 2018]. Based on these results future studies should examine how caffeine impacts human muscles and determine whether or not caffeine affects any other body systems. Because caffeine is so commonly consumed it is important to determine how it affects human bodies.
+
+Literature Cited:
+1. The Editors of Encyclopaedia Britannica. Caffeine chemical compound. Accessed October 29, 2018. &lt; https://www.britannica.com/science/caffeine &gt;
+
+2. Gubareff TD and Sleator W. 1965. The effects of caffeine on mammalian atrial muscle, and its interaction with adexosine and calcium. Journal of Pharmacology and Experimental Therapeutics. 2: 202-214.
+
+3. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest Univeristy, Winston-Salem, NC. Version 18.2 (updated August 2, 2018) pp. 17-19.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-30+at+10.57.07+AM.png&Size=54391&Type=image%2Fpng&F=F_33C4KTOOJ28su3L
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-30+at+10.57.00+AM.png&Size=87309&Type=image%2Fpng&F=F_2zBXN4PGN66nPOH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. displays our statistical results. Because .0000346 is less than 0.05, our results are significant. 
+Graph 1. shows the mean of the contraction stimulated in volts before and after caffeine was injected into the muscle. *************************************************************************
+
+
+

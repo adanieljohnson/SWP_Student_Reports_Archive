@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-21 23:07:36
+Author of this lab report is: Std_pFsTXNWd
+ID: R_217EFqw5AznExDH
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: Effects of Excess Magnesium on Photosynthesis in Vigna Radiata
+
+Abstract:
+Plants require a particular concentration of Magnesium to grow properly. Mg content below this critical value causes Magnesium deficiency, and above this value, Magnesium toxicity. Magnesium is important for plant growth because it is essential for photosynthesis. It coordinates the porphyrin ring of chlorophyll, and without it, chlorophyll lacks its characteristic dark green color, an important characteristic in the plants’ ability to capture sunlight for ATP production. This study looked at the effects of Mg toxicity on the mungbean plant (Vigna radiata) predicting that excess Mg would cause stunted growth and increased leaf wilting compared to a control. After 14 days, we found that the experimental group exhibited signs of Mg toxicity, such as wilted leaves and decreased overall growth. The mass of the experimental group was significantly lower than the control, and the percentage of wilted leaves was lower in the control group, but not significantly. These finding show that magnesium toxicity can occur when small amounts are administered to a plant over an extended window, and that Mg toxicity or deficiency need not be limited to soil Magnesium content. 
+
+Introduction:
+Resource allocation is a term that describes how plants respond to various biotic or abiotic environmental factors. It can be used as an indicator of how an organism interacts with its surroundings, as well as how well the organism can adapt to changes in its environment. Studying resource allocation in plants with changing environmental conditions is especially important today due to global climate change. Unlike animals, plants are unable to move to a different habitat if the conditions in their current habitat are unfavorable. The main way that plants can adapt to changing environmental conditions on an individual level is through changes in resource allocation. In this study we look at how changing environmental conditions, soil Mg ion concentration, affects the resources allocation of the mungbean.
+The Mungbean (Vigna radiata) is a warm weather legume, of which over 12 million tons are harvested annually [Kang: 2014]. Due to a high protein and nutrient content compared to other legumes, the mungbean is an important staple crop [Kang: 2014]. The mungbean is easy to grow, and requires little maintenance, making it an ideal model for this study. To test our hypothesis, we administered magnesium to a group of three mungbean plants for two weeks and compared them to a control group. We predicted that lack of magnesium would cause the leaves of mungbean plants to wilt and have overall lack of growth. It is well known that Magnesium is essential for photosynthesis in plants, and without it, they cannot photosynthesize [Farhat: 2016]. Mg is necessary to give a chlorophyll its characteristic dark green color that allows for maximum photon absorbance, the driving force for photosynthesis and autotrophy in plants [Dean: 2006]. A decrease in photosynthesis in a plant will limit chemical energy available for growth. This should lead to a different resource allocation strategy for the plant, as a decrease in magnesium should render leaves useless to a plant as they will be unable to contribute to the photosynthetic pathway and wilt. We predict that a deficiency in magnesium will cause a decrease in photosynthetic activity. This decrease will result in lower growth rates and wilting of leaves in our control group. 
+
+
+Materials and Methods:
+To test our hypothesis we first potted 10 mungbean seeds each into six small containers of approximately 250mL of vermiculite. We added 20 mL of Miracle-Gro to each container before watering all six containers with 150 mL of tap water on day 0. These six containers were divided into two groups of three plants each, experimental and control and placed into a greenhouse where they received approximately 12 hours of sunlight per day. For days 1-13, both groups were watered with 150 mL per day, with the control group receiving tap water (150mL) and the experimental group receiving 2x MgSO₄ (150mL). Plants were photographed after watering. On day 14, the plants were collected from the greenhouse, removed from their soil, and the following data was collected from each container: number of total leaves, number of wilted leaves, and average mass of three randomly selected plants. To measure the mass of the plants, the soil was removed from the roots by supersaturating the soil with water. This released the roots from the soil, allowing them also to be washed and cleaned of any residual soil and dried, before calculating the mass . The total mass and percent wilted leaves were measured as indirect representations of photosynthetic activity as related to Mg availability to the plant. We calculated percent wiled leaves as a ratio of wilted:total leaves in each container. The averages for each container were used in statistical analyses. The collected data—total mass and percent wilted leaves—were analyzed by separate two-tailed two-sample t-tests assuming equal variances to determine significance of data. (α=0.05) 
+
+Results:
+As shown in Figure 1, the control group (2.21g) had significantly higher whole plant mass than the experimental group (0.36g) (t=4, df=9.43, p&lt;0.001). For percent leaves wilted, the control group (57%) had lower average percentage of leaves than the experimental group (89%) as shown in Figure 2; however, the difference between groups was not significant. (t=4, df=2.54, p=0.064). 
+
+Discussion:
+The data from both the wilted leaves and total mass do not support our hypothesis. While there was significant difference between the mass of the control and experimental groups, it was the opposite of what we predicted. Guo et al found that concentrations of more than 20mM of Mg caused phenotypic changes in Arabidopsis thaliana [Guo: 2015]. While we do not know the exact concentration of MgSO4 used in this experiment, as it was only labeled 2X, we assume that it was above the upper threshold of Mg soil concentrations found in nature (125µM-8.5mM) [Guo:2015]. The research of Guo et al shows that for A. thaliana, a model organism for plants, there is an optimum Mg concentration for growth of 1.5mM, and that any values above or below this can cause either Mg toxicity or deficiency [Guo: 2015]. While we had predicted to observe signs of Mg deficiency in our control group, we may have seen signs of Mg toxicity in our experimental group in the form of stunted growth. Most of the leaves of the experimental group were wilted, but more importantly, had a white crystalline substance on them. It is possible that the excess Mg was partially removed from the plants at their leaves, in a similar manner to the desalination mechanism of the mangrove (Bruguiera parviflora), which excretes excess NaCl onto its leaves to be washed away by rainfall [Parida: 2004]. We had predicted that the control group would display signs of Mg deficiency, such as drooping wilted leaves and stunted growth. This was not the case, and likely due to the fact that the MiracleGro administered to both groups on Day 0 likely had enough Mg to support the growth of the control, and that Vermiculite is a magnesium containing crystal [Abollino: 2008]. An interesting finding noted on Day 14 is that the higher up the leaves were on stocks of plants in the control group, the lighter their color was, and the more wilted they became (see Figure 3). Further experimentation with sub-critical concentrations of Mg is necessary to determine whether these newer leaves exhibit such phenotypic variation compared to the lower, older leaves, as a result of decreased Mg content in the soil at the time they budded. All of the leaves of the experimental group were darker in appearance. It cannot be concluded from the data whether this was the result of Mg toxicity, or simply a lack of growth. Excess Mg has been shown to inhibit the uptake of other ions such as Ca+ or K+, and our results may not be the result of too high magnesium, but the interference of magnesium with these ions [Guo:2015]. A future direction for this research could involve the replication of this study in hydroponic media, allowing for more precise control of the concentrations of Mg ions available to each plant because, although the vermiculite soil used is low in nutrients, it likely had enough Mg to support the growth of the control group. Our data support previous literature in finding that excess Mg soil content can cause toxicity for plants. A potential future study will determine locations of man-made Mg toxic or deficient soil, especially in places such as India where mungbean is a widely cultivated staple crop [Kang:2014]. Building upon the conclusions of this study and the listed future recommendations, we can provide insight for Mg emissions from factories or other agriculture cultivation near areas of large mungbean production to protect future harvests. 
+
+Literature Cited:
+1.Abollino O, Giacomino A, Malandrino M, Mentasti E. 1998. Interaction of metal ions with montmorillonite and vermiculite. Applied Clay Science 38(3):227–236.
+
+ 2.Dean RL, Miskiewicz E. 2006. Rates of electron transport in the thylakoid membranes of isolated, illuminated chloroplasts are enhanced in the presence of ammonium chloride. Biochemistry and Molecular Biology Education 31(6):410–417. 
+
+3.Farhat N, Elkhouni A, Zorrig W, Smaoui A, Abdelly C, Rabhi M. 2016. Effects of magnesium deficiency on photosynthesis and carbohydrate partitioning. Acta Physiologiae Plantarum 38(6):145.
+
+4.Guo W, Chen S, Hussain N, Cong Y, Liang Z, Chen K. 2015. Magnesium stress signaling in plant: Just a beginning. Plant Signaling & Behavior 10(3).
+
+5.Kang YJ et al. 2014. Genome sequence of mungbean and insights into evolution within Vigna species. Nature Communications 5. 
+
+6.Parida AK, Das AB, Mittra B. 2014. Effects of salt on growth, ion accumulation, photosynthesis and leaf anatomy of the mangrove, Bruguiera parviflora. Trees 18(2):167–174. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-02+at+3.16.37+PM.png&Size=196481&Type=image%2Fpng&F=F_ewYDyrUVXE7boQh
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-02+at+3.16.50+PM.png&Size=215611&Type=image%2Fpng&F=F_2EtWRK65FUesdYu
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=IMG_1117-3.jpg&Size=635232&Type=image%2Fjpeg&F=F_3JJlm0ruiLs5X7m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 shows the total average mass per plant for the control and experimental groups. Error bars represent ± one standard deviation from mean. Mass is measured in grams. Experimental group significantly lower in mass than control (p&lt;0.001)Figure 2 shows a the averages of the ratio of wilted to total leaves for the control and experimental groups. Error bars represent ± one standard deviation from the mean. No statistical difference between groups (p=0.064)Figure 3 shows the plants on September 23, 2019 (Day 13). The lack of growth as well as darker colored leaves is clearly visible in the three experimental pots on the bottom. In the control group, one can also note the increased wrinkling and lighter color in higher and presumably younger leaves. *************************************************************************
+
+
+

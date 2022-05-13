@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-02 14:01:57
+Author of this lab report is: Std_pA7fq7Y5
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Acetylcholinesterase Inhibitors effect on the Amplitude of a Muscle Contraction in the Gastrocnemius Muscle of a Rana Pipien
+
+Abstract:
+Creating an enhanced muscle contraction can have implications for many different areas, from sports enhancement to work supplements. With this in mind, we wanted to see if injecting the gastrocnemius muscle of a Rana Pipien with a 0.2 mL solution with 2% Sevin, an acetylcholinesterase (AChE) inhibitor, would affect the amplitude of the muscle contraction. We hypothesized that if we injected the gastrocnemius muscle with the AChE inhibitor, than the amplitude of the muscle contraction after the injection would be greater than the amplitude of the muscle contraction before the injection. We observed this by attaching the gastrocnemius muscle to a force transducer and stimulating the muscle fibers at a consistent voltage with the muscle stimulator before and after the AChE inhibitor injection. After recording the amplitudes of 5 contractions at the same voltage for three different frog legs, we observed on the myogram that our data does not give us enough information to make a conclusion, which results in the rejection of our hypothesis. The first muscle tested supported our hypothesis with an increased amplitude, the second did not have enough statistical significance for us to include in our data, while the last muscle did rejected our hypothesis by having a lower amplitude.
+
+
+Introduction:
+It is observed that honeybees’ motor function dramatically increased in frequency as the honeybees became more active after being exposed to all different kinds of AChE Inhibitors (Williamson: 2013). We decided to expand on this alteration of the motor function and examine if the amplitude of the muscle contractions varied as well as the frequency. For a muscle to contract, the action potential arrives at the axon terminal which allows the Acetylcholine (ACh) vesicles to fuse with the membrane, releasing ACh into the synaptic cleft.The ACh molecules diffuse across the synapse and bind to ion channels on the muscle end plate which stimulates another postsynaptic action potential that stimulates a muscle contraction. For the muscle to relax, the muscle needs to repolarized. So Acetylcholinesterase (AChE) breaks down the ACh, closing the ion channels, and allowing the muscle to repolarize and relax. We planned to inject the gastrocnemius muscle of a Rana pipien with an AChE inhibitor and record the difference in the amplitude of the muscle contraction from before and after the injection. We are expecting that the muscle with the AChE inhibitor injection would not be able to break down the ACh and leave them docked to the ligand gated ion channels, which would result in an higher amplitude when the muscle contracts. This leads us to hypothesize that if we inject our muscle with the ACh Esterase inhibitor, then the amplitude of the muscle contraction of the injected muscle will be higher than the amplitude of the non injected muscle.  We chose to use the Rana pipiens, which has a common name of the Northern Leopard Frog, in our experiment because they are readily available and display strong, observable, gastrocnemius contractions. 
+
+
+Materials and Methods:
+First we had to deglove the Rana pipiens leg and detached the gastrocnemius muscle at the achilles tendon.
+We suspended the gastrocnemius muscle at a 90 degree angle to the force transducer and inserted the muscle stimulator probes.
+	We first stimulated the muscle at 0.1 and increased each stimulus by 1 Volt until we found the maximum amplitude for the gastrocnemius muscle contraction. Then we set the computer program to stimulate the muscle with five pulses, each 5 milliseconds apart, at that specific voltage and recorded the amplitude of each contraction in the computer program, LabScribe.
+	Next we injected the gastrocnemius muscle with 0.2 mL solution with 2% Sevin, a Acetylcholinesterase inhibitor, and waited 2 minutes for the inhibitor to diffuse throughout the muscle fibers. 
+	We then stimulated the gastrocnemius muscle again with five pulses at that same specific voltage and recorded the amplitude of each contraction. 
+	We repeated each of these steps for two other legs, recording data for a total of 3 frog legs. Lastly, we took that data and used a two tailed T-Test to analyze our data. 
+
+
+Results:
+Seen in Figure 1, the average amplitude of the control was 0.365 Volts and after the injection was 0.493 Volts, an increase of 0.13 Volts. We observed that the leg showed very low standard deviation, with 0.004 in the control and 0.0376 in the injected leg, and a P value of  0.0012 (t-stat=8.28, df=4). Seen in Figure 2, we calculated that the average amplitude of the control was 1.7208 Volts and in the injection the average amplitude was 1.728 Volts, an increase of 0.0072 Volts. However we calculated a standard deviation of 0.0438 in the control and 0.404 in the injected leg, with a P Value of 0.3301 (t-stat=1.11, df=4). Lastly, observed in Figure 3, we calculated that the average amplitude of the muscle contraction of the control was 0.8416 Volts and the injected leg was 0.5894 Volts, a decrease in 0.2522 Volts. We found a low standard deviation of 0.0242 in the control and 0.0166 in the injected leg. Lastly we had a very low P-Value of 4.9310-5 (t-stat=18.59, df=4). We were not able to detect any general trends in the amplitude of the muscle contractions between the control leg and the leg injected with the AChE Inhibitor.
+
+
+Discussion:
+With the data that we collected from the three different leg contractions, we do not have enough statistical evidence to support our hypothesis. However, there are other experiments where they describe their data by stating that more than half of their muscles injected with diisopropylfluorophosphate, an AChE inhibitor, showed results with an abnormally higher muscle contractions than their non injected legs (Mense: 2003). This resembles the results we received from the first leg, where our leg displayed a higher amplitude after the AChE Inhibitor injection. Our hypothesis seems correct because when ACh is left on the the ligand gated ion channels, which increases the number of action potentials that are started in the muscle fibers. This increase in action potentials increases the frequency of the muscle twitches and the increase in muscle twitches creates a stronger contraction by summation. We experienced a couple flaws during our experiment. One was that when we were touching the muscle with the metal pins and scissors, the electrons from those transferred into the muscle and stimulated the leg. This resulted in the leg being ATP deficient which could have affected our data. Another flaw we experienced was that we forgot to rewet the muscle with the frog ringer solution which causes the leg dry out and result in varied the amplitudes. For future research, I would like change two things about our procedure to enhance our knowledge on the subject. First, the number of muscles I would stimulate because it would result in more precise data. Second, I would be to stimulate the muscle via the Sciatic Nerve to see if there was a more conclusive data that came from that way to stimulation. Finally, this research is relevant because stronger muscle contractions have many implication for sports enhancement drugs or any area that could benefit from stronger muscle contractions.
+
+
+Literature Cited:
+S. Mense, D. G. Simons, U. Hoheisel, B. Quenzer “Lesions of Rat Skeletal Muscle After Local Block of Acetylcholinesterase and Neuromuscular Stimulation” Journal of Applied Physiology Published 1 June 2003 Vol. 94 no. 6, 2494-2501 DOI: 10.1152/japplphysiol.00727.2002
+
+Williamson, Sally M. et al. “Exposure to Acetylcholinesterase Inhibitors Alters the Physiology and Motor Function of Honeybees.” Frontiers in Physiology 4 (2013): 13. PMC. Web. 18 Oct. 2017.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Real+Frog+Leg+Figure+1.png&Size=42780&Type=image%2Fpng&F=F_e5TTTZxDW369oHj
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Real+Frog+Leg+Figure+2.png&Size=41781&Type=image%2Fpng&F=F_aYqjRmMFg52dfjD
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Real+Frog+Leg+Figure+3.png&Size=41533&Type=image%2Fpng&F=F_cFKfbespsoZPSoR
+
+
+
+
+
+
+Figure Legends: 
+Figure 1... Effect on the average amplitude of the muscle contraction in the gastrocnemius muscle of the Rana pipien before and after the injection of the Acetylcholinesterase Inhibitor. Before the injection the the average amplitude of the five contractions was 0.365 Volts, and after the injection the average amplitude of the five contractions was 0.492 Volts. The error bars on this figure shows that our data was very precise for this leg.
+Figure 2... Effect on the average amplitude of the muscle contraction in the gastrocnemius muscle of the Rana pipien before and after the injection of the Acetylcholinesterase Inhibitor. The average   amplitude of the five contractions  before the injection was 1.7208 Volts and then the average amplitude of the five contraction after the injection was 1.728 Volts. The error bars on this figure shows that our data was really imprecise for this frog leg.
+Figure 3... Effect on the average amplitude of the muscle contraction in the gastrocnemius muscle of the Rana pipien before and after the injection of the Acetylcholinesterase Inhibitor. Before the injection the average amplitude of the five contractions was 0.8416 Volts while the amplitude of the five contractions after the injection was 0.5894 Volts. The error bars displayed in this figure shows that the data was fairly precise for this frog leg.
+
+
+*************************************************************************

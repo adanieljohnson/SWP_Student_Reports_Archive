@@ -1,0 +1,51 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a lab report.
+Date submitted: 2017-11-15 10:42:53
+Author of this lab report is: Std_VijX24fD
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effects of High Sodium Concentration on the Specific Metabolic Rate of Procambarus sp.
+
+Abstract:
+This experiment focused on how changes in environment, specifically salinity, affect the specific metabolic rates of Procambarus sp. (crayfish). It was hypothesized that an increase in sodium would raise the SMR of the Procambarus sp. This was due to the fact that an increase in sodium in the cells of the animals would cause them to have to exert more O2 in order to rid its body of the toxins. Three crayfish, acting as their own controls, were used and their oxygen levels were measured at 5 minute time intervals. The SMR increased from the control to the experimental groups in the first two crayfish, but decreased for the last one. This is believed to possibly be a result of stress felt by the animal. After conducting a paired-t-test, the p-value was equal to 0.73463, greater than α which is equal to 0.05. This therefore signaled that the changes in the SMRs could not be confidently nor solely attributed to the increase in sodium. The hypothesis was therefore only slightly supported and the result were inconclusive.
+
+Introduction:
+The term metabolism is used to describe the widespread process of energy capture most organisms undergo. It also encompasses the process of converting carbon and oxygen atoms in glucose into CO2 gas. This conversion prompts molecules to capture electrons and transfer them to the transport system. It is here that energy release converts ADP into ATP. In order to effectively use ATP it is transferred into O2 and distributed to cells via the respiratory system. O2 converts into water through the addition of electrons and mixes with body fluids. This process is undergone by many autotrophs and heterotrophs alike. It is through specific metabolic rate (SMR)–the amount of energy expelled by all physiological process of an organism at any given time–that this process is measured. Important to note is the fact that the environment that surrounds an organism greatly affects its metabolic rate. Salinity, for example, is one of these environmental factors. In fact, in an experiment by Christina Swans that tested the effects of salinity on SMR, activity, and growth of milkfish, she found that oxygen consumption rates were higher at 35% salinity, and increased as she increased salinity concentration [Swanson 1998]. In this experiment, the SMR of three Procambarus sp. (crayfish) will be observed in a normal environment and then in an environment with a higher 
+Na concentration. Based on on the aforementioned information and studies, my hypothesis is that the salt will cause the crayfish to exert more energy and therefore have a higher SMR.
+
+Materials and Methods:
+For this lab, weigh a crayfish then place it in room temperature water in a jar. Place the jar into a water-filled dishpan to maintain room temperature. Add a dissolved oxygen probe into jar and measure O2 concentration. Repeat this after 5, 10, 15, and 20 minutes. Repeat this exact process for all the crayfish using water with a higher sodium concentration. Use the following equation to calculate the specific metabolic rate for both the control (pre-sodium) crayfish and the experimental (post-sodium) crayfish:
+SMR=  [ΔO2 (mg/L) * volume H2O (L)]  
+	Time (min.) * weight (g)
+ A paired t-test will be used.
+
+
+Results:
+The specific metabolic rates increased in two of the three crayfish. The SMR of the controls were as follows: control1 0.000314, control2 0.000693, and control3 0.00231. The experimental SMRs were as follows: exp.1 was 0.000693, exp.2 was 0.00140, and exp.3 was 0.00169. The only crayfish to decrease was #3. A paired t-test showed the p-value is equal to 0.73463, t-value is equal to 0.389246, and df was equal to 0.389246.
+
+Discussion:
+The results of this experiment did not fully support the original hypothesis.
+that the Procambarus sp. will have a higher SMR in an environment with a higher Na concentration. The p-value, 0.73463, is not significant because it is greater than the α value, 0.05. The first two crayfish, 1 and 2, experienced an increase in SMR from control to experimental. Crayfish 3, however, decreased its SMR from 0.00231 (pre-sodium) to 0.00169 (post-sodium). These results entail that the increase in SMR in the other two crayfish cannot confidently be attributed solely to the increase in sodium. Procambarus sp. #3, which was expected to increase its SMR in the sodium rich environment based on the results Swanson’s experiment, might have been more agitated and stressed while being placed in the control environment than the experimental one causing it to have a higher SMR. The other two crayfish may have had higher SMRs in the sodium solution because their bodies had to work harder to expel the salt in order to maintain homeostasis, therefore causing them to consume more oxygen. However, this is not certain because of the result of the paired-t-test. One of the difficulties of this experiment was the fact that not every trial had the exact same amount of water, which may have affected the crayfish’s reaction to the environment. Also, working with the crayfish, who would often resist transfer into the jars, was difficult because a similar starting metabolic rate could not be established and stress was evidently being felt by the animals. An opportunity for further study could be an experiment where five crayfish are used, the elapsed time is 30 minutes rather than 20, and different concentrations of sodium solutions are used instead of a single one. This would allow, possibly, for an increase in SMR to be observed in increments.
+
+
+Literature Cited:
+1. Swanson, C. (1998). Interactive effects of salinity on metabolic rate, activity, growth, and osmoregulation. (Chanos Chanos). Journal of Exp. Biology. 1998.
+
+2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 19-21.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?F=F_b7NqsbbHBl0Unsx
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure1. Average Specific Metabolic Rate in three Procambarus sp. before and after Na concentration. Standard deviation for the control group is 0.00106006, and for the experimental groups is 0.00051283. Mean SMR for control (pre-sodium) is 0.001105667 and mean for experimental (post-sodium) is 0.00051283. A paired t-test was used (t-value=0.389246, α=0.05, P=0.73463, df=2).
+
+
+*************************************************************************

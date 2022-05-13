@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-22 16:22:51
+Author of this lab report is: Std_TBUUP1JZ 
+ID: R_1FJPwEYt7KVGcWK
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: Neutral effects of varying levels of light intensity on photosynthetic activity in Spinacia oleracea
+
+Abstract:
+Many plants, algae, and bacteria use the process of photosynthesis to convert solar energy into the chemical energy necessary to regulate various cell functions. Photosystem II is an important mechanism in the process of photosynthesis that utilizes the oxidation of water to create electrons that are then passed down the electron transport chain to create ATP. This experiment studies the effects of various light intensities on the photosynthetic activity of spinach leaves. The Hill reaction was used to observe the absorbance of DCPIP as it was reduced. It was found that varies light intensities did not have a significant impact on the rate of photosynthetic activity. These results contradict with previous studies that have found that increasing light intensities lead to higher rates of photosynthetic activity. However, while the results were not statistically significant the overall trends seem to indicate increased rates of photosynthetic activity when light intensity is increased. 
+
+
+Introduction:
+Photosynthesis is a process utilized by many plants, algae, and bacteria to convert light energy into chemical energy that is then used to synthesize cell components. In eukaryotes, photosynthesis takes place within the chloroplasts, more specifically, photosynthetic reactions take place within the thylakoid and the stroma. Within the process of photosynthesis, there are two sub-processes, photosystem I and photosystem II, which are responsible for converting light energy to chemical energy though oxidation-reduction reactions [1].  Photosystems begin this process when antenna complexes, pigments located on the thylakoid membrane, capture energy from light [1].  Energy is then transferred through neighboring pigment molecules until it reaches a reaction center, which contains a special pair that enables the reaction center to pass the energy to an electron carrier rather than just to another neighboring pigment [1]. The passing of these excited electrons to an electron carrier is the mechanism utilized to determine photosynthetic activity in this experiment. By determining the most efficient rate of photosynthetic activity, this knowledge could be used grow crops more effectively.
+
+By studying the mechanism of water splitting in Photosystem II, photosynthetic activity can be measured before all of the energy is passed down the electron transport chain and converted to ATP which is much more difficult to measure. this experiment aims uses the oxidation of water to release electrons that are passed by a special pair to an electron carrier which then passes them down an electron transport chain to create energy for the cell [2]. In most plants, plastiquinone acts as an electron carrier in photosystem II; however, its reduction is difficult to measure so DCPIP was used instead. DCPIP is an artificial electron acceptor that changes from a dark blue when oxidized, to colorless when reduced, allowing for easier observation of the Hill reaction [3]. 
+
+Based on previous knowledge of this mechanism, this experiment aims to answer the following questions. How do various light intensities effect the rate of photosynthetic activity? Will photosynthetic activity continually increase, or will it eventually reach a saturation point at which the activity will remain constant? It is hypothesized that increased light intensity will cause an increase in photosynthetic activity until it reaches a saturation point.
+
+
+Materials and Methods:
+To begin the experiment, a mortar and pestle, a medium sized beaker (150-250mL), and 3, 50 mL centrifuge tubes were placed in crushed ice to cool.  While these materials were cooling, the model organism, spinach, was obtained. Spinach, Spinacia oleracea, was chosen as an appropriate model organism because it is easy to purify, inexpensive, and widely available. The spinach utilized in this experiment was store bought and had been kept in the fridge for approximately one week before the experiment was run. The large central veins of 4 large spinach leaves were then removed and thrown away.  The remaining spinach was then blotted dry with a paper towel.  Once the mortar and pestle had cooled, 10mL of grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) and the spinach leaves were added to the mortar and ground until it reached the consistency of a thick paste and had no large chunks remaining.  An additional 10mL of grinding buffer was then added to the mixture, which was then filtered through three layers of cheesecloth into the chilled beaker. The liquid was then transferred into the first 50mL centrifuge tube and labeled “A”.  Once the centrifuge was balanced, the sample was spun at 200 x G (200 times the force of gravity; 1200 rpm in the RT-7 centrifuge) for 3 minutes at 4oC.  After sample A was spun, the supernatant was carefully poured into a second chilled tube labeled “B”, ensuring that the debris at the bottom of the tube were not transferred into tube B as well. The chloroplast suspension was then spun at 1,000 x G (2800 rpm in the RT-7 centrifuge) for 10 minutes at4oC. The supernatant was from tube B was then carefully poured into a third chilled 50mL centrifuge tube labeled “C” as to not disturb the pellet in tube B. 20mL of grinding buffer was then added to the pellet in tube B and suspended by stirring gently with a transfer pipet. 
+
+Afterwards, 13 tests tubes were obtained and labeled 0-12. Placed in tube 0 were 8mL of water, 2mL of reaction buffer (100 mM phosphate, pH 6.5), and 100 μl of enriched chloroplasts. Placed in tubes 1-12 was 6mL of water, 2mL of 130 mM DCPIP, 2mL reaction buffer (100 mM phosphate, pH 6.5), and 100 μl of enriched chloroplasts.  It is important to note that as soon as enriched chloroplasts are added to the mixture, the reaction begins to take place, so when preparing the test tubes for experimentation, water, DCPIP, and the reaction buffer were placed in tubes 0-12 before any chloroplasts were added. Once the chloroplasts were added, the mixtures were mixed immediately and transferred into spectrophotometer cuvettes. The spectrophotometer was immediately blanked at 600nm and the absorbance of each sample was taken to obtain Time zero data points.  The spectrometer was set at 600nm because DCPIP absorbs light maximally at this value.  In chloroplasts, measuring ATP production or reduction of plastiquinone to determine electron transfer in reactions is difficult, so DCPIP was utilized instead. Once absorbance values were taken, tubes 1-3 were placed in a dark cabinet, tubes 4-6 were places in a cabinet with a 600 (unit) light, tubes 7-9 were placed in a cabinet with a 1300 (unit) light, and tubes 10-12 were placed at a cabinet with a 1630 (unit) light. Absorbance was then measured at 10 minute intervals at 600nm until 30 minutes was reached. After all absorbance values were recorded in Microsoft excel, percent change was calculated for each time interval. Two tailed t-tests (assuming equal variances) were then run to determine whether or not the results from the experiment were significant.  The critical value by which statistical significance was determined was 0.05. 
+
+
+Results:
+Overall the observed photosynthetic activity was lowest at 600 lumen, and highest at 1300 lumen which was determined by observing average absorbance. The average absorbance of DCPIP was highest after 30 minutes at 600 lumen (0.136) and lowest at 1300 lumen (0.033). However, there was no statistical difference between percent change at 600 lumen and 1300 lumen (t(4)=-1.58, p=0.19), or between at 600 lumen and 1630 lumen (t(4)=-1.52, p=0.20).  
+
+
+Discussion:
+Overall, there was no statistically significant evidence supporting the hypothesis that increasing light intensity will cause an increase in photosynthetic activity until it reaches a saturation point; however, overall trends can be used to make some subjective inferences that support it. The general activity of photosynthesis seems to increase from 600 lumen to 1300 lumen and 1630 lumen, indicating that photosynthetic activity increased as light intensity increased. Previous studies reveal that light intensity has significant effects on the rate of photosynthetic activity. One study compared the effects of light intensity on photosynthetic activity by measuring rates of photosynthetic activity in leaves in the sun and leaves in the shade and then comparing the two, finding that leaves exposed to light intensity in the sun had higher rates of photosynthesis [4] Another previous experiment also studied the effects of various light intensities on photosynthetic activity in soybeans and found that higher light intensities led to increased rates of photosynthesis [5]. 
+The t-tests revealed that there were no statistical differences between various light intensities; however, this is likely due to an outlier in the 600-lumen test group. This could be due to many different types of errors. The reason for the error could have been in the spinach itself—perhaps various leaves were picked at different times but still packaged together, causing variance in the age of the spinach. The error could have also been instrumental, meaning that the correct amounts of each substance were not placed in tube 6, effecting absorbance values. If the experiment were to be repeated in the future it would be beneficial to increase the number of light intensity values tested. Specifically, it would be most important to have more light intensity values between 1300 lumen and ~1700 lumen in order to determine the saturation point for where photosynthetic activity remains constant.  Overall, the experiment revealed that photosynthetic activity will increase as light intensity increases until it reaches a saturation point, at which photosynthetic activity will remain relatively the same. 
+
+
+Literature Cited:
+
+1.	 “Chapter 14: Energy Conversion: Mitochondria and Chloroplasts .” Molecular Biology of the Cell, by Bruce Alberts, Garland Science, 2015, pp. 788–791.
+
+2.	McEvoy, J P, et al. “The Mechanism of Photosynthetic Water Splitting.” Photochemical & Photobiological Sciences : Official Journal of the European Photochemistry Association and the European Society for Photobiology., U.S. National Library of Medicine, 4 Oct. 2005, www.ncbi.nlm.nih.gov/pubmed/16307106.
+
+3.	Kumar, S, and S K Acharya. “2,6-Dichloro-Phenol Indophenol Prevents Switch-over of 3. Electrons between the Cyanide-Sensitive and -Insensitive Pathway of the Mitochondrial Electron Transport Chain in the Presence of Inhibitors.” Analytical Biochemistry., U.S. National Library of Medicine, 1 Mar. 1999, www.ncbi.nlm.nih.gov/pubmed/10036166.
+
+4.	Bohning, R. H. “The Effect of Light Intensity on Rate of Apparent Photosynthesis in Leaves of Sun and Shade Plants.” American Journal of Botany, JSTOR, 1 Oct. 1956, www.jstor.org/stable/2438868?seq=1#page_scan_tab_contents.
+
+5.	Bowes , G, et al. “Light Saturation, Photosynthesis Rate, RuDP Carboxylase Activity, and Specific Leaf Weight in Soybeans Grown Under Different Light Intensities.” Alliance of Crop, Soil, and Environmental Science Societies , ACSESS, 15 July 1971, dl.sciencesocieties.org/publications/cs/abstracts/12/1/CS0120010077.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-22+at+4.17.46+PM.png&Size=26396&Type=image%2Fpng&F=F_2s09eDMYj1aEnVW
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-22+at+4.17.57+PM.png&Size=24871&Type=image%2Fpng&F=F_V55fMvGKLvuDLFL
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-22+at+4.18.06+PM.png&Size=28103&Type=image%2Fpng&F=F_3j6RRZmAwKksBzy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Average absorbance of various light intensities at 10-minute time intervals. 
+Table 2. Average percent change of absorbance for various light intensities at 10-minute intervals. 
+Figure 1. Figure one depicts the how the percent change in absorbance varied depending upon which of three different light intensities the samples were placed either 600 lumen, 1300 lumen, or 1630 lumen. There was one large outlier in the data which can be seen by the large standard deviation represented by the error bars at 600 lumen (s= 58.38 ± 34.23). While the results of the experiment were not significant, the percent absorbance at 1300 lumen and 1630 lumen were similar, indicating that a saturation point was likely reached somewhere between the two light intensities. 
+
+
+*************************************************************************

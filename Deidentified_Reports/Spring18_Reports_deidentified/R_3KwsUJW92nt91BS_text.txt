@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 20:16:02
+Author of this lab report is: Std_jrB35yEG
+ID: R_3KwsUJW92nt91BS
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: The effect of IBMX and caffeine on Physarum polycephalum cellular aggregation
+
+Abstract:
+In a G-protein coupled receptor pathway, adenylyl cyclase catalyzes the production of adenosine 3´, 5´-cyclic monophosphate, or cAMP, which works to amplify a cellular response to a stimulus. Physarum polycephalum is a multinucleate slime mold that uses a G-protein coupled receptor pathway for growth and movement. In p. polycephalum, cAMP diffuses out of the cell and causes nearby cells to aggregate. Under normal circumstances, phosphodiesterase breaks down cAMP when adenylyl cyclase is no longer present. When caffeine is combined with IBMX, it functions as a phosphodiesterase inhibitor. We predicted that when p. polycephalum is treated with caffeine and IBMX it will have more aggregation and less outward growth than when only treated with water. Our experimental data proved our hypothesis to be incorrect, but future research on the effects of caffeine and potentially calcium on p. polycephalum could be useful in studying cell growth and aggregation in human cells.
+
+Introduction:
+Cells use many biological pathways to respond to their external environment. A G-protein coupled receptor pathway is one of the more common cellular pathways that cells use to bring forth copious and complex responses from a single environmental stimulus. In a G-protein pathway, the adenylyl cyclase enzyme catalyzes the production of adenosine 3´, 5´-cyclic monophosphate, or cAMP, from ATP which amplifies the chemical response from an external stimulus. [Johnson:2018]
+Physarum polycephalum. a slime mold, is a multinucleate syncitium, meaning it contains multiple nuclei within a single plasma membrane. Each p. polycephalum plasmodium behaves as a single cell unit and uses G-protein coupled receptors to initiate growth and movement. [Johnson:2018] The multiple nuclei even undergo mitosis at the same time even when the organism is as small as 5 cm in diameter. P. polycephalum moves by extending its leading edge with the use of actin microfilaments. [Guttes:1961] 
+Unlike other cellular pathways involving cAMP, cAMP diffuses out of slime molds in to the extracellular environment. [Van Haastert:1982] Other amoeba move in response to the change in cAMP concentration and move towards the higher concentration. The cAMP binds to the cAMP surface cell receptors until all the receptors are filled. When this happens, the slime mold cannot sense the concentration gradient any longer and movement ceases. Filled receptors trigger phosphodiesterase to be active, which breaks down cAMP into 5’AMP. [Van Haastert:1982] 5’ AMP then gets converted to adenosine by 5' nucleotidase. [Jaiswal:2012] Once the receptor sites are filled, a phosphodiesterase inhibitor turns off the phosphodiesterase so that the cycle can start over. As cells move closer to each other, glycoprotein adhesion molecules on the surface make the cells adhere to form clumps. This is called aggregation. [Van Haastert:1982]
+Caffeine has three methyl groups in a purine ring and is often referred to as 1, 3, 7 tri-methyl xanthine. [Jaiswal:2012] Because of its structure, caffeine is a known cAMP phosphodiesterase inhibitor. [Johnson:2018] Furthermore, adenosine is a non-competitive inhibitor of cAMP receptors and caffeine reversibly inhibits the cAMP-dependent activation of adenylate cyclase. [Jaiswal:2012]  In this experiment, P. polycephalum is grown both with and without the presence of caffeine. We predict that because caffeine is a phosphodiesterase inhibitor, there will be more cAMP present in caffeinated P. polycephalum than non-caffeinated P. polycephalum. Therefore, caffeine will cause more aggregation and less growth in P. polycephalum than in P. polycephalum treated with no caffeine. 
+
+
+Materials and Methods:
+In this experiment, six water-agar plates were used. Water agar was used instead of PCB so that nutrition would not be a factor in the direction of growth. Three of the plates were coated in a solution of 1Mm IBMX to 20 Mm caffeine and the other three plates were coated in water. The substances were allowed to absorb for ten minutes before the excess fluid was poured off the top. In the six agar plates, two evenly spaced squares with one-centimeter sides were drawn on the back of the agar plate towards the center of the plate. The agar inside these squares was removed using utensils that were sterilized with ethanol bath and flame. Twelve one-centimeter cubes of cultured p. polycephalum were cut from a stock plate that was grown using 1 cm cube of p. polycephalum, water agar and oatmeal for one week was inserted into the previously-created wells within each plate. A single flake of oatmeal was placed on top of each p. polycephalum cube. Each plate was then covered fully in aluminum-foil and placed in an incubator set at 37 ℃. 
+Photographs of each plate were taken in increments of twelve, twenty-four, and thirty-six hours. The surface area of growth/aggregation was assessed for p. polycephalum using measurements of growth outside of the drawn square. Results were compared using a two-sample paired t-test. 
+
+
+Results:
+As seen in Figure 1, the average area of growth on the agar plate was calculated in mm² after twelve, twenty-four, and thirty-six hours. Even if both the control and elevated cAMP groups had the same area after twelve hours, after both twenty-four and thirty-six hours the elevated cAMP group had a larger plate area than the control group. (Fig. 1) A two-sample paired t-test compared the plate area of the elevated cAMP group to the control group. (t=1.155973, p= 0.312035, df=4)
+
+Discussion:
+Our hypothesis was incorrect in that there was more growth in P. polycephalum that was exposed to caffeine and IBMX than in P. polycephalum that was not exposed to caffeine and IBMX. As seen in Figure 1, the elevated cAMP experimental group had more area on the plate at both 24 and 36 hours than the control group. A two-sample paired t-test comparing the plate area of the control and experimental groups after 36 hours determined that hour data was not significant. However, a general trend that the caffeinated groups had more plate area (growth) can be seen. 
+One reason our hypothesis could have been incorrect is because the stimulus that activates the G-protein coupled receptor pathway for aggregation is usually a lack of nutrients. [Van Haastert:1982] In our experimental design we placed a food source directly upon the stock P. polycephalum square. The conclusion of an experiment by Jaiswal et al. suggested that the regulation of aggregate size by either caffeine or adenosine acts via the glucose sensing pathway, which we did not test for in our experimental design. [Jaiswal:2012] . Caffeine increased intracellular glucose levels which might have an influence on the aggregate size as high glucose levels are known to increase the aggregate size. However, glucose levels were still high when cells were developed in the presence of caffeine and aggregates were still small. [Brenner:1984]
+Another explanation would be that our experiment did not account for the stage of growth of the slime mold. A 1984 experiment, showed that cells grown in medium containing caffeine grow faster when first developed in a non-nutrient medium lacking caffeine, which is likely by inducing the overexpression of adenyl cyclase-A. [Brenner:1984] 
+However, our experimental design also did not account for the multiple effect that caffeine can have on slime molds. The most probable explanation on why our hypothesis was incorrect would be that in P. polycephalum, caffeine triggers release of calcium from intracellular vesicles. Increases in cytosolic calcium have been associated with the stimulation and then inhibition of adenylate cyclases and then the activation of guanylate cyclases. [Brenner:1984] With no adenylyl cyclase, no cAMP is produced, and the aggregation process is inhibited. Further research into the multiple (and sometimes contradictory effects) of caffeine and increased calcium on multi-nucleate organisms is needed in the future because p. polycephalum shares has many of the same cellular pathways as human cells. By p. polycephalum cAMP pathways, we can study cell growth and aggregation and perhaps find insight into devastating cellular abnormalities, such as cancer. 
+
+
+Literature Cited:
+1.	Johnson AD. 2018. Unit 3: Signaling. Cellular Biology. Wake Biology.
+2.	Guttes, E. 1961. Morphological observations on growth and differentiation of P. polycephalum polycephalum grown in pure culture. Developmental Biology. 3:588-614
+3.	Van Haastert, PJ. 1982. Identification of a Pterin as the Acrasin of the Cellular Slime MoldDictyostelium Lacteum. Proceedings of the National Academy of Sciences of the United States of America. 79:6270-6274.
+4.	Jaiswal, P. 2012. Regulation of aggregate size and pattern by adenosine and caffeine in cellular slime molds. BMC Developmental Biology. 12:5
+5.	Brenner, M. Thoms, SD. 1984. Caffeine blocks activation of cyclic AMP synthesis in Dictyostelium discoideum. Developmental Biology. 101: 136-146
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO+214+Lab+2.jpg&Size=32372&Type=image%2Fjpeg&F=F_32J9XGpoJ66veVY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average plate area occupied with and without caffeine and IBMX application was calculated at 12, 24, and 36 hours. Error bars represent standard deviation. A paired t-test compared the experimental vs the control at 36 hours. (t=1.155973, p= 0.312035, df=4)
+
+*************************************************************************

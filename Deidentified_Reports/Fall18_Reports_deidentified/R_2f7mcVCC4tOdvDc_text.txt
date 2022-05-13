@@ -1,0 +1,82 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-26 16:46:12
+Author of this lab report is: Std_RQhdsI6n
+ID: R_2f7mcVCC4tOdvDc
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: The Effect of Various Types of Salt on Photosynthetic Activity of Spinacia oleracea
+
+Abstract:
+In this experiment, the effect of various salt types on the photosynthetic activity of Spinacia oleracea was measured. Salinity affects the osmotic and ionic behaviors of plants and can possibly disrupt photosynthesis by interfering with electron transport. We hypothesized that adding various salts to an enriched chloroplast solution would decrease photosynthetic activity. To create the enriched chloroplast solution, spinach leaves were grinded up and combined with a grinding buffer made of 400 mM sucrose in Tricine buffer of pH 8 and centrifuged twice. Thirteen test tubes were prepared: one blank, three controls, three iodized salt solutions, three kosher salt solutions, and three sea salt solutions. DCIP was added to the control and salt solutions as well as the enriched chloroplast solution. The absorbance of each solution was measured after 10 minutes three times for a total of thirty minutes. We then performed a one tailed two sample T-test to statistically analyze our data. This experiment was conducted in the hopes of finding an alternative to harsh herbicides presently used, but our result proved to be statistically insignificant. These results can be explained as plant’s have a certain tolerance to salinity that was unaccounted for. 
+
+
+Introduction:
+Photosynthesis is the process by which plants, some protists, and certain bacteria use to capture and store energy from the sun. This biochemical pathway is integral in supporting life on Earth as it not only provides energy to many organisms, but also produces oxygen as a byproduct. The light dependent reactions of photosynthesis occur in the thylakoid membrane of the chloroplasts. During this portion of photosynthesis, high energy electrons trigger the hydrolysis of water which ultimately creates a proton gradient. This proton gradient creates a highly acidic environment in the mitochondrial inner membrane and a highly basic environment in the mitochondrial matrix. This difference in ion concentration powers the synthesis of adenosine triphosphate or ATP. ATP is the energy currency of the cell and without this high energy molecule the cell would be unable to perform cellular metabolic activities causing the organism to die. 
+These intricate steps of photosynthesis led us to imagine how herbicides are able to disrupt photosynthesis and manage unwanted vegetation. In a study conducted on the effect of the herbicides: atrazine, terbutryn, and diuron on spinach, it was discovered that these compounds inhibit the passing of electrons specifically in photosystem II of the electron transport chain [Ventrella: 2010]. This inhibition prevents the creation of a proton gradient which then prevents the production of AT; ultimately killing the organism as they are essentially left unable to carry out any cellular processes. The issue with these types of compounds is that they are extremely harsh in that they are eco-noxious and expose toxic chemicals to non-target species, including humans.
+There has been an active effort to find more natural and ecologically friendly herbicides. We questioned if simply adding salt to the environment of a plant would be successful in disrupting photosynthesis. The salinity of an environment changes the ionic and osmotic behavior of the plant. In a study conducted on the effect of salt on cyanobacteria photosynthesis, it was found that the addition of salt induces a rapid decrease in photosynthetic activity by decreasing cytoplasmic volume and irreversibly inactivating both photosystems’ electron transport function [Allakhverdiev: 2000]. 
+In this experiment, we used an enriched chloroplast solution to test the effect of different salt types on photosynthetic activity. We chose to use spinach or Spinacia oleracea because it is a dark leafy green meaning it is rich in chlorophyll. Chlorophyll is the pigment that absorbs energy from light making spinach an efficient photosynthesizer. Our independent variable is the different salts: kosher salt, sea salt, and iodized salt and our dependent variable is the photosynthetic activity of each solution. We were able to measure the photosynthetic activity of these solutions using the Hill reaction. The reduction of DCIP during the reaction indicates high level of photosynthesis [WFUSakai: 2018]. We hypothesized that the chloroplast solutions with salt would result in high absorption values indicating low photosynthesis levels compared to the control solution, and a subsequent increase in DCIP levels.  
+
+Materials and Methods:
+We first created chloroplast enriched solutions from the spinach leaves. Four deveined spinach leaves were packed into a cooled mortar with 10 ml of grinding buffer (400 mM sucrose in Tricine buffer of pH 8) and grinded using a pestle to create a thick paste. Then 10 additional ml of grinding buffer were mixed with the spinach slurry and strained through three layers of cheesecloth into a chilled beaker. The green liquid was then transferred into a chilled centrifuge tube marked “A” and spinned at 1200 rpm in an RT-7 centrifuge for three minutes at 4C. The supernatant liquid of tube A was then transferred into a second chilled centrifuge tube marked “B” and centrifuged at 2800 rpm for ten minutes at 4C. The supernatant liquid was poured into a third tube and placed on ice. Thirteen test tubes were then created as follows: one blank, three controls, three solutions with iodized salt, three solutions with kosher salt, and three solutions with sea salt. To create the blank 8 ml of water and 2 ml of reaction buffer (100 mM phosphate of pH 6.5) were combined. To create the control 6 ml of water, 2 ml of 130 mM of DCIP, and 2 ml of reaction buffer were combined. For each salt solution 6 ml of water, 2 ml of 130 mM of DCIP, and 2 ml of reaction buffer were combined and 0.14 grams of salt to create a 400mM concentration. 100 uL of enriched chloroplasts previously prepared was added to all tubes and mixed immediately. Each solution was transferred into spectrophotometer cuvettes. Using the blank solution the spectrophotometer was zeroed at 600 nm. The absorption of each solution was immediately measured at 600 nm. The solutions were placed under a light and the absorption of each  solution was remeasured using the spectrophotometer after ten minute intervals repeated three times for a total of thirty minutes. These result were recorded and compared to one another using a two sample T-test comparing the mean value of the absorbance of each salt at each time to the average absorbance of the control at each time. 
+
+
+Results:
+The absorbance values for the control as well as the three salt solutions raised as time passed. The control had a 50.3% raise in absorbance; the iodized salt solution had a 53.4% raise in absorbance; the kosher salt solution had a 58.5% raise in absorbance; and the sea salt solution had a 39.1% raise in absorbance. The T-tests for each salt solution comparing the mean absorbance value of the salt solutions and the control resulted in statistically insignificant P-values, all above 0.05. 
+
+
+Discussion:
+Photosynthesis is an integral biosynthetic pathway to all living organisms. The process of photosynthesis allows organisms to harvest light energy to synthesize food and produce ATP to power cellular processes. Photosynthesis not only produces energy, but also provides oxygen as a byproduct sustaining life for all breathing organisms. 
+Herbicides are used to manage unwanted vegetation by disrupting the process of photosynthesis. The issue with herbicides is that they are extremely toxic to the environment and surrounding living organisms. The purpose of this experiment was to see if salt could be a possible natural herbicide by disrupting the electron transport necessary for photosynthesis to function. We utilized enriched chloroplast solutions from spinach leaves as the photosynthesizers, DCIP solution to be able to measure photosynthetic activity, different types of salts as the independent variable, and grinding buffer solution for our study.
+We hypothesized that the chloroplast solutions with salt would display lower rates of photosynthesis than the control solution without salt. Our hypothesis was not supported by the data we obtained. There was no statistical significance between the difference in absorption of the control group and iodized salt, kosher salt, or sea salt meaning there was no drop in photosynthetic activity in any of the salt solutions.
+ In a study conducted on the sodium transport of plants, it was found that salinity limits plant growth due to the change in the K+/Na+ ion ratio. Different plants have different tolerance toward salinity in that they can utilize energy obtained through photosynthesis in sodium extrusion, but other organisms cannot [Blumwald: 2000]. Spinach may have a high sodium tolerance, but there is not sufficient research done on Spinacia oleracea in this regard to know for certain. If this were the case, we could have made solutions with varying higher concentrations of salt and rerun the experiment. 
+Another study executed regarding sodium’s effect on maize found that salt stress does not necessarily affect the process of photosynthesis directly, but rather affects the behavior of the stomatal openings of the plant. When there is an accumulation of sodium, the small pores on leaves close up in order to retain water. The closing of the stomata prevent the intake of carbon dioxide, an essential input of photosynthesis [Azevedo: 2004]. In  our experiment, we crushed up the leaves and focused on the chloroplast function of the plant, but perhaps if we had left the plant intact perhaps we would see if sodium affects photosynthesis indirectly. 
+Overall, this experiment did not support the idea of utilizing salt as a natural herbicide. Perhaps if we had altered sodium concentrations used or kept the spinach in its natural form, we would have obtained different results. In the future we could also utilize different plants to avoid getting inconclusive results with a plant of high sodium tolerance. 
+
+
+Literature Cited:
+Allakhverdiev, S. I., Sakamoto, A., Nishiyama, Y., Inaba, M., & Murata, N. (2000). Ionic and 
+osmotic effects of NaCl-induced inactivation of photosystems I and II in Synechococcus sp. Plant Physiology, 123(3), 1047–1056. https://doi.org/10.1104/pp.123.3.1047
+Azevedo Neto, A. D. de, Prisco, J. T., Enéas-Filho, J., Lacerda, C. F. de, Silva, J. V., Costa, P. H. 
+A. da, & Gomes-Filho, E. (2004). Effects of salt stress on plant growth, stomatal response and solute accumulation of different maize genotypes. Brazilian Journal of Plant Physiology, 16(1), 31–38. https://doi.org/10.1590/S1677-04202004000100005
+Blumwald, E., Aharon, G. S., & Apse, M. P. (2000). Sodium transport in plant cells. Biochimica 
+et Biophysica Acta (BBA) - Biomembranes, 1465(1), 140–151. https://doi.org/10.1016/S0005-2736(00)00135-8
+Ventrella, A., Catucci, L., & Agostiano, A. (2010). Herbicides affect fluorescence and electron 
+transfer activity of spinach chloroplasts, thylakoid membranes and isolated Photosystem 
+II. Bioelectrochemistry, 79(1), 43–49. https://doi.org/10.1016/j.bioelechem. 2009.10.008
+WFUSakai : BIO 214 lab Fall 2018 : 214.2 Photosynthesis. (n.d.). Retrieved October 26, 2018, from 
+https://sakai.wfu.edu/portal/site/7d5834ae-27e0-4c39-ad07-1f06e0027bca/tool/de5e6d4c-77d5-458b-bf62-02e9b2ef520a
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-26+at+3.06.20+PM.png&Size=46201&Type=image%2Fpng&F=F_3lug1xZlUQ6UlI2
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-26+at+3.06.30+PM.png&Size=55030&Type=image%2Fpng&F=F_86q0acUCrTZeTpT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+These tables show the results of the one tailed two sample T-test comparing the mean value of the absorbance of each salt solution to the average absorbance of the control. 
+
+This graph visually displays the percent difference of between each time interval of the control and three salt solutions. 
+*************************************************************************
+
+
+

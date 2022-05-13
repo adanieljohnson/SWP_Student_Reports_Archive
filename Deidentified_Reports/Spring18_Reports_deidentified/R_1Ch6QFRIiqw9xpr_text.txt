@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-21 11:44:46
+Author of this lab report is: Std_EwTMCbzG
+ID: R_1Ch6QFRIiqw9xpr
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The effect of a 20E inhibitor (Azamax) on the growth of Manduca sexta
+
+Abstract:
+We believe that blocking the commitment pulse with a 20E inhibitor will correspond to a significant decrease in growth for Manduca Sexta. We tested the effects of the known 20E inhibitor Azamax on the insect Manduca Sexta to determine whether it would block the commitment pulse which we measured with a  corresponding decrease in weight compared to a control group. We fed our control standard tobacco hornworm food mixed with water, and our treatment group the same diet with a 1:1250 dilute aqueous solution of Azamax, instead of water. After weighing the caterpillars every day we concluded using a two-sample t-test that the treatment group weight was significantly lower than that of the control group. We rejected our initial null hypothesis.
+
+
+Introduction:
+The insect Manduca Sexta uses hormones to control and regulate when it ecloses to the next stage of its life cycle. These hormones are Juvenile Hormone (JH) and 20E.[1] A decrease in JH corresponds and a spike in 20E known as the commitment pulse triggers eclosion to the next stage. Thus the question arises on whether or not we can block the commitment pulse by inhibiting 20E. Using a 1:1250 dilute aqueous solution of Azamax, a known 20E inhibitor, we intend to block the commitment pulse of 20E. We believe that this will correspond with a significant decrease in growth. Their growth will be dependent on the diet we feed them and whether it contains a commitment blocker or not. 
+
+
+Materials and Methods:
+Our six Manduca Sexta were divided into groups of 3, and each individual organism was placed in plastic containers with two caterpillars to a cup.  The cups were divided I the middle with paper to prevent the caterpillars from crossing over to the other side. 
+One group was fed a diet containing 5 drops of 1:1250 dilute aqueous Azamax in their food, the other our control group was fed a diet containing 5 drops of water instead. 
+They were fed their respective diets for one week with their weights and lengths being recorded every day. Our caterpillars were each given 10 grams of food and fed as needed every day, and they were kept in an incubator for the duration of the experiment. Our results were collected and analyzed using two sample T-test. 
+
+
+Results:
+The control group gained significant weight with one subject gaining 9.26 grams in one week.[2] The treatment did not gain a significant amount of weight, with one subject gaining only .56 grams.[3]  At the conclusion of the week, the mean weight for our control group was 9.76 grams and the mean weight for our treatment group was 2.48 grams.[4]
+Throughout the week the treatment group was observed to be less mobile, active and more lethargic than the control group. The control organisms were a bright green and appeared very healthy compared to the sickly treatment organisms. The control group gained more weight than the treatment group in terms of raw mass accumulated. 
+
+
+Discussion:
+Our results did support our hypothesis. It appeared to show a strong connection between the Azamax diet and a decrease in growth our data and calculations did support that at α = .05[5] Using a two-sample t-test for our data comparing the mean weight of the control to the mean weight of the treatments we received a p=.032 for α = .05 Thus we reject the null hypothesis that The Azamax diet will not cause a significant decrease in the mean weight of Manduca Sexta.[5] We thus accept our alternate hypothesis that the Azamax diet will cause a significant decrease in mean weight compared to our control group.
+It appears that the growth of the control group maintains a stable increasing positive trend of growth. [4] Our treatment group had very little growth, with some organisms even losing the weight that they had gained. This could possibly be explained by the subject defecating waste after being weighed it is not likely as this waste would have to be greater than the mass of the nutrients the organism would take up the next day. It is possible that the treatment organism that lost weight did so because it was approaching a lethal dose of Azamax.
+
+
+Literature Cited:
+1. Johnson AD. Hormone Regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated January 5, 2018), pp. 15-16.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+2.JPG&Size=66829&Type=image%2Fjpeg&F=F_d0Zfk6odPgJkjRj
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+3.JPG&Size=67809&Type=image%2Fjpeg&F=F_25AoIFeTQGanxgp
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+4.JPG&Size=25914&Type=image%2Fjpeg&F=F_9t3QG9L3hGgG01T
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=table+5.JPG&Size=47154&Type=image%2Fjpeg&F=F_38XFfkDKu1Y75Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig 1 Mean weight of control over one week
+Fig 2 Mean weight of treatment group over one week
+Fig 3 graph tracking mean weights of groups over one week
+Fig 4 two sample t-test of the control and the treatment mean weight over one week
+
+*************************************************************************

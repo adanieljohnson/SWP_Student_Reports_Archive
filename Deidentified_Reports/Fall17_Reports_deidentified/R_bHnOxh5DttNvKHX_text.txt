@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-26 22:18:37
+Author of this lab report is: Std_ezPXqwYY
+Course number: BIO102L
+TA: TA_DWpyQsWn
+*************************************************************************
+Title: The effect of sulfuric acid to photosynthesis of chloroplast in spinach leaves
+
+Abstract:
+        Plants undergo photosynthesis to capture solar energy. Carbon dioxide and water molecules are consumed to make glucose while oxygen is produced as a waste. Low pH can affect the mechanisms of photosynthesis because the electron transport chain is hindered. In this experiment, we examined the effect of sulfuric acid to the photosynthetic function of chloroplasts extracted from the leaves of spinach (Spinacia oleracea). Two concentrations of sulfuric acid (10mM and 100mM) had been added to the chloroplasts, and we expected to see that higher concentration of sulfuric acid would suppress photosynthesis more. We also compared photosynthesis rate of the normal chloroplasts to chloroplasts with the addition of sulfuric acid. Hill reaction was used to measure the rate of photosynthesis. In conclusion, we found there was no significant difference of the photosynthesis rate for low and high concentration, and photosynthesis rate of the control group had no significant difference comparing to the experimental group (p>0.05). Experimental errors had been found and further studies are required to support our hypothesis. Inhibition of photosynthesis by acidification lead to the problems caused by acid rain to plants, which could lead to further problems. 
+
+
+Introduction:
+        Plants use photosynthesis to capture solar energy and store energy mainly in the form of glucose (6CO2 + 6H2O ------> C6H12O6 + 6O2). The photosynthetic process requires light, chlorophyll, Mn2+ ions, electron transport complexes, and a proton gradient. Light-dependent reaction and light-independent reaction are the two major parts of photosynthesis. Light-dependent reaction creates a proton gradient to drive ATP synthesis and light-independent reaction creates 6-carbon glucose molecule. [Johnson: 2017]
+
+	Environmental conditions, chemicals, and some other abiotic factors will affect the photosynthetic rate, which will ultimately impact the ecosystem. Acid rain is one of the problematic environmental factors that damages plants, and the major air pollutants that create acid rain are sulfur dioxide, nitrogen, and carbon dioxide. Sulfur dioxide (SO2) and hydrogen sulfide (H2S) come from volcanoes, other natural sources, and industrial waste. Both of them become sulfuric acid in the atmosphere after being hydrolyzed by water vapor. Human activities increase the emission of sulfur dioxide to the atmosphere due to the combustion of fossil fuels, and the presence of sulfuric acid is able to acidify precipitation to below pH 5.6 [Likens: 1979].
+
+The effect of acidic condition to photosynthesis was tested in this experiment. Since it is difficult to measure ATP production, we apply Hill Reaction as an alternative way to measure the rate of photosynthesis. Hill reaction is the general process of electron transfer in photosynthesis in the presence of light, which can be summarized by 2 H2O + 2 A----->2 AH2 + O2 (Substance “A” is the electron acceptor, and AH2 is its reduced form). We will place 2,6-dichlorophenol indophenol (DCPIP), an alternative electron acceptor, in the chloroplast mixture to visualize photosynthesis rate. When DCPIP is reduced after accepting electrons, it becomes colorless. Hence the decrease in light absorbance indicate the occurrence of photosynthesis. [Johnson: 2017]
+
+A past experiment on the effects and mechanism of acid rain on plant chloroplast ATP synthase showed that acid rain at pH 4 or less destroyed chloroplast structure, inhibited the expression of six chloroplast ATP synthase subunits, decreased chloroplast ATP synthase activity, and reduced photosynthesis and plant growth. It was clear that the lower pH of the acid rain resulted in further inhibition of the ATPase activity [Sun: 2016].
+
+The purpose of this experiment is to investigate the effect of sulfuric acid on photosynthesis rate. Chloroplasts from spinach leaves are extracted and utilized for this experiment. Spinach (Spinacia oleracea) is a good model to study photosynthesis because spinach leaves contain a high amount of chlorophyll, which is the main organelle undergo photosynthesis. We will compare the effect of low concentration sulfuric acid (10mM) to the effect of high concentration acid (100mM) on the photosynthesis rate. In addition, comparisons of photosynthesis between both chloroplasts with 10mM and 100mM sulfuric acid to the chloroplast without sulfuric acid have been made. Our hypothesis is that if sulfuric acid has been added to the chloroplast, then the photosynthesis ability will be significantly different than that of the control group when sulfuric acid is not added. In addition, if more concentrated sulfuric acid has been added to chloroplast, then photosynthesis process will be more inhibited. 
+
+
+Materials and Methods:
+        The large central veins of the 4 medium size spinach leaves were removed, and then the leaves were rinsed and dried. Then, 10 mL of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) was added to the spinach leaves and chilled mortar and pestle were used to grind the leaves. After grinding, another 10mL of grinding buffer was added, and the entire spinach slurry was strained through three layers of cheesecloth into a chilled beaker. After that, the green liquid was transferred to a chilled 50mL centrifuge tube, which was then spun at 200 x G (200 times the force of gravity; 1200 rpm in the RT-7 centrifuge) for 3 minutes at 4C. The centrifuge was balanced before spinning. Then, the supernatant of the centrifuge was transferred to a new chilled centrifuge and span at 1,000 x G (2800 rpm in the RT-7 centrifuge) for 10 minutes at 4C. After spinning, the supernatant of the second centrifuge was removed, and 20mL of grinding buffer was added to the pellet that was left at the bottom of the centrifuge and which contained concentrated chloroplasts in order to re-suspend the chloroplasts. Then, we prepared 3 replicates of the control test tubes which contained chloroplasts, 130 mM DCPIP, water, and reaction buffer (100 mM phosphate, pH 6.5); 3 replicates of chloroplasts and low concentration sulfuric acid mixture test tubes which contained chloroplasts, 130 mM DCPIP, reaction buffer, and 10Mm sulfuric acid; 3 replicates of chloroplasts and high concentration sulfuric acid mixture test tubes which contained chloroplasts, 130 mM DCPIP, reaction buffer, and 100Mm sulfuric acid; and one blank test tube which contained water and reaction buffer. All of the mixtures were placed under light, and the absorbance of each mixture was taken using spectrophotometer at 0 minutes, 10 minutes, 20 minutes, and 30 minutes after the samples had been made. The “% change” in absorbance at 10, 20, and 30 minutes were calculated to demonstrate photosynthesis rate. The following formula had been used % change = [(Absorbance at time zero – Absorbance at time ‘N’ )/ Absorbance at time zero]  x 100%. High absorbance reflects low photosynthesis activity and low absorbance reflects high photosynthesis activity. [Johnson: 2017]
+
+        We used one-tailed T-test to analyze the difference of the effect of low concentration sulfuric acid to the photosynthesis reaction and the effect of high concentration sulfuric acid to the photosynthesis reaction. The null hypothesis is that there is no statistically significant difference between the low concentration group and the high concentration group. The alternative hypothesis is that the mean of high concentration group is statistically significantly lower than that of the low concentration group.
+
+In addition, we used two-tailed T-test to compare the effect of photosynthesis reaction by low concentration (10mM) sulfuric acid to the control (no acid) as well as to compare the effect of photosynthesis reaction by high concentration sulfuric acid(100mM) to the control (no acid). The null hypothesis is that there is no statistically significant difference between the control group’s mean and each of the experimental group (low and high concentration of sulfuric acid). The alternative hypothesis is that the means between the two groups (control and low/control and high) are statistically significantly different.
+
+
+Results:
+        Result from two-tailed T test for the comparison between chloroplast in light (control group) and chloroplast in light with low concentration sulfuric acid (10mM sulfuric acid) has no significant difference (t-stat = 2.64, df = 3, P = 0.077). Result from two-tailed T test for the comparison between chloroplast in light (control group) and chloroplast in light with high concentration sulfuric acid (100mM sulfuric acid) has no significant difference (t-stat = 1.15, df = 3, P = 0.334). Result from one tailed T test for the comparison between chloroplast in low concentration sulfuric acid (10mM) and high concentration sulfuric acid (100mM) has no significant difference (t-stat = -2.14, df=3, p=0.061). Note: after 10mM sulfuric acid and was added to chloroplast mix, DCPIP immediately turned pink; after 100mM sulfuric acid was added to the chloroplast mix, DCPIP turned colorless. 
+
+
+
+Discussion:
+        The null hypothesis from the T-tests was accepted that there is no statistically significant difference between the low concentration group and the high concentration group (p>0.05); and there is no statistically significant difference between the control group’s mean and each of the experimental group (low and high concentration of sulfuric acid) (p>0.05). Hence, our hypothesis was not supported. 
+
+	An evident error in our experiment was that we added the sulfuric acid after DCPIP was added to the chloroplast mix, which destroyed the function of DCPIP since the molecule is reduced at low pH condition. DCPIP is blue in base (DCPIP-) and pink in acid (DCPIPH). The pink form can be reduced by ascorbic acid to a colorless form (DCPIPH2), which aligned with our observation that 10mM sulfuric acid turned the mixture from blue to pink while 100mM sulfuric acid turned the mixture from blue to colorless. One way to improve our experiment is to treat chloroplast with the sulfuric acid before the second spin of the centrifuge. 
+
+	 Nevertheless, a previous study on pH-Dependent regulation of electron transport and ATP synthesis in chloroplasts showed evidence that low pH condition will reduce photosynthesis mechanism. It pointed out that the light-induced acidification of the thylakoid lumen would impede the electron flow between PSII and PSI because acidification decreased the plastoquinol oxidation by the cytochrome b6f complex. The study indicated that a  mild acidification of the thylakoid lumen (pH ≥ 5.5–6.2) did not cause significant inhibition to the PSII reaction center or the water splitting complexes, while light-induced decrease in pH induced a significant deceleration of electron flux from PSII to the intersystem ETC and the oxygen production was at the lowest at pK ~ 4.5. The study also suggested that another reason for the dramatic reduction in PSII activity at low pH condition was in fact caused by the augmentation of heat dissipation of energy in the light-harvesting antenna. Besides, the function of ATP synthase was suppressed [Tikhonov: 2013].
+
+	Another study on the effects of Low pH on Photosynthesis of Citrus showed similar results. They concluded that photoinhibition damaged PSII complexes of the citrus leaves at pH 2.5, and PSII acceptor side was more severely damaged than the PSII donor side [Long: 2017]. 
+
+	Due to those previous studies on the effect of acidification of chloroplast to photosynthesis rate, I propose that acid environment would impede the production of oxygen and glucose. In the future, I would like to study the effect of acid soil to seed germination, and compare that to the plants that grow in normal pH soil. Furthermore, the inhibition of photosynthesis in chloroplast suggest the inhibition of plant growth in acidic environment, which suggests that the acid rain caused by human activity and increased industrial pollution is a considerably problematic. It might cause gene mutation in plants, which might lead to health-related problems to the consumers of those mutated plants. 
+
+
+
+
+Literature Cited:
+
+1.Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated August 11, 2017).
+
+2.Likens, Gene E., et al. “Acid Rain.” Vol. 241, no. 4, 1979, pp. 43–51., www.jstor.org/stable/24965312. Accessed 26 Oct. 2017.
+
+3.Long, An et al. “Effects of Low pH on Photosynthesis, Related Physiological Parameters, and Nutrient Profiles of Citrus.” Frontiers in Plant Science 8 (2017): 185. PMC. Web. 27 Oct. 2017.
+
+4.Sun, Jingwen, et al. “Effects and Mechanism of Acid Rain on Plant Chloroplast ATP Synthase.” Environmental Science and Pollution Research, vol. 23, no. 18, Aug. 2016, pp. 18296–18306., doi:10.1007/s11356-016-7016-3.
+
+5.Tikhonov, Alexander N. “PH-Dependent Regulation of Electron Transport and ATP Synthesis in Chloroplasts.” Photosynthesis Research, vol. 116, no. 2-3, 2013, pp. 511–534., doi:10.1007/s11120-013-9845-y.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=lab+report+results+fig.png&Size=52714&Type=image%2Fpng&F=F_ctBUtAzpDBT7kuF
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig. 1: The absorbance of chloroplast mixtures over 30-minute time interval. Variable 1 (control: chloroplast in light) mean avg. abs. are 0, 29.612, 49.440, 63.959 at time 0, 10, 20, 30 min.  Variable 2 (experimental 1: chloroplast in light with 10mM sulfuric acid) mean avg. abs. are 0, 4.264, 8.916, 13.204 at time 0, 10, 20, 30 min. Variable 3 (experimental 2: chloroplast in light with 100mM sulfuric acid) are 0, 38.148, 31.560, 21.218 at time 0, 10, 20, 30 min. Results from T tests: t(3)=2.64, p=0.77 when compare control to experimental 1; t(3)=1.15, p=0.334 when compare control to experimental 2; t(3)=-2.14, p=0.061 when compare experimental 1 to experimental 2. 
+
+
+*************************************************************************

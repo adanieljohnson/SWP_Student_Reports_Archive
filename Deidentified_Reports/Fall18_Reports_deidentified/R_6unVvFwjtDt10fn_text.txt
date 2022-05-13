@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-15 13:16:23
+Author of this lab report is: Std_sY0KSwLe
+ID: R_6unVvFwjtDt10fn
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Lidocaine applied to sciatic nerve effects muscle twitch response in Rana pipiens
+
+Abstract:
+Muscle contractions in animals are controlled by nerves, which use action potentials to transfer signals. Sodium channels in the nerve are essential to this process. In this experiment, a sodium channel called lidocaine was applied to the sciatic nerve of three frog legs (Rana pipiens) to see if it had an effect on muscle twitch when stimulated. The hypothesis is that the lidocaine would reduce muscle movement when applied to the sciatic nerve. Upon conducting the experiment, there was a greatly reduced muscle movement after the application of the sodium channel blocker (P=0.000463). This clearly supports the hypothesis. Even with such significant data, the high variation of difference among test groups warrants a repeated experiment with a larger sample size. However, it was still successful, and this type of experiment can help determine the effect of sodium channels on nerve impulses in similar cases. 
+
+Introduction:
+Muscle contractions in animals are controlled by nerves, which use action potentials for signaling. Action potentials work, on a simple level, by causing a chain reaction of chemical signals down a nerve. Sodium channels are essential to this process, so sodium channel blockers such as lidocaine effectively block nerve signals [Slater: 2015]. Such chemicals are currently being studied for their potential use in pain relief [Favreau: 2012]. In this experiment, we will test the effect of the sodium channel blocker lidocaine on the gastrocnemius muscle of the northern leopard frog (Rana pipiens). Frogs use their hind legs for jumping and swimming, and their muscles are required to be quite powerful, so they make a good subject for this kind of test. Similar chemicals such as µ-CnIIIC are known to block muscle contractions in mice  [Favreau: 2012]. Our hypothesis is that muscle movement will be reduced after the treatment of 25 millimolar lidocaine sodium channel blocker. 
+
+Materials and Methods:
+Three frog legs were acquired, each leg to be its own control. Each leg in turn was prepared for the experiment by being skinned and having its gastrocnemius muscle and sciatic nerve exposed. Then one by one they were pinned to a board and attached to the iWorx electrophysiological recorder by the gastrocnemius muscle, with the sciatic nerve open for access. Probes were attached to the sciatic nerve. When the subject was readied for testing, the iWorx software was used to send electricity at specific voltages that through the probes, stimulating the muscle and causing twitch responses. Voltages used were 0.3, 0.5, and 2.0. The muscle responses were measured through a small force gauge that outputted the data on a computer. Each leg was tested once without any added chemicals and was then injected with a 25 millimolar lidocaine sodium channel blocker. The leg was given a wait period of about 10 minutes to allow the lidocaine to take effect. The twitch responses were then measured again. This test was repeated for each leg in turn. The data were collected, and each set of control data were compared to their corresponding experimental data. They were then run through a paired t-test. 
+
+Results:
+The experimental group showed reduced muscle twitches, with a highly significant difference (P=0.000463), as shown in figure 1. There is a very clear reduction in twitch response after the application of the lidocaine solution. There were several noteworthy trends, one of which being the fact that leg 2 had a greatly reduced difference compared to the other legs. When the control test was compared to the experimental text, leg 2 had a difference of 0.202 volts, whereas legs 1 and 3 had 0.613 and 0.753 respectively. This difference is shown clearly in figure 1. 
+
+Discussion:
+The data show that the after the injection of lidocaine solution, muscle twitch responses were significantly lessened. This supports the hypothesis that muscle movement would be reduced after the treatment of the lidocaine sodium channel blocker. This is likely due to the lidocaine blocking the nerve impulses that would otherwise activate the muscle. This is to be expected, because action potentials are dependent on sodium channels remaining active. Chemicals like lidocaine are known to cause these results [Slater: 2015]. In mice, a similar sodium channel blocker called µ-CnIIIC also blocked muscle contractions. The results of this experiment were, based on similar studies, to be expected, but the effects could have many practical applications. µ-CnIIIC is found in certain types of cone snail that use the toxin to paralyze their prey, and the chemical is being tested as a pain reliever [Favreau: 2012] and lidocaine’s paralytic effect is used in anesthetics. 
+A potential source of error was that leg 2 was the only leg to result in a relatively low response at higher voltage during the control test, only 0.463 when the other two legs were over 1. This is likely due to an effect where the electrical pulses activate other muscles, diminishing the response read by the gastrocnemius muscle being tested. It is unknown why only this leg exhibited this response. This likely had some effect on the data, though the results were still highly significant. This small source of error almost certainly wouldn’t have effected the experiment with a larger sample size. A future experiment would have many more legs, and research into the prevention of this “grounding” effect would hopefully stop it in the future. 
+
+
+Literature Cited:
+Favreau P, Benoit E, Hocking HG, Carlier L, D’ hoedt D, Leipold E, Markgraf R, Schlumberger S, Córdova MA, Gaertner H, et al. 2012. A novel µ-conopeptide, CnIIIC, exerts potent and preferential inhibition of NaV1.2/1.4 channels and blocks neuronal nicotinic acetylcholine receptors. Br J Pharmacol. 166(5):1654–1668. doi:10.1111/j.1476-5381.2012.01837.x.
+Slater CR. 2015. The functional organization of motor nerve terminals. Progress in Neurobiology. 134:55–103. doi:10.1016/j.pneurobio.2015.09.004.
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+figure+1+revision.JPG&Size=33344&Type=image%2Fjpeg&F=F_w1aP7KDGoQdGiFH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average difference in twitch responses before and after injection of lidocaine by frog leg. Note comparatively small difference with Leg 2. *************************************************************************
+
+
+

@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 21:21:07
+Author of this lab report is: Std_duu6DQW6
+ID: R_3oI27qDwLUuqyaA
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: The inhibition of phospholipase C and shortening of contractile oscillations by neomycin in Physarum polycephalum
+
+Abstract:
+Signaling pathways, such as those that utilize G protein coupled receptors (GPCRs), allow organisms to gain information about themselves and their environment and coordinate a response. For this reason, GPCRs are often the target of antibiotics seeking to disrupt the function or motility of a cell. In this study we determine the effects of the antibiotic neomycin on the cytoplasmic streaming or oscillations of Physarum polycephalum in vitro. We treated P. polycephalum with 100 µl of 0.23mM neomycin and measured the duration between contractile oscillations for 21 minutes after treatment. We found that after 21 minutes, neomycin significantly decreased the duration between oscillations of the P. polycephalum. We speculate that this outcome is the result of Ca2+ inhibition from the blocked IP3 pathway. This could potentially have important applications for medicine since studying the mechanism of an antibiotic can help us better combat antibiotic resistance.
+
+
+Introduction:
+Signaling pathways are essential for the function of all organisms. They allow organisms to gain information about themselves and their environment and coordinate a response. One common signaling method involves G protein coupled receptors (GPCRs) and second messengers to rely a signal. GPCRs consist of a G protein and three subunits called α, β and γ.  GPCRs function by undergoing a conformational change when a ligand binds to them [Naima et al: 2011]. This change causes the α subunit to disconnect from the GPCR and target other proteins to relay the signal on to other messengers or their final target [Naima et al: 2011]. 
+	One pathway we are focusing on is the IP3 mediated pathway. This pathway consists of a GPCR, an effector enzyme called phospholipase C (PLC), and the second messengers diacylglycerol and IP3 [Szent-Gyorgyi: 1975]. When stimulated by a ligand the α subunit of the GPCR activates PLC which subsequently produces diacylglycerol and IP3 [Szent-Gyorgyi: 1975]. IP3 binds to a receptor in the smooth ER which subsequently opens Ca2+ channels [Szent-Gyorgyi: 1975]. Ca2+ is an important ion for movement and contractions since it allows actin and myosin to interact [Szent-Gyorgyi: 1975]. Additionally, we are considering the effects of the antibiotic neomycin on this pathway. Neomycin is known to inhibit the operation of PLC, preventing the enzyme from facilitating the production of IP3 [Matveeva et al: 2014]. Without IP3, the smooth ER Ca2+ channels in the smooth ER are not opened, even if the GPCR is bound to a ligand since PLC has been inhibited. This effect can have a great impact on organisms that rely on contractions for survival.
+In this study we are using Physarum polycephalum as our model organism. P. polycephalum is an ideal model since it is known to have the IP3 pathway and grows readily on agar with oatmeal. P. polycephalum is a large multinucleated amoeboid cell which utilizes cytoplasmic streaming with cytoplasmic streaming and contractile oscillations as a method of circulating resources and waste [Matveeva et al: 2014]. This suggests that the IP3 pathway is very important to P. polycephalum and the inhibition of PLC might cause noticeable changes in its behavior. One potential mechanism which neomycin could impact is the actin myosin interactions within P. polycephalum. P. polycephalum is known to use actin and myosin for some contractile movements so it is possible that the inhibition of Ca2+ could inhibit the actin myosin interactions [Ishikawa et al 1991].
+Our hypothesis states that through the inhibition of PLC neomycin shortens the duration of oscillations in the cytoplasm of P. polycephalum. 
+
+
+Materials and Methods:
+We obtained fresh water agar plates of P. polycephalum of similar size and age. The plates were made by placing two 1 cm3 cubes of P. polycephalum and roughly 6 oats onto the agar and growing in constant darkness at 37°C for 5 days.  Each plate was observed under a phase contrast microscope at 20x magnification and large visible strands of P. polycephalum were identified. While keeping each plate under the microscope we pipetted 100µl of deionized water on top of the strand being viewed. We then recorded the time between direction changes in the cytoplasmic streaming of that strand to serve as our control. We then carefully removed the water with a micropipetter making sure not to disturb the strand. The strand was then treated with 100µl of neomycin solution (142ug/ml neomycin produced from a 1:6 dilution of 1 mg/ml concentrated neomycin). The time between cytoplasmic streaming direction changes were then measured at 1 minute, 11 minutes, and 21 minutes after adding neomycin to the strand. We analyzed our data with a two sample paired t-test comparing the mean of each of the three times after adding neomycin to the control with water.
+
+
+Results:
+The treatment with neomycin for 21 minutes significantly decreased the time between oscillations comparted to the water treatment control (t(2)= 6.120, p= 0.0257). However, the neomycin treatments at 11 minutes at 1 minute did not significantly reduce the P. polycephalum’s oscillations as compared to water, 11 minute: (t(2)= 1.539, p= 0.264) and 1 minute: (t(2)= -0.249, p= 0.826). The overall trend in all three treatments with neomycin was a reduced duration between contractile oscillations.
+
+
+
+Discussion:
+The data support our hypothesis that neomycin will shorten the duration of oscillations in the cytoplasm of P. polycephalum. Our 21 minute neomycin treatment significantly reduced the duration between oscillations in P. polycephalum when compared to the control with water. The 1 minute and 11 minute treatments, while not significant, also followed this downward trend in duration. 
+	Previous studies have also demonstrated that neomycin can reduce the duration of contractile oscillations in P. polycephalum. Mateeva et al. found that a 0.1-5.0mM concentration of neomycin initially stopped all oscillations and after half an hour shortened the oscillations [Matveeva et al: 2014]. Our study did not find the same termination of contractile oscillations but we did find that the oscillations shortened after 21 minutes which is similar to the 30 minutes of Mateeva et al. Additionally our treatment of 142ug/ml neomycin (which is roughly 0.23mM) is comparable to the 0.1-5.0mM neomycin concentration in Mateeva et al. which further suggests that this concentration of neomycin is sufficient in reducing the duration of contractile oscillations. Since our neomycin concentration was on the lower end of the range used in Mateeva et al. it is also possible that the full stop of contractile oscillations might occur only at the higher concentrations of neomycin (i.e. closer to 5.0mM). Grigoriev et al. found that neomycin was able to inhibit Ca2+ channels indirectly by inhibiting PLC [Grigoriev: 2016]. Grigoriev et al. suggested that the rapid oscillations are the result of the plasmodial membrane attaching and detaching from the media. This would also support the theory that Ca2+ inhibition causes the change in duration of oscillations since Ca2+ is essential for the function of calcium binding proteins [Grigoriev: 2016]. 
+
+	Future studies with higher concentrations of neomycin could be conducted to determine if the contractile oscillations will completely stop or if they will just continue to shorten. A study could be conducted with a different inhibitor for the IP3 pathway, this could be a similar PLC inhibitor or an inhibitor at a different step before Ca2+ is released from the smooth ER. This would help determine if the IP3 pathway and blocking of Ca2+ release is responsible for the shortening of the contractile oscillations. Additionally, a study comparing the effects of Ca2+ inhibition on calcium binding proteins and on actin myosin contractions could reveal which of these two possible mechanisms is responsible for the changes in duration of oscillations.
+	The impact of neomycin on the IP3 pathway of P. polycephalum has broader implications outside of this model species. Neomycin is a commonly used antibiotic, this means that it is likely for pathogens to develop mutations that reduce its effectiveness. In Gaining a better understanding of how neomycin functions we can develop other antibiotics or treatments that will still function on resistant pathogens. 
+
+
+Literature Cited:
+1.	Naima Benbernou, Stephanie Robin, Sandrine Tacher, Maud Rimbault, Michaelle Rakotomanga, Francis Gilbert. 2011. cAMP and IP3 signaling pathways in HEK293 cells transfected with canine olfactory receptor genes. Journal of Heredity. 102: 47-61.
+2.	Matveeva NB, Beilina SI, Kliueva AA, Teplov VA. 2014. Involvement of phosphatidylinositol-4,5-bisphosphate binding proteins in the generation of contractile oscillations in the P. polycephalum plasmodium. Biofizika. 59: 933-940. 
+3.	Szent-Gyorgyi AG. 1975. Calcium regulation of muscle contraction. Biophysical Journal. 15: 707-723. 
+4.	Ishikawa R, Okagaki T, Higashi-Fujime, Kohama K. 1991. Stimulation of the interaction between actin and myosin by Physarum caldesmon-like protein and smooth muscle caldesmon. Journal of Biological chemistry. 266: 784-790.
+5.	Grigoriev PA, Mateeva NB, Teplov VA. 2016. The autowave electromechanical activity of the Physarum polycephalum plasmodium. Biofizika. 61: 941-949.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=57187&Type=image%2Fpng&F=F_cMBJ8kn6XxIp0bv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The mean time (in seconds) between oscillations of the cytoplasmic streaming of P. polycephalum with the water treatment as a control. 
+
+
+*************************************************************************

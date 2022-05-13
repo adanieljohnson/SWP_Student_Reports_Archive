@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-03 18:25:05
+Author of this lab report is: Std_oClDxpL8
+ID: R_2zYBBmInKySHr2Y
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Caffeine's Effects on Muscle Contraction Strength in Frog Legs
+
+Abstract:
+Stimulants can increase the power of muscle contractions in organisms, which can lead to fatigue or tetany being reached more quickly in the muscle. To look more closely at this phenomenon, we created an experiment to compare the force of contractions in frog legs both with and without caffeine to test this fact using a probe, and we also examined whether or not the muscle achieved chemically induced tetany. The difference in force in the legs with and without caffeine was found to be significant, the muscles did all reach tetany. This suggests that caffeine is a stimulant that increases the power of contractions and can cause chemically induced tetany. 
+
+
+Introduction:
+All vertebrates have a nervous system that communicates signals through electrical pulses, and a muscular system that aids in organismal movement. These two systems must communicate because it is nerves that send electrical signals to skeletal muscle cells prompting them to stimulate motion. After this stimulation, calcium is released from the sarcoplasmic reticulum (a portion of a muscle fiber, a sarcomere, that stores calcium until it is needed) and initiates contraction in the actin and myosin (Introduction N.d.). This movement of actin and myosin is known as the Sliding Filament Theory. Stimulants can increase the power of the contraction. One common example of a stimulant is caffeine; excess caffeine is known to cause muscle twitches and involuntary muscle contractions (Cherney: 2017). Due to this fact, we hypothesize that injecting caffeine into a muscle will then cause the muscle to have stronger contractions leading to a faster reached chemically induced tetany. As a test organism, we chose Lithobates pipiens for both its easy availability and its easily splittable gastrocnemius muscle. When its gastrocnemius muscle is injected with caffeine, it will have stronger contractions than before it was injected with the caffeine and it will reach chemically induced tetany quickly.
+
+
+Materials and Methods:
+	First, we prepared 3 frog legs for use in this experiment by skinning the leg, detaching the gastrocnemius muscle, and tying it so that it sat upright. We then attached the probe directly into the first frog leg’s gastrocnemius muscle and ran 5 myograms on the muscle at 2hz. Then, while the probe was still attached, we injected 1mL of caffeine into the gastrocnemius and ran 5 more myograms also at 2hz. We repeated this process on the other two legs. After, we recorded the average force of the no-caffeine contractions and the caffeine contractions for each leg to see if the force of the muscle contractions was stronger before or after the caffeine was injected. Each frog leg’s contractions with and without caffeine was only be compared to other contraction strengths made by the same frog leg, since each frog leg might have had different starting strengths. Contraction strengths by one leg cannot be compared to another leg. We then used these values to compare the force of the no-caffeine contraction to the caffeine contraction in each leg using a paired t-test to discover if the difference was statistically significant.
+
+
+Results:
+After the first 5 myograms, the muscles did not appear or feel different. However, after the second set of 5 myograms with caffeine, each muscle became very stiff to the touch and became slightly paler. We determined that this was because each muscle experienced chemically induced tetany after being extremely fatigued, and the myograms supported this thought. Addiotionally, our paired t-test yielded a p-value of 0.040, which is significant when compared to our alpha level of 0.05. 
+
+
+Discussion:
+Our significant paired t-test supports our hypothesis. The frog legs did experience significantly stronger contractions when exposed to caffeine, as predicted due to the compounds status as a stimulant (Introduction: N.d.). Additionally, due to the added stress of the stimulant, the muscles fatigued very quickly and reached chemically induced tetany (Cherney: 2017). This was likely induced quickly because of the high power of the muscle contractions that were occurring during the second set of 5 myograms. This leads to faster energy usage and faster fatigue, which leads to a more quickly reached tetany. These findings can be helpful in understanding caffeine’s effect on the body in humans as well as animals. Further research should be done into caffeine’s effect on the human body’s muscles while living since our research suggests that caffeine makes muscle contractions more strenuous on the muscle.
+
+
+
+
+Literature Cited:
+Introduction to the Muscular System. National Institute of Health. SEER Training. (n.d.) https://training.seer.cancer.gov/anatomy/muscular/
+
+Kristeen Cherney, Ann Pietrangelo. The Effects of Caffeine on Your Body. Healthline. (2017).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+n/a*************************************************************************
+
+
+

@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-20 21:08:40
+Author of this lab report is: Std_4lj9v4jw
+ID: R_21hKFpKaGS8LBSy
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: The Effects of Overwatering on Root to Shoot Ratio for Length and Weight in Vigna radiata
+
+Abstract:
+The main objective of this experiment is to test the effects of overwatering on the resource allocation of Vigna radiata or mung beans, specifically measuring the root:shoot ratio for length and weight. Our hypothesis was if there was an abundance of water, then the mung bean root:shoot ratio will be smaller in both length and weight in the experimental group compared to the control group. In this experiment we planted fifteen mung bean seedlings in six pots with vermiculite, three control and three experimental, and watered the control group 100 mL and the experimental group 300 mL every day for two weeks. After two weeks, we chose one mung bean per pot and recorded the root and shoot lengths and weights. To compare the two groups, a two-sample, one-tailed t-test was used and showed there was not a significant difference for the root:shoot ratio in weight and length. These results indicate overwatering does not have an effect on the weight or length of the roots versus the shoots. This experiment is important to the agricultural field because it affects the food production of many countries because it is a staple crop.
+
+Introduction:
+Plants need mechanisms to regulate water, sunlight, and chemicals, so they can maximize their growth and reproduction. Specifically, regulating water homeostasis is an important mechanism for plants because it directly affects its growth, development, and survival [Woo: 2007]. Typically, a species’ resources allocation is pre-determined genetically, but can be modified due to different environmental factors [Johnson: 2019]. For instance, the organism of study in this experiment – Vigna radiata (the mung bean) – is found in tropical and subtropical climates, such as India. The mung bean is an important legume in these areas; thus, it is essential to understand how different environmental factors may affect mung bean plant growth [Kousar: 2007]. Therefore, conducting research on mung beans and specifically how their root:shoot ratio changes based on various factors is vital because food production in these countries would be directly affected. 
+Due to various environmental factors, the mung bean plant must determine how to divide its resources between its leaves, shoots, and roots. Shoots capture energy for growth, and roots absorb water contributing to its growth. According to Harris, if water becomes limited, then more resources such as carbohydrates would be directed towards the roots [Harris: 1992]. Therefore, it could be predicted that root growth should be shallower when an abundance of water is present. In this experiment, we are testing the environmental stress of overwatering by comparing root:shoot ratios between treatment groups. Studying root:shoot ratios is important to understand because some studies suggest it is a central component to water homeostasis regulation [Woo: 2007]. One study suggests, in drier climates, plants will have a higher root:shoot ratio than plants living in wetter climates [Monk: 1966]. To support this statement, one study found a common maize generated shorter roots when watered constantly compared to occasionally watered [Kirtok: 1998]. Hence, we hypothesize if there is an abundance of water, then the mung bean root:shoot ratio will be smaller in length and weight in the experimental group than in the control group.
+
+
+Materials and Methods:
+In this experiment, we obtained six pots and filled each with vermiculite to the top. Each pot contained fifteen mung bean seedlings and were watered thoroughly for the first day. The mung bean seedlings were laboratory reared and were placed in a controlled greenhouse setting. The pots used were placed in a container that retained excess water. For the next two weeks, three pots received 300 mL of water (n = 3), while the other three received 100 mL (n = 3) once a day. The pots that received the 300 mL of water served as our experimental group and the 100 mL as our control. After two weeks, one mung bean was chosen randomly from each pot giving us three replicates for each group. We chose only one mung bean per pot because we thought three replicates per treatment group would be a sufficient sample size. We sifted the pots using water to break up the soil making it easier to untangle the roots from one another. Once one plant was chosen, we cut at the root/shoot junction (typically a color change is associated with the junction) and weighed the roots and shoots separately using a weigh boat and a zeroed scale. Next, we measured the roots from the bottom to the tip of the longest root and likewise measured the shoot from the bottom to the top of the leaf using a ruler serving as our lengths. To compare the experimental group’s root:shoot ratio for weight and length to the control group, we conducted a two-sample, one-tailed t-test.
+
+Results:
+The mean root:shoot ratio for length of the control group was 1.225 and for the experimental group was 1.338 (Figure 1). The mean root:shoot ratio for weight for the control group was 1.264 and for the experimental group was 0.988 (Figure 2). To determine if these results were statistically significant, we ran a two-sample, one-tailed t-test with an alpha value of 0.05. The mean root:shoot ratio for length of the normally watered plants was not statistically significantly different than that of the overwatered plants (t-stat = 0.67, df = 4, P = 0.267). The mean root:shoot ratio for weight of the normally watered plants was not statistically significantly different than that of the overwatered plants (t-stat = 1.69, df = 4, P = 0.083).
+
+Discussion:
+The purpose of this experiment was to test if overwatering had an effect on root:shoot ratio in length and weight in mung bean plants. We concluded that our hypothesis was not supported according to the two-sample t-test because our p-values were larger than our alpha value of 0.05, and therefore our results were statistically insignificant. Thus, our results indicate overwatering does not significantly affect the root:shoot ratio in mung bean plants. This suggests resources were allocated evenly between the roots and shoots regardless of the amount of water administered to the plants in this experiment. One study found similar results where the root:shoot ratio was approximately the same in irrigated and non-irrigated plants [Penka: 1965]. However, we did not expect the results we found. Penka cites in his study that increasing the amount of minerals and water a plant receives results in more growth of the shoots than roots [Penka: 1965]. Since our experimental group received 200 mL more water than the control group, we would have expected a smaller root:shoot ratio in the experimental group because water was abundant. According to this study, resources should have been allocated to the shoots rather than the roots because the roots did not need to grow to find water. However, a different study showed too much water stress on the mung bean plant results in less growth of the plant which could explain why we observed a larger root:shoot ratio [Zayed: 1997].
+Perhaps, our results were not statistically significant because we only tested one mung bean from each pot; thus, a small sample size versus testing multiple mung beans from each pot to give a larger sample size. Additionally, we did not have a baseline for the control in this experiment meaning we did not know how much water a typical mung bean needed nor how often it should have been watered. Also, we measured the shoot including the leaf, so our results may have differed if we just measured only the shoot. Further experimentation could include making a larger difference in the amount of water received in the experimental group to simulate a rainy season or hurricane as well as making the adjustments above. This experiment is important to study because if affects agricultural productivity. If we can determine the optimal amount of water for a mung bean plant to maximize its allocation of resources, then we can use different technology to assure the optimal growth of it.
+
+
+Literature Cited:
+1.	Woo, YM., Park, HJ., Su’udi, M. et al. Constitutively wilted 1, a member of the rice YUCCA gene family, is required for maintaining water homeostasis and an appropriate root to shoot ratio. Plant Mol Biol (2007) 65: 125. https://doi.org/10.1007/s11103-007-9203-6
+2.	Johnson, AD. Resource Allocation in Plants. Ecology and Evolution Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 19.1 (updated July 8, 2019), pp. 17-18.
+3.	Kousar Makeen, Garard Abrahim, Arif Jan and Archana K. Singh, 2007. Genetic Variability and Correlations Studies on Yield and its Components in Mungbean (Vigna radiata (l.) Wilezek). Journal of Agronomy, 6: 216-218.
+4.	Harris, RW. Root-Shoot Ratios. Journal of Arboriculture (1992) 18:1.
+5.	Monk, C. (1966). Ecological Importance of Root/Shoot Ratios. Bulletin of the Torrey Botanical Club, 93(6), 402-406. doi:10.2307/2483412
+6.	Kirtok Y. Corn production and use. Kocaoluk, Istanbul, TR, 1998
+7.	Penka, M. Root-Shoot Ratio in Irrigated Plants. Biologia Plantarum (1965). 7 (2) : 129--135
+8.	Zayed, M. & Zeid, I. 1997. Effect of water and salt stresses on growth, chlorophyll, mineral ions and organic solutes contents, and enzymes activity in mung bean seedlings. Biologia Plantarum. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+113+Lab+Report+1+Figure+1.JPG&Size=43000&Type=image%2Fjpeg&F=F_3dX6Um4IPewwAWv
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+113+Lab+Report+1+Figure+2.JPG&Size=38942&Type=image%2Fjpeg&F=F_28HFwxhuYD2xgDr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.  Effect of overwatering on root:shoot ratio for length of mung bean. Compares the mean lengths of root:shoot ratio between the control and experimental group. The mean for the control group was 1.225 with an error bar of ± 0.0418 s.d.; the experimental group had a mean of 1.338 and an error bar of ± 0.232 s.d. 
+Figure 2. Effect of overwatering on root:shoot ratio for weight of mung bean. Compares the mean weights of root:shoot ratio between the control and experimental group. The mean for the control group was 1.264 with an error bar of ± 0.0934 s.d.; the experimental group had a mean of 0.988 and an error bar of ± 0.211 s.d.*************************************************************************
+
+
+

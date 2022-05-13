@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-02 13:43:28
+Author of this lab report is: Std_ZeWRaK4P
+ID: R_2fJPZuYKlSZw44t
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effect on Weight Gain in Manduca Sexta Due to 20E Blockage
+
+Abstract:
+All living things are regulated through hormones. These hormones regulate growth, development, and many other processes within biological systems. Insects have the hormone ecdysterone (20E) to regulate development and the timing of molting. The amount of 20E present in insects rises and falls depending on what instar the insect is in at that time. The impact of 20E was tested on Manduca Sexta, which are tobacco hornworm caterpillars. Using a 20E blocker in their food, a treatment group of four caterpillars had a decrease in the amount of 20E. A control group of four other caterpillars was given regular food with no additives. We predicted that the treatment group would gain weight at a slower rate than the control group because 20E was blocked. With the data collected, a two sample one-sided t-test was conducted and it was proven that there is a significant difference in weight between the treatment group and control group (t-stat = 1.828, df = 22, P = 0.0405). This shows that blocking 20E in Manduca Sexta will cause weight gain and growth to be altered and occur at a slower rate. 
+
+
+Introduction:
+Hormones are essential to the biological processes of all animals, insects, and plants. Hormones are released through the endocrine system, which controls growth, development, behaviors, and various other physiological processes [Johnson: 2018]. For insect development, there are three main types of hormones: Prothoracicotropic hormone (PTTH), ecdysterone (20E), and juvenile hormone (JH). PTTH regulates the release of ecdysterone, which in turn regulates the the timing of molting in insects. JH regulates the type of molt during development and determines when the insect will be in developmental stages [Johnson: 2018]. In this lab, we will look at what occurs in Manduca Sexta, tobacco hornworm caterpillars, when the amount of 20E in their system is altered. We believe changing the amount of 20E will change the developmental process in the caterpillars in some way. Other experiments conducted on the Manduca Sexta have shown that altering the levels of hormones in the metamorphic stage of the caterpillar’s life can greatly affect development and growth [Bollenbacher et al: 1981]. We predict that if we add a high quantity of a 20E blocker to the food of one group of caterpillars, then the weight of the caterpillars treated with a high 20E blocker will gain weight at a slower rate than the control caterpillars.  
+
+
+Materials and Methods:
+Eight Manduca Sexta caterpillars were selected. Four of the caterpillars were put into a control group, while the other four caterpillars were put into a treatment group. Each caterpillar was fed 10 g of food daily. The control group got plain food, while the treatment group was given a high dosage, 10 drops, of a 20E blocker, Aza guard, with their food. Both sets of caterpillars were then weighed daily, in grams, for two weeks. After the two weeks, we compared the average weights of the treatment group with the average weights of the control group and looked to see if the weights of the treatment caterpillars grew slower than control caterpillars. We used a two sample one-sided t-test to determine the significance of our results and to test our hypothesis. 
+
+
+Results:
+The average weights of our caterpillars increase each day. The average weight of the control group was at its highest on day 5, and then slowly started to go down before pupation (Fig 1). At this point, the caterpillars were a bluish-green color. The control caterpillars started to pupate around day 8. The treatment caterpillars also had their peak weight on day 5, but was significantly lower than the control group (Fig 1). They were a greenish color on this day. As time went on, the treatment group turned a grey-green color and eventually a brown. They did not pupate. By the last day, they were mostly unresponsive and one was dead. Over time, the treatment caterpillars gained weight at a slower rate than did the treatment caterpillars (Fig 1). 
+
+
+Discussion:
+We tested how 20E effects insects by placing a 20E blocker in the food of one group of Manduca Sexta caterpillars and comparing their weights to a control group of caterpillars. Using a two sample one sided t-test, it was found that our results were statistically significant (t-stat = 1.828, df = 22, P = 0.0405). We saw that the average weight of the control group was significantly different than the weight of the treatment group, as the average weights of the control group after two weeks were higher than the average weights of the treatment group. From a day to day basis, it is seen that the treatment group did not grow and develop at a normal pace, as the control group gained more weight from day to day than the treatment group. Based on our results, it can be concluded that when given a high dosage, 10 drops per 10 g of food, of 20E blocker, the Manduca Sexta caterpillar gained weight at a slower rate than the control group, showing that our hypothesis was correct. Blocking 20E from being released also shows that 20E is necessary for the development of Manduca Sexta caterpillars and their ability to gain weight. In addition to weight gain, 20E also regulates other biological processes such as metamorphosis and molting, reproduction, behavior, stress resistance, and lifespan [Carney: 2012].  For further studies, 20E can be injected into the caterpillars in excess to see if any of these processes will be enhanced or sped up. 
+
+
+Literature Cited:
+Johnson AD. Comparative Physiology. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 5–13.
+Bollenbacher, W., Smith, S., Goodman, W., Gilbert, L. Ecdysteroid titer during larval-pupal-adult development of the tobacco hornworm, Manduca sexta. General and Comparative Endocrinology. Vol. 44, Issue 3 (July 1981) pp. 302-306
+Carney, G., Schewedes, C. Ecdysone signaling in adult Drosophila melanogaster. Journal of Insect Physiology. Vol. 58, Issue 3 (March 2012) pp. 293-302 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-09-23+at+3.02.05+PM.png&Size=122905&Type=image%2Fpng&F=F_25B1oN3VHDzb9pz
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-09-25+at+7.09.28+PM.png&Size=42172&Type=image%2Fpng&F=F_2qCKHJx34L6naaJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average weight of Maduca Sexta caterpillars per day. Per day, the control caterpillars on average weighed more than the treatment caterpillars
+Table 1. Results from our data of a two sample one-sided t-test*************************************************************************
+
+
+

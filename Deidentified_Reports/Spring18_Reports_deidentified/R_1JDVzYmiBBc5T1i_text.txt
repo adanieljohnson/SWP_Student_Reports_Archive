@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-21 10:15:47
+Author of this lab report is: Std_ieAA8GSW
+ID: R_1JDVzYmiBBc5T1i
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: The Effect of pH level on Herbicide Activity
+
+Abstract:
+This experiment serves to investigate how pH level effects herbicide activity in chickweed plants. Using two different pH levels of 6 and 10, we carried out a Hill assay to produce different absorbance values to measure photosynthetic rates. The herbicide Diquat was used in combination with the two pH levels and then there were control groups with just chloroplasts and no chloroplasts. Our results did not yield correct data because in the control groups, photosynthetic rate decreased as well as the groups with the herbicide. However, the one-way ANOVA test with a p value of 0.0036 showed that there is a statistical difference between the photosynthetic activity of the regular treatments compared to the pH levels with the herbicide. The pH level of 10 caused photosynthesis to be inhibited more drastically, so it can be concluded that Diquat works more effectively at a pH level of 10 than at 6. 
+
+Introduction:
+Our experiment was carried out to compare 2 different pH levels on the effect of an herbicide on a plant species. By using a single plant species, Chickweed, and a pH level of 6 and 10, we executed a Hill assay to find the photosynthetic reduction activity. According to a study done by the Washington State University Extension, herbicides are in fact affected by the soil pH level. The effects vary based on the herbicide structure and whether or not it has the properties of a weak acid, weak base, cationic, or nonionic polar structure. [Raeder, 2015]. Herbicides are supposed to inhibit plant growth, which means it would decrease photosynthetic rates. We used a Hill assay to calculate different absorbance rates which correspond to the photosynthetic activity. The greater the decrease in absorbance values, the greater the amount of photosynthesis that is occurring in the chloroplast suspension. The 2 pH levels we will use to compare are pH 6 and 10 because even though these are not extremely acidic or basic, we expect to see a change. The specific herbicide we were assigned is Diquat which is called a quick-acting herbicide, due to the fact that it causes injury only to the parts of the plant to which it is applied. Some physical properties of Diquat include it being highly soluble in water and the fact that it usually decomposes in alkaline solutions but is stable in neutral or acidic solutions. [Diquat dibromide, 1993]. Using this background information, we hypothesized that the photosynthetic rate would decrease more in the solution with pH 6, than the pH 10. 
+
+Materials and Methods:
+The main objective of this experiment is to perform a Hill assay, but first there needs to be preparation. We began by grinding up Chickweed leaves in a mortar and pestle, along with adding 20 mL total of a grinding buffer which was 400 mM sucrose in Tricine buffer, pH 8. This served to create a liquid form of the chloroplasts that could go into the centrifuge. After filtering the liquid, we transferred it to a chilled 50 mL tube to be centrifuged at 200 x G for 3 minutes at 4oC. Then, we poured the supernatant out of the tube into another 50 mL tube to be centrifuged again this time at 1,000 x G for 10 minutes at 4oC. This final supernatant is what we will use for the chloroplasts that go into the pH assay. We prepared 13 test tubes with 4 different groups following the reagent Table 1. To begin the assay, we added 100 l of the enriched chloroplasts to all of the test tubes except the group with no chloroplasts. Once adding, we mixed immediately, transferred each to an individual cuvette and recorded the absorbance. The absorbances were recorded after 0, 10, 20, and 30 minutes had passed, leaving the cuvettes in a sunny window in between. From this, we were able to determine the percent changes in the absorbances, using the data collected and then used a one-way ANOVA test to determine the statistical significance. 
+
+Results:
+The Diquat did reduce photosynthetic activity in both the groups with the herbicide. The Diquat at pH 10 levels had a much greater effect than the pH 6 levels. The pH 6 group yielded very similar results to the control group with chloroplasts. The percent change in absorbance after 30 minutes for pH 10 was -14.196 and for pH 6 was -2.587. The one-way ANOVA produced a p value of 0.0036 which suggests that there is in fact a statistical difference between the photosynthetic activity of the regular treatments compared to the pH levels with the herbicide. It is also interesting to note that in every group, the absorbance rates went back down after 30 minutes, so the 20-minute mark was when the absorbance rates were the highest. 
+
+Discussion:
+Due to the fact that our p-value from the one-way ANOVA was 0.0036, there was a statistical difference between the photosynthetic activity produced normally and when there is an herbicide present. This confirms what we know about herbicides because they are supposed to inhibit photosynthetic activity, therefore there should be a statistical difference between these two groups. The results prove this because the percent change absorbance is inversely proportional to photosynthetic activity, so we saw the herbicide inhibiting. The pH 10 group had a much greater change in absorbance rates than the pH 6 group, meaning the herbicide Diquat is more effective at inhibiting photosynthetic activity in chickweed at a higher pH level. A large error occurred in our data because the group with just the chloroplasts and no herbicide also decreased in photosynthetic activity, which should not have happened. Some possible causes of this error could have been cross contamination with the pipet tip because the results are very similar to the pH 6 group with the Diquat. There is always room for human error and the reagent table with the test tubes could have been assembled incorrectly at all because we know that with nothing else present than chloroplasts, photosynthetic activity should have increased over time. For a future study, we would want to be more cautious of this and maybe change the time intervals because all of the results started increasing again after 30 minutes. Another study done on the role of pH on herbicides looked at different groups of herbicide families like triazines. They found that within a family, the rate of absorption is related to and controlled by the degree of water solubility. The rate of absorption of organic compounds with widely different chemical character is governed by the degree of water solubility, the dissociation constant, and the pH of the soil. [Bailey, 1967]. In conclusion, pH levels sometimes do drastically change the activity of herbicides, it just depends on the properties of that herbicide. 
+
+Literature Cited:
+Bailey, G.W., et al. 1967. "Adsorption of Organic Herbicides by Montmorillonite: Role of pH and Chemical Character of Adsorbate1." Soil Science Society of America Journal Abstract, dl.sciencesocieties.org/publications/sssaj/abstracts/32/2/SS0320020222#FN1.
+"Diquat dibromide." 1993. Extoxnet, Cornell University, pmep.cce.cornell.edu/profiles/extoxnet/dienochlor-glyphosate/diquat-ext.html.
+Raeder, Alan, et al. 2015. "How Soil pH Affects the Activity and Persistence of Herbicides." Extension Publications, Washington State University, extension.wsu.edu/publications/pubs/fs189e/.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-21+at+10.14.52+AM.png&Size=117528&Type=image%2Fpng&F=F_7PPoO5ubNeWu56F
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-21+at+10.14.42+AM.png&Size=132024&Type=image%2Fpng&F=F_1mW7UAY8WoPuQuk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Reagent table for the pH assay to be assembled in 13 test tubes. 
+Figure 1. The results of percent change in absorbance values over the 30-minute time interval. The group with chloroplasts plus Diquat at pH 10 yielded the most drastically different results. 
+
+*************************************************************************

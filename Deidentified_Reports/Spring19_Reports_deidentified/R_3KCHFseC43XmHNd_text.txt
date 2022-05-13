@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-07 22:32:01
+Author of this lab report is: Std_BVYG4KLW
+ID: R_3KCHFseC43XmHNd
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Caffeine Stimulation and the Effects on Fatigue Levels of Rana Pipiens Frog Legs
+
+Abstract:
+The objective of the experiment was to determine the effect caffeine has on a muscle’s fatigue rate. After running initials experiments on muscles without any outside substance, we questioned what substances would have an impact on tetanus, contraction, and other muscular functions. To investigate this, we measured the amplitude of the muscle contraction of each muscle before and after injecting caffeine. Our result showed that frog leg one and three seemed to support our hypothesis, while frog leg two did not. Our p-value, most likely due to the surprising response recorded from frog leg number two, ended up being higher than the alpha level of .05 and thus not supporting our hypothesis.
+
+Introduction:
+A muscle consists of thousands of myofibrils that are wrapped together by connective tissue, thus creating functional groups. Innervation of the skeletal muscle is due to motor neurons, axons of which lengthen into a muscle and then branch out widely in order to innervate a multitude of different myofibrils at points called neuromuscular junctions. These junctions are important because a nerve impulse arriving at them forces a release of acetylcholine, which then connects with membrane receptors to cause the opening of sodium channels that will create an action potential in the muscle fiber. This action potential catalyzes the release of Ca+2, which thus causes the muscle fiber to contract [Johnson: 2016]. In exploring the many functions of muscles and attempting to deduce caffeine’s effect on it, we used a Rana Pipiens frog leg to further explore whether or not caffeine would cause the leg to fatigue at a significantly slower rate than it would without caffeine involved. After doing initial experiments with the Rana Pipien frog legs and coming to terms with the concepts behind muscular contraction, tetanus, fatigue, and more, our group began to question what substances or environments could have some manner of effect of muscle shortening. Once we discussed a few options, we came to the conclusion that caffeine would be an interesting substance to work with. In a study at California State University, researchers used a double-blind placebo to investigate the effect of caffeine consumption on muscular fatigue when the muscles are undergoing some form of maximal isokinetic exercise testing. The results indicated that both high and low does of caffeine had an effect in reducing fatigue [Bhakta: 2018].  Thus, we hypothesized that if caffeine is injected into a muscle, then the resulting amplitude of the muscle contraction will be much higher.
+
+Materials and Methods:
+We started our experiment with three frog legs, all of which were placed in the dissecting pan. We went one by one and, with a pair of forceps, gently peeled the skin off the frog leg from top to bottom. Once each leg was skinned, we wet them with an electrolyte filled liquid called frog Ringer’s solution. We then obtained a dissecting probe and carefully separated the inner thigh muscles all the way to the knee. We were careful to make sure the inner thigh muscles were right side up before we began separating the muscles. This separation then revealed blood vessels, muscle fascia, and the white sciatic nerve. After making sure we did not mistake muscle fascia for white sciatic nerve, we carefully freed the nerve from the surround connective tissue. Throughout this entire procedure, we were sure to keep the muscle damp with frog Ringer’s solution. We then set up the first frog leg by lightly pinning down all parts of the leg except the sciatic nerve and the gastrocnemius muscle. Using the a thin piece of string, we tied the gastrocnemius muscle up somewhat tautly to the force transducer, thus creating a situation in which stimulations from the LabScribe toolbar computer program were visible to the naked eye through the movement of that particular muscle. Within LabScribe, the four categories that could be manipulated were pulse amplitude, number of pulses, frequency, and pulse width. Throughout the entire experiment, we only ever manipulated pulse amplitude. Our initial runs were done to find the threshold and stimulus of the frog leg, which we did by increasing the stimulus voltage in 0.1 V increments. Once we determined the threshold, which ended up being at .25, we began moving forward with our experiment and controlling our stimulus at .5. For frog leg one, we ran three simulations and recorded the muscle response for each run. We then injected .1mL of 200 millimolar caffeine and ran three more stimulations, all at the same stimulus level. We followed these exact steps for the next two replications of the experiment and then proceeded to run paired t-tests on the data.
+
+Results:
+seen in Figure 1, the average amplitude of the muscle before being injected with caffeine was .734V while the average after being injected went to as high as 1.637V. Figure 2 displays the data that helped us come to those averages and in most, but not all, cases we see that trend displayed. An inconsistent result is seen in frog leg number three, as the resulting amplitude was .4992 higher before the caffeine was injected. Based on the numbers observed, we decided to run a paired t-test to determine a statistical difference. As seen in figure 2, the most telling number is the p-value of .0549. If we are considering an alpha level of .05, the statistical meaning of this result is we cannot conclude a statistically significant result exists.
+
+Discussion:
+Our hypothesis was if caffeine is injected into a muscle, then the amplitude will be significantly higher than it is in a muscle without any caffeine.  The results of this experiment generally seemed to show that the muscle seemed more able to resists fatigue upon being injected with caffeine. When observing at the data, average amplitude results were consistently higher after the muscle had been injected with caffeine. Based on the t-tests we ran on our numbers, we eventually came to a p-value of .0549, which is .0049 above the normalized alpha level of .05. Due to this, we cannot conclude that our results were statistically significant. This means that we do not see a significant enough difference in the amplitude of each muscle before and after caffeine injection. This result was surprising to us, as the outside resources and studies we perused generally had outcomes very different to us. In volume 50 of Medicine & Science in Sports & Exercise, researchers concluded that their own experiment involving muscles and fatigue resulted in the caffeine ingestion slowing the fatigue (Pethick 2018). Though there does not seem to be human error involved in the results of our report, the results of frog leg two, as seen in Table 1, do not replicate the trends seen in frog leg one and three. Had our result in frog leg two followed the trend of the other legs, our hypothesis might have been supported. Doing the experiment again, and with a greater number of replications, could cause significant changes in the result.
+
+Literature Cited:
+Bhakta, Krishan, Makenzie Stade, and Joshua A. Cotter. "The Effect of Caffeine on Peak Torque, Muscle Fatigue and Prefrontal Cortex Blood Flow: 880 Board #141 may 30/2.” Medicine & Science in Sports & Exercise, vol. 50, 2018, pp. 201.
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+Pethick, Jamie, Samantha L. Winter, and Mark Burnley. "Caffeine Ingestion Attenuates Fatigue-Induced Loss of Muscle Torque Complexity." Medicine & Science in Sports & Exercise, vol. 50, no. 2, 2018, pp. 236-245.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-18+at+11.19.09+PM.png&Size=73194&Type=image%2Fpng&F=F_2TmAG0uvqfc5AfQ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-18+at+9.59.19+PM.png&Size=15016&Type=image%2Fpng&F=F_1n26jV0sHilNnqK
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-18+at+11.19.28+PM.png&Size=32711&Type=image%2Fpng&F=F_2Eygq8n9OiT9r3w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1: Bar graph displaying the average amplitude of the muscle once stimulated before and after caffeine was injected.  Table 1: Table displaying the numbers that led us to find the overall average amplitude of the muscle once stimulated before and after caffeine was injected (which can be found represents in figure 1). Also displays standard deviation before and after, t-test, and the final p-value that will be compared against the alpha level value.*************************************************************************
+
+
+

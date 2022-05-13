@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-25 01:24:56
+Author of this lab report is: Std_owH3190X
+ID: R_SCyc2fnrAgykWuR
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The Effect of pH on Photosynthetic Activity in Spinach
+
+Abstract:
+Photosynthesis can only occur in the appropriate conditions because enzymes that transport electrons during photosynthesis rely on certain environmental factors in order to carry out processes. This experiment looks at pH’s effect on photosynthetic activity in spinach by measuring absorbance with a spectrophotometer and the stain DCIP. We hypothesized that chloroplasts exposed to pH 6.5 would photosynthesize normally, and chloroplasts exposed to pH 2 and 10 would show little to no photosynthetic activity because the enzymes will denature when exposed to such acidic and basic environments. Our data supported our hypothesis and was statistically significant suggesting that photosynthesis will not occur in spinach in very acidic or basic solutions. 
+
+Introduction:
+Plants require three major processes in order to live; photosynthesis, glycolysis, and respiration. Through these processes they are able to acquire energy from chemical energy stored in covalent bonds, energy stored as oxidation-reduction potential, or an electrical or chemical gradient across a lipid bilayer. This experiment will be looking specifically at photosynthesis and how it is affected by pH. During photosynthesis, chloroplasts absorb solar radiation, which excites electrons and causes them to leave carrier molecules. The electron excitement causes a chemical reaction that cleaves water to release new electrons to replace the ones that just left the carriers, as well as make a proton gradient. From there, high energy electrons are stored as NADH and the proton gradient powers ATP synthesis, and those electrons are used to synthesize glucose. Two of these stages are light dependent; photosystem I and II [Johnson, 2016]. We will be looking at the activity of electrons in photosystems II by measuring absorbance by using the stain DCIP and a spectrophotometer. It is predicted that chloroplasts in pH 2, and 10 will lead to low levels of photosynthetic activity because the enzymes that carry out photosynthesis will denature, and chloroplasts exposed to pH 6.5 will photosynthesize at an average rate. 
+
+Materials and Methods:
+We first ground up about four spinach leaves without the veins and 10 mL of grinding buffer (500 nM sucrose in Tricine buffer, pH 8) in a cold mortar and pestle, and after it became a paste, we added an additional 10 mL of grinding buffer. From there, we strained the spinach slurry through a cheesecloth into a chilled beaker labeled tube A. We then centrifuged the liquid at 200xG for three minutes at four degrees Celsius. Then, we poured that liquid into tube B and centrifuged it at 1000xG for ten minutes at four degrees Celsius. Afterwards, we poured the supernatant into tube C. Then we added 15 mL of grinding buffer to tube B to suspend the pellet. Next, we separated the supernatant into three different test tubes (5 mL of supernatant per tube) and added 5 mL of pH 2 to tube 1, 5 mL of pH 6.5 to tube 2, and 5 mL of pH 10 to tube 3. We then let the tubes incubate for ten minutes at room temperature. At the end of the ten minutes, we centrifuged the tubes at 100xG for ten minutes. We then poured the supernatant into corresponding labeled pH tubes. After, we added 5 mL of grinding buffer to resuspend each of the pellets. Next, we counted out 13 tubes. In tube 1 (the blank), we added 8 mL of water, no DCIP, and 2 mL of reaction buffer (100mM pH 6.5). In tubes 1-3, we added 6 mL of water, 2 mL of DCIP, and 2 mL of reaction buffer. In tubes 4-6, we added 5 mL of pH 2, 6 mL of water, 2 mL, and 2 mL of reaction buffer. In tubes 7-9, we added 5 mL of pH 6.5, 6 mL of water, 2 mL of DCIP, and 2 mL of reaction buffer. In tubes 10-12, we added 5 mL of pH 10, 6 mL of water, 2 mL of DCIP, and 2 mL of reaction buffer. In order to initiate the assay, we added 100ul of enriched chloroplasts from the suspended pellet to their corresponding test tubes and mixed them. We then measured absorbance in a spectrophotometer at 600nm and recorded the absorbances at time zero. We then placed the tubes on a sunny windowsill and rerecorded their absorbances after 30 minutes. 
+
+Results:
+Chloroplasts exposed to pH 6.5 expressed the largest percent change in absorbance. Chloroplasts exposed to pH 2 and 10 had the lowest percent change in absorbance. A statistical t-test proves that our data was statistically significant because the p-value was less than a 0.05.
+
+
+
+Discussion:
+The percent change in absorbance is indicative of photosynthetic activity. In this case, the chloroplasts that were exposed to pH 6.5 had the highest percent change in absorbency, and therefore the most photosynthetic activity. At pH 2 and 10, there was the lowest change in absorbency, and therefore the lowest photosynthetic activity. In another experiment done on citrus the pH 2.5 greatly inhibited seedling growth, and many physiological parameters were altered only at pH 2.5 [Long et al, 2017]. In this case, the pH conditions were uninhabitable, and it is likely that when the chloroplasts were exposed to pH 2, the enzymes that transport electrons and participate in photosynthesis may have denatured, therefore photosynthesis could not take place. The chloroplasts that were exposed to pH 10 had a similar result, there was almost no change in absorbance, which indicates almost no photosynthesis took place. Another experiment done on enzymes suggests that enzymes begin to unfold at pH 2 [Stojanovski et al, 2014] which would support our claim that enzymes participating in photosynthesis will denature in acidic conditions. The lack of photosynthetic activity at pH 10 could be explained the same way the acidic solution reacted with chloroplasts, it is likely the solution was so basic that enzymes denatured, and electron transport could not take place, therefore photosynthesis was inhibited. Our data is statistically significant and supports our hypothesis that chloroplasts soaked in pH 2 and 10 will have little to no photosynthetic activity and chloroplasts exposed to pH 6.5 function normally because pH 6.5 is an optimal environment for photosynthesis. 
+
+Literature Cited:
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15-16
+
+Long, A., Zhang, J., Yang, L.-T., Ye, X., Lai, N.-W., Tan, L.-L., … Chen, L.-S. (2017). Effects of Low pH on Photosynthesis, Related Physiological Parameters, and Nutrient Profiles of Citrus. Frontiers in Plant Science, 8. 
+
+Stojanovski, B. M., Breydo, L., Hunter, G. A., Uversky, V. N., & Ferreira, G. C. (2014). Catalytically active alkaline molten globular enzyme: Effect of pH and temperature on the structural integrity of 5-aminolevulinate synthase. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1844(12), 2145–2154. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=pH+Graph.png&Size=36370&Type=image%2Fpng&F=F_3QFt0Gyr7StB0f6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph illustrates the percent change of absorbance according to each pH. The chloroplasts that were exposed to pH 6.5 had the highest percent change of absorbance, and the chloroplasts exposed to pH 2 and 10 had the lowest percent absorbance. *************************************************************************
+
+
+

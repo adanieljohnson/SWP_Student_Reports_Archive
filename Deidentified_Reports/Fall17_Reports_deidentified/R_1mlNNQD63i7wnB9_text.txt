@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-03 00:05:06
+Author of this lab report is: Std_GlTPh9uZ
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The rate of photosynthesis of Spinacia oleracea is optimal at 0 °C
+
+Abstract:
+Living organisms need energy to sustain life. Plants obtain and store energy via photosynthesis and then release the energy by glycolysis and respiration.  The goal of this lab was to see how photosynthesis rates change with temperature. It was thought that photosynthesis would work the best at 20 °C since it mimics the growing season temperature of Spinach oleracea the best.  This was done by running an assay to track the Hill reaction using DCPIP. The color changes from deep blue to colorless as photosynthesis rates increase. This reaction was done by placing a mixture of chloroplasts, 100 mM Phosphate pH 6.5 buffer, 130mM DCPIP,and water in 0 °C ,20 °C , and 40 °C .  The absorbances                                                                                            were checked every 10 mins for 30 mins. A Post hoc ANOVA test was ran and it was determined that 0 °C was significantly different than the other groups and had the best rate of photosynthesis.  The data shows that temperature does affect the rate of photosynthesis and is a critical factor in the electron transport chain. 
+
+
+Introduction:
+Cellular processes require energy. This energy comes in the form of energy stored in chemical bonds, energy stored as an oxidation-reduction(redox) potential,  or an electrical or chemical gradient across a lipid bilayer. Plants capture and store energy via photosynthesis.  Stored energy is subsequently released by glycolysis in the cytoplasm and respiration that occurs in the mitochondria.  Photosynthesis occurs via the movement of electrons in the thylakoid membrane[Chikahiro:2001]. During photosynthesis light dependent reactions generate most of the proton gradient that drives ATP synthesis.  The Hill reaction ( 2 H2O + 2A →2AH2O2 A= electron acceptor) measures ATP production from the electron transport reactions in the thylakoid membrane.   DCPIP is an electron acceptor that can be used in the Hill reaction. DCPIP can be used in an assay to determine if environmental conditions, chemical, or other factors affect reduction reactions required for photosynthesis. If reduction occurs in the assays the reaction turns from a deep blue to colorless.  According to Mackey, photosynthesis occurs at an optimum temperature[Mackey:2013].  Temperature has been shown to affect the electron transport chain of Deschampsia caespitosa by affecting the RuBp regeneration and carboxylation [Yamori:2005].   Another factor that affects the photosynthesis is temperature. The growing season of spinach is early spring[Chitwood:2016]. The change of absorbance will be greater in the chloroplasts in room temperature (20 °C ) due to spinach growing season being in the early spring and this temperature most mimics springtime temperatures.
+
+
+Materials and Methods:
+A mortar and pestle, medium size beaker, and 3, 50mL centrifuge tubes were cooled.  Then, the central veins from 4 medium sized spinach leaves were removed. 10 mLs of pH 8 400mM sucrose in Tricine buffer(cold) was added to the spinach leaves. The leaves were then ground up using the cool mortar and pestle. 10  more mLs of grinding buffer, 400 mM sucrose in Tricine buffer, pH 8.0,  were added and the leaves were strained through three layers of cheesecloth in to a cold 150mL beaker. The stained liquid was transferred to a cool  50 mL centrifuge tube and centrifuged at 200xG for three mins at 4 °C . The supernatant was poured into another cold 50mL centrifuge tube. The supernatant was centrifuged at 1000xG for 10 minutes at 4 °C . Again, the supernatant was poured into another centrifuge tube and set aside. The pellet was suspended with 20mLs of grinding buffer(400 mM sucrose in Tricine buffer, pH 8.0) to the pellet. The resuspended pellet was used as the chloroplasts to do the study.  The blank for this study was 8 mLs of water and 100 mM Phosphate pH 6.5 buffer. The absorbance was set to 600nM to zero the spectrophotometer. In order to test temperature on photosynthesis rates, we tested 3 reactions at 0  °C, 3 reactions at 20 °C , and 3 reactions at 40 °C . All of the reaction tubes had 6mLs of water, 2mLs of 130mM DCPIP, and 2 mLs of 100 mM Phosphate pH 6.5 buffer. To start the reaction 100 microliters of chloroplasts were added to the test tubes and the absorbances were checked with the spectrophotometer at 600nM. The test tubes were put in the appropriate temperature water bath.  The absorbances of the test tubes were checked every 10 mins for 30 mins and recorded. A Post hoc ANOVA test was ran to check the significance of the data. 
+
+Results:
+Based off the Post hoc ANOVA test, the test tubes at 0 °C was the most significant with the p Value of 0.007829(figure 2).  The test tubes at 0 °C had a much larger percent of change than the test tubes at 20 °C and 40°C (figure 1). According to ANOVA, the difference between the test tubes at 20 °C and 40 °C were not significant. 
+
+
+Discussion:
+As the temperature decreased, the rate of photosynthesis decreased. Our hypothesis was not supported. The test tubes in 0°C had the greatest rate of change. The mean of 0 °C, 20°C, and 40°C was 49.9%, 13.7%,and 2.3% respectively (Figure 1). According to a study done by Hew, he saw decreasing rates of photosynthesis when the temperature rises from 20 °C to 40 °C due to the CO2 evolution increasing [Hew:1969].  The ideal temperature for photosynthesis according to the experiment conducted was 0 °C, this does not support Hew’s study.  This could have been due to the ice bath being next to the window. Meanwhile the tubes in 20°C and 40°C were in the middle of the classroom with no light directly hitting the tubes. According to Sharkey, supply of light is a limiting factor of photosynthesis[Sharkey:1985].With the light supply being limited on the test tubes in 20°C and 40°C, this could be the reason why the photosynthesis rates were lower.  Next time, the test tubes need to be under the same amount of light. 
+
+
+Literature Cited:
+Chikahiro Miyake, Akiho Yokota; Cyclic Flow of Electrons within PSII in Thylakoid Membranes, Plant and Cell Physiology, Volume 42, Issue 5, 15 May 2001, Pages 508–515, https://doi.org/10.1093/pcp/pce063
+Chitwood, Jessica, "Spinach (Spinacia oleracea L.) Seed Germination and Whole Plant Growth Response to Heat Stress and Association Mapping of Bolting, Tallness and Erectness for Use in Spinach Breeding" (2016). eses and Dissertations. 1547. h p://scholarworks.uark.edu/etd/1547 
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16. 
+Hew, C.-S., Krotkov, G., & Canvin, D. T. (1969). Effects of Temperature on Photosynthesis and CO2 Evolution in Light and Darkness by Green Leaves . Plant Physiology, 44(5), 671–677. 
+Mackey, Katherine R.M., et al. “Effect of Temperature on Photosynthesis and Growth in Marine Synechococcus Spp.” Plant Physiology, American Society of Plant Biologists, 1 Oct. 2013, www.plantphysiol.org/content/163/2/815. 
+Sharkey, Thomas D. “Photosynthesis in Intact Leaves of C3 Plants: Physics, Physiology and Rate Limitations.” SpringerLink, Springer-Verlag, doi.org/10.1007/BF02861058. 
+YAMORI, W. , NOGUCHI, K. and TERASHIMA, I. (2005), Temperature acclimation of photosynthesis in spinach leaves: analyses of photosynthetic components and temperature dependencies of photosynthetic partial reactions. Plant, Cell & Environment, 28: 536-547. doi:10.1111/j.1365-3040.2004.01299.x
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-01+at+2.04.49+PM.png&Size=24456&Type=image%2Fpng&F=F_6G4yzdtb4JvplFn
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-03+at+12.02.14+AM.png&Size=24467&Type=image%2Fpng&F=F_3iJxZUhvCRV2ZPd
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-03+at+12.02.24+AM.png&Size=11254&Type=image%2Fpng&F=F_3RxgtaY1W21Drsc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+1-The graph above shows the percent change of the absorbances of the tubes in 0 °C , 20 °C and 40 °C .  The error bars represent +/- 1 standard deviation.
+2- ANOVA test Table
+3-Posthoc table 
+
+*************************************************************************

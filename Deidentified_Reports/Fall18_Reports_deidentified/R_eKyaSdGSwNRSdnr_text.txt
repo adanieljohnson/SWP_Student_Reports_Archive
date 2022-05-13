@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 15:53:30
+Author of this lab report is: Std_uxBZr4jp
+ID: R_eKyaSdGSwNRSdnr
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Decrease in nerve amplitude after injecting the muscle with Lanthanum chloride
+
+Abstract:
+Calcium ions are very important in neuromuscular pathways. The complete absence of calcium ion in the muscle cell will cause the muscle not to respond to stimulus. Calcium ions are released from channels known as ryanodine receptors. Our hypothesis is that if a calcium channel blocker is applied, the amount of calcium ions would decrease and the muscle would have a much weaker response to stimuli. We used skinned frog legs and after measuring the threshold and nerve amplitude of the gastrocnemius muscle to certain stimuli, the muscle was treated with lanthanum chloride, a calcium channel blocker, and then the same measurements were adopted. The results support our hypothesis. The nerve amplitude decreased in every group after the treatment. So, blocking ryanodine receptors would decrease the amplitude of contraction of muscles.
+
+Introduction:
+A frog can jump very high because of the muscle contractions of its legs. To contract at the right moment and generate enough force for a movement, the muscles receive signals from the nerve through neuromuscular junction (NMJ). NMJ is a type of synapse formed between motoneurons and skeletal muscle fibers [Wu: 2010]. The contraction of muscle requires not only an action potential, but also the release of calcium ions, which truly allow the muscle fibers to contract. In striated muscle, rapid release of Ca2+ from the intracellular compartment, sarcoplasmic reticulum (SR), is initiated by a surface membrane action potential that is communicated to the SR at specialized areas where the junctional SR comes in close contact with the surface membrane or tubular infoldings of the surface membrane (T-tubule); at these areas large protein structures are present that span the gap between the two membrane systems. These structures are now commonly known as ryanodine receptor/Ca2+ release channels [Meissner: 1994]. Calcium ions are consumed in muscle contraction. Therefore, in theory, effects on the calcium release channels will also affect muscle contractions. If there are much less calcium ions present in the muscle cell, there might only be very weak contractions or no contraction. Therefore, our hypothesis is that if the muscle is treated with lanthanum chloride, a calcium channel blocker, the muscle’s response to stimuli will be weaker.
+
+Materials and Methods:
+3 frog legs were skinned and the nerve was separated from quadricep and hamstring muscle and exposed. The nerve is more sensitive to stimuli because its the direct source of stimulation., so the nerve was connected to the probe. The legs were kept moist with frog ringer’s solution. Each leg was placed horizontally. We stimulated the nerve on the first leg with an amplitude starting from 0V to 5.0V, and recorded the nerve amplitude and the twitch threshold. Then, the leg was injected with lanthanum chloride, a calcium channel blocker. After six minutes, the leg was stimulated again with the same amplitude, and its nerve amplitude and threshold were recorded. The same steps were adopted to the other two legs. Two sample t-test was used.
+
+Results:
+After the injection of lanthanum chloride to the gastrocnemius muscle, the nerve amplitude of leg#1, leg#2 and leg#3 decreased. Their contraction amplitudes when given a 1.0V stimulus were 1.265V, 0.817V and 1.068V, respectively, and decreased to 1.001V, 0.325V and 0.815V after the treatment (see figure1). The threshold of #1 increased from 0.3V to 1.0V. The average amplitude of control is 1.056V and became 0.722V in the experimental group. One-tailed p-value is 0.115931 so our result is significant. The degrees of freedom is 4 and the average of control is higher than that of the experimental. The t-value is 1.408126. 
+
+Discussion:
+The results support our hypothesis that weaker response will occur after the treatment of lanthanum chloride. Although two of the three legs did not have a decreased threshold, all three legs had less nerve amplitude after the injection. The reason #2 and #3 did not have a decreased threshold might be that they had a relatively high concentration of calcium ions in the surrounding of myofibers so although the calcium channels were mostly blocked, the remaining calcium ions were enough to support a weak contraction. It could also be that since lanthanum chloride are big molecules so it is hard to spread fully to every muscle cell. Although we waited for 6 minutes after the injection for lanthanum chloride to diffuse, there might still be a large number of functional calcium channels. An early study showed that muscle contraction can also be regulated in another way. The possibility has been considered, however, that TP inhibits contraction by binding to myosin. This inhibition was shown to result from binding of the tropomyosin-troponin complex solely to action. [Spudich: 1971] So eliminating the effects of potential factors on our experiment might yield an expected result. In our experiment, calcium ions served as a type of ligand that binds troponin, which will allow myosin heads to pull the thin filaments toward M band, so that the muscle contracts. But there are many different functions of calcium ions. Certain vascular smooth muscles are a good example of this. In these smooth muscles, large global intracellular Ca2+ signals activate the contractile machinery causing the cell to contract. However, small very localized Ca2+ signals (i.e., Ca2+ sparks) that arise from intracellular Ca2+ stores activate certain K+ channels in the surface membrane promoting relaxation of the cell [Nelson: 1995]. Blocking the calcium channel has much more effects on the muscle than decreased nerve amplitudes. Exploring the mechanism of the calcium channel is crucial to understand the muscle cells. 
+
+Literature Cited:
+1. Haitao Wu, Wen C. Xiong, Lin Mei. 2010. To build a synapse: signaling pathways in neuromuscular junction assembly. Development 2010 137: 1017-1033; doi: 10.1242/dev.038711. 2. Gerhard Meissner. 1994. RYANODINE RECEPTOR/Ca2+ RELEASE CHANNELS AND THEIR REGULATION· BY ENDOGENOUS EFFECTORS. Annu. Rev. Physiol. 1994. 56:485-508. 3. Nelson MT, Cheng H, Rubart M, Santana LF , Bonev AD, Knot HJ, Lederer WJ. 1995. Relaxation of arterial smooth muscle by calcium sparks. Science 270: 633-637. 4. James A. Spudich and Susan Watt. 1971. The Regulation of Rabbit Skeletal Muscle Contraction. The Journal of Biological Chemistry 246, 4866-4871.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Fig1.png&Size=8489&Type=image%2Fpng&F=F_uwxjHl2rL5Yxe7v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+ Figure1: The nerve amplitude of each leg at a stimulus of 1.0V before and after the injection of lanthanum chloride. Blue bar is control and orange bar is experimental.*************************************************************************
+
+
+

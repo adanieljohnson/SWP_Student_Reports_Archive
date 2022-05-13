@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-20 13:51:54
+Author of this lab report is: Std_mdKMdHMX
+ID: R_3J2cEaoJvZd1tEL
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Effects of Sevin on the Timing of Tetany
+
+Abstract:
+Muscle contraction is a very important function in many living organisms. Understanding what roles certain hormones play in muscle contraction can lead to better understanding the roles and functions of hormones in human beings and beyond. Here we explore the effect of an acetylcholinesterase inhibitor, in this experiment Sevin, on the frequency at which tetany is reached in the legs of the frog Rana pipiens. Our expectation was that tetany would be reached at a lower frequency in the frog legs injected with Sevin than those not injected with Sevin. To test our hypothesis, we measured the frequency at which tetany was reached in three frog legs, the controls. Then we injected the frog legs with Sevin and measured the frequency at which tetany was reached in them, the treatment. Our data showed a significant difference between the control and treatment legs. This significance indicated to us that the addition of Sevin caused the frog leg to reach tetany at a lower frequency. 
+
+Introduction:
+This experiment assesses the effects of an inhibitor of the hydrolyzing enzyme of the important neurotransmitter acetylcholine on the frequency at which tetany is reached in a contracting muscle. While acetylcholine has many functions in the body, one of its most important roles is in muscle contraction through the Somatic Neuromuscular System. When a nerve impulse gets to the neuromuscular junction at the axon of a motor neuron, it causes the presynaptic nerve terminal to release acetylcholine. Acetylcholine proceeds to bind to its receptors on the muscle fiber’s membrane. This important step causes the sodium channels to open, causing depolarization which results in an action potential that spreads throughout the muscle fiber. The action potential causes the release of calcium from the sarcoplasmic reticulum which ultimately activates the contraction of the muscle fiber (Johnson 2018). Acetylcholinesterase is a hydrolyzing enzyme that catalyzes the breakdown of acetylcholine, thus playing an important role in ceasing muscle contraction. Once the acetylcholine is broken down, the sodium channels shut and allow for repolarization to take place. Sevin is a chemical chiefly used as an insecticide and is an inhibitor of acetylcholinesterase. We hypothesize that if 0.1mL of Sevin is injected into a frog leg, it will reach tetany at a lower frequency. 
+
+Materials and Methods:
+We prepared the frog leg by removing the skin with forceps and moistening the legs with Ringer’s solution. We used a dissecting probe to reveal the sciatic nerve. We also used the forceps and scissors to separate the lower end of the gastrocnemius muscle from the knee. We pinned the leg into the tray and attached the gastrocnemius muscle to the apparatus with a string, so it was perpendicular to the tray. We placed the sciatic nerve over the pin electrodes of a LabScribe. set the number of pulses to 0 and the pulse amplitude to 1V. For the control, we began testing at a frequency of 10Hz and increased by 5Hz until the graph on the LabScribe showed that the leg had reached tetany. We recorded this value. Then we injected the gastrocnemius muscle of the leg with 0.1mL of Sevin and waited three minutes. We began testing these legs, now the treatment, at 10Hz, but increased by 2.5Hz until tetany was reached, again recording this value. These steps were repeated fully for three frog legs. Then we ran a paired t-test. 
+
+Results:
+Every treatment frog leg reached tetany at a lower frequency than its paired control frog leg. Table 1 shows the frequencies tested and at which frequency caused the frog legs to reach tetany. Figure 1 presents the frequencies at which the control and treatment frog legs reached tetany. After running a paired t-test on 2 df, the t-value was 751, and the p-value was 1.77x10-6.
+
+Discussion:
+Our hypothesis, that the addition of 0.1 mL of Sevin caused the frog leg to reach tetany at a lower frequency, was supported. Due to the highly significant p-value, we rejected the null hypothesis that there was no difference of the frequency at which they reached tetany between control and treatment frog legs. This led us to accept our hypothesis, that tetany would be reached at a lower frequency in the treatment legs than the control legs. The scatterplot of Figure 1 shows that the treatment frog legs always reached tetany at a lower frequency than the control frog legs that were not injected with Sevin, further supporting our hypothesis. We believe this significance occurred due to the deactivation of acetylcholinesterase. Because the acetylcholine was not broken down, the sodium channels remained open, leaving the muscle in a constant state of contraction. This contracting state led to the muscle fatiguing faster and reaching tetany at a lower frequency. Understanding the role of acetylcholinesterase in the process of muscle contraction could further research and lead to scientific breakthroughs in treating and/or curing certain diseases that affect the contraction of muscle.  A possible source of error could be that since we used the same leg for the treatment as the control, the leg could have already been more fatigued due to its stimulation as the control, thus causing it to reach tetany at a lower frequency as the treatment leg. To improve our experiment, we could have a larger sample size of frog legs to ensure that the results we got are consistent. For a future experiment, we also could vary the amount of Sevin being injected into the legs to see if that further lowers the frequency at which tetany is reached.
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17–18.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FrogLegLabTable.png&Size=328289&Type=image%2Fpng&F=F_2VHXuXfbv5o2rM2
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FrogLegsLab.jpg&Size=22372&Type=image%2Fjpeg&F=F_10SZsTvaoTqLF2x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: The frequencies tested for each of the control and treatment legs and at what frequency they reached complete tetany. Figure 1: A scatterplot of the frequencies at which tetany was reached for the three controls and three treatments, where each control and treatment pair are next to each other for comparison. *************************************************************************
+
+
+

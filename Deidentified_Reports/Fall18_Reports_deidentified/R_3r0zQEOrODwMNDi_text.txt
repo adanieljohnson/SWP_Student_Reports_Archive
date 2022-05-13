@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-24 18:11:23
+Author of this lab report is: Std_NASM0oOm
+ID: R_3r0zQEOrODwMNDi
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title:  Effect of Temperature on Photosynthesis in Spinacia oleracea
+
+Abstract:
+This experiment measured the rate of photosynthetic activity in spinach leaves through the enhanced chloroplasts absorbing lights at different temperatures. The absorption was quantified through a spectrophotometer, and using the inverse relationship of photosynthesis and absorption the different groups of temperatures were compared for levels of photosynthetic activities. We hypothesized that warmer temperatures would increase photosynthetic rate, and that the opposite would happen for colder temperatures. The results of our experiment rejected the hypothesis, showing a similar trend of decreased absorbances for the cold temperature group as well as the warmer temperature groups. 
+
+Introduction:
+Photosynthesis is how plants create energy from the sun. Utilizing CO2 and H2O, light hits the membrane of the thylakoid, splitting the H2O into O2, with the leftover electrons moving down to enzymes, creating the electron transport chain. Existing ATP and NADPH in the cells are used by the Calvin cycle as power in order to convert carbon dioxide into glucose, reducing the fixed carbon of CO2 into the sugar. A spectrophotometer will be the main way in which the data will be collected in the experiment. A spectrophotometer works by measuring the amount of photons absorbed when a ray of light is passed through a sample solution,  known as absorption [Nilapwar:2011]. The absorbance of DCIP is being measured as it changes to DCIPH2 at 600 nanometers in a spectrophotometer. As chloroplast activity occurs, DCIP is turned into DCIPH2 because of it bonding with the excess hydrogen left over by the process of photosynthesis through the electron transport chain from the splitting of H2O. The synthesis of DCIPH2 is indicative of higher amounts of photosynthesis, due to the release of more hydrogens, and the inverse is true for the lack of synthesis. DCIP is blue, while DCIPH2 is clear; this gives a clear visual indicator to how to understand the activity rates of photosynthesis [University of Hawaii:2017]. In this experiment, we hypothesize that at higher temperatures, more hydrogen will be given off by the process of photosynthesis, leading to the synthesis of DCIPH2, an indicator for photosynthetic rate. DCIPH2 synthesis should be significantly lower in cold conditions due to reduced photosynthetic rate, leading to higher absorbances.
+
+Materials and Methods:
+Our experiment started with our group obtaining 5 large spinach leaves (Spinacia oleracea) from Std_Wj8JBCDH. For our first exercise, we enriched chloroplasts by differential centrifugation. We first placed a mortar & pestle, a medium-sized beaker (150-250 ml), and 3, 50 ml centrifuge tubes into a small tub of crushed ice so that it may cool. While the aforementioned equipment was cooling, we stripped the large central veins from the spinach leaves, discarding the central veins. We then rinsed off what was left of the leaf in order to attempt to remove any foreign contaminants that may affect our data. We also attempted to dry off any moisture left on the leaves with paper towels. We then added 10 ml of cold grinding buffer (400 mM sucrose in Tricine buffer, pH of 8.0) and grinded down the spinach in the mortar and pestle until it was a thick, homogenous paste with no significant aberrations. We added 10 more mL1 of grinding buffer, and mixed again with the spinach remnant, and straining the entire volume of the existing solution through three layers of cheese cloth into the chilled beaker. 
+	For our second exercise we sought to quantify photosynthetic rate. We labeled 13 large test tubes and placed them in a tube rack, with the first test tube representing our blank. We activated the spectrophotometer, and set its starting wavelength to 600 nm. Next, we created 3 replicas of each of the following reaction mixes: To the assay, we added 100 μl of the enriched chloroplasts prepared in the first exercise, and placed them in the blank tube (1), and to tubes 5-13. We immediately mixed each test tube upon introducing the chloroplasts, and then transferred a portion of the solution to spectrophotometer cuvettes. The blank tube had 8 mL water, 100 μl of chloroplasts, and 2 mL reaction buffer. Tubes 2-13 had 6 mL of water, 2 mL of reaction buffer, and 2 mL of  130 mM DCIP, as well as the chloroplasts except for tubes 2-4. We immediately blanked the spectrophotometer at 600nm upon finishing putting the solution together and thoroughly mixing it using a portion of the solution from tube 1 and then immediately measured the absorbance of all the samples at 600nm. We placed samples 1,  and 5-6 in room temperature (23 C). Samples 8-10 were placed in a warm water bath. (36 C). Finally, we placed samples 11-13 in a cold ice bath (-2 C ). Light was provided in each bath through a lamp, with the same lamp technology and lightbulb present for all lamps. After 10 minutes, we blanked the spectrophotometer with Sample 1, the blank. We then read and recorded the absorbance of each test tube that was run through the spectrophotometer. After 10 more minutes (20 minutes) in the different temperature settings, we repeated the same process, recording the absorbances as they appear. After another 10 minutes (30 minutes total) the blanking of the spectrophotometer  and recording of absorbances was repeated a final time . We ran an ANOVA test with a degrees of freedom of 3, to test the differences between the mean values for each group at different times, with an alpha of .05.  
+
+
+Results:
+The results show both the relation between the absorbances of the four sample groups when compared to time when placed under several variable conditions, measured ten minutes for a total of thirty minutes, and a set of bar graphs which compare the absorbance relative to the times for each group. The first graph is meant to show the change in rate, while the second graph is as comparison between the times of all the groups, as well as providing standard deviation. An ANOVA test was done to compare three independent sample groups, with a Tukey's HSD confirmation. 
+
+  Titles: 
+    
+   Fig. 1: The change in absorbances of four sample groups over a time of 30 minutes 
+   Fig. 2: Comparison of absorbance through time within and between sample groups. 
+
+After running an ANOVA test, with a degrees of freedom of three, and an alpha of .05, we can see that the f-ratio value is 0.80486. The p-value is 0.514973. 
+Tukey’s HSD (alpha=0.05): No significant difference between any two groups. 
+
+
+Discussion:
+Our hypothesis was rejected due to our data being statistically not significant, as proven by the p-value of .514973 being greater than the alpha of .05. Thus, more hydrogen would not be given off by photosynthesis, as indicated by lack of difference in absorbance after analyzing the solutions with the spectrophotometer. The colder sample group should have an upward trend of absorption, due to the inverse relationship of absorption rate with photosynthetic rate as well as the decreased rate of lipid fluidity at colder temperatures, but it did not [Nolan: 1980]. The overall negative change of rate in the absorbance values of the samples show an increase in photosynthetic activity, with the exception of the sudden raise in absorbance from 10-20 minutes in group 2. This raise should be seen as an overall decrease in photosynthesis, proving an exception to the inverse relationship between temperature and photosynthetic rate. The downward trend in Group 4 shows photosynthetic rate increasing as temperature decreases, another exception to the existing inverse relationship [Fig. 1]. This exception can be shown as resultant from confounding variables present in the experiment, such as introducing the cold sample group into the spectrophotometer immediately after the hot group, as the cuvette most likely gave off appropriate thermal energy to its environment within the spectrophotometer, making the cold group hotter than it should have been. Larger sample sizes would have also led to a more accurate statistical analysis, giving a better p-value for the experiment. Also, the spectrophotometer got foggy after repeated uses with high and low temperature, implying that the results towards the end of the experiment are most likely more inaccurate than those of the beginning. 
+For the future, this experiment could be done better by allowing more time between placing the hot and cold cuvettes in the spectrophotometer, in order for the temperature to not skew the results. The larger sample size would allow for the statistical results to be much more significant. Groups such as 40 instead of 3 should suffice. In order for the spectrophotometry to not get as foggy, future experiments could consider leaving the spectrophotometer open between sessions, allowing for humidity to better be released into the environment instead of being contained within the machine; furthermore, wiping down the interior with a chem-wipe could be a good decision as well. 
+In a greater biological context, the findings in this experiment would explain why there is the largest amount of both numbers and variety of plant life in certain regions of the world are concentrated in the Amazon rainforest [Cardoso:2017]. This would most likely be due to the relatively high temperature, which does not reach the extremes present in desert biomes around the world, as well as the high influx of rainfall and humidity present. This explanation of plant distribution would in turn account for animal species variety as well, leading up to temperature dependencies in photosynthesis being one of the explanations for many ecosystems around the world. The results from this experiment tie in to many others in the botanical field, as groups are attempting to raise the temperature tolerance of food crops, such as rice, due to rice’s production being affected by high temperatures [Kumar: 2017]. If temperature’s effect on photosynthesis can be narrowed down to protein function, there would not be issues with crops enduring high temperatures, lowering famine levels around the world. Additionally, finding ideal temperatures for plants in adverse conditions can allow for better treatment of crops during these times, as high exposures to temperatures of 45 C for 20 hours have led to irreparable denaturation of plant proteins [Ushakova: 2002]. The results of this experiment, while rejected, can be used to further more research into the field of botany.
+
+
+Literature Cited:
+1.	Cardoso, D. 2017. Proc Natl Acad Sci USA. 114(40):10695-10700.
+2.	Core Laboratories Web Site. Accessed October 22, 2018. &lt;http://www.wfu.edu/Academic_ departments/Biology&gt;
+3.	Kumar, N. 2017. 3 Biotech. 7(3):205.
+4.	Nilapwar, SM. 2011. Absorption Spectroscopy. Methods Enzymol. 500: 59-75. 
+5.	Nolan, WG. 1980. Plant Physiolol. 66:234-237.
+6.	University of Hawaii. Light Reactions of Photosynthesis. Accessed October 24, 2018 &lt;https://windward.hawaii.edu/facstaff/miliefskym/BIOL%2o17L/Lab%2007%20Photosynthesis/Lab%2007%20Photosynthesis.pdf&gt;
+7.	Ushakova, SA. 2002. Acta Astronaut. 50(12):759-64.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+11.30.50+PM.png&Size=129247&Type=image%2Fpng&F=F_2t2VvXgLbAtxLV8
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-23+at+11.30.58+PM.png&Size=47540&Type=image%2Fpng&F=F_6Lvpf2FqD3g50lj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+  Figure 1 shows that the relation between the absorbances of our four sample groups when compared to time, when placed under several temperature variable conditions, measured every ten minutes for a total of thirty minutes. 
+    
+   Figure 2 shows how the set of bar graphs illustrates a comparison between the absorbances relative to the times for each groups. The numbers on the x axis describe the groups, as seen in the legend in Fig. 1. The error bars represent one standard deviation. 
+    *************************************************************************
+
+
+

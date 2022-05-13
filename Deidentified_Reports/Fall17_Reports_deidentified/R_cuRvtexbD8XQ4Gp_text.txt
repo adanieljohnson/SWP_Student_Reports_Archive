@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-11-28 18:43:27
+Author of this lab report is: Std_BxzjmorP
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Measuring metabolic rate of the Procambarus, sp. in fresh and salt water through dissolved oxygen concentrations
+
+Abstract:
+This study aims to gather data on the effects of salinity on the metabolism of the Procambarus, sp.  Metabolism is merely the sum of reactions that occur in the organism to do daily tasks, such as moving, reproducing and removing waste.  The metabolism of the crayfish will be measured through dissolved oxygen in the water the crayfish is in.  The data does not support the hypothesis, showing that in each trial, the metabolism of the crayfish greatly decreased while placed in a 0.73% NaCl solution.  It is hypothesized that the metabolism will increase when the organism is situated in a tank of salt water, as compared to fresh water, due to the extra energy required to filter the added particles in the water.  Other studies have supported the evidence found in this experiment, as well as proposed that the metabolism-salinity graph is U-shaped, giving way to many more experiments to be conducted. 
+
+
+Introduction:
+All organisms on Earth need to do work in order to survive.  Eating, removing waste, reproducing and fending off predators are just some of the tasks that organisms around the globe do every day.  Metabolism is the term used to describe the intake, transfer and use of energy between cells that powers these activities.  There are two parts to metabolism, catabolism and anabolism.  Catabolism describes the breaking down of bonds between molecules to obtain energy while anabolism refers to the synthesis of necessary molecules, often to store energy. [Mandal: 2017] Because energy transfer takes place all over the organism, it can be challenging to measure, given the numerous reactions that would need to be observed.  In Procambarus, sp., commonly known as the crayfish, as well as other oxygen breathing organisms, metabolism can be measured by oxygen intake.  This is a model organism because it can be kept in a small tank of water, where oxygen content is easily measured.  By measuring the dissolved oxygen in a sealed container of water over time, the metabolism can be found.  [Ibanez: 2008] This value represents the sum of the chemical bonds that are being broken and created everywhere within the body to take in, and use energy to sustain life.  
+
+This lab measures the change in oxygen intake, the dependent variable, and therefore, metabolism, another dependent variable, when a crayfish is placed into fresh versus salt water, the independent variables.  The experiment will test the crayfish’s ability to process energy efficiently while under an environmental stressor.  I predict that more blood will need to come through the gills to gather the same amount of oxygen molecules in salt water as in fresh water.  It is my hypothesis that the metabolism will increase when put into saltwater due to the increased energy it will require to extract a lower concentration of oxygen from the water now that NaCl molecules have been added
+
+
+Materials and Methods:
+Weigh the crayfish using an electric scale.  Then, place the crayfish into a mason jar and fill with oxygenated water at 22oC.  Next, screw the lid on with the oxygen measuring probe.  Take down the recording of how much dissolved oxygen is present in the jar.  For the next 20 minutes, every 5 minutes, record the amount of dissolved oxygen in mg/L.  After 20 minutes, pour the water into a 1L graduated cylinder to record volume and place the crayfish back in its tank.  Repeat all steps with salt water.  To create the salt water, measure 100mL of 6.5% NaCl solution into the mason jar and fill the remaining space with fresh water.  The salinity will come to be approximately 0.73%.  Repeat all steps with two more crayfish.  Calculate the specific metabolic rate using data obtained.  Lastly, complete a paired T-test and obtain a p-value.  
+
+
+Results:
+Each trial resulted in a lowered metabolism by more than half of the control specific metabolic rate.  The p-value of 0.068 was obtained through a paired T-test. In Figure 1, the blue bars represent the trials of oxygenated water, while the orange bars represent trials of 6.5% NaCl solution.
+
+
+Discussion:
+Prior to the completion of the experiment, it was hypothesized that the metabolism of the crayfish would increase due to the greater energy required to extract a lower concentration of oxygen molecules.  The data does not support the hypothesis that metabolism increases with salinity as was shown in Figure 1.  One possible explanation for the data is the presence of solute concentration gradients in the crayfish.  [Anderson: 1984] The crayfish has a much higher concentration of solutes in its body than the surrounding solution.  Because the organism needs these solutes to do work in the body and survive, it expends energy to keep them at the higher point of their concentration gradient, inside the body.  When salt was added to the environment, there was a smaller solute concentration gradient.  This lessened the pull of solutes into the environment and allowed the organism to work less hard, decreasing metabolism, to keep its solute concentration in tact. [Mu: 2007]  If the salinity was increased to a higher value, the organism may have to give more energy to take oxygen molecules from the environment, increasing metabolism.  
+
+A study conducted in 1983 by McNamara explores the effect of an even greater increase of salinity on metabolism than this experiment tested.  The results showed a U-shaped graph of metabolism in correlation to increasing salinity levels. [McNamara: 1983] A possible future experiment may test which levels of salinity are sustainable by crayfish, recording specific metabolic rates at increasing salinity levels until the organism is no longer able to sustain life.  This research is very interesting, due to the changing planet.  As global temperatures rise, levels of dissolved oxygen in the oceans decrease, affecting metabolisms of all species.  
+
+
+Literature Cited:
+Mandal, Ananya. “What Is Metabolism?” News Medical Life Sciences, 30 Oct. 2017,
+Ibanez, Jorge G., et al. "Dissolved oxygen in water." Environmental Chemistry (2008): 16-27.
+Anderson, John L., and Dennis C. Prieve. "Diffusiophoresis: migration of colloidal particles in gradients of solute concentration." Separation and Purification Methods 13.1 (1984): 67-103.
+Mu, Feng, et al. "Effects of salinity and body weight on metabolism of Procambarus clarkii." Mar Fish 29 (2007): 153-158.
+McNamara, John C., Gloria S. Moreira, and Plinio S. Moreira. "The effect of salinity on respiratory metabolism, survival and moulting in the first zoea of Macrobrachium amazonicum (Heller)(Crustacea, Palaemonidae)." Hydrobiologia 101.3 (1983): 239-242.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Crayfish+Chart+All+Data.png&Size=41428&Type=image%2Fpng&F=F_2n3KleZ4cFcKf9b
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1- Specific metabolic rate in Procambarus placed in salt and fresh water: This graph represents the specific metabolic rate values obtained for each trial completed in the experiment.  The blue bars represent the trials when each of the three crayfish were submerged in fresh water, while the orange bars represent the values obtained while each crayfish was submerged in water with 0.73% salt.  
+
+
+*************************************************************************

@@ -1,0 +1,55 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a lab report.
+Date submitted: 2017-11-09 20:11:25
+Author of this lab report is: Std_bdfJkb9d
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Exercise ineffective at increasing specific metabolic rate of Procambarus spp.
+
+Abstract:
+Animals main source of energy comes from aerobic respiration, a process in which oxygen is used to remove low-energy electrons from the electron transport chain once their energy has been used to create adenosine triphosphate (ATP), the “energy currency” of cells.  Oxygen consumption is therefore directly proportional to the amount of ATP produced which is an indicator of how much energy an organism is using. Specific metabolic rate uses oxygen consumption to reveal an organism’s metabolism while accounting for mass. The present study investigates exercise’s effect on specific metabolic rate in crayfish, Procambarus spp., by monitoring oxygen consumption.   Because ATP is used by the muscles for contraction and recovery, we hypothesize the exercise will increase muscular demand for ATP along with oxygen which will in turn drive the specific metabolic rate up. Our results indicated no significant difference in specific metabolic rate before and after exercise in crayfish (t(2) = .6568, p = 0.5788). This implies the conclusion that exercise does not, in fact, increase short term energy consumption of ectothermic invertebrates.
+
+
+Introduction:
+Crayfish, Procambarus spp., are aquatic ectotherms that metabolize energy as all other heterotrophs do. They are safe to use in the lab, and their small size and the fact that they are easily accessible in large quantities make they excellent for study. The sugars they consume in their diet are transformed into glucose, which is converted through a series of reactions to carbon dioxide (CO2) gas [Johnson: 2017]. This process simultaneously produces high energy electrons for transport by electron carriers (NAD+ and FAD) to the electron transport system. This system converts ADP to its higher energy form, ATP, with the energy from electrons. This ATP must meet the demands of all bodily functions or the organism will die. Once the energy has been removed from the electrons to make ATP, oxygen (O2) removes them from the mitochondria to be reduced to water (H20). This process creates a directly proportional relationship between oxygen consumption and the amount of energy a crayfish uses. Metabolic rate can be influenced by both endogenous and exogenous factors such as temperature, body mass, and oxygen availability [Rosewarne: 2016], but this lab seeks to investigate the relationship between exercise and the specific metabolic rate of crayfish. By monitoring oxygen consumption, we will be able to determine whether increasing the crayfish’s activity level changes its specific metabolic rate. Because exercise increases the body’s demand for energy and boosts catabolic processes in muscle tissue [Killen: 2015], we hypothesize that crayfish will have a higher specific metabolic rate after exercise than before exercise. The conclusions we draw from this lab can be useful in understanding how fish, a primary food source for humans, react to exercise stimulus, such as being hooked by a fisherman’s line.
+
+
+Materials and Methods:
+We filled one screw-top glass testing chamber with 22 degrees Celsius water. We then weighed the crayfish and placed it into the testing chamber over an empty dishpan. As we screwed the top on, we observed water overflow from the edges to ensure that the chamber was full to the brim. We turned on the dissolved oxygen probe and stabilized the readings so that we could record accurate O2 levels at 0, 5, 10, 15, and 20-minute time intervals. After we recorded the final oxygen value, we removed the probe and recorded the volume of water in the chamber so that we could remove the crayfish and place it in a dishpan filled with about 2 centimeters high with water. Once the crayfish was in a small water bath in the dishpan, we poked it every 5 seconds for 2 minutes to exercise the crayfish. We then recorded the oxygen consumption of the crayfish after it exercised in the same way we tested our control crayfish and repeated this process for a total of three trials. Using the oxygen consumption values, we recorded, we calculated the specific metabolic rate for both the control and experimental groups and compared them using a paired-t-test.
+
+
+Results:
+Only one of the three crawfish we tested exhibited an increase in specific metabolic rate after exercise, and, while this difference was extremely pronounced, our other two trials showed almost no difference before and after exercise. With this in mind, the two trials whose results did not support our hypothesis had strange oxygen readings from the O2 in the first time intervals. Both trials two and three had nearly the same amount of oxygen reported at the start of the trial as after 5 minutes and 10 minutes of recording. Furthermore, the second and third crayfish we used did not respond to the external stimulus the same way the first one did. These two seemed to react in a more stressed, static manner. They did not swim around the pan as much as the first one and, instead, they tensed up their abdominal muscles and raised their pinchers, similar to a defensive position. These results yielded a conclusion that there was no significant difference in specific metabolic rate of P. spp. (t(2) = .6568, p = 0.5788) as shown in figure 1.
+
+
+Discussion:
+We do not have the statistical ability to reject the null hypothesis in favor of our predicted, alternate hypothesis. Our hypothesis could not be accepted, and exercise does not, in fact, increase the specific metabolic rate of P. spp. according to our study. This would suggest that increased demand for ATP does not increase metabolism in ectothermic invertebrates, however, the behavior of our second and third crawfish have me skeptical about this conclusion and the reasons behind it. 
+Killen et al.(2015) conducted a study that showed the difference in recovery rates between crawfish that respond to a stimulus with short latency and crayfish that respond to a stimulus with long latency. Their findings indicate that fish who respond quickly to stimulus tend to have much longer aerobic recovery periods than those whose response times are much slower. This means that fish that respond more quickly will consume more oxygen in the moments following exercise to allow their muscles the oxygen they need to recover. In extending this concept to our study, I noticed that our first crayfish, whose specific metabolic rate increased significantly after exercise, responded very quickly in an evasive manner to being stimulated by the pen. The other two fish responded slowly, in a defensive manner, and it is possible that this discrepancy is what caused the observed difference in how the crayfish's metabolic rates responded to exercise. 
+Furthermore, stress has been known to cause invertebrates to switch to anaerobic respiration which still uses energy, but does not proceed through a mechanism that involves oxygen consumption [Newell: 1973]. Our first crayfish exhibited very little stress, but our second and third crayfish appeared to be very distressed. This stress might have induced an anaerobic response from them which also could have been responsible for the large p-value we observed. Both of these are possible explanations for the results we found; it is impossible that exercise decreased the amount of energy the crawfish required for their catabolic and anabolic pathways because exercise does, in fact, consume ATP. 
+With further testing of crawfish in a method similar to ours, but with categorization based on the type of observed response, it would be possible for us to distinguish the effects of stress and latency period on the specific metabolic rate of P. spp. after exercise. If we were to repeat this experiment, allowing for such grouping with more trials and consideration for the physiological effects of the nervous and endocrine system would allow for more conclusive results. But, outside of the inferences we suspect based on intuition, the present study does not allow us to make any meaningful conclusions about exercise’s effect on specific metabolic rate of P. spp. 
+
+
+
+Literature Cited:
+1.	Johnson AD. Cell Struture. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 17.2 (updated August 2, 2017), pp. 15-16.
+2.	Rosewarne, P. J., Wilson, J. M., Svendsen, J. C. “Measuring maximum and standard metabolic rates using intermittent-flow respirometry: a student laboratory investigation of aerobic metabolic scope and environmental hypoxia in aquatic breathers.” J Fish Biol. 88: 265–283.
+3.	Killen SS, Reid D, Marras S, Domenici P. “The interplay between aerobic metabolism and antipredator performance: vigilance is related to recovery rate after exercise.” Frontiers in Physiology. 6:111. 
+4.	Newell, R. C. “Factors Affecting the Respiration of Intertidal Invertebrates.” American Zoology. 13:513-518.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-11-09+at+8.09.05+PM.png&Size=37516&Type=image%2Fpng&F=F_6EXuAn7OlNEr3V3
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Comparison of specific metabolic rate before and after 2 minutes of exercise stimulus of P. spp. Bars represent mean specific metabolic rate +/- one standard deviation. (t(2) = .6568, p = 0.5788)
+
+
+*************************************************************************

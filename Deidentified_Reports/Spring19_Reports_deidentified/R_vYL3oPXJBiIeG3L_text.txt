@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-11 10:31:27
+Author of this lab report is: Std_Kveq6UcP
+ID: R_vYL3oPXJBiIeG3L
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effect of Lidocaine on Muscle Contraction Strength in the Raina pipiens
+
+Abstract:
+Action potentials are electrical signals that stimulate contraction in a muscle receiving the signal. Sodium channels play an integral role in creating an action potential. It was hypothesized that a sodium channel inhibitor, lidocaine, would decrease muscle contraction strength if injected into the gastrocnemius muscle of the Raina pipiens. Three frogs were tested by stimulating their muscles electrically, first without lidocaine and again post-injection. The muscle responses before and after injection were compared, using a paired t-test. The muscle responses decreased greatly after injection, yet the p-value was 0.06881, deeming the results statistically insignificant. In conclusion, a future study with more frog legs and more trials could potentially yield more statistically significant results. Significant results could aid studies about muscle movement and the factors that generate it. 
+
+Introduction:
+In this experiment, a leg from the model species the Raina pipiens, or Northern leopard frog, will be used to study the electrical signals that stimulate muscle movement. Typically, muscles are cued to react and generate force and motion by action potentials, electrical stimuli sent from the central nervous system. For an action potential to begin, which take place in a nerve cell or neuron, sodium ions must enter the cell through voltage-gated ion channels [Gutzmann: 2019]. If voltage-gated sodium channels are blocked due to a mutation or drug, an action potential cannot occur. This raises the question: how would muscle contraction strength be affected if sodium channels in the R. pipiens are blocked? Previous studies have shown that inhibiting certain ion channels in an animal’s muscle indeed weakens the force that muscle is able to generate [Lu: 2019]. The specific drug lidocaine has been shown to inhibit sodium-gated ion channels from opening [Zakharova: 2018]. Therefore, it is hypothesized that if lidocaine is injected into the R. pipiens’ gastrocnemius muscle and dripped onto its sciatic nerve, there will be a significant drop in muscle contraction strength. 
+
+Materials and Methods:
+Three different legs from the R. pipiens were used in this experiment. Each leg was properly dissected, isolating the gastrocnemius muscle and sciatic nerve. Each frog leg served as its own control, followed by receiving its own treatment. To serve as a control, we stimulated one leg’s gastrocnemius muscle from an electrical current and probe (touching the muscle) without lidocaine. Different stimuli were given to the muscle in the unit of amps, beginning at 0.1amp. Once we found the lowest amp value that the muscle was able to contract, showing a visible twitch, the appropriate value to use during the experimental test was found. This appropriate experimental value was the lowest amp value plus 0.10amp. For example, Leg #1’s stimulus threshold was 0.3amp. Therefore, we would do the experimental test with stimuli set at 0.4amp. 
+Once a threshold was found, we ran the control stimulation twice more and recorded the leg’s response in volts. Then, still without lidocaine, we stimulated the leg three times at the determined experimental value (for our Leg #1, 0.4amp) and recorded the response. This way, we would be able to compare the control response at this stimulus with the experimental response at the same stimulus. 
+After the completed control experiment, 0.1mL of lidocaine was injected using a syringe into the same gastrocnemius muscle. A few drops were added to the sciatic nerve. After waiting for 4 minutes, we retested the leg at the pre-determined experimental value of amps. The leg was stimulated at this value 3 times and its responses were recorded. These control and experimental tests were repeated for the two other legs. 
+Since each leg served as its own control and treatment, the statistical test used was a paired t-test. The values being compared were the muscles’ responses (in volts) pre-lidocaine injection (control) and post-lidocaine injection (treatment). 
+
+Results:
+Our data was summarized by calculating the average responses for the control stimuli and experimental stimuli of each leg. The responses dropped dramatically from before lidocaine injection to after lidocaine injection. For example, Leg #2 had an average control response of 0.027V, and the response dropped to 0.001V after lidocaine injection (Table 1 and 2). Leg #2 had a standard deviation of 0, and Leg #1 and #3 both had standard deviations of 0.00047; therefore, the error bars are nearly invisible (Fig. 1). There is a visible, dramatic decrease in muscle response for all legs post-injection (Fig. 1). By doing a paired t-test, we received a p-value of 0.06881.
+
+Discussion:
+It was hypothesized that injecting lidocaine into the gastrocnemius muscle of the R. pipiens would dramatically decrease muscle contraction force, and this hypothesis was not supported. In a paired t-test, a p-value above 0.05 means that the results were not statistically significant. Even though our frog legs’ responses decreased largely after injection of lidocaine, with a p-value of 0.06881, we fail to reject the null hypothesis. The results did not determine that lidocaine was the sole reason for the muscles’ decreased contraction strength; the decrease could potentially be due to fatigue or another happenstance factor. We fail to prove that blocking sodium channels with lidocaine directly inhibits action potentials and therefore muscle movement.
+For future experiments, a number of frog legs greater than three could be tested in the same manner for more than three trials. This could potentially yield more significant results, since more legs being tested would decrease the probability that the weaker muscle contractions were due to random factors and increase the probability that it was due solely to lidocaine. 
+More significant results would further the studies of how important sodium channels are to the stimulation and movement of muscles. Furthermore, results from a future study would exemplify the integral role of all ion channels in muscle movement [Zakharova: 2018]. In conclusion, significant data could be used to help research studies on sedatives or mutations in people who have weaker muscle responses. 
+
+Literature Cited:
+1.	Gutzmann JJ, Lin L, Hoffman DA. 2019. Functional coupling of Cav2.3 and BK potassium channels regulates action potential repolarization and short-term plasticity in the mouse hippocampus. Frontiers in Cellular Neuroscience. 13: 1. 
+2.	Lu TL, Chang WT, Chan CH, Wu SN. 2019. Evidence for effective multiple K+-current inhibitions by tolvaptan, a non-peptide antagonist of vasopressin V-2 receptor. Frontiers in Pharmacology. 10: 1. 
+3.	Zakharova AA, Efimova SS, Schagina LV, Malev VV, Ostroumova OS. 2018. Blocking ion channels induced by antifungal lipopeptide syringomycin E with amide-linked local anesthetics. Scientific Reports. 8: 1. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-11+at+10.28.49+AM.png&Size=108485&Type=image%2Fpng&F=F_25sXc1rMl88c9gB
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-11+at+10.28.56+AM.png&Size=67978&Type=image%2Fpng&F=F_1Ho7yUBQmQFapim
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-11+at+10.29.03+AM.png&Size=168054&Type=image%2Fpng&F=F_1mfruu658ETIvwV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Average of Control Frog Legs’ Responses at Threshold and 0.1amp Above Threshold
+
+Table 2. Average of Frog Legs’ Experimental Responses
+
+Figure 1. Frog legs’ compared muscle responses before and after treatment with lidocaine.*************************************************************************
+
+
+

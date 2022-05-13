@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-17 13:22:13
+Author of this lab report is: Std_yj68KTCK
+ID: R_29i8Trhl8Vuxx1s
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effect of Lanthanum Chloride on the Muscular Response to Sciatic Nerve Stimulation
+
+Abstract:
+The contraction and relaxation of vertebrate muscles are directly linked to the nervous system. At neuromuscular junctions, motor neurons connect to muscle fibers, which allows for communication between the nervous and muscular system. At neuromuscular junctions, neurons release acetylcholine, which signals the muscle to contract via depolarization and the consequent opening of voltage-gated ion channels in the muscle fiber. Blockage of such ion channels has potential implications of the ability of muscle fibers to contract. Lanthanum chloride, a calcium channel blocker, works by inhibiting the opening of calcium ion channels in the muscle fibers, preventing cross bridges from forming and muscles contracting. To study the effects of lanthanum chloride, frog gastrocnemius muscles were exposed to small concentrations of lanthanum chloride and stimulated with various amplitudes applied to the sciatic nerve to measure the muscular response. Due to extraneous factors, our results yielded a P-value above 0.05, thus making our results statistically nonsignificant, failing to disprove the null hypothesis that there will be no change in frog gastrocnemius muscular response after exposure to lanthanum chloride.
+
+Introduction:
+The release of acetylcholine at the neuromuscular junction is known for stimulating the contraction of muscles in vertebrates, however the presence of calcium ions in the sarcoplasm of muscle fibers is just as integral to muscle contraction as the neurotransmitter itself [Johnson: 2018]. Voltage-gated calcium channels in muscle fibers are opened in response to depolarization and permit the flow of calcium ions into the sarcoplasm from the sarcoplasmic reticulum [Johnson: 2018]. Calcium in known to be integral to muscle tension as observed in the Granger experiment, where calcium channel blockers were found to inhibit contractions in rat uterus [Granger: 1986]. To study the neuromuscular system of vertebrate organisms, we experimented on frogs with which we were able to isolate the gastrocnemius muscle and sciatic nerve to observe the effects of muscle stimulation before and after expose to lanthanum chloride, a known sodium channel blocker. The muscles of frog legs are innervated by the sciatic nerve, which triggers the depolarization of the muscle fibers and permits contraction. Frog legs are comprised of powerful white muscle used to propel frogs as they jump and are therefore favorable subjects to experiment the effects of calcium blockers on muscular response. The effects of calcium channel blockers can be determined by measuring the voltage recorded by muscle contraction, where the magnitude of the contraction is indicative of the efficacy of the voltage-gated calcium channels [Granger: 1986]. We hypothesized that if the frog gastrocnemius was exposed to lanthanum chloride, then the leg would express a decreased muscular response. 
+
+
+Materials and Methods:
+ To begin the experiment, three frog legs were stripped of their skin such that their muscle is exposed, and the inner thigh was separated to expose the sciatic nerve. To isolate the gastrocnemius muscle, the muscles of the calve were separated with forceps and stripped of connective tissue. Using scissors, the muscle and connective tissue of the Achilles tendon was cut to about midfoot so that a string could be tied about the thick portion of the Achilles tendon, which ensured that the leg would stay stable while hanging from tension. One leg at a time will be strung from a tension hook by the strong tied about the Achilles tendon. Frog Ringer’s solution was used to keep the leg moist and functioning. One at a time, each leg was first exposed to direct sciatic nerve stimulation by laying the nerve over the electrode and measuring the muscular response (in volts) to various stimulus amplitudes. Second, the gastrocnemius muscles were injected with .2 mL of lanthanum chloride and were left for 8 minutes to absorb the solution. Then, the sciatic nerve was again exposed to stimuli of various amplitudes in order to measure the muscular response (in volts) of the gastrocnemius muscle fibers. A one-tailed paired T-test was used to determine whether the results were significant. 
+
+Results:
+    To measure the effects of lanthanum chloride on the voltage of the gastrocnemius response, the measured responses of the muscles of each frog leg was taken at 3.0 amps and compared in the control trial and the treatment trial. The legs post-treatment yielded lower voltage readings during contraction compared to their control trial. To determine the significance of these results, a paired T-test was performed and yielded a P-value of 0.188. Figure 1 illustrates the muscular response before and after exposure to a stimulus of 3.0 amps of each of the three frog legs. 
+
+Discussion:
+The data shows a decrease in muscular response after the gastrocnemius is exposed to lanthanum chloride, however the paired T-test P-value represents nonsignificant results due to its high likelihood of being due to chance. The hypothesis predicted a decreased muscular response however the relatively large P-value yields inconclusive results. This could be due multiple factors, including the small sample size and small amount of trials. These could also include the relatively small decrease in muscle response after lanthanum chloride treatment exhibited in leg two. Based on our knowledge of lanthanum chloride and calcium channels, exposure of gastrocnemius muscles to lanthanum chloride should decrease muscular response due to the consequent blocking of calcium channels, thereby preventing the contraction of muscle fibers. Based on the research showing the inhibition of voltage-gated calcium channels by calcium blockers in rat uteri, calcium channel blockers in frog gastrocnemius are expected to have similar effects on the decreased muscular response to stimulation [Granger: 1986]. In order to better understand the effect of lanthanum chloride on calcium ion channels in muscle fibers, the experiment should be conducted with a larger sample size to eliminate the amplified effect that the outliers have in such a small sample. By studying the effect on gastrocnemius muscle fibers, conclusions can be applied to more research questions regarding the role of calcium blockers in medical conditions such as cardiac and circulatory conditions which may require alterations in the contraction of blood vessels, etc. 
+
+Literature Cited:
+1.Johnson AD. Neuromuscular Control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated 8/2/18) pp.17-34. 2. Granger SE, Hollingsworth M, Weston AH. 1986. Effects of calcium entry blockers on tension development and calcium influx in rat uterus. British Journal of Pharmacology. 87: 147-156.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+figure.jpg&Size=24126&Type=image%2Fjpeg&F=F_3h3XrQH6RX9LIey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of calcium channel blockers on gastrocnemius contraction (measured in volts) in frog legs at stimulation 3.0 amps. Note that the blue bars represent the control trials and the orange bars represent the lanthanum chloride treatment trials.*************************************************************************
+
+
+

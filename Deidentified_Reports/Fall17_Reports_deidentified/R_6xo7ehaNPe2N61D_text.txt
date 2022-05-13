@@ -1,0 +1,53 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-18 18:06:16
+Author of this lab report is: Std_PpS1vf9c
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Injecting the Gastrocnemius Muscle of a Rana pipiens' Leg with Lidocaine Shows That the Threshold of the Muscle Increases
+
+Abstract:
+The main objective of this experiment was to test the threshold of the gastrocnemius muscle of the Rana pipiens, the Northern Leopard Frog, using voltage, before and after a lidocaine injection. We hypothesized that the threshold would be higher after the lidocaine injection, because lidocaine is a sodium blocker and sodium is essential for muscle contraction. We dissected the leg to isolate the muscle and then tested for the threshold. We then injected the muscle with lidocaine and tested again for the threshold. We conducted a single paired t-test and found the the difference between the muscle before and after the lidocaine injection was significantly different. 
+
+Introduction:
+In this experiment we used the gastrocnemius muscle from a Rana pipiens', the Northern Leopard Frog, leg. This muscle was a good choice in our experiment because we could quickly test the muscle and it was simple to dissect and set up the experiment. We isolate the muscle in order to show basic properties of the frog’s neuromuscular control. The neuromuscular system in a frog is organized such that a nerve impulse at the neuromuscular junction will cause the presynaptic terminal to release acetylcholine (ACh). The ACh that was released will then bind with its receptor, which open up sodium (Na+) channels, causing an action potential. We injected the gastrocnemius muscle with lidocaine, which is a sodium channel blocker. We hypothesize that the independent variable, lidocaine injection, will raise the dependent variable, the threshold, of the muscle because, the lidocaine will make it more difficult for the muscle to depolarize and therefore, produce an action potential [Johnson: 2017].
+
+Materials and Methods:
+In this experiment we had three separate frog’s legs to test, each serving as its own control. The first step in this experiment was dissecting the frog’s leg in order to isolate the gastrocnemius muscle from the rest of the leg. We then tied a piece of string onto the end of the muscle and attached it to the force transducer. We also pinned down the remaining tissue and bone surrounding the muscle (See Figure 1). After securing the leg, we determined the threshold stimulus of the gastrocnemius muscle by directly stimulating it using voltage and measuring it on the force transducer. We increased the voltage by 0.1 V until we saw a visible to the naked eye twitch in the muscle. After finding the threshold value for the muscle, we injected the same muscle with lidocaine at a concentration of 25mM (See Figure 2). The lidocaine was injected mainly in the center of the muscle. We then tested the muscle for the threshold using the same process as before. We then repeated everything above on the remaining frog legs [Johnson:2017]. Following the experiment we analyzed the data using a single paired t-test, rounding the threshold values to the hundredths place. 
+
+Results:
+In this experiment we measured the threshold of the gastrocnemius muscle in a Rana pipiens frog leg before and after injecting the frog with lidocaine. All three legs required less voltage to reach threshold than after being injected with lidocaine. This is shown in Figure 3. After analyzing the data using a single paired t-test, the threshold of the group after the lidocaine was significantly greater than the group before the lidocaine (t-value= 5, and p-value= 0.03775). 
+
+Discussion:
+The threshold of the muscle twitch increased when injected with lidocaine. We measured the threshold as a visible pulse in the muscle. At times, we had an amplitude register, but no visible twitch. In case of this happening, we did not state that time as the threshold for the muscle. At other times we saw a twitch and no amplitude registered. This could be due to the fact that the force transducer measures downward force and not outward force. So if a muscle contracted outward, there is the possibility that the amplitude would not have registered. There was a significant difference in the voltage required to reach the threshold in the muscle before and after the lidocaine injection, therefore, this experiment supported our hypothesis.This experiment shows that lidocaine, a sodium channel blocker, does impact the threshold of the muscle by inhibiting the firing of action potentials that cause the muscle to contract.  A study done in 1997 found that sodium in high doses increases the contraction of muscle [Turan:1997]. This study works with our experiment because we found that blocking sodium inhibits muscle contraction. Some potential sources of error in this experiment may be where the probes were placed or how the force transducers measured the amplitude. The next logical step for this study would be to conduct the experiment on a larger scale or change what chemical is injected into the muscle. 
+
+
+
+Literature Cited:
+Johnson AD. Neuromuscular Control. Comparative Physiology Laboratory Manual. Dpt. Biology, Wake Forest University, Winston-Salem, NC. Vers. 17.2 (Updated August 2, 2017), pp. 19-35.
+
+Turan, B., et al. “Tissue and Concentration-Dependent Effects of Sodium Selenite on Muscle Contraction.” Biological Trace Element Research, vol. 62, no. 3, June 1998, pp. 265–280.
+
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio+114+labr1+fig1.jpg&Size=1057737&Type=image%2Fjpeg&F=F_9yN9T2znOYHaV7v
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio114+labr1+fig2.jpg&Size=792446&Type=image%2Fjpeg&F=F_71yEbyyjMPOKFBH
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio114+labr1+fig3.png&Size=16930&Type=image%2Fpng&F=F_021bI91cGhDggsZ
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The gastrocnemius muscle is attached to a string, connected to the force transducer and pinned down.
+Figure 2: The gastrocnemius muscle is being inserted with lidocaine
+Figure 3: The voltage required for the muscle to reach threshold is higher once the muscle has been inserted with lidocaine. 
+
+*************************************************************************

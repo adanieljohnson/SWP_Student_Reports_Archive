@@ -1,0 +1,109 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-23 23:57:53
+Author of this lab report is: Std_jL6GxifK
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Effect of Temperature on Rate of Photosynthesis in "Brassica oleracea"
+
+Abstract:
+Photosynthesis is an important biological mechanism that allows plants to create their own energy. The purpose of this study is to explore the relationship between the rate of photosynthesis and the temperature in the "Brassica oleracea." This relationship is becoming extremely important as the Earth is enduring climate change as plants have to adapt to these different environments to function optimally. It was hypothesized that the photosynthesis activity will be the highest in the room temperature (25 ℃) and will have a lower rate at the extreme high and low temperatures of 45℃ and 0 ℃. In the experiment, chloroplasts were isolated from the "B. oleracea" and added to test tubes containing DCPIP. Five test tubes were placed in each temperature condition and a spectrometer was used to measure the absorbance levels of each test tube every ten minutes for thirty minutes. The results of photosynthetic rates were found to be insignificant between control and experimental groups using a one by three one-way ANOVA test. 
+
+Introduction:
+In general, energy for cellular processes comes from three major sources: chemical energy, energy stored as an oxidation-reduction potential, or electrical/chemical gradient across a lipid bilayer [Johnson: 2017]. Plants directly and indirectly extract energy from these sources through photosynthesis. The equation for photosynthesis is:
+6 CO2 + 12 H2O C6H12O6 + 6 H2O + 6 O2 
+	In summary, chloroplasts in plants absorb solar radiation in chlorophyll which excites electrons and triggers chemical reactions. Water is cleaved to release electrons to replace others and to generate a proton gradient. The electrons are eventually used to synthesize glucose. Throughout the reaction, NADPH and a proton gradient are created to drive ATP synthesis and eventually molecules combine to produce glucose. 
+	In this experiment, the organism under investigation is the "Brassica oleracea," commonly known as kale. It is easily obtainable, observable, and simple plant to investigate. 
+	In general, temperature does not affect the light dependent reactions of photosynthesis, but it does affect the light independent mechanisms. At temperatures that are both too high and too low for optimal photosynthesis in the "B. oleracea," the key enzymes are not able to work or catalyze efficiently, which decreases the photosynthetic rate. At high temperatures, some enzymes become denatured and cannot function properly [Johnson: 2017]. In Thomas Sharkey’s experiment with heat stress and photosynthesis, he found that only “photosystem I and cytochrome complex reactions” are substantially affected by heat. In addition, photosystem II was not affected by the heat treatments and the “rubisco [enzyme] normally deactivates at these moderately stressful temperatures” [Sharkey: 2005]. These results coincide with Johnson’s claim that light independent reactions are affected by stressful heat.
+
+The independent variable is the temperature that the "B. oleracea" is placed in. The three conditions are 0 ℃ in an ice bath, 25 ℃ in room temperature, and 45 ℃ in a hot water bath. Based on these changed conditions, the dependent variable is the photosynthetic rate of the "B. oleracea." 
+This biological question of temperature and optimal photosynthetic rate is being explored in order to grow "B. oleracea" during the right time of year and temperatures. In addition, with the looming concern of global warming and climate change, this experiment may give insight for the future photosynthesis efficiency if the Earth’s climate continuously heats up.
+Will the photosynthetic activity significantly differ in kale plants in moderate temperature in comparison to extreme high and low temperatures? The hypothesis is that there will be a significant decrease in photosynthesis activity at both low and high temperatures because the plant will not be working at its optimal temperature and therefore will not be working efficiently.
+
+
+Materials and Methods:
+Part I:
+1. Pack a mortar & pestle, a medium-sized beaker (150-250 ml size), and 3, 50 ml centrifuge tubes into crushed ice to cool.
+2. While the mortar and pestle are cooling, remove the large central veins from 4 medium-sized kale leaves. Throw away the veins, and rinse the remaining leaf pieces with tap water. Blot off any excess moisture from the leaves.
+3. When the mortar and pestle are cold, wipe them dry, then add the kale leaves.
+4. Add 10 ml of cold grinding buffer. Grind the kale until it is a thick paste with no large chunks of leaves left.
+5. Add an additional 10 ml of grinding buffer, mix with the kale slurry, and strain the entire volume through three layers of cheesecloth into the chilled beaker.
+6. Transfer the remaining green liquid to a chilled 50 ml centrifuge tube marked “A”, and spin it at 200 x G (200 times the force of gravity; 1200 rpm in the RT-7 centrifuge) for 3 minutes at 4 ℃.
+7. Pour the supernatant out of the tube marked “A” into the second chilled 50 ml centrifuge tube marked “B”. Do not transfer the debris at the bottom of tube “A”.
+8. Centrifuge the 50 ml tube containing chloroplast suspension (Tube “B”) at 1,000 x G (2800 rpm in the RT-7 centrifuge) for 10 minutes at 4 ℃.
+9. Add 20 ml of grinding buffer to the pellet and suspend it by stirring gently with a transfer pipet. 
+
+Part II:
+1.  Label thirteen large test tubes as shown below, and place them in a tube rack.
+2.  Prepare five replicates of each of the following reaction mixes. Only one replicate of the blank is needed. The blank requires 8 ml of water and 2 ml of 100 mM reaction buffer at room temperature. The rest of the test tubes all need 6 ml of water, 2 ml of 130 uM DCPIP, and 2 ml of 100 mM reaction buffer.
+3.  Number thirteen spectrophotometer cuvettes, 0 to 12.
+4.  When the assay is prepared, add 100 μl of the enriched chloroplasts prepared in Exercise #1 to the blank tube and the experimental tubes.
+5.  Mix each tube immediately after adding chloroplasts.
+6.  Transfer the mixtures to pre-numbered spectrophotometer cuvettes.
+7.  Blank the spectrophotometer using Tube 0. Then immediately measure the absorbance of all the samples (Time Zero points).
+8.  Place samples 0, and 1-5 back on the tube rack in room temperature (25 ℃).  Samples  #6-10 go in the ice (0 ℃). Samples 11-16 go into the heat bath (45 ℃).
+9.  After 10 minutes, blank the spectrophotometer with sample 0. Read the absorbance of each sample at 600 nm. After recording absorbance, be sure to put the cold and hot samples back in the respective temperatures.
+10.  After 10 more minutes (20 minutes total), blank the spectrophotometer. Then measure the absorbances a second time for each sample.  
+11.  After another 10 minutes (30 minutes total) blank the spectrophotometer, and measure absorbances one more time for all the samples.
+
+	In order to measure electron transfer reactions and the rate of photosynthetic reduction in chloroplasts, the Hill reaction is used:
+2 H2O + 2 DCPIP (blue)  2 DCPIPH2 (colorless) + O2 
+
+A one by three, one-way ANOVA test was used for this experiment because the experiment only involved one independent variable and involved three different temperature conditions to compare.
+
+
+
+Results:
+In general, the control group’s photosynthetic rate in 25℃ increased steadily at the highest rate of about 11-12% over the course of 30 minutes according to table 3. The control and cold temperature groups showed similar decreases in absorbance (increase in photosynthesis due to more DCPIP turning colorless) over the 30 minute time period as observed in the comparative Figure 7. According to table 2, all three groups had consistent standard deviations.
+
+A one by three, one-way ANOVA test was used for this experiment. There was only one independent variable that involved three different temperature conditions to compare. The null hypothesis is that the means are the same for all three treatments. The alternative hypothesis is that at least one of the mean comparisons is significantly different from the others. 
+There was no significant difference (p = 0.483) in the average absorbances at 30 minutes of the three different temperature conditions. The alternative hypothesis was not supported. 
+
+
+
+Discussion:
+The results did not support the hypothesis. The general trends suggest that the hypothesis was on the right track, but the statistical ANOVA test did not prove the results to be significant. Reasons for this lack of significance between the control and the experimental groups may be results of the temperatures not being extreme enough or the duration of the experiment not being long enough.
+	In terms of the experiment, the larger the decrease in the absorbance, the higher the rate of photosynthesis. As the DCPIP blue is reduced by the electrons from photosynthesis, the DCPIP turns colorless and is therefore unable to absorb as much light as before. This is due to the chemical change from an aromatic ring to conjugated C=C bonds. 
+The 45 ℃ condition yielded the least photosynthesis in the chloroplasts of B. oleracea, foreshadowing the inefficient energy production for plants in a world where global climate change escalated and heated the Earth to too hot a temperature for plants to thrive.
+	For both cold and hot extreme temperatures, the mechanisms of photosynthesis involving the enzymes and reactions will not occur as efficiently. In the case of extreme heat, the enzymes denature and lose their shape and functionality. 
+In Booth’s experiment investigating global warming related to the carbon cycle, he projected the mean temperature change all the way until the year 2100. The graph displays an increasing curve and comments on the uncertainties of how plants will function in the predicted heat in the future climate. He stresses the urgency to understand photosynthetic responses to high temperature and the “potential role of plant acclimation” [Booth: 2012]. 
+In Ploeg’s experiment with temperature effect on tomato plant development, he discovered that the presence of heat in different developmental stages of a tomato will dictate how it grows and thrives in the environment during its lifespan. For example, premature plants at low temperatures “produce thicker leaves, so they intercept less light” which causes a lower growth rate over the plant’s lifespan [Ploeg: 2005]. 
+Based off of the results from the experiment and other experiments, a future biological question to be answered could relate to age of leaves and their resilience to heat stress or simply how age relates to photosynthetic rate in the same condition. 
+
+
+Literature Cited:
+Booth, Ben B. B., et al. “High Sensitivity of Future Global Warming to Land Carbon Cycle Processes.” Environmental Research Letters, vol. 7, no. 2, 2012, p. 24002. Institute of Physics, doi:10.1088/1748-9326/7/2/024002.
+
+Johnson AD. Cell Structure. Biology Principles Lab Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. 16.1. pp. photosynthesis online. 
+
+Ploeg, Der Van, and E. Heuvelink. “Influence of Sub-Optimal Temperature on Tomato Growth and Yield: A Review.” The Journal of Horticultural Science and Biotechnology, vol. 80, 	no. 6, Jan. 2005, pp. 652–59. Taylor and Francis+NEJM, 						doi:10.1080/14620316.2005.11511994.
+
+Sharkey, Thomas D. “Effects of Moderate Heat Stress on Photosynthesis: Importance of Thylakoid Reactions, Rubisco Deactivation, Reactive Oxygen Species, and Thermotolerance Provided by Isoprene.” Plant, Cell & Environment, vol. 28, no. 3, Mar. 2005, pp. 269–77. Wiley Online Library, doi:10.1111/j.1365-3040.2005.01324.x.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-23+at+11.51.38+PM.png&Size=53411&Type=image%2Fpng&F=F_3sZ9gWivtqoXeC1
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-23+at+11.52.04+PM.png&Size=50442&Type=image%2Fpng&F=F_3n21SUXHBhnY3m5
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-23+at+11.52.32+PM.png&Size=37295&Type=image%2Fpng&F=F_bHlG9QbthVXghHn
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-23+at+11.53.02+PM.png&Size=32225&Type=image%2Fpng&F=F_cSKHX1jdb3aLFVr
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-23+at+11.53.24+PM.png&Size=32094&Type=image%2Fpng&F=F_egklu4a99iZfHJH
+
+Figure 6: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-23+at+11.53.46+PM.png&Size=61945&Type=image%2Fpng&F=F_ah3aJntYGOy8zop
+
+Figure 7: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-23+at+11.53.59+PM.png&Size=46875&Type=image%2Fpng&F=F_a4qVMH585JcxkRn
+
+
+Figure Legends: 
+Table 1 shows the average absorbances of the five trials for each experimental group over 30 minutes. The data suggests different rates of photosynthesis for all three groups, with the “hot” temperature having a negative change in absorbance, indicating minimal photosynthetic activity.
+Table 2 displays the average standard deviations for five of the samples in each temperature condition. The standard deviations are fairly consistent across all experimental and control groups, suggesting that the trials within each groups gave similar results. 
+Table 3 displays the average change in absorbance over 30 minutes for all three temperature conditions. This table demonstrates relatively consistent rates in photosynthesis over 30 minutes, although, different conditions yield different increases/decreases in rates. 
+Figure 4 displays the control group’s average absorbance over 30 minutes. Since absorbance decreases over time, photosynthesis is occurring and the electrons are reducing the DCPIP. 
+Figure 5 displays the cold temperature group’s average absorbance over 30 minutes. The absorbance gradually decreases over time, and the standard deviation is large at the ten minute mark, indicating possibly inconsistent results between trials.
+Figure 6 displays the hot temperature group’s average absorbance over 30 minutes. The increase in absorbance indicates the lack of efficiency that the kale has in terms of photosynthetic rate. 
+Figure 7 displays all of the groups’ average absorbances over 30 minutes on one graph to compare starting and ending points of absorbance to estimate rough percent changes.
+
+*************************************************************************

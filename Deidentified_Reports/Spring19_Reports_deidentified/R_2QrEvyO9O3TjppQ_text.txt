@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-21 10:43:59
+Author of this lab report is: Std_Dlev4J7A
+ID: R_2QrEvyO9O3TjppQ
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The Effects of Added Acetylcholine On Frog Leg Muscle Contraction
+
+Abstract:
+Muscle contractions are controlled by electrical and chemical signals sent from the brain. One of the most prominent chemicals that the brain releases to illicit movement is acetylcholine. The purpose of the experiment was to measure the growth or regression of muscle contraction amplitudes in frog legs before and after adding a specific amount of acetylcholine. Researchers hypothesized that the frog legs would have larger contraction amplitudes after having acetylcholine injected into the muscle. Researchers took three frog legs and shocked them each at the same amount of voltage and measured the contraction amplitudes. Researchers then took those same frog legs and injected them with a specific amount of acetylcholine and measured the contraction amplitudes at the same voltages. It was discovered that the hypothesis was incorrect and the added acetylcholine caused a general regression in contraction amplitudes.
+
+
+Introduction:
+Skeletal muscle movement is highly regulated by neuromuscular messages sent from the brain and is received in the muscle. Acetylcholine molecules bind to nicotinic ion-channel receptors on the muscle cell membrane initiating a sequence of steps that produces muscle contraction. It controls the contractions of all skeletal and voluntary muscles. Another experiment was conducted that studied the effect of electrical skeletal muscle stimulation on the degradation of acetylcholine receptors. The researchers denervated a rat and then sent electrical impulses through its skeletal muscles and studied how the acetylcholine receptors degraded (Linden, Card, Fambrough: 1979). Researchers conducted an experiment on frog legs to see how added acetylcholine impacts contraction amplitude. Researchers hypothesized that adding 10mg/mL of acetylcholine would cause a rise in the voltage of the frog leg’s contraction amplitude.
+
+
+Materials and Methods:
+Researchers conducted the experiment on three frog legs. Each frog leg was skinned and strung up so the gastrocnemius muscle was hanging perpendicular to the rest of the leg. An electrical probe was then used to determine the shock threshold of each leg. The leg was then shocked at that amplitude and contraction amplitudes were recorded. Frog leg 1 was shocked at 1.3V, leg 2 was shocked at 1.4V, and leg 3 was shocked at 1.5V. After the legs were first shocked and the amplitudes recorded, researchers then injected the gastrocnemius muscle in two places with 10mg/mL of acetylcholine and contraction amplitudes were measured again. The Paired T-Test was the statistical test used because it is useful for testing the same thing but with different methods. Put simply, each row is the same organism, but they are tested at different voltage thresholds.
+
+
+Results:
+The frog legs that researchers injected with acetylcholine had lower contraction amplitudes than the frog legs that had regular amounts of acetylcholine. The contraction amplitude for the first two legs decreased an average of 0.3V between the control and variable group.
+
+
+Discussion:
+The researchers’ hypothesis was incorrect. The frog legs that had added acetylcholine had lower contraction amplitudes than their normal levels of acetylcholine counterparts. It seems that added acetylcholine actually stifles contraction amplitudes instead of causing them to rise. Biologically, this could be because the acetylcholine receptors are filled or are simply over- recepting. Or the acetylcholine esterase is cleaning up the acetylcholine quickly and resulting in no growth of contraction amplitude. The p-value was 0.36. This is a relatively high p-value and says some interesting things about the data. It could be speculated that the third frog leg skewed the data. Unlike the first and second frog leg, the third frog leg that had been injected with acetylcholine had a higher contraction amplitude than the leg without acetylcholine. The third leg simply responded to muscle stimulation differently. In Linden, Card, and Fambrough’s experiment, they studied acetylcholine receptors and how they degraded between each electrical impulse. While researchers in this experiment did not study acetylcholine receptors, they discovered that the frog legs’ contraction amplitudes decreased between each electrical impulse. The two experiments differed from each other in what they studied but had similar results in that both acetylcholine receptors and contraction amplitudes decreased between electrical muscle stimulation (Linden, Card, Fambrough: 1979). An interesting experiment topic in the future would be adding more or less than 10mg/mL of acetylcholine and seeing if one could get the contraction amplitudes to become higher than the contraction amplitudes for the legs without acetylcholine. 
+
+
+Literature Cited:
+Linden, Diana Card, and D. M. Fambrough. "Biosynthesis and degradation of acetylcholine receptors in rat skeletal muscles. Effects of electrical stimulation." Neuroscience 4.4 (1979): 527-538.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=GROG+GRAPH.png&Size=55259&Type=image%2Fpng&F=F_1liwwdStxee1KAV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average Contraction Amplitude of Frog Legs Without Ach and Frog Legs Treated with ACh. The blue columns represent the control group. The orange columns represent the variable group. The error bars are +/- 0.05 and +/- 0.12 for Leg 1. The error bars are +/- 0.051 and +/- 0.024 for Leg 2. The error bars +/- 0.04 and +/- 0.016 for Leg 3. Error bars are standard deviation from the mean. The T-Value was 1.807 with 6 degrees of freedom.*************************************************************************
+
+
+

@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-29 18:02:01
+Author of this lab report is: Std_vjRfyGh9
+ID: R_1HiVKE9nxKVyVfV
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The Effects of Phosphodiesterase Inhibitor on the cAMP pathway of Physarum polycephalum
+
+Abstract:
+The differences in distance migrated by Physarum polycephalum toward oats were evaluated between a phosphodiesterase inhibitor experimental group and a control group to demonstrate chemotaxis and signal transduction pathways. Most physarum behaviors are regulated through G-protein coupled receptors and pathways. The cAMP pathway uses cAMP as a second messenger to activate PKA which regulates movement and metabolism. This process halts when cAMP is broken down by phosphodiesterase [WFUBD: 2018]. It was hypothesized that the addition of caffeine, a common phosphodiesterase inhibitor, would allow for the cAMP pathway to continue longer than the control group and physarum would show increased movement activity. A block of physarum stock plate was added to the middle of 6 agar water plates. 3 experimental plates were treated with 4 mL of caffeine solution and 3 oats were placed at the edge of all 6 plates. The physarum grown in caffeine showed significantly more growth toward the stimuli. 
+
+Introduction:
+Physarum polycephalum is a yellow, flat mass up to 30 cm in diameter and lives naturally in ground debris. The mass crawls by extending its leading-edge using actin microfilaments in search of bacteria, microbes, and other food sources and actively transports hydrolytic enzymes into the food vacuoles to digest them. Physarum can sense molecules in its environment and responds by crawling to or from the molecule. Seeking out the source is positive chemotaxis and avoiding the source is negative chemotaxis [WFUBD: 2018]. Physarum was found to undergo positive chemotaxis when oats were present in its environment in previous experiments. 
+Physarum senses food sources and responds to its environment through signal transduction pathways. Most behaviors are regulated through G-protein coupled receptors which is activated when an extracellular event stimulates a membrane-bound receptor. After the G-protein coupled receptor is activated, the alpha subunit leaves to stimulate an effector enzyme to generate a second messenger. The second messenger then activates other enzymes, transcription factors, channel proteins, and other proteins which determine how the cell responds [WFUBD: 2018]. 
+One of the major G-protein coupled receptor pathways uses cyclic adenosine monophosphate, or cAMP, as a second messenger. In this pathway, the effector enzyme is adenylate cyclase which converts ATP to cAMP. The cAMP second messenger commonly activates protein kinase A, or PKA, which phosphorylates enzymes to activate or deactivate them and regulates movement and metabolism of physarum. This process stops when cAMP is broken down by phosphodiesterase. Inhibiting phosphodiesterase results in the production of more cAMP [WFUBD: 2018]. 
+Caffeine was used to target cAMP phosphodiesterase and measure the growth rate of Physarum polycephalum compared to that of the control group. Caffeine is a known phosphodiesterase inhibitor [Tesarik: 1992]. It was hypothesized that the addition of caffeine would allow for the cAMP pathway to continue longer than the control group and physarum would show increased movement activity. This hypothesis stemmed from a 1992 study that found that phosphodiesterase inhibitors, such as caffeine, functioned as motility stimulants for human sperm [Tesarik: 1992]. 
+
+
+Materials and Methods:
+6 water agar plates were used in this experiment. A 1 cm block was removed from the middle of each plate and replaced with a 1 cm block of Physarum stock plate using metal spatula and forceps. The metal spatula and forceps were sterilized with ethanol between each step. The 3 experimental plates were treated with 4 mL of caffeine solution. A 20X caffeine stock solution was diluted to a 1X solution. 3 oats were placed on one edge of each of the 6 plates. The plates were then covered in foil and placed in an opaque bag into an incubator for 24.5 hours at 25 degrees Celsius. To evaluate the data, a two-sample t-test was used to determine significance. An alpha level of α=0.05 was used.
+
+Results:
+As seen in Figure 1, the control group (n=3) had an average distance of 3.67 mm towards the oats. The experimental group (n=3) had an average distance of 35.67 mm towards the oats. The P value from the two-sample t-test between the two groups was 0.0015. The combined standard deviation was 4.11 mm. 
+
+Discussion:
+The differences in Physarum polycephalum chemotaxis were evaluated between a phosphodiesterase inhibitor experimental group and a control group. Physarum use G-coupled protein receptor pathways to sense food sources and respond to its environment. The cAMP pathway terminates when phosphodiesterase breaks down cAMP, the second messenger molecule that activates other enzymes and proteins which determine how the cell responds. Phosphodiesterase inhibitors result in an increased production of cAMP [WFUBD: 2018]. It was hypothesized that the addition of caffeine would allow for the cAMP pathway to continue longer than the control group and physarum would show increased movement activity. The results were significant, and the hypothesis was supported. The experimental group had an average distance traveled of 35.67 mm compared to the 3.67 mm traveled by the control group (Figure 1). There was an overall significant increase in distance traveled for the experimental group compared to the control group with a p value of 0.0015. The distance traveled for the experimental group increased as phosphodiesterase could not break down cAMP and the cAMP process could continue due to the caffeine solution. Physarum demonstrated positive chemotaxis towards the oats since Physarum polycephalum demonstrates positive chemotaxis to solutions of glucose, maltose, mannose, peptone, and galactose [Carlile: 1970]. Oats are made up of carbohydrates which are sugars, such as glucose, and starches. The data supported the findings found in the 1992 study that phosphodiesterase inhibitors stimulate motility in cells [Tesarik: 1992]. Future studies could be done to determine what stimulates phosphodiesterase to determine if a phosphodiesterase stimulant decreases movement in Physarum polycephalum. If motility decreases, then it would support that the phosphodiesterase enzyme is responsible for the change in motility. Limitations for this study included the relatively small sample size. 
+
+Literature Cited:
+Carlile, M. J. (1970). Nutrition and chemotaxis in the myxomycete Physarum polycephalum: the effect of carbohydrates on the plasmodium. Microbiology, 63(2), 221-226.
+Tesarik, J., Mendoza, C., & Carreras, A. (1992). Effects of phosphodiesterase inhibitors caffeine and pentoxifylline on spontaneous and stimulus-induced acrosome reactions in human sperm. Fertility and sterility, 58(6), 1185-1190.
+Wake Forest University Biology Department (2018). Unit 3: Signaling. Sakai, Wake Forest University, 214.2.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Capture.PNG&Size=23567&Type=image%2Fpng&F=F_265UC1mOQ4U8H58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The distance Physarum polycephalum migrated over a 24.5-hour period in a water agar plate and an agar plate treated with caffeine. *************************************************************************
+
+
+

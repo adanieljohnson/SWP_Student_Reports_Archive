@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-21 21:59:01
+Author of this lab report is: Std_RRGi7kt3
+ID: R_phpKSNeG10B2vmh
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of Different Wavelengths of Visible Light on Photosynthetic Rate
+
+Abstract:
+The main objective of this lab is to study the effect of different wavelengths of visible light on absorbance. Tracking the percent change in absorbance can help one understand its effect on electron transfer, and hence photosynthetic rate. The model organism used is spinach because it is a leafy, green plant. This means it has plenty of chloroplasts and reflects green light. The treatments the enriched chloroplasts are exposed to are darkness, white light, red light, and green light. The alternative hypothesis is that red light will have a significant increase in the magnitude of percent change, which will in turn mean it leads to a better photosynthetic rate. The p-values came out to be above the significance level, meaning that the alternate hypothesis could not be supported. The date came out to be inconclusive and requires further study. 
+
+Introduction:
+	Unlike heterotrophs, photoautotrophs do not depend on an external source of organic compounds for energy used in respiration, a cellular metabolic process. They undergo photosynthesis to transform light energy into the chemical energy used in respiration. These two metabolic processes are dependent of each other because they are essentially opposites. Photosynthesis uses carbon dioxide, water, and light energy to produce glucose and oxygen. Meanwhile, respiration uses glucose and oxygen to produce carbon dioxide and water. 
+	Focusing on photosynthesis, it is a two-stage metabolic process, consisting of light dependent and light independent reactions. In the light dependent reactions, light energy is used to create a proton gradient for ATP synthesis. Chlorophyll is a green pigment that absorbs visible light to start this process. Throughout this reaction in Photosystem II, electron transfer occurs. A way to measure the electron transfer is through a Hill reaction, in which DCIP and water are reduced with light. DCIP is naturally blue, and when reduced, it changes into a colorless solution. Measuring the change in absorbance can help one observe the amount of electron transfer that occurred. A higher percent change in absorbance would mean there was more electron transfer, meaning there was a more efficient photosynthetic rate. To summarize, absorbance over time is inversely related to photosynthetic rate. 
+	With this method of observing photosynthetic rate, one can test how environmental factors can affect electron transfer. One factor that may affect electron transfer is the wavelength of visible light the chloroplasts are under. Since chlorophyll is green, it reflects green light. Meanwhile, studies have shown that chloroplasts absorb red and blue light the most because it closely resembles solar energy [Zhen, 2017]. This means that “red light can increase photosynthetic efficiency” [Zhen, 2017]. With this information, the alternate hypothesis is that the chloroplasts from spinach under a red wavelength of visible light will undergo of faster rate of electron transfer and therefore better photosynthetic rate than any other wavelength of light tested. The null hypothesis is that wavelength of visible light has no effect on electron transfer. The negative control will be chloroplasts under darkness, and the positive control will be white light. The two wavelengths being tested will be red and green light. The reasoning for red light being better for photosynthesis is that chloroplasts absorb this wavelength more efficiently than green or white light. More light energy means more electron transfer, therefore a better photosynthetic rate. With this said, the enriched chloroplasts from Spinach leaves under red light will have the highest percent change in absorbance when compared to other wavelengths of visible light. 
+
+
+Materials and Methods:
+Before starting the Hill reaction, the enriched chloroplasts must be obtained from four spinach leaves. After removing the central veins from them, make sure to dry off any moisture. Then, grind up the leaves for a few minutes, and add 10 milliliters of grinding buffer, 400 mM sucrose in Tricine buffer. Grind it to a green paste and add 10 more milliliters of the grinding buffer. Then, strain the slurry solution through three layers of cheesecloth. Transfer it to a 50 mL centrifuge tube marked A and spin it at 200 G for three minutes at 4°C. Pour out the supernatant to another centrifuge tube marked B and spin it at 1000 G for ten minutes at 4°C.Then pour out everything, but the pellet, and add 20 ml of grinding buffer to it. Make sure to mix the contents well because this centrifuge has the enriched chloroplasts that will be used later.
+Then, thirteen test tubes need to be set up according to their treatment. One test tube will make up the blank, containing 8 mL of water, 2 mL of 130 mM DCIP, and 2 mL of reaction buffer. The rest of the twelve test tubes will contain 6 mL of water, 2 mL of 130 mM DCIP, and 2 mL of reaction buffer. Three test tubes will be labeled for each treatment group as Dark, White Light, Red Light, and Green Light. After setting the spectrophotometer to 600 nanometers, add 100 microliters of enriched chloroplasts to each of the thirteen test tubes. Be sure to mix the contents thoroughly, and then add mixture of each test tube to their own cuvette. After blanking the spectrophotometer, record the absorbance of each cuvette, and this will be the “Absorbance at Time Zero.” Then, put the cuvettes under their respective treatment. Place the “Dark” cuvettes inside a drawer. Set the “White Light” cuvettes under a normal lamp, and place “Red Light” cuvettes under a lamp with a red filter. Put the “Green Light” cuvettes under a lamp with a green filter. After 10 minutes, record the absorbance again and be sure to place the cuvettes back to their respective treatment as soon as you record the absorbance. Record the absorbance again at the twenty- and thirty-minute interval. Be sure to blank it each time you record absorbance. Record the results in a table, calculating percent change between each time interval.
+
+
+
+
+Results:
+A two sample one-tailed t-test was used to determine significance. Each treatment was compared to the percent change of the enriched chloroplasts under red light. The significance level for the test is 0.05. The p-value when comparing the chloroplasts under red light and darkness was 0.0688. The p-value between the red light and white light was 0.2182. Finally, the p-value when comparing green and red light was 0.3333. 
+
+Discussion:
+	As the different two sample t-tests show, there is not enough evidence to reject the null hypothesis. The p-values were all above the significance level of 0.05. There was no significant difference in percent change when enriched chloroplasts were exposed to different wavelengths of visible light over a 30-minute period.  One red flag from the data are the error bars. Specifically, the standard deviation for the chloroplasts under red light came out to be ±41.5%. This spread of data suggests that the results for the treatment were not consistent with each other. A source of error that could have caused this large deviation is that some of the cuvettes had black marker on the top of them. This could have caused the absorbance reading to be higher than it should have been. The higher the magnitude of percent change, the more electron transfer that was undergone. The red light did have the highest rate of change, but none of the p-values provide for strong evidence towards it having a better photosynthetic rate. Even the p-value between the chloroplasts under red light and darkness was above the significance level of 0.05. Being 0.0688, the p-value was close, but it still can’t reject the null hypothesis. This calls for further testing because it is common knowledge that plants have a higher photosynthetic rate under light rather than darkness. With this flaw, the data is altogether inconclusive. Next time, cleaner cuvettes should be used to minimize the flaw in absorbance reading.  Any debris could maximize the absorbance. Like Shuyang Zhen and More Iersel have said on their research paper, red light increases photosynthetic efficacy, and they explain how chloroplasts absorb red light the best, meaning they obtain more light energy [Zhen, 2017]. With this background knowledge, there is reason to do further testing on the subject. 
+
+Literature Cited:
+Zhen, Shuyang, and Marc W. van Iersel. "Far-red light is needed for efficient photochemistry and photosynthesis." Journal of plant physiology 209 (2017): 115-122.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIOlab1pic.jpg&Size=43334&Type=image%2Fjpeg&F=F_1YVQPtPxEIhnx29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This figure shows the percent change in absorbance after a time span of 30 minutes. Percent change was used to observe photosynthetic rate under different wavelengths of visible light. The number of trials done for each treatment were three, meaning it has degree of freedom of two. From left to right, the standard deviations from the error bars are respectively ±0.8%, ±7.14%, ±41.5%, and ± 8.7%.*************************************************************************
+
+
+

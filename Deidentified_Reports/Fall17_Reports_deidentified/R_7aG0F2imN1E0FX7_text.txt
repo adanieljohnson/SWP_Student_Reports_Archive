@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-09 10:42:23
+Author of this lab report is: Std_s9GEagP4
+Course number: BIO102L
+TA: TA_Zz1lFW4y
+*************************************************************************
+Title: The Effect of Blue, White and Red Lights on Photosynthesis in Spinacia oleracea: White Light Leads to an Increased Rate while Red Light Hinders Photosynthesis
+
+Abstract:
+Photosynthesis involves the extraction of solar energy for plants to grow and function properly. Different colors of light contain varying wavelengths and therefore different amounts of energy. This experiment tests the effects of three colors of light on the rate of photosynthesis in Spinacia oleracea plants. This was done by creating mixtures of chloroplasts from spinach leaves, reaction buffer and DCPIP as a redox dye. These solutions were placed under red, blue and white light for 3 increments of 10 minutes and their absorbances were measured using a spectrophotometer. A decrease in absorbance indicated that photosynthesis had occurred. We hypothesized that white light would lead to the fastest rate of photosynthesis while red light would lead to the slowest rate. By comparing the absorbances, our group concluded that the highest rate of photosynthesis occurred under white light and lowest occurred under red light.  Therefore, our data did support this hypothesis but our statistical two-sample T test yielded a P value of 0.126, which did not reflect that the differences between the rates in photosynthesis for the three colors were significantly different. 
+
+Introduction:
+This lab will involve the use of different light colors to determine under which color of light photosynthesis occurs the most quickly. Light is a necessary component in the initiation of photosynthesis and the harvesting of energy. Different wavelengths of light contain different amounts of energy, therefore affecting the speed of the process differently. In this lab, we test Spinacia oleracea plants using blue and red light filters as well as a group with no light filter. These colors were used because they are part of the lighting spectra for green vegetables while green and yellow light are unprofitable for plant growth [Hogewoning et al.: 2010]. To measure the rates of photosynthesis, we will observe the difference in absorbances for 30 minutes using a spectrophotometer and calculate the percent changes in absorbance for 3 ten minute intervals. 
+
+We hypothesize that white light will produce the fastest rate of photosynthesis in spinach plants while red light will cause the slowest rate. Chlorophyll a and chlorophyll b are two different forms of chlorophyll pigment and the rate of photosynthesis in response to varying light wavelengths has to do with the ratio of chlorophyll a to chlorophyll b. Blue light has been shown to cause sun-type plants with a higher a/b ratio to grow more effectively [Buschmann et al.: 1977].  An experiment performed on cucumber leaves showed that leaves placed in red light alone displayed defective photosynthetic activity: stomata were not able to function properly and CO2 fixation was unable to occur [Hogewoning et al.: 2010]. In a similar study done on Cucumis sativus plants, photosynthesis occurred more effectively in blue than red light because the wavelengths in blue light are required for normal photosynthetic growth of plants according to irradiance intensity [Hogewoning et al.: 2010]. This experiment will help us determine the most effective light wavelengths for increasing the rate of photosynthesis in spinach plants.
+
+Materials and Methods:
+The veins of 5 spinach leaves were removed, rinsed and grinded along with 10 mL grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) using a mortar and pestle which had been cooled. The solution was strained through cheesecloth into a chilled beaker. The solution was transferred into a chilled 50mL centrifuge tube marked A. This tube was centrifuged at 200 x G for 3 mins at 4° C. 
+The supernatant was poured out of the tube marked A into the second chilled 50mL centrifuge tube marked B excluding the debris at the bottom of tube A. Tube B was centrifuged at 1000 x G for 10 mins at 4° C. The liquid was removed but the pellet was left behind and 20 mL grinding buffer was added. 200 µL of this mixture was transferred into a microtube labeled “Sample Pellet” and stored on ice.
+
+13 test tubes were numbered 0-12 and filled with their respective solutions [Table 1]. 100 µL of enriched chloroplasts from the B pellet were added to the blank tube and to tubes 4-12. The purpose of the test tubes with no chloroplasts was to determine if DCPIP causes color change without the presence of chloroplasts. 13 spectrophotometer cuvettes were labeled 0-12 and 100 µL of each test tube solution was added to the corresponding microtube. The spectrophotometer was blanked using tube 0 and time zero absorbances were recorded. Tubes 1 and 4-6 were placed under blue light, tubes 2 and 7-9 were placed in red light and tubes 3 and 10-12 were placed in white light and after 10 minutes, the spectrophotometer was blanked and absorbances were recorded again. This process was repeated after 20 and 30 minutes. We used an ANOVA test to compare the absorptions after 30 minutes for our experimental groups: the tubes placed blue, red and white light with chloroplasts.
+
+
+Results:
+The group under white light had the greatest overall decrease in absorbance while the group under red light had the lowest decrease [Figure 1]. After thirty minutes, the group under white light had the greatest decrease in percent change in absorbance and the group under red light had the lowest decrease in percent change [Table 2]. As the ANOVA test shows, the p value of 0.126 is greater than 0.05, we cannot reject our null hypothesis based on this test because the absorbances between the three groups are not shown to be significantly different [Table 3].
+
+Discussion:
+Our hypothesis that white light would lead to the highest rate of photosynthesis while red light would lead to the lowest rate was supported by our data but not by our ANOVA statistical test. The decrease in percent change in absorbance was largest for white light and smallest for red light [Table 2]. A decrease in absorbance means that photosynthesis has occurred due to the specific wavelength of light provided by the lamps and their light filters. However, our results were not significant as our p value was greater than 0.05 [Table 3]. An error that may have affected our results was due to the small size of the lamps; we were not able to place each test tube under the exact same amount of light. Our results may have been different had each of the 3 test tubes in each experimental group been completely exposed to an equal amount of light so that photosynthesis could occur at a constant rate. The solutions under blue light experienced a sudden decrease in absorbance [Figure 1] which may have been caused by this error. If we repeated this experiment, the test tubes would ideally each have their own lamp for maximum exposure.
+
+Photosynthesis occurred more quickly under blue light than red because the ratio of chlorophyll a/b in spinach leaves responds more effectively to blue light. For sun-exposed plants like spinach, blue light has been shown to have a similar effect on photosynthesis to that of sunlight while red light tends to be more effective for shade-type plants [Buschmann et al.: 1977]. This is because red light does not promote dark photosynthetic reactions to the extent that blue and white lights do; blue light tends to cause an increased biomass production and more effectiveness in photosynthesis [Bukhov et al.: 1995].
+
+Many greenhouses must use specific wavelengths of LED lighting to grow crops such as vegetables and varying light colors have been associated with a change in susceptibility to disease and interaction with pests. Certain light wavelengths were also shown to have an effect on the vitamin C as well as antioxidant activity in spinach plants [Olle and Viršilė: 2013]. Data collected in this study could help scientists determine under which wavelengths of light plants will grow the most effectively in order to increase nutritional value.
+
+Literature Cited:
+1.	Bukhov NG, Drozdova IS, Bondar VV. 1995. Light response curves of photosynthesis in leaves of sun-type and shade-type plants grown in blue or red light. Journal of Photochemistry and Photobiology. 30: 39-41.
+2.	Buschmann C, Meier D, Kleudgen H, Lichtenhaler H. Regulation of chloroplast development by red and blue light. Photochemistry and Photobiology. 27: 195-198. 
+3.	Hogewoning SW, Trouwborst G, Maljaars H, Poorter H, van Leperen W, Harbinson J. 2010. Blue light dose–responses of leaf photosynthesis, morphology, and chemical composition of Cucumis sativus grown under different combinations of red and blue light. Journal of Experimental Botany. 61: 3107-3117. 
+4.	Olle M, Viršilė A. 2013. The effects of light-emitting diode lighting on greenhouse plant growth and quality. Agricultural and Food Science. 22: 223-234. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-25+at+2.45.37+PM.png&Size=105082&Type=image%2Fpng&F=F_baBH4XcvLmc52ex
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-25+at+2.46.22+PM.png&Size=64475&Type=image%2Fpng&F=F_bvclvwPHNNhokyF
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-25+at+2.45.04+PM.png&Size=40354&Type=image%2Fpng&F=F_6WgMgs6pvRB45A9
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-25+at+2.45.11+PM.png&Size=51078&Type=image%2Fpng&F=F_cCkgQd9J7nHsBg1
+
+
+
+
+
+Figure Legends: 
+Figure 1. Graph showing changes in absorbance over a period of 30 minutes in experimental groups containing chloroplasts. 
+Table 1. Components of Test Tube Mixtures for Spectrophotometer Microtubules. 
+Table 2. Average absorbances for each time period and average percent changes in absorbance. The group under white light had the greatest decrease in percent change of absorbance while the group under red light had the lowest decrease.
+Table 3. Results of ANOVA test comparing absorbances for each experimental group after 30 minutes. Test results showed that the differences between light colors were not significant (p>0.05).
+
+*************************************************************************

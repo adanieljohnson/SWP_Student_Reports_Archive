@@ -1,0 +1,52 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a lab report.
+Date submitted: 2017-11-10 13:09:39
+Author of this lab report is: Std_c4XRzBZX
+Course number: BIO103L
+TA: TA_bc8EVX09
+*************************************************************************
+Title: The Influence of Tempos of Music on The Aggressive Behavior of Betta splenden
+
+Abstract:
+Human activities influence animal behavior significantly. We wonder if music will alter the aggressiveness of Betta splenden. We applied no music, slow tempo music, and fast tempo music to B. splenden to see if their aggressiveness is different. We hypothesized that i) the music would alter the aggressiveness of B. splenden, and ii) the faster the tempo of the music, the more aggressive the B. splenden would behave. Our results supported our second hypothesis but failed to support the first. Further study should be done to see if B. splenden has the adaptability to fast tempo music.
+
+Introduction:
+Human activities are shown to have significant impacts on nature in the way that they alter the environment. Animals tend to change their behavior in response to these environmental disturbances; for example, fish behave differently if the ocean is under the influence of human. Such behavioral change can be both temporary and persistent as indicated by the research of human disturbance on coral-fish assemblage structure done by Albuquerque and his colleagues in 2015. Albuquerque’s research contains the multiple disturbance variables including loud music, swimming, snorkeling, splashing and fish feeding [2015]. Our group focused on the influence of the music of fish’s aggressive behaviors. We chose Betta splenden, the common aquarium fish originated in southeast Asia, as our research object, because their aggressive behaviors are classified in different aggressive levels [BIO113 Laboratory Manual: year, pg]. This stratification of aggressive behaviors allows us to quantify their aggressiveness. We decided to quantify music by their tempos. We hypothesized that i) the music will influence B. splenden’s aggressiveness; ii) the different tempo of music will affect B. splenden’s aggressiveness differently: the faster the tempo, the more aggressive B. splenden will behave.
+
+Materials and Methods:
+For the same group of B. splendens, we applied music with different tempos, which is counted in beats per minute(bpm). We observed how the aggressive behaviors of B. splendens changed when different music was applied to 2 different settings:1) when two males could see each other but were physically separated; 2) when two males were put together. Under each setting, we observed their behaviors when there was no music (as control), when the music had a slow tempo (bpm under 90), and when the music had a fast tempo (bpm over 140). We looked for the broadside aggressive behaviors (pelvic fin flickering, tail beating, and tail flashing) and facing aggressive behaviors (pectoral fins erection, spreading cover gills, and protruding the branchiostegal membrane). We assigned points for each of these behaviors based on their aggressiveness. The least aggressive behaviors (pelvic fin flickering and pelvic fins erection) were counted as one point; the moderate aggressive behaviors (tail beating and spreading cover gills) were counted as two points; the most aggressive behaviors (tail flashing and protruding the branchiostegal membrane) were counted as three points. We multiplied the assigned points by the number of times that B. splendens performed such behavior. We added all multiplied results together and divided this number by the time in minutes before B. splendens attack each other. The result is recorded as the final aggression score. If two fish don’t have any contact before the end of the observation period, the time before attacking is the whole observation period. We used paired t-test and took a 95% confidence interval to test if there was a difference in B. splenden’s aggressive behavior when different kinds of music were presented or not.
+
+Results:
+According to the values shown in figure 1, the aggressive behaviors of B.splenden have no significant difference between when there is no music and when there is slow tempo music (p=0.9066). The aggressive behaviors have significant differences between when there is no music and when there is fast tempo music (p=0.4911), and when there is slow tempo music and when there is fast tempo music (p=0.3675).
+The change of aggression scores of B. splenden’s aggressive behavior when different music was applied is shown in figure 2. For both settings, the regression lines show positive correlations between the aggression scores and the speed of tempo. For the experiment with two separated males, the positive correlational relationship of the tempo of the music and the aggressiveness of the fish is weak (r=0.00478). When two males were placed together, such positive correlational relationship is strong (r=0.84301). 
+
+
+Discussion:
+Based on the results, we fail to support our first hypothesis that the music will affect the aggressive behavior of B. splenden, because our statistical tests fail to demonstrate the significant difference between aggression scores under environment without music and with slow tempo music. However, our hypothesis that fast tempo music will increase the aggressiveness of B. splenden is supported by the positive relationship between the aggression score and the speed of tempo, and the significant difference between aggression score when there is no music and is fast tempo music, as well as when there is slow tempo music and is fast tempo music. Our conclusion about the influence of music on fish’s behavior is consistent with the research done by Catli and his colleagues in 2015, in which they illustrate that fast tempo music reduces fish’s food intake compared to the control group (no music) and the slow tempo music group. The finding in fast tempo music disturbance on fish’s behavior relates to the realistic problem of noise’s influence on fish. Research has found that noise will affect the fish in the same way of fast tempo music: the fish will display significant startle response and reduced food consumption [Voellmy: 2014]. Therefore, we can conclude that fast tempo human-produced sound, both noise and music, have negative impacts on fish. For further research, we can study if fish can habituate to the disturbance of fast tempo music. We can apply fast tempo music to some fish since they are eggs and apply such music to them regularly. Later in their lives, we look at the behavioral difference between groups not listening to any music, groups listening to slow tempo music regularly, and groups listening to fast tempo music regularly when fish are in the environment with fast tempo music.
+
+Literature Cited:
+Albuquerque, T., Loiola, M., Nunes, J. C., Reis-Filho, J. A., Sampaio, C. S., & Leduc,
+A.	C. (2015). In situ effects of human disturbances on coral reef-fish assemblage structure: temporary and persisting changes are reflected as a result of intensive tourism. Marine & Freshwater Research, 66(1), 23-32. 
+BIO113 Laboratory Manual (2017).
+Catli, T., Yildirim, O., & Turker, A. (2015). The effect of different tempos of music 
+during feeding, on growth performance, chemical body composition, and feed utilization of turbot (psetta maeotica, pallas 1814). Israeli Journal of Aquaculture-Bamidgeh, 67.
+Voellmy, I. K., Purser, J., Flynn, D., Kennedy, P., Simpson, S. D., & Radford, A. N. 
+(2014). Acoustic noise reduces foraging success in two sympatric fish species via different mechanisms. Animal Behaviour, 89191-198.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=52103&Type=image%2Fpng&F=F_9MLjcUut3KIlkA5
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=29885&Type=image%2Fpng&F=F_1M1yMqt05b77ldj
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Figure 1 displays t-values and p-values when paired t-tests were run to test the difference between different groups. The results indicate that aggressive behaviors of B.splenden are not statistically different in the environment without music and with slow tempo music; such behaviors are statistically different in the environment without music and with fast tempo music as well as with slow tempo music and fast tempo music.
+Figure 2. The change of aggression score when different music presented is shown in figure 2. For both situations, the regression lines show positive correlations between the aggression scores and the speed of tempo.
+
+*************************************************************************

@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-11 22:05:14
+Author of this lab report is: Std_QNJnO96F
+ID: R_2cqiwUaFBj6Xjwh
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The effect of calcium blocker on the strength of muscle contraction
+
+Abstract:
+Calcium is an ion vital to muscle contraction because it triggers the release of the neurotransmitter acetylcholine. The objective of this experiment was to determine the effect of a calcium blocker (lanthanum chloride) on the strength of muscle contraction. To test this, we tested 3 frog legs and stimulated the sciatic nerve at 0, 0.5, 1, 3, and 5 voltages and measured the strength of contraction. We then injected the same legs with lanthanum chloride and stimulated the sciatic nerve at 0, 0.5, 1, 3, and 5 voltages and measured the strength of contraction. The means of the control group for leg 1, (1.0634) and leg 2, (0.039) were larger than the means of the treatment group, (leg 1: 0.052; leg 2: 0.016). The mean of the treatment group for leg 3 (0.1906) was higher than the mean of the control group (0.2362). Our hypothesis was disproven because there was not enough evidence to conclude that calcium had a significant effect on the strength of muscle contraction (t stat= 0.97 df=2 p=0.42). To further test our hypothesis in the future, we will need to test more legs because our sample size in this experiment was too small.
+
+Introduction:
+The neuromuscular junction is a kind of synapse that forms between skeletal muscle fibers and motor neurons [Wu 2010]. Neuromuscular junctions make up the neuromuscular system that allows for movement through muscle contractions. A muscle contraction is produced when an action potential travels to the presynaptic cleft of a motor neuron and opens voltage gated calcium channels [Johnson 2018]. Calcium is responsible for molecular responses such as neurotransmitter release [Nurullin: 2012]. Calcium enters the presynaptic cell and is the determinant of the amount of neurotransmitter released by binding to vesicles containing acetylcholine [Dodge:1967]. The vesicles fuse with the presynaptic membrane and release acetylcholine into the synaptic cleft. Acetylcholine binds to ligand gated channels and causes sodium ions to depolarize the postsynaptic cell, resulting in a muscle contraction [Johnson: 2018].  The more calcium released, the more neurotransmitter released and the higher the amplitude of the muscle contraction [Dodge:1967]. This experiment addresses the question of what happens to the strength of a muscle contraction when calcium is blocked. We hypothesized that if calcium was blocked, the strength of the muscle contraction would decrease because less calcium being released would mean that less acetylcholine was being released.
+
+Materials and Methods:
+Three frog legs were harvested and brought into the lab. The legs were each skinned and cut so that the sciatic nerve and the gastrocnemius muscle were exposed. Next, the leg was connected to a transducer to measure the force of muscle contraction.  To test the effect of calcium blocker on the strength of muscle contractions, the sciatic nerve was connected to electrodes and was stimulated at 0, 0.5, 1, 3, and 5 voltages. The force of the muscle contraction was recorded. To test the treatment (calcium blocker), we injected with 0.2 mL of lanthanum chloride into the same leg without disconnecting it from the transducer. To let the lanthanum chloride soak in, we waited for 8 minutes before stimulating the leg at 0, 0.5, 1,3, and 5 voltages. The new strength of the muscle contractions was recorded. We repeated this process for each leg and then calculated the mean for the control and treatment groups of each leg. We then analyzed our results using a one tailed paired t test.
+
+Results:
+The mean of the control test for legs 1 and 2 were higher than the means for the treatment tests. The mean of the treatment group for leg 3 was higher than the mean of the control for leg 3. These means were compared using a paired t test which resulted in a P value of 0.42 (t stat= 0.97 df=2 p=0.42). The first two legs had lower twitch responses after being given lanthanum chloride. Leg 3 had a higher twitch response after being given the dose of lanthanum chloride. Figure 1 shows the frog leg’s mean response to electrical stimulation before (control) and after being given lanthanum chloride (treatment).
+
+Discussion:
+The mean weight of the treatment group for legs 1 and 2 are smaller than the means of the control group suggesting that the implementation of a calcium blocker has an effect on the strength of muscle contractions by not allowing the vesicles containing the neurotransmitter acetylcholine to fuse to the presynaptic membrane and be released into the synaptic cleft. This is not shown by the results of our paired t test because our large p value means our results are not statistically significant. This suggests that there is not a difference between the control and treatment groups. This could be due to our sample size, inconsistency of the tension on the thread holding the leg up, the voltages we chose to use to stimulate the leg, the concentration of lanthanum chloride, our inexperience with injecting muscle with a syringe, or the third leg having a higher mean for treatment than for control. If we were to throw out the results of the third leg, we would still get a get a large p value, which suggests that there is not a significant difference between the control and treatment groups, thus disproving our hypothesis. However, we would have had even more variation in our data if we had used different legs for our treatment and control, which is why it was important to have each leg serve as its own control. To further test our hypothesis, we would need more legs and a stronger concentration of lanthanum chloride. We could also test more data points by exciting the nerve at smaller intervals of electrical stimulation. In a similar study, scientists used patch clamps to record synaptic currents on the muscle fibers of crayfish after giving them different concentrations of calcium [Dudel: 1981]. When the concentration of calcium was cut in half, the amplitude of muscle contractions decreased more than was proportional to the concentration of calcium [Dudel: 1981]. Also, when there was less calcium, the muscle contractions were found to be “slightly shorter” [Dudel:1981]. This study shows the important role calcium plays in muscle contractions and that if there is not enough calcium, muscle contractions either cannot occur or will be smaller. This is important as it shows how those with calcium deficiency have pain in their muscles and feel fatigued because they have to work harder to get their muscles to contract.
+
+Literature Cited:
+1.	Wu, H. 2010. To build a synapse: signaling pathways in neuromuscular junction assembly. The Company of Biologists Ltd. 137: 1017-1033.
+2.	A.D Johnson. 2018. Hormone regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-18.
+3.	Nurullin, N.F., 2012. Revealing of T-Type LowVoltage Activated Calcium Channels (CaV3) in Frog Neuromuscular Junctions. Doklady Biological sciences. 449: 73-75.
+4.	Dodge F.A, 1967. Co-operative action of calcium ions in transmitter release at the neuromuscular junction.  The Journal of Physiology. 193: 419-432.
+5.	Dudel, J. 1981. The effect of reduced calcium on quantal unit current and release at the crayfish neuromuscular junction. European Journal of Physiology. 391: 35-40.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Data.png&Size=62839&Type=image%2Fpng&F=F_54s1FjknW8Am92N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Frog leg response before and after being given 0.2 mL of lanthanum chloride *************************************************************************
+
+
+

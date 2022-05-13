@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-12 16:15:59
+Author of this lab report is: Std_DQWUnMSD
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The inhibition of lidocaine on Physarum polycephalum specimens
+
+Abstract:
+The purpose of this lab was to test the inhibitory effects on lidocaine on the growth of Physarum polycephalum specimens. Three different concentrations were added to PDA plates with another plate only soaked in water for the control, and slime mold was added and allowed to grow for approximately 18 hours. It was hypothesized that the lidocaine would inhibit the growth of the Physarum, and that the inhibition would be proportional to the concentration of lidocaine added to the plates. After measuring the growth of each specimen, it was clear that the substance had a significant inhibitory effect on the growth of the mold on each test plate compared to that of the control. The lidocaine PDA plates did not show a significant result when comparing the growth between them, as the growth on the plate with 0.625 mM lidocaine had been much higher than that of the 1.25 mM and 0.3125 mM plates. This is an unusual result, leading to speculation of experimental error and not a noticeable trend. 
+
+
+Introduction:
+This lab will be done to test the effects of varying levels of lidocaine on the growth and movement of Physarum polycephalum on PDA plates. Use of the Physarum allows for observation of basic cellular processes without the use of a microscope, as multiple nuclei that undergo mitosis at the same time causes the organism to appear to function as one massive cell. (Johnson AD.: 2017) The behavior observed in this lab will be chemotaxis, the process of movement for Physarum that allows it to sense the molecules in its environment and either move toward or away from them. Lidocaine is a numbing agent, a local anesthetic, used mainly for anesthetic purposes in the medical field. It binds to proteins in the cell membrane that function as sodium channels, altering their conformation and causing the channels to stay open for longer periods of time. (Pal, K., & Gangopadhyay, G.: 2015) With this characteristic of lidocaine considered, it is hypothesized that as the concentration of lidocaine increases, the growth of the slime mold will be proportionally inhibited. A pharmaceutical experiment was done in 1988 by PlumX Metrics testing lidocaine inhibitory effects on cultures of mycobacterium and pathogens found in the bronchial tubes. The test with various lidocaine concentrations showed that the agent did inhibit the growth and activity of the specimens in the bronchial washings. (Strange et al.: 1988) The inhibition of growth will be more prominent with higher concentrations, as the lidocaine will disrupt the concentration of ions within the cell membranes of the organism and by extension, overall cell function. 
+
+
+Materials and Methods:
+An alcohol lamp with 95% ethanol, flat tipped forceps, a flat metal spatula, and excess ethanol in a vial are prepared with the metal tools sitting in ethanol. Three solutions of lidocaine are prepared with different concentrations: 1.25 mM, 0.625 mM, and 0.3125 mM. The solutions of lidocaine are added to PDA plates, approximately 5 mL, and an equal amount of water is added to a control plate. The plates are allowed to sit for ten minutes to soak. Once this allotted time has passed, the excess water and lidocaine solution is poured off the plates. 1 cm2 squares are cut in the center of each of the ten plates. A petri plate with Physarum polycephalum previously prepared for growth and allowed to grow for at least 1 week is acquired, and ten 1cm2 squares are cut from the plate with the mold covering the food source. These squares with Physarum polycephalum are placed in each of the vacant square spaces in the PDA plates, and each plate is completely wrapped in foil. The plates are left in an incubator for 18 hours, and afterwards the area of the growth of mold is measured. Post-measurement, the plates are discarded.
+
+
+Results:
+The control plate had a growth of 0.057 cm2, which was higher than any average growth of the plates soaked in lidocaine. This result was proven not to be significant through the ANOVA test, which produced a p-value of 0.067. The lidocaine plates did not show a trend in growth, as the median concentration of lidocaine with 0.625 mM lidocaine was the plate that exhibited the most growth. The average growths of the plates were a very low, some individual species of the plates showing no growth at all.
+
+
+Discussion:
+The results of this experiment showed no significance in growth when comparing the lidocaine-inhibited plates, but all three samples were inhibited compared to the control. This is evident when looking at the bar graph, as the lidocaine samples averaged growth much lower than the control plate without the inhibitor. Between the three test groups, the p-value was just slightly too high to be considered significant, which may have been due to factors other than those tested. The 0.625 mM lidocaine plate showed an average growth (0.02367 cm2) much higher than the other two plates, one with a higher concentration of lidocaine and one with a lower concentration. This indicates that there may have been an experimental error, such as not spreading the lidocaine solution out to the entire PDA plate on the 0.625 mM sample. With these tested properties of lidocaine showing potential for inhibition, a future experiment could be conducted on other organisms like bacteria. A study published in the Journal of Infectious Diseases in 1970 conducted an experiment examining the antibacterial properties of lidocaine, testing the substance on Mycobacterium tuberculosis in varying concentrations. All concentrations tested above 0.2% showed that the lidocaine had inhibitory effects on the bacterium (Schmidt and Rosenkrantz, 1970). This experiment suggests that lidocaine could be tested to have inhibitory growth effects on a multitude of organisms. 
+
+
+Literature Cited:
+Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated August 11, 2017).
+
+Pal, K., & Gangopadhyay, G. (2015). Probing kinetic drug binding mechanism in voltage-gated sodium ion channel: open state versus inactive state blockers. Channels, 9(5), 307-316.
+
+Strange, C., Barbarash, R. A., & Heffner, J. E. (1988). Lidocaine concentrations in bronchoscopic specimens. Chest, 93(3), 547-549.
+
+Schmidt, R. M., & Rosenkranz, H. S. (1970). Antimicrobial activity of local anesthetics: lidocaine and procaine. The Journal of infectious diseases, 597-607.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=36826&Type=image%2Fpng&F=F_2e41IMGdmfGu9Sq
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-12+at+3.02.50+PM.png&Size=69551&Type=image%2Fpng&F=F_2qkq6y6lvmx1Ghu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The ANOVA test conducted for the data of the experiment produced a p-value of 0.067, which is greater than the &lt;0.05 result needed to prove significance. 
+Figure 2: This graph shows the lack of a trend in growth of test samples compared to lidocaine concentration. There is a substantial difference in growth compared to the control plate of the test groups. The plate showing the most growth was the plate with 0.625 mM lidocaine, the median concentration of the three tested. The 1.25 mM lidocaine plate and 0.3125 mM lidocaine plate showed little growth. 
+
+
+*************************************************************************

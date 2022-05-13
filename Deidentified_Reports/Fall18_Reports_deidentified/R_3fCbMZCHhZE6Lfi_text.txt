@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-10-31 14:09:57
+Author of this lab report is: Std_za5EMLxj
+ID: R_3fCbMZCHhZE6Lfi
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The effect of a sodium channel blocker on the threshold voltage in the gastrocnemius muscle of the Rana pipiens.
+
+Abstract:
+An organism’s action potentials and the subsequent muscle contractions play an extremely important role in the organisms well being.  One crucial element in an action potential is the cell membrane depolarizing past the threshold voltage. In our experiment we investigated the role of a sodium channel blocker on the threshold voltage of the Rana pipiens gastrocnemius muscle through the sciatic nerve, in which we hypothesized that a sodium channel blocker would cause a change in the threshold voltage. We used three frog legs, measured the threshold voltage before and after we injected a sodium channel blocker into the gastrocnemius muscle. We performed a Paired T-test with a confidence level of 95% and got a p-value of 0.422 so therefore we failed to reject the null hypothesis that the sodium channel blocker had a significant effect on the threshold voltage. We then concluded that it is necessary to go in greater detail to more accurately get the threshold voltage as well as experiment with various concentrations of sodium channel blockers to see if the results are consistent across concentrations. 
+
+Introduction:
+An organism needs to be able to send signals to its limbs in order to perform everyday functions. Most organisms do this through sending Action Potentials from its to the various muscles in its body, one of which is the Rana pipiens and the gastrocnemius muscle which is reached by the sciatic nerve. Organisms similar to Rana pipiens, send signals through motor units which are broken down into a motor neuron and several myofibers (muscle cell)[Johnson: 2016]. In order for an organism to generate a larger contraction (that is a larger amplitude) it needs to either recruit more motor neurons or recruit them more frequently. In addition to this, there are a few important molecules in the propogation of an Action potential, which are Na+, K+, and Ca2+. Na+ is responsible for the depolarization of the cell membrane at the beginning of the Action potential cycle. In addition to this, the cell needs to be depolarized past a certain value in order to fire an action potential (the threshold voltage). We predict that if we add a Na+ channel blocker to the sciatic nerve, then there will be a change in the threshold voltage.
+
+
+Materials and Methods:
+We used 3 frog legs that are aren’t necessarily from the same frog and were split into 2 groups. The first of which was the control group and the second group, the experimental group, received 1 mL of Na+ inhibitor, where the control and experimental groups were taking place on the same frog leg. We separated the gastrocnemius muscle from the rest of the frog’s leg and kept it facing upwards while taut. Several pins were put in the frog’s leg to keep it stable. Also, the sciatic nerve was connected directly to the force transducer, where we used a frequency of 1 Hz and Voltages of 0.0, 0.2, 0.4, 0.6, 0.8, and 1.0. Then we recorded the Force (in volts) of the resulting contraction (there may or may not have been a contraction). We then ran a Paired T-Test on the threshold voltage.
+
+Results:
+As shown in Figure 1, the Control Group had a mean threshold voltage of 0.2666 while the experimental group had a mean response voltage of 0.40 and standard deviations of 0.115 and 0.346 respectively. The Paired T-Test gave the results (t=1, p=0.422, and df=2) with a confidence level of 95% and therefore an alpha of 0.05, so therefore we failed to reject our null hypothesis. 
+
+Discussion:
+Due to us failing to reject our null hypothesis (p-value&gt;0.05) we concluded that adding a sodium channel inhibitor does not cause a significant change in threshold voltage. Our results were similar with a previous experiment that found that when the cockroach’s giant axon is in a sodium deficient solution the action potential was slower [Yamasaki: 1959]. Although our experiments didn’t explicitly test the same thing, they do support each other’s results. This is because when they added a sodium deficient solution, which is analogous to a sodium channel blocker in that they allow the axon to have access to less sodium than they normally have access to. In this solution, the action potential was slower but still occurred (they didn’t test this nor is this the basis of their experiment) which is the basis for our experiment. Our result could be caused by the amount of sodium channel blocker that we used, the effectiveness of the sodium channel blocker, or because we injected the sodium channel blocker into the muscle but stimulated the sciatic nerve. Since we stimulated the sciatic nerve, the action potential had already started by the time it reached the muscle and since an action potential is either off or on it continued albeit possibly slower but still continued propagating and eventually causing the muscle to contract at the same threshold voltage of the control group. In a future experiment, we could get more precise in the threshold voltages tested or we could stimulate the gastrocnemius muscle directly instead of stimulating it through the sciatic nerve.
+
+Literature Cited:
+1.	Yamasaki T, Narahashi T. 1959. The effect of potassium and sodium ions on the resting and action potentials of the cockroach giant axon. ScienceDirect. 3: 1
+2.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chart-15.png&Size=7824&Type=image%2Fpng&F=F_1hyeux4F7GucwjB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The mean threshold voltage before and after the sodium channel blocker was added. The error bars represent 1 standard deviation from the mean.*************************************************************************
+
+
+

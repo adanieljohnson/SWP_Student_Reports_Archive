@@ -1,0 +1,71 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-11 14:31:51
+Author of this lab report is: Std_sIiQJqvV
+ID: R_5oTlmRdNM6Az75D
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: Cytoplasmic Streaming and Ca2+ Activated Intracellular Ca2+ Channel Activity in Physarum in Response to A23187 and Sodium Butyrate 
+
+Abstract:
+This study examines the effects of activator, A23187, and inhibitor, Sodium Butyrate, on cytoplasmic streaming with regards to Ca2+ activated intracellular Ca2+ channels in Physarum. The effects are measured using an inverted phase microscope and the rates of cytoplasmic streaming are recorded. If Physarum is exposed to A23187, then cytoplasmic rates will increase, and if Physarum is exposed to Sodium Butyrate, then cytoplasmic rates will decrease. This experiment resulted in significant findings for A23187 compared with the control and the comparison between A23187 and Sodium Butyrate, but was insignificant for the comparison between Sodium Butyrate and the control. Improvements include establishing better compounds to use for the activator and inhibitor or increasing the concentration of the compound added to the test dish. This has implications for human cell signaling with regards to inflammation, cell motility, and gene expression.
+
+Introduction:
+Signal transduction pathways are very important in allowing cells to regulate their external and internal environments. Cells send signals in order to respond to the environment, must be able to integrate multiple signals simultaneously, and use signals to communicate with other cells. A majority of signals are neurotransmitters and ions, which act on specific receptors and channels on the surface of cell membranes [Cell Signaling: 2014].  In response to a signal, Physarum polycaphalum, a model organism because they use the same signal transduction pathways as humans, can extend actin microfilaments and move toward or away from a stimulus [Johnson: 2016]. One of the common behaviors of Physarum is known as cytoplasmic streaming, where the flow inside of thin strands of the cytoplasm is bidirectional, and the direction of this flow changes frequently and can be measured. Within physarum cytoplasm, Ca2+ activated intracellular Ca2+ channels allow cytoplasmic streaming to occur by allowing or preventing influx of calcium into the cytoplasm [Kamiya: 1981]. Different compounds can act upon these Ca2+ channels in order to affect the rate of cytoplasmic streaming, and thus effect the rate of transport of molecules throughout the organism. A compound, A23187, has been found to activate Ca2+ activated intracellular Ca2+ channels in Physarum and generate overall tension within the Physarum’s cytoplasm, causing increases in streaming rates [Yoshimoto: 1981]. In contrast, sodium butyrate has been shown to inhibit growth, mitosis, and movement in Physarum specimens [Jalovzot: 1981]. Therefore, if Physarum are exposed to sodium butyrate, then there will be decreases in cytoplasmic streaming, and if Physarum are exposed to A23187, then there will be elevated levels of cytoplasmic streaming. 
+
+
+Materials and Methods:
+This experiment was conducted at Wake Forest University within Winston Hall. Beginning with 2% water agar petri dishes, treated with 20x A23187, 20x sodium butyrate, and a control without treatment, a 1cm x 1cm square was cut out of the center of each plate using sterilized spatulas. 1cm x 1cm squares were then removed from a Physarum stock plate, and placed into the empty squares in each of the treatment plates. An additional 4 oat flakes were added to each plate before they were wrapped in foil and placed in the incubator for 18 hours. An inverted phase microscope was used to determine cytoplasmic streaming rates by measuring the time in seconds for an area of the strand to change direction and then return to the original direction. Each strand recorded three times, and three separate strands were assessed per petri dish. The averages were compared using a two-tailed t-test with alpha value of 0.05 to compare the control to each treatment and the two treatments to each other. 
+
+Results:
+Cytoplasmic streaming rates significantly increased between A23187 and the control (t(4)=4.062, p&lt;0.05; p=0.015). There is a significant difference between cytoplasmic streaming rates of A23187 and sodium butyrate (t(4)=3.563, p&lt;0.05; p=0.024). While sodium butyrate did decrease the rate of cytoplasmic streaming, the results were insignificant between sodium butyrate and the control (t(4)=1.457, p&gt;0.05; p=0.218). 
+
+
+Discussion:
+The null hypothesis was rejected for A23187, as there were elevated levels of cytoplasmic streaming and the results were significant for the control and A23187. As shown in figure 1, A23187 significantly increased cytoplasmic streaming in Physarum by activating the Ca2+ activated intracellular Ca2+ channels in the membranes of the Physarum. However, the null hypothesis was accepted for Sodium Butyrate. As shown in figure 1, Sodium Butyrate did inhibit and decrease cytoplasmic streaming, but the results were insignificant. This could be due to the inability of Sodium Butyrate to completely inhibit the Ca2+ activated intracellular Ca2+ channels or the concentration of the compound was too low to have an effect in Physarum. Therefore, either a different inhibitor or increased concentration of inhibitor should be used to decrease the rate of cytoplasmic streaming significantly in Physarum. When comparing A23187 with Sodium Butyrate, the results were highly significant. As shown in figure 1, both compounds had significantly different impacts on cytoplasmic streaming by effecting Ca2+ activated intracellular Ca2+ channels. Additionally, these results could be used to effect Ca2+ channels with regards to contractions in the Physarum, as inhibiting the calcium channels caused a cessation of the contractile oscillations in the membranes of Physarum, stopping overall movement of the organism instead of inhibiting cytoplasmic streaming [Matveeva: 2010]. An additional compound that has been shown to have inhibitory effects on calcium channels is 2-APB, which is an IP3 receptor antagonist, and at a low concentration causes increased calcium entry through Ca2+ intracellular Ca2+ channels and at high concentration causes inhibition of the channels in human, chicken, and rat cells [Prakriya: 2004]. Additionally, calcium channels in physarum fragments were measured and found increases in the concentration of calcium in the cell directly following the maximum contraction of the fragment, [Yoshiyama: 2013], allowing for further testing with how this effect can be used to either inhibit or increase contractions in human cells. Since Physarum’s cell signaling pathway is similar to humans, implications from physarum testing can be applicable to human cells. The effects of calcium channel activators and inhibitors on the inflammatory response, gene expression, and motility in cells provides opportunity for further control of the human cell signaling pathways. Further advancements may be used to prevent diseases, fight infections, and overall maintain proper functioning in signaling processes within the human body. 
+
+
+Literature Cited:
+1.	“Cell Signaling.” Nature News, Nature Publishing Group, 2014.
+
+2.	Jalouzot, R., Toublan, B.. 1981. Multiple Effects of 5mM Sodium Butyrate on Physarum polycaphalum Macroplasmocia. Springer. Vol 214: 195-200.
+
+3.	Kamiya, N.. 1981. Physical and Chemical Basis of Cytoplasmic Streaming. Annual Reviews. Vol 32: 205-236.
+
+4.	Matveeva, N.B., Teplov, V.A., Beylina, S.I.. 2010. Suppression of the autooscilatory contractile activity of Physarum polycaphalum plasmodium by the inhibitor of the IP3-Induced Ca2+ release, 2-aminoethoxygiphenyl borate. Springer Link. Vol 4: 70-76. 
+
+5.	Prakriya, M., Lewis, R.S.. 2004. Potentiation and Inhibition of Ca2+ release-activated ca2+ channels by 2-aminoethyldiphenyl borate (2-APB) occurs independently of IP3 receptors. The Journal of Psychology. Vol 536 (1).
+
+6.	Yoshimoto, Y., Matsumura, F., Kamiya, N.. 1981. Simultaneous oscillations of Ca2+ efflux and tension generation in the permealized plasmodial strand of physarum. Wiley Online Library. Vol 1 (4). 
+
+7.	Yoshiyama, S., Ishigami, M., Nakamura, A., Kohama, K.. 2013. Calcium wave for cytoplasmic streaming of Physarum polycaphalum. Wiley Online Library. Vol 31 (1) 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.28.43+PM.png&Size=49244&Type=image%2Fpng&F=F_wUdEqAd1Dzbjv7X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This figure depicts the results for cytoplasmic streaming times of Physarum in the presence of both A23187 (SD=2.863) and Sodium Butyrate (SD= 5.226), and compares these times with the control (SD=1.576) that received no treatment.  The time was recorded for the cytoplasmic stream to change directions and then change back to the original direction. There were significant results between the control and A23187 (t(4)=4.062, p&lt;0.05; p=0.015) and between A23187 and Sodium Butyrate (t(4)=3.563, p&lt;0.05; p=0.024). 
+
+
+*************************************************************************

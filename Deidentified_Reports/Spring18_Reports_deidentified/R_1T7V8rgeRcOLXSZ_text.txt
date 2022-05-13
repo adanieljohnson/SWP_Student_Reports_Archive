@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-20 18:45:14
+Author of this lab report is: Std_iHq7Thdh
+ID: R_1T7V8rgeRcOLXSZ
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Precor decreases the rate of metamorphosis in Manduca sexta
+
+Abstract:
+	In this lab, we tested the effect of a juvenile hormone called precor on Manduca sexta growth. When administered to M. sexta during their final instar larval stage of life, precor can decrease the rate of metamorphosis. If 10 drops of precor are added to the treatment caterpillars' food, then they will grow at a slower rate compared to the control caterpillars that had 10 drops of distilled water added to their food. To test this hypothesis, 4 caterpillars were assigned to the control group and 4 caterpillars were assigned to the treatment group. Every day for 8 days, each caterpillar was massed and fed as needed (with 10 drops of precor or water added again). We found that the addition of precor to the diet significantly decreased the rate of growth, thus supporting the hypothesis. This proves that precor serves as an effective pesticide against caterpillars. 
+
+Introduction:
+The Manduca sexta, commonly known as the tobacco hornworm, has a homometabolous life cycle. This life cycle consists of the stages: egg, larva, pupa, and adult. M. sexta is considered a pest when it reaches its adult stage. When it becomes an adult, it is a moth. Pesticides that fight against M. sexta often contain juvenile hormone (JH), which controls growth, molting, and metamorphosis of the caterpillar [Goodman : 2013]. Precor, a type of JH, is used to test its effect on M. sexta weight. If 10 drops of precor are added to the treatment caterpillars' food, then they will grow at a slower rate compared to the control caterpillars that had 10 drops of distilled water added to their food. 
+
+Materials and Methods:
+	To perform this lab, 8 M. sexta were obtained from a biology lab company. 4 were designated as the treatment group and 4 were designated as the control group. Each caterpillar was placed in one half of a plastic container, with a paper dividing it in half. Perforated lids were placed on top of each container to allow the flow of oxygen. Each caterpillar was fed 10 g of Great Lakes Manduca (GLM) food. 10 drops of 1:1250 Precor was added to the treatment group's food, while 10 drops of distilled water were added to the control group's food. Each day (for 8 days total), we weighed each caterpillar and recorded our data. As needed, we fed the caterpillars. When we were not weighing and feeding the caterpillars, we placed them in an incubator set at 22 degrees Celsius (although the temperature fluctuated slightly) to expose them to a controlled environment). 
+	After collecting our data, we found the average of the treatment group and the average of the control group and displayed the data in a bar graph. Then, we performed a t-test to determine the probability that our results were due to chance.
+
+Results:
+	There is not a significant difference in weight during the first 3 days. However, after the third day, there is a significant increase in weight among the control group and a slower increase in weight among the treatment group. Additionally, as the days went on, the control group ate more while the treatment group ate less. Additionally, the treatment group started losing its vibrant coloring and became more lethargic, especially after the fifth day. 
+	After completing a paired t-test, I found t=2.53, the degrees of freedom=7, and p=0.0392. I came to the conclusion that my data is statistically significant because the value of p is less than 0.05, meaning there is less than a 5% probability that the data is due to chance. The standard deviation of the control group is 4.10 and the standard deviation of the treatment group is 1.23. The standard deviation of the control group is higher because the values deviate more from the mean and the weight increased more. The standard deviation of the treatment group is smaller because the values do not deviate much from the mean because overall they did not grow much. 
+
+Discussion:
+	Based on the data collected, I accept my hypothesis "If 10 drops of precor are added to the treatment caterpillars' food, then they will grow at a slower rate compared to the control caterpillars that had 10 drops of distilled water added to their food." Consequently, I rejected my null hypothesis "If 10 drops of precor are added to the treatment caterpillars' food, then they will difference in the rate of growth compared to the control caterpillars that had 10 drops of distilled water added to their food." The growth rate was significantly slower for the treatment group compared to the control group. A similar study was performed in which the juvenile hormone methoprene was used to regulate the growth of insects. Therefore, pesticides that contain juvenile hormones control the development of pests as they regulate gene transcription [Harmon : 1995]. This proves precor is an effective pesticide against M. sexta when administered in their fifth larval instar stage of life. The hormone prevents the brain from secreting prothoracicotropic hormone (PTTH), which promotes growth and molting [Nijhout : 1974]. 
+	Possible errors may appear in this lab in Figure 1. Treatment #3 and Treatment #4 broke through the paper barrier and switched places at times. Therefore, the raw data values may not represent the respective caterpillar's weight. However, when conducting the t-test, the averages were used. Therefore, this error does make the final results any less reliable. 
+
+Literature Cited:
+1.	Goodman MH, Potter MF, Haynes KF. 2013. Effects of juvenile hormone analog formulations on development and reproduction in the bed bug Cimex lectularius. Pest Management Science. 69: 240-244. 
+2.	Harmon MA, Boehm MF, Heyman RA, Mangelsdorf DJ. 1995. Activation of mammalian retinoid X receptors by the insect growth regulator methoprene. National Academy of Sciences. 92: 6157-6160.
+3.	Nijhout HF, Williams CM. 1974. Control of moulting and metamorphosis in the tobacco hornworm, Manduca sexta: Cessation of juvenile hormone secretion as a trigger for pupation. Journal of Experimental Biology. 61: 493-501.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-20+at+6.42.05+PM.png&Size=117947&Type=image%2Fpng&F=F_87kW85hHJ6ir6Ch
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-02-20+at+6.42.19+PM.png&Size=301688&Type=image%2Fpng&F=F_8BUMWwNmuNMe5Uh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table #1 - Data Averages Table. The data shows the average weight (g) of the control caterpillars and treatment caterpillars for each day. A significant change in weight is present after the third day.
+
+Figure #1 - Average weight of control and treatment M. sexta. The bar graph shows the average weights (g) collected for each group each day. Additionally, error bars are added to show how the data deviates from the mean.
+
+*************************************************************************

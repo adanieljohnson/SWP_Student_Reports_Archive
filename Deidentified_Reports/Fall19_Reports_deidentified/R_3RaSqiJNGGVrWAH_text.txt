@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-27 14:52:52
+Author of this lab report is: Std_TbdbpNy9
+ID: R_3RaSqiJNGGVrWAH
+Course number: BIO102L
+TA: TA_9XefORUv
+*************************************************************************
+Title: Examination of photosystem II activity in saturated and unsaturated leaves of Brassica oleracea
+
+Abstract:
+Brassica oleracea leaves were examined in unsaturated and over-saturated conditions for photosystem II (PSII) activity to test the hypothesis that PSII activity would be lessened in an over-saturated, experimental population than a normal, control population. To obtain an over-saturated experimental population, leaves were soaked in water for ten minutes prior to chloroplast isolation. After chloroplasts were examined and isolated, each sample was tested for PSII activity in a Hill reaction, where absorbance was measured to quantify the rate of the reaction based on the discoloration of the DCIP. The data collected exhibited a higher rate of discoloration of DCIP and, thus, higher PSII activity in the over-saturated leaves than in the control group, so did not support the hypothesis. In addition, the p-values of the two-sample t-tests conducted were 0.753 and 0.278, neither of which were significant. Any data collected in the assay, even if a trend were indicated, was insignificant and could have been caused by chance. The line of thinking used in this experiment could be applied to further study into agricultural and global climate processes and the effects of varying availability of essential resources on plant productivity and photosynthetic efficiency. 
+
+Introduction:
+Photosynthesis is a necessary process in which plants convert light energy captured from the sun into usable chemical energy. It occurs in many steps that take in different complexes, beginning with the input of light, carbon dioxide, and water, and resulting in the eventual production of glucose [Vidyasagar: 2018]. One of the complexes involved in photosynthesis is Photosystem II (PSII). The activity of PSII, via oxidation and reduction reactions, can be measured by DCIP, which serves as an electron acceptor in the Hill reaction for this assay, which effectively decreases the blue color of the solution [Johnson: 2019]. In photosynthesis, changing the water available in the environment changes PSII activity. If plants are subjected to dehydration, PSII activity slows or stops [Heber: 2005]. If plants are subjected to non-excessive hydration, PSII activity increases, but if subjected to significant over-hydration, PSII activity decreases [Dawson: 2018]. Brassica oleracea leaves will be used to test photosynthetic activities due to the use of said plants in former studies into the effect of changing water resources on photosynthetic activity [Urban: 2017]. In this study, the over-hydration of leaves will be tested for the difference in PSII activity in Brassica oleracea leaves ground down and processed to isolate the chloroplasts for testing in the Hill reaction assay. We hypothesize that over-hydrated Brassica oleracea leaves may exhibit decreased activity of PSII, measured by the consumption of DCIP in a Hill reaction assay, as opposed to a control group of Brassica oleracea leaves not over-hydrated. 
+
+Materials and Methods:
+Brassica oleracea leaves were used to isolate chloroplasts through grinding into a paste with a mortar and pestle, and suspension in solution with grinding buffer in the form of 400 millimolar sucrose in a tricine buffer with a pH of 8, added ten microliters at a time. The two sample solutions were then subjected to three rounds of centrifugation, with the first round of 200 x G for three minutes and the second two rounds of 1000 x G for ten minutes, all at four degrees Celsius. Before the preparation, half of the leaves were soaked in water for ten minutes to prepare the experimental, over-hydrated population for the experiment. The pelleted material from the second centrifugation for each group (control and experimental) was resuspended before being examined for chloroplast presence using a hemocytometer and being used for the second portion of the experiment. Each of the samples was prepared in triplicate to allow for statistical testing. Each sample was put in solution with six milliliters of water, two milliliters of 130 millimolar DCIP, and two milliliters of Hill reaction buffer. Absorbances were taken at 600 nanometers at the beginning of the reaction, at ten minutes, and at twenty minutes, being left under light (intensity 11302.11 lux) in between readings. No negative control was completed in this assay, but the negative control from the week before was used as the same procedure was followed for the preparation of a negative control. The absorbances of the control and experimental populations were then compared via percent change and tested statistically using a two-sample t-test for percent change between times zero and ten and between times ten and twenty for the two groups. 
+
+Results:
+The intensity of the color of the DCIP in the solution decreased between each time point. This was reflected in the decrease in absorbance values between each absorbance reading for the samples, in general, shown in Figure 1. There were two exceptions to this general trend between time zero and ten, one in the control population and one in the experimental population. There is one outlier to the general trend in the average absorption values of the experimental population taken at time twenty. Sample six had a percent change decrease of 60.64, which was a significantly greater change than any of the other samples. The p-value for the two-sample t-test for the percent change between times zero and ten was 0.753 and between time ten and twenty was 0.278. 
+
+Discussion:
+The unsaturated leaves exhibited a relatively low percent change, but greater than the negative control, maintaining a constant decrease in absorbance readings between times zero and twenty, as indicated in Figure 1. The over-hydrated experimental leaves showed a significant increase in percent change, representing an increasing magnitude of decrease in the absorbance readings. This data suggested that, due to the greater differences in absorbance reading that was caused by the discoloration of DCIP in the Hill reaction assay, PSII was more active in the over-saturated Brassica oleracea leaves than in the control population. The data collected in this experiment did not support the hypothesis presented, which suggested that PSII activity would be lower in the experimental population than the control population, as was an expectation indicated in a previous study [Dawson: 2018]. Though the data did not support the original hypothesis, there were trends shown by this experiment, so could be used for further consideration and study. The previously considered study was not specific regarding the level of saturation in the experimental population as the indication was that “sustained” water-covering of leaves resulted in decreased productivity and photosystem activity in plants [Dawson: 2018]. Potential opportunities for further study include testing different plants and increased periods of saturation. Another possibility includes the effects of dehydration of leaves on photosystem activity [Heber: 2005]. Potential implications of such study include investigation of the optimization of growing conditions in agriculture and the effects of changing global climates on plant life. 
+
+Literature Cited:
+1.	Vidyasagar A, 2018. What is Photosynthesis. Accessed October 21, 2019. &lt;https://www.livescience.com/51720-photosynthesis.html&gt;
+2.	Johnson AD, Mallison S, 2019. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. 
+3.	Heber U and Shuvalov V, 2005. Photochemical reactions of chlorophyll in dehydrated photosystem II: two chlorophyll forms (680 and 700 nm). Photosynthesis Research. Accessed October 23, 2019. &lt;https://link.springer.com/article/10.1007/s11120-005-0413-y&gt;
+4.	Dawson T, Goldsmith G, 2018. The value of wet leaves. New Phytologist. Accessed October 21, 2019. &lt;https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15307&gt;
+5.	Urban L, et al, 2017. Assessing the effects of water deficit on photosynthesis using parameters derived from measurements of leaf gas exchange and of chlorophyll a fluorescence. Frontiers in Plant Science. Accessed October 20, 2019. &lt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5735977/&gt;
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO+214+Lab+Report+1+Figure+1.JPG&Size=64908&Type=image%2Fjpeg&F=F_3NxDB1WBQJ3JcKd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average percent change in 600 nm absorbance values of negative control, unsaturated, and over-saturated samples of leaves of Brassica oleracea plants*************************************************************************
+
+
+

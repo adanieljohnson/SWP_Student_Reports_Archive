@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-27 23:00:20
+Author of this lab report is: Std_AM7hXJ6W
+ID: R_Zf5J69mmeC6zGI9
+Course number: BIO103L
+TA: TA_YiRfsy28
+*************************************************************************
+Title: The Effects of Nitrogen on Physical Variation of Field Peas
+
+Abstract:
+	In order to better understand physical variation between plants in different environments, it is important to study resource allocation and how exposure to certain abiotic and biotic factors can determine physical attributes of a species. Thus, in this experiment, we tested plant response to nitrogen exposure by adding excess nitrogen to two of the Pisum Sativum experimental groups during planting. It was predicted that the experimental group would have a lower root: shoot ratio than the control, as their roots did not need to grow deeper in order to find excess nitrogen. There was a statistically significant difference between the length root: shoot ratios of the experimental and control groups (t=11.598, df=10, p=4.02e-7). Yet, due to experimental error, we were unable to obtain enough sufficient data to support or deny our hypothesis. In conducting this experiment again, one should use less of the nitrogen supplement on the experimental group, as it led to molding of seeds and ultimate inability to measure accurate results. 
+
+Introduction:
+Within their environments, plants are exposed and limited to a number of living and non-living factors, such as light, water and nutrients. When responding to such stimuli, species allocate their energy and resources onto areas that will best help them survive. As a result, growth takes place in either the root or shoot in order to combat environmental limitations, or excesses, that reduce resource use [Bazzaz: 1997]. The main function of the roots is nutrient uptake, while the shoots is photosynthesis, and depending on the limited resource, either may grow. In a carbon or nitrogen poor environment, plants would prioritize root growth over shoot, as roots would need to grow deeper in order to find nourishment for the plant [Tilman: 1988]. Therefore, in this experiment, our lab aimed to measure the effects excess nitrogen would have on the physical attributes of the Pisum Sativum (field pea). In this, we planted four pots of field peas, giving two a nitrogen supplement during the planting process. By measuring both groups length root: shoot ratios after two weeks of growth, one could determine if nitrogen exposure had an effect on the physical makeup of the field pea. Our hypothesis was that if the field peas were given excess nitrogen, then they would have a lower length root: shoot ratio. 
+
+Materials and Methods:
+	In order to conduct this experiment, we began by planting four pots of field peas, with 8-10 seeds in each pot. Two of the pots were labeled with “experimental group” by using white tape. The experimental group was given 1/3 cup of excess nitrogen during the planting process. The other two pots were given no extra nitrogen, and labeled with “control group” by using white tape. The four pots were placed in the greenhouse, and were watered every two days for the duration of two weeks. 
+	After the two-week period, the pots were removed from the greenhouse, and taken back to the classroom for measurement. Three individual plants were taken from each pot, totaling 12 plants to collect data from. Each individual plant was weighed for total mass (g) and measured for total length (mm). Then, we separated each plant’s root and shoot with small scissors, and cut right above the growing pea. From this, each plant was measured again, and we took the mass (g) and length (mm) for each individual’s shoot and root.  With this data, we were able to calculate both mass and length root: shoot ratios for the field peas that were exposed and not exposed to nitrogen. 
+	With these calculations, we plugged in the length root: shoot ratios for both groups in a two-tailed t-test template in Excel. With this two-tailed t-test, we were able to find if the two groups of data had statistically significant difference, thus allowing us to confirm or deny our original hypothesis. 
+
+
+Results:
+	When collecting our plants from the greenhouse after the two-week span, initial observations were that the experimental group did not grow. The field peas exposed to excess nitrogen remained seedlings, and were covered in white mold (Picture 1). Thus, when recording data, all measurements were listed as 0 for the experimental group. The control group grew in length over the two-week period, and data was collected from those plants. The average length root: shoot ratio for the control group was 0.586 ± 0.1238, and for the experimental group it was 0 ± 0. In graphing the results, length root: shoot ratios of the control group were much larger than the experimental (Graph 1). The two-tailed t-test showed there was statistically significant difference between the length root: shoot ratios of the experimental and control groups (t=11.598, df=10, p=4.02e-7). 
+
+Discussion:
+Based on the results, there was a significant difference in the root to shoot ratio for length (p- value = 4.02e-7) between the experimental and control groups. Yet, due to experimental error, we were unable to truly support or deny our original hypothesis. The experimental group’s seeds molded during germination, making it impossible to collect sufficient data to test our hypothesis. Rather, we learned a more efficient way to repeat this experiment. When planting the experimental group, the two allocated pots were given 1/3 cup of excess nitrogen. Yet, an amount that dense is not recommended for container plants, as the soil can become too compact and lead to limited air space and water collection. Moisture content and collection quickly leads to mold, even with adequate ventilation [Christensen: 1986]. Reducing the amount of added nitrogen could prevent moisture build up, and eventual growth of mold. 
+When evaluating additional studies that test nitrogen concentration on plant root: shoot ratios, some have achieved the results we were hoping to find within our original lab. Dr. Hilbert’s study “Optimization of Plant Root: Shoot Ratios and Internal Nitrogen Concentrations”, found that relative growth rate is predicted to be a nearly linear function to nitrogen concentration, and shoot fraction is an increasing function with nitrogen as well [Hilbert: 1989]. A longer shoot results in a higher shoot: root ratio for typically both mass and length. Such results would have supported our original hypothesis, which was if the field peas were given excess nitrogen, then they would have a lower length root: shoot ratio. Thus, when replicating this experiment, our group would lower the added nitrogen amount in order to avoid experimental error, and achieve such results. 
+
+
+Literature Cited:
+1.	Bazzaz, Fakbri. Plant Resource Allocation, Elsevier Science & Technology, 1997. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/wfu/detail.action?docID=313731.
+2.	Christensen and Kaufmann, “Grain Storage: The Role of Fungi in Quality Loss”, University of Minnesota Press, Minneapolis, 1969, p. 153. 
+3.	Hilbert, David W. “Optimization of Plant Root: Shoot Ratios and Internal Nitrogen Concentration.” Annals of Botany, vol. 66, no. 1, 1990, pp. 91–99. JSTOR, www.jstor.org/stable/42770405.
+4.	Tilman, David. “Allocation Patterns and Life Histories” Plant Strategies and the Dynamics and Structure of Plant Communities, 1949, pp. 106-112. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-27+at+10.58.41+PM.png&Size=973727&Type=image%2Fpng&F=F_3lJQxqy4dMe6gWs
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-27+at+10.59.44+PM.png&Size=140802&Type=image%2Fpng&F=F_2uVuGk6E4Gm6TwL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Picture 1. Molded field pea seeds of the experimental group. After the two- week span, the seeds underwent no growth, and reacted poorly to the 1/3 cup of excess nitrogen. We listed all measurements as 0. 
+
+Graph 1. Difference in length root: shoot ratio between control and treatment group. Average length root: shoot ratio for control group was 0.586 ± 0.1238, and for the experimental group it was 0 ± 0. Control group has an overall much higher mean that treatment group due to experimental error. 
+
+*************************************************************************
+
+
+

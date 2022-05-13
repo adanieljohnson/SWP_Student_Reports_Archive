@@ -1,0 +1,73 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-29 17:14:07
+Author of this lab report is: Std_EwTMCbzG
+ID: R_1mOwUHcCF3n1Zm2
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: An Analysis of Caffeines affect on growth in the slime mold Physarum
+
+Abstract:
+
+We were unable to demonstrate that caffeine significantly increased the growth of the physarum slime mold. We were also unable to demonstrate that PKA increased the growth of physarum slime mold which would indicate that it controls growth not with a pathway containing PKA, but instead with another method of signaling such as a tyrosine kinase cascade.
+
+
+Introduction:
+Physarum is a type of slime mold that is very intelligent in its movements. They can locate the most efficient method/path of obtaining food and grow towards it. Previous researchers have even used it in redesigning the tokyo subway network [Tero 2010]. This growth is mediated by several signaling pathways, including we believe a G Protein coupled receptor pathway involving protein Kinase A (PKA). In this cells would receive a signal which would trigger a conformational change in a G Protein thus activating it. With its now active subunits The G Protein could activate other steps of the pathway such as adenylyl cyclase [Tang 1991]. Adenyl cyclase produces cAMP, which binds to PKA triggering a conformational change that would release catalytic subunits involved in the process of directional growth [Burland 2986]. Eventually when the mold no longer needed to grow in that direction the cAMP would be degraded by phosphodiesterases. And the signal would be turned off. In order to to test if Physarum follows this method of signaling for growth we will grow samples in agar plates containing caffeine [Matthews 1977]. We believe that if we add caffeine, and add there should be an increase in movement/growth relative to normal. This is because Caffeine acts by preventing phosphodiesterases from breaking cAMP from PKA [Smatresk]. by doing this it locks cAMP onto PKA thus locking PKA on. We believe will cause the slime mold to grow much more as we believe that a PKA involved pathway is involved in cell growth.
+
+
+Materials and Methods:
+We used the following materials 40 ml caffeine solution,  40 mk PKA activator solution    oatmeal   10 water agar plates   1 pint of ethanol. And constructed our plates as follows  our Control 3 agar plates without caffeine solution, but with food    Negative control: 1 plates with neither, caffeine or food, nor PKA  then our   experimental: 3 plates with caffeine and food 
+Our other  experimental 3 plates with PKA activator and food.  All plates are kept in the dark and the oatmeal should be place equal distance from all the slime mold.
+
+
+Results:
+For growth we did a two sample t test to compare growth rates over 24 hours for our test groups. Caffeine did not have a significant increase in growth rate compared to our control. For  H0: U1 = U2, Ha U1 &lt; U2 of caffeine we got a p=.09, t = -1.76, df= 2.56 which doesn’t not show significant increase in growth rate over 24 hours. Thus we fail to reject our null hypothesis. With PKA H0: U1 = U2, Ha U1 &lt; U2 we got p= .89, t = 1.75, df= 2.11. This is even further away from being a significant increase in growth rate and thus we also fail to reject our null hypothesis for PKA. 
+
+
+Discussion:
+We failed to demonstrate significant growth rate increases among physarum samples in caffeine. However since PKA also failed to show significant growth there are 2 likely scenarios from these outcomes. Either the mechanism for growth in physarum is not a gpcr pathway involving protein kinase A, or we made some human errors that affected our results such as insufficient sterilization when we place some of the mold into their plates, that corrupted our data. The former is possible and would indicate that physarum growth is determined with perhaps a tyrosine kinase cascade such as a MAP kinase cascade. The latter option has some backing as other groups had trouble growing their physarum in their cultures, also we may have contaminated our cultures or not put enough food close enough to the slime mold for it to properly grow. We did try to keep the distances the same across all the tests. Further experiments with more subjects would be suggested as I believe our results inconclusive still. Repeating our exact experiment but with far more test and control plates would be the first change if we were to repeat this experiment. Along with that It would be interesting to test different foods than just oatmeal. Perhaps different grains of different nutritional values to determine any correlation between the carbohydrate density and the response in fungus. Repeated experiments are significant because this fungus is able to move in very efficient patterns and ways [Tero 2010]. Just as japanese researchers used it to plan a version of the tokyo subway system, so to could other city planners use  this organism for future developmental projects, possibly saving billions of dollars in construction, and planning.
+
+
+Literature Cited:
+Burland, Timothy G. “Genetic Analysis in Physarum Polycephalum.” The Molecular Biology of Physarum Polycephalum, 1986, pp. 19–38., doi:10.1007/978-1-4613-2203-0_2.
+
+Matthews, L. M. “Ca++ Regulation in Caffeine-Derived Microplasmodia of Physarum Polycephalum.” The Journal of Cell Biology, vol. 72, no. 2, 1977, pp. 502–505., doi:10.1083/jcb.72.2.502.
+
+Smatresk	“How Does Caffeine Affect the Body?”ScientificAmerican,www.scientificamerican.com/article/how-does-caffeine-affect/. Neal J. Smatresk
+
+Tang, W., and A. Gilman. “Type-Specific Regulation of Adenylyl Cyclase by G Protein Beta Gamma Subunits.” Science, vol. 254, no. 5037, 1991, pp. 1500–1503., doi:10.1126/science.1962211.
+
+Tero, A., et al. “Rules for Biologically Inspired Adaptive Network Design.” Science, vol. 327, no. 5964, 2010, pp. 439–442., doi:10.1126/science.1177894.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=bio+lab+2.png&Size=11087&Type=image%2Fpng&F=F_3h9IuAr72HSp2uC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+This shows the growth comparison of our groups. The left 3 columns are our sample ones. The middle our sample 2, and the far right our sample 3. Red is the control, black the caffeine treatment, and grey the PKA treatment.
+
+*************************************************************************
+
+
+

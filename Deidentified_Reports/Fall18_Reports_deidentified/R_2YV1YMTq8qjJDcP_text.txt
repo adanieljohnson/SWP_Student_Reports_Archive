@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-13 19:05:39
+Author of this lab report is: Std_HR5ikflF
+ID: R_2YV1YMTq8qjJDcP
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Injection of Tubocurarine Prevents Contraction of Gastrocnemius Muscle in Frog
+
+Abstract:
+This experiment was designed to evaluate the effect tubocurarine on the gastrocnemius muscle in the frog. Acetylcholine (ACh) binds with its receptor (nAChR), opening sodium channels that generate an action potential in the muscle fiber which stimulates the release of calcium cation. Calcium cation activates the contractile mechanism as result. The effect of electromagnetic stimulation on nerve conduction and on muscle contraction was studied in isolated frog sciatic nerve-gastrocnemius muscle preparation. Three individuals was used as its control (prior to the injection) and experimental group (after the injection of tubocurarine), the responded amplitudes were recorded before and after the injection of tubocurarine with the same stimulus amplitudes. The data showed that the responded amplitude in the experimental groups was much lower than those in the control groups.  Additionally, The data were collected and analyzed by a paired t-test, resulting in a valid number which proves the alternative hypothesis. The plausible explanation for this result would be tubocurarine blocks the muscle contraction by competing with ACh to bind with receptors. Several more frog legs are suggested to be used for more accurate data.
+
+Introduction:
+Gastrocnemius forms the major bulk at the back of the lower leg and is a very powerful muscle. Skeletal muscle of both vertebrates and invertebrates consists of thousands of myofibers. The individual myofibers are bound together by connective tissue to form functional groups, which are skeletal muscles proper [Cooper:1965]. Skeletal muscles are innervated by motor neurons, which have cell bodies located in the gray matter of the spinal code. Axons of motor neurons extend into a muscle then branch out to innervate individual myofibers, at points called neuromuscular junction [Cooper:1965]. Nerve impulses arriving at the neuromuscular junction cause release of acetylcholine (ACh) from the presynaptic nerve terminal. ACh binds with its receptor on the membrane of the muscle fiber, opening sodium channels that generate an action potential in the muscle fiber. The action potential spreads throughout the length of the fiber, stimulating the release of calcium cation from internal storage sites. The release of calcium cation activates the contractile mechanism of the muscle fiber, causing it to shorten [Cooper:1965]. Acetylcholine (ACh) can depolarize the end-plate region of skeletal muscle, but this action can be blocked by tubocurarine [Cowan:1936]. Tubocurarine is a neuromuscular blocker, a compound of the alkaloid class obtained from curare. The hypothesis of this experiment would be if tubocurarine is applied to the gastrocnemius muscles of frogs, it will prevent contraction and cause paralysis. The independent variable is the presence or absence of tubocurarine, and the dependent variable is the responded amplitudes.
+
+Materials and Methods:
+Three frog legs were selected as both the control and experimental group. Before the process of amplitude measurement and data collection, preparation was the first part. Each frog leg was placed in a dissecting pan. With a pair of forceps grasp the skin at the top of the leg, the skin was pulled down towards the foot. Then laid the skinned leg in the dissecting pan and moisten it with frog Ringer’s solution. A dissecting probe was used to gently separate the inner thigh muscles, beginning at the upper end and extending to the knee. The white sciatic nerve and accompanying blood vessels were revealed, then generally freed the nerve from its attaching connective tissue by using dissecting needle and forceps. Then tied the muscle to a force transducer to the position that perpendicular to the ring stand and put the stimulator electrode under the nerve which connected to the stimulator. The force transducer and the stimulator were both connected to the computer for recording myograms. After fully prepared, recorded the responded amplitudes for the three control groups (without injection of tubocurarine) with stimulus amplitudes at 0.0V, 0.1V, 0.2V, 0.3V, 0.4V, 0.5V, 1.0V, 2.0V, 3.0V, 4.0V, 5.0V by using the LabScribe software respectively (number of pluses=1, frequency=1Hz, pulse width=5ms).  Then, 3mL of 1mM tubocurarine was injected into the gastrocnemius muscles of the three frog legs and the responded amplitudes with stimulus amplitudes at 0.0V, 0.1V, 0.2V, 0.3V, 0.4V, 0.5V, 1.0V, 2.0V, 3.0V, 4.0V, 5.0V were recorded again as the experimental groups. After collecting the data, the paired t-test was employed to analyze the data and evaluate the hypothesis.
+
+Results:
+With the injection of tubocurarine, the responded amplitudes of gastrocnemius muscles in the experimental groups decreased; therefore, the muscle contractions decreased. The responded amplitudes were recorded for all the three frog legs before and after the injection 1mM tubocurarine. The responded amplitudes were recorded on the LabScribe software accompanying an increasing stimulus amplitude. A paired t-test was employed to evaluate the data, and a valid p-value was calculated (t-stat=7.29, df=10, P=0.0000263). Figure 1 and Figure 2 show the comparison between the responded amplitudes recorded in the control and experimental groups. 
+
+
+
+Discussion:
+The hypothesis that if 1mM tubocurarine is applied to the gastrocnemius muscles of frogs, it will prevent contraction and cause paralysis is supported. As the responded amplitudes after the injection of tubocurarine were much lower than those prior to the injection, the tubocurarine did prevent contraction of the gastrocnemius muscle, but the responded amplitudes were not absolutely zero that tubocurarine did not cause the absolute paralysis. In the statistic test for the evaluation of data, a valid p-value was calculated, then the alternative hypothesis was supported. The gastrocnemius muscles were inhibited from contracting with the injection of tubocurarine as tubocurarine is a neuromuscular blocker. Tubocurarine acts as an antagonist for nicotinic acetylcholine receptor that it competes with ACh to bind with receptors on the membrane of the muscle fiber (nAChR) [Jenkinson: 1960]. The consequence is that the sodium channels that generate an action potential in the muscle fiber cannot be opened, then the action potential cannot spread throughout the length of the fiber. No stimulation can be released for the release of calcium cations which are pivotal for activating the contractile mechanism.   Although the amplitudes recorded in the experimental groups supported the hypothesis, the difference among data of the three groups was worth to be considered. The amplitudes of the first and the third frog legs were higher than those of the second frog leg. For that result, not enough time for recording might be one cause and the leak of tubocurarine form the muscle might be the other cause. Several more frog legs should be used for more accurate data. In conclusion, the injection of tubocurarine prevents contraction of gastrocnemius Muscle in the frog.
+
+Literature Cited:
+1. Copper RJ. Summation, Tetanus, and Fatigue in an Intact Nerve-Muscle Prep. 1965 
+2. Cowan, S.L. The initiation of all-or-none responses in muscle by acetylcholine. J. Physiol. 88, 3-5P. 1936 
+3. Jenkinson D.H. The Antagonism Between Tubocurarine and Substances which Depolarize the Motor End-Plate. J. Physiol. 152, P309-324. 1960
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure1.+frog.png&Size=16768&Type=image%2Fpng&F=F_1f8kwMjGkLiakTo
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+2.png&Size=14986&Type=image%2Fpng&F=F_Xk8AeSb8Hh0r1zr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Responded amplitudes in control and experimental groups in the column diagram. The responded amplitudes in the experimental group (after injection of tubocurarine) was much lower than those in the control group. The responded amplitudes recorded were zero when the stimulus amplitude was 0.0V for both the control and the experimental group.    
+Figure 2. Responded amplitudes in control and experimental groups in the line chart. The responded amplitudes in the experimental group (after injection of tubocurarine) was much lower than those in the control group. The control group showed an increasing trend at first (the stimulus amplitude from 0.0V to 0.4V), while the experiment group responded consistently.*************************************************************************
+
+
+

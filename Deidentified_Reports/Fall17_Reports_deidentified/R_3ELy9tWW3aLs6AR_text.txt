@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-02 09:22:55
+Author of this lab report is: Std_eoULva2U
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effect of 2% solution of sevin on the threshold voltage for nerve stimulation in a frog gastrocnemius muscle
+
+Abstract:
+Nerves allow organisms to respond to the internal and external environment. Threshold voltage of nerve can indicate when it responds to the external stimulation. Carbaryl (1-naphthyl methylcarbamate), the active ingredient in sevin, is a carbamate insecticide that operates as a nerve agent by inhibiting acetylcholine esterase (AChE). Without AChE, the effect of acetylcholine (ACh), a neurotransmitter which can lead to action potential, cannot be determined. The aim of this study was to find out the effect of 2% solution of sevin on the threshold voltage when the nerve of the frog leg was stimulated with single pulses of constant duration. The animal model was Rana pipiens, the Northern Leopard Frog. We first determined the threshold voltage of the 3 given frog legs respectively. Then, 2% solution of sevin was injected into 3 legs. The threshold would be determined again after the injection. The hypothesis is that 2% solution of sevin decreases the threshold voltage for nerve stimulation when the nerve is stimulated with single pulses of constant duration. The results indicated that although the threshold voltage decreased 0.08V on average, the presence of 2% solution of sevin did not significantly influence the threshold voltage for nerve stimulation.
+
+Introduction:
+Nerves and muscles allow organisms to sense and respond to the internal and external environments［Johnson: 2017］. In neuromuscular system, acetylcholine (ACh) , an important neurotransmitter, mediates fast excitatory neurotransmission by binding to specific receptors［Olsen: 2014］. Some chemicals have an influence on neuromuscular system. Carbaryl (1-naphthyl methylcarbamate), the active ingredient in sevin［Mas: 2002］, often sold under the commercial name sevin［Relyea: 2006］. It is a carbamate insecticide that can inhibit acetylcholine esterase (AChE). Carbamate insecticides are slowly reversible inhibitors of the enzyme acetylcholine esterase (AChE). AChE determines synaptic transmission at cholinergic synapses by hydrolyzing the neurotransmitter acetylcholine (ACh). ACh is a neurotransmitter, which binds with its receptor on the membrane and fires an action potential in the muscle fiber［Johnson:2017］. By inhibiting AChE, sevin can interfere with the cholinergic nervous system because without AchE, the effects of neurotransmitter cannot be determined. The independent variable is the presence or absence of 2% solution of sevin. The dependent variable is the threshold voltage for nerve stimulation. The hypothesis is that the 2% solution of sevin can decrease the threshold voltage for nerve stimulation when the nerve is stimulated with single pulses of constant duration. 
+
+
+Materials and Methods:
+The animal model was Rana pipiens, the Northern Leopard Frog. The 3 given frog legs were placed in a dissecting pan. The skin at the top of the leg was grasped and was pulled down towards the foot with a pair of forceps. A dissecting probe was used to gently separate the inner thigh muscles, beginning at the upper end and extending to the knee. The sciatic nerve was gently freed from its attaching connective tissue with dissecting needles and forceps. The exposed tissues should be moistened (but not drowning) with frog Ringer’s solution. At first, set pulse amplitude (Amp) to 0.000V, number of pulses (#pulses) to 1, frequency (F(Hz)) to 1, and pulse width (W) to 5 milliseconds. The increment of amplitude was 0.1V each time within the range from 0.1V to 1V. The threshold voltage of the nerve was determined without 2% solution of sevin of each 3 legs. After determining the threshold voltage, the frog legs were injected with 1mL 2% solution of sevin. The threshold voltage of the nerve was again determined after the injection of 2% solution of sevin of each leg.
+
+Statistical analysis
+Results were analyzed with paired t-test at a 95% confidence level. The leg injected with 1 mL 2% solution of sevin was compared with itself when it was not injected with 2% solution of sevin.
+
+
+Results:
+In trial 1 and trial 3, the threshold voltage decreased 0.04V and 0.3V respectively after the injection of 1mL 2% solution of sevin. In trial 2, the threshold voltage slightly increased after the injection of 1mL 2% solution of sevin (See Figure 1). After running the paired t-test, the p-value was about 0.664. Because the p-value was larger than 0.05, there was no significant difference in the threshold voltage between control group and test group.
+
+Discussion:
+After the injection of 2% solution of sevin, the threshold voltage of trial 1 and trial 3 decreased. The threshold voltage for trial 2 slightly increased after the injection of 2% solution of sevin (See Figure 1). The results of trial 1 and 3 supported the hypothesis, but the result of trial 2 did not support the hypothesis. Carbaryl exposure can induce to a significant decrease of AChE [Toumi: 2016]. If AChE is inhibited, the effects of neurotransmitter acetylcholine (ACh) cannot be determined. ACh evokes action potentials that depolarize the cell and activate voltage-dependent calcium channels (VDCC) [Albillos: 2017]. The failure to determine the effects of ACh lead to a larger amount of ACh, which will activate larger number of voltage-dependent calcium channels. With the injection of 2% solution of sevin, the depolarization becomes longer and the number of action potential increases. So, the threshold voltage would decrease. Although the threshold voltage decreased 0.08V on average, there was no significant difference between the threshold voltage of control group and test group (p-value = 0.664). For further studies about the influence of sevin on the threshold, influence of various concentration on the threshold voltage should be tested. Furthermore, since nerve is more sensitive to the stimulation, an alternative is to determine the threshold voltage for muscle stimulation when the muscle is stimulated with single pulses of constant duration. The study, which examine histopathologic changes following carbaryl exposure for 96 h in the digestive tract of variable toad clearly showed that carbaryl caused adverse effects on the digestive tract of Bfote. variabilis in all dose groups [Çakıcı: 2016]. Carbaryl, the active ingredient in sevin［Mas: 2002］, is one of the most widely used carbamate pesticide [Gautam: 2017], which can inhibit AChE. Frogs in wild are likely to be exposed to carbamate pesticide and turn to be more sensitive to the internal and external environmental changes or stimulation.
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 19.
+2. Olsen JA, Balle T, Gajhede M, Ahring PK, Kastrup JS. 2014. Molecular Recognition of the Neurotransmitter Acetylcholine by an Acetylcholine Binding Protein Reveals Determinants of Binding to Nicotinic Acetylcholine Receptors. https://doi.org/10.1371/journal.pone.0091232.
+3. Mas SS, Boone MD, Bridges CM. Evaluation of Direct Effects of an Insecticide on Gray Treefrogs: Laboratory and Field Trials. Journal of Herpetology. 36: 715-719.
+4. Relyea RA. 2006. The effects of pesticides, pH, and predatory stress on amphibians under mesocosm conditions. Ecotoxicology. 15: 503-511.
+5. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 19.
+6. Olsen JA, Balle T, Gajhede M, Ahring PK, Kastrup JS. 2014. Molecular Recognition of the Neurotransmitter Acetylcholine by an Acetylcholine Binding Protein Reveals Determinants of Binding to Nicotinic Acetylcholine Receptors. https://doi.org/10.1371/journal.pone.0091232.
+7. Toumi H, Bejaoui M, Touaylia S, Burga Perez KF, Ferard JF. 2016. Effect of carbaryl (carbamate insecticide) on acetylcholinesterase activity of two strains of Daphnia magna (Crustacea, Cladocera). Journal of Environmental Science and Health. 51: 777-780.
+8. Albillos A, McIntosh JM. 2017. Human nicotinic receptors in chromaffin cells: characterization and pharmacology. Pflügers Archiv - European Journal of Physiology. pp.1-7. https://doi.org/10.1007/s00424-017-2073-0
+9. Özlem Çakıcı. 2016. Histopathological study of toxic effects of carbaryl on digestive tract of Bufotes variabilis (Anura: Bufonidae). Environmental Science and Pollution Research. 23: 13432–13437.
+10. Mas SS, Boone MD, Bridges CM. Evaluation of Direct Effects of an Insecticide on Gray Treefrogs: Laboratory and Field Trials. Journal of Herpetology. 36: 715-719.
+11. Gautam K, Shetty D, Trivedi VD, Varunjikar M, Phale PS. Compartmentalization of Carbaryl Degradation Pathway: Molecular Characterization of Inducible Periplasmic Carbaryl Hydrolase from Pseudomonas spp. Applied and Environmental Microbiology. 10.1128/AEM.02115-17
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure1_1102.png&Size=11804&Type=image%2Fpng&F=F_cI7YXeqOWabh9t3
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Difference of threshold voltage between control group and test group (test group - control group)
+
+*************************************************************************

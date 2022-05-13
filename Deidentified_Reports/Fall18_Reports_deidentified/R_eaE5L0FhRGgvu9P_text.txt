@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-09 12:43:13
+Author of this lab report is: Std_QSsGSm3L 
+ID: R_eaE5L0FhRGgvu9P
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The Effect of an 20E Inhibtor on the Growth and the Timing of Pupation for Manduca Sexta
+
+Abstract:
+20E is a hormone which normally induces molting in Manduca Sexta and, after the 5th instar, will induce pupation. We hypothesized that the 20E inhibitor would impair pupation in these caterpillars. We tested this hypothesis with an experiment involving 8 individuals, 4 individuals in the control group and 4 individuals in the experimental group (treatment was adding 10 drops of Azaguard to the caterpillar’s food). The results were all 4 control group caterpillars pupated and the 4 experimental group caterpillars did not, supporting our hypothesis that the 20E inhibitor would impair pupation. 
+
+Introduction:
+Multicellularity is one of the key advancements in evolution, allowing for cell specialization. However, in order for multicellular organisms to function, they require inter-cellular communication. This communication is the purpose of hormones. Hormones are a type of cellular communication that involves a signal (most often chemical) that is produced by one cell in the organism which effects a cell in a different part of the organism. Manduca Sexta, more commonly called the tobacco hornworm, is a species of the family Sphigidae [Nyström: 2013]; and its 20E hormone complex is one of the most well studied hormone pathways, and its relatively simple interactions make it incredibly useful for studying the effects of hormones. M. Sexta is a species that begins its life as a caterpillar and then pupates to transition into a moth stage [Nyström: 2013]. Two major hormones in M. Sexta play a role in determining when the caterpillar pupates: Juvenile Hormone (JH) and Ecdysome (20E). JH is in high levels to maintain the caterpillar stages. However, after the fifth instar (which is the fifth time the caterpillar molts), the M. Sexta indivual eventually reaches a critical weight, which then leads to a signal cascade decreasing the amount of JH and increasing the amount of 20E, a transition that then achieves what is called the commitment pulse [Nijhout: 2006]. The commitment pulse is a slight rise in 20E levels relative to JH, which initiates the process of pupation in the caterpillar. This pulse then leads to the caterpillar beginning the pupation stage and the movement towards the moth stage. In this experiment, we wanted to evaluate whether feeding M. Sexta a 20E inhibitor will effect the time in which the caterpillar pupates. We hypothesize that if an M. Sexta individual is fed a 20E inhibitor, it will pupate at a later point then M. Sexta individuals who are not fed a 20E inhibitor. 
+
+Materials and Methods:
+: In our experiment, we have 8 M. Sexta individuals, 4 of these individuals were put in a control group and 4 individuals were put in the experimental group. All the caterpillars were housed separately, with the control group being held in one container with 4 compartments and the experimental group being held in another replicate container. These containers were kept in an incubator which was set at 32°C. The control group was fed industry standard caterpillar food soaked in water (10 drops from a pipet per 10 grams of food), in order to replicate the consistency that the experimental group’s food would have. The experimental group was fed the same food, but was soaked (10 drops per 10g of food) in a solution containing of a 20E inhibitor, called Azaguard. Then, over the span of 3 weeks, the caterpillars were monitored, their weights measured, and any significant changes observed were noted (weakness/death and color change). When the caterpillar begins to pupate is also recorded. The caterpillars were observed for a 15-day period (Note: No observations were taken on Day 5 and Days 11-13). We ran a two sample t-test to determine whether the difference in the average mass of each group on each given day (denoted by X in the below equation) was statistically significant: 
+H_0: 〖Mass〗_Control (X)-〖Mass〗_Experimental (X)=0
+H_a:〖Mass〗_Control (X)-〖Mass〗_Experimental (X)&gt;0
+
+
+Results:
+Firstly, by the end of the 15-day period, all 4 of the control caterpillars pupated (C3 pupated Day 8, C2 on Day 9, C3 on Day 10, and C1 on Day 14) and all 4 experimental group caterpillars failed to pupate at all. Three of the experimental group caterpillars died prior to the end of the 15 day period. Figure 1 shows the changing masses of both the experimental group and the control group. The results of this two sample t-test was the following: dof = 20, t-value = 3.1245, P-Value = 0.00267. 
+
+Discussion:
+: Our results greatly support our hypothesis. Because all 4 control group caterpillars pupated, and our 4 experimental group caterpillars failed to pupate, it suggests that a 20E inhibiter will inhibit the M. sexta caterpillar from pupating. Other research has presented a similar result. Research from the University of Washington has presented that a protein synthesis blocker, which blocks the signal transduction pathway of the 20E hormone, inhibits M. sexta caterpillar pupation [Zhou: 1998]. This finding is significant because it further suggests the importance of 20E hormone in the regulation of insect molting, specifically in M. sexta caterpillars. However, one factor to consider is that all 4 M. sexta caterpillars in the experimental group over the span of the experiment became incredibly weak and 3 of the 4 died before the end of the experiment. This observation was backed up by a statistically significant difference between the average mass of the two groups over time, suggesting that the experimental group caterpillars were weaker than the control group caterpillars (assuming mass can be used as a judge of weakness). 20E, while affecting the ability of the caterpillar to pupate, is also important for regulation of the insects growth and development. This could potentially explain why the caterpillars in the experimental group were unable to grow, and thus produces an alternative explanation for why the experimental group caterpillars failed to pupate. While the 20E inhibiter seems to inhibit pupation, the 20E inhibiter could have simply weakened the M. sexta caterpillars to the point that they were unable to pupate, versus directly inhibiting pupation. It would require more research to determine isolate which of the effects the 20E inhibiter has on these M. sexta caterpillars. In addition, in recording weights, all the control group caterpillars experienced a significant increase in weight up until about 4 or 5 days prior to pupation, in which there was a significant weight loss. This weight reduction prior to pupation could be an avenue for further research to determine what causes this weight loss and whether the interplay of JH and 20E hormones is involved. 
+
+
+Literature Cited:
+Nijhout HF, Davidowitz G, Roff, DA. 2006. A quantitative analysis of the mechanism that controls body size in Manduca sexta. Journal of Biology 5:16
+
+Nyström E. 2013. Feeding Preferences and Foraging in Larvae of Manduca sexta and Spodoptera littoralis. Swedish University of Agricultural Sciences. 
+
+Zhou B, Hiruma K, Jindra M, Shinoda T, Segraves W, Malone F, Riddiford L. 1998. Regulation of the transcription factor E75 by 20-hydroxyecdysone and juvenile hormone in the epidermis of the Tobacco Hornworm, Manduca sexta, during larval molting and metamorphosis. Developmetnal Biology. 193:127-138
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-09+at+12.42.35+PM.png&Size=116467&Type=image%2Fpng&F=F_tJs8r0P8tz2c3Ml
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-09+at+12.42.28+PM.png&Size=76479&Type=image%2Fpng&F=F_1QcFSTQoAARoYVH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The change in average mass across the experimental and control group over the 15 day observational period. The above graph shows the change in mass of the caterpillars over the course of the 15 day observational period. This was determined by averaging the masses of the 4 individuals in the control group (black line) and the 4 individuals in the experimental group (green line). The x-axis represents the number of days since the initial treatment, in which the treatment as applied on Day 1 (ie. the intial masses of the capterpillars is the masses for Day 1). The difference between the masses in the two groups is denoted with the red line. 
+Figure 2. The average masses of the experimental and control group. The above graph represents the average of the masses (measured in grams) of the caterpillars in the control (black) and experimental (green) groups over the 15 day observational period. The red error bars are the standard deviation of the masses at the different days. *************************************************************************
+
+
+

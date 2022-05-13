@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 14:15:21
+Author of this lab report is: Std_4h4UtW17
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Effects of Caffeine on the Amplitude of Rana pipiens’ Gastrocnemius Muscle Contraction 
+
+Abstract:
+The objective of this study was to determine the effects of caffeine on the amplitude of contraction in the gastrocnemius muscle of the Rana pipeins. The hypothesis was that caffeine would increase the amplitude of muscle contraction. This study used three separate gastrocnemius muscles of different frogs to generate one control group and one experimental group per muscle. Each gastrocnemius muscle was electrically stimulated before the injection of caffeine, and the amplitudes of the five corresponding contractions were recorded. The muscle was then injected with caffeine, and electrically stimulated five more times. The amplitude of the five corresponding muscle contractions were recorded. For Leg 1, the mean amplitude of contraction for the control group was 0.911 volts, compared to 1.77 volts of the experimental group. The paired t-test yielded a p-value of 7.05E-8. No data was used from Leg 2. For Leg 3, the mean amplitude of contraction for the control group was 0.562 volts, compared to 1.32 volts of the experimental group. The paired t-test gave a p-value of 1.57E-8. The p-values of both legs are statistically significant, confirming that caffeine increases the amplitude of muscle contraction in the gastrocnemius muscle of the Rana pipiens.
+
+
+Introduction:
+This study examined the effects of caffeine on the neuromuscular function of the Rana pipiens’ gastrocnemius. The Rana pipiens, or Northern Leopard Frog, is an ideal subject for this experiment due to its easily exposed gastrocnemius muscle (Johnson: 2017). Under normal circumstances, the neuromuscular junction of the Rana pipiens’ gastrocnemius muscle functions like most. Following the depolarization of the T-Tubule, Ca2+ enters and depolarizes the sarcoplasm. With this slight depolarization, the sarcoplasmic reticulum (storage site of Ca2+) opens its many Ca2+ channels and Ca2+ fills the sarcoplasm. This Ca2+ binds actin filaments, allowing myosin to bind actin and initiate a muscle contraction (Sedava: 2016). In this study, the role of Ca2+ in muscle contraction is the focus. Previous studies on the effects of caffeine on muscle contractions suggest that caffeine increases the release of Ca2+ from the sarcoplasmic reticulum (Rosser: 2009). In addition, the amount of Ca2+ released from the sarcoplasmic reticulum depends on the concentration of the caffeine injected (Weber: 1968). Knowing that Ca2+ enables muscle contraction, one could suggest that increased Ca2+ in the sarcoplasm would cause a longer contraction and/or a stronger contraction. This study will examine the latter suggestion. We will assess the strength of several muscle contractions before and after injection of 200mm caffeine by measuring the amplitude of each contraction. Because caffeine increases the amount of Ca2+ available to muscle, we hypothesize that the Rana pipiens’ gastrocnemius will have a larger amplitude during contraction when injected with caffeine than when not injected. 
+
+
+Materials and Methods:
+For this study, we used three separate legs from the Rana pipiens, or Northern Leopard Frog. The study specimens were all raised for research purposes only. During preparation, the legs were skinned, and the gastrocnemius muscle separated from other connecting tissue. The end of the gastrocnemius muscle was tied to a string and hung from a force transducer. The force transducer measured the mechanical force, or amplitude of the contraction. We injected two electrically charged pins directly into the muscle to stimulate the muscle and cause it to contract. To interpret and log data, we used a program called LabScribe. On LabScribe, we formatted the settings so that the muscle would be stimulated five separate times, each at 1.0V (volts). After the first five contractions, we injected the muscle with 1 mL (milliliter) of 200mm (millimolarity) caffeine. The program continued running, stimulating the muscle five more times at 1.0V. On LabScribe, the data was recorded one two corresponding graphs. The bottom monitored when the program stimulated the muscle, and the top graph monitored the amplitude of each contraction. This entire process, beginning with the preparation of the Rana pipiens leg and ending with the injection of caffeine, was then repeated with the two remaining legs, with the identical process. This concluded the physical section of the study. For the data analysis, each leg was its own control and experimental group. The control data consisted of the five amplitudes measured before caffeine injection, and the experimental data consisted of the five amplitudes measured after caffeine injection. The averages of the control and experimental amplitudes were measured and compared using Microsoft Excel. To determine whether the amplitude means were statistically different, we ran a paired t-test on the data. To be statistically significant, the p-value needed to be p < 0.05. Lastly, the standard deviation of pre-and-post-amplitudes were calculated and compared. 
+
+
+Results:
+Leg 1
+The average amplitude of the control group’s five contractions was 0.911 volts, compared to 1.77 volts of the experimental group. The standard deviation for the control group was 0.0187, and 0.00192 for the experimental group. When calculated, the paired t-test for Leg 1 yielded a P-value of 7.05E-8 which indicates statistical significance. 
+
+Leg 2
+We were unable to use any data from the second Rana pipiens leg. 
+
+Leg 3
+The average amplitude of the control group’s five contractions in Leg 3 was 0.562 volts, compared to 1.32 volts of the experimental group. The standard deviation for the control group was 0.0141, and 0.0154 for the experimental group. The p-value for Leg 3 was 1.57E-8, which indicates statistical significance. 
+
+
+Discussion:
+After conducting the physical experiment and analyzing the data, our study supported the hypothesis that caffeine does increase the amplitude of muscle contraction. Overall, the two control groups had lower averages for the amplitudes of contraction than the experimental group. As indicated by p values of 7.05E-8 and 1.57E-8, respectively, the mean amplitudes between control and experimental were statistically different. One limitation of this study is that it only had two control and experimental groups (one for each Leg). Unfortunately, there was an error in the study with regards to testing on Leg 2. During the injection of caffeine, the syringe used for injection accidentally pieced through the muscle and the caffeine was not properly taken up by the muscle. Because of this, no data from Leg 2 was used in any analysis. Because the sample size was so small, the external validity of this study could be questioned. This said, the p-value was less than 0.05 for each leg, suggesting that the hypothesis could still have validity.
+
+Biologically, caffeine may have increased the levels of Ca2+ in the sarcoplasm and enabled the muscle to have a contraction with more tension/force (higher amplitude). This would be due to a decrease in Ca2+ uptake by the sarcoplasmic reticulum (Allen: 1995). The high concentration of available Ca2+ could have bound to more actin filaments, increasing the number of muscle cells contracting. With a high number of contracting muscle cells, it is reasonable that the contractions summed and created the high amplitude contractions. We suggest that the biological mechanism of contraction was affected by caffeine such that Ca2+in the sarcoplasm was increased, causing contractions of higher amplitude. In addition to supporting the hypothesis, the study also points to further effects of the caffeine on the muscle contraction. 
+
+In both legs, the amplitude of contractions increased directly after injection of caffeine. The amplitude then reached a certain voltage and plateaued, remaining at the same voltage for an indefinite amount of time. Even when the muscle was electrically stimulated after injection, the amplitude does not vary from its plateau. The lack of amplitude increase suggests that the muscle has reached tetanus, also called maximal contraction. Tetanus is sustained muscle contraction during which the amplitude of contraction does not increase (Sedava: 2016). The muscle must have reached tetanus because of increased Ca2+ availability, which would enable the muscle to sustain contraction. A similar study confirmed that caffeine increases tetanic Ca2+ (Allen: 1995). 
+
+If this study was repeated, it would be beneficial to record the amplitude of the tetanic contraction until the muscle returned to a relaxed state. The time required for the muscle to relax would point to the effects of caffeine on Ca2+ on the muscle as it declines to its relaxed state. Such an addition to the study would also require a test of tetanus without caffeine injection, so that one could compare the time elapsed from tetanus to relaxation of a muscle injected with caffeine to the time elapsed of a muscle without caffeine.
+
+
+Literature Cited:
+1. Johnson AD. Neuromuscular Control. Comparative Physiology BIO114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated August 2, 2017), pp. 19–21.
+
+2. Sedava DE. 2016. Life: The Science of Biology. Sunderland MA. Sinauer Associates. 1002-1005 pp.
+
+3. Rosser JI, Walsh B, Hogan MC. 2009. Effect of physiological levels of caffeine on Ca2+ handling and fatigue development in Xenopus isolated myofibers. American Journal of Physiology -Regulatory, Integrative and Comparative Physiology. 296(5): 1514.
+
+4. Weber A, Herz R. 1968. The relationship between caffeine contracture of intact muscle and the effect of caffeine on reticulum. The Journal of General Physiology. 52(5): 755.
+
+5. Allen DG, Westerblad H. 1995. The effects of caffeine on intracellular calcium, force and the rate of relaxation of mouse skeletal muscle. Journal Physiology. 487: 331, 340-341
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=pic5.png&Size=42500&Type=image%2Fpng&F=F_3gvdHzt4XDt7knX
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=pic4.png&Size=41359&Type=image%2Fpng&F=F_aWXupoxwqlEXBmB
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 compares the average amplitude of contraction for Leg 1. The average for the control group was 0.911 volts with a standard deviation of 0.0187. The average for the experimental group was 1.77 volts with a standard deviation of 0.00192. The p-value for this data set was 7.05E-8. Error bars are included and represent the standard deviation of the respective averages.
+
+Figure 2 compares the average amplitude of contraction for Leg 1. The average for the control group was 0.562 volts with a standard deviation of 0.0141. The average for the experimental group was 1.32 volts with a standard deviation of 0.00154. The p-value for this data set was 1.57E-8. Error bars are included and represent the standard deviation of the respective averages.
+
+
+*************************************************************************

@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-30 13:33:12
+Author of this lab report is: Std_nzLKNTDO
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: The Effects of Caffeine on the Muscle Contraction in Rana Pipiens 
+
+Abstract:
+This experiment set out to find the effects of caffeine on the neuromuscular process and muscular reaction in the gastrocnemius muscle of Rana Pipiens. Our group hypothesized that the injection of caffeine into the muscle before electrically stimulating would cause a larger contraction amplitude than electrically stimulating the muscle alone. Using LabScribe computer software and a force transducer, various electric voltages were pumped into the muscle causing contractions. The amplitude of these contractions in the leg normally were measured as a control, then, following an injection of caffeine solution, contractions were measured again. Following the collection of our data, we can conclude that the injection of caffeine does cause a significant increase in twitch amplitude with p values of 4.66 x 10-1¬¬2, 1.77 x 10-5, and 6.99 x 10-8 , all well below our value of significance of .05. We believe this can be attributed to increased calcium release from the sarcoplasmic reticulum of the muscle fibers. 
+
+Introduction:
+The neuromuscular system is as well studied as any in science. The actin and myosin filaments are able to slide past each other in the presence of calcium, as calcium reveals binding sites for these two filaments. [Sadava: 2014] In a 1966 study on the Sartorius muscle of a Rana Pipiens frog, it was concluded that the presence of caffeine appeared to lead to more released Calcium from the sarcoplasmic reticulum. [Sanow: 1966] More calcium in the sarcoplasmic reticulum would allow for continued contraction of the myofibrils, therefore causing a greater contraction in the muscle and a greater twitch amplitude. With this knowledge, we hypothesized that, in the presence of caffeine, our recorded twitch amplitude would be significantly higher in the presence of caffeine than would be recorded by simply stimulating the leg. This hypothesis was tested on the gastrocenemius muscle of a Rana Pipiens frog, which would be stimulated to contract following an injection of caffeine. Our independent variable was the presence of an injected caffeine treatment, while the dependent variable was how large of a contraction occurred in the muscle. The Rana Pipiens species was decided to be good subjects as they are consistent across samples having been grown in a lab, and the gastrocnemius is a particularly easy muscle to isolate and record data from. 
+
+Materials and Methods:
+Materials:
+-	3 Rana Pipiens Legs
+-	Force Transducer
+-	LabScribe Software
+-	.1mL of 200mM caffeine solution 
+Methods:
+To begin, we started with 3 different Rana pipiens legs. The legs were ‘degloved’ by folding the skin from the top of the thigh all the way down until it came off the leg, leaving the muscles and bone completely exposed. A scalpel was put underneath the gastrocnemius and slid up to the ankle joint until the muscle was severed from the lower leg and just hanging from the upper thigh. At this point, a small string was tied to the end portion of the gastrocnemius muscle and then hung at a 90-degree angle to a machine that can measured volume of the muscle twitch. With the gastrocnemius suspended in this position, the rest of the leg was pinned down with 3 metal pins, preventing movement of anything other than the gastrocnemius muscle. Finally, 2 stimulator needles connected to the force transducer were forked into the muscle. Using the software LabScribe with the force transducer, we applied various voltages through the stimulator needles into the leg. First the leg was stimulated at increasing voltages until the voltage threshold was found to elicit a recorded twitch from the muscle. Then, using the found voltage, we stimulated the muscle and recorded 5 twitch amplitudes. Following this, .1mL of 200mM caffeine was injected into the leg immediately before recording 5 additional twitches at the same voltage. We analyzed the data using a Paired T-Test for each leg and finding the averages, standard deviations, and the P Values. 
+
+
+Results:
+Our average control leg twitch amplitude was .0441 while the average leg twitch amplitude of our experimental group that received the 1.2mL of 100mM caffeine was 1.0981. In leg 1 (Figure 1) the control response average response was .0196, and following the caffeine treatment the average was .8686. The standard deviation for the control and experimental group respectively were .0018 and .018. Leg two (Figure 2) had a control response average amplitude of .0478, while the caffeine treatment the average was .8852. The standard deviation for the control and experimental group respectively were .0045 and .075. Finally, in leg 3 (Figure 3) we found a control group average amplitude of .0686. while, following the caffeine injection, the average amplitude size rose to 1.311. The standard deviations for the control and experimental groups were .002 and 0 respectively. It was determined that for the experiment any P-value less than .05 would be considered significant and for each leg tested the P-value was found to be well under this with values of 4.66 x 10-1¬¬2, 1.77 x 10-5, and 6.99 x 10-8 respectively. Below are the graphs for each individual legs with the averages, standard deviations, and P-value found in each study. 
+
+Discussion:
+This study supported the proposed hypothesis in finding significant data in favor of an increased muscle contraction. In each trial with all three legs, the twitch amplitude was raised significantly following the injection of caffeine. Our results align very well with the Sanow study as a possible explanation. That study concluded that increased amplitude of contraction occurred because caffeine caused more calcium to be released from the sarcoplasmic reticulum. Increased calcium presence in the sarcoplasmic reticulum forces more contractions of the myosin and actin filaments hypothetically until tetanus. Our third leg displayed this trend as it gave a contractional amplitude of the same value five times in a row, suggesting that it could contract no more. If this explanation is incorrect it’s also feasible to think that caffeine causes more action potentials in the post synaptic membrane or possibly forces more Acetylcholine to be released from the presynaptic membrane. In a 1961 study on the Sartorius muscle of frogs it was hypothesized that caffeine restricted bonding of calcium in the membrane, allowing it to flow more freely. [Bianchi: 1961.] This explanation may be even better than the one proposed in the Sanow study, as it explains the increased calcium presence due to permeability. For future study, I would like to try to isolate the mechanism of the caffeine to try and better articulate how and why, assumedly, the calcium release from the sarcoplasmic reticulum is occurring at a higher rate. This could possibly be studied by tracking at what point the calcium is present in the muscle through the location of where the muscle is stimulated. If this study was to be repeated, I would want to try and perform it by firing an electric current into the nerve, causing the contraction, rather than being forced to directly stimulate the muscle with electric probes. Focusing on this individual experiment, it could be improved by stimulating the muscle through the nerve rather than stimulating it directly at the muscle, this to more accurately reflect how the muscle would contract in the body. Additionally, a more consistent method and placement of the caffeine injection could allow for more reliable results.
+
+Literature Cited:
+Bianchi, C. P. (1961). The effect of caffeine on radiocalcium movement in frog sartorius. The Journal of general physiology, 44(5), 845-858.
+
+
+Isaacson, A., & Sandow, A. (1967). Quinine and caffeine effects on 45 Ca movements in frog sartorius muscle. The Journal of general physiology, 50(8), 2109-2128.
+
+Sadava, David (2016.) Life: The Science of Biology. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=New+Figure+1.PNG&Size=23550&Type=image%2Fpng&F=F_6LJG2mT4TEpQnzf
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=New+Figure+2.PNG&Size=21652&Type=image%2Fpng&F=F_exlRp8JBWNFXijr
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=New+Figure+3.PNG&Size=9398&Type=image%2Fpng&F=F_40kjxPjhdtgdNgV
+
+
+
+
+
+
+Figure Legends: 
+
+Rana Pipiens Leg 1: 
+For the control group the average response was .0196, following the caffeine treatment the average was .8686. The standard deviation for the control and experimental group respectively were .0018 and .018. 
+*Results were found to be significant with a P-value of 6.99 x 10-8
+
+
+Rana Pipiens Leg 2:
+For the control group the average twitch amplitude was .0478, following the caffeine treatment the average was .8852. The standard deviation for the control and experimental group respectively were .0045 and .075. 
+* The results were foundto be significant with a P-value of 1.77 x 10-5
+
+Rana Pipiens Leg 3:
+For the control group, the average twitch amplitude was .0686. Following the caffeine injection, the average amplitude size rose to 1.311. The standard deviations for the control and experimental groups were .002 and 0 respectively. 
+*Results were found to be significant with a P-value of 4.66 x 10-1¬¬2
+
+
+*************************************************************************

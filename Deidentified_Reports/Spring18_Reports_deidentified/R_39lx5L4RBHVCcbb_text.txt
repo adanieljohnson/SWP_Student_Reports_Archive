@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-03-14 21:17:18
+Author of this lab report is: Std_VWsvqDqB
+ID: R_39lx5L4RBHVCcbb
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title:  Measuring the Effect of AzaGuard on the Growth Rate of Manduca sexta
+
+Abstract:
+	This experiment covered the effect that hormone blockers, specifically AzaGuard, have on the life cycle of Manduca sexta.  AzaGuard works by lowering the level of ecdysterone in the insect’s body, thereby inhibiting its growth and preventing it from moving on to the next stage in its life cycle.  The hypothesis was that the insects who consumed the AzaGuard would fail to molt and as a result die.  The experiment was conducted by splitting 8 of these insects up into 2 groups where one group was fed food not containing AzaGuard and the other group was fed food with AzaGuard.  Their measurements were recorded in weight and length and were eventually compared at the end of the 7-day experiment. After comparing the results, it was evident that AzaGuard did in fact hinder the growth of the Manduca sexta because the average growth of the control group was much higher than the average growth of the experimental group. The hypothesis was incorrect in that it predicted the animals who consumed the AzaGuard would eventually die.  This did not turn out to be true but a longer experiment could prove the hypothesis correct. 
+
+
+
+
+Introduction:
+	Every organism in the world goes through a life cycle. The one constant to organismal life cycles is that they are controlled and regulated by bodily hormones.  Insect life cycles are beneficial to study because they go through very distinct stages that can be manipulated with the addition or inhibition of specific hormones.  The Manduca sexta is one commonly studied insect that feeds mainly on the tobacco plants of farmers.  The benefit of using this insect is that previous studies have revealed the specific stages and hormones involved in its life cycle.  It has 5 larval stages which are separated by molts, and is primarily regulated by two hormones, Juvenile Hormone and Ecdysterone. [Johnson: 2018]. Before the 5th larval stage the Manduca sexta undergoes what is known as a commitment pulse.  At this point, the level of Juvenile Hormone (JH) in the body is lowered, which signals that the larvae are ready to molt and start the pupil stage.  Only once JH is lowered in the endocrine system can the insect begin the transition to the adult stage. [Hatem: 2015]. When JH levels drop, the prothoracic gland will release ecdysterone in order to trigger the molting process.  If ecdysterone levels failed to increase, how would the Manduca sexta respond? In order to test this, the Manduca sexta were introduced to AzaGuard, a hormone blocker of ecdysterone.  The effects on the growth of the Manduca sexta were able to be compared to a normal growth rate by use of a control group consisting of insects not exposed to the AzaGuard. The insects that consume the AzaGuard will have their molting process inhibited, causing the Manduca sexta to die. 
+[Johnson: 2018]
+
+
+Materials and Methods:
+	The Manduca sexta were separated into two distinct groups.  Four animals were assigned to the control group and the other four animals constituted the experimental group. Each Manduca sexta was placed into a container and received one of two diets.  That caterpillars in the control group were given 10g of food with 10 drops of distilled water added, while the caterpillars in the experimental group were given 10g of food traced with 7 drops of AzaGuard in it.  Every day for the next 7 days the animals were weighed by scale and measured to determine length.  At the end of the study a two-sample t-test was used to compare the findings from the control group and experimental group for differences in weight and length.  In addition to recording values for weight and length, the weight of the food for each caterpillar was weighed at the start of the experiment and at the conclusion of it.  This was to compare which animals ate more of their diet and which ate less. 
+
+
+Results:
+According to the measurements, the average weight and the average length of the Manduca sexta in the control group increased significantly over time.  In contrast, the average weight and length of the experimental group increased minimally from the initial day.  Also, when comparing the amount of food ate between the two groups, the control ate more food and at a faster pace.  By day 5, each caterpillar in the control ate all 10g of their food allotment. No caterpillar in the experimental group had even finished their food by the end of the experiment.  The two-tail t-test results showed an average P-value of 0.012 for the weight measurements. For the length measurements, the average P- value was 0.035.  This is meaningful because it shows the data was statistically significant and had a 95% confidence interval.  
+
+
+Discussion:
+Based on the data collected, the hypothesis was supported. The Manduca sexta that consumed the AzaGuard failed to grow in comparison to the control group and failed to develop.  This happened because the AzaGuard prevented the release of ecdysone into the bloodstream by the prothoracic gland.  The presence of this hormone is what signals to the brain that it is time to consume large amounts of food in preparation of pupation, the stage in between larva and adulthood.  The fact that the caterpillars who were not given the variable of AzaGuard continued to grow in weight and length strengthens this concept because there was nothing there to block the secretion of ecdysterone.  However, as the data illustrates, the growth of these caterpillars seemed to drop off at the end of the week. This is because they ran out of food by day 5 and had nothing else to eat to continue their steady growth. Also included in the hypothesis was that the Manduca sexta that consumed AzaGuard would eventually die.  This did not turn out to be true, making the hypothesis not completely accurate.  One way to further this experiment is to continue it for a longer period of time to see if eventually the Manduca sexta died as a result from long-term exposure to AzaGuard.  In total, it is clear that the presence of a hormone blocker significantly impacts the life cycle of a growing Manduca sexta as it prohibits key periods such as the commitment pulse. 
+
+
+Literature Cited:
+1	Johnson Ad. Hormone Regulation. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated Jan 5, 2018), pp. 11-12. 
+2	Hatem Nicole E. The role of juvenile hormone and insulin/TOR signaling in the growth of Manduca sexta. February 21, 2018. http://apps.webofknowledge.com/full_record.do?product=BIOABS&search_mode=GeneralSearch&qid=4&SID=6AIll2QcoVnuIHoGw8o&page=1&doc=5
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Average+Weight+of+caterpiller+over+a+week.png&Size=60501&Type=image%2Fpng&F=F_eD8ai69BSDWSnpH
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Average+length+of+caterpillars+over+a+week.png&Size=49766&Type=image%2Fpng&F=F_brTC4SrwtOwaxed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Average Weight of Caterpillars Over a Week
+Average Length of Caterpillars Over a Week
+
+*************************************************************************

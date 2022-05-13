@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-29 18:24:29
+Author of this lab report is: Std_JR3f7b5Q
+ID: R_2VIwGXCWC28eJIn
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of Caffeine on the Growth of Physarum Polycephalum
+
+Abstract:
+We studied the effect of caffeine treated agar plates on the growth of Physarum Polycephalum, or physarum. We compared the area of migration on both plates treated with caffeine and the control plate which was treated with no solution. We hypothesized that the physarum growing on the plates treated with caffeine would have a lower area of migration when compared to the control because caffeine blocks calcium ion pathways in the cell, preventing maximal growth of the physarum. We found that the physarum on the plates treated with caffeine had a lower area of migration; however, after running a one-tailed independent t-test, assuming equal variance and alpha of 0.05, the p-value was 0.15 which is not statistically significant so our hypothesis was not supported. 
+
+Introduction:
+Organisms use signal pathways to respond to outside stimuli and adjust to their environment. These signal pathways can either be extracellularly regulated by hormones or be intracellular second messenger pathways. Physarum Polycephalum, or physarum, is an acellular slime mold that grows readily in lab. As it is easy to grow and analyze the growth movements of, we will be using the physarum in our experiment. The physarum does not use hormone pathways to respond to their environment. Instead, they use intracellular signal pathways to create a response using a second messenger, which is a molecule or ion inside the cell that triggers the response pathways. One of the most common second messenger signal pathways in the physarum is the calcium ion pathway which is a ion-coupled receptor pathway, where calcium ions are the second messenger. Calcium that diffuses into the cell activates the ryanodine receptor on the smooth endoplasmic reticulum which in turn opens a calcium channel, releasing more calcium from the cell’s internal stores. The calcium ions released from the internal smooth ER can bind to many calcium regulated proteins, and can stimulate or inhibit their activity including proteins that have to do with the growth of the physarum [Johnson: 2016]. In a study done in 1980, Nachmias found that caffeine effects the cytoplasmic streaming abilities of the physarum. They found that caffeine slows cytoplasmic streaming by blocking the physarum’s ability to uptake and use calcium, either from external or internal sources of the ion. [Nachmias: 1980]. From their experiment, caffeine is an effective drug that blocks the uptake and usage of calcium, which would effect the calcium ion pathways. This, in turn, would affect the growth of the physarum as the physarum uses calcium to stimulate growth. Thus, we hypothesize that treating the agar plates with caffeine will inhibit the growth of the physarum.
+
+Materials and Methods:
+First, we took six 100 nm with 2% agar in water, and labeled three with control and the other three with caffeine. We then took each of the caffeine plates and added 5 mL of 20 mM of caffeine to it and let it soak for 10 minutes. After the 10 minutes, we poured out the excess caffeine that was left on the plate. Next, we cut out two 1 cm squares from every plate, control and caffeine. Between every cut, we sterilized our spatulas by placing them into a beaker of ethanol. We then took the stock plates and cut out 1 cm squares from the stock plate and placed them stock cubes into the wells in the control and caffeine plates, sterilizing between each cube. We then placed 7 oatmeal flakes around the edge of the plates and placed the lids back on the plates. After taping the plates shut, we placed all the plates in a dark bag in a dark spot for 48 hours before returning to collect data. To take our data, we measured from the edge of the cube to the edge of the migration of the physarum. To analyze the area of migrations on each plate, we used a one-tailed independent t-test, assuming equal variance and alpha of 0.05. 
+
+
+Results:
+ Figure 1 displays the growth of the physarum in each plate, both caffeine and control. The mean of the area migrated by the physarum on the control plates is 30.53 ± 6.39 cm2. On the other hand, the mean of the area migrated by the physarum on the plates treated with caffeine was 17.12 ± 9.86 cm2. After running a one-tailed independent t-test, assuming equal variance and alpha of 0.05 to compare the area of migration from each plate, we attained a t-stat of 1.142 with 4 degrees of freedom and a p-value of 0.15.
+
+Discussion:
+We hypothesized that the caffeine we treated the agar plates with would inhibit the growth of physarum, but our hypothesis was not supported, since our p value was 0.15, meaning our data was not statistically significant. Though the caffeine did inhibit growth as can be seen in Figure 1, the difference in the area of migration between the control plates and the caffeine treated agar plates was not statistically significant. In another study, Olenhusen found that externally applied calcium antagonistic drugs, even in high concentrations, did not affect the calcium activated processes in the physarum. Olenhusen found that caffeine did not block the calcium ion pathways in the physarum when applied externally, which he thought to be because the caffeine did not reach the internal stores of calcium and block those [Olenhusen: 1979]. Caffeine is a calcium antagonistic drug, thus when we externally applied caffeine to the physarum by treating the agar plates, we had similar results to Olenhusen. Even though we did get results, our physarum was slow growing, and some other plates did not even grow as expected. In fact, some physarum plates had no growth at all. In his research, Daniel found that Physarum Polycephalum grew better in a submerged culture rather than a surface culture. Physarum grown in submerged culture was found to grow more rapidly and was found to be less likely to get contaminated [Daniel: 1961].  Since our physarum was grown on the surface of an agar plate and not in a submerged culture, it might not have grown as fast as we expected it to. It also might have gotten contaminated by a bacteria which prevented it from growing, as surface cultures are more likely to get contaminated. Another reason that the growth of the physarum might have been affected is the age of the physarum strains. Adler found that after growing physarum for over a year, several strains had a higher DNA content. As a result, the aged strains have a larger live cells, and they tend to degrade quickly because of their age [Adler: 1974]. Thus, if we were given older strains of physarum to grow, they would not have grown as much as a younger strain as they would have degraded quickly without growing. In the future, we might treat the agar with different concentrations of caffeine to analyze which concentration would inhibit the growth of the physarum the most. We could also test to see if putting oats on only one side of the caffeine treated plate would affect the growth instead of placing the oats around the entire circumference of the plates. This way we could see if the caffeine affects the direction of movement, as the expected direction of movement would be to migrate towards the oats, rather than away from the oats. Another future experiment would be to inject the caffeine directly into the physarum, testing to see if the internally applied caffeine is more effective than the externally applied caffeine. 
+
+
+Literature Cited:
+1. Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+2. Nachias, V. T. Meyers, C.H. 1980. Cytoplasmic droplets produced by the effect of adenine on Physarum plasmodia: Comparison with caffeine droplets and effect of calcium. Experimental Cell Research. 128: 121-126.
+3. Götz von Olenhusen, K. Wohlfarth-Bottermann, K.E. 1979. Effects of Caffeine and D20 on Persistence and de novo Generation of Intrinsic Oscillatory Contraction Automaticity in Physarum. Cell and Tissue Research. 197: 479-499. 
+4. Daniel, J.W. Rusch, H.P. 1961. The Pure Culture of Physarum polycephalum on a Partially Defined Soluble Medium. Microbiology. 25: 47-59.
+5. Adler, P. N. Holt, C. E. 1974. Change in Properties of Physarum polycephalum Amoebae During Extended Culture. JOURNAL OF BACTERIOLOGY. 120: 532-533.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-29+at+6.21.43+PM.png&Size=38341&Type=image%2Fpng&F=F_308D0FHHU8MtmPm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Shows the area (cm2) of each plate after 48 hours of growth in both our control plates and our caffeine plates. The mean of the area migrated by the physarum on the control plates is 30.53 ± 6.39 cm2. On the other hand, the mean of the area migrated by the physarum on the plates treated with caffeine was 17.12 ± 9.86 cm2. (t-stat = 1.142, df = 4, p-val = 0.15)
+*************************************************************************
+
+
+

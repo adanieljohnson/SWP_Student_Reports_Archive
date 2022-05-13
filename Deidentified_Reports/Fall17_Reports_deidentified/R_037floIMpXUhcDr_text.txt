@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-11-02 15:36:54
+Author of this lab report is: Std_9BQyF8wa
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effects of 2% Sevin solution on threshold voltage for nerve stimulation in Rana pipiens’s leg muscle
+
+Abstract:
+In this experiment, we study about the result of threshold voltage for nerve stimulation in of Rana pipiens’s leg muscle with the addition of Sevin solution. Multiple studies suggest that with the function of Sevin to inhibit acetylcholine esterase, the increasing amount of acetylcholine in synaptic pathway will likely to decrease the threshold voltage for leg muscle to generate action potential. Our hypothesis is that with 2% solution of Sevin added, threshold voltage will decrease for nerve stimulation. During the experiment, we free the nerve of frog leg muscle and at attach probe on it to record the threshold voltage before and after the injection of 2% Sevin solution. Results show that two out of three trials of experiment have a decrease in the threshold voltage of leg muscle after the injection of 2% Sevin solution. However, paired t-test result (t-stat = 0.68, df = 2, P = 0.28) states that there is no significant difference between two groups.
+
+Introduction:
+Leg muscle are innervated by motor neurons, whose cell bodies are located in the gray matter of the spinal cord. Axons of motor neurons extend into a muscle then branch out to innervate several individual myofibers, at point called neuromuscular junctions. [Johnson: 2017] It cause the release of Acetylcholine, the essential neurotransmitter. Through synapse, ACh generate action potential in the muscle fiber, causing release of Ca 2+ from sarcoplasmic reticulum, which activate contractile mechanism of muscle fiber. [Johnson: 2017] 
+
+Carbaryl (1-nophthylmethylcarbarnate), also known as Sevin, is the commonly used pesticide to exterminate animal pests, and it is applied to domesticated animals to control lice, mites, ticks and fleas. [Rick: 2000]. It operates as a nerve agent by inhibiting acetylcholine esterase, which is aimed to terminate acetylcholine-mediated neurotransmission. Acetylcholine esterase hydrolyses and inactivates acetylcholine, thereby regulating the concentration of the neurotransmitter at the synapse, [Soreq: 2001] Therefore, Sevin can increase the amount of acetylcholine due to the abolishment of Acetylcholine esterase. In this experiment, we discuss about how Sevin effects neuromuscular movement. We mainly focus on the leg muscle of Rana pipian, a Northern Leopard frog, since the nerve of this frog is relatively large and easy to dissect. [Johnson: 2017] Therefore, the amount of ACh released during synapses is important to the activation of action potential in neuromuscular movement. In this experiment, we use threshold potential as measurement to test the effect of sevin on neuromuscular movement. Threshold potential is the critical level to which a membrane potential must be depolarized to initiate an action potential. With threshold potential happen in lower voltage of stimulation indicate that the nerve stimulation is strengthened, and vice versa. Our hypothesis is that with 2% solution of Sevin added, threshold voltage will decrease for nerve stimulation. The independent variable is the injection of 2% sevin solution on frog leg muscle, and the dependent variable is the threshold potential obtained by frog leg muscle through electric stimulation. 
+
+Materials and Methods:
+Prepare three frog legs under IACUC standard, and put them on the plate. Using forceps to grasp the skin off, and put the three skinned legs on the dissecting pan. Moisten them with frog ringers. Begin with trial 1 control group, and separate trial 1 frog leg from the other two legs. Separate the inner thigh muscle using a dissecting probe and reveal white sciatic nerve and accompanying blood vessel. Free the nerve from its attaching connective tissue, using dissecting needle and forceps. Gently use scissor to separate the gastrocnemius muscle, and tie a string on the end of the muscle.  Tie the string on a force transducer, and making the string tight enough through regulating the height of the equipment. 
+
+Connect the nerve with a probe, and detect the neuromuscular movement on Labscribe. Set the parameter in Labscribe as: pulse amplitude as 0.00V, number of pulses as 1, frequency as 1 and pulse width as 5 ms. Increasing the stimulation parameter start with 0v to 0.1v, 0.2v, 0.3v, 0.4v, 0.5v, 0.6v and 1v.  Record the stimulation voltage when the nerve first generates action potential, shown as threshold potential. Then, inject 2% Sevin solution to the gastrocnemius muscle, with multiple point injection. Test the neuromuscular movement again with the same stimulation voltage again and record the data. 
+
+Repeat the procedure above for trial 2 and trial 3, and record data. Using pair T-test to find out the significance between variables.
+
+Results:
+Through the figure obtained from collected data, we find out for trial 1, the potential voltage for frog leg that is injected by Sevin is greater than that of control group (+0.1). For trial 2, the potential voltage for frog leg with Sevin is smaller than that of control group (-0.04). For trial 3, the potential voltage for frog leg with Sevin is notably smaller than that of the control group compare to trial 2 (-0.7). All three trials undergoe different patterns, so there is no clear general trend, but data from both trial 2 and trial 3 indicate that two out of three trial show the decrease of threshold voltage of frog leg with sevin to that of the control group. However, through paired t-test, we conclude that threshold voltage of frog legs with Sevin has no significant difference between that of control group (t-stat = 0.68, df = 2, P = 0.28). 
+
+Discussion:
+As result, we conclude that there is no significant difference of potential voltage between frog leg treated with 2% solution of Sevin and frog leg under control group. This result does not support our hypothesis. 
+
+However, most of the study shows that in the central nervous system, acetylcholine serves as an excitatory neurotransmitter, which will increase the likelihood of a postsynaptic action potential to occur. [Purves: 2001] With the help of Sevin, which increase the amount of ACh produced, Ach can induces the development of an extra current, outward at the resting potential, which is dependent on the ACh concentration, thereby larger the amount of ACh produced, higher the ACh concentration, and more extra current it can induce to decrease threshold voltage. [Garnier: 1977]. Although the paired t-test shown that there is no significant difference of threshold voltage between group with Sevin and control group, two out of three trials indicates that Frog leg with 2% Sevin solution injection have lower threshold voltage than that of control group, which can support the hypothesis. The main problem of this experiment is that we have too few trials to undergo experiment. Without enough data base, the paired t-test result cannot represent the overall trending. Therefore, in future study, more trials should be examined. Also, in order to further test the effect of concentration of acetylcholine to threshold voltage of neuro stimulation, we can try 3%, 5% and 7% of Sevin solution into the same frog leg. In this way, we can find out whether using pesticide while farming can have impact on daily activity of frogs. 
+
+In conclusion, the result of this experiment does not support the hypothesis, and to improve this experiment, more trials should be tested, and concentration of Sevin solution injected to frogs’ leg muscle can be changed for further study. 
+
+Literature Cited:
+1: Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 45–46.
+
+2: Rick A. Relyea, Nathan Mills Predator-induced stress makes the pesticide carbaryl more deadly to gray treeforg tadpoles (Hyla versicolor), (2000)
+
+3: Hermona Soreq and Schlomo Sridman. Nature reviews Nereoscience Macmillan Magazines Ltd Volume 2, (1977), pp. 294
+
+4: Perves D, Augestine GJ, Fitzpatrick D, Sunderland (MA): Sinauer Associates. Excitatry and Inhibitory Postsynaptic Potential, Neuroscience. 2nd edition (2001)
+
+5: Didier Garnier, Joel Nargeot, Carlous Ojedat, Oger Rougier. The action of Acetylcholine on background conductance in frog atrial trabeculae (1977)
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=biolab1.png&Size=38284&Type=image%2Fpng&F=F_ekYyTsiWhKOxT4F
+
+
+
+
+
+
+
+
+Figure Legends: 
+figure 1: threshold voltage of muscle leg with no 2% Sevin solution injection (control group n = 3) vs threshold voltage of muscle leg with no 2% Sevin solution injection (experimental group, n = 3). Paired T test results showed no significant difference between two groups. (p ＜ 0.05)
+
+
+*************************************************************************

@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-15 12:14:29
+Author of this lab report is: Std_6PZog9ML
+ID: R_qPE1XSAfH2kcJwd
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The Effect of Calcium on the Contraction Force of a Frog Leg
+
+Abstract:
+There are many processes that influence muscle contraction, like the release of calcium. We expected that if we added calcium to the gastrocnemius muscle of the frog leg, then the force of the muscle contraction would increase. However, our data showed that calcium, instead, decreases the force. Since the p-value was still significant, calcium does have an effect on contraction, but it is not the effect we hypothesized.
+
+Introduction:
+Model organisms are used in biology to help scientists understand biological processes through species that are widely studied. In this experiment, a frog is the model organism, specifically, the frog’s leg with the gastrocnemius muscle and the sciatic nerve. The frog works as a model organism because of its standard anatomy and access to the muscle and nerve. Muscle anatomy has been well researched, and the processes are greatly defined. For muscle contraction, nerve impulses are sent from the spinal cord to the neuromuscular junction. This causes the release of acetylcholine (ACh) and when ACh binds, the sodium channels are opened spreading the action potential through the fiber. Calcium is then released from the sarcoplasmic reticulum [Johnson: 2018]. This calcium is necessary for the muscle contraction which causes the muscle fibers to shorten [Ruegg: 1992]. Due to great research, we know a lot about how muscles and muscle fibers work, but the influence of ions on these muscles and muscle fibers are less researched than the anatomy. Due to our understanding of muscular contraction, we hypothesized that if we inject a frog leg with calcium, then the force of the muscle contraction will increase.
+
+Materials and Methods:
+Three frog legs were used: each is its own experimental and control. The frogs were dissected by placing each leg on a dissecting pan, then pulling the skin down from top to bottom. The frog led was moistened with frog Ringer’s solution and kept moist throughout the experiment. The sciatic nerve was separated and freed using dissecting needle and forceps. This procedure was repeated for all three frog legs. For the direct stimulation part of the experiment, the nerve attached to the muscle was directly stimulated and the pin electrode was placed on the sciatic nerve to be able to record the results. We repeated this by changing the voltage to 0.1, 0.2, 0.3, 0.4, 0.5, 1, 2, 3, 4, and 5 V; it was also repeated for each leg with adding 0.1 mL of calcium and without adding calcium. Fatigue is counteracted by the addition of frog Ringer’s solution. The one-tailed paired t-test was used to compare the difference of the contraction force when adding calcium and not adding calcium in a frog leg. 
+
+Results:
+The highest contraction value for each control was chosen and used with its corresponding experimental value (Fig. 1) in the one-tailed paired t-test to obtain the p-value of 0.0012. When calcium was added, the force of contraction was consistently about 0.1 V smaller than when no calcium was added (Fig. 2). The control and experimental groups are statistically different from each other. 
+
+Discussion:
+It was statistically found that our hypothesis was not supported by the paired t-test because the average contraction force in volts was lower when calcium was added than when no calcium was added (Fig. 2). Calcium is necessary for muscle contraction, but according to the results, too much calcium starts to become inhibitory. There is a threshold where increased calcium is not beneficial to the contraction. The statistically significant p-value means that our results were not random, but our hypothesis was not supported. There was an observable trend in our data: the addition of calcium decreased the force of contraction in the frog leg because it induced sustained tetanus. This sustained tetanus is due to the sustained muscle contraction and abundance of calcium [Ruegg: 1992]. This is seen in Fig. 2 in how the plotted added calcium points are below the no added calcium plotted points at relatively similar levels; the decrease is approximately the same. This shows that added calcium does have an effect on the contraction, it is just not the hypothesized effect. This is because the frog leg already meets the threshold, so more calcium did not increase the contraction force [Johnson: 2018]. If we repeated this lab, we could alter our hypothesis to see how much of an effect the addition of calcium has on the decrease and muscle contraction and how it induces tetanus more quickly. We could also try to find the threshold that determines if added less calcium can increase the contraction force and when it starts to decrease the contraction force. Experiments that test the influence of ions in muscle contraction will broaden scientific knowledge about muscles and could lead to other discoveries.
+
+Literature Cited:
+1.	Johnson AD. Neuromuscular Control. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 17-33.
+2.	Ruegg JC. 1992. Calcium in Muscle Contraction: Cellular and Molecular Physiology. Heidelberg: Springer-Verlag. 289 pp.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table1.png&Size=15373&Type=image%2Fpng&F=F_b2AjyGnHf7Igvu1
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Chart+1+Lab+2.jpg&Size=36726&Type=image%2Fjpeg&F=F_3hsUCgJEN5bKENQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: These are the maximum contraction values of the control leg with their corresponding value of the experimental trial.
+Figure 2: This graph shows the force of muscle contraction of each frog leg. *************************************************************************
+
+
+

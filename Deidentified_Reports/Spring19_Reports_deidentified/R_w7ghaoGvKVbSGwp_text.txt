@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-04-13 14:44:26
+Author of this lab report is: Std_0zUIaEXW
+ID: R_w7ghaoGvKVbSGwp
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: pH effect on photosynthesis in the leaves of Spinacia oleracea.
+
+Abstract:
+Photosynthesis is pH dependent, meaning that specific plants have specific pH’s at which they are able to undergo photosynthesis. In studying Spinacia oleracea, we saw that the plant had an ideal pH around 7 and at pH’s of 4 and 10 the photosynthetic activity was hampered. This lack of photosynthesis as seen by the DCIP indicator which mirrors the activity of NADP/NADPH which is one of the end products of photosynthesis, and a way to measure the photosynthetic activity. By taking absorbances and observing percent changes in the coloration of the samples, we were able to determine which pH was most effective for spinach and where the electrical potential across the plasmalemma broke down in photosynthesis. We determined that increased pH of 10 lead to lowered ability to photosynthesize in the spinach chlorophylls, compare to a pH of 7. 
+
+Introduction:
+The process of photosynthesis is pH dependent and, depending on the specific plant type, an increased or decreased pH in the thylakoid membrane can have an effect on the plants ability to do photosynthesis. In a study performed by Liu, he concluded that pH has a significant effect on the activity, aggregation size and thermal stability of PSI [Liu: 2012]. PSI is the portion of photosynthesis in the plant that is responsible for the production of NADPH. PSI comes in the second half of photosynthesis and is the portion responsible for generating the energy that photosynthesis seeks to produce. Spinacia oleracea have an ideal pH for photosynthesis at 7.2 [Heber: 1976]. A question arose regarding the effects of varying pH’s, and whether an increase in pH would yield more photosynthesis or less.  
+DCIP is a chemical that can be used in relation with NADPH. DCIP and NADPH interact in a particularly associated manner, such that NADPH directly reduces DCIP [Dupuy: 1990]. By implementing DCIP into a pH-controlled solution, containing Spinacia olercea leaves, it will act as an indicator to, based on the absorbance of DCIP, indicate its reduction due to direct electron transfer from NADPH [Dupuy: 1990]. According to The Gardener’s Network, the ideal pH for the soil of Spinach is between 6.0 and 7.5. We hypothesize that by infusing leaves with pH’s of 7, 4, and 10, the leaves with pH of 7 will do the most photosynthesis and there will be less photosynthetic activity shown in the leaves infused with pH’s of 4 and 10. 
+
+
+Materials and Methods:
+Took the Spinacia oleracea leaves and crushed them up using grinding buffer and mixing and straining to generate a pure green solution. Then centrifuged the solution four times for 10 minutes each, looking to purify our solution and separate out the chloroplast and infuse the leaves with three specific pH’s of 4, 7 and 10. Then prepared our test tubes, preparing one blank and nine experimental, with three for each pH. filled the test tubes with 6 mL of water, 2 mL of 120mM DCIP, 2mL of reaction buffer (100mM of pH 6), and then 100 μl of the specific pH infused, enhanced chloroplast solutions. Then put these 10 solutions into spectrometer cuvettes and observed their absorbances at times 0, 10, 20, and 30 minutes, placing them under direct light throughout the experiment. Calculated the percent change over the 30 minutes and performed three different two tailed T-tests to determine the significance of our results.
+
+Results:
+We saw a final percent change value for pH of 4 for to be 4.05, the final percent change of pH of 7 to be -4.27, and the final percent change for pH 10 to be 14.27. Our first t-test between the pH of 4 and 7 was not statistically significant (df = 4, t-value = 1.93 and p-value = .13). The results of our second t-test between pH of 7 and 10 were statistically significant df = 4, t-value = 3.67 and p-value = .02). The results of our last t-test between pH 4 and 10 were not statistically significant (df = 4, t-value = .77, p-value = .48). Figure 1 shows a graph of the percent changes for pH 4, 7 and 10 over 30 minutes, starting at t=0. The figure shows the final percent changes, as well as the percent changes over the time span, showing that the greatest percent change was in pH 10 and the lowest was in pH 7.
+
+Discussion:
+Our hypothesis was confirmed in the difference between pH of 7 and 10. We observed a lower absorbance in the pH 7 infused chloroplast which means that more of the DCIP was reduced by NADPH, which means that more photosynthetic activity occurred. We also saw this same phenomenon, supporting our hypothesis in that the pH of 4 had greater absorbance than the pH of 7, however the data was not statistically significant for this comparison or for the comparison of pH 4 and pH 10. Plants are specifically adapted to an external pH condition that allows them to perform optimal rates of photosynthesis. Plants have inside‐positive electrical potential difference across the plasmalemma, which regulate proton influx [Gross: 2000]. With increasing pH, an electrical gradient is generated. This hampers the ability of the plant to undergo photosynthesis in the way the plant is accustomed to, or rather with the same gradient the plant is accustomed to. This explains why we see a lower percent change in absorbance in the pH 7 chlorophyll, than in the pH 10. Furthermore, the reverse is true. Although we cannot statistically support that pH of 4 has a significant difference from pH 7, we can suggest that decreasing the pH of the plant cell will affect the electrical potential across the cell. It would be essential to run this experiment again to determine whether or not we can obtain statistically significant results for our pH of 4 sample. The best way to do this would be to run the experiment again with the exact same set up and exact same variables, it is possible that using a different spectrometer would allow for better readings, or just simply re-running the experiment would yield different, more significant results. This research leads towards how we can optimize plants to work in specific environments. For example, being able to culture plants like red alga Galdieria sulphuraria, which have an ideal pH at 1-2 in a neutral pH of 7 would allow for optimization of these species at pH’s more common and feasible for human life [Gross: 2002]. The conclusion that increased pH has a negative effect on photosynthesis is significant for scientific discovery, as we can see how the natural proton gradient generated by photosystems 1 and 2 is affected by the introduction of a new factor in the gradient. This new factor in the potential across the gradient effects the generation of energy and thus the NADPH which we saw in the effects on DCIP which mirror that of NADPH. With plants having to adapt to the decrease in H+ on the outer side of the plasmalemma, plants are unable to perform photosynthesis in the way they are accustomed to and this results in a lowered ability to produce energy in the cell. Thus, pH has an effect on the photosynthetic activity of cells, in that, changing the pH either by increasing or lowering, has a negative effect on the way that that plant is able to perform photosynthesis. 
+
+Literature Cited:
+Dupuy, C., Kaniewski, J., Ohayan, R., Deme, D., Virion, A., Pommier, J. (1990) “Nonenzymic NADPH-Dependant Reduction of 2,6-Dichlorophenol-Indophenol” Analytical Biochemistry. 191: 16-20. 
+
+Gross W. (2000) “Ecophysiology of algae living in highly acidic environments”. Hydrobiologia. 433: 31- 37.   
+
+Gross W. & Gross S. (2002) “Hot Sulphur springs at Sao Miguel Island (Azores): a new locality of the acidophilic red alga Galdieria sulphuraria (Galdieri) Merola”. Algological Studies. 107: 109-116.   
+
+Heber U, Andrews TJ, Boardman NK. (1976) “Effects of pH and Oxygen on Photosynthetic Reactions of Intact Chloroplasts”. Plant Physiol. 57(2): 277-83.  
+
+Liu, Jianguo. (2012) “Characterization of Photosystem I from Spinach: Effect of Solution PH.” Photosynthesis Research. 112(1): 63–70, 
+
+Youvan, Douglas C., and Barry L. Marrs. 1987 “Molecular Mechanisms of Photosynthesis”. Scientific American, 256(6): 42–49.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-13+at+2.43.34+PM.png&Size=45496&Type=image%2Fpng&F=F_2vic3yys7jlbrr6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Percent change of pH 4, 7, and 10, over 30 minutes, each point is a mean percent change over three data points with standard deviations shown.*************************************************************************
+
+
+

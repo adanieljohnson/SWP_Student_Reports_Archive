@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-04-12 20:05:50
+Author of this lab report is: Std_UJ6Q9Hxg
+ID: R_3nVsOXO44ibAPKR
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: The Effects of IBMX and caffeine on the slime mold Physarum polycephalum
+
+Abstract:
+When giving a response to a stimulus all organisms rely on some sort of signaling to determine their response. In many organisms G-proteins with cAMP as a second messenger, is a common method of signaling. We tested the effects of IBMX and caffeine on the growth of the slime mold Physaruym polycephalum since these chemicals inhibit cAMP phosphodiesterase. Inhibiting cAMP phosphodiesterase, should cause P. polycephalum to aggregate together and cause a mass of bacteria. We calculated the average percent change of the control groups to be 18.87 and the experimental groups had an average percent change of 193.59. We were not able to determine any statistical significance from the data. Signaling should be continued to be studied, because it allows us a better insight into the daily mechanisms of organism movements and biological processes. 
+
+Introduction:
+Signaling is the process by which an organism can exhibit a behavior in response to environmental stimuli. Stimuli for cells is the prescence of certain chemicals or through physical contact with another cell or medium. One of the notable protein complexes that allow signaling to happen is the G-protein complex. There are differing mechanisms for different G-proteins, but each contain a heterotrimeric protein complex with α, β, and γ subunits. When the receptor of a cell binds its appropriate ligand, this causes a conformation change in the protein complex allowing the α subunit to detach from the βγ complex by hydrolyzing ATP. The α subunit is able to bind and activate adenyl cyclase which synthesizes the second messenger molecule cAMP which causes an amplification of the signal and allows the cell to illicit a response (Alberts, et al: 2013). In the slime mold Physarum polycephalum, cAMP plays a critical role in its movement. In a study published in 2005, researchers analyzed the organism Aspergillus nidulans and found that cAMP was an important signaling molecule inside the cell, when in search for glucose. They also found that inhibiting the G-protein subunits in Aspergillus nidulans inhibited the germination kinetics of the organism (Lafon, et al: 2005). This shows that cAMP is a valuable molecule in the search of food and the functional importance of the G-protein complex. Research published in 1979, reports that phosphodiesterase, the enzyme that breaks down cAMP, can be inhibited using caffeine and theophylline (Kincaid, et al). From these research findings, it shows that cAMP is a molecule that can dictate the movement of an organism, therefore its response to its environment. 
+In our lab, we decided to examine the inhibitory effects of caffeine and IBMX on the second messenger cAMP. During our experiment the model organism we used was P. polycephalum since it is a unicellular organism that is visible with the naked eye making it easy to observe. In presence of IBMX and caffeine, P. polycephalum will not branch out, but will aggregate due to the inhibitory effects of IBMX and caffeine
+
+
+Materials and Methods:
+Prior to the beginning of our experiment we prepared our own stock plate of P. polycephalum. We prepared the plate by cutting a block out of a water agar plate, placing an already cut 1x1 cm block of P. polycephalum into the well with oats sprinkled in the plate, and left the stock plate in an incubator for five days at 37 °C in darkness. Water agar was used over other media, because this would allow for only the oatmeal to serve as the nutrient source. Beginning our experiment, we gathered 20mM caffeine, 100mM IBMX, and 6 water agar plates. Three plates were covered in distilled water, while three other plates were coated with a diluted mixture of caffeine and IBMX. The excess liquid was wiped away, wells were prepared inside the prepared plates, and blocks of P. polycephalum from the stock plate were placed into all of the plates with flakes of oats following proper sterilization with a flame and alcohol lamp. Each of the plates were wrapped in aluminum foil to prevent the P. polycephalum from displaying phototaxic effects and their growth was observed every twelve hours over a 36-hour period, their overall area was taken to determine their growth. A statistical two tailed test was used to determine significance of their growth. 
+
+Results:
+From our data we calculated the average percent change of P. polycephalum growth to be 18.87 ± 32.60 %. The experimental group had an average percent changes in growth of 193.59 ± 203.06%. No statistical significance could be concluded from our data, T-stat(4)= -1.47, p = 0.22. 
+
+Discussion:
+Signaling is an organism’s communication with the outside environment and this allows it to interact with the world around it. From our experiment we were not able to determine any significance from our gathered data. Even though the P. polycephalum in the experimental group had a greater area of growth there is not enough significance to say that the two groups had enough difference in their measured data. Kincaid, et al also found that some of the inhibitory chemicals they tested like theophylline can have moderate attractant effects in low concentrations (1979). From our experiment this could mean that we did not have enough caffeine and IBMX to cause the proper amount of inhibition, since some branching was observed in the experimental groups. This also could mean that the caffeine and IBMX mixtures was not spread out evenly across the plate. Some areas of the plate could be more concentrated than others, meaning that part of the plate was inhibiting branching of P. polycephalum while others were attracting P. polycephalum. Unless phototaxis are being tested, P. polycephalum has to be covered when observing growth due to negative phototaxis in P. polycephalum (Schreckenbach: 1984). When putting the plates back into the incubator the plates could not have been rewrapped completely following each measurement. This could have caused some of the growth experienced in one of the control groups. During our preparation of the agar plates, the plates were wiped with excess Kimtech wipes which could introduce other compounds onto the plate, since they are not sterile wipes. It future experiments it would be interesting to see if a much higher concentration of IBMX and caffeine would have more of an effect since our results showed no significance. It would also be interesting to see if the same effects on P. polycephalum can be applied to unicellular organism and slime molds. This could lend more support to signaling pathways being conserved through more complex organisms. Signaling is not only important for single celled organisms but studying an any organism’s response to their environment gives a better insight into the organism itself. 
+
+Literature Cited:
+1.Bruce Alberts, Dennis Bray, Karen Hopkin, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, Peter Walter Essential Cell Biology. Fourth Edition. 2013. Garland Science: New York.
+2.Lafon, A., Jeong-Ah Seo, Han, K., Jae-Hyuk Yu, & d'Enfert, C. (2005). The heterotrimeric G-protein GanB(alpha])-SfaD(beta])-GpgA(gamma]) is a carbon source sensor involved in early cAMP-dependent germination in aspergillus nidulans. Genetics, 171(1), 71-80. Retrieved from http://go.libproxy.wakehealth.edu/login?url=https://search.proquest.com/docview/214112410?accountid=14868
+3.Kincaid, R. L., & Mansour, T. E. (1979). Cyclic 3′,5′-AMP phosphodiesterase in Physarum polycephalum I. Chemotaxis toward inhibitors and cyclic nucleotides. Biochimica et Biophysica Acta (BBA) - General Subjects, 588(3), 332–341. https://doi.org/10.1016/0304-4165(79)90341-6
+4. Schreckenbach T. (1984) Phototaxis and Photomorphogenesis in Physarum polycephalum Plasmodia. In: Senger H. (eds) Blue Light Effects in Biological Systems. Proceedings in Life Sciences. Springer, Berlin, Heidelberg
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph+for+signaling.JPG&Size=20243&Type=image%2Fjpeg&F=F_0Gkup7qlHPW2f73
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The calculated average percent change of P. polycephalum growth over a 36-hour period. Three water agar plates were used as the control and three were coated with a caffeine and IBMX mixture. Each bar represents the percent change over a 36-hour period. The error bars are set with the percent change standard deviations of each light strength. 
+
+*************************************************************************

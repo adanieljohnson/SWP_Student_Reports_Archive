@@ -1,0 +1,81 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-03-22 15:23:16
+Author of this lab report is: Std_jrB35yEG
+ID: R_2S91bX4BLypMuFM
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: Effect of colored light on the reduction of DCPIP electron acceptor in photosynthetic reactions
+
+Abstract:
+In photosynthesis, different wavelengths of visible light are absorbed by pigments, such as chlorophylls and carotenoids, in the thylakoid membrane to create a proton gradient that powers ATP energy synthesis. In this experiment, the chloroplasts of spinach leaves were extracted and the progression of photosynthesis under different wavelengths of visible light was measured using the Hill reaction and the blue-colored electron acceptor DCPIP. We predicted that when placed under white, blue, red, and green light, photosynthesis would be the most efficient in red light and the least efficient in green light. Although our results were significant that photosynthesis was most efficient in red light, our data did not support that green light was the least efficient. An experimental design flaw in our electron acceptor choice may have caused blue light to be the least effective for photosynthesis. Further research on the optimal light wavelengths for photosynthesis could be useful in maximizing crop production.
+
+Introduction:
+In photosynthesis, energy from light is captured by chlorophyll pigments and moves up an energy state, triggering a reaction that cleaves water. This generates the release of more electrons to create a proton gradient that powers ATP synthesis. [Johnson:2017] Visible light waves occur in many different wavelengths across the electromagnetic spectrum. Pigments found in both photosystem II and photosystem I within the thylakoid membrane absorb light at specific optimal wavelengths. In our experiment, Spinacia oleracea, or spinach, was used as our model organism because of its wide-spread availability, but also because its chloroplasts can be extracted with relative ease without rupturing the double membrane of the chloroplasts. [Lilley:1975]
+In vascular plants like spinach, the main pigments of photosynthesis are chlorophyll a, chlorophyll b and the carotenoids. [Juhler:1993] Carotenoids are generally orange-yellow in color, while chlorophylls are green, allowing for a wider range of light wavelengths to be harnessed. [Juhler:1993] In an experiment conducted by Lederer, spinach photosynthetic pigment absorbed light optimally between wavelengths of 400 nm and 450 nm and at 650 nm. This green phototroph also absorbed light minimally at wavelengths of near 550 nm. [Lederer: 2007] There are two types of carotenoids; the carotenes which contain carbon and hydrogen only and the xanthophylls which also contain oxygen. In spinach, the main carotenoids are carotene /3-carotene and the xanthophylls neoxanthin, violaxanthin and lutein. The pigments are not evenly distributed between the photosystems where Chlorophyll b and the xanthophylls are, located in PS II, and chlorophyll a and /3-carotene are in complexes PSI and PS II. [Juhler:1993]
+Chloroplasts from vascular plants can carry out the photochemical evolution of oxygen from water using many different oxidizing agents such as ferricyanide, quinones, and dyes such as 2,6-dichlorophenolindophenol (DCPIP.) The Hill reaction can measure electron transport within  electron acceptors and is related to the amount of energy conversion within photosynthesis. [Sauer:1965] DCPIP has a blue hue but when reduced it changes confirmation to become clear. [Johnson:2017] In this experiment, the electron acceptor DCPIP will be used to measure the rate of photosynthesis (electron transport) in white, blue, green, and red light to determine the most efficient light. We predict that photosynthesis will be most efficient in red light and the least efficient in green light. 
+
+
+Materials and Methods:
+In our experiment, chloroplasts were prepared from spinach leaves by washing and deveining four leaves and grinding them in a pestle with 10 mL of a cold grinding buffer (400 mM sucrose in Tricine buffer.) Another 10 mL of grinding buffer was added, and the thick spinach slurry was strained. 50 mL of this liquid was then put in a centrifuge and spun for three minutes at 200 x G at 4℃. The supernatant from this spun mixture was collected and then put in a centrifuge again for ten minutes at 1,000 x G at 4℃. The supernatant from this twice-spun mixture was separated from the newly-formed pellet. 20 mL of grinding buffer was added to the pellet to resuspend it and serve as our extracted chloroplasts. 
+To start our experiment, 12 test tubes were numbered #1-12 and a thirteenth test tube was labeled “blank.” The following reaction mixtures were placed in each tube. 
+Tubes	#1-3	#4-6	#7-9	#10-12	“Blank”
+Condition	White Light	Blue Light	Green Light	Red Light	-
+Water	6 mL	6 mL	6 mL	6 mL	6 mL
+130 mM DCPIP	2 mL	2 mL	2 mL	2 mL	0 mL
+
+100 mL of chloroplasts were added to all the tubes and each tube was mixed. The mixtures were transferred to spectrophotometer cuvettes and the absorbance at 600 nm was recorded. White, blue, green, and red light fixtures were set up using 120V light bulbs with a luminous flux of 45 lumens. Each lamp was placed in a dark area. The tubes were placed under their respective light color for ten minutes and then the absorbances were recorded again. Readings were taken at twenty and thirty minutes as well. Data collected and then analyzed using a two-tailed paired t-test. 
+
+
+Results:
+When considering the average absorbance of all the experimental replicates in their respective colored lights, the blue-light samples had the highest absorbance after thirty minutes with an absorbance of approximately 0.3103. (Fig. 1) After thirty minutes, the red-light samples had the lowest absorbance of approximately 0.2516. (Fig. 1) For all the samples, there was a general trend of decreasing in absorbance over time regardless of the color of light in which the samples were exposed. (Fig. 1) 
+In Figure 2, samples placed in red light had the highest average percent change in absorbance over the thirty-minute period. Samples placed in white light had the second highest average percent change over the thirty-minute period and samples place in green light had the third highest average percent change in absorbance. (Fig. 2) The samples placed in red light appeared to have a more linear trend in their average percent change in absorbance over time, while samples placed in other colors of light appear to have an average percent change that slows down over time. (Fig. 2) Two-tailed paired t-tests compared the average percent change of samples placed in red light to the average percent change of samples placed in blue light (p=0.016956) and the average percent change in absorbance of samples placed in red light to the average percent change in absorbance to those placed green light (p= 0.022165.) (Fig. 2)
+
+
+Discussion:
+Our data supported our hypothesis that red light would most effective in photosynthesis and our null hypothesis that colored light had no effect on photosynthesis could be rejected. As seen in Figure 1, reaction mixtures placed in red light had the lowest absorbance at the end of the thirty-minute period which means that DCPIP was reduced so that our reaction mixture became less blue-colored and more transparent. When considering the average percent change in absorbance, reaction mixtures placed in red light had the greatest average percent change at the end of the thirty-minute period. (Fig. 2) When paired two-tailed t-tests were conducted that compared the average percent change in absorbance of red light vs. blue light and red light vs. green light, both results rendered the data significant (p&lt;0.05.) (Fig. 2)
+However, our data did not support the second part of our hypothesis which predicted that green light would be the least efficient for conducting photosynthetic processes. As seen in Figure 2, the average percent change in absorbance for blue light was lower than green light throughout the thirty-minute period. Furthermore, when the percent change in average absorbance for green light (p=0.022165) was less significant than blue light (p=0.016956) when both were compared to red light. (Fig. 2) Our prediction could have been incorrect because the blue wavelength emitted by the light bulb used could potentially have emitted a wavelength outside of the optimal blue wavelength of 400-450 nm. However, an alternative speculation would be that because DCPIP is a blue dye, it naturally reflects blue light causing there to be less light available to be used in photosynthesis. An experiment conducted by Wennicke and Schmid on the photosynthetic properties of Acetabularia mediterranea had similar results when using blue light to reduce DCPIP. The DCPIP reduction in isolated thylakoids at light saturation changed only insignificantly in response to blue light growth conditions. [Wennicke:2018] This is more probable since previous research has established that stomatal opening is controlled by blue-light receptors. [Darko:2014] Our experimental data was probably caused by this experimental design flaw. Further research into the effects of colored light on plant growth, especially crop plants like spinach, could be useful in agricultural sciences by helping to maximize crop yield. 
+
+
+Literature Cited:
+
+1.	Johnson AD. 2018. Unit 2: Photosynthesis. Cellular Biology. Wake Biology. 
+2.	Lilley, R.M., Fitzgerald, M.P., Rienits, K.G., Walker, D.A., 1975. Criteria of intactness and the photosynthetic activity of spinach chloroplast preparations. New Phytol. 75: 1–10.
+3.	Juhler, R.K., Andreasson, E., Yu, S.-G., Albertsson, P.-Å., 1993. Composition of photosynthetic pigments in thylakoid membrane vesicles from spinach. Photosynth. Res. 35: 171–178.
+4.	Lederer, A., 2007. Investigation of photosynthetic properties in spinach and geranium: pigments, starch production, and light wavelength absorbance 5, 6. Essai. 5: 93-97
+5.	Sauer, K., Park, R.B., 1965. The hill reaction of chloroplasts. Action spectra and quantum requirements *. Biochemistry (Mosc.) 4: 2791–2798.
+6.	Wennicke, H., Schmid, R., 2018. Analysis by light-saturation curves. Plant Physiol. 84: 1252-1256.
+7.	Darko, E., Heydarizadeh, P., Schoefs, B., Sabzalian, M.R., 2014. Photosynthesis under artificial light: the shift in primary and secondary metabolism. Philos. Trans. R. Soc. B Biol. Sci. 369: 20130243
+
+ 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+214+Fig.+1.jpg&Size=34213&Type=image%2Fjpeg&F=F_2ypbYDQlIFcDeRs
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Bio+214+Fig.+2.jpg&Size=38049&Type=image%2Fjpeg&F=F_0vwwVLm5rioeicx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average absorbance for all experimental replicates for each color of light was determined at ten-minute increments over a thirty-minute period. 
+Figure 2. The average percent change in absorbance for all three experiment replicates for each color of light was determined in ten-minute increments over a thirty-minute period. Paired two-tailed t-tests were conducted to show significance in data for red light vs. blue light (p= 0.016956) and for red light vs. green light (p= 0.022165.)
+
+*************************************************************************

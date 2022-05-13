@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-16 11:31:33
+Author of this lab report is: Std_i0ol9RYv
+ID: R_12RnNGyrDi40L5y
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of Ecdysone (20E) Hormone inhibition on growth of Manduca Sexta Caterpillars
+
+Abstract:
+Manduca Sexta caterpillars rely on Ecdysone and Juvenile Hormone to regulate their development from a caterpillar into a pupa, and eventually an adult moth. Ecdysone is responsible for initiating a molt. Aza-guard can be given to Manduca Sexta to inhibit the uptake of Ecdysone. A control group, compared to a treatment group fed food infused with 10 drops of aza-guard daily will gain weight very differently. The control group increased their weight rapidly, while the treatment group gained weight slowly and gained significantly less. A two-sample t-test determined the treatment average was statistically less than the control. The effects of Ecdysone become clear from this experiment, however, the amounts of Ecdysone needed to initiate a molt remain uncertain and can be explored more in depth. 
+
+
+Introduction:
+Insects, such as caterpillars, rely heavily on hormones to regulate their internal conditions. Caterpillars develop through multiple instars, and eventually pupate to turn into an adult moth. In order to pupate precise amounts of Juvenile Hormone (JH) and Ecdysone (20E) must be released. Ecdysone is responsible for causing growth in the larvae, while JH is responsible for preventing the caterpillar from molting at each instar, and instead causing them to gain weight. When Ecdysone is released the caterpillar grows in preparation for the molt, but the high levels of JH still being released prevent the caterpillar from molting and only cause it to gain weight. Aza-guard is a known ecdysone blocker that can be added to the food of Manduca Sexta. If aza-guard is given in large quantities to Manduca Sexta, they will not receive Ecdysone and will only have JH regulating their development. H. Fredrick Nijhout performed an experiment with Manduca Sexta assessing the effects of infusions of B-ecdysone in the presence and in the absence of JH [Nijhout: 1975]. Our experiment tweaks this experiment, by instead testing what happens when you block ecdysone all together, but still have a presence of JH. Without ecdysone, our experimental group will be unable to follow the normal pattern of instars in Manduca Sexta. Adding a high dosage of aza-guard will cause our experimental group to gain less weight than our control group, therefore preventing a molt. 
+
+Materials and Methods:
+ 8 Manduca Sexta caterpillars were obtained and randomly placed in either control or treatment containers. Each caterpillar was weighed and the weight was recorded in grams. Each of the 4 control group caterpillars were given 10 grams of food. 10 grams of food was weighed for each of the 4 experimental group caterpillars as well, however, 10 drops of aza-guard were also added to each 10 grams of food. Both containers of caterpillars were placed in the incubator and kept at a constant temperature. The weights of each caterpillar was recorded daily over the span of a week. After obtaining our data, we conducted a two-sample t-test in order to determine if the difference in weight between our control average and experimental average was significant. 
+
+
+Results:
+Both the Experimental and Control groups gained weight initially. The control group gained an average of 6.58 grams, while the experimental group gained an average of 2.27 grams. Both groups lost weight after this peak. The experimental group maintained their blue/green color throughout the experiment, turning paler the last 3 days. The control group on the other hand turned dark brown and began to pupate on the 10th day. The groups were found to be statistically different from the two-sample t-test (t-stat=1.832, df=22, P=0.0402).
+
+Discussion:
+The results of this experiment indicate that a high dosage of aza-guard caused Manduca Sexta caterpillars to gain a smaller amount of weight than the control group. The average of the treatment group was statistically less than that of the control group (t-stat=1.832863, df=22, P=0.040196). Aza-guard prevented the treatment group from receiving ecdysone being released from the PTTH. Ecdysone causes the caterpillars to prepare for a molt which involves increasing in weight in order to prepare for pupation. Without ecdysone, the treatment group was only receiving JH which keeps their weight relatively stable and prevents a molt. The control group was able to molt and pupate by the end of the experiment because they received a spike in ecdysone levels, which is known to initiate pupation. While they gained a significant amount of weight early on as is evident in figure 1, these levels fell because their bodies released liquid in order to prepare for the molt. The average maximum weight of the control and the treatment was compared in figure 2 in order to show that overall, the control group gained more weight than the treatment, despite this loss of liquid. The treatment group was unable to receive the spike due to the high levels of azaguard in their system, and therefore did not pupate. It is evident that ecdysone is crucial in the molting and pupation process of Manduca Sexta, but this experiment does not display how much ecdysone is needed to initiate pupation. The experiment done by H. Fredrick Nijhout found that only certain types of ecdysone could be used to initiate a molt in Manduca Sexta [Nijhout: 1975]. A continuation of this study that incorporates Nijhout’s study could instead inject different amounts of ecdysone to determine what level of ecdysone is needed to initiate a molt.
+
+Literature Cited:
+Nijhout, H. Fredrick (1975, August). “The role of ecdysone in pupation of Manduca Sexta”. 
+https://www.sciencedirect.com/science/article/pii/0022191076900172?via%3Dihub
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-16+at+11.28.43+AM.png&Size=113205&Type=image%2Fpng&F=F_u2rTkbQdy55UEfL
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-16+at+11.28.53+AM.png&Size=100729&Type=image%2Fpng&F=F_2X69Tt7K8WxajTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The change in weight between the control and the treatment caterpillars over a 15 day period. The time is represented on the x-axis, and the average weight of each group (dependent variable) is represented on the y-axis. Both groups increased in weight from the start of the experiment, however, the control group showed a significantly larger increase than the treatment group. 
+Figure 2. The average maximum weight gained by the control group is shown next to the average maximum weight gained by the treatment group. The error bars represent the standard deviation of the averages of each group individually. The difference between the two groups is 4.315 grams. *************************************************************************
+
+
+

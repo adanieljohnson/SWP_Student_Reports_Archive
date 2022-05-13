@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-20 14:03:41
+Author of this lab report is: Std_WzMG15zs
+ID: R_2wQw2BHcVm0zqor
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The Effects of Sevin on the Strength of Contractions in the Gastrocnemius Muscle of Raina Pipiens as measured by Voltage
+
+Abstract:
+Nerves and muscles allow organisms to sense and respond to internal and external environments. The release of acetylcholine into the neuromuscular junction stimulates action potentials that eventually lead to the contraction of skeletal muscle.  This experiment focuses on the gastrocnemius muscles of the Raina pipiens in order to observe the effects of acetylcholine on the contractile mechanism of neuromuscular function. The gastrocnemius muscles were treated with Sevin, an inhibitor of acetylcholine, and tested with a stimulation of 1v three times both before and after treatment. It was hypothesized that if the gastrocnemius muscle of the R. pipiens is treated with Sevin, then the strength of the muscle contraction (as measured by voltage) will decrease because inhibiting Ach should decrease the number of action potentials. Our data showed that the average of the means of the control group was higher than that of the treatment group. However our statically analysis showed that we failed to reject the null hypothesis, and although the margin between the alpha value and the p-value was small, our results are not statistically significant. This experiment did not indicate that Sevin can reduce the strength of muscle contractions in the gastrocnemius muscle of Raina pipiens.
+
+Introduction:
+	Nerves and muscles allow organisms to sense and respond to internal and external environments.  The skeletal muscle of vertebrates and invertebrates have thousands myofibrils: elongated contractile threads which bind together to form groups of muscle fibers.  These muscles are innervated by motor neurons that branch out from the spinal cord.  When triggered by nerve impulses, they release acetylcholine (Ach) from the presynaptic nerve terminal into the neuromuscular junction [Johnson: 2018].  Once the neurotransmitter binds to receptors on the muscle fiber, it opens sodium channels, which generates an action potential.  This action potential stimulates the release of Ca2+ from the sarcoplasmic reticulum.  As Ca2+ is the “physiological regulator of the contraction-relaxation cycle”, it activates the contractile mechanism of the muscle fiber, which causes it to shorten [Ebashi: 1968].  We are interested in the isolation of the gastrocnemius muscle of the Raina pipiens (R. pipiens) in order to observe the effects of Ach in the neuromuscular junction.  Sevin is an insecticide that acts an an acetylcholine inhibitor in the neuromuscular junction [Todd: 2002].  This experiment focuses on stimulating the gastrocnemius muscle of three severed legs of the R. pipiens with 1v and repeating after the injection of Sevin (the Ach inhibitor).  The resulting response voltage is considered indicative of changes in the strength of the muscle contraction.  We hypothesize that if we treat the gastrocnemius muscle of the R. pipiens with Sevin, then the strength of the muscle contraction (as measured by voltage) will decrease because inhibiting Ach should decrease the number of action potentials.
+
+Materials and Methods:
+Three severed Raina pipiens frog legs were used for this experiment.  While pinching the leg above the gastrocnemius muscle, we pulled back the skin in one swift, downward motion in order to expose the muscle.  We the clipped the exposed tendon connecting to the gastrocnemius muscle and tied a string around it to hang from the force transducer, which allowed us to measure the voltage exerted when the muscle contracted.  The string was pulled moderately taut.  After securing the leg by pinning the remaining pieces to the dissection pan, the BNC connector probes were inserted near the bottom of the suspended gastrocnemius muscle, while ensuring the probe did not touch the metal pins.  Throughout the duration of the procedure, the legs were drenched in Frog Ringer's solution to preserve the muscle.  The probe delivered 1v to the muscle three separate times, and the resulting voltages were recorded and averaged.  Afterwards, 5mL of Sevin (the acetylcholine inhibitor), was injected at a downward angle in three different places along the top of the gastrocnemius muscle to ensure even dispersion of the solution.  We waited 5 minutes and gently massaged the muscle before delivering 1v three more times.  The resulting voltages were averaged and recorded.  This entire process was repeated on the remaining two R. Pipens legs.  The means of the control trials for each leg were averaged together as were the means of the treatment trials.  The difference in the means of the average response voltage for the control trial and for the treatment trial were compared with a paired t-test to generate a one-tailed p-value.
+
+Results:
+After being treated with Sevin, the muscles generally appeared to exhibit weaker contractions compared to the strength of the control contractions.  However, the first leg did not respond to the treatment at first.
+Table 1 shows a summary of average response voltages of the gastrocnemius muscle of R. pipiens following a stimulus of 1v before and after treatment of 5mL of Sevin.  The mean response and the standard deviation of the three tests for each leg are shown for the treatment and the control group as well as the mean and standard deviation of those averages.  The average of the means of the control group was considerably higher than that of the treatment group, with the first being 0.946 and the latter being 0.339, resulting in a difference of 0.607.  Figure 1 shows the comparison of the mean of three response voltages of three gastrocnemius muscles of R. pipiens at 1v before and after treatment of 5mL of Sevin along with standard deviation bars.  Before treatment, the control tests resulted in a mean of average response voltages of 0.946v with a standard deviation of 0.228. After an injection of 5mL of Sevin, the treatment tests resulted in a mean of average response voltages of 0.339v with a standard deviation of 0.162.  A one-tailed paired t-test comparing the average response voltages for the control and treatment trials at an alpha value of 0.05 resulted in a p-value of 0.095, which is a difference of 0.045.
+
+Discussion:
+	Our hypothesis stated that if we treat the gastrocnemius muscle of the R. pipiens with Sevin, then the strength of the muscle contraction (as measured by voltage) will decrease because inhibiting Ach should decrease the number of action potentials.  We tested the resulting muscle contractions of both the control and treatment trial in order to compare the strength of muscle contraction.  Our hypothesis is not supported because the one-tailed paired t-test comparing the average response voltages resulted in a statistically insignificant result. Despite the small margin between the alpha and p-value, this means that the null hypothesis was accepted, and the results of this experiment are not statistically significant.  When released into the neuromuscular junction, Acetylcholine stimulates an action potential leading to the subsequent release of calcium ions in the muscle [Miledi 1959]. Sevin acts as an acetylcholine inhibitor, so we expected that treating a muscle with Sevin should decrease the strength of the muscle contractions as it decrease the amount of action potentials in the gastrocnemius [Todd: 2002]. However, this experiment did not support this prediction as only three R. pipiens gastrocnemius muscles were tested.  This limited number of subjects could be a source of error as it increases the likelihood that our results were due to pure chance, and this error could therefore explain why the p-value is higher than the alpha value.  Repetition of this experiment could also improve accuracy of the results; because our results were very close to being significant, it is possible that repeating the same procedure may yield statistically significant results.  We inserted the probe directly into the gastrocnemius muscle instead of the sciatic nerve, which extends into the gastrocnemius to stimulate it [Johnson: 2018]. For further study, an improved experiment could include the stimulation of the sciatic nerve instead of direct stimulation of the muscle in order to observe how the effects of an action potential beginning in the nervous system are affected by Sevin.  Studying the properties and the effects of solutions such as Sevin on the basic mechanism of neuromuscular control could further our overall understanding of alternative, effective insecticides.  Sevin is capable of paralyzing pests that could harm crops while leaving the crop safe for human consumption.  In addition, the chemical would not harm the crops as plant do not possess muscles that require acetylcholine stimulation as animals do.
+
+Literature Cited:
+1. Todd NE, Van Leeuwen M. 2002. Effects of Sevin (Carbaryl Insecticide) on Early Life Stages of Zebrafish (Danio rerio). Ecotoxicology and Environmental Safety. 53: 267-272.
+2. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2, (updated August 2, 2018), pp. 5–14.
+3. Ebashi S. 1968. Calcium and Muscle Contraction. Progress in Biophysics and Molecular Biology. 18: 123-166.
+4. Miledi R. 1959. The Acetylcholine Sensitivity of Frog Muscle Fibers After Complete or Partial Denervation. Department of Biophysics, University College London. 1: 1-23 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-20+at+1.48.56+PM.png&Size=76487&Type=image%2Fpng&F=F_2wTZhSWKY40y9Qb
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-20+at+1.34.16+PM.png&Size=76668&Type=image%2Fpng&F=F_2WVCH0aDX7Co3zZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. A summary of average response voltages of the gastrocnemius muscle of R. pipiens following a stimulus of 1v before and after treatment of 5mL of Sevin.
+Figure 1. Mean response voltages of three gastrocnemius muscles of R. pipiens at 1v before and after treatment of 5mL of Sevin (an Ach inhibitor) and standard deviations. *************************************************************************
+
+
+

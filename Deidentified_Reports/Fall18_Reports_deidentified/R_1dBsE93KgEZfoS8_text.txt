@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-29 23:28:35
+Author of this lab report is: Std_fnWpmrXp
+ID: R_1dBsE93KgEZfoS8
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Physarum polycephalum growth not affected by d-cAMP activation or curcumin inhibition of protein kinase A
+
+Abstract:
+In this experiment, we hypothesized that d-cAMP, the second messenger that activated protein kinase, would increase the growth of Physarum polycephalum, while curcumin, a known inhibitor of tumor cell growth and anti-inflammatory, would inhibit the growth of Physarum. We tested the growth of Physarum in the presence of d-cAMP and curcumin in comparison to a control growth plate in 9 PDA petri dishes. The p-value of our results using a one way anova test was 0.297, showing that the results were insignificant.
+
+Introduction:
+Physarum polycephalum, a slime mold organism, has been used as a model organism in order to study cell and organism growth due to its ability to act like one large cell called a plasmodium. Physarum is a multinucleate syncytium, containing multiple nuclei in one plasma membrane. Physarum moves by extending the actin filaments from the edges of the cells in the plasmodium [Johnson 2018]. Protein kinase is a family of enzymes that modify molecules by adding phosphate groups through phosphorylation in the signal transduction pathway. It is activated by the second messenger dibutryl-cAMP, which is sent by a signal outside of a cell that causes a conformational change of an integral protein. D-cAMP can activate many different kinds of protein kinases that target different cell processes, including the regulation of activity of actin filaments that cause cell and organismal movement and growth [Hardie: 1990]. 
+Curcumin is the yellow-orange chemical found in the common spice turmeric and is known for its anti-inflammatory effects on the human body. On the cellular level, it has also been found to have the ability to regulate signaling molecules, carrier proteins, protein kinases, growth factors, receptors, DNA, and RNA. These regulatory abilities translate to curcumin’s effectiveness against many human diseases, including diabetes, obesity, and gastrointestinal problems [Gupta: 2011]. It has also been found to have inhibit the growth of tumorous cells in animals. In a study testing the effects of curcumin on an array of protein kinases, it was found that curcumin inhibited the activity of all kinases tested, though to different extents [Reddy: 1994]. 
+In this experiment, our goal was to determine the effects that d-cAMP and curcumin has on protein kinase A and the growth of Physarum in relation to a control sample. We hypothesized that the presence of dibutryl-cAMP would increase the growth of Physarum, while the presence of curcumin would inhibit the growth of Physarum. In this experiment, we used a one way anova test in order to determine the significance of our results.
+
+Materials and Methods:
+In this experiment, we obtained 9 PDA petri dish plates. 3 plates were labeled control, 3 plates were labeled d-cAMP, and 3 plates were labeled Curcumin based on the treatment they would receive. Plates 1-3 were soaked with 5mL water, plates 4-6 were soaked with 5mL d-AMP diluted to 20mL, and plates 7-9 were soaked with 5mL curcumin diluted to 20mL for 10 minutes and then drained. We then cut one 1 square centimeter cubes in the middle of each plate using a spatula sterilized with ethanol and placed 1 square centimeter cubes of the stock Physarum into each hole. The spatula was sterilized with ethanol after each Physarum cube was added to the experimental plates. Once Physarum was added to each of the plates, the plates were taped shut and placed into black plastic bags. The experimental plates were placed in an environment where the temperature was kept above normal room temperature to facilitate Physarum growth for 48 hours. Using ImageJ, we measured the area of growth in each plate, also calculating the averages of control, d-AMP and curcumin growth.
+
+
+Results:
+After running a one way anova test to determine significance of results, we found that the p-value of the area values of Physarum growth in the control, d-AMP, and curcumin environments was 0.297. Because this p-value was greater than 0.05, the area of growth between samples was insignificant.
+
+
+Discussion:
+Our hypothesis in this experiment was that while d-cAMP would increase the growth of Physarum, curcumin, a known protein kinase inhibitor, would inhibit the growth of Physarum. The averages of our results show that curcumin and the control exhibited similar amounts of growth, and d-AMP exhibited less growth. However, our p-value that compared the control, d-cAMP and curcumin areas of growth, was 0.297. Because the p-value was greater than 0.05, the experiment results were insignificant. The study that tested the effects of curcumin on an assortment of protein kinase enzymes suggested that all kinases tested were inhibited in some way. However, each enzyme in the family was inhibited to a different extent, from 98% to 0.05% inhibition. The inhibition of the protein kinases was also dependent on amount of curcumin added, in which a stronger dose of curcumin yielded a higher inhibition percentage. It had also been suggested that the curcumin successfully inhibited the growth of tumor cells, but did not exhibit the same effect on normal cells [Reddy: 1994]. In relation to our experiment, it is possible that the type of protein kinase that we were targeting is not significantly affected by the presence of curcumin. This would explain why the results for the control and curcumin samples were of similar averages. In addition, the Physarum cells that were experimented on were normal, non-cancerous cells; therefore, it is also possible that the curcumin did not inhibit because of some mechanism involving the unique growth of tumor cells.
+	A study testing the effects of a known protein kinase-inhibiting cAMP suggested that there are different cAMP molecules that can either activate or inhibit protein kinase. These two cAMPs are present in a cell at the same time, and both work to regulate the activation of protein kinase in the signal transduction pathway [Kuehn: 1971]. 
+
+Literature Cited:
+1. Gupta, S.C., Pratchva, S., Koh, W., Aggarwal, B.B. 2011. Discovery of curcumin, a component of golden spice, and its miraculous biological activities. Clinical and Experimental Pharmacology and Phyisology. 39: 283-299.
+2. Hardie, D.G. 1990. Roles of protein kinases and phosphatases in signal transduction. Society for Experimental Biology. 44: 241-255.
+3. Johnson, A.D. 2018. Background: life history and common behaviors of Physarum polycephalum. Dept. Biology, Wake Forest University, Winston-Salem, NC. 214.3.
+4. Kuehn, G.D. 1971. An adenosine 3’,5’-monophosphate-inhibited protein kinase from Physarum polycephalum. Journal of Biological Chemistry. 246: 6366-6369.
+5. Reddy, S. Aggarwal, B.B. Curcumin is a non-competitive and selective inhibitor of phosphorylase kinase. FEBS Letters. 341: 19-22.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-14+at+9.41.03+PM.png&Size=38341&Type=image%2Fpng&F=F_1PZwvnh4STCXcKC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Graph 1: Area of growth of Physarum in the presence of d-cAMP and curcumin. Error bars are the standard deviation of each set of treatment samples.*************************************************************************
+
+
+

@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-14 00:06:07
+Author of this lab report is: Std_j0w1Ydwb
+ID: R_2rN5TmFq8XPxRem
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: The Inhibition of Muscle Contraction in Gastrocnemius Muscles Lithobates pipiens due to the injection of Lanthanum Chloride
+
+Abstract:
+	The gastrocnemius muscles of the Lithobates pipiens, better known as frog legs, are important to study because they function similarly to human muscles.  Both require action potentials and calcium to cause muscular contractions.  In this experiment, we injected the frog legs with Lanthanum Chloride, which is a calcium channel blocker.  We hypothesized that Lanthanum Chloride will completely inhibit muscular contraction.  Muscular contraction was prevented, but not completely.  Additionally, we cannot conclude if the inhibited muscular contraction occurred by chance or not.  Further study is required to determine if it did or not and to fully determine if Lanthanum Chloride and reduced contractions have a correlation.
+
+Introduction:
+The gastrocnemius muscle of Lithobates pipiens are interesting muscles to study because they closely model human leg muscles.  The gastrocnemius muscle and the sciatic nerve are responsible for the contraction of the leg and they also control the responses to certain stimuli the leg receives.  There is multiple process that must occur for the leg muscle to contract.  Calcium is vital to the process of muscular contraction.  Calcium essentially allows the contractile muscle to be activated.  Without calcium, the muscle may not contract.  For this experiment, we will inject the gastrocnemius muscle with Lanthanum Chloride.  Lanthanum Chloride will essentially close the calcium channels. The closed calcium channels will either prevent or reduce muscle contractions.  In aortic muscles of rabbits, it was found that Lanthanum Chloride reduced contraction in the muscles [Goodman;1971].  Therefore, we hypothesize that Lanthanum Chloride will completely inhibit contractions.  
+
+Materials and Methods:
+The thing we did was obtain the frog legs and we degloved the frog skin.  There was no need to expose the sciatic nerve because we were not testing it in this experiment.  Then, we clipped the Achilles tendon and tied a string near where we clipped the tendon, leaving a loop on the string exposed.  Next, we connected the string to the hook to the research grade electrophysiology equipment called a Transducer at approximately a 90* angle.  Then, we adjusted the device to make sure the frog leg is not too tightly hooked onto the machine.  The frog leg should be relatively loose but still perpendicular to the table.  Next, we pinned the frog leg down and attached electrodes to the gastrocnemius muscle.  Then, on the computer, we shocked the muscle with various amps of electricity and recorded the results.  We did this for all 3 legs.  Finally, we injected the gastrocnemius muscle in various places with 0.2 mL of Lanthanum Chloride and waited for 10 minutes.  Then we tested the leg again and recorded the results.  After we obtained all of our data, we ran a one tailed paired t-test to determine if there was any statistical difference between the control and experimental group.
+
+Results:
+We recorded the results from 3 different frog legs all exposed to the same amps and same amount of time exposed to Lanthanum Chloride.  Below are charts consisting of the data recorded from all 6 tests we ran.  In Figure 1, the response of the frog legs is generally greater than the response found in the experimental group.  The only leg this is not true for is the Muscular Experimental Response in Leg 1.  Our lab group was in error in setting up the leg.  We had too much tension between the transducer and the frog leg, increasing the response to levels that did not make sense with what we expected.  We asked Dr. Munday and he suggested that we massage the leg, decrease the tension, and omit the data from leg 1 from the experiment.  However, we left it in the chart to display how far away from the other legs its’ responses were.  After running a statistical test, there is enough evidence to support our hypothesis but not to show there was a correlation between injection of Lanthanum Chloride and the contraction of frog legs.
+
+Discussion:
+We had some initial troubles with the experiment, but overall it was successful.  The only trouble we ran into was with our first frog leg after it was injected with Lanthanum Chloride.  The probe had too much tension, which skewed our results.  The increased tension in the leg made the machine recorded a small response in the leg as bigger than it actually was.  When the leg was shocked, there was no visible reaction, yet the voltage response collected was bigger than 1 mV, which means there should have been some response that could have been observed.  Therefore, the data from experimental frog leg 1 must be omitted because it is not viable.  From the non-omitted data that we collected, we conclude that our hypothesis was rejected by this experiment.  We hypothesized that the muscular contractions would stop completely, and they did not.  Even if we hypothesized that muscular contraction would be reduced after the injection on Lanthanum Chloride, we would still not have enough evidence to prove that Lanthanum Chloride does limit contractions.  
+According to our statistical test we ran, there is a evidence that our hypothesis is supported and that muscular contractions were reduced.  However, there is not enough evidence to show correlation between Lanthanum Chloride and reduced frog leg contractions.  If we were not in error with the first leg in the experimental group, it may be possible to have obtained a more accurate representations of the effect Lanthanum Chloride on the muscular contraction.  Even without being able to support our hypothesis with strong confidence, other experiments can help support our hypothesis.  Frank Goodman and George Weiss did an experiment where they tested Lanthanum Chloride on the muscular contraction of rabbits.  They found that Lanthanum Chloride will prevent the muscles from contracting in a rabbit’s aortic muscles.  The Lanthanum will actually move Ca from the binding sites in cells, which would, in turn, prevent the muscles from contracting [Goodman; 1971].  Our experiment does not have enough evidence to prove that Lanthanum Chloride effects muscular contraction.  However, with more studies and more tests of Lanthanum Chloride on frog legs, we may eventually be able to confidently say that Lanthanum Chloride does inhibit muscular contractions, as Goodman et al. have been able to conclude.
+
+
+Literature Cited:
+1.	FRANK R. GOODMAN and GEORGE B. WEISS.  EFFECTS OF LANTHANUM ON 45Ca MOVEMENTS AND ON CONTRACTIONS INDUCED BY NOREPINEPHRINE, HISTAMINE AND POTASSIUM IN VASCULAR SMOOTH MUSCLE.  Departments of Pharmacology, Medical College of Virginia, Virginia Commonwealth University, Richmond, Virginia and University of Texas Southwestern Medical School, Dallas, Texas.  Accessed 10/30/2018; http://jpet.aspetjournals.org/content/177/2/415.short 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+Chart+1.png&Size=17702&Type=image%2Fpng&F=F_1loQmmrUjBaK9kR
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+Chart+2.png&Size=14311&Type=image%2Fpng&F=F_8GEronZzLpCCifD
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+Chart+3.png&Size=16105&Type=image%2Fpng&F=F_OiG2wc6BY9G6t8J
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+Graph+1.png&Size=22573&Type=image%2Fpng&F=F_3jdqBs1Yi2HKjrr
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Leg+Graph+2.png&Size=26391&Type=image%2Fpng&F=F_3k0VXS0CWhgRchV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Chart 1 displays the numerical observations that we recorded from the research grade electrophysiology (EP) device on frog leg 1 for both the experimental and control group.
+
+Chart 2 displays the numerical observations that we recorded from the research grade electrophysiology (EP) device on frog leg 2 for both the experimental and control group.
+
+Chart 3 displays the numerical observations that we recorded from the research grade electrophysiology (EP) device on frog leg 3 for both the experimental and control group.
+
+Figure 1 displays, graphically, the data that is presented in Chart 1, Chart 2, and Chart 3 for the control groups.  Typically, as the voltage stimulation increases, so does the response to that stimuli.  
+
+Figure 2 displays, graphically, the data that is presented in Chart 1, Chart 2, and Chart 3 for the experimental groups.  Again, typically, as the voltage stimulation increases, so does the response to that stimuli.  Leg 1 is still displayed on this graph in order to show how far from the other two legs its response was.  *************************************************************************
+
+
+

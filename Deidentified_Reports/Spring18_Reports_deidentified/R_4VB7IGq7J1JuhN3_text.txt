@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-21 18:51:51
+Author of this lab report is: Std_RhNCHFXb
+ID: R_4VB7IGq7J1JuhN3
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: The effects of juvenile hormone manipulation on Manda Sexta  
+
+Abstract:
+Juvenile Hormone plays an important role in the development of Manduca Sexta, which goes through five larval stages, pupa, and then into adulthood. In this experiment, we were interested in seeing the effects of changing the JH hormone. We hypothesized that by changing the JH hormone for a set of four Manduca caterpillars, their growth and development will change as seen through a significant difference in weight when compared to a control group. We divided four controls and four experimental caterpillars into four containers and gave them their adapted diets. Our results showed an observational, but not statistical, difference in weights as seen through a large P-value. The observational results are in line with other studies, however, mistakes made along the way may have prevented us from seeing statistically significant results. 
+
+
+Introduction:
+Manduca sexta’s are considered a pest by many famers in North America. Controlling and understand their development is important to keeping their population in check. One way to explore this is through changing of their juvenile hormone levels, which partly effects their development. In the typical life cycle on the insect, JH inhibits the secretions of prothoracicotropic hormone (PTTH), which is developmentally cued (Truman). This hormone then decreases its abundance, allowing the caterpillar to begin the next stages of development. 
+By weighing the Manduca caterpillars daily while altering their JH consumption, we hope to track the hormone’s effects on the caterpillar. We chose to work with Manducas because the effects of JH are easily observed through their five larval stages, pupal stage and adulthood. We hypothesized that the Manduca growth and development will be significantly affected when exposed to higher levels of JH during their development. Our statistical null hypothesis is that there will be no statistically significant difference between the controls, who are given the normal amount of JH, and the experimental group, which had an abnormal amount. 
+
+
+Materials and Methods:
+We selected eight Manduca caterpillars from the bio 114 lab ranging from .75 to 1.75 g. Then we randomly divided the caterpillars into experimental and control groups of four each. We put one control and one experimental caterpillar in each of four containers with an index card separating them. They were given two diets. The control had 10 grams of Great Lakes Manduca diet (recommended by manufacturers) with four drops of DI water and the experimental caterpillars were given 10 grams of FLM diet with four drops of 1:1250. The four containers were kept in one of the lab’s incubators with labels identifying the different Manducas. We weighed them each day for a week. After compiling the weights into a table, we performed a two tailed T-test and determined the p-value to see if our findings had a statistical difference between the control and experimental groups.
+
+
+Results:
+In the end, our experimental group weighed less than our control for three out of the four trials. Our control groups started at 1.265g on average and weighted 2.1875 g on the seventh day. Their average weight change was .9225g at that time. Our experimental group weighed 1.0975g on average during the first day and 1.255g on the seventh. The caterpillars grew 0.1575g on average. This can be seen in graph one. The weights of food provided on the first day are around 16g. After performing a two tailed T test, we obtained a t-value of 1.2483 and a P-value of 0.2584. Our degrees of freedom were 6 and we had a 95% confidence interval of 0.5683312 to 1.7521741. 
+
+
+Discussion:
+Our statistical null hypothesis was found to be correct and our statistical alternate hypothesis was incorrect. While there was an observed difference between the control and experimental groups, the P-value was too large (0.2584) making the findings statistically insignificant. This means that, with this data, we cannot confirm nor deny that changing the JH levels of the caterpillars by the food they eat will affect their growth and weight. 
+As found by past studies, the Maduca goes through five larval stages, a pupa stage, and into adulthood. In the fourth instar stage, the release PTTH into the haemolymph occurs during the head critical period. This hormone is also released during the scotophase, eventually activates the prothoracic gland. The combination of these dramatically increases the haemolymph ecdysteriod titre, which then elicits moulting (Rountree and Bollenbacher). All this only begins when JH synthesis has reached a nadir for the instar, something that occurs when corpora allata synthesizes the JH in vitro. Thus, proving the effects of JH on development (Bollenbacher et al.). 
+We did not see this with our results probably due to some confounding variables. We only fed the Manducas once instead of on a daily basis, potentially causing them to starve. The caterpillars then ate the paper dividing them, potentially causing them to be confused within their containers. If we fed the caterpillars daily, enabling us to keep them apart, and expanded our study to more containers, our results may be more in line with others. With this said, our current results could be used to tell how the Manduca caterpillars react when put in an inhospitable environment where there is a lack of food. This could help farmers in the Manduca region fight the pests more effectively. 
+
+
+Literature Cited:
+Citations
+Bollenbacher, W. E., et al. “Developmental Endocrinology of Larval Moulting in the Tobacco Hornworm, Manduca Sexta.” Journal of Experimental Biology, vol. 128, no. 1, Mar. 1987, pp. 175–92. jeb.biologists.org, http://jeb.biologists.org/content/128/1/175.
+Rountree, D. B., and W. E. Bollenbacher. “The Release of the Prothoracicotropic Hormone in the Tobacco Hornworm, Manduca Sexta, Is Controlled Intrinsically by Juvenile Hormone.” Journal of Experimental Biology, vol. 120, no. 1, Jan. 1986, pp. 41–58. jeb.biologists.org, http://jeb.biologists.org/content/120/1/41.
+Truman, J. W. “Physiology of Insect Rhythms: I. Circadian Organization of the Endocrine Events Underlying the Moulting Cycle of Larval Tobacco Hornworms.” Journal of Experimental Biology, vol. 57, no. 3, Dec. 1972, pp. 805–20. jeb.biologists.org, http://jeb.biologists.org/content/57/3/805.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Correct+graph.png&Size=54781&Type=image%2Fpng&F=F_cOAZmAEvyugyOrz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Graph 1: In this graph, we see that that control caterpillars tended to weigh more for all but one of the containers. The control groups weighed 3.06, 2.05, 2.16, and 1.60g on average. The experimental groups, on the other hand, weighed 2.04, 1.10, 2.42, and 0.92g on average. The graph has standard deviation bars representing variation. 
+
+
+*************************************************************************

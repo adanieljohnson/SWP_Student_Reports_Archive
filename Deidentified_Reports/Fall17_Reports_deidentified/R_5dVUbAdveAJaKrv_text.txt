@@ -1,0 +1,74 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-02 22:16:39
+Author of this lab report is: Std_1VDZokhS
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Increased Rate of Photosynthesis in Spinacia oleracea when exposed to Colder Temperatures
+
+Abstract:
+The effect that different temperatures had on the rate of photosynthesis in Spinacia oleracea was determined, in order to analyze how climate change could affect plant life. Of the external components that determine the rate of photosynthesis, changes in temperature are the simplest to quantify. It was predicted that if temperature is related to the rate of photosynthesis in spinach leaves, then exposure to extreme temperatures, outside 10ºC and 35ºC, will decrease the rate of photosynthesis in spinach. The Hill reaction was used to determine the change in absorbances across time when spinach leaves were placed in different temperature baths. After running a one-way ANOVA test, a p value of 6.35x 10-7 was determined, therefore supporting the hypothesis in that temperature is related to the rate of photosynthesis. However, it was determined that temperatures lower than the normal range could increase the rates of photosynthesis. This experiment is relevant as it applies to the effect that global warming could have on agricultural crops, like spinach, and offers ways of circumventing problems with plants that cannot survive in difficult conditions.
+
+Introduction:
+Photosynthesis is vital to life as it is how plants, some protists, and certain bacteria capture and store energy from the Sun. Photosynthesis is affected by three major external factors: light intensity, carbon dioxide concentration, and temperature. Even when two of these conditions are met, the lack of the third is enough to halt or slow down photosynthesis. Maintaining a constant range of temperatures is important in organelle functioning in photosynthesis, therefore, plants growing in different climates have different adaptations.  For winter annuls and algae that regularly grow at lower temperatures, their electron transport capacity is higher than those for plants that grow at more mild temperatures [Huner:1993]. Similarly, phototrophs that grow at high temperatures have their own adaptations to allow sufficient photosynthesis. However, plants that are exposed to temperatures that they have not adapted to may not be able to perform photosynthesis at extreme temperatures. Most plants are able to recover from temperature changes that range between 10ºC and 35ºC, but outside of that range, serious damage can be done to the organism [Berry:1980]. 
+In this experiment, the Hill reaction will be used to measure the rate of photosynthesis in Spinacia oleracea (commonly known as spinach) leaves at different temperatures. The Hill reaction is defined as the general process of electron transfer in the presence of active chloroplasts in addition to light. During photosynthesis, the electron acceptor is reduced by water. This reduction can be observed using the electron acceptor DCIP, which upon reduction, changes color resulting in a decrease in light absorbance at 600nm. In the Hill reaction, absorbances at different times will be recorded, with emphasis placed on the readings from the last time interval, and used to calculate the percent change between absorbances. This value can be used to determine if temperature changes increase or decrease the rate of photosynthesis or if the rate stays the same. If temperature is related to the rate of photosynthesis in spinach leaves, then exposure to extreme temperatures, outside 10ºC and 35ºC, will decrease the rate of photosynthesis in spinach. If photosynthesis decreases at extreme temperatures than plants present in habitats with changing climates could face extinction. Many of these plants are important components of animals’ diets and their disappearance could largely affect ecosystems.   
+
+
+Materials and Methods:
+Four large spinach leaves were ground with mortar and pestle and 10ml grinding buffer (400mM sucrose in Tricine buffer, pH 8.0). Additional grinding buffer was added(10ml) and the spinach was strained through three layers of cheesecloth and transferred into a centrifuge tube. The tube was spun at 200 X G for three minutes at 4ºC. The supernatant was poured into another tube, which was centrifuged at 1000 X G for ten minutes at 4ºC. The supernatant was poured into a microtube and grinding buffer was added (20ml). This sample was used for the chloroplasts for the remainder of the experiment.
+Eleven test tubes were prepared and placed in a rack. There was a blank used (8ml water, 2ml reaction buffer, 100µl chloroplasts), one negative control (6ml water, 2ml DCPIP, 2ml reaction buffer), and three trial test tubes of each of the three temperatures studied for a total of nine trial tubes (each containing 6ml water, 2 ml DCPIP, 2ml reaction buffer). The reaction buffer is 100mM phosphate with a pH of 6.5. The tubes were mixed and transferred to numbered cuvettes. The spectrophotometer was blanked and all absorbances were taken. Three tubes were placed in an ice bath at 1ºC, three tubes were placed in a 20ºC bath, and three tubes were placed in a 73.3ºC bath. The absorbances of each test tube were taken again after 10, 20 and 30, minutes had passed.
+
+
+
+Results:
+The one-way ANOVA test comparing the change in absorbances produced a p value of 6.35x 10-7. Using the Tukey-Kramer test, the results were significant in comparing the control with the 1ºC trials, the control with the 73.3ºC trials, the 1ºC with the 20ºC trials, the 1ºC with the 73.3ºC trials, and the 20ºC with the 73.3ºC trials. The results were not significant in comparing the control with the 20º trials. 
+Based on Graph 1, it can be observed that the rate of absorbance significantly increased at 1ºC and significantly decreased at 73.3ºC.
+
+
+
+Discussion:
+The p value for the one-way ANOVA test comparing the change in absorbance for different temperatures was 6.35x10-7. This value is less than 0.05, therefore, the null hypothesis stating that temperature does not affect the rate of photosynthesis can be rejected and the alternate hypothesis is accepted. By viewing Graph 1, it is observable that rate of photosynthesis increased for spinach at lower temperatures. This is complementary to research that shows that certain types of spinach have optimal growing temperatures around 18ºC [Yamori: 2005]. However, at higher temperatures, the denaturation process begins and photosynthesis becomes difficult. In the denaturation process, the active site of an enzyme, Rubisco in photosynthesis process, changes shape until eventually the substrate no longer fits. Once the substrate cannot bind, the reaction is stopped and any subsequent actions, like the activation of the electron transport chain, are not possible.  At temperatures higher that 50ºC, an apparent decrease in electron flow can be determined. [Yamane: 1998].
+In the experiment, colder temperatures increased the rate of photosynthesis in spinach, unlike the hypothesis stated. Spinach is a frost tolerant vegetable, meaning that it can endure low temperatures and continue growth. This is possible for plants like spinach because they produce more sugars than an average plant and sugars have a lower freezing point than water [Gusta:2012]. Spinach also grows close to the ground, which insulates it.
+An increasing impact of  global warming has negative effects on all plants, therefore, consideration must be placed on the effect on agricultural plants, like spinach. While other crops are strongly affected by increasing rates of greenhouse gases, spinach has a low global warming potential and can have high crop yields in these non-ideal conditions [Nemeck:2013]. Therefore, the study of spinach is important in determining potential changes to be made to prepare for life greater affected by global warming. 
+
+
+Literature Cited:
+Berry, J., Bjorkman, O. (1980) Photosynthesis Response and Adaptation to temperature in Higher Plants. Annual Review Plant Physiol 31, pp. 491-505.
+Gusta, L., Wisniewski, M. (2012) Frost Tolerance in Plants. Plant Stress Physiology, pp. 132-134.
+Huner, N., Oquist, G., Hurry, V. (1993) Photosynthesis, photoinhibition, and low temperature acclimation in cold tolerant plants. Photosynthesis Research 37 (1), pp. 19-39.
+Nemeck, T., Weiler, K., Plassmann, K. (2012) Estimation of the variability in global warming potential of worldwide crop production using a modular extrapolation approach. Journal of Cleaner Production 31, pp. 106-117
+Yamane, Y., Kashino, Y., Koike, H. (1998) Effects of high temperature on the photosynthetic system in spinach: oxygen-evolving activities, fluorescence characteristics, and the denaturation process. Photosynthesis Research 57 (1), pp. 51-59
+Yamori, W., Noguchi, K., Teroshima, I. (2005) Temperature acclimation of photosynthesis components and temperature dependencies of photosynthetic partial reactions. Plants, Cells & Environment 28 (4), pp. 536-537
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+2.png&Size=20524&Type=image%2Fpng&F=F_6L80m6Rk7Nbq7QJ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=table+1+revised.PNG&Size=7816&Type=image%2Fpng&F=F_2y27UOJDTpBS2xH
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph1+revised.PNG&Size=18979&Type=image%2Fpng&F=F_3j8Vz3Tz5BWiqGR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 2:The ANOVA test compared the changes in absorbance among and within different temperature groups.
+ Table 1: The Results of the Quantification of the Changes in Absorbance across time
+Graph 1: The change in Absorbance from time zero to the time at 30 minutes 
+
+*************************************************************************

@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-29 18:21:34
+Author of this lab report is: Std_AjCtbidJ
+ID: R_3RdvxnJIHkyFLdj
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: The Effect of light wave lengths on Physarum Phototaxis
+
+Abstract:
+The purpose of the experiment was to test and determine if different wavelengths of light impact the distance and direction in which a slime mold, Physarum Polycephalum, move. Physarum are usually found in dark humid environments and studies have shown that light not humidity is essential for Physarum migration. This demonstrates how phototaxis plays an important role in Physarum’s ability to migrate to a suitable environment to grow and reproduce. Using water-agar plates to home Physarum cultures we observed the direction and distance Physarum moved after 48 hours after being placed in either, red, blue, visible, and non-visible light. The two sample one-tailed T-test comparing the visible and red light showed statistical significance, while the other two sample one tailed t-test between visible and blue light showed no statistical significance. From the data collected, the experiment highlights how different light wave lengths do affect Phyasum Phototaxis. cAMP and Ca2+ mediated signal transduction pathways have been shown to perform differently when being stimulated with red and blue light. Red light was shown to produce positive phototaxis, while blue light was shown to produce negative phototaxis. 
+
+Introduction:
+In the experiment, Physarum Polycephalum, a slime mold organism is used to explore how signal transduction pathways allow cells to respond to their external environments. Physarum use many of the same signal transduction pathways as human cells do; therefore, much of what is discovered in the experiment is true about the cellular signaling pathways in humans. Unlike multicellular organisms, Physarum do not use hormones or a nervous system to respond to environmental stimuli [Johnson: 2016]. Every single one of their responses must be controlled by one or more of their intracellular signal transduction pathways. A signal transduction pathway works by an internal or external stimulus activating a specific receptor in a cell, which will cause the release of a second messenger. Second messengers are small molecules and ions that relay signals received by cell-surface receptors to effector proteins. The effector will then signal a response, which will finally trigger a response to the initial stimulus [Johnson: 2016]. These responses can trigger physiological changes such a proliferation, differentiation, survival, apoptosis, and most specifically migration which will be tested during the experiment. Physarum’s phototaxis is tested during this experiment. Phototaxis is the bodily movement of a motile organism in response to light [Johnson: 2016]. By observing Physarum’s movement in response to light it will be visible if their signal transduction pathways are working. During the experiment, the direction and distance moved of the Physarum when exposed to different wavelengths of light is tested.
+
+Recent research has shown that positive and negative phototaxis comes from different light wave lengths affecting the cAMP and Ca2+ mediated signal transduction pathway in Physarum. In the Ca2+ there is second pathway the triggers the release of Ca2+ from the smooth endoplasmic reticulum in response to external stimuli. The calcium can then bind to a receptor in the smooth endoplasmic reticulum called the ryanodine receptor. This receptor is important for the migration and movement of Physarum. In a study performed by Dr. Puff he showed how Physarum’s Ca2+ mediated signal transduction receptor is activated with certain wavelengths of light. In particular, blue light and red light will cause phototaxis to take place as these wavelengths trigger the Physarum to open Ca2+ channels. While dark light and visible light induce the release of Ca2+ in the smooth endoplasmic reticulum [Hader: 1985]. Blue light has been suggested to induce a chemical transmitter transported by the cytoplasmic streaming. By this mechanism, light influences metabolic processes related to the respiratory chain via the involvement of cAMP. Eventually, these primary processes affect the actomyosin complex which is modulated by ATP and Ca2+ [Hader: 1985]. In addition, it has been found that cAMP levels are increased by far red light, suggesting that it regulates the activity of adenylate cyclase, an enzyme which catalyzes ATP into cAMP [Ohmori: 2004]. If Physarum are exposed to both light conditions they will move farther away from a blue light source similar to the phototaxis of white light and will be closer to the red light (lower energy photons, longer wavelength, lower frequency) which more closely resembles the optimum dark environment of Physarum. 
+
+
+
+Materials and Methods:
+Conducting this experiment, first 14 PDA plates were gathered. Four plates were for blue light, four plates were for red light, four plates were for visible light, one plate was for full exposure of visible light, and the final plate was for a dark environment. On each plate a line was drawn dividing each plate in half and with two 1cm x 1cm squares separated by 1cm were drawn in the middle of the plate (Fig. 1). Then a spatula was sterilized in 95% ethanol and was used to cut out the two 1cm x 1cm squares on each plate, making sure to work on one plate at a time and sterilizing the spatula between plates. Then the Physarum stock plate was opened and a sterile spatula was used to cut the plate into 1cm x 1cm squares. Then using sterile forceps, the squares of Physarum in the stock plate were transferred to the 1cm x 1cm squares in the precut wells of the PDA plates. Afterwards, lids were placed on each plate with tape, except for the plate which is meant to be fully exposed to light. In addition, each plate was wrapped in foil and a small window was cut out in the same end of every plate (Fig. 3). The blue light plates were placed under a 13 watt blue light, the red plates were placed under a 13 watt red light, and the visible light plates and plate fully exposed to light were placed under a 13 watt white light bulb. Finally, the negative control plate was placed in a black bad in a drawer. After 48 hours, the plates were scored using millimeter ruler in order to measure the distance the Physarum migrated, measuring positive and negative phototaxis. The statistical tests used were two two-sample one tailed t-test with equal variance measuring the statistical between the visible light and red light and between the visible light and blue light. The confidence interval was set to 95% with an alpha set of 0.05. 
+
+Results:
+Compared to the average distance traveled between the blue and visible light, the red light had an average distance traveled in the negative direction. Signifying, how red light produced positive phototaxis, while blue light produced negative phototaxis in the Physarum culture. The average distance traveled for red light was calculated to be -2.7142 ± 3.1472 mm, while the average distance traveled for blue light was 5.5714 ± 5.503 mm. Lastly, the average distance traveled for visible light was 4.4285 ± 2.5727. For the plate fully exposed to light the average distance traveled was 0.0 mm while for the plate in the dark environment the average distance traveled was 4.5 mm in neither a positive or negative direction. Comparing visible and red light, the results were statistically significant (t-stat=4.649, df=12, P=0.000281). Comparing visible and blue light, the results were statistically insignificant (t-stat=0.4977, df=12, P=0.313833).
+
+Discussion:
+The results do support the hypothesis that if Physarum are exposed to both red and blue light, the Physarum will experience negative phototaxis and move farther away from the blue light and will exhibit positive phototaxis and move closer to the red light. The results from the bar graph depict several general trends that support our hypothesis. According to the graph representing the average distance traveled of Physarum in red, blue, and visible light, the Physarum in the red light showed a negative distance traveled, while the Physarum in the blue and visible light exhibited positive distance traveled (Fig. 3). This signifies that the Physarum in red light underwent positive phototaxis, while the Physarum in the blue and white light underwent negative phototaxis. These results help support out hypothesis. The hypothesis was further supported because the p-value obtained through the two sample one tailed t-test between the visible and red light was statistically significant. These results make sense as the average distance traveled for the visible light was positive (negative phototaxis) and the average distance traveled for the red light was negative (positive phototaxis) (Fig. 3). In addition, the t-stat value obtained thought the one-tailed t-test was high. T-stat gives us an idea of if the results are significantly different from each other. A large T-stat would have been desired in the experiment. The one tailed t-test between the visible light and blue light was statistically insignificant as the p-value obtained was greater than 0.05. Although, the t-test was statistically insignificant this would make sense since white light and blue light have been shown to have the same effect on distance traveled for the Physarum. This can be seen in the bar graph depicting similar distance traveled between the visible and blue light (Fig. 3). In addition, the t-value was relatively low signifying there was not much significance between average distances traveled. In conclusion, the results show that red light produce positive phototaxis and blue light produces negative phototaxis for Physarum.  
+
+A study conducted by Dr. Adamatzky, showed that migration of Physarum exhibit the most negative phototaxis in white and blue light. He tested this by measuring the Physarum’s oscillatory activity caused by the illumination of different light sources. His results show that the illumination increases cause specific changes in Physarum’s oscillatory movement [Adamatzky: 2013]. This may be due to specific receptors, phytochrome-like pigment, which trigger mediated singling transduction pathways in response to different light sources. Red light was shown to increase the amplitude of oscillation, but blue light decreases the amplitude. These different phytochrome-like pigment receptors respond differently to different wavelengths of light triggering different cell mediated responses [Adamatzky: 2013]. In this case negative phototaxis in white and blue light, and positive phototaxis in red light. A study conducted by Dr. Ohmori, revealed that red light causes a rapid increase in cAMP content indicating that the phytochrome‐like pigment similar to in Dr. Adamatzky study regulates activity of adenylate cyclase [Ohmori: 2004]. Adenylate Cyclase is the effector enzyme in the cAMP mediated signaling transduction pathway which converts ATP into cAMP. cAMP is then used to activate Protien Kinase A, which phosphorylates certain proteins to perform intracellular response to the initial stimuli. For Physarum, cAMP would be involved in light signal transduction related to photomovement [Ohmori: 2004]. While red light increased positive phototaxis, under dark conditions blue light decreased cAMP levels and produced negative phototaxis.  Both studies highlight how Physarum have phytochrome-like pigment receptors that act biochemically different in response to different wavelengths light. A reason why the red light may have yielded positive phototaxis is because it more closely resembles the optimum dark environment of Physarum (lower energy photons, longer wavelength, lower frequency), while the blue light resembles to visible light. 
+
+
+Literature Cited:
+1. Adamatzky AN. 2013. Toward slime mould coulour sensor: recognition of colours by 
+physarum polycephalum. Organic electronics. 14: 3355-3361.
+
+2. Hader DO. 1985. Role of calcium in phototaxis of physarum polycephalum. Plant and 
+Cell Physiology. 26: 1411-1417.
+
+3. Johnson AD. Plant Cell Structure. Biological Principles Laboratory Manual. Dept.
+Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+
+4. Ohmori MS. 2004. Regulation of cAMP‐mediated photosignaling by a phytochrome in  the cyanobacterium anabaena cylindrica. Molecular Microbiology. 15: 303-309.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-26+at+5.49.53+PM.png&Size=56858&Type=image%2Fpng&F=F_3HGHa9ObMPPHx3y
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-26+at+5.49.57+PM.png&Size=88685&Type=image%2Fpng&F=F_2EnM9HvQnXPXnfd
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-29+at+6.15.48+PM.png&Size=36332&Type=image%2Fpng&F=F_2CjDfmgf9UkT5hw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Lay out for stock plate	
+Figure 2. Lay out for wrapping plates in foil
+Figure 3. The bar graph represents the average distance traveled of the Physarum in visible, blue, and red light. An average negative distance traveled represents positive phototaxis, while an average distance traveled represents negative phototaxis.*************************************************************************
+
+
+

@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-03-14 22:31:20
+Author of this lab report is: Std_NbGlCOtT
+ID: R_bPJY0M7YIQH1MYR
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Manipulation of Molting and Growth in the Tobacco Hornworm, Manduca sexta: Inhibition of Growth Caused by Ecdysteroid Inhibitor, Azamax
+
+Abstract:
+	This experiment studies the effects of hormone inhibitors on the lifecycle of the Tobacco Hornworm (Manduca sexta). It is part of the Order Lepidoptera, which includes moths, butterflies, and skippers. It moves from egg, to larva, to pupa, to moth during its life cycle. The stage changes are triggered by molts [Nijhout, 2018]. We believe that the manipulation of growth hormones will prevent molts and therefore prevent growth of the Manduca sexta. By giving the larva hormone inhibiting chemicals through their diet, we tested this hypothesis. Our data showed the insects that received the treatment grew less than those without. And our statistical tests showed some of this data this information to be statistically significant. Ultimately, we saw that changed levels of growth hormones prevented the Manduca sexta from growing normally. 
+
+
+Introduction:
+The molting and life cycle of a Manduca sexta are controlled by two main hormones. They are ecdysteroids and juvenile hormones [Johnson: 2018]. The two work in conjunction to trigger molts in the caterpillar which allow the transition into adulthood. The Manduca sexta moves through five instar phases before entering pupa form. If the molts do not occur, the insect will not move through these phases properly [Nijhout: 2013]. Juvenile hormone exists in the caterpillar for the duration of its youth and has slight increases before each molt. Ecdysteroid also exists during youth and similarly has relatively large increases before each molt. Not only are the relative amounts of each hormone important to trigger a molt, but so is the ratio between the two. There is an increase in both hormones at a specific ratio that triggers the molt. There are two main molts in the growth process before the caterpillar enters adulthood. [Johnson: 2018] The caterpillars must reach a critical weight, a threshold, before metamorphosis can begin on a routine life cycle [Suzuki: 2013]. The molts are required to reach this threshold. 
+	We want to investigate how the insect’s growth responds to changes in these hormone levels. Will it still be able to adapt and grow on a normal pattern? Or will altered hormone levels prevent the insect from maturing normally? 
+	Azamax is a ecdysteroid inhibiting chemical. This means it prevents the release of the hormone in the caterpillar body. Azamax is currently sold as a pesticide for the Manduca sexta. We want to see how adding Azamax to the diet of Manduca sexta caterpillars affects their growth and development. We believe that the change in hormone levels and specific ratio required for molts will prevent the caterpillar from following a normal growth pattern. The Azamax will cause the caterpillar not to molt and will therefore prevent growth. Our experiment tests this hypothesis. 
+By either supporting or refuting the current information, this study will be able to further inform the science community about the life cycle, growth and hormone regulation in Manduca sextas. Azamax is also used as a pesticide. This experiment will test the effectiveness of the chemical as a pesticide. If the animals do not grow and are killed, Azamax works effectively.
+	The independent variable is how much of the Azamax solution the Manduca sexta diet contains. The dependent variable is how the animal matures and grows.
+
+Materials and Methods:
+ We gathered eight Manduca sexta caterpillars. They were in the fourth-instar larva phase of their life cycle. They were split into two groups of four. One of the groups was the control. These caterpillars were fed 10g of GLM with seven drops of water each day with no added Azamax. The other four caterpillars were the treatment group and received the Azamax chemical. They were also fed 10g of GLM but with 7 drops of Azamax rather than water. The caterpillars were fed like this for eight days. During the eight days, each caterpillars was isolated from the others in its own container. All were kept at 23 degrees celsius. Each day, when the food was exchanged, the caterpillars weight (g) and length (cm) were recorded. At the end of the eight days we averaged the data to analyze. We then further analyzed the data with a two sample t-test.    
+
+
+Results:
+	Figure 1 demonstrates that the two groups both had a change in weight. They both increased slowly at the beginning, but around day five the control group began to grow much more than the treatment. The treatment had no large growth increase like that seen with the control. 
+
+In Figure 2 the control group also showed a sudden growth in length. It happened around day three. The treatment group in this figure has no sudden increase in growth, but grows more slowly over the eight days, shown by the flatter slope. In both Figure 1 and Figure 2 the control group showed larger growth than the treatment.
+
+Table 1 uses the data we collected for weight of treatment and weight of control collected on the final day of the experiment. The mean for the control weight is higher than the mean for the treatment weight. And the mean for the control length is higher than for the treatment. Both the Azamax weight and length means have larger standard deviation than that of the control. This statistical test provides a p-value of 0.0002 and 0.004. This gives us a confidence interval of above 95% making the results statistically significant.  
+
+
+Discussion:
+In the beginning of the experiment we hypothesized that adding Azamax to the Manduca sexta diet would affect the hormone levels enough to prevent molting and therefore growth of the caterpillars. Our results supported this hypothesis. The caterpillars that were fed ecdysteroid inhibitor did not grow to be as large or long as the control. They consistently gained less weight (Figure 1) and were shorter than the control (Figure 2). The two sample t-test showed the final control Manduca sextas weighed more than the ones treated with Azamax (Table 1). The control also showed less variation, (SD = ∓ 0.6, ∓ 0.4) leading us to believe they grew more consistently. They probably molted around the same time and reached the threshold weight. There is a clear difference between the results of the control group and the results of the treatment group. Therefore, we concluded the ratio and levels of the two hormones are crucial to the proper growth and development of Manduca sextas. Because ecdysteroid was inhibited, there was no sharp increase of the hormone to trigger the molt and growth. This is why the treatment was so much smaller than the control. Our results match and support the data found in our lab manual [Johnson: 2018].  
+
+There is slight room for error in the experiment. Each day, different people measured the length of the caterpillars. These measurements can be very subjective and cause error, making the data unreliable. But, because the data was taken over a long period of time, trends were still identifiable, and the statistical test found the data significant (p = 0.004) we concluded the risk of error is not enough to alter major conclusions from the experiment. 
+	Another study that manipulated growth hormone levels in Manduca sextas also resulted in stunted growth and development. Researchers at Proceedings of the National Academy of Sciences of United States of America manipulated the levels of JH in the caterpillars diet. They concluded that “the critical weight checkpoint, mediated through the CA and JH, ensures that the larva has enough nutrient reserves to deal with the demands of metamorphosis” and without proper, natural hormone levels the insect will not molt and therefore will not grow [Suzuki: 2013]. They two discovered that caterpillars who experienced unnatural change in hormone level weighed less than those that did not. These findings support our conclusion that levels and ratios of growth hormone are key to regulating proper maturation cycles in Manduca sextas. 
+
+This study could be supplemented by an experiment testing the effects of inhibiting other growth hormones in the Manduca sexta life cycle, possibly manipulating more than one at a time. This could provide information on how ecdysteroids and juvenile hormones work together to initiate molting, if one is more important than the other, and general growth patterns of the Manduca sexta. This research would also provide information on creating and even more effective pesticide. 
+
+
+Literature Cited:
+1. Johnson AD. Hormone Regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston - Salem, NC. Vers. 18.1 (updated January 5, 2018) pp. 6-13
+
+2. Suzuki, Y., et al. “A Molt Timer Is Involved in the Metamorphic Molt in Manduca Sexta Larvae.” Proceedings of the National Academy of Sciences, vol. 110, no. 31, 2013, pp. 12518–12525., doi:10.1073/pnas.1311405110.
+
+3.  Nijhout, H. Frederick, and Carroll M Williams. “Control of Moulting and Metamorphosis in the Tobacco Hornworm, Manduca Sexta (L.): Growth of the Last-Instar Larva and the Decision to Pupate.” Journal of Experimental Biology, 1 Oct. 1974.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=36088&Type=image%2Fpng&F=F_0UQRzNFsjtKmOmV
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=36776&Type=image%2Fpng&F=F_e3Z8TnScANI83WJ
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.png&Size=20463&Type=image%2Fpng&F=F_6thwCcfOZfsPOdL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: The figure displays the average change in weight for the Manduca sexta caterpillars, both treated with Azamax and the control group. The figure includes error bars to represent the standard deviation.  
+
+Figure 2: The figure displays the length change in weight for the Manduca sexta caterpillars, both treated with Azamax and the control group. The figure includes error bars to represent the standard deviation.
+
+Table 1: This table shows the data for day eight of the experiment taken from a two sample t-test. It includes the weight and length of both Manduca sexta groups, the control group and the group treated with Azamax. The table includes the mean with the standard deviation and P value. 
+
+
+*************************************************************************

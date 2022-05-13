@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-20 02:09:23
+Author of this lab report is: Std_H0E03nua
+ID: R_3DpirS5TMWKCY4c
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Effects of Sodium Channel Blocker Agents on the Threshold Stimulus and Muscle Response of the Sciatic Nerve of a Frog
+
+Abstract:
+Muscle movement is regulated by the release of the neurotransmitter acetylcholine (ACh) at the neuromuscular junction. When acetylcholine binds to its receptors on the muscle fibers, sodium channels open, which generates and action potential and stimulates movement. Here we look at the effect of lidocaine, a sodium channel blocker agent, on the threshold stimulus and muscle response to the threshold stimulus when stimulating the sciatic nerve of a frog. We expected to find that the sodium channel blocker agent would cause a significant difference in the threshold stimulus and reaction, but our data did not support this hypothesis.
+
+Introduction:
+The nervous system is unique in that it can respond to its environment in merely milliseconds, as opposed to other body systems, such as the endocrine system, which can take minutes, hours, or even days. Skeletal muscles are innervated by motor neurons, which branch out to innervate several individual myofibers at neuromuscular junctions [Johnson:2018]. There are three phases of muscle movement: the latent period (time between stimulation and contraction), contraction phase (period of muscle shortening), and relaxation phase (muscle returns to normal state). When nerve pulses arrive at the neuromuscular junction, Acetylcholine (ACh) is released from the presynaptic nerve terminal. When ACh binds with its receptor on the muscle fiber, sodium channels open, generating an action potential in the muscle. Lidocaine used in conjunction with the permanently charged sodium channel blocker QX-314 has been shown to disrupt action potential generation in rodents [Binshtok:2009]. If the sodium channels are blocked, the action potential will not be able to transfer from the nerve to the muscle, inhibiting movement.  
+
+Materials and Methods:
+A frog leg will be skinned, and the thigh muscle separated to reveal the sciatic nerve. The dissected leg will be kept moist with frog Ringer’s solution. Baseline stimulus parameters are 0.000V, 1 pulse, 1 Hz, and 5ms. First, threshold stimulus of the muscle will be determined by stimulating it directly with single pulses of constant duration. Stimulus amplitude will be increased in increments of .1V. Once the threshold stimulus is determined, the muscle’s response to additional stimulus amplitudes will be recorded and analyzed. The data from this part of the experiment will be the control. The experiment will then be repeated with a frog leg muscle that has been injected with .1mL of 25mM lidocaine (a sodium channel blocker agent). This will be the treatment group. Three trials will be run for both the treatment and control groups. A one-sample t-test will be used to determine the significance in the differences between the muscles’ responses to various stimuli.
+
+Results:
+The mean difference in threshold stimulus (treatment group – control group) for the three trials was .050V +/- .037V (Fig. 1). The mean difference in response to the threshold stimulus (treatment group – control group) was -.051V +/- .019V (Fig. 2). We used a one-sample t-test to analyze the results. The test did not show a significant difference in the threshold stimuli of the control and treatment groups at the significance level α=.05 (t=1.8898, df=2, p=.199). The difference in response to the threshold stimulus was significant at the α=.10 level, but not at the α=.05 level (t=-3.789, df=2, p=.06311).
+
+Discussion:
+Our hypothesis that the threshold and muscle response at threshold of the sciatic nerve would change if a sodium channel blocker agent was injected into the frog leg was not supported. We observed no significant difference in the threshold or the muscle response to the threshold for the three trials at the .05 level, suggesting that lidocaine does not fully inhibit the action potential from reaching the muscle. However, a similar experiment, which used lidocaine in conjunction with the permanently charged sodium channel blocker QX-314, was able to successfully block the transmission of the action potential in rodents [Binshtok : 2009]. This study suggested that more specifically targeting sodium channels is more effective, and that different genes in various sodium channels may make them more or less susceptible to the effects of different blocking agents. Studying the effects of interfering with various phases of the transmission of an action potential from the nervous system to the musculoskeletal system could advance the field of anesthesiology and help make surgeries more comfortable for patients.
+
+Literature Cited:
+Alexander M. Binshtok, Peter Gerner, Seog Bae Oh, Michelino Puopolo, Suzuko Suzuki, David P. Roberson, Teri Herbert, Chi-Fei Wang, Donghoon Kim, Gehoon Chung, Aya A. Mitani, Ging Kuo Wang, Bruce P. Bean, Clifford J. Woolf; Coapplication of Lidocaine and the Permanently Charged Sodium Channel Blocker QX-314 Produces a Long-lasting Nociceptive Blockade in Rodents. Anesthesiology 2009;111(1):127-137. doi: 10.1097/ALN.0b013e3181a915e7.
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated 8/2/2018), pp. 17-33.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure1.PNG&Size=13766&Type=image%2Fpng&F=F_2tDyvnggVV2HWmI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average difference in threshold stimulus and the muscle response at the threshold stimulus. Each bar is the mean in Volts of the three trials; error bars are +/- one standard deviation.*************************************************************************
+
+
+

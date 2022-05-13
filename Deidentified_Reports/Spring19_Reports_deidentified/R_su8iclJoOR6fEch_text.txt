@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-18 20:25:38
+Author of this lab report is: Std_pH0ryOBc
+ID: R_su8iclJoOR6fEch
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Effect of Lidocaine Injection on Voltage Measured in Frog Leg
+
+Abstract:
+This lab was intended to investigate the effect of lidocaine injected into the gastrocnemius muscle of a frog leg. As lidocaine is a well-know sodium channel blocker, we hypothesized that the injection would greatly decrease or inhibit the frog leg from responding to stimulus. The drug works by binding to and causing sodium channels experience an inactivation period. Using the software iWorx, we administered 2V to the sciatic nerve and measured the response in the gastrocnemius muscle. Then the legs were injected with lidocaine and responses were measured again. The means of before and after injection showed a sizable difference in response to stimulus, but a paired t-test showed that there was actually no statistical difference between the means of the two groups. This was due to the large standard error, which in the future, could be reduced by increased trials. 
+
+Introduction:
+In order for a nerve impulse to be translated into a muscular contraction, many components must function. First, acetylcholine must be released from the presynaptic nerve terminal and bind to a receptor on the postsynaptic nerve. This binding opens sodium channels which generate an Action Potential down the membrane. Once the Action Potential reaches the muscle fiber, specifically the sarcoplasmic reticulum, Calcium is released. This allows for the contraction of the muscle. In this lab, we were interested in investigating how altered environmental conditions would affect the muscles ability to contract. Our test subject will be the hind legs of a frog, as the sciatic nerve and gastrocnemius muscle can be easily isolated. To compare with normal function of the nerves, we will be injecting the muscle with lidocaine, a sodium channel blocker. Lidocaine functions by bonding to inactivated sodium channels causing them to remain in that state, leaving fewer channels open to carry out sodium transportation [Cummins: 2007]. We expect that this addition will inhibit or cause a decreased response from the muscle, our dependent variable, as the action potential will be prevented from propagating down the membrane, therefore not allowing muscle contraction to take place. 
+
+Materials and Methods:
+To begin, the frog leg must be skinned, exposing the nerves and muscles. The sciatic nerve must be identified and extracted, making sure to keep the end in contact with the gastrocnemius muscle intact. Pin the lower leg to the dissection tray and tie a piece of string to the top of the gastrocnemius so that it can hang perpendicular to the rest of the leg. Douse the leg with frog ringers and carefully lay the sciatic nerve over the pronged electrode so that it touches both sides. Set the voltage in iWorx to 2V and deliver the impulse to the nerve. Watch for a contraction of the muscle and record the voltage. Repeat this twice more. Inject the muscle with 0.1 mL lidocaine, using multiple injection sites and putting a drop on top of the nerve itself. Allow the leg to rest for five minutes, then deliver three more impulses to the nerve recording the resultant voltage. Then, repeat the entire procedure with two fresh frog legs, making sure the samples stay wet with the frog ringer solution. Use this data to perform a Paired T-Test as the data collected prior to the injection of lidocaine serves as the control group in respect to the data collected after injection. 
+
+Results:
+Overall, the measurements collected before the injection of lidocaine were higher than those post-injection. There was a sizeable range in the actual values of the data, with Leg 1 showing lower voltage and a smaller difference between the control run and treatment, versus Leg 3 that not only had the highest initial response and the lowest responses once treated with lidocaine. As seen in Table 1, this deviation in range of results lead to a high Standard Error of 0.527. The significance of such a large error is illustrated in Chart 1., where the error bars are completely overlapping as well as crossing the x-axis. To examine whether there was a statistical difference in between the control and the treatment groups, we performed a Paired T-Test. This resulted in a p-value of 0.1907, which when compared with the standard alpha value of 0.05, shows us that the difference between the voltage of the two groups is not statistically significant. 
+
+Discussion:
+As the results from the paired t-test determined there to be no significant difference between the voltage of the frog legs before and after and injection of lidocaine, we have to conclude that no effect of lidocaine was experienced by the muscle in the frog legs. This conclusion is due to a high margin of error accrued over the course of this experiment. During the testing of the first leg, we experienced some technical difficulties and ended up having to administer many impulses to the leg before we got concurrent data through the software, iWorx. This could have caused fatigue in the muscle, especially if not enough ringer solution was applied, altering the results. If we had more time and materials, it would have been beneficial to repeat the procedure on an additional leg to see if it yielded results closer to the range of the other two legs. Through this experiment, we should have seen a clear difference between the voltage of the gastrocnemius before and after the injection of lidocaine due to its function as a sodium channel blocker. By this function, it not only slows the action potential attempting to be propagated down the membrane, but can prevent threshold from being reached in the muscle fibers themselves as they contain voltage-gated sodium channels [Sadava: 2016].
+
+Literature Cited:
+1. Cummins, T. R., & Rush, A. M. (2007). Voltage-gated sodium channel blockers for the treatment of neuropathic pain. Expert Review of Neurotherapeutics, 7(11), 1597-612. 
+
+2. Sadava, D. E. (2016). Life: The Science of Biology, 11th ed. Sunderland, MA: Sinauer Associates, Inc.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-17+at+10.00.57+AM.png&Size=20287&Type=image%2Fpng&F=F_10wnz60yTLNNUwu
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=34714&Type=image%2Fpng&F=F_cwEcvKMJFyhZlyF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. Calculated and Statistical Data of Voltage
+Chart 1. Comparison of Voltage Before and After Injection of Lidocaine
+*************************************************************************
+
+
+

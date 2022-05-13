@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-21 11:11:22
+Author of this lab report is: Std_raYjHlIR
+ID: R_270QLGKyCKslr0k
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: Neuromuscular Effects of Sevin in Rana Pipiens Muscle Contraction
+
+Abstract:
+Nerves and muscles are crucial to how organisms react to the environment. This lab experiments how Sevin impact the functioning of a Rana Pipiens gastrocnemius muscle by inhibiting its contracting ability. A 1 voltage was applied to the muscle threes for the control and treatment experiment. A paired t-test was used to analyze the data. The control group had a 0.946 average response while the treatment group had an average response of 0.339. Response relates to the muscles’ ability to contract. A one-tailed p-value of 0.095 achieved but since it was over the standard alpha value of 0.05, the null hypothesis was rejected. Therefore, the results were statistically insignificant. The statistical results show that the Sevin was unsuccessful in weakening the gastrocnemius of the Rana Pipiens.
+
+Introduction:
+The neuromuscular system is part of the whole large system called the “Central Nervous System.” Organisms use nerves and muscles to respond to the internal and external environments [Johnson:2018]. Both the hormone and nerve systems function in that they sense and respond to the environment accordingly. However, unlike the slow system of the hormones, the nerves of the neuromuscular system respond in milliseconds [Johnson:2018]. Hormones can be found in living organisms including plants, but the nerves are a special unique feature to animals [Johnson:2018].___________
+The lab focuses on the contractions that are enabled by the presence of skeletal muscles. The skeletal muscles of organisms consist of thousands of myofibers [Johnson:2018]. Individual myofibers are found bound together by connective tissues to form functional groups [Johnson:2018] . Within the fibers, synaptic transmission occurs; this is one of the processes that neuronal communication occurs [Werle:2000].The nerve impulses at the neuromuscular junction cause the release of neurotransmitters called ‘acetylcholine’ (Ach) from the presynaptic terminal [Johnson:2018]. The process is, “triggered by a rise in cytosolic calcium concentration” [ Sudhof:1995]. The Ach binds  with its receptors on the membrane of the muscle fiber; this leads 〖Na〗^+ channels to open and consequently generating an ‘Action Potential’ (AP). An Action Potential is fired signal by which neurons of the central nervous system encode and transmit information [Stuart:1997]. Action Potentials stimulate the release of 〖Ca〗^(+2) from the sarcoplasmic reticulum [Johnson:2018]. The release of 〖Ca〗^(+2) activates contractile mechanism of the muscular fiber as it shortens. 
+The lab experiments three legs of Rana pipiens.  Rana pipiens, also called ‘Rana’ is one type of a frog. The lab hypotheses that if the Rana legs with SEVIN, an Ach inhibitor, the contraction strengths of the muscles will decrease accordingly. Blocking Ach, reduces the transfer of 〖Ca〗^(+2) from the sarcoplasmic reticulum which minimize the supply for activating the muscle fibers’ ability to contract.
+
+
+Materials and Methods:
+The iWorx Data Analysis Software was  used to record the electromyograms from the frog’s nerve with the applied volte. Three frog legs were provided by the lab technician. For each leg, the gastrocnemius muscle and the sciatic nerve were isolated to determine the basic neuromuscular control [Johnson:2018 ].
+Each leg was placed in dissecting pan. Using hands, the skin was peeled off from top to down the feet. The legs were kept moisture with frog Ringer’s solution. The dissecting probe is used to separate the inner thigh muscles, so the white sciatic nerve is visible. Carefully with hands, the nerve is freed the tissue. Using metallic materials is not recommended so that one does not damage the nerve. The frog Ringer’s solution is used to keep the exposed tissue moisturized. The gastrocnemius muscle is detached from the tibialis anterior by cutting, using a scissor, towards the toes. Between the gastrocnemius and the achilles joint, a knot of a thread is tied tightly there. The loop is tied also on a ring stand making the gastrocnemius muscle suspended 90 degrees with a tray underneath it. The ring stand is adjusted so that the leg can touch the tray. Pins are used to pin across the tibia bone, the femur bone and the tibialis anterior muscle to immobilize them plus attach them to the tray. The pins must not touch the gastrocnemius muscle or the sciatic nerve. The tension tensioner, connected to the ring stand, is used to put a tiny bit of tension to the muscle by making the thread less loose. Next, the stimulation probes are inserted in the gastrocnemius muscle. The red needle probe is inserted in the middle-upper part of the muscle while the black needle probe is inserted in the lower part of the muscle. For better readings it is important that the two probe needles are not too close.
+For data collection, each leg is analyzed for control and experimental groups. For control  data, the software is used to apply a voltage of 1Hz is to each leg and recording 3 pulses. For experimental, each leg is treated with the SEVIN substance. A 5mL injection is applied in 3 different sides to each leg. A 5-minute wait starts in order to enable the SEVIN to spread through the muscle fibers; the muscle of the leg is massaged for better effect. Again, a voltage of 1Hz is to each leg and 3 pulses are recorded. The stimulus is kept constant A paired t-test model is used for data analysis.
+
+
+Results:
+The control observations showed the muscle to have a stronger contraction compared to the treatment muscle. The control response average was 0.946v and the treatment average response was 0.339v. A one-tailed paired t-test is illustrated in table 2 below with resulted p-value of 0.0949 which is compared to the alpha value of 0.05.
+
+Discussion:
+¬¬¬¬¬¬¬The null hypothesis was rejected even though the p-value had tiny range difference from the standard alpha value. Due to the results being mathematically insignificant, the conclusion is that they were obtained by chance. The Sevin substance was experimented to see if it can block the acetylcholine. acetylcholine is responsible for releasing action potentials that cause muscle contraction [Stuart:1997]. The statistical results show that the experimented seven was not successful in blocking the acetylcholine. One source of errors in results that some injected Sevin dripped out hence the whole5mL did not go in which might cause a decrease in voltage going through the muscle leading to less response. Lastly, the lab used only three test samples hence if there were more repeated experimentation, the margin of error could be reduced. For further studies, the success of Sevin could be crucial in immobilizing pesticides by making them less active.
+
+Literature Cited:
+1.	Sudhof, T.C., The synaptic vesicle cycle: a cascade of protein-protein interactions, Nature, 375 (1995) 645-653
+2.	Johnson, AD., Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.2, (updated August 22, 2018), pp. 17–33
+3.	Werle, J.M., Expression of Frequenin at the frog (Rana) neuromuscular junction, muscle spindle and nerve. Dept. Anatomy and Cell Biology, University of Kansas Medical Center, Kansas City, MO, (updated April 13, 2000), pp. 33. https://www.sciencedirect.com/science/article/pii/S0304394000010041#BIB8
+4.	Stuart, G., Action potential initiation and backpropagation in neurons of the mammalian CNS. Dept. Neuroscience, John Curtin School of Medical Research, Canberra, Australia, (updated March 1, 1997), pp 125-131. https://www.sciencedirect.com/science/article/pii/S0166223696100758
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=resp.PNG&Size=11791&Type=image%2Fpng&F=F_1JVZCaGlC4KMZTW
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=respo2.PNG&Size=6322&Type=image%2Fpng&F=F_shSW1ZM1leu8GgV
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=respo3.PNG&Size=37795&Type=image%2Fpng&F=F_3KOzyzZ9zEvJ6Uy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+1.	Table 1: The Average Stimulation Response from the Three Tested Rana Pipiens Gastrocnemius Muscle After 3 Trials.
+2.	Table 2: The One Tail Pair T-Test Results
+3.	Figure 1: The average stimulations response and standard deviation of three different Rana Pipiens gastrocnemius muscle.
+*************************************************************************
+
+
+

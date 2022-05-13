@@ -1,0 +1,64 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-22 21:22:45
+Author of this lab report is: Std_1uyOjjPo
+ID: R_3geuKM1HCIvVbr3
+Course number: BIO103L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Effect of Increased Nitrogen Supply on Plant Phenotype Evaluated Through Root to Shoot Ratios
+
+Abstract:
+In this lab the effects of increased nitrogen on Pisum sativum plant phenotype are being observed.  Nitrogen is an essential nutrient for plant growth and it is hypothesized that the plants treated with nitrogen will have more growth in the shoot and therefore lower root to shoot ratios.  The treatment plants were watered with a nitrogen solution and the control plants were watered with tap water.  The data demonstrated that, overall, the treatment plants did have lower root to shoot ratios, however, only the length ratios were significant (p-value-0.0002).
+
+
+Introduction:
+In this lab we are testing and observing the effect that increased nitrogen has on the P. sativum phenotype.  P. sativum are more commonly known as garden peas, they are usually low growing (under 0.75 meters) or vining.    Nitrogen is one of the most limiting nutrients due to the fact that it is a major component of chlorophyll and amino acids, which are essential for photosynthesis and building proteins.  Plants have the ability to change how they allocate resources based on environmental conditions, this is known as phenotypic plasticity [Johnson: 2016].  Plants could allocate more nitrogen to the shoots (leaves), which would increase the plant’s growth rate since the leaves are the principal photosynthetic organ.  Plants could also allocate more to the roots, which would aid in absorbing more nutrients in the soil if there is a shortage.  I hypothesize that plants treated with excess nitrogen will have smaller root to shoot ratios, since the control plants will allocate more to the roots to compensate for the decreased amount of nitrogen, whereas the treatment will be able to allocate nitrogen for shoot growth.
+
+
+Materials and Methods:
+In order to prepare the plants, approximately 12-15 seeds were evenly spaced throughout each container in the soil.  We prepared three containers for the treatment plants and three containers for the control plants.  Once all the seeds were planted, we placed them in the greenhouse, watering each container everyday- treatment plants with nitrogen solution and control plants with tap water.  Once the plants grew for 7 days, 12 plants from each group were taken from the soil and washed in order to remove excess soil.  Next, the plants were cut below the bean to separate the roots and the shoots, then the roots and shoots were measured and weighed separately in order to calculate the root to shoot ratios.  Finally, the root to shoot ratios were compared in a two sample t-test (length ratios and weight ratios separately).
+
+
+Results:
+According to the Figure 1, it is shown that the treatment groups had smaller average root to shoot ratios in both length and weight in comparison to the control group.  The averages of the length differed, however, the weight ratios did not.  Weight: t-stat-0.972, df-22, p-0.342. Length: t-stat-4.487, df-22, p-0.0002.
+
+
+Discussion:
+According to our p-values, the length root:shoot was significant, the roots of the control plants, on average, were longer than the roots in the treatment plants, which supports our hypothesis, however, the weight root:shoot ratios were not significant.  The root lengths of the treatment are shorter due to the fact that they do not need to allocate as many resources to increasing surface area of  roots since there is no shortage of nutrients in the soil.  The control allocated more resources to the roots because increasing the surface area of the roots will allow them to absorb more nutrients from the soil.  The treatment also had the resources to allocate nitrogen towards the shoots, therefore increasing shoot growth [Johnson: 2016]. Plants grown in environments with nitrogen, drive growth production through the control of the leaf area index, and there is a tight correlation between nitrogen supply, leaf distribution and leaf photosynthesis [Hirel: 2007].  This pattern is represented in our data: treatment had more shoot growth due to increased levels of nitrogen supply.  It is important to know the effect of certain nutrients on a plant’s phenotype in order to be more successful in cropping and other scenarios in which particular phenotypes are favored.
+
+
+Literature Cited:
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15–16.
+
+Hirel, et al.  ““Challenge of Improving Nitrogen Use Efficiency in Crop Plants: towards a More Central Role for Genetic Variability and Quantitative Genetics within Integrated Approaches | Journal of Experimental Botany | Oxford Academic.” October 15, 2018.  academic.oup.com/jxb/article/58/9/2369/543374.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-22+at+9.21.57+PM.png&Size=67467&Type=image%2Fpng&F=F_yxyjvmXgLVH4UdH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average root:shoot length and weight ratios of 12 control and 12 treatment P. sativum plants after one week of growth.  Root and shoot separated below the pea sprout.
+*************************************************************************
+
+
+

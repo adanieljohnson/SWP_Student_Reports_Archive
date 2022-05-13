@@ -1,0 +1,82 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-09-30 11:05:46
+Author of this lab report is: Std_uBSlGaPm
+ID: R_ZwX2wvuIidXjYPv
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The effect of reduced 20E concentration on maximum weight change for Manduca sexta caterpillars.
+
+Abstract:
+The relation between reduced 20E concentration and maximum weight change for Manduca sexta is studied in this experiment. 20E reduction agent is been added in small amount into caterpillar food to observe possible influences on Manduca sexta growth. Treated individuals shows delayed pupate timing and relatively younger appearances compared with normal individuals. At the mean time, treated individuals eventually undergo incomplete pupate that happened long after expected time. It is concluded that by feeding treatment group individuals with small amount of chemicals that remove 20E from caterpillars’ systems, we are able to delay the eclosion processes regulated by 20E hormones. However, incomplete pupate in treatment group individuals suggests that our 20E reducing agent are not concentrated enough to completely prevent the 20E from triggering the eclosion process.
+
+Introduction:
+Hormone is the chemical that has been released to regulate cell functions inside organisms. Manduca sexta, one type of insect in the order Lepidoptera, has many names including Sphinx moth, Hawk moth, Tobacco hornworm, and the Cardina sphinx. In the entire life cycle of Manduca sexta, there are totally five stages of instar larva, one pupa stage, and one adult stage. There are two main types of hormones that regulate the timing of different stages of growth for Manduca sexta, which are Juvenile Hormone (JH) and Ecdysteron (20E). Under the control of these two hormones, Manduca sexta is able to transform from one stage to another, and undergoes a stage called metamorphosis to transform from caterpillar to adult moth. 
+A past experiment published by the Turkish Journal of Agriculture and Forestry in 2004 studied the effect of IGRS: “Insect Growth Regulators” on chitin synthesis and JH / Ecdysteroid regulated processes.
+After reading this research, our group came up with the idea of studying “The effect of reduced 20E concentration by a small percentage on caterpillars’ growth indicated by maximum weight change.” Our hypothesis is that reduced 20E concentration would result in larger weight gain in treatment group than normal control group under same conditions.
+
+Materials and Methods:
+Materials: 
+5th stage caterpillars (Manduca sexta) * 8, 20E reduction agent solution, rearing jar, electric balance (two decimal digits), caterpillar food, distilled water, incubator (28oC). 
+
+Methods:
+1.Select 8 4th to 5th instar Manduca sexta with similar weight around 3.00 g, and divide them into groups of 4 separately labeled “Control group” and “Treatment group”.
+2.Place each caterpillar separately into rearing jar.
+3.Fed each caterpillar 1 of 2 diets:
+3.110 g 0.005 g caterpillar food with 3 drops of low concentration [1% ] solution.
+3.210 g 0.005 g caterpillar food with 3 drops of distilled water.
+4.All caterpillars were kept in incubator of 28oC, 12 hr dark and 12 hr light.
+5.Record the weight of each caterpillar on a daily basis for 14 days, describe how it looked, present the data and observations. Use p test to test for credibility. 
+
+Results:
+As the experiment continues, the physical differences between control group caterpillars and treatment group caterpillars became larger. While control group individuals start turning yellow-green after the first few days of feeding, the treatment group individuals remain light green body color. Around day 10 to day 12, all control group individuals turned into pupa, while treatment group individuals only starting to show signs of color changes. At the end of 14 days, all control group individuals turned into brown pupa, while treatment group individuals only showed incomplete pupate stage. Treatment group pupa have incomplete wings, half-open chitin shell, and signs of reduced responses towards stimuli. 
+
+The data collected from caterpillars is shown in Table 1 below. 
+
+According to Table 1, we could see the maximum weight change for each caterpillar in both control and treatment group. With an average maximum weight change of 4.33 g in control group and 3.21 g in treatment group. The comparison of average maximum weight change data between control and treatment group is shown in Figure 1 below in a bar chart. 
+
+From Figure 1, we could clearly see that the average maximum weight change in control group is larger than that of treatment group. And the standard deviation data suggests that data points from control group are more concentrated than those of treatment group.
+
+After performing the two-sample t-test for this experiment, we obtain the statistics as follows: (t=6.852, dF=6, one tailed p value=0.000238)
+
+
+Discussion:
+According to the data and the one-tailed p test, my hypothesis that “reduced 20E concentration would result in larger weight gain in treatment group than normal control group under same conditions.” is rejected. Instead, as demonstrated in Figure 1, the average maximum weight change in control group is far larger than that of treatment group, along with the delayed pupate and incomplete pupa stage for treatment group individuals, it is highly possible that reduced 20E concentration played a role in influencing late growth period of Manduca sexta. 
+As studied in “Ecdysteroids regulate the release and action of eclosion hormone in the tobacco hornworm, Manduca sexta (L.)”, “It was concluded that an ecdysteroid decline is a normal prerequisite for the ecdyses of both stages. The steroid drop is important for two aspects of the eclosion hormone system: it causes target tissues to become sensitive to the peptide and it is a prerequisite for the subsequent release of eclosion hormone itself. ”[1] [James: 1983]. I believe that our treatment that kept removing 20E from the Manduca sexta caterpillars blocked such signal transporting pathway. According to the figure “The levels of 20E and JH from 4th larval instar to adult in Manduca. (Adapted from Figure 1 of Weeks (2003) Progress in Neurobiology 70: 421-422.)”[2], there are significant peak created by increases and drops in 20E concentration before larval eclosion and pupal eclosion. The observation in this experiment that treatment group individuals undergo delayed pupate and incomplete pupa stage could be the result of loss of 20E peaks that trigger the eclosion process to happen. By feeding treatment group individuals with small amount of chemicals that remove 20E from caterpillars’ systems, we are able to delay the eclosion processes regulated by 20E hormones. However, incomplete pupate in treatment group individuals suggests that our 20E reducing agent are not concentrated enough to completely prevent the 20E from triggering the eclosion process.
+
+Considering the insufficient amount of sample been used in our experiment, larger experiment with more samples could be tested. Given the fact that our sample individuals weighed are not similar enough, we failed to keep this initial weight well controlled. Additionally, more researches could be conducted on the relation between 20E concentration and the process of eclosion with more detailed. 
+
+Literature Cited:
+1.James,W. T., Ruman, Dorothy, B. R., Shirley, E. R., Lawrence,  M. S. (1983). Ecdysteroids regulate the release and action of eclosion hormone in the tobacco hornworm, Manduca sexta (L.). Journal of Insect Physiology, 29(12): 895-900, https://doi.org/10.1016/0022-1910(83)90052-5
+2.Weeks (2003) Progress in Neurobiology 70: 421-422.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=table+1.png&Size=21173&Type=image%2Fpng&F=F_8IES3ILdudfdqFz
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=12132&Type=image%2Fpng&F=F_3qmzm7Iv8SNhXL8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1, The maximum weight change for each caterpillar in control and treatment group.
+Figure 1, the bar chart showing the average maximum weight changes in control and treatment group.*************************************************************************
+
+
+

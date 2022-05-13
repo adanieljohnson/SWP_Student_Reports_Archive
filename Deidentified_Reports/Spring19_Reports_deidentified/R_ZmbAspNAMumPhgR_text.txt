@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-20 14:44:43
+Author of this lab report is: Std_kETOuQ74
+ID: R_ZmbAspNAMumPhgR
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Effect of Sevin on Rate of Tetany in Neuromuscular Control of Rana Pipiens
+
+Abstract:
+This experiment was done in order to determine how quickly, and at what frequency, tetanus would be reached when the sciatic nerve in the legs of the frog, Rana pipiens, was stimulated repeatedly and at higher frequencies.  An acetylcholinesterase (ACh) inhibitor, Sevin, was used to compare its effect to the normal nerve response.  Before any initial measurements, the frog legs were skinned, revealing the gastrocnemius muscle and the sciatic nerve.  The measurements were recorded using direct stimulation in order to determine twitch threshold.  The results show there was a significant difference between the frequency in which tetanus was reached in the frog legs with the Sevin and without it, meaning the alternate hypothesis was supported. 
+
+Introduction:
+The nervous system is unique to animals.  Other species such as plants do not have nerves and rely primarily on a hormone-based system.  Both vertebrates and invertebrates have myofibers which are bound together to form function groups.  Motor neurons innervate several myofibers at neuromuscular junctions.  Acetylcholine (ACh) is released from the presynaptic nerve terminal as a result of nerve impulses arriving at the neuromuscular junction.  When Ach binds with a receptor on the membrane of muscle fiber, it causes sodium channels to open; the concentration gradient of sodium is responsible for the activation of action potentials, which in turn controls the response in the nervous system [Song: 2011].  Subsequently, Ca¬¬¬¬2+ is released from the sarcoplasmic reticulum, which in turn activates the contraction (i.e. muscle shortening).  There are three primary ions that have a significant impact in the neuromuscular control: sodium, calcium, and potassium.  In this experiment, the focus is on muscle contraction, specifically the contraction of the sciatic nerve in the gastrocnemius muscle in the legs of the Northern leopard frog (Rana pipiens).  Sevin is used in this experiment We hypothesize that if the frog legs are given an injection of 2% Sevin, they will reach tetany soon than the frog legs without it. 
+
+Materials and Methods:
+Each group was given 3 frog legs to experiment on.  Each frog leg was to be placed in a dissecting pan.  Forceps were used to grasp the skin on top of the leg and pull it down towards the foot.  Frog Ringer’s solution was used to keep the tissue moist.  A dissecting probe was used to separate the gastrocnemius muscle from the upper end of the knee.  The sciatic nerve was then be removed from the connecting tissue using a dissecting needle and forceps.  The twitch threshold was determined by direct stimulation.  In order to do this, a knot was tied at the end of the gastrocnemius muscle and the leg was hoisted up to the hooks connected to the direct stimulation equipment.  The probes were put into the muscle once the BNC Banana was connected to a computer.  The stimulus (V) was set to 1 and the frequency (F(Hz)) to 10 for each leg.  The frequency was increased by 5Hz until the muscle reached tetany and the points of partial/incomplete and complete/full tetany were recorded.  These initial measurements were for the control group.  For the treatment group, the same steps were repeated but this time, the legs were injected with 2% Sevin.  The frequency (F(Hz)) and response (V) values were recorded.  The frequency was set at 10Hz it was increased by 2.5Hz until complete tetany was reached.  A paired t-test was used for the resulting values.
+
+Results:
+In the control group, partial tetany was reached at 10Hz for all the legs.  Full tetany in the control group was reached at 15Hz for legs 2 and 3, but at 20Hz for leg 1.  In the treatment group, partial tetany was reached at 10Hz for all 3 legs.  Full tetany for legs 2 and 3 was reached at 12.5Hz but for leg 1, full tetany was reached 17.5Hz.  Leg 1 in both the control and treatment group had a longer response time than legs 2 and 3 in both groups.  A paired t-test was used on 2df, the t-value was 751 and the p-value 1.77∙10-6.  Figure 1 shows the difference in frequency at which tetanus was reached between the control and treatment groups; the treatment groups reached tetany at a lower frequency than the control groups. 
+
+Discussion:
+Despite leg 1 having a later response time than legs 2 and 3, the alternative hypothesis was supported because complete tetany was reached faster in the treatment group than the control group.  Complete tetany was reached sooner and at a lower frequency because the Sevin is an acetylcholine inhibitor, which means Ach cannot be broken down and the muscle is in a constant state of contraction, resulting in muscle fatigue.  The main purpose of this experiment is to determine the effects of an acetylcholinesterase inhibitor on muscle contraction.  The results could be used to assist in treating certain medical dilemmas such as inhibitory responses in the brain; ACh is known to “[exert] a presynaptic inhibitory effect on both excitatory and inhibitory afferents to hippocampal pyramidal neurons,” so experiments such as this can help in determining the effects of certain inhibitors on the neural responses muscles receive [Valentino: 1981].  Additionally, synaptic transmission, which is caused primarily by ACh, allows complex cerebral commands to be transduced into muscular twitches.  Sciatic nerve stimulation has been researched and studied in previous years.  Past experiments have shown that there are many uses for it including how it may be used to help in clinical medicine for issues such as kidney stone therapy [Schelling: 1994] and treating patients with disabilities such as the pathological muscle weakness myasthenia gravis (MG) [Petrov: 2018].  There were some technological difficulties when performing the experiment.  The connection between the probe in the muscle and the computer sometimes faltered and the experiment had to be repeated in order to ensure the data was accurate up until then.  Future studies will have to be done in order to determine whether the results were accurate and support the alternative hypothesis. 
+
+Literature Cited:
+1. Schelling, G. “Extracorporeal Shock Waves Stimulate Frog Sciatic Nerves Indirectly via a Cavitation-Mediated Mechanism.” Biophysical Journal, vol. 66, no. 1, Jan. 1994, pp.133–140.
+2. Valentino, RJ, and R Dingledine. Journal of Neuroscience, vol. 1, no. 7, 1 July 1981, pp. 784-792.
+3. Song, Y., Melik, R., Rabie, A. N., Ibrahim, A. M. S., Moses, D., Tan, A., . . . Lin, S. J. (2011). Electrochemical activation and inhibition of neuromuscular systems through modulation of ion concentrations with ion-selective membranes. Nature Materials, 10(12), 980-6. 
+4. Petrov, K. A., Kharlamova, A. D., Lenina, O. A., Nurtdinov, A. R., Sitdykova, M. E., Ilyin, V. I., . . . Nikolsky, E. E. (2018). Specific inhibition of acetylcholinesterase as an approach to decrease muscarinic side effects during myasthenia gravis treatment. Scientific Reports (Nature Publisher Group), 8, 1.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.jpg&Size=64021&Type=image%2Fjpeg&F=F_2YJsyrsUeCwyo6L
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig. 1. Frequency (Hz) at which tetany was reached in both the control and treatment groups. *************************************************************************
+
+
+

@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-13 17:01:06
+Author of this lab report is: Std_VxPhLyKQ
+ID: R_1OKdDbMT5u7YSo3
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Altering Ecdysterone levels in Manduca Sexta caterpillars to change their life cycle
+
+Abstract:
+Manduca sexta caterpillars were threated by decreasing the level of Ecdysterone (20E) hormone to determine if they grow more or less than Manduca sexta that were lived without altering their normal hormonal cycle. I hypothesized that the treatment group would have not developed in an adult stage because I assumed that elevated concentration of aza-guard would cause the range of 20E to be outside its normal range causing abnormalities. We split up eight caterpillars into two groups: a treatment and a control group. The treatment one received aza-guard, a ecdysterone inhibitor, while the control did not. Our p-value for the experiment was of 0.068 which made us conclude that it was not statistical significant, though visibly the experimental group, at the end of the experiment, was significantly smaller than the control one. 
+
+Introduction:
+Manduca Sexta is an insect in the Order Lepidoptera [Johnson:2018], also called tobacco hornworms [Cymborowsky:1981], they undergo holometabolous development [Johnson:2018]. Hormones are important for Manduca Sexta’s development The Manduca Sexta has two hormones that regulate its life cycle: Ecdysterone and Juvenile hormone. Juvenile Hormone drops off in production after the 4th larvae stage while Ecdysterone (20E) temporarily rises. At the 5th larval instar, Juvenile hormone levels drop very low. When the caterpillars are large enough they go through a commitment pulse, signaling them that are ready to pupate into a moth. The commitment pulse happens when there is a second smaller rise in 20E. Adverse conditions affect the life of many insects [Cymborowski:1981]. Aza-guard is a ecdysterone inhibitor because it decreases the levels of 20E hormone. Adding aza-guard will it lead to a different development of the caterpillar life cycle? Moreover, will they not develop into adult stage? We are studying this because in the future, it may be helpful to limit a species to develop into adulthood, using this strategy to eliminate pests in agricultural environment. My hypothesis is: if we add 10 drops of aza-guard, an ecdysterone inhibitor, to 10 grams of food for the manduca sexta, then hormone levels will alter, causing the Manduca Sexta to not develop the adult stage.
+
+
+
+Materials and Methods:
+We picked out 8 Manduca sexta caterpillars weighing between 0.63-1.94 grams and then we divided them into two groups. These two groups, were put into two plastic containers which each of them was divided in four spots (one for each caterpillar). Moreover, in order to make the caterpillars breath we made holes in the container. In order to accomplish the experiment, two diets were proposed: one consisted of ten grams of food (compacted and shaped as a sphere) with ten drops of water, and the other one consisted of ten grams of food (compacted and shaped as a sphere) with ten drops of Aza-guard. 4 caterpillars received the first diet and the other four received the second diet. The caterpillars were numbered and all of them were kept in the same incubator at 28C in 12 hr dark and 12 hr light cycle. The caterpillars’ boxes were cleaned every time there was the need to and their food was replaced every time it became dry or it was over. Moreover, to make the experiment fair, we replaced the food to all the caterpillar anytime just a caterpillar needed new food. To calculate if our test was statistical valuable we used a one tail two samples t test. We compared the mean of rate of change of the control group with the one of the experimental group.
+
+Results:
+Overall, the mean rate of change of the control group is higher than the mean rate of change of the experimental group (fig.2).The values shows that the experimental mean of rate of change is almost 12 times lower compared with the one of control group. Moreover, the standard deviation for the control group is large, so it means that the observations are far from the mean(figure 2.).  The p value found for the experiment is given by the applying a one tail two samples t test. The p value was of 0.068, which is &gt; than 0.05 which means that is not statistically significant. On the other hand, the graph (figure 1.) shows a big difference in growth trend between the control group and the experimental group, the experimental group did not gain as much weight as the control group did, moreover it shows that at the end of the experiment, the experimental group caterpillars died while the subjects in the control group were still alive. 
+
+Discussion:
+Our hypothesis was not statistically confirmed, so it means that the null hypothesis is accepted. As we stated in the result section our hypothesis did not have a statistical significance, but the trends showed in the graph (fig.1) seems proving our hypothesis right, because the experimental group did not gain a lot of weight and actually all of the components of the experimental group died before the end of the experiment, so we need to take in consideration that the assumptions and the results we had may be just a case. By the experiment the null hypothesis is supported so it means that ten drops of aza-guard per ten grams of food does not have (statistically speaking) a significant effect on growth. Though based on empirical observation we would say the opposite. Since the experimental group did not pupate, and the adult body size of a larva is determined by the size of the Manduca Sexta when it begins to pupate [Grunert:2015], we would say that the experimental group did not enter into the adult stage. This suggests us that a way to redo the experiment, in order to make it statistical valid, is to increase the number of tobacco hornworms [Cymborowsky:1981] we use for the experiment. In this way it reduces the chance to classify our experiment as a case. We know that one of the goal of hormones is to regulate the growth. Hormones that regulate the growth of the Manduca Sexta are the JH and the 20E. By knowing that adverse conditions affect the life of many insects [Cymborowski:1981], we need to find out which conditions are going to affect the hormonal level of the Manduca Sexta. This knowledge may lead to many important applications. For example it may be applicable in the field of agricultural industry.
+
+Literature Cited:
+1.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated Augest 2, 2018), pp. 6-12.
+
+2.	Cymborowski, Bronislaw, et al. "Juvenile hormone titres and metabolism during starvation-induced supernumerary larval moulting of the tobacco hornworm, Manduca sexta L." Journal of Insect Physiology 28.2 (1982): 129-135.
+
+3.	Grunert, Laura W., et al. "A quantitative analysis of growth and size regulation in Manduca sexta: the physiological basis of variation in size and age at metamorphosis." PloS one 10.5 (2015): e0127988.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-13+at+4.55.07+PM.png&Size=206313&Type=image%2Fpng&F=F_2SAkrYCzZBK7PC8
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-13+at+4.53.36+PM.png&Size=202720&Type=image%2Fpng&F=F_2RPRzVTFRFDbv1r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+ 
+Figure 1. The weight of the caterpillars in the control (c) and experimental (e) group changed during the days of the experiment.
+Figure 2.  Mean rate of change for both experimental and control groups with standard deviation.  
+*************************************************************************
+
+
+

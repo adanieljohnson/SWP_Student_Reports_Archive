@@ -1,0 +1,77 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-09-25 19:39:14
+Author of this lab report is: Std_uXT65McL
+ID: R_3Jgu1XkFWrJCXuO
+Course number: BIO101L
+TA: TA_23dMbkjX
+*************************************************************************
+Title: The Effect of 20E Inhibitor on the Mass of Manduca sexta Caterpillars
+
+Abstract:
+An abstract is a summary of your work that includes parts of each section of the paper. Even though it is a at the front of a report, the abstract should be the last part of the report that you write. You do not know what you need to summarize until the rest of the report has been written. In about 200 words or less, it should summarize the study's main objective(s), give the scientific name of the organism you studied, and state your hypothesis. It also will summarize the study's background, the methods, major results, and conclusions. You should not include references in your abstract.
+
+Introduction:
+Manduca sexta are insects in the Order Lepidoptera and has several common names such as the tobacco hornworm.  The average life cycle of Manduca sexta lasts around 39-48 days and includes four major stages.  It is an example of a holometabolous life cycle, as the Manduca sexta transform from egg/embryo, larvae, and pupa to an adult.  The larvae do not look similar to adults because of the changes undergone during pupal metamorphosis.  Molting, when insects change in size and/or morphology, is required to move forward from one stage of development to the next [Johnson, Mallison 2019].
+	Insects use both hormone-based and neuron-based signaling in order to control growth, development, behaviors, and physiological processes.  The brain processes information it receives and consequently responds by sending out a signal. These output signals can include brain-derived hormones or electrochemical signals carried by nerves.  They act on target cells to control growth and development, behaviors, and physiology.  These signals can either have activation effects, which cause a change in function, or organizational effects, which change the composition of the insect’s body [Johnson, Mallison 2019].
+	There are three main hormones that control insect development, molting, formation of the pupa, and emergence of adults.  Prothoracicotropic or Brain Hormone (PTTH or BH) regulates the release of ecdysterone by prothoracic glands.  Ecdysterone (20E) is a steroid hormone that controls timing of molting during insect development and affects functions in adults.  Juvenile Hormone (JH) affects the type of molt during development and regulates multiple functions in adult insects.  Juvenile hormones and ecdysterone work together because the concentration ratio signals changes in development.  Manduca sexta have five larval instars that are separated by molts.  JH levels in the insects remain high until the end of the 4th larval instar period, when the JH levels decrease and there is a rise in 20E.  Juvenile Hormone levels drop drastically during the fifth larval instar, and there is another rise in 20E.  This is known as the commitment pulse and triggers pupation. After the commitment pulse, many changes occur during metamorphosis: wandering, gene transcription, thinning of cuticle, appearance of dorsal bars, development of a new, dark brown cuticle [Johnson, Mallison 2019].
+	The presence of ecdysteroids initiates and organizes the insect molt by triggering a cascade of changes at the molecular and cellular level.  Ecdysteroids work by inducing genes that “encode proteins with various types of DNA binding domains” that serve as transcription factors to help regulate the development of insects [Riddiford, Truman 1993].  The production of ecdysteroids by the prothoracic gland in controlled by the neurohormone prothoracicotropic hormone (PTTH).  Modification of ecdysone receptors on the prothoracic gland could affect its ability to synthesize ecdysteroids [Gilbert, Song, Rybczynski 1997].
+It is hypothesized that feeding E20 inhibitors to the Manduca Sexta insects will slow the timing of the molting process during development, resulting in decreased mass gain, and prevent it from pupating at the proper time. 
+
+
+Materials and Methods:
+In this experiment, eight Manduca sexta caterpillars were collected and separated into two groups of four caterpillars.  The initial masses of the caterpillars were recorded and entered into an Excel document.  The first group of caterpillars was fed 10 grams of food mixed with seven drops of water.  This group was the control group.  The second group of caterpillars was fed 10 grams of food mixed with seven drops of 20E inhibitor.  This group was the experimental group.  The mass of each caterpillar was recorded each day to track development.  In addition, the food was replaced and the containers were cleaned as needed.
+	Because two caterpillars from the experimental group died within the first week, another experimental group was created (Experimental Group #2).  An additional four caterpillars were collected, weighed, and placed into a container.  They were each fed 10 grams of food containing seven drops of 20E inhibitor.  Their masses were recorded each day for eight days.
+	The Manduca sexta caterpillars were kept in a plastic container with four compartments: one caterpillar and 10g of food in each.  Two holes were poked through each side of the plastic containers so that the caterpillars received ample oxygen, and they were kept in an incubator throughout the duration of the experiment. The masses of the caterpillars were collected by placing them on an electronic scale each day.  In order to evaluate the results, a two-sample t-test and linear regression were used.  The two-sample t-test compares the mean masses of the caterpillars each day in the control and experimental groups.  The pre-determined p-value for this experiment was 0.05. 
+
+
+Results:
+The Manduca sexta caterpillars in the control group grew at a relatively steady rate, as indicated by their increase in mass.  They matured normally and did not experience any drastic changes in growth.  The only Manduca sexta caterpillar to decrease in mass over the 15-day experiment was #7 (Hitchcock).  The average mass of the four caterpillars in the control group on day one was 0.05 grams.  By the end of the experiment, on day fifteen, the average mass of the four caterpillars was 11.99 grams.  This shows that there was, on average, a 23880% increase in mass over the fifteen day time period.  
+	In the two experimental groups, all but one Manduca sexta caterpillar died during the two weeks the experiment was conducted.  Two caterpillars in experimental group #1 died on day 8, while the remaining two died on days 11 and 13 respectively.  In experimental group #2, three caterpillars died on day 8, while one survived the duration of the experiment. All of the caterpillars in the experimental groups experienced a decrease in mass prior to their death.  In experimental group #1, there was on average a 261% increase in mass over eight days, and experimental group #2, there was on average a 51% increase in mass over eight days.  The Manduca sexta caterpillars in both experimental groups grew much less and at a slower rate than the caterpillars in the control group.
+
+
+Discussion:
+The results of this experiment were significant and reject the null hypothesis.  This is because the p-value found using the t-test was 0.010243, which is less than our p-value of 0.05 set before the start of the experiment.  Thus, it can be concluded that the use of 20E inhibitors on Manduca Sexta caterpillars resulted in stunted growth and development.  20E inhibitors prevent insect development by controlling gene expression involved in molting [Johnson, Mallison 2019].  By inhibiting the release of 20E hormone, the experimental groups of Manduca sexta caterpillars did not produce a signal to molt.  This 20E inhibition caused the caterpillars to grow much slower and experience premature death as shown in Figures 3 and 4.  
+	Because 20E hormone regulates the timing of a molt, suppressing this hormone with the 20E inhibitor prevented the development of the larvae to pupa and adults.  Without ecdysteroids, the genes that serve as transcription factors and regulate growth cannot be turned on.  A study done in 2014 by a group of scientists injected larvae with a form of 20E inhibitor, and 65% died shortly after [Cai, Liu, Pei, et.al. 2014].  The results of this study further support the hypothesis that inhibition of 20E in insects slows development and the molting process.
+	In future studies, it would be possible to further test the effects of 20E inhibition on Manduca sexta by feeding the caterpillars food with varying concentrations of 20E inhibitor.  This would enable scientists to make additional observations about the extent 20E affects growth and the molting process.  If conducting a similar study, it would be beneficial to ensure that all Manduca sexta caterpillars are approximately the same age and/or mass at the start of the experiment to better control the influence of other variables.
+ 
+
+
+Literature Cited:
+Johnson AD, Mallison S. 2019. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 19.2 (updated July 8, 2019), pp. 6-13.
+Riddiford LM, Truman JW. 1993. Hormone receptors and the regulation of insect metamorphosis. American Zoologist, 33, pp.340-347.
+Gilbert LI, Song Q, and Rybczynski R. 1997. Control of ecdysteroidogenesis: activation and inhibition of prothoracic gland activity. Invertebrate Neuroscience, 3, pp.205-216.
+Cai, Liu W, Pei X, Li X, He H, Wang J, and Zhao X. 2014. Juvenile Hormone Prevents 20-Hydroxyecdysone-inducedMetamorphosis by Regulating the Phosphorylation of a Newly Identified Broad Protein. The Journal of Biological Chemistry, 289, NO. 38, pp. 26630–26641.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+3+bio+lab+1.PNG&Size=19623&Type=image%2Fpng&F=F_W6x4SWSsYJMTryh
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+4+bio+lab+1.PNG&Size=20298&Type=image%2Fpng&F=F_1LidT2NuZGua3Jg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This picture shows the Manduca sexta caterpillars in the control group on day 15 of their development.  The average mass of the 4 caterpillars was 11.99 grams.
+Figure 2. This picture shows the Manduca sexta caterpillars in the experimental group #2 on day 15 of their development.  The average mass of the 4 caterpillars was 0.796 grams.
+Figure 3.  Effect of 20E inhibition on the mass of manduca sexta caterpillars.  The control group (blue line) showed a greater increase in mass at a faster rate than the experimental group (orange line) treated with 20E inhibitor.  Mass was measured once a day for 15 days using an electronic scale. Each dot represents the mean mass of the four caterpillars on a specific day.
+Figure 4. Effect of 20E inhibition on the mass of Manduca sexta caterpillars.  The control group increased in mass at a significantly quicker rate as shown by the linear regression equation.  The 20E Inhibition group (Experimental group #2) very slightly increased in mass over the 15 day experiment, and at a much slower rate than the control group.*************************************************************************
+
+
+

@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-04-05 16:23:45
+Author of this lab report is: Std_UJ6Q9Hxg
+ID: R_2UYOc8PufRzWvWq
+Course number: BIO102L
+TA: TA_180JS8gb
+*************************************************************************
+Title: The Effects of Varying Light Strength on the Oxidation of water in spinach leaves
+
+Abstract:
+One of the main products of photosynthesis is diatomic oxygen (O2). Diatomic oxygen is made in photosystem II when water is oxidized to form O2. In our experiment the goal was to determine the effects of varying light levels of 600, 1300, and 1630 lumens on the oxidation of water in the chloroplasts of spinach leaves. We measured the oxidation of spinach leaves via spectrophotometry using DCPIP, an optically active chemical that is electrophilic. We calculated the percent change of absorbances from our samples in 600, 1300, and 1630 lumens to be 58.37, 90.22, 88.79 respectively. We found no significant difference between the light levels and our null hypothesis could not be rejected. Further study on fluctuating levels would be compelling due to plants daily challenge of accommodating varying levels of light.  
+
+Introduction:
+Photosynthesis is the process by which most plants and some microorganisms derive their energy from the sun. Photosynthesis involves the excitation of electrons to generate a proton gradient which allows for the formation of ATP. Photosynthesis is composed of two protein complexes, photosystem I and photosystem II. Photosystem II is the protein complex in photosynthesis that allows for electrons to be excited through the oxidation of a water molecule which is mediated by photons of light (AD Johnson: 2017). The mechanism by which water is oxidized in photosystem II has been debated, but there are two arguments that are currently at the forefront: one that involves oxo-oxyl radical coupling and another based on nucleophilic attack; these mechanisms have been based on x-ray crystallography and theoretical calculations (Shen: 2015). This splitting of a water molecule is ultimately driven by the light sensitive pigment P680 (Shinkarev et al: 1997). The general redox reaction of the splitting of water is shown in Figure 1. The mechanism of water oxidation and electron excitation in photosynthesis allows for the role of electron acceptors to manipulated by using different protein acceptors. Researchers in 2016 found that by inhibiting two cyclic electron flows (CEF) around photosystem I in rice (Oryza sativa L.), photosynthetic rates were reduced after sudden irradiation of light. These fluctuations of light resulted in a loss of biomass; Their research lends support to the protein complexes that facilitate electron flow are crucial in the maintenance of photosynthesis (Yamori et al: 2016). These findings altogether show that varying light levels can have lasting and measurable effects on plants. 
+
+In our experiment, we decided to determine the effects of varying light levels on photosystem II, since varying light levels had an effect on photosystem I. We also wanted to determine if there was a saturation point of photosynthetic rates and which light level had the greatest effect. We decided that we would use spinach leaves as our model organism, because they are inexpensive, easy to access, and the chloroplasts from spinach leaves are easily extracted. Light bulbs with varying levels of lumens will be used as the sources of light. To measure the rate of water oxidation we decided to use the Hill assay. Instead of donating the electrons to a protein complex, in the Hill assay, the chemical DCPIP is used as an electron acceptor and is blue when oxidized. Therefore, as the chloroplasts absorb light and oxidize water, DCPIP readily accepts the electrons from the split water molecules and changes from blue to clear (AD Johnson: 2017). This allows us to measure the absorbance of each prepared sample. In the presence of more light, the oxidation of photosystem II might increase; meaning that the amount of light and the oxidation reactions of photosystem II could be directly related.
+
+
+Materials and Methods:
+Beginning the experiment, we obtained spinach leaves from our graduate teaching assistant. The leaves were stored in a refrigerator overnight at 0-5°C. The leaves were ground in a mortar & pestle with cold grinding buffer until the leaves were a slurry like mixture and strained through a cheese cloth to remove any debris. The sample was then poured into a 50mL centrifuge tube and spun at 200 × G for 3 minutes at 4° C. After this centrifuge, the supernatant of the sample was poured into another centrifuge tube and spun at 1000 × G for 10 minutes at 4° C. The first centrifuge run was at a lower force, because it was used to separate the chloroplasts from any debris. The debris would have a higher density than the chloroplasts and would be situated at the bottom. The second centrifuge was run at a higher force, because it would allow for the greatest concentration of chloroplasts to be separated at the bottom. Only the solid at the bottom of the second tube was mixed with 20 mL of grinding buffer and resuspended by stirring. This is the sample that we used for the Hill assay. The sample absorbance was measured at 600 nm with a Spectronic 20 Genesys, because this wavelength allowed for the maximum absorbance of blue light. (AD Johnson: 2017). We tested three levels of light at 600, 1300, and 1630 lumens; we put a set of samples in a dark drawer as the control. We made three replicates for each light level including the samples placed in a dark drawer and a blank was also prepared. All of the test tubes except the blank and one set of the triplicates contained 100 μL of chloroplasts, 6 mL of water, and 2 mL of 6.5 pH reaction buffer; the blank contained no DCPIP and the other triplicate had no chloroplasts. After 2 mL of 130 mM DCPIP was added to the appropriate samples, each sample absorbance was measured at 10 minute intervals for 30 minutes. We calculated the percent change of absorbed light for each replicate set and used a statistical two tailed t-test determine significance.
+
+Results:
+From our lab we determined the percent change of absorbance for 600, 1300, and 1630 lumens to be 58.37 ± 23%, 90.22 ± 6.44, and 88.79 ± 5.59, respectively. From our results we calculated that there was no statistical significance when comparing the percent absorbance between 600 and 1630 lumens, t(4) = 1.52, p = 0.2033. We also determined that there was no statistical significance between the 600 and 1300 lumens, t(3) = 1.79, p = 0.1714. We were not able to determine a saturation point of photosynthetic rates. 
+
+Discussion:
+Photosynthesis is crucial for the homeostatic processes of a plant. According to our hypothesis, we were expecting that there would be a significant effect on oxidation by the amount of light. Although the percent changes of light in the 1300 and 1630 lumen light bulbs are greater than the 600 lumen light bulb, there is not enough statistical significance to say that these higher light levels have a greater effect on the oxidation that occurs in photosystem II. We were not able to determine a saturation point of photosynthetic rates since we could not find a significant difference between the different light levels. Researchers in a 2013 study found that flowers in the species Arabidopsis thaliana who had adjusted to low light conditions had greater concentrations of light absorbing proteins in photosystem II. The researchers saw that varying light levels had no effect on these plants when compared to flowers that had acclimated to high light levels (Kouřil et al). Researchers in a 1997 study also using flowers in the species Arabidopsis found that when exposed to temperatures at 5°C there was a 55% decrease in photosystem II chemical efficiency in unacclimated plants (Prafullachandra et al). These studies together could lead to possible sources of confounded error, as to why we did not get significant results. If the spinach leaves that we were using acclimated to low light levels, then fluctuating varying levels of light would not have an impact on their oxidative rates. Since the leaves were kept overnight in a refrigerator and according to the study in 1997, this could reduce the photosynthetic rates of the leaves if they were not acclimated to cold temperatures. Another possible source of confounded error is we could not determine the age or health of the spinach leaves, which could also have an impact on photosynthetic rates. During our experiment, one of our samples spilled which reduced the amount of solution in the cuvette and this would reduce the accuracy of the sample absorbance measured by the spectrophotometer. In future experiments it would be interesting to determine how various light levels affect glucose production, instead of solely observing the mechanistic effects of light fluctuations on the early stages of photosynthesis. Since glucose is the main product of photosynthesis that concerns plants, looking at the implications of light levels at the end of photosynthesis would allow for a better understanding of how light levels could affect the metabolic pathways of a plant. Studying fluctuations of light levels is important, because plants deal with fluctuating light levels daily and studying this in more depth would provide a better perspective into the life of a plant.
+
+Literature Cited:
+1.	Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (last updated 2 August 2017) pp. 37.
+2.	Shen, J.-R. (2015). The Structure of Photosystem II and the Mechanism of Water Oxidation in Photosynthesis. Annual Review of Plant Biology, 66(1), 23–48. https://doi.org/10.1146/annurev-arplant-050312-120129
+3.	Shinkarev, V. P., Xu, C., Govindjee, & Wraight, C. A. (1997). Kinetics of the oxygen evolution step in plants determined from flash-induced chlorophyll t a fluorescence. Photosynthesis Research, 51(1), 43–49. https://doi.org/10.1023/A:1005721910729
+4.	Yamori, W., Makino, A., & Shikanai, T. (2016). A physiological role of cyclic electron transport around photosystem I in sustaining photosynthesis under fluctuating light in 
+rice. Scientific Reports (Nature Publisher Group), 6, 20147. http://dx.doi.org/10.1038/srep20147 Retrieved from http://go.libproxy.wakehealth.edu/login?url=https://search.proquest.com/docview/1899016921?accountid=14868
+5.	Kouřil, R., Wientjes, E., Bultema, J. B., Croce, R., & Boekema, E. J. (2013). High-light vs. low-light: Effect of light acclimation on photosystem II composition and organization in Arabidopsis thaliana. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1827(3), 411–419. https://doi.org/10.1016/j.bbabio.2012.12.003
+6.	Prafullachandra Vishnu Sane, Alexander G. Ivanov, Vaughan Hurry, Norman P. A. Huner, & Öquist, G. (2003). Changes in the Redox Potential of Primary and Secondary Electron-Accepting Quinones in Photosystem II Confer Increased Resistance to Photoinhibition in Low-Temperature-Acclimated Arabidopsis. Plant Physiology, 132(4), 2144-2151. Retrieved from http://www.jstor.org/stable/4281292
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=reaction+for+214+report+1.JPG&Size=16205&Type=image%2Fjpeg&F=F_1kRcOeemEJdb4zj
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=chart+for+214+report+one.JPG&Size=19981&Type=image%2Fjpeg&F=F_3EszUeud54ridn4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Oxidation of water in photosystem II (AD Johnson: 2017)
+Figure 2. The calculated percent change of the measured absorbance of DCPIP reduction during the oxidation of water in solution with chloroplasts. Three replicates of the solution were used for each light level, a control group was placed in a dark drawer.  Each bar represents the percent change over a 30 minute period, measured in ten minute intervals. The error bars are set with the combined percent change standard deviations of each light strength. 
+
+*************************************************************************

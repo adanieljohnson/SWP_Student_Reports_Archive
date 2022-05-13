@@ -1,0 +1,50 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-18 13:27:29
+Author of this lab report is: Std_vKZWHWzL
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effect of lidocaine on twitch threshold in gastrocnemius muscle of Rana pipiens
+
+Abstract:
+This study explored the effect of lidocaine on the muscle twitch threshold of Rana pipiens gastrocnemius muscle exposed to direct electrical stimulation.  We hypothesized an increase in twitch threshold in the presence of lidocaine, because of its inhibitory effects on the sodium channels of muscle cells that allow for depolarization and the generation of action potentials.  Three Rana pipiens gastrocnemius muscles were subjected to individual direct electrical pulses at increasing voltages until a muscle twitch was observed; the procedure was repeated after each muscle was injected with a lidocaine solution.  Although an increase in muscle twitch threshold was observed for all three gastrocnemius muscles tested following lidocaine injection, the difference was not significant.  
+
+Introduction:
+When open, sodium-ion channels in the membranes of a skeletal muscle cell allow sodium ions to flow into the cell, depolarizing it and generating action potentials that spread throughout the muscle fiber and lead to muscle contraction [Johnson: 2017].  Lidocaine is a local anesthetic that has been shown to decrease sodium current in cardiac sodium channels [Sanchez-Chapula, Tsuda, Josephson: 1983].  Additionally, lidocaine-derivative drugs used to treat myotonia (muscle hyperactivity) work by inhibiting voltage-gated sodium channels in muscle cell membranes, thus preventing the propagation of action potentials that lead to muscle contraction [De Luca, Pierno, Natuzzi, Franchini, Duranti, Lentini, Tortorella, Jockusch, Camerino: 1997].  Predicting that fewer action potentials stimulating muscle contraction would be fired in the absence of depolarizing sodium ions, we hypothesized an elevated twitch threshold in Rana pipiens gastrocnemius muscles treated with lidocaine.  The large leg muscles of Rana pipiens, (Northern Leopard frog), used in this study enabled the muscle twitches to be observed easily.  
+
+Materials and Methods:
+Three Rana pipiens legs were prepared by removing the skin from the legs and isolating the gastrocnemius muscle by severing the Achilles tendon.  Each muscle was suspended from a force transducer perpendicular to the ground.  Pin electrodes are applied to the gastrocnemius muscle and an electrical stimulus was applied directly to the gastrocnemius muscle, beginning at 0.1 V; the voltage of the pulse was increased by increments of 0.1 V until a muscle twitch was visually observed.  Twitch threshold and the amplitude of the twitch at threshold were recorded for each muscle.
+Each muscle was then injected with 0.1 mL of 25 mM lidocaine in frog Ringer’s solution and allowed to rest for 5 minutes.  Each muscle then received electrical impulses in the same manner as before, until a twitch was observed. 
+The data were treated with a one-tailed paired t-test comparing the twitch threshold of each muscle before and after lidocaine injection.
+
+
+Results:
+While muscle twitch threshold did increase after lidocaine treatment in all three muscles (Figure 1), there was not a statistically significant difference in threshold before and after lidocaine treatment (t-stat = 4, df = 2, P = 0.0572).  Muscle twitch amplitude decreased after lidocaine injection in each trial (Figure 2).  
+
+Discussion:
+The twitch threshold of each muscle was elevated after lidocaine treatment, which was consistent with our hypothesis.  However, the increase in threshold fell short of statistical significance (P = 0.0572).  Because the difference in threshold between the treated and untreated muscles was close to significant, more repetitions would be warranted in a future study, which might determine with greater confidence whether the difference is significant.  Although this study was not concerned with the amplitude of the muscle twitch at threshold, it is noteworthy that the amplitude of the muscle twitches at threshold decreased following lidocaine injection.  This finding is consistent with findings in literature; one study reported lowered action potential amplitudes in healthy mouse intercostal muscle after treatment with a sodium channel blocker [De Luca, Pierno, Natuzzi, Franchini, Duranti, Lentini, Tortorella, Jockusch, Camerino: 1997].  One possible explanation for this phenomenon is that the sodium blocker was reducing the amount of muscle tissue that was activated by the pulse.  However, since the amplitude of the twitch in Muscle 3 prior to lidocaine injection was also very small, it is possible that the very small amplitudes were due to the movement of the muscles relative to the force transducer; i.e., if the motion of the muscle twitch was parallel to the ground rather than perpendicular, the force exerted on the force transducer may not have been the full force of the twitch.  In future experiments, the apparatus could be modified, or a different muscle studied, in order to minimize the possible effects of a lateral twitch.  
+
+Literature Cited:
+1.	Johnson, AD.  Neuromuscular Control.  Comparative Physiology BIO 114 Laboratory Manual.  Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 17.2 (updated August 2, 2017), pp. 19.
+2.	 J Sanchez-Chapula, Y Tsuda and IR Josephson. 1983. Voltage- and use-dependent effects of lidocaine on sodium current in rat single ventricular cells. Circulation Research. 52: 557-565.
+3.	Annamaria De Luca, Sabata Pierno, Fedele Natuzzi, Carlo Franchini, Andrea Duranti, Giovanni Lentini, Vincenzo Tortorella, Harald Jockusch and Diana Conte Camerino.  1997.  Evaluation of the Antimyotonic Activity of Mexiletine and Some New Analogs on Sodium Currents of Single Muscle Fibers and on the Abnormal Excitability of the Myotonic ADR Mouse.  Journal of Pharmacology and Experimental Therapeutics.  1: 93-100.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=114+Lab+1+Figure+1.JPG&Size=34919&Type=image%2Fjpeg&F=F_8iT95UAL5sPBrEN
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=114+Lab+1+Figure+2.JPG&Size=31569&Type=image%2Fjpeg&F=F_20uSE3P3lJZEmax
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1.  Twitch threshold of Rana pipiens gastrocnemius muscle before and after lidocaine injection.
+
+Figure 2.  Twitch amplitude of Rana pipiens gastrocnemius muscle before and after lidocaine injection.  Amplitude of Muscle 3 after treatment was too small to be detected by the computer, but a twitch was observed.  
+
+*************************************************************************

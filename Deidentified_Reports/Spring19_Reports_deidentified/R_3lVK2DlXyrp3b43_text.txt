@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-03-25 23:00:44
+Author of this lab report is: Std_sqvQ5CsH
+ID: R_3lVK2DlXyrp3b43
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: Role of anthocyanins in photosynthetic activity of purple lettuce plants
+
+Abstract:
+Photosynthesis is a critical process in plant function and the rate at which cells photosynthesize changes depending on environmental conditions and phenotypic characteristics in order to maintain optimal conditions within the cell. Photosystem II is a complex present in the electron transport chain of photosynthesis, and observing changes in the reductive activity of photosystem II can be used to determine the impact of various factors on the rate of photosynthesis. In this experiment, the impact of the phenotypic expression of anthocyanins in purple lettuce on photosynthetic activity was analyzed by comparing the activity of photosystem II to that in green lettuce leaves. It was hypothesized that the presence of anthocyanins would shield chloroplasts from sunlight, reducing the photosynthetic rate when compared to green lettuce. A spectrophotometer was used to analyze the change in absorbance over time of chloroplast samples from green and purple lettuce plants as a result of the reductive activity of photosystem II. Results of the experiment showed that the presence of anthocyanins did not have a significant effect on the rate of photosynthesis in purple lettuce plants. 
+
+
+
+Introduction:
+The chloroplasts of plant cells carry out a series of reactions during the process of photosynthesis to produce stored energy for the cell. Molecules called photosystem I and photosystem II are part of the electron transport chain, a critical process in producing energy in the form of ATP. The electron transport chain couples the production of an H+ gradient across the thylakoid membrane with the reduction of NADP, which is then used to produce ATP for the cell. Research shows that the activity of photosystems I and II depend on the environmental conditions of the plant, such as light, presence of herbicide, and many others. One way to quantify this difference in activity is by measuring the presence of alternative electron acceptors, such as DCIP in the Hill Reaction. When DCIP is reduced by photosystem II, it changes from blue to colorless, and this change in absorbance can be analyzed using a photospectrometer. This experiment looked at the effect of phenotypic characteristics on the activity of photosystem II. Specifically, the experiment aimed to determine whether or not the dark purple pigment of purple lettuce leaves affects the activity of photosystem II when compared to green lettuce leaves. Unlike green lettuce, purple lettuce leaves contain molecules called anthocyanins that give the leaves dark purple pigmentation. The results of a study conducted on poinsettia plants showed that anthocyanin pigment accumulated when the leaves were exposed to high intensity light, functioning to reduce the intensity of light reaching the chloroplasts [Trojak: 2017]. Another study conducted on Alaskan Arctic Evergreens found that anthocyanin pigmentation protected the plants from damage due to high radiation levels during the growing season [Oberbauer: 2002]. Anthocyanins likely play a similar protective role in purple lettuce leaves as in evergreen trees and poinsettias, reducing the rate of photosynthesis when compared to plants lacking purple pigmentation. It was hypothesized that the presence of anthocyanins in purple lettuce leaves would shield the leaf from sunlight, decreasing the rate of reduction of DCIP, causing a lesser change in absorbance the green leaves. 
+
+
+Materials and Methods:
+Ten test tubes were labelled blank and 2-10. Four purple lettuce leaves were acquired and ground with a mortar and pestle using 20.0 mL cold grinding buffer, then strained through a cheesecloth into a beaker. The same was performed for four green lettuce leaves. The sample-B pellet was prepared by first transferring 50. mL of the grinded solution into a 50-mL centrifuge tube. The tube was spun at 200 x G for 3 minutes at 4 °C. The supernatant was collected and transferred into another 50-mL tube, which was spun at 1000 x G for 10 minutes at 4 °C. The pellet was collected and mixed with 20.0 mL grinding buffer. Samples #2-10 were prepared with 6.0 mL water, 2.0 mL 130 mM DCIP, and 2.0 mL reaction buffer. 100 microliters of the purple lettuce chloroplast solution were added to #2-4, and 100 microliters of the green chloroplast solution to #5-7. Tubes #8-10 were negative control samples and did not contain chloroplast sample. The blank sample was prepared with 8.0 mL water, 2.0 mL reaction buffer, 100.0 microliters of the green chloroplast sample, and was used to blank the spectrophotometer at 600 nm. The absorbance of all samples was immediately taken at T0 and recorded. All samples were placed in light for 10 minutes, and the absorbance recorded at T10. The process was repeated for T20 and T30. The change in absorbance over time was calculated, and the results analyzed using a two sample T-test.
+
+
+Results:
+This experiment aimed to determine the difference between the activity of photosystem II during photosynthesis in green and purple lettuce leaves. Spectrophotometry was used to analyze the change in absorbance over time of green and purple chloroplast samples as DCIP was reduced during photosynthesis, changing from blue to colorless. The results of the experiment showed similar patterns of change in absorbance for green and purple chloroplast samples over the 30-minute period. This trend can be observed in Figure 1 showing the percent of initial absorbance at T0 after each 10-minute period. Samples containing green chloroplasts averaged 86.8% of initial absorbance after 30 minutes, and samples containing purple chloroplasts averaged 87.3%. Both values were observably lower than that of the negative control sample. The results of a two sample T-test showed that there was no significant difference between the percent change in absorbance from T0 to T30 for purple and green lettuce (t=0.074, df=4, p=0.944). The color of the lettuce leaf had little effect on change in absorbance over time.
+
+
+Discussion:
+The results of this experiment reject the hypothesis that purple lettuce chloroplast samples would demonstrate a lesser change in absorbance over time than green leaves. The insignificant difference between the percent of initial absorbance after 30 minutes for purple and green samples with a high p value indicates that the presence of anthocyanins did not have a significant effect on the activity of photosystem II during photosynthesis. The relatively consistent absorbance readings after each 10-minute interval for both samples show that DCIP was reduced by photosystem II at a similar rate in both green and purple lettuce chloroplasts. The results lead to the conclusion that anthocyanins may not play as significant of a role in photosynthesis as was predicted and indicated by previous studies. However, it is essential to consider other possible interpretations of the data. It was observed that, following centrifugation, B-pellet samples for green and purple lettuce chloroplasts were nearly indistinguishable shades of green. It is possible that the process of centrifugation caused the anthocyanins to separate from the chloroplasts, preventing the anthocyanins from providing a protective mechanism against sunlight, and reducing photosynthetic rate. The results of the experiment would thus be invalid because the independent variable of purple pigmentation would no longer exist. In order to effectively analyze the difference in photosynthetic activity between purple and green lettuce, the experiment must be modified so that the anthocyanins are present in the purple lettuce chloroplast sample throughout analysis. Or, rather than isolating the chloroplasts, O2 production of purple lettuce plants could be compared to that of green lettuce leaves as a way to analyze photosynthetic activity. Further experimentation with anthocyanins in different fruits and vegetables, as well as other plants, can provide scientists with a better understanding of how anthocyanins evolved and what additional purposes they serve in plant cells. One study conducted on Arabidopsis found that anthocyanins were produced in response to reactive oxygen species (ROS) that cause oxidative stress in the cells, demonstrating that anthocyanins may have purposes in the cell beyond shielding from radiation [Xu: 2018]. By observing the conditions under which anthocyanins are produced in cells, scientists can make conclusions about the functions of anthocyanin pigmentation.
+
+
+Literature Cited:
+1.	Oberbauer S, Starr G. 2002. The Role of anthocyanins for photosynthesis of Alaskan Arctic Evergreens during snowmelt. Advances in Botanical Research. 37: 130-142.
+2.	Trojak A, Skowron E. 2017. Role of anthocyanins in high light stress response. World Scientific News. 81(2): 150-168.
+3.	Xu Z, Rothstein S. 2018. ROS-Induced anthocyanin production provides feedback protection by scavenging ROS and maintaining photosynthetic capacity in Arabidopsis. Plant Signaling & Behavior. 13:3.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-25+at+9.07.16+PM.png&Size=60232&Type=image%2Fpng&F=F_2Y99erdezq18RAp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Percent of initial absorbance at T0 after 10, 20, and 30 minutes of exposure to sunlight for purple and green lettuce plants compared to negative control. *************************************************************************
+
+
+

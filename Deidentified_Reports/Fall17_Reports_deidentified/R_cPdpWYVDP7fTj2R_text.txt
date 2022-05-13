@@ -1,0 +1,44 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-30 20:54:36
+Author of this lab report is: Std_O8NC37dh
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: The Effect of Lidocaine on Gastrocnemius Muscle Contractions in Rana Pipiens
+
+Abstract:
+In this lab, we tested the effect that lidocaine would have on muscle contractions of the gastrocnemius muscle in Rana Pipiens. Lidocaine acts as a sodium channel blocker in neurons, which effects signal propagation.  We hypothesized that the voltage threshold needed for a muscle contraction would increase with the injection of lidocaine. We tested three different frog legs by measuring threshold voltage before and after the injection of lidocaine and comparing the values. Threshold voltage increased in two of the legs, which appeared to support our hypothesis, but the data was not statistically significant as seen by the paired t-test we performed. The increase in threshold was likely a result of lidocaine’s inhibitory effect on the sodium channels in neurons, which prevented muscle contractions from occurring until a much higher voltage was applied. 
+
+Introduction:
+The goal of this experiment is to observe the effect of a sodium channel blocker, lidocaine, on muscle contractions. This will help us further understand neuromuscular control and how certain chemicals affect it. Lidocaine works by blocking fast voltage-gated sodium channels in neurons. Opening of sodium channels sends an action potential, which causes calcium to be released from the sarcoplasmic reticulum in the muscle. When calcium is present, the contractile mechanism of the muscle is able to function, and therefore muscle contractions occur. When lidocaine is present, the neuron will not depolarize and will therefore not send an action potential and cause a muscle contraction. A study conducted on rats showed that when lidocaine was injected to block the sciatic nerve, all sensory function were nonresponsive. This shows that the presence of lidocaine blocks the nerve function in that area. [Nakamura: 2003] For this experiment, we used frog legs from the Northern Leopard Frog, Rana Pipiens. This was a useful study organism because it was small enough to easily handle in lab and still observe easily with the naked eye. It was also a useful organism because their leg muscles are very well developed since they need to jump often. Also, the gastrocnemius muscle in this organism is similar to the one in humans, which allows us to generalize our results from this experiment to humans. We will be injecting the gastrocnemius muscle in the frog leg with lidocaine, and comparing its contractions to those of the muscle before lidocaine was administered. We hypothesize that when lidocaine is administered to the gastrocnemius muscle of the frog, the threshold voltage to get a contraction will increase. 
+
+Materials and Methods:
+We were given 3 frog legs, which we then skinned to reveal the muscle and nerves which we would be working with. We disconnected the gastrocnemius muscle at the Achilles tendon and tied one end of the muscle to a force transducer at a 90˚ angle. We also pinned down the rest of the leg to ensure it stayed in place during muscle contractions. We then isolated the sciatic nerve and connected it to an electrode for stimulation. We stimulated the muscle in .1 V increments until we found the threshold voltage. The leg was stimulated 3 times at the threshold voltage and myograms of the contractions were recorded using LabScribe software. The gastrocnemius muscle was then injected with .2 mL of 25 mM lidocaine solution and allowed to sit for 5 minutes. We then stimulated the muscle in .1 V increments again to find the threshold voltage now that lidocaine had been added, and we stimulated the muscle three times at the threshold voltage and recorded the force of the contractions. Ringer’s solution was used as needed to maintain the muscle throughout the experiment. This process was repeated for the next two frog legs. A paired t-test was used in the analysis of the data. 
+
+Results:
+Frog legs two and three both had threshold voltages of .2 V before injection of lidocaine. After injection, leg 2 was stimulated up to 15 V and still had no contraction and leg 3 had a contraction at 1 V. The threshold voltage was lower in the control group. This is shown in Figure 1. Our paired t-test gave us a p-value of .055052, a t-value of 2.4916, and a degrees of freedom value of 5, showing our data is not significant. 
+
+Discussion:
+The hypothesis that the threshold voltage needed to get a contraction would increase after the injection of lidocaine appeared to be supported by our experiment. However, we had a p-value greater than .05, which means our results are not significant, and therefore our hypothesis is not statistically supported. In legs 2 and 3, there was in increase in the threshold voltage after the injection of lidocaine, which was in line with our hypothesis. The threshold voltage increase in those legs is likely a result of the lidocaine acting as expected by blocking sodium channels and not allowing action potentials to be fired and cause muscle contractions. However, in leg 1 the threshold voltage decreased after injection of lidocaine, and we therefore treated that data as an outlier. The reason for this could have been because the tension in the string changed, which would give a different voltage value in the software, or we may not have waited long enough for the lidocaine to have an effect. The temperature of the muscle may have also affected the force of the muscle contractions we measured. A study conducted showed that there was in increase in the power of muscle contractions in Rana Pipiens based on the temperature [Hirano: 1984]. Our experiment could have been improved if we had more legs to test because we would have more data to compare and would get a better idea of if our data was due to chance or was actually statistically significant. This experiment was not able to prove the expected effects of lidocaine, but showed that there is reason to conduct further tests in order to confirm its effects on muscle contractions. 
+
+Literature Cited:
+1. Tadashi Nakamura, M.D.; Frederique Popitz-Bergez, M.D.; John Birknes, M.D.; Gary R. Strichartz, Ph.D. 2003. The Critical Role of Concentration for Lidocaine Block of Peripheral Nerve In Vivo  : Studies of Function and Drug Uptake in the Rat. Anesthesiology. 99: 1189-1197. 
+
+2. Michio Hirano, Lawerence C. Rome. 1984. Jumping Performance of Frogs (Rana Pipiens) as a Function of Muscle Temperature. Journal of experimental Biology. 108: 429-439.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-10-30+at+8.53.41+PM.png&Size=111422&Type=image%2Fpng&F=F_9ZvVA9J1e2ohtGZ
+
+
+
+
+
+
+
+
+Figure Legends: 
+(Figure 1- This shows the stimulus voltage needed to reach threshold for each leg before and after injection of lidocaine. Leg 2 shows a value of 0 for after injection because it was stimulated up to the maximum voltage of 15 V and still had no contraction. Leg 3 showed an increase of threshold after injection of lidocaine from .2 V to 1 V.)
+
+*************************************************************************

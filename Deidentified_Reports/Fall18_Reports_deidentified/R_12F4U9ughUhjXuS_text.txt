@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-30 19:15:55
+Author of this lab report is: Std_8nYvUVPv
+ID: R_12F4U9ughUhjXuS
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The Effects of dibutyryl-cAMP on the Protein Kinase A Pathway in Physarum polycephalum
+
+Abstract:
+Hypothesized that there would be a small, positive phototaxic effect in the physarum in the presence of dibutyryl-cAMP. Done by soaking plates in dibutyryl-cAMP and curcumin, then placing organism. Half of the plate went in low level light, other half in dark overnight and then measured growth next morning. Two one way ANOVA tests were ran to test if there was a significant difference between the means, it was found with a p &lt; 0.05. It can be concluded that the protein kinase A pathway was activated and that cAMP pathway was active in low levels of light. Future research can be done using this to test for kinase specific cancer treatments.
+
+
+Introduction:
+Slime molds, a member of the fungi, are divided into three main groups. The first plasmodial slime molds, second, cellular slime, and third, Labyrinthulomycota. Our organism Physarum polycephalum, are a member of the first group which means they are basically enormous single cells with thousands of nuclei. They are formed when individual flagellated cells swarm together and fuse. The result is one large bag of cytoplasm with many diploid nuclei [USU 2018]. These "giant cells" have been extremely useful in studies of cytoplasmic streaming because it is possible to see this happening even under relatively low magnification [Yoshiyama 2009]. In addition, the large size of the slime mold "cell" makes them easier to manipulate than most cells and they grow very rapidly. The Physarum signalling pathway is regulated by a G-protein coupled receptor. Therefore, a ligand binds to a GPCR activating Gs, sending the alpha subunit to activate adenylyl cyclase converting ATP to cAMP the secondary messenger in this pathway [Schaap 2016]. In our experiment, we were wondering how activation the protein kinase A (which responds to cAMP) in the pathway could affect the phototaxis in physarum under low levels of white light. We hypothesized that there would be a small, positive phototaxic effect in the physarum.
+
+
+Materials and Methods:
+The first step is to obtain 18 PDA plates and label appropriately with control with light 1-3, control without light 1-3, Inhibitor (curcumin) with light 1-3, Inhibitor (curcumin) without light 1-3, Activator (dibutyryl-cAMP) with light 1-3 and Activator (dibutyryl-cAMP) without light 1-3. Plates with inhibitor and activator must be soaked for 10 minutes each with their respective chemical and then excess must be removed. With an alcohol sterilized spatula cut a 1 cm by 1 cm square out of all 18 homogenous food source plates and scoop out. The next step would be to cut 18, 1 cm by 1 cm squares of physarum and transfer 1 square into each of the PDA plates, gently pushing in each piece into their place. After this is done you may seal the petri dishes with two pieces of tape on either side in order to secure the lids. Then wrap each dish in foil with the lid up, plates that were labelled with light should have a small window cut into the foil. Place respective dishes into light and dark and return after 28 hours to measure results. Run 2 one-way ANOVA tests on data.
+
+
+Results:
+In order to how the the Protein Kinase A activator affected the signalling pathway we decided to have a control and an inhibitor control in order to accurately measure if there was a significant change in phototaxic activity. Two one-way ANOVA’s were ran to test if there was statistical differences between the inhibitor and Activator. All groups, except the control, yielded significant results, proving that they significantly affected the phototaxic activity of the physarum. There is a difference between all groups with a p-value &lt; 0.05 . This difference was graphically depicted on Graphs 1 and 2, we can visually see the significance with the presence of the activator and the lack of significance with the control. 
+
+
+Discussion:
+Overall, our hypothesis was supported that there was a positive phototaxic effect in the physarum in response to the presence of dibutyryl-cAMP. We observed a significant phototaxic effect in the group without light. Our averages between group weren’t as large as we expected. We had significant results but it still wasn’t what was expected. The lesser growth can potentially be due to the light in the incubator where our organism was kept since they are photosensitive. Another potential cause for not as great of growth could be that since we are one of the last labs in the week our physarum have been pulled out into the light and potentially dried out. This drying could have caused the physarum to turn into sclerotia and send spores out rather than grow and eat [Warwick 2018]. Overall the positive phototaxic effect we witnessed in response to the dibutryl-cAMP is  important because knowing you can activate Protein Kinase A with a type of cAMP activator can be used to further research. Kinases phosphorylate things and PKA is a good example of one that is not only found in slime molds but also humans. Signaling networks that employ phosphorylation to modulate target activities have been shown to be critically involved in all aspects of cellular function, and in cancer, the abnormal activation of protein phosphorylation is frequently either a driver or direct consequence of the disease [Gross 2015]. For instance, kinase signaling pathways, like cAMP, have been shown to drive many of the classic phenotypes of tumor biology, including proliferation, survival, motility, metabolism, angiogenesis, and evasion of antitumor immune responses. We can use this information and potentially come closer to a cure for cancer.
+
+
+Literature Cited:
+Gross, S., Rahal, R., Stransky, N., Lengauer, C., & Hoeflich, K. P. (2015, May 01). Targeting cancer with kinase inhibitors. Retrieved from https://www.jci.org/articles/view/76094
+Hardman, N. (1986). Molecular Organization of the Physarum Genome. The Molecular Biology of Physarum Polycephalum,39-66. doi:10.1007/978-1-4613-2203-0_3
+School of Life Sciences. (n.d.). Retrieved from https://warwick.ac.uk/fac/sci/lifesci/outreach/slimemold/facts/
+Utah State Unversity. (n.d.). Slime Molds | Herbarium. Retrieved November 27, 2018, from http://herbarium.usu.edu/fun-with-fungi/slime-molds
+Yoshiyama, S., Ishigami, M., Nakamura, A., & Kohama, K. (2009, December 16). Calcium wave for cytoplasmic streaming of Physarum polycephalum. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/19947949
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+7.14.30+PM.png&Size=40524&Type=image%2Fpng&F=F_1gN2W00FJX6cmMN
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+7.14.45+PM.png&Size=39905&Type=image%2Fpng&F=F_31nqp2Zh4ed0rGn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1
+Shows the significant results for an Anova test statistics with a p-value &lt; 0.05 with light
+Figure 2
+Shows the significant results for an Anova test statistics with a p-value &lt; 0.05 without light*************************************************************************
+
+
+

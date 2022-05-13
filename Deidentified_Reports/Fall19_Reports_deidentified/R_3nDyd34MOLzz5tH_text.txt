@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-09-22 18:44:18
+Author of this lab report is: Std_0y7oZgSa
+ID: R_3nDyd34MOLzz5tH
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: The effect of increased levels of juvenile hormone on the average change in weight of Manduca sexta caterpillars.
+
+Abstract:
+An abstract is a summary of your work that includes parts of each section of the paper. Even though it is a at the front of a report, the abstract should be the last part of the report that you write. You do not know what you need to summarize until the rest of the report has been written. In about 200 words or less, it should summarize the study's main objective(s), give the scientific name of the organism you studied, and state your hypothesis. It also will summarize the study's background, the methods, major results, and conclusions. You should not include references in your abstract.
+
+
+Introduction:
+Manduca sexta, more commonly known as the tobacco hornworm, is a species of moth with a holometabolous life cycle. A holometabolous life cycle indicates that this species undergoes complete metamorphosis, a series of hormone-controlled changes which results in the adult form of the species taking on a completely different physical form than the juvenile form of the species [Johnson: 2019]. Due to the fact that insects with holometabolous life cycles have completely different adult physical forms than larval physical forms, the adult form of the insect is sometimes considered to be a pest while the larval form is not (or vice versa).  Because Maduca sexta is a species of insect with a holometabolous life cycle that is easily reared in a lab, it serves as a good model organism for experimenting with factors that could keep a larval insect from growing up into an adult pest (despite the fact that the Manduca sexta themselves are considered pests in the larval stage). The stages of the holometabolous life cycle of the Manduca sexta moth are the egg, larval, pupal, and adult stages. The larval stage can be divided into five substages called ‘instars.’ At the end of each instar, the caterpillar molts: at the end of the first through fourth instars, the caterpillar molts into a bigger larva, and at the end of the fifth instar, the caterpillar molts into the pupal stage. These different types of molts are regulated by the amount of juvenile hormone secreted by the caterpillar’s corpus allata, with lower levels of the hormone resulting in the caterpillar to transition from the larval to the pupal stage [Nijhout: 1974]. This experiment hypothesizes that if Manduca sexta caterpillars are exposed to increased levels of juvenile hormone during their larval stage, then this will have negative effects on their health and development by causing them to weigh less on average than control caterpillars. 
+
+Materials and Methods:
+A group of eight Maduca sexta larvae was divided into two groups of four—an experimental group and a control group. The groups were placed into two separate plastic containers, each with four compartments. On day one of the experiment, each caterpillar was given 10g of food. For the experimental caterpillars, each individual portion of food was mixed with 6 drops of Precor, a type of juvenile hormone. For the control caterpillars, each individual portion of food was mixed with 6 drops of distilled water. Food/drop mixtures were replaced when they became dry or when they had been mostly consumed. Each caterpillar was weighed every day for fourteen days. At the end of the experiment, a one-tailed two-sample t-test was used to compare the change in weight from day one to day fourteen between the experimental caterpillars and the control caterpillars. Amount of food, temperature of environment, cleanliness of environment, and time given for growth were kept constant for both groups. 
+
+Results:
+Average change in weight for the control group of caterpillars was 12.50 grams with a standard deviation of 1.86, and the average change in weight for the experimental group of caterpillars was 9.91 grams with a standard deviation of 5.34 (see Figure 1). 
+
+We performed a one-tailed two-sample t-test on our data to see if our data was significant. Our calculated p-value was 0.20. This shows that the average change in weight for the control group was not significantly different from the average change in weight for the experimental group.
+
+
+Discussion:
+Because the difference between the change in weight for the experimental caterpillars was not found to be significantly different than the change in weight for the control caterpillars, our hypothesis was rejected. This means that the increased levels of juvenile hormone did not significantly suppress the growth (in terms of weight) of the experimental caterpillars when compared to the control caterpillars. However, this result does not necessarily lead to the conclusion that increasing the juvenile hormone level for Manduca sexta caterpillars has no negative effects on their health and development. We observed the caterpillars in the experimental group to be a slightly lighter color and slightly less active than the caterpillars in the control group, leading us to believe that the increased levels of Juvenile Hormone did cause some developmental changes. In addition, according to a previous study in which juvenile hormone was applied directly to the skin of the experimental group of Manduca sexta caterpillars during their fourth instar, increased levels of juvenile hormone were found to cause significant changes to the pupal and adult caterpillars (including a significant deficit in weight of the experimental pupae compared to the control pupae and abnormal deformities in experimental group adults) [Kiguchi: 1978]. In order to determine the full effects of increased levels of juvenile hormone on the health and development of Manduca sexta, further studies observing the effects of the hormone across the entire life span need to be conducted. Only then will we have a better understanding of how increased levels of juvenile hormone affect insects with a holometabolous life cycle, therefore giving insight into the issue of controlling pests.
+
+Literature Cited:
+Kiguchi K, Riddiford LM, 1978. A role of juvenile hormone in pupal development of the tobacco hornworm, Manduca sexta. Journal of Insect Physiology. 24, pp. 673-675, 677-680.
+
+Johnson AD, Mallison, 2019. Hormone Regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 19.2 (updated July 8, 2019), pp. 5-13. 
+
+Nijhout HF, Williams CM, 1974. Control of Molting and metamorphosis in the tobacco hornworm, Manduca sexta: cessation of juvenile hormone secretion as a trigger for pupation. Journal of Experimental Biology. 61, pp. 493-501. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Experiment+1+Figure+1.png&Size=22561&Type=image%2Fpng&F=F_xEoLWh0FygLKgDL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average change in weight over 14 days for caterpillars exposed to increased levels of juvenile hormone (experimental group, n=4) vs caterpillars not exposed to increased levels of juvenile hormone (control group, n=4). Error bars represent +/- one standard deviation.
+
+*************************************************************************
+
+
+

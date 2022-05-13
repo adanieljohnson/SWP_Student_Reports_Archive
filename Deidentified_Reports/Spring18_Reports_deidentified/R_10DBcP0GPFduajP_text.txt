@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-11 14:11:51
+Author of this lab report is: Std_crq1DUke
+ID: R_10DBcP0GPFduajP
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: A Study of Muscular Stimulation in Amphibians: The inhibitory influence of 25mM Lidocaine on the muscular contraction ability of the Northern Leopard Frog (Rana pipiens)
+
+Abstract:
+In this experiment, we used the known sodium channel blocker Lidocaine injected into the Rana pipiens (Northern Leopard Frog) gastrocnemius muscles in order to determine its effect on muscular contraction. Since voltage-gated sodium channels are highly responsible in the release of calcium from the sarcoplasmic reticulum to stimulate myosin-actin binding sites, we hypothesized that the blockage of these channels would result in no muscular contraction at all. We used three different frogs for the experiment to maintain accurate results, and hooked up exposed gastrocnemius muscles to a sensor, and electrically stimulated the frog sciatic nerve through threaded electrodes. Using the computer program Labscribe, we generated a Myogram that responded to the nerve stimulation, and altered the stimuli signals in order to measure the amplitudes. The results ended up determining that there was a difference between the thresholds in the lidocaine-injected frog legs compared to the control frog legs, but a paired t-test revealed that the results were not statistically significant enough to reject our null hypothesis.
+
+
+Introduction:
+In our experiment, we surveyed the effect of a known sodium-channel blocker, Lidocaine, on the muscular contractibility of the Rana pipiens, more commonly known as the Northern Leopard Frog. In amphibious as well as mammalian bodies, muscle cells rely on the presence of certain key electrochemical gradients, as well as the presence of chemicals such as calcium, acetylcholine, sodium, and potassium to interact with these gradients. When a muscle contracts, the movement of sodium ions into the postsynaptic cell via voltage-gated sodium channels allows for the exit of calcium from the sarcoplasmic reticulum in order to bind to troponin. This causes twisting of the tropomyosin which exposes actin binding sites that—when bound to myosin—promote movement that causes muscular contraction. Therefore, the passage of sodium ions into the cell is crucial for the action potential to cause threshold to be reached. Studies show that introductions of increased sodium currents result in a quicker action potential firing, even before threshold is reached [Costantin 1970]. This further emphasizes sodium’s importance in the muscular contraction process. When taking a Myogram, one can see a latent period, contraction period, and relaxation period [Johnson 2018]. We utilized a computer program called Labscribe to display these periods while using direct nerve stimulation through threaded electrodes stimulating the frog’s sciatic nerve, allowing for signals to be sent to the frog gastrocnemius or “calf” muscle. We specifically targeted the blockage of these sodium channels in order to stop the contraction to the highest ability possible, measured through the threshold amplitude of each contraction. We hypothesized that the injection of a sodium channel blocker would not allow for any type of contraction of the gastrocnemius muscle, when focusing on the Myogram readings. 
+
+Materials and Methods:
+First, obtain three skinned Northern Leopard Frog legs, severed at the top of the quadriceps. Using minimal metallic contact, expose the sciatic nerve, and lay the thread electrodes beneath the nerve. Disconnect the gastrocnemius muscle at all points except for right at the knee joint, and tie a string to the severed end, pinning down nearby tissue to stabilize the leg. Attach this string to a movement signal loop which is attached to the computer via a cord (see Figures 1 and 2 in “Results”). Adjust the signal magnitude on the Labscribe program, and utilize the “apply” and “fire” button. For each signal, record the threshold signal—the first signal that merits any type of response—and measure the amplitude of each. Then, repeat this process after injecting 0.1 mL of lidocaine by syringe into the exposed gastrocnemius muscle and waiting for 5 minutes. Repeat all steps with each of the three test-frogs. Finally, perform a paired t-test in order to determine statistical significance. 
+
+
+Results:
+When looking at our data, one can see that the overall trend for each frog is for the lidocaine-injected leg to take a longer time to display any type of response. Our readings on the LabScribe program showed clear, easily measureable amplitude peaks. Figure 3 refers to our first frog’s leg responses, showing a faster response in the non-lidocaine injected peak, with there being no response from the lidocaine-injected frog leg until a stimulus of 0.7, in comparison to the threshold stimulus of the control in frog 1 which was 0.1. Figure 4 shows a similar result, demonstrating a slightly lower threshold for the lidocaine-injected leg at a stimulus of 0.3, but still was greater than the control threshold in frog 2 at 0.2. Frog 3 had the same control threshold as frog 2, at 0.2, but was slightly higher in the lidocaine threshold at 0.375. The paired t-test yielded a p-value of 0.267, which is not statistically significant. 
+
+Discussion:
+Overall, there was a clear difference between the results of the control threshold stimuli of the three Rana pipiens in comparison to the lidocaine-injected frog legs. However, the statistical analysis reflected that it was not significant enough to reject the null hypothesis. We were correct in hypothesizing that there would be a difference between the threshold stimuli of the lidocaine-injected frog with comparison to the control frog, but we were wrong in that there was at least some response, though it was late. Since we originally thought that all of the sodium channels would have been blocked, it has become apparent that some channels were able to either remain open, or would have needed a higher dosage of lidocaine to be affected completely. Since the lidocaine is noted to bind to these sodium channels and block them [Courtney 1975], there is a real possibility of the dosage being either too low or not effective enough to bind to the channels. Sodium channels can also operate at different rates at the neuromuscular junction, instead of simply closing or opening at one rate [Costantin 1970]. In a perfect set-up of this experiment, the lidocaine would perhaps block all sodium channels, and negate the ability for any type of contraction. In a future experiment, one could make the amount of lidocaine the independent variable, along with allotting a longer time for the chemical to bind and block the channels. It might also be wise to repeat this experiment with another animal in another muscular group, as perhaps the amphibious gastrocnemius muscle does not provide the most accurate demonstration of the effect of the stimuli. It is possible that a rabbit leg would be a good model as it would likely demonstrate a larger force of contraction because of its larger size, as well as model more accurately the mammalian muscular contractions. One could also alter the stimulation method, using direct simulation of the muscle rather than stimulation of the sciatic nerve. Overall, this experiment gave a clear indication of the many different types of voltage-gated channels that are required to be activated in a muscular contraction, and gains insight to some potential comparisons between human and amphibious muscular contractions. 
+
+Literature Cited:
+1. Costantin LL. The Role of Sodium Current in the Radial Spread of Contraction in Frog Muscle Fibers. Rockefeller University Press. Accessed March 28, 2018.
+2. Courtney KR. Mechanism of frequency-dependent inhibition of sodium currents in frog myelinated nerve by the lidocaine derivative GEA. American Society for Pharmacology and Experimental Therapeutics. Accessed March 28, 2018.
+3. Johnson AD. Hormone Regulation. Comparative Physiology BIO114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated May 1, 2018), pp. 9-11.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=IMG_5825.jpg&Size=861429&Type=image%2Fjpeg&F=F_uy5tPyQSK0vspCV
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=IMG_5824.jpg&Size=817109&Type=image%2Fjpeg&F=F_1Ih0t6QSW2e03oC
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.05.05+PM.png&Size=39374&Type=image%2Fpng&F=F_1l3HE4fCNNd50Xo
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.05.30+PM.png&Size=42755&Type=image%2Fpng&F=F_31SlMOEZVOlkVnx
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+2.05.52+PM.png&Size=43567&Type=image%2Fpng&F=F_3lWC0e3EoW1nISJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Close-up image of stimulation set-up. This photograph highlights the way that the threaded electrical probes are connected to the sciatic nerve
+Figure 2. Image that shows the connection that warrants measurements of the muscular contraction. Note the exposed gastrocnemius muscle and the string attached to the sensor
+Figure 3. Threshold Stimulus Data for frog number 1. This figure demonstrates the differences between the stimulus responses in the lidocaine-injected leg versus the control leg with no alteration. The blue line corresponds to the control data, while the orange line represents the lidocaine-injected leg.
+Figure 4. Threshold Stimulus Data for frog number 2. This demonstrates a similar representation as figure 3, with the blue line corresponding to the control data and the orange line corresponding to the lidocaine-injected frog responses. 
+Figure 5. Threshold Stimulus Data for frog number 3. This figure once again demonstrates the differences between the lidocaine injected frog leg and the control leg. The blue line corresponds to the control leg response, while the orange line corresponds to the lidocaine-injected frog data. 
+
+
+*************************************************************************

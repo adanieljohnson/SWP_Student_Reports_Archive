@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 16:21:37
+Author of this lab report is: Std_tTbzzbI5
+ID: R_2QzfgROqtS2TguK
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Injecting frog gastrocnemius muscle with salt water decreases strength of contractions
+
+Abstract:
+In this experiment, we recorded the strength of muscle contraction voltages before and after an injection of salt water into the gastrocnemius muscle of frog legs. We predicted that injecting salt water into the gastrocnemius muscles of frogs would decrease the number of action potentials in the muscle and therefore the resulting voltages of electrical stimulation. Our findings indicate that injecting salt water into the muscle weakened the muscle contraction and subsequent voltage produced, supporting our hypothesis. With the use of a paired t-test, and a resulting p value of 0.02723, we can conclude that injecting salt water into gastrocnemius muscle results in weaker muscle contractions and could potentially be used to treat patients who suffer from chronic involuntary muscle spasms.
+
+Introduction:
+For this experiment, we want to determine the strength of a frog leg contraction at a consistent voltage before and after it is injected with salt water (NaCl – Na is sodium and Cl is chlorine) to observe what effect salt water would have on the strength of muscle contractions. Since cells already maintain high concentrations of sodium outside themselves relative to the inside of cells through the use of sodium potassium pumps, we are predicting that by injecting the frog gastrocnemius muscle with additional sodium from salt water, it will increase the concentration of sodium inside the muscle cells and therefore decrease the strength/measured voltage of each muscle contraction when the muscle is electrically stimulated. This is due to the nature of action potentials, which keep sodium concentrations high outside the cell until an action potential opens voltage-gated sodium channels, allowing sodium to rush into the cell while potassium almost instantly rushes out of the cell. [Nygren: 2001] If there is a high concentration of sodium inside a cell, then not as many action potentials signaling for the muscle to contract will be sent due to the fact sodium will not naturally diffuse into a cell with an already high concentration of sodium, therefore blocking further action potentials from being carried out. In this experiment, our independent variable will be salt water injected into gastrocnemius muscles, and our dependent variable will be the resulting voltages of each muscle contraction. We predict that if additional sodium rushes into each cell before electrical stimulation due to our injection, and consequently increases the concentration of sodium inside the cell, electrically stimulating the sciatic nerve in a frog gastrocnemius muscle will result in weaker muscle contractions, due to fewer action potentials being carried out, than without an injection of salt water.
+
+Materials and Methods:
+We used 3 frog legs during this experiment, with strength of contractions of the gastrocnemius muscle measured in volts through the sciatic nerve. We stimulated the gastrocnemius muscle directly, 3 times before the injection and 3 times after the injection, each time at 1 volt of electricity with the help of the iWorx electrophysiological recorder. After measuring the strength of 3 muscle contractions, we injected each muscle with 1 mL of 5 % salt water. We then measured the strength of 3 more muscle contractions at 1 volt for each frog leg. In between each electrical stimulation of the muscle, we waited 5 minutes to allow the sodium potassium pumps to actively reset the relatively high sodium concentration outside the cells, and the relatively high concentration of potassium inside the cells, in order to allow action potentials to be able to be to travel throughout the muscle and fully contract it. After each muscle stimulation, the strength of the contraction in volts was recorded. We averaged each grouping of 3 stimulations, leaving us with 6 total averages of muscle contractions in volts form our 3 frog legs (3 averages before injection, 3 averages after injection). To analyze our collected data, we used a paired t-test since we were testing our independent variable on the same subjects (frog legs 1-3).
+
+Results:
+Based on our paired t-test analysis and graphing the 6 average muscle contraction voltages, it appears that the average muscle contraction before injection of the salt water was significantly greater than the voltage of each average muscle contraction after injection. Each muscle contraction on frog legs 1-3 before the injection had an average of 0.447 volts +/- 0.062 s.d., while each muscle contraction on legs 1-3 after the injection had an average of 0.100 volts +/- 0.024 s.d. With no overlap in error bars on Figure 1. between each “Before Injection” and each “After Injection” average muscle contraction, and based on our p-value of 0.02723, which is less than 0.05, we can conclude that our data is statistically significant.
+
+
+
+Discussion:
+Based on our collected data, our hypothesis was supported, and it appears that injecting a frog gastrocnemius muscle with salt water will in fact decrease the voltage of a subsequent muscle contraction. It is likely that the higher concentrations of sodium in the cells prevented high concentrations of sodium outside the cells from naturally diffusing into the cells, as occurs during an action potential. If this were the case, as we predicted, then fewer action potentials overall would be triggered throughout the muscle, and therefore the overall muscle contraction would be weaker, as appeared to be the case in our experiment. It is possible but unlikely that any other part of the muscle contraction process was affected by the injection of salt water into the muscle, seeing as how acetylcholine, or ACh (a neurotransmitter from a neuron), would still bind to cell receptors and open sodium channels, but sodium would not likely rush into the cells and trigger additional action potentials throughout the muscle since its concentration gradient would be increased relative to inside the cell [Johnson: 2016]. It would be best to repeat this experiment multiple times, and with variations of the animals and/or subjects tested, to determine the effect of salt water injections on muscle contractions in multiple organisms in order to compare the results. We believe these findings to be useful in the sense that it is likely that salt water injected into muscles, or something of a similar nature, could potentially decrease muscle spasms due to nerve damage or any other issue. This solution could be used to treat symptoms of diseases such as neuromyotonia, where a patient experiences involuntary muscle spasms that cause a sustained action of the muscles affected; similar neuromuscular disease sufferers could greatly benefit from such a simple treatment that we have demonstrated weakens muscle contractions [Weston: 2010].
+
+Literature Cited:
+1.	Nygren, A., Leon, L., Giles, W. 2001. Simulations of the human atrial action potential. Philosophical Transactions: Mathematical, Physical and Engineering Sciences. 359: 5.
+2.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 17-19.
+3.	Weston, K., Bush, K., Afshar, F., Rowley, S. 2010. Can he fix it? Yes, he can! We present a case in which a novel treatment was instigated by the patient to control symptoms of ocular neuromyotonia. BMJ: British Medical Journal. 341: 1289
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-03-19+at+4.19.37+PM.png&Size=50388&Type=image%2Fpng&F=F_2DRNmYidDVHOwTc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Voltage of muscle contractions for frog legs 1-3, before and after injection of salt water. Each bar is the average voltage recorded for each frog leg muscle contraction, before and after injection.*************************************************************************
+
+
+

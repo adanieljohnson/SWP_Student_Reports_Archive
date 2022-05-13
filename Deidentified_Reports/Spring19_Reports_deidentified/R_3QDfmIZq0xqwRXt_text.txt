@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-17 14:42:43
+Author of this lab report is: Std_yHiVFSWp
+ID: R_3QDfmIZq0xqwRXt
+Course number: BIO101L
+TA: TA_JzvDkdcR
+*************************************************************************
+Title: Lidocaine effects on a frog’s muscular contractions
+
+Abstract:
+Muscular contractions are created through sodium (Na+) gates pumping ions into channels that allow action potentials to be produced. Action potentials create an electrical current that helps in the production of voluntary and involuntary movement within an organism. If a muscle is injected with a lidocaine solution, then the intensity of action potentials will decrease, causing weaker muscular contractions. Three frog legs were used in the experiment, with 3 trials of 1.5v of electrical amp applied for five seconds before and after the 0.1mL lidocaine injection. A paired t-test was used to analyze the statistical data. At a 95% significance, the p-value equals 0.2192. This means that the alternate hypothesis is rejected, and the null hypothesis is accepted. It was physically observed that muscular contractions did weaken after the lidocaine injection, but this cannot be said that it happened not due to chance. Lidocaine injections allow health care professionals to administer pain blockers to their patients. With proper use, having a Na+ inhibitor enables for a numbing of the muscle without long-term side effects. However, misuse can lead to harmful, potentially life-long side effects.
+
+Introduction:
+Muscular contractions are what allows for involuntary and voluntary movement within an organism. These muscular contractions can be stimulated through a series of action potentials within the muscle. Different underlying conditions and added factors can affect the production of action potentials, which can further change the intensity of muscular contractions. Sodium (Na+) currents that allows ions to pump in and out of electrical channels help control the rate of action potentials. With the inactivation of Na+ channels, action potential voltages can plateau [Wasserstrom: 1988]1. A plateauing action potential can lead to tetany, and then fatigue of a muscle. The purpose of this experiment is to observe the possible effects of a lidocaine on a frog’s gastrocnemius muscular contractions. If the muscle is injected with a lidocaine solution, then the intensity of action potentials will decrease, causing weaker muscular contractions.
+
+Materials and Methods:
+We took three frog legs and dissected them of their connective tissue. The gastrocnemius muscle was exposed, along with the sciatic nerve. “Frog solution” was used to keep the dissected leg moist. An electrophysiology monitor (LabScribe) was used to record the myograms. Using this tool, we inserted dual-ended electrodes into the gastrocnemius muscle of the frog, then applied a voltage of 1.5 amps. The contraction period (the initial rise of an action potential to the peak) was used to determine the intensity of the action potential. First, we recorded the frogs without any lidocaine injected for five seconds, for three trials. This initial recording provided the control data for comparisons. Then, we injected the gastrocnemius with 0.1mL of lidocaine and placed a drop on the sciatic nerve. We waited three minutes for the lidocaine to settle, then recorded for five seconds, for three trials. A paired t-test with a one-tail p-value was used for statistical data referencing.
+
+Results:
+At a 95% confidence interval, the p-value is equal to 0.2192. The average intensity of the control group is 0.3406v and the average for the experimental group is 0.0124v. The standard deviation of the control group is 0.3145v and the average for the experimental group is 0.0087v.
+Shown in Figure 1 is the average and standard deviation distribution of the control and experimental groups.
+
+
+Discussion:
+Since the p-value was larger than 0.05, the alternate hypothesis is rejected, and the null hypothesis is accepted. It is suggested that this p-value was so large due to a small sample size, and frog legs that did not weigh the same. In order for this experiment to have repeatability in the future, scientists should look into using a large sample size, one that can be more applicable to the true population. Also, the frog legs should each be weighed, in order to simulate results for a specific threshold, versus different ones. Lidocaine injections into the gastrocnemius muscle have been tested to show differences in respiration rates in bullfrogs. The weakening of respiration rates also led some of the bullfrogs to enter cardiac arrest [Williams: 2017]2. This experiment was meant to test the differences in intensity of action potentials produced after a lidocaine injection. Even though physical observations were made that muscular contractions weakened, it cannot be proven that this did not happen due to chance. The proper use of lidocaine can allow health care professionals to provide their patients with pain relief. However, it can be misused and lead to a multitude of health complications, such as bradycardia, apnea, and cardiac arrest [Williams: 2017]2. It can be suggested that since lidocaine acts as a Na+ inhibitor, that this is the variable that causes these complications to happen.
+
+Literature Cited:
+Wasserstrom JA, JJ Salata. Basis for tetrodotoxin and lidocaine effects on action potentials in dog ventricular myocytes.  American Journal of Physiology-Heart and Circulatory Physiology 254.6: H1157-H1166.
+
+Williams Catherine JA, et al. When local anesthesia becomes universal: pronounced systemic effects of subcutaneous lidocaine in bullfrogs (Lithobates catesbeianus). Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology 209: 41-46.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=neuromuscular+graph.png&Size=9009&Type=image%2Fpng&F=F_Xq5DjH45LQXx1wR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 - This graph represents the average and standard deviation of each tested group. Control group is without the lidocaine injection, experimental group is with the lidocaine injection.*************************************************************************
+
+
+

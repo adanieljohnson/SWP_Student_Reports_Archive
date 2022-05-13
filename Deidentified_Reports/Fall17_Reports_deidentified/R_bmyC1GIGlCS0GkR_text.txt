@@ -1,0 +1,82 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-30 19:42:32
+Author of this lab report is: Std_P8AYXZjI 
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Nicotine Creates a Difference in the Amplitude of Muscle Contraction in the Rana pipiens’ Leg
+
+Abstract:
+In this experiment, we stimulated the sciatic nerve in the Rana pipiens’ gastrocnemius using a stimulator box. We studied the effect of the Acetylcholine receptor agonist, Nicotine, and hypothesized that injecting it into the leg would create a difference in the amplitude of muscle contraction. We began the experiment by identifying the threshold for each of the legs then injecting each of them with Nicotine to study any changes in the amplitude of muscle contraction. After completing a two-tailed t-test we found that the p-value was 3.428E-09 and concluded that there was significant difference found between pre-injection and post-injection of all three Rana pipiens’ gastrocnemius. 
+
+Introduction:
+This experiment was an independent study done in order to look at the effects of the Acetylcholine receptor agonist, Nicotine, on three Rana pipiens’ legs, which are commonly referred to as the Northern Leopard Frog. Because it is a receptor agonist, it binds to the receptor and activates the target cell, which leads to a muscular contraction. These results relate to the findings of researchers who isolated strips of Rabbit Corpus Cavernosum in order to study the effects of Nicotine on it. According to their findings, nicotine, in very high doses produced dose-dependent contractions of the Corpus Cavernosum. (Han, Lee, Myung, Nguyen, Park: 2015). Nicotine is a stimulant, meaning it temporarily quickens vital process and/or functional activities of certain organs or parts of the body. In skeletal muscles, nicotine causes muscle twitching as well as muscle weakness. Based on this information, we believe that if we inject 1.2 mg/ml of Nicotine (ACh receptor agonist) to the Rana pipiens’ gastrocnemius muscle then it will create a difference in the amplitude of muscle contractions.
+
+Materials and Methods:
+A. Prepare the frog leg
+-Acquire 3 Rana pipiens legs and place the legs in the dissecting pan
+-Use forceps to grasp the skin at the top of the leg and pull the skin down towards the foot to reveal the gastrocnemius muscle
+-Moisten the frog leg with Ringer’s Solution (this should be done every 5 minutes)
+-Detach the gastrocnemius muscle at the Achilles Tendon
+-Tie a string at the junction of the Achilles tendon and the gastrocnemius muscle
+-Suspend the gastrocnemius muscle at 90 degrees
+-Pin down the muscle lying on the dissection pan with pins and insert the stimulation probes
+
+B. Determine Threshold
+-Stimulate the nerve with 0.000V and press the mark button to attach the comment to the reading 
+-Apply a light load to the muscle
+-Increase the stimulus voltage in 0.1V increments to determine threshold 
+-Once the threshold has been determined, test the muscle response to direct stimulation at additional voltages. Increase the stimulus amplitude in 1.0V increments, up to 5V. Record the nerve response and save the data
+
+C. Injecting Nicotine
+-Allow the frog muscle preparation to rest a few minutes but make sure to leave the BNC connector of the sleeve electrode attached to the stimulator 
+-Set the following parameters: 
+Display Time: 10 seconds
+(F(Hz)): 1 Hz 
+# of pulses: 0 
+Stimulus Duration: 5 ms
+Pulse Amplitude (Amp): 1 V
+-Record the nerve’s response to stimulation and stop it after 4 seconds. While continuing to record, change to using the sleeve electrode and stimulate the nerve for 4 seconds 
+-Inject 1.2 mg/ml of Nicotine into various parts of the gastrocnemius muscle 
+-Turn off recording for 10 seconds and then follow that with a 2 second period of nerve stimulation and recording
+-Repeat this pattern until little or no muscle response is seen with nerve stimulation 
+-Once the muscle’s response to nerve stimulation has disappeared, disconnect the BNC connector of the sleeve electrode and reconnect the BNC connector of the pin electrodes to the stimulator. Stimulate the muscle for 2 seconds and observe the contraction. If no response, increase the amplitude until a contraction can be seen. 
+-Once it contracts, disconnect the pin electrodes and reconnect the sleeve electrodes. Stimulate the muscle with the pulse that has the same parameters as the ones just used.
+-Label the recording so that it identifies the mode of stimulation and the stimulus parameters used for each response then save the file
+-Clean up the area 
+
+D. Interpreting the Results
+-Create a two-tailed t-test for each of the frog legs in order to identify whether the difference in amplitude pre-injection and post-injection created a significant difference 
+
+
+Results:
+After completing the two-tailed t-test and creating a graph we found that the average amplitude for the first frog leg pre-injection was 0.0208V. The average amplitude for post-injection for the same leg was 1.93V. As shown in Figure 1, the standard error bar between the two do not overlap, it can be concluded that the difference in amplitude is significantly different. This same conclusion can be drawn for the second and third leg. For the second frog leg, the average amplitude of contraction was 0.0268V and for post-injection it was 0.94V. The average amplitude of contraction for the third leg is 0.0042V and for post-injection of Nicotine was 0.338V. The standard deviations for the 3 legs pre-injection and post-injection, respectively are 0.0.001 and 0.02 for the first leg, 0.0008 and 0.005 for the second one, and 0.0008 and 0.002 for the third leg. Lastly, the p-value is 3.428E-09, and since it is less than 0.05 there is a significant difference. 
+
+Discussion:
+ A significant difference was found between pre-injection and post-injection of Nicotine among all 3 legs, which supports my group’s hypothesis that there would be a difference in the amplitude of muscle contractions pre and post-injection. These results are similar to the results found in an experiment that looked at the effects of  Nicotine receptor agonists on acetylcholine release in different areas of rats and guinea pigs. According to the study, injections of Nicotine led to an increase in concentration-dependent ACh release from the phrenic nerve (Wessler:1992). Nicotine is a stimulant that leads to muscle twitching as well weakness and molecularly resembles acetylcholine. If an organism consistently takes nicotine,  their muscles will grow dependent upon it and without it, they will become weak. As a result, the organism’s body will produce increased amounts of Acetylcholine, since it resembles nicotine, in order for muscular contractions to occur. With increased amounts of ACh, there will be an increase in muscle contractions. We see this in our results where between pre and post-injection among all 3 legs, the average amplitude of contraction increased after the Nicotine was added. 
+While there were no errors in the experiment, there was a limitation. While working on the third leg, a higher amplitude was used than what was used for the first two. This could have led to a greater significant difference than what was actually present. 
+The next logical step would be to repeat this same experiment and use more Rana pipien legs in order to see if the results of this experiment are consistent with a greater sample. Furthermore, see if the effects of the acetylcholine receptor agonist, Nicotine, are similar across the scope of various organisms. Since we studied a Rana pipien, which is an amphibian, it would be interesting to see if we got similar results in a mammal. To make sure it would follow ethical guidelines, we would not be able to use humans but other animals that experiments are commonly done on such as rabbits would be an interesting to study. By studying mammals we would be able to see if Nicotine will increase the amplitude of muscular contraction among various animals or if these results can only be applied to the Rana pipien. 
+
+Literature Cited:
+Literature Cited 
+
+Nguyen, H. B., Lee, S. Y., Park, S. H., Han, J. H., Lee, M. Y., & Myung, S. C. (2015). Nicotine in high concentration causes contraction of isolated strips of rabbit corpus cavernosum. The Korean Journal of Physiology & Pharmacology, 19(3), 257-262.
+
+Wessler, I., Apel, C., Garmsen, M., & Klein, A. (1992). Effects of nicotine receptor agonists on acetylcholine release from the isolated motor nerve, small intestine and trachea of rats and guinea-pigs. The clinical investigator, 70(3-4), 182-189.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Rana+Pipien.png&Size=125283&Type=image%2Fpng&F=F_6VI5Gw9K14YCacR
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?F=F_3kEz9ELVjly2K0J
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The figure above illustrates the significant difference that was found before and after the Nicotine Injections through a 2-tailed T-test. The numbers at the top of each represent the average amplitude. The stars at the top of each orange bar indicate significant difference since the p-value was less than 0.05. The error bars represent the standard deviation, and since they are very small, they indicate a very small variability. 
+
+*************************************************************************

@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-28 11:32:04
+Author of this lab report is: Std_wqLQPKKE
+ID: R_25FlyPFrdZZUGiZ
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: The Insignificant Effect of Light Stimulus on Movement of Physarum polycephalum
+
+Abstract:
+In this experiment, we measured the distance travelled of a Physarum under different conditions, including blue light, red light, and regular light in comparison to a control (darkness). This was conducted to determine which types of light inhibit movement and which types of light serve as a positive stimulus for movement. We hypothesized that yellow light would elicit the shortest distance moved by the Physarum because of previous experiments that showed it was a negative stimulus, while blue light would result in the greatest distance travelled because it is most similar to dark conditions.  The data illustrated that blue light had the greatest average distance travelled as we predicted, but our hypothesis was rejected due to our results being statistically insignificant. 
+
+Introduction:
+Slime mold, or Physarum polycephalum, is an organism with multiple nuclei located inside a single plasma membrane [Johnson: 2018]. They are easy to see under microscopes, which is why they are useful for experiments like this, in addition to being easy to handle. They also share similar signal transduction pathways to human cells and insects, making them a practical choice for this lab. Signal transduction pathways allow these cells to respond to their environment based on the internal and external signals that they receive. The physarum is essentially one large biological cell which moves its contents throughout its own network through oscillations. This network is also responsible for receiving chemical signals from nutrients and moving these signals throughout the rest of the organism [Tero: 2006]. Slight variations occur when the plasmodium senses certain environmental triggers: light can slow down the rate of oscillations while potential food sources cause an acceleration of the rhythmic pace [Tero: 2006]. Therefore, light is generally a negative stimulus for the physarum and food is a positive stimulus because physarum will quickly travel towards it rather than moving away [Tero: 2006]. However, different wavelengths of light (different colors) have different effects on physarum movement. For example, blue light causes a frequency decrease in oscillatory contraction that Physarum use to move around but this causes a corresponding increase in the force amplitude of longitudinal contraction [Schreckenbach: 1981]. Thus, blue light will most likely elicit the most movement in this experiment. By conducting this experiment, the effect of different colors (different wavelengths of light) on Physarum polycephalum movement is examined. It is hypothesized that blue light will be the most effective for increasing the length of travel of physarum compared to the positive control (dark) and natural light will have the least average amount of travel due to its wavelength.
+
+Materials and Methods:
+12 different PDA plates in various levels of lights: red, blue, regular light, and complete darkness were prepared. On the bottom of each plate, a line was drawn down the middle and two 1 cm x 1 cm boxes were drawn in both thirds of the line.  Then, one 1cm square was cut in each agar plate in order to introduce the physarum. Each time a square was cut out of the plates, the instrument used was cleaned with ethanol and then dried with a common lighter. The entire plates were then covered with cellophane of the specific color necessary, aluminum foil was used for the positive control, and regular light was used for the negative control. The longest strand length was measured with a ruler in order to determine growth after 24-48 hours and we returned after 24 and 48 hours to measure distance. A one-way ANOVA test with an alpha value of 0.5 was used to determine statistical significance [Johnson: 2018]. 
+
+Results:
+The results in figure 1 exemplify the average distance traveled in millimeters by the longest strand in each of the plates. This was measured using a ruler and data was measured after 48 hours because there was no movement after the first day. The color of each bar in the graph represents the color cellophane used while the black bar represents the control and the yellow bar represents natural light. Our results showed that the sample under yellow light moved the least and the sample under blue light travelled the most. The control (darkness) is not considered when analyzing the results. The p-value calculated was 0.184 which is greater than 0.05 so the data we got was not significant. 
+
+Discussion:
+The data collected was determined to be insignificant. Therefore, the alternative hypothesis that blue light will be the most effective for increasing the length of travel of physarum and natural light will have the least average amount of travel due to its wavelength is rejected regardless of the data collected. However, many other studies show that our hypothesis holds true in most cases. Our data could have been significant if it was collected for a longer period of time (around 1-2 weeks) rather than 1-2 days [Adamatzsky: 2012]. It was also determined by the faculty department that the physarum sample provided for lab was faulty. This was determined after mnay lab groups did not receive any data that they could utilize to interpret information about physarum movement. This could be attributed to a multitude of factors, the most likely being that the sample was cross contaminated or the physarum were in a different stage of the life cycle where movement towards stimuli is not usually done. If environmental conditions are not ideal for the physarum it can desicatte and form a sclerotium. The sclerotium consists of hardened multinucleated tissue that remains dormant, protecting the Physarum for a long time [Guttes: 1961]. Another issue could have been the oatmeal that was available in the plates. This was a confounding factor in the experiment because when Physarum are fed, they tend to move less because they do not need to find more food [Guttes: 1961]. This could have prevented the Physarum from moving in response to phototaxis in the experiment.  Slime mold is very important to understand as it has similar transduction patterns to human cells as it desires nutrients and avoids harmful stimuli such as certain wavelengths of light. It can find the most efficient method of travel using a trail of slime to serve as a reminder of where it has already travelled [Adamatzsky: 2012]. Research on the slime mold was done by placing pieces of food where major locations would be in major cities such as Tokyo and New York City with geographic obstacles being represented by grains of sand or salt. The slime mold was able to find the most efficient path to the food, almost exactly replicating the highway system in these cities [Adamatzky: 2012]. Therefore, the slime mold can be used in the future as a way for engineers to find the most efficient pathways for city planning and building roads. Future studies must be conducted to find out more about Physarum to truly unlock its applicative potential. 
+
+
+Literature Cited:
+1.	Adamatzky, A. 2012. International Journal of Bifurcation and Chaos. The World’s Colonisation and Trade Routes Formation as Imitated by Slime Mold. 22(8): 1-26. 
+
+2.	Guttes E., Guttes S., Rusch H.P. 1961. Developmental Biology. Morphological Observations on growth and differentiation of Physarum polycephalum grown in pure culture. 3(5): 588-614.
+
+3.	Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (Updated August 13, 2018).
+
+
+4.	Schreckenbach, T. (1981). Phototaxis and Photomorphogenesis in Physarum polycephalum Plasmodia. Blue Light Effects in Biological Systems,463-475. 
+
+
+5.	Tero, A., Kobayashi R., Nakagaki T. 2006. Physica A: Statistical Mechanics and its Applications. Physarum solver: A biologically inspired method of road-network navigation. 363(1): 115-119. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-28+at+11.31.02+AM.png&Size=32688&Type=image%2Fpng&F=F_268EkAbdyZ7WuWe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This figure shows the average of the distances traveled by the longest strand in each sample. Standard deviations are shown in the error bars, and the one-way ANOVA test showed our p-value was 0.184. *************************************************************************
+
+
+

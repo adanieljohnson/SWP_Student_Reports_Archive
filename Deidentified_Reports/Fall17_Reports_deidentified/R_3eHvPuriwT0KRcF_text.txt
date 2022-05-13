@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-18 00:19:11
+Author of this lab report is: Std_pbmM9eGj
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: Heightened Contraction in Rana pipiens Gastrocnemius after Caffeine Stimulation
+
+Abstract:
+The effect of injecting 200 mM caffeine on the contraction amplitude of the Rana pipiens gastrocnemius was observed, and it was hypothesized that caffeine injection would result in a heightened muscle contractionas compared to the control. Three dissected gastrocnemius muscles were partially detached from the leg and suspended from a force transducer, and electric pulses were sent to initiate contractions in the legs before and after injection of caffeine. A paired t test using the differences in each measured contraction amplitude pre- and post- injection yielded a low p value of 2.36*10^-7, indicating that contractions post-injection were significantly greater than the control contractions. Caffeine, therefore, was found to stimulate greater contractions in the frog gastrocnemius muscle.
+
+
+Introduction:
+As in other vertebrates, frog muscles contract when the cell membrane potential is altered, usually through an action potential (AP) sent from a neuron connected to the muscle cell at a neuromuscular junction. The neuron releases acetylcholine (ACh) to the muscle cell, which depolarizes the muscle membrane and continues the AP. The AP travels down the muscle cell membrane along t tubules, resulting in a chain of protein conformational changes that cause the sarcoplasmic reticulum (SR) to release calcium ions into the sarcoplasm. The ions bind to filaments in the muscle sarcomere that contract and cause the muscle to twitch. This twitch can be induced by depolarizing the muscle with an external electrode, and the force of the resulting twitch measured and displayed in a myogram. 
+The effect of caffeine on contraction in the gastrocnemius muscle of the frog, Rana pipiens, was of interest in this experiment. A previous case study that administered caffeine solution to frog skeletal muscle showed that the resulting contractions were heightened [Kumar et al.: 2015]. Another study identified that caffeine acts on the muscle by increasing calcium release, which in turn would lead to a stronger contraction [Isaacson, Sandow: 1967]. 
+In this experiment, frog gastrocnemius muscles were directly stimulated by a force generator then injected with .1 mL of 200 mM caffeine before a second set of stimulations. Each leg was its own control, so the difference in contraction amplitude before and after the caffeine injection was analyzed using a one-tailed paired t test. It was hypothesized that after caffeine injection, the frog muscles would have greater muscle contractions.
+
+H0: The measured contraction after injection of caffeine into the gastrocnemius muscle will not be different from the control.
+HA: The measured contraction after injection of caffeine will be significantly higher than the control 
+
+
+Materials and Methods:
+Frog Leg Preparation
+	3 frog legs were obtained. The skin was removed and the gastrocnemius muscle was isolated by snipping the bottom end of the muscle at the tendon. The detached end of the muscle was tied off with a looped string and suspended on the hook of the force transducer. The rest of the leg was pinned down and the leg was suspended orthogonally to the transducer and adjusted to create slight tension in the string. Two electrodes were poked through the muscles about an inch apart, and the electrodes were connected to the iWorx box. 
+
+
+Applying electric stimuli
+	With the stimulus amplitude set to 1.0 V, pulse # set to 5, frequency set to 1 Hz, an electric current was sent to the first leg. The software was left on Record, and then .1 mL of 200 mM of caffeine was injected into the muscle, carefully injected away from the electrodes. The recording was stopped after about 20 seconds, then a second recording was taken with the same stimulus. The leg was then discarded and the same process was repeated with the other two legs. 
+
+
+
+Results:
+	After injection of caffeine, the three muscles stiffened almost immediately, but contractions could still be seen when a current was run through the legs; contractions were visible in the control trials as well. The second caffeine injection appeared to span only a section of the muscle, while the first and third injections spread throughout the entire muscle. It was also observed that the myograms showed an immediate spike upon caffeine injection before more pulses were even sent, leveling to what appeared to be a new resting potential. All three legs showed an increase in contraction amplitude after caffeine injection, averaging of 1.092 mV difference from the control (Figure 1). A paired t-test using 5 paired contractions from each of the three legs yielded a p value of 2.36*10^-7. 
+	Upon examining the data points, it was observed that the pre/post-injection differences in the second leg (about .43 mV) were different from the first and third legs, whose differences were in the range of about 1.4 mV. Despite this apparent difference, the p value after the t test of all three legs was still far below .05, but a second test was done with the second leg data discarded. The average difference between amplitude before and after injection was greater when just legs 1 and 3 were taken into account, averaging 1.4212 mV difference compared to the average of 1.092 mV difference that had been calculated using all three legs. The resulting p value was lower: 5.98*10^-16. Figure 2 shows the heightened difference when the data from leg 2 had been omitted. 
+
+
+Discussion:
+	Given that p values obtained from statistical testing were far below significance level .05, the null hypothesis is rejected and it is supported that caffeine injection caused an increase in gastrocnemius contraction. The hypothesis may be better supported by testing more frog legs, though in this experiment the only apparent discrepancy that showed data inconsistency was the second leg having a smaller pre/post-injection difference. This may have happened because the caffeine did not permeate the entire muscle, likely not taking full effect on the contraction. 
+	A pre existing case study suggests that caffeine takes effect by increasing calcium ion release and therefore increasing muscle contraction [Isaacson, Sandow: 1967]. The more calcium there is in a cell, the more ions that bind to actin filaments in sarcomeres and allow for contraction. It is then probable that in this experiment that caffeine affected the gastrocnemius muscles in this way. The mode by which caffeine causes a higher release of calcium may be studied further, as it is possible that caffeine interacts with the muscle on the outer membrane, causing more APs by depolarizing the membrane. On the contrary, caffeine may also act by entering the cell and directly opening SR calcium channels. This can be tested by pairing caffeine injection with a blocker of either DHP or ryanodine, two proteins that connect the SR and t tubule and are crucial to transferring the AP signal to the SR in order to release calcium. If caffeine directly opens the SR channels, this blocker should have no effect on the release of calcium and on muscle contraction, but if caffeine amplifies the AP along the membrane, deactivating DHP or ryanodine would stop the signaling pathway and prevent contraction entirely. A future experiment, then, can retain this procedure except add in a first injection of a DHP or ryanodine deactivator. 
+
+
+Literature Cited:
+Isaacson, A., & Sandow, A. (1967). Quinine and caffeine effects on 45 Ca movements in frog sartorius muscle. The Journal of general physiology, 50(8), 2109-2128.
+
+Kumar, S., Tomar, P., & Rao, J. P. (n.d.). (2015).  EFFECT OF CAFFEINE ON FROG MUSCLE. Indian Journal of Clinical Anatomy and Physiology.Indian Journal of Clinical Anatomy and Physiology,2(2):62-65 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frogfigure1.PNG&Size=13432&Type=image%2Fpng&F=F_0B7y0A3tErC1kUZ
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frogfigure2.PNG&Size=11157&Type=image%2Fpng&F=F_8dfboHdw0Nx3XAp
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Comparison of the average gastrocnemius contraction amplitude before and after caffeine injection: n=15, with 5 pulses taken from each of the three legs. The difference between the pre caffeine and post caffeine bars is 1.092 mV. The standard deviation of the pulses taken without caffeine is .74557, and the standard deviation of the pulses taken with caffeine is .43175. The one-tailed paired t test performed on these data resulted in a t value of 8.75, and a p value of 2.36*10^-7.
+
+Figure 2: Comparison of the average gastrocnemius contraction amplitude before and after caffeine injection between the first and third leg tested: n=10, with 5 pulses taken from each of the three legs. The difference between the pre caffeine and post caffeine bars is 1.4212 mV. The standard deviation of the pulses taken without caffeine is .55, and the standard deviation of the pulses taken with caffeine is .5173. The one-tailed paired t test performed on these data resulted in a t value of 117.43, and a p value of 5.98*10^-16.
+
+*************************************************************************

@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-29 19:08:38
+Author of this lab report is: Std_fmqWtvia
+ID: R_1o8chfiKX6HYroa
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Inhibition and Activation of Protein Kinase A in Physarum polycephalum
+
+Abstract:
+Signaling pathways cause cells to respond to their internal and external environments.  Activating enzymes for stimuli response, protein kinase A is an integral part of the G-protein signal pathways.  When looking at protein kinase A, dibutryl-cAMP is known to activate it and the compound curcumin is known to inhibit it.  This leads to the experiment which focuses on protein kinase A, its activation and inhibition, and protein kinase A’s impact on Physarum polycephalum movement towards oatmeal flakes (the food source).  This experiment uses Physarum petri dishes with either dibutryl-cAMP, curcumin, or no compound and compares the growth of Physarum in each.  We hypothesize that Physarum with dibutryl-cAMP will activate and cause more movement of Physarum towards the oatmeal while curcumin will inhibit Physarum and cause less movement of Physarum towards the food source.  The Physarum showed no growth so there was no data to run the two-sample t-test to test for significance, and therefore there was no data to analyze and draw conclusions from.  The lack of growth was assumed to be due to the age/fragility of the Physarum itself or environmental factors.
+
+Introduction:
+Cells respond to their external and internal environments through signal transduction pathways.  A great organism to study when looking at cell signaling is the Physarum polycephalum. Physarum polycephalum is a slime mold apart of the Myxostelida division of species [Costello:2014].  Physarum, unlike multicellular organisms, doesn’t use a nervous system or hormones to sense and respond to its environment.  Instead, every cellular response to the environment follows one of many cellular signal transduction pathways.  The signal processing occurs when an external or internal stimulus interacts with a primary receptor and causes a response, mediated by the signal transduction pathways [Block:1998].  The newly activated receptors then release a second messenger which, in response, triggers a response pathway.  This second messenger does so by binding to an effector, thus causing the cell to change its behavior as a response to the stimulus [Block:1998].  The two major pathways that regulate Physarum are G-protein coupled receptors and ion-coupled receptors [Block:1998].
+Physarum is unique because it exists as a single cell but with a large number of diploid nuclei, also known as a multinucleate syncitium [Costello:2014].  Phyasrum acts as a large singular giant cell undergoing mitosis.  The large size of Physarum allows for the easy examination of the cell-level processes.  Physarum moves like a giant amoeba which deploys protoplasmic tubes to search for food (usually bacteria and organic debris), and any fragment of a plasmodium is able to restore the integrity of the surrounding membrane to continue searching for food [Costello:2014].  During this time the cytoplasm streams back and forth through a tubular element network and the moving chemical signals allow for the Physarum to move and respond to its environment [Costello:2014].  
+	In this experiment, Physarum is grown on a simple medium of 2% agar (a non-digestible, long-chain polysaccharide similar to gelatin) which is melted in water and put into a petri dish.  Flakes of uncooked oatmeal are added as the food that the Physarum consumes along with the bacteria and yeast which eat the oatmeal.
+	Looking back at signaling pathways, this experiment focuses on the cAMP-mediated path which is a part of the G-protein coupled pathway.  In this pathway, the effector enzyme activated by the G-protein is adenylate cyclase which converts ATP into cAMP [Block:1998].  cAMP regulates different cellular processes like cell growth and differentiation, ion channel conductivity, and gene transcription [Ding:2005].  cAMP does so by diffusing through the cell and binding to substrates, and an enzyme that is commonly activated by cAMP is protein kinase A [Ding:2005].  Protein kinase A can then activate other enzymes which causes the Physarum to respond to stimuli and move towards food sources.  Ding’s study shows that protein kinase A is essential for the functioning of plant extracts, specifically in the compound forskolin, an activator of adenyl cyclase relating to gene expression [Ding:2005].  It is also shown in Ding’s experiment that protein kinase A can be inhibited or activated which causes changes in forskolin and the intracellular concentration of cAMP [Ding:2005].  This leads to the experiment at hand which focuses on protein kinase A, that can either be activated or inhibited, and protein kinase A’s impact on Physarum movement towards food sources.  Sevetson’s research on cAMP on protein kinase shows that various intracellular cAMP activators, including dibutryl-cAMP, activate and increase protein kinase in rat adipocytes [Sevetson:1993].  Hasmeda’s research, on the other hand, looks at the inhibition of curcumin on protein kinase and Ca2+ in plant signal transduction pathways [Hasmeda:1996].  Because of protein kinase A’s central role in the signal transduction pathway, it is evident that changes in protein kinase A will cause changes in Physarum movement.  Knowing that the compound dibutryl-cAMP is known to activate protein kinase A and the compound curcumin is known to inhibit protein kinase A, this experiment looks at the impacts of the different compounds on Physarum’s movement towards oatmeal food sources at the end of the plates.  We hypothesize that Physarum with dibutryl-cAMP will activate and cause more movement of Physarum towards the oatmeal while curcumin will inhibit Physarum and cause less movement of Physarum towards the food source.
+
+
+Materials and Methods:
+In this experiment, 9 100mm petri plates containing 2% agar in water were used.  Each petri plate was labeled with names and dates on the back of the plates.  Then on 3 of the plates, a 1cm by 1cm square was drawn in the middle and labeled “control.”  On the next 3 plates, the same square was drawn in the middle and the plate was labeled “+Dibutryl cAMP.”  The last 3 plates were labeled the same way but with “+curcumin” on the back.  The plates were then turned over.  Here the 3 corresponding water agar plates were spread with 5mL of dibutryl cAMP and the 3 other corresponding water agar plates were spread with 5mL of curcumin.  For adding Dibutryl cAMP and curcumin, the plates were soaked with the compounds, and to do this the 20X stock was diluted to 1X (19mL of water and 1mL of compound) then poured onto the water agar plates and soaked for 10 minutes.  After soaking, the excess solution is poured off, and a kimwipe was used to blot off the last few millimeters on the lip of the petri dish.  The last 3 water agar plates were used as a control.  Then, the spatula was sterilized in ethanol, cooled, then used to cut 1cm x 1cm square in each of the 9 water agar plates in the middle where drawn on the back.  The block of agar was then removed and 1cm x 1cm blocks of physarum cultures were added to each plate.  8 oats were then put on the petri dishes, 4 oats on the left 3.5 cm away and 4 oats on the right 3.5cm away from the physarum blocks in each petri dish.  The lids were then taped of each plate to hold them in places, and the 9 plates were put into a dark bag and put into a lab drawer overnight (18-24 hours).  The next day, the 9 plates were removed from the dark and a millimeter ruler was used to measure the distance that the Physarum migrated from the initial square in the middle.  Two measurements were taken for both the right and the left oat for each plate.  The data was recorded then the plates were disposed of.  A two-sample t-test was then used to test the data for significance.
+
+Results:
+Because the Physarum showed no growth in any of the plates there was no data to run our two-sample t-test to test for significance, so therefore there was no data to analyze and draw conclusions from.   The control group with the Physarum block with no activator or inhibitor would have been used a reference point to show the normal behaviors of Physarum when the oatmeal was added to the petri dish in comparison to the changes in growth with the activator and inhibitors added.  The petri dishes with the activator dibutryl cAMP should have led to a greater physarum growth compared to the control group while the petri dishes treated with the inhibitor curcumin should have led a smaller physarum growth compared to the control.  A two-sample t-test would have been used to compare the activator and inhibitor groups to the control group to test for statistical significance.  While there was no growth seen in the Physarum petri dishes, the expected data would have shown different amounts of Physarum growth depending on the compound present in Physarum.  If we had results, as seen in Figure 1, it is expected that the dibutryl-cAMP added would have the most Physarum growth and the curcumin would have the least Physarum growth.
+
+Discussion:
+Since Physarum showed no growth in any of the plates our results were inconclusive, and it is evident that the Physarum cultures simply shut down normal growth.  The lack of growth could have been a number of different issues.  A reason why Physarum showed no growth could have been due to the fact that the Physarum was old and fragile.  This could be linked to the possibility that there was not enough Physarum (only 1cm by 1cm) put into the cut blocks to grow and move towards the oats at the end of the petri dishes.  Therefore, a greater quantity of Physarum could have been necessary for growth due to the old age of the Physarum, or younger and less fragile Physarum could have been used.  Another reason why there was no Physarum growth could have been due to the environmental conditions of the classroom.  Zhang’s research looks at how environmental cases impact Physarum by examining oxidative stress under dark conditions [Zhang:2017].  In this study, titanium dioxide particles were put into Physarum petri dishes, and these particles acted as oxidative stressors [Zhang:2017].  The study found that the titanium dioxide particles impacted the signal transduction pathways of the Physarum by inactivating them entirely [Zhang:2017].  This shows that environmental stress factors can inactive pathways and cause Physarum to not grow.  Therefore, environmental conditions similar to Zhang’s, any sort of high oxidative stress environment, could have been present and played a role in this experiment.  These unexpected conditions could have caused the complete inhibition of Physarum explaining why the experiment produced no growth or data.
+	Physarum can also be examined in larger scale views.  For example, Physarum movement can be analyzed by software to create maps and to look at efficient ways to navigate between various points.  Evangelidis’s study shows this way to study Physarum in the examination of Physarum imitating Roman roads that were made by Balkans during the 1st century BC until the 4th century AD [Evangelidis:2017].  With an accurate topography of the empire during the time period on the Physarum petri dishes, the results helped show how the Romans moved and traded goods, how people traveled and moved, and how roads were made in response to the geography at the time [Evangelidis:2017].  The Physarum plates were able to imitate these movements through the principles of movement and cell signaling, and the Physarum was easily examined because of its size and properties.  Another study looked at how the tumorous cells of osteosarcoma were regulated in their growth and development [Yi:2018].  The TRIM2 chemical used was found to inhibit cell division by inhibition of G-protein coupled receptors [Yi:2018].  This study shows how receptors of G-proteins can be used to slow down cancerous cells, which grow at a rapid rate.  This allows for possibilities of inhibiting and impacting G-protein receptors to be used in cancer research, which is a major focus in the world today.  This experiment allows for an examination and manipulation of the signal transduction pathways and G-protein coupled receptors that is applicable to research in the real world.
+
+
+Literature Cited:
+Block I, Rabien H, Ivanova K. 1998. Involvement of the second messenger cAMP in gravity-
+signal transduction in physarum. Advances in Space Research. 21: 1311-1314.
+Costello BL, Adamatzky AI. 2014. Routing of Physarum polycephalum “signals” using simple 
+chemicals. Communicative and Integrative Biology. 7: 3-5.
+Ding X, Staudinger JL. 2005. Induction of drug metabolism by forskolin: the role of the 
+pregnane x receptor and the protein kinase A signal transduction pathway. The Journal of 
+Pharmacology and Experimental Therapeutics. 2: 849-856.
+Evangelidis V, Jones J, Dourvas N, Tsompanas MA, Sirakoulis GC. 2017. Physarum machines 
+imitating a roman road network: the 3D approach. Scientific Reports. 7: 1-14.
+Hasmeda M, Polya GM. 1996. Inhibition of cyclic AMP--dependent protein kinase by circumin. 
+Phytochemistry. 42: 599-605.
+Qin Y, Jichao Y, Fulan Z, Shaoyu H, and Suwei W. 2018. TRIM2 Regulates the Development 
+and Metastasis of Tumorous Cells of Osteosarcoma. International Journal of Oncology. 
+53: 1643–56.
+Sevetson BR, Kong X, Lawrence JC. 1993. Increasing cAMP attenuates activation of mitogen-
+activated protein kinase. PNAS. 90: 10305-10309.
+Zhang Z, Zhang J, Shi C, Heng G, Ni RY, Qu J, Tang J, Liu S. 2017. Effect of oxidative stress 
+from nanoscale TiO2 particles on physarum polycephalum macroplasmodium under dark 
+conditions. Environmental Science and Pollution Research International. 24: 17241-17249.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-23+at+1.23.20+PM.png&Size=54463&Type=image%2Fpng&F=F_2y7WzQzZMcCaN3J
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: A bar graph looking at the theoretical average distances of Physarum movement for each group with standard deviations*************************************************************************
+
+
+

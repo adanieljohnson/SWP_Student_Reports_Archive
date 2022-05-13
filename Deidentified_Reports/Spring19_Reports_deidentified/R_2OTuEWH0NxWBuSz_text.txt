@@ -1,0 +1,59 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-03 19:27:53
+Author of this lab report is: Std_Pjwpm4fN
+ID: R_2OTuEWH0NxWBuSz
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: The antagonistic effect of Tubocurarine on the muscular response of the gastrocnemius muscle of the Northern Leopard frog (Rana pipiens)
+
+Abstract:
+Nerve impulses cause the release of Acetylcholine (ACh) from the presynaptic nerve terminal which generates an action potential that allows the muscle to contract. Tubocurarine is a chemical that acts as an ACh receptor antagonist and is often used as an anesthetic and acts by blocking ACh’s mechanism in the muscles and disrupt the magnitude of muscular response. The Northern Leopard frog (Rana pipiens) was used in this experiment and its gastrocnemius muscle was tested. The stimulus of 0.5V was used to measure the maximal response in all 3 frog legs with and without the addition of 0.1 ml of Tubocurarine. The mean response in voltage of the group after the addition of Tubocurarine was 0.158V, 0.090V, and 0.008V, which were found to be statistically significantly different than its mean before its addition (t-stat = 9.042073, df = 2, P = 0.012011). The difference in the amount of Tubocurarine given to each leg may have affected the results as it may decrease or increase the magnitude of the response differently in each replicate. Future experiments should look to make sure a precise value of Tubocurarine would be injected into each frog leg whilst also doing experiments combining the use of various chemicals to see its effect on muscular response.
+
+Introduction:
+Nerve impulses arriving at the neuromuscular junctions in the myofibers cause the release of Acetylcholine (ACh) from the presynaptic nerve terminal which generates an action potential in the muscle fiber. [Dennis: 1981] The action potential spreads through the fiber and opens sodium channels which help the release of calcium ions from the sarcoplasmic reticulum, allowing the muscle to contract and shorten. [Dennis: 1981] When the actions of ACh is disrupted, neuromuscular control will also be disrupted. The experimental stimuli is Tubocurarine, which acts as an ACh receptor antagonist and is often used as an anesthetic [Colquhoun: 1979]. It is also used to treat tetanus, encephalitis, and poliomyelitis [Console: 1951]. This suggests that it acts by blocking ACh’s mechanism in the muscles and disrupt the magnitude of muscular response. [Jenkinson: 1960] By using the leg specimen of a northern Leopard frog (Rana pipiens), we can investigate the biological question: How does an ACh receptor antagonist affect the magnitude of muscular response in the gastrocnemius muscle of R. pipiens? The hypothesis of the experiment is that the addition of Tubocurarine will decrease the magnitude of muscular response in the muscle. This hypothesis was chosen as Tubocurarine is an antagonist and will not allow ACh to bind to the receptors of the muscle. Additionally, this experiment was done to gain a direct measurement of activity in muscular response.
+
+Materials and Methods:
+The frog leg was skinned and covered in Frog Ringer's solution to prevent it from drying. Using forceps, the gastrocnemius muscle was separated from the bone. The threshold stimulus of the frog leg was determined to make sure that all three frog legs respond positively to the set voltage (0.5V). We kept this stimulus value constant and measured the maximal response in all 3 frog legs with and without the addition of 0.1 ml of Tubocurarine. Each leg was given 5 minutes to process the Tubocurarine after injection. The data for the 3 frog legs were averaged in order to compile data that was used to run a paired t-test. A one-tailed p-value was calculated to determine whether the response in voltage in the group after the addition of Tubocurarine is statistically significantly different than its mean before the addition of Tubocurarine against the alpha of 0.05.
+
+Results:
+The mean response in voltage of the group after the addition of Tubocurarine was statistically significantly different than its mean before the addition of Tubocurarine (t-stat = 9.042073, df = 2, P = 0.012011).  The mean difference in response after the addition of Tubocurarine in replicants 1, 2, and, 3 were -0.088V, -0.126V, and -0.097V respectively. This data can explain the visible difference in magnitude of the twitch after Tubocurarine was administered. The mean responses and standard deviations for all three replicants with and without Tubocurarine were plotted on a table and graph (Figure 1). 
+
+Discussion:
+According to the collected data, the hypothesis that the addition of Tubocurarine will decrease the magnitude of muscular response in the muscle was supported. We observed a statistically significant difference in muscular response with the addition of Tubocurarine. Therefore, we can conclude that Tubocurarine has an effect on the magnitude of neuromuscular response in the gastrocnemius muscle of the R. pipiens as the p-value is smaller than the alpha of 0.05. There are a few factors that may have affected our data. Firstly, there were only 3 replicates of the frog legs. This creates a sample size problem as it cannot capture variation in responses. However, the design of only comparing each leg to itself prevented individual differences from affecting the results. As seen in Table 1, each replicant had a different control and treatment response value but the use of this method allowed us to compare each replicant against itself and helps control the fact that the sample size is small. Secondly, during the experiment, the syringe that was used to inject Tubocurarine had a gas bubble that could not be removed whilst taking up the chemical, so each replicant may have had differing amounts of Tubocurarine. This may have skewed our data as different amounts of Tubocurarine may have caused a difference in the magnitude of change in response. Nonetheless, past experiments have shown that this effect has been not only been observed in both animals and humans but was also tested on different types of muscles (slow twitch and fast twitch) [Secher: 1982]. Future experiments should look to make sure a precise value of Tubocurarine would be injected into each frog leg whilst also doing experiments combining the use of various chemicals to see its effect on muscular response.
+
+Literature Cited:
+Console, A. D. 1951. THE CLINICAL USE OF D‐TUBOCURARINE. Annals of the New York Academy of Sciences, 54(3), 498-502.
+Colquhoun, D., Dreyer, F., & Sheridan, R. E. 1979. The actions of tubocurarine at the frog neuromuscular junction. The Journal of physiology, 293(1), 247-284.
+Dennis, M. J. 1981. Development of the neuromuscular junction: inductive interactions between cells. Annual review of neuroscience, 4(1), 43-68.
+Jenkinson, D. H. 1960. The antagonism between tubocurarine and substances which depolarize the motor end‐plate. The Journal of physiology, 152(2), 309-324.
+Secher, N. H., Rube, N., & Secher, O. 1982. Effect of tubocurarine on human soleus and gastrocnemius muscles. Acta anaesthesiologica scandinavica, 26(3), 231-234.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FrogFigure1.png&Size=28107&Type=image%2Fpng&F=F_2AFqrzsEeli4QkH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Effect of Tubocurarine on the muscular response of the gastrocnemius muscle of the Northern Leopard frog (Rana pipiens). Each bar shows a mean response (in V); error bars represent ± 1 s.d. Paired t-test result showed the means were statistically significantly different after the addition of Tubocurarine (P&gt;0.05). The yellow bar shows control results while the red bar shows treatment results.*************************************************************************
+
+
+

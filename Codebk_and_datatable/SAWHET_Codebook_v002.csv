@@ -1,0 +1,657 @@
+﻿Variable Group,Variable Name,Description,Values
+Project Data,sort_number,"A convenience variable for re-sorting rows back to original state. Values are unique and ordered, but may not be sequential; numbers were assigned before removing reports without consent, or that did not conform to the requirements of the courses or study.","Numeric, 1-4650"
+Report Details,textfile_name,Unique report IDs matching text files containing the body of that report. Our reports are provided in the accompanying Reports directory.,Character
+Report Details,topic,"The topic covered by the report. These are distinct to each course:  
+BIO101L - Manduca, Metabolism (only from Fall of 2017), and Nerves
+BIO102L - Photosynthesis and Signaling 
+BIO103L - Allocation and Behavior ","Factor:
+""allocation""
+""behavior""
+""manduca""
+""metabolism""
+""nerves""
+""photosynthesis""
+""signaling"""
+Report Details,report_title,The student-created title for their report,Character
+Report Details,submit_date,Date of submission in POSIX format,POSIX
+Report Details,semester,"The semester of submission. Coded as SemesterYear where Semester can be FA for Fall or SP for Spring, and the year is 17, 18, or 19, representing year 2017, 2018, or 2019, respectively","Factor:
+""FA17""
+""SP18""
+""FA18""
+""SP19""
+""FA19"""
+Report Details,course,"Number of the biology course. BIO 101L is an introductory course, covers comparative physiology. BIO102L is an upper-level course covering cellular biology, including developmental biology, immunology, and bioenergetics. BIO103L is an introductory course with a mix of first year and more senior students which covers genetics, ecology, and evolution.","Factor:
+""BIO101L""
+""BIO102L""
+""BIO103L"""
+Report Details,order,Whether the paper was the first or second assigned for the course. ,"Factor:
+""first""
+""second"""
+Report Details,sub_rev,Whether the paper draft was the first submitted (submission) or the final draft turned in after receiving comments from both the automated grading system SAWHET and TA review (revision).,"Factor:
+""submission""
+""revision"""
+Report Details,RptFleschScore,"Flesch reading ease scores derived for each report. Flesch scores give texts a score between 1 and 100, where 100 is the highest readability score. Broadly, Flesch looks at the length of words in syllables and the length of sentences in words. Texts containing longer words and sentences ona average are given lower scores, whereas those with simpler, shorter words and sentences are given higher scores.","Numeric, 1-100"
+Report Details,RptTTR,Type-Token Ratio values derived for each report. TTR gives a score assessing lexical diversity: how varied the vocabulary in the report is. TTR is calculated by dividing the number of unique words by the number of total words. Higher scores represent higher lexical variation (more unique words used),"Numeric, 0-1"
+Report Details,RptBioTermFreq,Frequency of biology-related words derived from a curated list. Calculated by number of words on the list divided by total number of words in the document,"Numeric, 0-1"
+Report Details,timeline,"A variable of convenience, created by pasting the year, semester, paper order, and numeric form of submission. This was done such that the resulting factors would be in chronological order. Note that this priveleges smaller course numbers as occuring earlier than large course numbers, though of course the courses were runnning simultaneously.","Factor:
+""2017_2_fall_103first1""
+""2017_2_fall_103first2""
+""2017_2_fall_103second1"" 
+""2017_2_fall_103second2""
+""2017_2_fall_101first1""
+""2017_2_fall_101first2""
+""2017_2_fall_101second1""
+""2017_2_fall_101second2""
+""2017_2_fall_102first1""
+""2017_2_fall_102first2""
+""2017_2_fall_102second1""
+""2018_1_spring_103first1""
+""2018_1_spring_103first2""
+""2018_1_spring_103second1""
+""2018_1_spring_103second2""
+""2018_1_spring_101first""
+""2018_1_spring_101first2""
+""2018_1_spring_101second1""
+""2018_1_spring_101second2""
+""2018_1_spring_102first1""
+""2018_1_spring_102first2""
+""2018_1_spring_102second1""
+""2018_1_spring_102second2""
+""2018_2_fall_103first1""
+""2018_2_fall_103first2""
+""2018_2_fall_103second1""
+""2018_2_fall_103second2""
+""2018_2_fall_101first1""
+""2018_2_fall_101first2""
+""2018_2_fall_101second1""
+""2018_2_fall_101second2""
+""2018_2_fall_102first1""
+""2018_2_fall_102first2""
+""2018_2_fall_102second1""
+""2018_2_fall_102second2""
+""2019_1_spring_103first1""
+""2019_1_spring_103first2""
+""2019_1_spring_103second1""
+""2019_1_spring_103second2""
+""2019_1_spring_101first1""
+""2019_1_spring_101first2""
+""2019_1_spring_101second1""
+""2019_1_spring_101second2""
+""2019_1_spring_102first1""
+""2019_1_spring_102first2""
+""2019_2_fall_103first1""
+""2019_2_fall_103first2""
+""2019_2_fall_103second1""
+""2019_2_fall_101first1""
+""2019_2_fall_101first2""
+""2019_2_fall_102first1"""
+Report Grading,Rpt_Grade,"The initial grade given for the report, ranging from 0 to 4, with 4 being full credit. This grade was given through a bins-based grading model, using nineteen criteria. 
+
+There are 5 basica criteria which must be satisfied in order to meet the standard for acceptability or else receive a failing grade. Theses are the presence of a clear hypothesis; organization of the report into the format of a scientific paper with appropriate sections (intro, methods, results, discussion); clear data summarized into tables or figures; interpretation of results, including stating whether the hypothesis was supported; and finally, the presence of citations in the appropriate format.
+
+Beyond the basic criteria, graders were instructed to look for technical and writing flaws. Technical flaws include reporting raw data or making errors in figures, not supporting claims with evidence, using statistics incorrectly, not referring to figures or tables, misusing citations, and not connecting claims to evidence. Writing flaws include unclear wording or syntax, lack of clear thought process, lack of precision of language, wordiness, improper diction (should be technical so use of ""emotional language"" or slang should be avoided), or distracting elements that prevent readers from clearly understanding outcomes.
+
+The binned scores range from 0 to 4, with 4 being full credit. A score of 0 means there was no report turned in or the report was plagiarized. A score of 1 means that the report did not meet at least one of the basic criteria. A score of 2 indicates the presence of both technical and writing flaws. A score of 3 indicates the presence of either technical or writing flaws. A score of 4 represents a report that meets basic criteria and has no major technical or writing flaws.","Integer, 0-4"
+Report Grading,Rpt_Grade_Mismatch ,"Logical, with 1 representing an identified error in GTA grading, 0 representing no error","Logical, 1/0"
+Report Grading,direction_mismatch ,"Numeric, the difference between the reported and correct grade; can be calculated by the report grade minus the corrected report grade",
+Report Grading,sawhet_accuracy ,Subjective estimate by GTA of accuracy of the automated comments by SAWHET system,"Factor:
+""0.4""
+""0.5""
+""0.6""
+""0.7""
+""0.8""
+""0.9"""
+Report Grading,variance_reason ,Explanation of why a grade correction was required,Character
+Report Grading,Corr_Rpt_Grade ,"Finalized report grade, ranging from 0 to 4. See the Rpt_Grade variable for an explanation of the bins-based grading system","Integer, 0-4"
+Report Grading,grading_date ,The date of the TA grading in POSIX format.,POSIX
+Report Grading,grading_time ,The time (in minutes) taken for each report to be graded,Integer
+Report Grading,NOTE: Grading components,"The following 5 variables describe whether the basic criteria of the report were present. These are coded as yes or no, where yes represents that the report adequately met the criterion while no shows that the report did not do so.","Logical, yes/no"
+Report Grading,hypothesis,Whether the report shows a clear hypothesis with defined research goals.,"Logical, yes/no"
+Report Grading,data,"Whether the report clearly presents lab data, summarized in figures and tables.","Logical, yes/no"
+Report Grading,citations,Whether the report cites relevant literature in an appropriate format and ties those sources in to the discussion.,"Logical, yes/no"
+Report Grading,interpretation,"Whether the report interprets the results correctly in context, including whether the hypothesis was supported and why.","Logical, yes/no"
+Report Grading,organization,"Whether the report is organized as a scientific paper with introduction, method, results, and discussion in the proper order","Logical, yes/no"
+Report Grading,technical_flaws,"If yes, report shows technical flaws","Logical, yes/no"
+Report Grading,writing_flaws,"If yes, report shows writing flaws","Logical, yes/no"
+Report Grading,basic_errors,The count of basic errors present in each report,Integer
+Report Grading,higher_errors,The count of higher errors present in each report,integer
+Report Grading,comments_use,Whether the GTA comments were thought to be useful by the students receiving said comments.,"Factor:
+""No""
+""Somewhat""
+""Yes"""
+Report Grading,ta_id,Unique anonymous ID for each GTA grading the paper,Character
+Student Features,AnonymousID,Unique anonymous ID for each student producing the lab report,Character
+Student Features,Level,Grade level of student at time of report.,"Factor:
+""Freshman""
+""Sophomore""
+""Junior""
+""Senior"""
+Student Features,Major,Student's major at time of most recent data collection,Factor
+Student Features,APBIO_result,Score on high school AP Bio test,"Factor:
+""No"" (did not take AP BIO course)
+""Yes - no exam"" (student did take an AP BIO course but did not sit an AP BIO exam)
+""Below 4"" (scored below 4 on the AP BIO exam)
+""4"" (scored a 4 on the AP BIO exam)
+""5"" (scored a 5 on the AP BIO exam)"
+Student Features,FirstSemester,The first semester we have record of the student taking a biology course,"Factor:
+""2017_2_Fall""
+""2018_1_Spring""
+""2018_2_Fall""
+""2019_1_Spring""
+""2019_2_Fall"""
+Student Features,FirstCourse ,The first biology course the student took,"Factor:
+""BIO101L""
+""BIO102L""
+""BIO103L"""
+Student Features,AvgQuizDuration ,Average duration in seconds taken from the beginning of an online quiz to quiz submission.,Numeric
+Student Features,AvgQuizScore ,Average score across all quizzes student has taken,Numeric
+BASX,NOTE: BASX,"Variables in the BASX group are from our BASX assessments. These test biology knowledge from our courses as well as student self-assessments of confidence in various biology-related tasks. We have BASX results from Fall 2017, Fall and Spring of 2018, and Spring 2019. Results from the Fall are from our introductory 101 and 103 courses, whereas those from the Spring are from our 102 course. Since these are all of the same format, we will give general identifiers for one semester. As this was not given to every student, high missingness is expected.",
+BASX,BASXSemesterYear_RecordedDate ,Date of submission in POSIX format,POSIX
+BASX,BASXSemesterYear_Current_Bio ,The biology course the student was enrolled in when taking the assessment.,"Factor:
+""BIO103L""
+""BIO102L""
+""BIO103L"""
+BASX,BASXSemesterYear_Smstr ,"The total number of university semesters the student has enrolled in. Freshmen in their Fall semester will respond 1, while Juniors in their Spring semester would respond 7, for example.",Integer
+BASX,BASXSemesterYear_PriorCollegeBIO ,"whether a student has had no previous college biology courses, college biology courses at Wake Forest University, or college biology courses at another university.","Factor:
+""No"" (no previous biology courses)
+""Another college or university"" (Undergraduate level biology course was taken at in institution other than WFU)
+""WFU"" (A previous biology course was taken at WFU)"
+BASX,BASXSemesterYear_AP_BIO ,"Similar to our student AP_BIO (indeed, this is where we took the information for that variable)","Factor:
+""No"" (did not take AP BIO course)
+""Yes - no exam"" (student did take an AP BIO course but did not sit an AP BIO exam)
+""Below 4"" (scored below 4 on the AP BIO exam)
+""4"" (scored a 4 on the AP BIO exam)
+""5"" (scored a 5 on the AP BIO exam)"
+BASX,NOTE: BSES questions,"The BSES questions allow students to self-assess their ability to do each of the tasks laid out on the BSES assessment. This is given as a numeric response from 1 to 5, with 5 being “Totally confident” and 1 being “Not at all confident.” Each BSES description in this codebook will print the question in full. ","Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_SumMainPoints ,"After reading an article about a biology experiment, you could write a summary of its main points","Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_CritReport ,You could critique a lab report written by another student,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_Write_Intro ,You could write an introduction to a lab report,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_Explain_Article,"After reading an article about a biology experiment, you could explain its main ideas to another person","Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_ReplicateExp ,You could read the procedures for an experiment and feel sure about repeating the experiment on your own,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_WriteMethods ,"You could write the methods section of a lab report (i.e., describe the experimental procedures)","Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_SumTVDoc ,"After watching a TV documentary dealing with some topic in biology,  you could WRITE A SUMMARY of its main points","Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_WriteResults,You could write up the results to a lab report,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_ExplainTVDoc ,"After watching a TV documentary dealing with some topic in biology, you could EXPLAIN its main ideas to another person","Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_WriteConc ,You could write the conclusion to a lab report,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_AnalyzeData ,"You could analyze a set of data (i.e., look at the relationships between variables)","Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_TutorStudentReport ,You could tutor another student on how to write a lab report,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_IDStrWkTxt ,You could identify and list the strengths and weaknesses in an experiment described in a biology textbook,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_TutorBio ,You could tutor another student for this biology course,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_ExpQuestion ,You could ask a meaningful question that could be answered experimentally,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_ExplainBio ,You could explain something that you learned in this biology course to another person,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_SciAtHome ,You could use a scientific approach to solve a problem at home,"Integer:
+""1"" (Not at all confident)
+""2""
+""3""
+""4""
+""5"" (Totally confident)"
+BASX,BASXSemesterYear_BSES_BSES_AVG ,"An average of all BSES scores, generated after the student's responses.",Numeric
+BASX,BASXSemesterYear _EDAT ,"A free response question response answering the follow question: “Advertisements for an herbal supplement containing ginseng claim that it promotes endurance. To determine whether the claim is fraudulent or can be accepted, what type of evidence would you like to see?  Describe the details of an investigative design to test that claim.” Tests understanding of scientific evidence and experimental design.",Character
+BASX,BASXSemesterYear _VNOS2 ,"Response to the following question : ”Does development and expansion of scientific knowledge require experiments? Explain your reasoning, and give an example to defend your position.” Assesses understanding of progress of scientific knowledge.",Character
+Evaluations,NOTE: Evaluations,"The evaluations group covers course evaluation responses listed by semester. These are given at the end of each semester for each course. It’s a chance for students to give feedback to TA performance, the effectiveness of various assignments, and whether the SAWHET report feedback system was effective. Again, because these evaluations are fairly consistent in form, examples will be given for one in a general form",
+Evaluations,SemesterYearEvals_Duration ,"Time, in seconds, for the student to complete the evaluation",Integer
+Evaluations,SemesterYearEvals_RecordedDate ,Date in POSIX format of submission,POSIX
+Evaluations,SemesterYearEvals_Level ,"Student class level (Freshman, Sophomore, Junior, Senior) at time of course evaluation","Factor:
+""Freshman""
+""Sophomore""
+""Junior""
+""Senior"""
+Evaluations,SemesterYearEvals_PrevBIO100,"Which semester, if any, that the student took BIO 100",Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO111 ,"Which semester, if any, that the student took BIO 111",Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO103,"Which semester, if any, that the student took BIO 103L",Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO101 ,"Which semester, if any, that the student took BIO 101L",Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO220,"Which semester, if any, that the student took BIO 220",Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO102,"Which semester, if any, that the student took BIO 102L",Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO300,"Which semester, if any, that the student took BIO 300",Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO100,If the student is currently taking BIO 100,Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO111 ,If the student is currently taking BIO 111,Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO103,If the student is currently taking BIO 103L,Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO101 ,If the student is currently taking BIO 101L,Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO220,If the student is currently taking BIO 220,Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO102,If the student is currently taking BIO 102L,Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_PrevBIO300,If the student is currently taking BIO 300,Fall '13 through Spring '19
+Evaluations,SemesterYearEvals_Major_SemesterYear,The major the student gave at the time of the evaluation. Our “Major” variable listed earlier takes the most recent response for each student.,Factor
+Evaluations,FA17Evals_LabEffort ,Deprecated after FA17. Self-evaluation of how much effort students put into their labs compared to their partners. Answers question “Lab effort How would you rate the amount of effort you put into completing the exercises and experiments DURING lab?”,"Factor:
+""I sometimes let others do more of the work, and did less myself.""
+""I tried to do my share of the work.""
+""I would do more than average, if the topic or experiment interested me."" 
+""I always tried to do more than what was expected or required. """
+Evaluations,FA17Evals_OutEfftHW ,"Deprecated after FA17. Estimated number of hours put into homework outside of lab meetings, including notebook work and other assignments",Numeric
+Evaluations,FA17Evals_OutEfftRpt ,Deprecated after FA17. Estimated number of hours working on each lab report.,Numeric
+Evaluations,FA17Evals_OutEfftOral ,Deprecated after FA17. Estimated number of hours working on each oral presentation for lab.,Numeric
+Evaluations,FA17Evals_OutEfftPrep ,Deprecated after FA17. Estimated number of hours preparing for a typical lab quiz or pre-lab activity.,Numeric
+Evaluations,SemesterYearEvals_PriorKnow ,Self-evaluation of prior biology knowledge before starting the course.,"Factor:
+""Nothing at all""
+""Very little""
+""Some; about the same as most students""
+""More than most other students""
+""A lot more than most other students"""
+Evaluations,SemesterYearEvals_Interest_Change ,Self-evaluation of change of interest in biology. ,"Factor:
+""Much less""
+""Somewhat less""
+""About the same""
+""Somewhat more""
+""Much more"""
+Evaluations,SemesterYearEvals_Interest_TA_list ,List of individual anonymized TA IDs for each student at time of evaluation.,Character
+Evaluations: TA Assessment,NOTE: TA_Mastery to TA_Overall,"These responses gave students the ability to assess their GTAs’ performances. These are given as numeric responses from 1 to 10, where 1 is very poor performance and 10 is ideal performance.","Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Mastery ,The TA knows biological concepts and principles on which the lab is based,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Prep,"The TA has materials for the lab, is familiar with the procedures, and can conduct lab efficiently","Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Adapt ,The TA adapts well to unexpected problems and can solve problems on the fly.,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Stimulates ,The TA stimulates thinking about the topic and concepts of the unit. ,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Attn ,The TA is able to hold your interest and attention and uses examples an average student understands.,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_ClearExpect ,"The TA tells you what they expect and how to achieve it. If you do not meet expectations, they tell you how to improve. The TA communicates expectations in a timely manner.","Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Communication ,"The TA speaks clearly and can be understood. They do not mumble, ramble, talk excessively. They explain lab goals and activities clearly and logically. ","Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_LabMgmt ,The TA makes sure students follow safety and housekeeping policies. They make sure materials for lab are ready and available before lab starts.,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Prompt,The TA returns graded materials in a reasonable time and updates the online gradebook every 1-2 weeks.,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_OutsideHelp,"You were able to schedule appointments with the TA outside of class. When you met, the TA took time to explain things thoroughly and help you learn.","Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Enthus ,The TA shows general enthusiasm for biology and this course.,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Challenged ,The TA challenged you to do better. The TA pushed you to develop new skills and abilities and improve those you already had.,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Fair ,The TA gave all students clear guidelines on what was expected on assignments and graded everyone based on those guidelines. ,"Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Assessment,SemesterYearEvals_TA_Overall ,"Given all your experiences with this TA, how would you rate their teaching ability?","Integer, 1-10, where 1 is worst performance and 10 is best performance"
+Evaluations: TA Resource Use,NOTE: TA Resource use,Spring 2019 added another assessment for the TAs – how often they used certain resources throughout the semester. This feature continued into FA 2019,"Factor
+""Never""
+""1-2 times""
+""3-5 times""
+""Every 2-3 weeks""
+""Almost every week""
+""Several times each week""
+""No basis to judge"""
+Evaluations: TA Resource Use,SemesterYearEvals_TA_Use_BRG ,"How often the TA used the Biology Resource guide, either the online or print version","Factor
+""Never""
+""1-2 times""
+""3-5 times""
+""Every 2-3 weeks""
+""Almost every week""
+""Several times each week""
+""No basis to judge"""
+Evaluations: TA Resource Use,SemesterYearEvals_TA_Use_Stats ,"How often the TA used statistics resources, such as explanations and templates for statistical tests","Factor
+""Never""
+""1-2 times""
+""3-5 times""
+""Every 2-3 weeks""
+""Almost every week""
+""Several times each week""
+""No basis to judge"""
+Evaluations: TA Resource Use,SemesterYearEvals_TA_Use_Sakai ,"How often the TA used the Sakai weekly guide, an online resource which covers what to do before, in, and after lab.","Factor
+""Never""
+""1-2 times""
+""3-5 times""
+""Every 2-3 weeks""
+""Almost every week""
+""Several times each week""
+""No basis to judge"""
+Evaluations: TA Resource Use,SemesterYearEvals_TA_Use_PreLab ,How often the TA explained how the Pre-lab assignments fit into the lab,"Factor
+""Never""
+""1-2 times""
+""3-5 times""
+""Every 2-3 weeks""
+""Almost every week""
+""Several times each week""
+""No basis to judge"""
+Evaluations: TA Resource Use,SemesterYearEvals_TA_Use_Gradebk ,How often the TA provided feedback through grades in a timely manner.,"Factor
+""Never""
+""1-2 times""
+""3-5 times""
+""Every 2-3 weeks""
+""Almost every week""
+""Several times each week""
+""No basis to judge"""
+Evaluations: TA Resource Use,SemesterYearEvals_TA_Use_Announcements ,How often the TA used announcements to share specific or last-minute lab changes or other news.,"Factor
+""Never""
+""1-2 times""
+""3-5 times""
+""Every 2-3 weeks""
+""Almost every week""
+""Several times each week""
+""No basis to judge"""
+Evaluations: Assignment and Resource Feedback,NOTE: Student feedback of assignments and resources,The assignment feedback group gives students an opportunity to provide feedback for the usefulness of various assignments and tools offered throughout the semester. The question is how well the assignments directly or indirectly helped the student master the information and skills for this course. ,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_PreLabQuiz ,How useful were the pre-lab assignments (usually online),"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_Articles,How useful were the 3-2-1 summaries of research articles,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_ClassDiscArticles ,How useful was reading and discussing articles as a class,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_Pitch ,How useful was the 1 minute pitch of experiments,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_StatusRpt ,How useful was the status report to the class on ongoing work,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_InformalPres ,How useful were the informal presentations,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_LabNotebks ,How useful was the keeping of lab notebooks,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_LabRptSub ,How useful were the first submissions of lab reports,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_LabReptRev ,How useful were the revised lab reports,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_FormalPres ,How useful were the formal presentations,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_ResourceGuidePrnt,How useful was the printed BioCore Resource Guide?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_ResourceGuideOnline ,How useful was the online version of the BioCore Resource Guide?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_ExpDesModel,How useful was having a standardized experimental design model to follow?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_ExpDesignPlans ,How useful was submitting experimental design plans online before started experiments?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_PrimLitGuidelines ,– How useful was having guidelines showing you how to approach reading primary literature?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_PeerRevDisc ,How useful was discussing your report with peers and the TA in a “peer review”?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_PeerRevProcess ,How useful was the process of reviewing your peers’ lab reports?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_PeerRevPeerComments ,How useful were the comments from your TA on your lab reports?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Assignment and Resource Feedback,SemesterYearEvals_Assnmt_SAWHETFdbk ,How useful were the comments from SAWHET’s automated feedback?,"Factor:
+“Not applicable to my course”
+‘Not Useful or Helpful at All”
+“Less Useful Than Others”
+“Very Useful or Valuable”
+""Essential"""
+Evaluations: Annotation Exercises,NOTE: Annotation exercises,"These responses record student feedback to annotation exercises, which involved text markup and some multiple choice responses about the structure of scientific writing. The responses are how effectively the annotation exercise helped students to several scientific writing related tasks.","Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Annotation Exercises,SemesterYearEvals_AnnotSciLang ,Annotation exercises helped to see differences in scientific and non-scientific language.,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Annotation Exercises,SemesterYearEvals_AnnotRead ,Annotation exercised helped to read a scientific paper,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Annotation Exercises,SemesterYearEvals_AnnotParts ,Annotation exercises helped to see what belonged in each part of a report.,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Annotation Exercises,SemesterYearEvals_AnnotResourceInstr ,Annotation exercises helped to understand the instructions in the Resource Guide.,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Annotation Exercises,SemesterYearEvals_AnnotResourceRpts ,Annotation exercises helped to apply the instructions in the resource guide to the student’s reports,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,Note: Group article exercise,These responses provide feedback to how reading and discussing articles in groups helped students to better interpret articles in the listed ways.,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,SemesterYearEvals_Group_Pieces ,Group reading helped to break down articles into parts so I could understand them better,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,SemesterYearEvals_Group_ExpDesign ,Group reading helped to understand the experimental design,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,SemesterYearEvals_Group_ID_ImpInfo ,Group reading helped to identify important information,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,SemesterYearEvals_Group_Results ,Group reading helped to understand the general results,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,SemesterYearEvals_Group_Interpretation ,Group reading helped to see other ways to interpret data,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,SemesterYearEvals_Group_AltConclusions ,Group reading helped to see alternative conclusions,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,SemesterYearEvals_Group_OutsideResources,Group reading helped to see when and how outside resources should be used and cited,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations: Group Article Exercise,SemesterYearEvals_Group_Learning ,Group reading helped the student to learn more from the articles than they would have on their own,"Factor:
+""Strongly disagree""
+""Disagree""
+""Neutral""
+""Agree""
+""Strongly agree"""
+Evaluations,SemesterYearEvals_Rpt_RevChange ,"How much students changed their lab reports from the submission to revision version, taking into account the feedback received from SAWHET and their GTAs.","Factor:
+""Made no changes at all""
+“Small changes (correction of grammar, typos)”
+“Moderate changes (rewrote some sentences; clarified meaning by revising wording)”
+“Larger changes (revised many sentences; rewrote or reorganized sections)”
+“Extensive changes (complete rewrite of entire report)”"
+Evaluations: Report Grading,NOTE: Report Grading,"These variables allow students to give feedback on how efffective they found the grading guidelines to be. These are found only in Fall 2017 and Spring 2018, while the grading guidelines were still under development.",
+Evaluations: Report Grading,SemesterYearEvals_Grading_ClearFdbk ,The grading guidelines made it clear where to improve the student’s work or apply more effort,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Report Grading,SemesterYearEvals_Grading_Understood ,The grading guidelines were easy to understand,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Report Grading,SemesterYearEvals_Grading_Detailed ,The grading guidelines were sufficiently detailed,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Report Grading,SemesterYearEvals_Grading_Fair ,The guidelines assigned points reasonably and fairly,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: Report Grading,SemesterYearEvals_Grading_Comment,"Free response answer to the question “What do you suggest we change, add, or remove to make our grading process more transparent, informative, or fair?”",Character
+Evaluations: 101 Writing Workshops,NOTE: 101L Writing Workshops,Integer response to our technical writing training for BIO 101L. These were workshops in learning what is expected in lab reports and how to peer review drafts. Present in FA18 and FA19 Evaluations.,"Integer 1-10, where 1 is least useful and 10 is the most useful"
+Evaluations: 101 Writing Workshops,SemesterYearEvals_101Writ_Interest ,The degree to which this technical writing training was interesting or engaging.,"Integer 1-10, where 1 is least useful and 10 is the most useful"
+Evaluations: 101 Writing Workshops,SemesterYearEvals_101Writ_Improved ,Improved or stimulated thinking and learning on the topic.,"Integer 1-10, where 1 is least useful and 10 is the most useful"
+Evaluations: 101 Writing Workshops,SemesterYearEvals_101Writ_Lecture (FA18 only) ,The degree to which the exercise connected to lecture topics,"Integer 1-10, where 1 is least useful and 10 is the most useful"
+Evaluations: 101 Writing Workshops,SemesterYearEvals_101Writ_Lab ,The degree to which the exercise connected to other lab topics.,"Integer 1-10, where 1 is least useful and 10 is the most useful"
+Evaluations: 101 Writing Workshops,SemesterYearEvals_101Writ_Comments ,Free response question with comments about the writing workshop as a whole.,Character
+Evaluations: 101 Basic Experimental Design Workshop,NOTE: 101 Basic Experimental Design Workshop,"Responses to an exercise in basic experimental design, introducing students to standard steps for designing biological experiments, as well as to basic biostatistics. ",
+Evaluations: 101 Basic Experimental Design Workshop,SemesterYearEvals_BasicExpDesign101_Understand ,The exercise was easy to understand,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: 101 Basic Experimental Design Workshop,SemesterYearEvals_BasicExpDesign101_Prepare,The exercise helped to prepare the student for later topics,"Factor:
+""Strongly disagree""
+""Somewhat disagree""
+""Neither agree nor disagree""
+""Somewhat agree""
+""Strongly agree"""
+Evaluations: 101 Basic Experimental Design Workshop,SemesterYearEvals_BasicExpDesign101_Comments ,Any other comments about the exercise or what might be done to improve it,Character
+Quizzes,NOTE: Quizzes,"The last part of our dataframe contains information from quizzes. These quizzes are generally aimed at conceptually preparing the student for an upcoming lab assignment. Many quizzes are simple multiple-choice exercises, while some contain free response questions. All quizzes will contain a _Duration and a _score entry. The _Duration entry contains the time in seconds taken to complete the quiz from the initiation of the quiz. The _score entry contains the integer score for the quiz. These variables are the basis for our “AvgQuizDuration” and “AvgQuizScore” variables provided earlier on in the dataset. Any quiz _FRQ variables contain free response questions that are intended as writing samples for analysis. Not every quiz response will be in the biological report writing style as our lab reports, as some are meant to be more general comments or reflection on reading or labwork. However, as potentially valuable student writing samples, we elected to include all of these free responses in a supplementary file",
+Quizzes,SemesterYear_Course_Q[1-12][Topic]_Duration,The time in seconds taken to complete the quiz from the initiation of the quiz.,Integer
+Quizzes,SemesterYear_Course_Q[1-12][Topic]_score,"The score received on the quiz. Because students have multiple attempts, this can be interpreted more as a measure of assiduousness than knowledge",Numeric
+Quizzes,SemesterYear_Course_Q[1-12][Topic]_FRQ,Responses to various free response questions posed on quizzes,Numeric

@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 14:37:44
+Author of this lab report is: Std_wK9R8DQa
+ID: R_VKDcjoeR47BYBYR
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Muscle Contraction Threshold in Gastrocnemius Muscle of Frog Legs
+
+Abstract:
+Calcium is important to muscle contraction and neuromuscular control. Lanthanum Chloride is a calcium channel blocker that can be injected into the muscle of an organism. The muscle contraction threshold is the amplitude needed for something to happen, or contraction to occur. Muscle contractions can be analyzed using a myogram, which was obtained in this experiment using Labscribe software. The experiment was done using ten frog logs. Each frog leg was prepared to expose the gastrocnemius muscle and sciatic nerve. The control group was tested for threshold three times without manipulation and an average of the three was calculated. The treatment group was injected with 1mM of Lanthanum Chloride at the muscle and then tested for threshold three times, and the average of the three was calculated and recorded. It was hypothesized that Lanthanum Chloride would increase the threshold amplitude of muscle contraction in a frog leg. The results rejected the hypothesis because the mean threshold of the control group was not significantly different than the mean of the treatment group; it did not change much. It is expected that the calcium channel blocker will affect another component of muscle contraction, but further experimentation is needed to test that hypothesis. 
+
+Introduction:
+Muscle contractions can be analyzed using a myogram. The components of muscle contraction are the latent period, the contractile period, and the refractory period. Skeletal muscles are activated by motor neurons [sakai:2018]. Calcium is an important component in muscle contraction. The Sarcoplasmic Reticulum releases calcium into the sarcoplasm, initiating muscle contraction [Conner:2018]. Calcium initiates muscle contraction by activating contractile proteins [Ruegg: 2012]. The Sarcoplasmic Reticulum then removes calcium from the cell body to end contraction. Frog legs contain a gastrocnemius muscle and sciatic nerve, two important features in neuromuscular control. A change in chemical environment can affect muscle contraction [sakai:2018]. Lanthanum Chloride is a calcium channel blocker. This experiment focuses on the latent period, more specifically the threshold. The objective of this experiment is to test the effects of Lanthanum Chloride on muscle contraction threshold in a frog leg. The dependent variable in the experiment is the threshold and the independent variable is the chemical environment, both with and without Lanthanum Chloride. It is hypothesized that the calcium channel blocker will increase the threshold of the muscle. 
+
+Materials and Methods:
+In this experiment, ten frog legs were obtained, skinned, and prepared so that the gastrocnemius muscle and sciatic nerve were free. Frog Ringers solution was used to prevent the tissue from drying. String was tied around the muscle of the leg and connected to a transducer (FT-302) located on a ring stand. Silver string was tied in two places on the muscle, and pins were used to hold down the leg. Stimulating electrodes were attached to each silver string and connected to a force transducer box. Labscribe software was used to obtain myograms for analysis. Threshold was tested for three times, and the twitch amplitude and stimulus amplitude were recorded. The frog muscle was then injected with 1mM of Lanthanum Chloride, a calcium channel blocker. Threshold was again tested three times. The experiment was repeated for each leg. A two-sample t-test was performed to test whether the hypothesis was supported or not. Data was collected in a chart and transferred to a bar graph to depict correlation between Lanthanum Chloride and the muscle contraction threshold.
+
+Results:
+After obtaining data for each of the ten frog legs, the average threshold amplitude was calculated for both treatment and control groups. The average threshold amplitude for controls was 0.23 volts. The average threshold for the treatment, after injection with lanthanum chloride, was 0.227. the threshold amplitude did not change significantly with the treatment group. A two-sample t-test was conducted to determine whether or not the hypothesis was supported. The mean of the control group was not significantly different than the mean of the experimental group (t-stat=0.05, P= 0.48), meaning the null hypothesis was supported. Figure 1. Shows the average threshold amplitude for experimental and control groups, allowing for comparison of the two treatments. 
+
+Discussion:
+The results of this experiment do not support the hypothesis that the threshold will increase when Lanthanum Chloride is added. The mean of the control group was not significantly different than the mean of the treatment group. The average threshold amplitude of the two groups was similar, meaning Lanthanum Chloride had little effect on the threshold. It is known through previous experiments that calcium is important for muscle contraction and relaxation because it activates contractile proteins [Ruegg: 2012]. The sarcoplasmic reticulum releases calcium to initiate contraction and then reabsorbs it to end contraction [Conner: 2018]. However, since the calcium channel blocker had no effect on the twitch amplitude, it could be hypothesized that it instead will affect the twitch amplitude. Further experimentation is needed to determine if this hypothesis is correct. The experiment should be repeated and tested for twitch amplitude rather than threshold amplitude. Comparing the average threshold amplitude of the treatment and control group in Figure 1, allows us to see that Lanthanum Chloride had little effect. The null hypothesis, that Lanthanum Chloride does not have a significant effect on muscle contraction threshold, is supported with the results of this experiment. Calcium channel blockers are expected to have some effect on muscle contraction because of the importance of calcium to the process. However, further testing is needed to determine the exact effect. This experiment showed that a calcium channel blocker does not effect the contraction threshold. 
+
+Literature Cited:
+1)	WFU Biology Dept. Sakai. Bio114L 2018. Accessed March 18, 2018. &lt;http://www.sakai.wfu.edu&gt;. 
+2)	Conner, W. Muscle Mechanics. Sakai. Bio114 Resources. Accessed March 18, 2018. &lt;http://www.sakai.wfu.edu&gt;. 
+3)	Rüegg, J. C. (2012). Calcium in muscle contraction: cellular and molecular physiology. Springer Science & Business Media. pp 1-2.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=muscle+lab+graph.PNG&Size=35721&Type=image%2Fpng&F=F_pGnfB20pXbOXakV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effects of Lanthanum Chloride on threshold in frog leg muscles. Control frog legs (blue bar) had a similar average threshold amplitude than treatment frog legs (orange bar). Ten frog legs were tested for threshold three times and threshold amplitude was recorded. A myogram was recorded for each frog leg and the average threshold amplitude was calculated using the three trials. Each bar represents ten frog legs, the ten control were not manipulated and the ten treatment were injected with lanthanum chloride; error bars are +/-1 s.d.
+
+*************************************************************************

@@ -1,0 +1,98 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-23 07:44:11
+Author of this lab report is: Std_oUc2CEWc
+ID: R_BG2vtI5AjRdAVUt
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: Effects of A23187 and sodium butyrate on cytoplasmic streaming on the Physarum polycephalum
+
+Abstract:
+The Physarum polycephalum is a multinucleate syncytium and is most commonly used to study cell-level processes without the use of a microscope. This experiment focuses on cytoplasmic streaming that the Physarum polycephalum exhibits and the role that Ca2+ plays in the signaling pathways associated with it. A23187, a Ca2+ activator, and sodium butyrate, a Ca2+ inhibitor, will be used to study the role Ca2+ plays in the signaling pathways. It is hypothesized that in the presence of A23187 cytoplasmic streaming will increase and in the presence of sodium butyrate cytoplasmic streaming will decrease. Using 2% water agar plates that have been treated with A23187 and sodium butyrate, the Physarum polycephalum was allowed to grow in each plate. It was found that only the treatment group of A23187 yielded significant results while the sodium butyrate treatment group did not. The data collected did not support the original hypothesis. The data collected from this experiment suggests other messengers such as IP3 also has an important role in cytoplasmic streaming. With this data, processes more complex and be studied in greater detail. Future experiments may benefit from using activators and inhibitors that target the same processes and not having one target more than the other.
+
+Introduction:
+The Physarum polycephalum is a multinucleate syncytium which means it is a mass that contains multiple nuclei that is contained in a single plasma membrane [Johnson AD 2018]. Physarum polycephalum is most commonly used for is studying cell-level processes without the use of a microscope [Johnson AD 2018]. 
+	Physarum polycephalum is a multicellular plasmodium as it remains in the dark with high humidity [Johnson AD 2016]. It spends most of its time looking for food but, if there is no food or if there is light then it starts its reproductive cycle [Takamatsu et al. 2009]. However, a plasmodium Physarum polycephalum exhibits complex behavior such as cytoplasmic streaming, phototaxis, chemotaxis and structural reorganization [Takamatsu et al. 2009]. This experiment focuses on cytoplasmic streaming that the Physarum polycephalum exhibits. Cytoplasmic streaming is the cytoplasm inside the thin strands flowing bidirectionally [Johnson AD 2018]. The direction changes frequently, which suggests there is a signaling mechanism that controls flow reversal [Kamiya 1981]. Since the Physarum polycephalum organism is a great model for studying cell-level processes without the use a microscope and it exhibits cytoplasmic streaming as a plasmodium it will be the perfect organism to study cytoplasmic streaming and its signaling pathways.
+In a recent study, it was found that Ca2+ propagates in a wave like form during cytoplasmic streaming [Yoshiyama et al. 1981]. This means that Ca2+ plays a role in the signaling process during cytoplasmic streaming most likely as a second messenger since it usually is a second messenger in most cells [Johnson AD 2016]. The importance of Ca2+ in the signaling pathways of cytoplasmic streaming and can cytoplasmic streaming occur when Ca2+ levels are decreased or increased will be studied in this experiment 
+	To clearly see the role Ca2+ plays in cytoplasmic streaming in the Physarum polycephalum an activator and an inhibitor of Ca2+ will be exposed to the Physarum polycephalum to study how cytoplasmic streaming will be effected with a decrease or increase of Ca2+. A recent study suggests that the chemical A23187 increased tension strength generation in the permealized plasmodial strand of physarum which means that it can act as an activator of Ca2+. Another study suggests that sodium butyrate can act as an inhibitor of Ca2+ in the Pysarum polycephalum because of the effects that it has on mitosis and growth [Jalouzot R, Toublan B.1981] [Yoshimoto et al. 1981]. For these reasons A23187 and sodium butyrate will both be used to activate and inhibit Ca2+ respectively in the Physarum polycephalum model organism. It is hypothesized that in the presence of A23187 cytoplasmic streaming will increase and in the presence of sodium butyrate cytoplasmic streaming will decrease. 
+
+
+Materials and Methods:
+        This experiment requires nine 2% water agar plates three of which will be treated with A23187, another three with sodium butyrate and the last three will act as a control. A stock Physarum polycephalum that was prepared prior to the start of the experiment at a growth medium was also used.
+	
+         The procedure and treatment for this experiment were followed as indicated from figure 1.
+
+	Each treatment plate was treated with 5-mL of either A23187 or sodium butyrate and left to soak for ten minutes. After ten minutes the plates were drained and was now ready to be prepared according to table 1. Each plate was then wrapped in aluminum foil to ensure complete darkness, labeled and placed in an incubator for eighteen hours. After the incubation peroid had passed, each plate was taken and observed under an inverted phase microscope. For each plate, three strands were observed and measured for the time in seconds it took for the cytoplasm to change direction and then back to its original direction. Three time trials were taken for each strand.
+
+Both treatment groups were analyzed and compared to the data collected from the control group and a two-sample t-test was used to determine if there was a significant change in the average cytoplasmic streaming rate with a critical value of p = 0.05. 
+
+
+
+
+Results:
+The A23187 treatment group yielded a significant increase in cytoplasmic streaming when compared to the control group (t-value = 2.1, p-value = 0.03, df = 4). 
+
+	The sodium butyrate treatment group however did not yield any significant results when compared to the control group. (t-value = 1.1, p-value = 0.26, df = 4).
+
+	When the two treatment groups were compared to each other the data yielded significant results (t-value = 4.4, p-value = 4.8X10^-5, df = 4).
+
+Figure 2 presents the data collected from this experiment.
+
+
+Discussion:
+	The null hypothesis that in the presence of A23187 or sodium butyrate will have no effect on cytoplasmic streaming in the Physarum polycephalum cannot be fully rejected.
+
+	The A23187 treatment group was the only treatment group in the experiment to yield significant results. This alone however is not enough to support the original hypothesis. The purpose of this experiment was to find the importance that Ca2+ plays in the signaling pathways of cytoplasmic streaming. To support our original hypothesis that Ca2+ does indeed play a big role in the signaling pathways, both treatments would have to yield significant data. However, only A23187, the Ca2+ activator, yielded significant results while the inhibitor, sodium butyrate did not. This data can be explained by the fact that A23187 also targets IP3, another second messenger that also has a role in this particular pathway [Johnson AD 2018]. Therefore, the alternative hypothesis that in the presence of A23187 cytoplasmic streaming will increase and in the presence of sodium butyrate cytoplasmic streaming will decrease has to be rejected.
+	
+	Sodium butyrate did not yield significant results which can be a result of sodium butyrate only targeting Ca2+ and not IP3 as A23187 did. Since IP3 is responsible for the release of Ca2+ and sodium butyrate does not target it, then Ca2+ will still be released. Therefore, there will still be cytoplasmic streaming activity and the activity will not be significantly deceased as the data suggest.
+	
+	When both treatment groups were compared, significant data was yielded suggesting that both A23187 and sodium butyrate had different effects on cytoplasmic streaming rates.
+
+The data collected in this experiment can help further the understanding of the signaling pathways that is associated with cytoplasmic streaming. Furthermore, with a better understanding of a basic process such as cytoplasmic streaming, more complex processes can be studied in greater detail. For instance, one experiment focused on the signaling pathways of microtubule formation in Physarum polycephalum and the impact the inhibitor colchicine had on its formation [Quinan et al. 1981]. 
+
+	It is important that further research is done with the Physarum polycephalum because it an excellent model to study cell-level processes. Further studies can be done using different inhibitors that targets different processes in cytoplasmic streaming such as IP3. Using activators and inhibitors that target the same process will yield better results since the same processes will be targeted by both. It is important to note that both the activator and inhibitor should target the exact same process and neither one should target something that the other does not.
+
+
+
+Literature Cited:
+Jalouzot R, Toublan B.1981. Multiple effects of 5 mM sodium butyrate on Physarum polycephalum macroplasmodia. Cell and Tissue Research. 214: 195-201.
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2018), pp. 15–16.
+
+Kamiya N. 1981. Physical and Chemical Basis of Cytoplasmic Streaming. Annual Review of Plant Physiology. 32: 205-236.
+Quinan RA et. al. 1981. A Correlation between in Vivo and in Vitro Effects of the Microtubule Inhibitors Colchicine, Parbendazole and Nocodazole on Myxamoebae of Physarum polycephalum. Microbiology. 122: 1-6.
+Takamatsu A et. al. 2009. Environment-dependent morphology in plasmodium of true slime mold Physarum polycephalum and a network growth model. Journal of Theoretical Biology. 256: 29-44.
+Yoshimoto Y et. al. 1981. Simultaneous oscillations of Ca2+ efflux and tension generation in the permealized plasmodial strand of physarum. Cytoskeleton. 1: 433-443.
+Yoshiyama S et. al. 2013. Calcium wave for cytoplasmic streaming of Physarum polycephalum. Cell Biology International. 34: 35-40.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-23+at+7.38.14+AM.png&Size=161001&Type=image%2Fpng&F=F_2uyNX4vhU96U0VX
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=PhysarumData.png&Size=63185&Type=image%2Fpng&F=F_DpD9UhQebNReV8d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Preparation table.
+
+Figure 2. Average Time of Cytoplasmic Streaming. This graph shows the average time that was recorded for the cytoplasm to change direction and then return back to their original direction. A lower time recorded means a greater rate of cytoplasmic streaming. Only the A23187 treatment yielded significant data when compared to the control group (t-value = 2.1, p-value = 0.03, df = 4). Error bars show the standard deviation in each treatment group.
+
+
+*************************************************************************

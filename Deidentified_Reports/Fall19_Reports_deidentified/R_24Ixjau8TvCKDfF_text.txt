@@ -1,0 +1,76 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-15 22:01:49
+Author of this lab report is: Std_9889ghvx
+ID: R_24Ixjau8TvCKDfF
+Course number: BIO101L
+TA: TA_23dMbkjX
+*************************************************************************
+Title: The Effect of Juvenile Hormone on Manduca Sexta Growth
+
+Abstract:
+Abstract
+
+Introduction:
+Manduca sexta, also known as the tobacco hornworm, develops from a larva into an adult moth through a series of hormone secretions throughout the insect’s adolescence [Safranek: 1980]. The life cycle of the tobacco hornworm includes five instar larva stages [Safranek: 1980; Johnson: 2019]. Three main hormones govern the stages of the Manduca sexta life cycle: prothoracic hormone (PTTH), ecdysone (20E), and juvenile hormone (JH) [Bollenbacher: 1980]. PTTH regulates the release of ecdysone; ecdysone regulates the timing of molting; and juvenile hormone regulates the type of molt that occurs, usually preventing metamorphosis in order to maintain a juvenile structure [Safranek: 1980]. Both JH and 20E work together in specific concentration ratios throughout the life cycle in order to regulate the stages of Manduca sexta development [Bollenbacher: 1980].
+Many insecticides have the ability to halt the development of insect larval instars by acting as developmental hormone agonists [El-Sheikh: 2015]. With specific regard to the production of Juvenile Hormone, as this is the major hormone focused on in the following experiment, some insecticides such as Precor IGR and Martins IGR contain a juvenile hormone analogue called methoprene [El-Sheikh: 2015]. Methoprene is of fairly low toxicity to larval instars, often failing to completely inhibit the development of larval instars, yet still disrupts development in the late instar stages of insect development because of its similar chemical structure to JH, acting as an external force that inhibits the development of insects [El-Sheikh: 2015].
+The following experiment was inspired by the question: how does juvenile hormone impact the growth in mass of Manduca sexta? Because JH’s main role is to maintain the insect’s juvenile structure, the null hypothesis posits that if Manduca sexta are treated with the JH analogue Precor IGR, then their growth in mass will be less than Manduca sexta that aren’t treated with the JH analogue [Safranek: 1980]. The alternative hypothesis states that if Manduca sexta are treated with Precor IGR, then they will demonstrate the same growth patterns in mass as Manduca sexta that aren’t treated with this JH analogue.
+
+Materials and Methods:
+Manduca sexta in their larval instar stages were acquired and kept in an incubator prior to the experimental set-up. Containers with four compartments inside of each were obtained, with two holes punctured with a puncture tool into each of the compartment’s walls in order to ensure airflow throughout the containers. The containers’ lids remained unpunctured. The first container’s lid was labeled “JH Group”, while the second container’s lid was labeled “Control Group”. Each container’s cells were numbered one through four in order to keep track of which hornworm was which when collecting data.
+A square container was placed on a scale, the scale was zeroed, and 40 grams of food kept at room temperature were measured out, then stirred. For the Control Group container, 10 grams of food was measured and placed into one of the container’s cells, repeated until each cell had 10 grams of food. Next, using a transfer pipet, three to ten drops of di water were placed on the food to prevent it from drying out. The same weighing process was followed for the JH Group, with 40 grams of food kept at room temperature measured out into a square container, then stirred. 10 grams of food were measured for each of the container’s cells. Using a new transfer pipet, five drops of the JH analogue Precor IGR were placed on the 10-gram portions of food, then stirred into the food. For both groups, the food was maintained in one clump per cell in order to prevent drying.
+The Manduca sexta used for this experiment (eight hornworms in total) were weighed before they were placed one by one into their own individual cells. Their weights and appearances were recorded in a data table under “Day 0”, then recorded every day (Days 1-14) in a data table for two weeks. Throughout the experiment, both containers were placed in an incubator. Dried-out food was replaced with another 10 gram portion as needed, prepared in the same aforementioned manner for the Control Group and JH Group. Once all data was collected, a two-paired t-test was conducted to compare the growth of the JH and Control Groups and to determine if the difference in growth rates was statistically significant.
+
+Results:
+Consistent throughout both the Control and JH Groups, Manduca sexta treated with the JH analogue Precor IGR and Manduca sexta in the Control Group showed a steady increase in weight over the course of the experiment (Figure 1). When comparing the average difference in growth between Days 0 and 15 in both the Control and JH Groups, the data shows a slight difference in growth rate, with hornworms in the JH Group having a larger difference in average weight from the start of the experiment to the end than hornworms in the Control Group, as depicted in Figure 2. The Control Group shows an average difference in weight of 12.22 grams from Day 0 to Day 15, while the JH Group shows an average difference in weight of 13.06 grams within the same time frame (Figure 2 and Table 1). Demonstrated in Table 1, paired t-test statistical testing gave a p-value of 0.5461 with three degrees of freedom (t-stat = 0.679, df  = 3, P = 0.5461).
+Qualitative observations showed a visual difference between hornworms treated with the JH analogue and hornworms in the Control Group. Manduca sexta in the Control Group demonstrated white and black stripe-like markings on their green exteriors (Figure 3), whereas Manduca sexta in the JH Group demonstrated light white markings and lacked black markings entirely (Figure 4). Manduca sexta in the Control Group also demonstrated a darker green than the hornworms in the JH Group, shown through a comparison of Figures 3 and 4, despite similar growth rates in both groups.
+
+Discussion:
+According to the results of this experiment, the presence of the methoprene-containing juvenile hormone analogue, Precor IGR, has no impact on the growth rate in mass of Manduca sexta, refuting the null hypothesis, which states that the JH Group would grow slower than the Control Group. While the interpreted data shows is a slight difference in growth between the JH and Control group, this growth difference is proven inconsequential through paired t-test statistical testing, as depicted in Table 1 along with the average growth rates of each group. Based on the statistical testing as shown in Table 1, there is no significant difference between the growth in mass of Manduca sexta treated with JH analogue during development as opposed to Manduca sexta that receive no treatment, refuting the null hypothesis.
+One explanation for these results is that JH levels are already high compared to 20E levels during Manduca sexta adolescence, as JH’s main function is to maintain a juvenile structure within the Manduca sexta [Truman: 1999]. Because these levels are already so high, an introduction of even more JH, or a JH analogue with a similar chemical structure to JH, may have very little impact on the insect’s growth, explaining why the JH Group exhibited an average change in weight similar to that of the group receiving no treatment, as shown in Figure 2 and Table 1 [El-Sheikh: 2015]. Because JH never leaves the Manduca sexta’s system in the developmental time frame of this experiment, this consistency of JH levels could be an explanation for why there is no marked difference in growth between the JH Group and Control Group [Truman: 1999; Zhou: 2001; El-Sheikh: 2015].
+A similar train of thought can be followed when it comes to the differences in coloration observed between the Control Group and Manduca sexta that were treated with the JH analogue Precor IGR. JH’s primary role is to inhibit maturation, affirmed by this experiment in qualitative observations about the appearance-related changes in the hornworms treated with JH analogue [Truman: 1999]. A greater abundance of JH-like molecules is found in groups of hornworms treated with a JH analogue, while the concentration ratios of JH and 20E remain normal for control groups, potentially leading to a difference in gene expression between the two groups as the usual low-level releases of 20E are minimized by JH’s abundance [El-Sheikh: 2015; Zhou: 2001]. Because the hornworms in the Control Group receive no additional hormones that prevent maturation, these hornworms may have the capability to begin the early stages of the maturation process due to their normal hormone concentration ratios, forming external black and white stripe-like markings, unlike the JH Group [Truman: 1999; Zhou: 2001].
+In order to reach more definitive conclusions regarding JH’s role in the growth in mass of Manduca sexta, further experimentation is required. To achieve more conclusive data, it behooves future experimental designs to have an extended observation period that goes beyond 15 days. With this extended period of observation, Manduca sexta will be able to advance further along in their development and growth, providing more data and a stronger foundation for forming conclusions from the experiment’s results. Additionally, a separate hypothesis could be tested regarding JH’s role in the color change of hornworms observed in this experiment, exploring what specific influences might have contributed to the lighter appearance of the JH Group hornworms in comparison to the Control Group hornworms. These future experiments have the potential to provide a deeper understanding of the mechanisms behind insect hormones and their influence on organism development, making them especially worthwhile.
+
+Literature Cited:
+1. Safranek L, Cymborowski B, Williams C. 1980. The Biological Laboratories, Harvard University, Cambridge, Massachusetts, USA. Data from: Effects of juvenile hormone on ecdysone-dependent development in the tobacco hornworm, Manduca sexta. Biol, Bull. 158:184-256. Accessed via University of Chicago Press, url: https://www.journals.uchicago.edu/doi/pdfplus/10.2307/1540934, September 22, 2019.
+2. Johnson AD, Mallison S. 2016. Hormone Regulation. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 19.2 (updated June 8, 2019), pp. 5-16.
+3. Bollenbacher W, Smith S, Goodman W, Gilbert L. 1980. Department of Zoology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA. Data from: Ecdysteroid Titer during Larval-Pupal-Adult Development of the Tobacco Hornworm, Manduca sexta. General and Comparative Endocrinology. 44:302-306. Accessed via Academic Press, url: https://urlzs.com/YwYvR, September 24, 2019.
+4. El-Sheikh E, Kamita S, Hammock B. 2015. Department of Entomology and the UC Davis Cancer Center, University of California, Davis, California, USA. Data from: Effects of juvenile hormone (JH) analog insecticides on larval development and JH esterase activity in two spodopterans. Accessed via Elsevier Journal, doi: http://dx.doi.org/10.1016/j.pestbp.2015.10.008, October 15, 2019.
+5. Truman J, Riddiford L. 1999. Department of Zoology, University of Washington, Seattle, Washington, USA. Data from: The origins of insect metamorphosis. Accessed via Wake Forest University, doi: https://doi.org/10.1038/46737, September 22, 2019.
+6. Zhou B, and Riddiford L. 2001. Department of Zoology, University of Washington, Seattle, Washington, USA. Data from: Hormonal Regulation and Patterning of the Broad-Complex in the Epidermis and Wing Discs of the Tobacco Hornworm, Manduca sexta. Accessed via Idea Library, doi: 10.1006/dbio.2000.014, September 23, 2019.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-15+at+9.24.25+PM.jpg&Size=89792&Type=image%2Fjpeg&F=F_eA3VfUVAOeEujrX
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-15+at+9.25.39+PM.jpg&Size=67199&Type=image%2Fjpeg&F=F_2rNJMmDHGMjXsJl
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-15+at+9.26.10+PM.jpg&Size=86170&Type=image%2Fjpeg&F=F_7X6WFZKuOgdaNeV
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-15+at+9.59.34+PM.jpg&Size=126407&Type=image%2Fjpeg&F=F_301s7qXkCbK3kgD
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-15+at+9.59.42+PM.jpg&Size=136011&Type=image%2Fjpeg&F=F_ZknI17fXgZLLvTX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Difference in weights of Manduca sexta between Day 0 and Day 15 in both the Control and JH Groups, showing continuous upward growth in mass between Days 0 and 15.
+Figure 2. Average difference in Manduca sexta weights from Day 0 to Day 15 based on group, with the JH Group exhibiting a higher average difference in weight that the Control Group.
+Table 1. Average differences in weight in grams of JH group and control group from Day 0 to Day 15, compared for significance by the p-value acquired from a paired t-test.
+Figure 3. Photograph of control group Manduca sexta, demonstrating the green, white, and black coloring of the hornworms, to be compared with Figure 4.
+Figure 4. Photograph of JH group Manduca sexta, demonstrating the light green and white coloring of the hornworms, to be compared with Figure 3.*************************************************************************
+
+
+

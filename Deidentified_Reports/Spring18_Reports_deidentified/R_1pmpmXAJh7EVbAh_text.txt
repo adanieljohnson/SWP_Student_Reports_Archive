@@ -1,0 +1,69 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-13 22:33:44
+Author of this lab report is: Std_Nw4mEvf5
+ID: R_1pmpmXAJh7EVbAh
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Calcium inhibition and the neuromuscular junction on the gastrocnemius muscle of Rana Pipiens
+
+Abstract:
+On a molecular level, calcium ions are responsible for voluntary and involuntary muscle contractions; thus, calcium inhibition should prevent contraction. In this experiment, we tested the effect of calcium inhibition on the gastrocnemius muscle of northern leopard frogs (Rana pipiens), hypothesizing that the calcium inhibition would raise the threshold (V) for voluntary muscle contractions of the gastrocnemius muscle and produce weaker amplitudes (lower strength). Suspended from a force transducer, the muscle was isolated and probed at successively increasing voltages with the threshold and amplitude strength being recorded. The muscle was then injected with a calcium blocker and probed again with the same variables being recorded. The data collected is inconsistent most likely due to experimental procedural error and further testing is necessary for any concrete conclusions.
+
+
+Introduction:
+	Contractions are the result of interactions at the neuromuscular junction involving the neurotransmitter acetylcholine (Ach). Acetylcholine binds to receptors triggering an action potential that travels across the sarcolemma and travels down the t tubules, triggering the release of calcium ions from the sarcoplasmic reticulum into the sarcoplasm. In the sarcoplasm, calcium binds to the troponin complex which binds to tropomyosin which undergoes a conformational change of shape, exposing the binding sites on actin and allowing cross bridges to form so that contraction can proceed [Julian 1988]. These interactions are necessary for the contraction of skeletal muscles which plays an important part in several processes including movement and the return of blood to the heart via veins.The presence of calcium is necessary for the exposure of the binding sites [Herzberg 1986]; thus, we hypothesized that calcium inhibition via gallopalim (the calcium inhibitor) would inhibit contraction, either raising the threshold or by providing weaker contractions.  
+
+Materials and Methods:
+1. 	Isolate the gastrocnemius muscle by skinning the frog legs and cutting the muscle away from the leg.
+2. 	Suspend muscle from force transducer and adjust string as necessary to keep tension the same
+3. 	Place electrical probes in the muscle
+4. 	Record Myogram for a variety of voltages, moving by .1 V until 1 is reached, record threshold of the leg and amplitude of the curve for each voltage.
+5. 	Inject frog leg with calcium inhibitor, adjust suspension, and wait ten minutes
+6. 	Record data from the new myograms taken after the injection of calcium inhibitor.
+7. 	Repeat for frog legs 2 and 3.
+8. Test running a paired t- test to look for significance
+
+
+Results:
+Using average amplitudes for the control and experimental groups (fig. 1 and 2), the data demonstrates that there is no change in threshold between the two samples; however, there is a notable difference in average strength of contraction. After running a paired t-test, the p value was found to be .0178. 
+
+
+Discussion:
+After averaging our data, a lot of the contradictions were removed and a significant pattern emerged. The p value mentioned above represents a partial support of the hypothesis. The contractions were overall weaker despite no observable difference in threshold; however, it would be worthwhile to accumulate more data for a more complete observation on change in threshold as there was at least one leg that represented a significant outlier; however, it is important to note that there were several experimental errors including the failure to inject (some or all) of the calcium inhibitor and the failure to adjust the string on the force transducer to correct for differences in weight and maintain consistent tension. Ultimately, there are several questions raised by results of this study such as calcium inhibition as a viable method for weakening/halting contractions which can be used in a medical contexts for the treatment of conditions like fibromyalgia, or the effects of neurotransmitters other than acetylcholine on muscular contractions through the manipulation of calcium ions [Hudgins 1968].
+
+
+Literature Cited:
+Herzberg, O., Moult, J., and James, MN. 1986. A model for the Ca2+-induced conformational transition of troponin C. A trigger for muscle contraction. Journal of Biological Chemistry. 261: 2638-2644.
+Hudgins, Patricia M., and Weiss, George B. 1968. Differential effects of calcium removal upon vascular smooth muscle contraction induced by norepinephrine, histamine and potassium. Journal of Pharmacology and Experimental Therapeutics. 151: 91-97.
+Julian, F.J. 1971 The effect of calcium on the force‐velocity relation of briefly glycerinated frog muscle fibres. Journal of Physiology. 218.
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+revision.png&Size=37367&Type=image%2Fpng&F=F_2dtNgYYYFlFrfq8
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2+revision.png&Size=38119&Type=image%2Fpng&F=F_3rNyXSmvjZDKg6o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig. 1 The average amplitude for the contraction strength of the control group. Error bars represent one standard deviation
+Fig 2. The average amplitude for the contraction strength of the treatment group. Error bars represent one standard deviation
+
+*************************************************************************

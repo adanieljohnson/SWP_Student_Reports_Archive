@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-09-25 09:52:15
+Author of this lab report is: Std_oxUBbHfr
+ID: R_71JbMcGNp0ktb8J
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effects of ingestion of an ecdysteroid inhibitor on larval-pupal development in M. sexta.
+
+Abstract:
+Control of development and metamorphosis in M. sexta is carefully regulated by two hormones, juvenile hormone and ecdysteroid (20E). Here, we tested the effects of ingestion of an 20E inhibitor on development of larval M. sexta, with the hypothesis that subjects that ingested the hormone blocker would grow less and fail to pupate as compared to controls. Our data showed a significant difference between the mean growth of treated individuals as compared to untreated controls, suggesting that ingestion of the 20E inhibitor did in fact cause treated subjects to grow less. All treated subjects also failed to pupate, indicating that disruption of normal hormonal control in larval M. sexta does lead to adverse developmental effects.
+
+Introduction:
+The tobacco hornworm (Manduca sexta) is an insect of the order Lepidoptera. M. sexta follows a holometabolous life cycle that can be divided into a series of distinct stages. After hatching from its egg, the juvenile passes through 5 larval instars as a caterpillar before pupating and emerging as a sexually mature adult moth approximately 20 days later. The demarcations between these phases are very clear: each instar is separated by a molt and a drastic increase in size, and pupation is marked by the development of a hard, shell-like covering on the outside of the body.
+
+The maturation process of M. sexta is regulated by two hormones, juvenile hormone (JH) and ecdysteroid (20E) [Johnson:2018]. The relative concentrations of these two hormones in the insect’s body are what signal it to initiate certain developmental processes. In normally developing M. sexta, juvenile hormone levels are high during the first four instars, with spikes in 20E levels triggering eclosion into the next instar [Bollenbacher: 1980]. JH levels begin to fall toward the end of the fourth larval instar, shortly after which 20E levels also fall before slightly rising again in what is referred to as the commitment pulse. The commitment pulse then leads to a host of hormonal, behavioral, and physiological changes that ultimately result in pupation and metamorphosis. 
+
+The object of our experiment was to determine what effect the ingestion of an ecdysteroid inhibitor would have on the development of larval M. sexta. Specifically, we were concerned with effects of 20E inhibition on pupation and size relative to normally fed controls. Since it is well-understood that rising ecdysteroid titer in the last larval instars leads to the activation important transcription factors relevant to growth, molting, and pupation [Riddiford:2003], we hypothesized that the inhibition of ecdysteroid by means of ingestion of an antagonist would lead to decreased growth in M. sexta larvae relative to a control group, and that those fed the inhibitor would be unable to successfully pupate.
+
+
+Materials and Methods:
+8 roughly-fourth-instar M. sexta larva were obtained and randomly divided into two groups of four individuals. One group was randomly assigned as the experimental group, to receive the 20E inhibitor, while the other was assigned as the control group, to be fed standard food. Initial weights for each individual were recorded, along with qualitative observations about their appearance and behavior. Groups were housed separately, each individual placed in one of four cells in a plastic container along with the other members of its group. Larvae were housed in a temperature and light-controlled environment, only leaving that environment to be weighed and fed.
+
+Larva were checked on daily. At each check in, weights were recorded and qualitative observations were taken, and on an as-needed basis food was replenished and housing was cleaned. When fed, each caterpillar was given either 10g of food with 4 added drops of Azaguard, our chosen 20E inhibitor solution, or 10g of food with 4 drops of water added to match consistency.
+
+When all data was collected, a growth value for each caterpillar was calculated by subtracting the individual’s starting mass from the maximum mass it achieved over the course of the experiment. A one-tailed, two-sample t-test was then run on the growth values between the two groups of subjects. The average daily masses of each group were also plotted on a line graph in order to observe group trends.
+
+
+Results:
+The mean growth value for the control group was 6.765g, with a standard deviation of 1.384g, while that of the experimental group was 2.128g with a standard deviation of 0.975g. The mean growth value of the experimental group was found to be statistically significantly different from that of the control group (t-stat=5.48, df=6, P=0.000774).
+
+All subjects in the control group survived to the end of the experiment and successfully pupated. Subjects 6,7, and 8 died during the course of the experiment, and none of the experimental individuals successfully pupated. Qualitatively, the experimental individuals were observed to be more lethargic than those in the control group, engaging in very little spontaneous movement and responding less to physical manipulation during weighing. Control individuals regularly consumed all given food, while experimental individuals were often observed to have large amounts of uneaten food left in their cells. Before turning uniformly black, deceased individuals were observed to have a slight brown discoloration on their posterior ends shortly post-death.
+
+
+Discussion:
+Our hypothesis, that ingestion of an ecdysteroid inhibitor would lead to decreased growth and lack of pupation in M. sexta larva, was supported. A one-tailed, two-sample t- test yielded a P value of 0.000774, indicating that the results we observed were almost definitely caused by the experimental treatment. Additionally, the fact that three of our four experimental subjects died before the end of the experiment suggests that the disruption caused by the inhibition of 20E is often lethal to M. sexta. 
+
+One unexpected note in the data was that all of our control subjects suddenly lost a significant amount of weight immediately prior to pupation. Since the control individuals all pupated at roughly the same time, this manifested itself as a uniform decrease in weight for all controls that we initially suspected was due to some procedural error on our part. However, review of the available literature after completion of the experiment revealed that M. sexta larvae are known to purge their stomach contents before initiating the wandering behavior that precedes pupation [Nijhout:2007]. This most likely accounts for the observed weight loss in control individuals.
+
+Knowing that one sign of impending pupation in M. sexta is the development of a dark-colored cuticle [Johnson:2018], one possible explanation for the observed discoloration on the ends of deceased individuals shortly post-death is that the remaining 20E in their bodies allowed them to initiate some of the physiological changes associated with pupation, but that the combined stresses of these changes along with the disruption caused by hormonal inhibition proved lethal for the caterpillars. However, this discoloration could also be the result of simple decay, and further experimentation would be required to determine whether or not M. sexta larva treated with 20E inhibitors are able to initiate and/or survive pupation.
+
+
+Literature Cited:
+1.	Bollenbacher WE, Smith SL, Goodman W, Gilbert, LI. 1981. Ecdysteroid titer during larval-pupal-adult development of the tobacco hornworm, Manduca sexta. General and Comparative Endocrinology. 44: 302-306.
+
+2.	Johnson, AD. Endocrine Control of Insect Life Cycles. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 6-13.
+
+3.	NIjhout FH, Smith WA, Schachar I, Subramanian S, Tobler A, Grunert LW. 2006. The control of growth and differentiation of the wing imaginal disks of Manduca sexta. Developmental Biology. 302: 569-576.
+
+4.	Riddiford LM, HIruma K, Zhou X, Nelson CA. 2003. Insights into the molecular basis of the hormonal control of molting and metamorphosis from Manduca sexta and Drosophila melanogaster. Insect Biochemistry and Molecular Biology. 33: 1327-1338.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-09-25+at+9.47.52+AM.png&Size=191328&Type=image%2Fpng&F=F_1dzYEvMHkfzd4bh
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-09-25+at+9.49.20+AM.png&Size=169483&Type=image%2Fpng&F=F_2v32T8cUmJZtdlo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Plot of average masses of each group over time.
+
+Figure 2. Table of growth values for each individual caterpillar, calculated as the maximum mass achieved over the experiment minus the initial mass.*************************************************************************
+
+
+

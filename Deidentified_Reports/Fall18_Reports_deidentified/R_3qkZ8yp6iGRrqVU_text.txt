@@ -1,0 +1,96 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-30 12:19:48
+Author of this lab report is: Std_KHfOEWgR
+ID: R_3qkZ8yp6iGRrqVU
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: Physarum polycephalum growth is not dependent on activation or deactivation of Protein Kinase-A
+
+Abstract:
+Signal transduction pathways are responsible for the response of organisms to specific external and internal environmental stimuli. These pathways run from the molecular or ionic signal from outside the cell to receptor proteins that then trigger a cascade of reactions, ultimately resulting in a cellular response to the original signal. Physarum polycephalum is a type of slime mold that represents a model system for signal transduction pathways. The signal transduction pathway that was tested was the cAMP-mediated path, more specifically, the effect of activating and deactivating protein kinase A. To test how the activation or deactivation of protein kinase A affected the growth of the physarum, nine trials were run: three with water treatment, three with dibutryl-cAMP treatment, and three with curcumin treatment. Ultimately, no significant difference was discovered between the average area of growth under any of the treatments, suggesting that protein kinase A is not responsible for the signaling of growth of the physarum.
+
+Introduction:
+In order to survive, all living organisms are required to respond to their environments and changes within said environments. Signal transduction pathways are essential information pathways that aid in transmitting information from both external environments and internal environments from the initial stimulus down to the cell, resulting in a cellular response. In a signal transduction pathway, a stimulus activates a receptor or protein that acts as a receptor. The stimulus activates the receptor by binding to the receptor, which changes its conformation. This triggers the release of a second messenger, which can be another molecule or ion found within the cell that triggers the response to the stimulus.
+	
+A model organism for the study of signal transduction pathways is Physarum polycephalum, a species of slime mold. Physarum represents a model organism for multiple reasons, the first being that it uses many of the same signal transduction pathways that humans do, so much of what can be gleaned from studying signal transduction in physarum can be applied and is the same in human cells. Another reason why physarum is a model organism is because physarum is much easier to grow and observe than human cells, which results in physarum being much more accessible and usable for experiments. One final reason why physarum is a model organism is because it has been observed expressing intelligent behavior, such as following a maze via the shortest route possible in order to obtain food [Johnson: 2016]. To efficiently grow physarum, PDA plates are often used because they offer the physarum an easily obtainable food source, the potato in the plate.
+
+The cAMP mediated signal transduction pathway is a version of a G-protein coupled pathway. In this pathway, a receptor protein receives a stimulus and activates the G-protein adenylate cyclase, which in turn converts ATP into cAMP. This cAMP molecule can then travel throughout the cell an activate different proteins within the cell in order to produce a response to the original signal [Kuehn: 1971]. One protein that is commonly activated by cAMP is protein kinase A. Once activated, protein kinase A can phosphorylate many other proteins within the cell, which either activates or deactivates said proteins. Certain molecules can be introduced into cells that will disrupt or aid the signal pathway. Dibutryl-cAMP is a molecule that serves as a protein kinase A activator, which means that it promotes the protein kinase A to move throughout the cell and phosphorylate its target enzymes [Seternes: 1999]. Curcumin is a molecule that serves as a protein kinase A deactivator, which means that it prohibits protein kinase A from phosphorylating its target enzymes [Reddy:1994]. The activation or deactivation of protein kinase A can result in differences in growth of the organism being tested.
+
+For this lab, the differences in area of growth between Physarum polycephalum under different treatments was tested. The physarum was grown in the presence of a protein kinase A activator, dibutryl-cAMP, a protein kinase A deactivator, curcumin, and water as a control. The area of physarum growth was measured through the use of ImageJ. We hypothesized that the average area of physarum growth would be greater in the physarum treated with dibutryl-cAMP and the average area of physarum growth would be greater in the physarum treated with curcumin.
+
+Materials and Methods:
+First, nine PDA plates were obtained as well as one culture plate of the physarum. The PDA plates were split up into groups of three for the control, dibutryl-cAMP treatment, and the curcumin treatment.  Prior to the plates being been cut, 1 mL of concentrated dibutryl-cAMP was mixed with 20 mL of water. 4 mL of this solution was put onto each of the “dibutryl-cAMP treatment” plates and made sure to cover the entire plate. This same procedure was then completed for the curcumin, as 1 mL of concentrated curcumin was mixed with 20 mL of water. 4 mL of this solution was put onto the “curcumin treatment” plates and made sure to cover the entire plate. 4 mL of water was put onto the control plates and covered the entirety of the plates. All nine prepped plates were then allowed to sit and soak for around 10 minutes to allow the treatments to be absorbed by the PDA plates. After 10 minutes, excess liquid was poured off of all of the nine plates into the waste. After the plates had been prepped with their respective treatments, a 1cm by 1cm square of each PDA plate was cut out with a sterilized spatula and discarded. Next, nine 1cm by 1cm squares of the physarum culture plate were cut out with the sterilized spatula and then placed into each of the individual holes in the PDA plates. Special care was taken to avoid any contact with the top of the PDA plates in order to prevent any scratches on the plate. The spatula was re-sterilized prior to touching any new substance to avoid contamination. Once all plates had been treated and physarum had been introduced to the plate, the plates were all taped shut and put into a dark bag to promote growth. The bag was then placed in an incubator over the course of two days. After the two days had passed, the PDA plates were analyzed for physarum growth. This was accomplished by using the software ImageJ in order to find the relative area of the physarum growth on each plate and compare the growth of one treatment to the other. In order to compare the treatments, a one way ANOVA test was performed, with an alpha value of 0.05.
+
+Results:
+The average amount of growth for the control physarum plate was 0.0453 units2 with a standard deviation of 0.0111. The average amount of growth for the dibutryl-cAMP physarum plate was 0.0427 units2 with a standard deviation of 0.0153. The average amount of growth for the curcumin physarum plate was 0.0443 units2 with a standard deviation of 0.0112 (Figure 1).
+A one way ANOVA test was used in order to analyze the data collected from this experiment. The results of the ANOVA test were insignificant as the p-value was 0.967, with 2 degrees of freedom, compared to the alpha value of 0.05.
+
+
+Discussion:
+According to the data collected, it was found that there was no significant difference with regard to growth rate of Physarum polycephalum in the presence of dibutryl-cAMP nor curcumin. This means that there was not enough evidence provided to prove that dibutryl-cAMP, a protein kinase A activator, helped improve the area of growth of the physarum. Similarly, there was not enough evidence provided to prove that curcumin, a protein kinase A deactivator, hindered the area of growth of the physarum. As a result, the data rejects the hypothesis as there was no correlation between a protein kinase A activator or deactivator with regards to area of physarum growth. The result suggest multiple things: there was experimental error, protein kinase A is not a factor in physarum growth, or there was some other confounding factor in this experiment.
+	
+It was previously discovered that Physarum polycephalum is home to a potent protein kinase that is activated by cAMP, which helps to regulate the activation of different proteins within the cells of the organism [Kuehn: 1971]. Although this may be true, it does not explain why the activation or deactivation of protein kinase A resulted in no difference in area of growth for the physarum. One logical explanation is that protein kinase A is not responsible for the production or activation of proteins that are responsible for the growth of the physarum. Rather, protein kinase A may be responsible for the activation of other important proteins that respond to signaling pathways within the cells of the organism. This would explain why all of the treatments had similar results for area of growth.
+	
+There are multiple explanations for the lack of significance for the results of this experiment. The growth of the culture physarum was poor, which may have resulted in poor growth for the samples used in this experiment. This would lead to insignificant results as the growth of the physarum would have been hindered from the onset of the experiment. In order to determine whether this was in fact responsible for the insignificant results, a future study would be to repeat the experiment with a healthier culture of physarum. Furthermore, the treatments may have not been concentrated enough to affect the growth of the physarum. Another future study would be to add higher concentrations of both the dibutryl-cAMP and curcumin to determine whether the lack of difference in growth was due to a lack of concentrated treatments. Similarly, another potential study would be allowing the treatments to soak into the PDA plates for a longer amount of time. This may result in a stronger response because the treatment would potentially be more concentrated in the PDA plate compared to this experiment.
+	
+Past experiments have determined that the migration and growth rate of physarum is dependent on what type of nutrients the physarum is feeding on and receiving. One experiment found that the migration rates of physarum on nutrient rich surfaces was much less than that of nutrient lacking surfaces [Knowles: 1978]. However, the mass of the physarum on the nutrient rich plate was greater than that of the physarum on the nutrient deficient plate, which means that the physarum with adequate food did not migrate or spread as much because it had no need to look for any alternative food source. This is significant for the experiment because it could explain why all of the physarum samples, regardless of treatment, grew to the same average area. Perhaps all of the physarum samples were content with the food that they had readily available to them, so none of them decided to migrate very far, instead focussing on growing in the place that they were initially positioned.
+	
+The function of protein kinase A in the presence of dibutryl-cAMP as well as curcumin has been further studied with the two treatments serving as potential biological treatment options. One study found that the activation of protein kinase A through dibutryl-cAMP resulted in corneal endothelial wound repair occuring at an accelerated rate due to enhanced cell migration [Joyce: 1994]. On the other hand, a study on the deactivation of protein kinase A found that curcumin modulates and hinders the growth of cancer cells [Ravindran: 2009]. Other than protein kinase pathways, curcumin also plays a role in the cell proliferation, tumor suppressor, and death receptor pathways [Ravindran: 2009]. Additional tests with these two treatments, as well as other protein kinase A activators and inhibitors should be done in order to better understand how they might be used in treatment of certain diseases. By controlling the activation of protein kinase A, new, less invasive treatment options may be discovered for use in the future of the medical field.
+	
+Ultimately, this experiment was not successful in proving that the activation or deactivation of protein kinase A results in greater or decreased area of growth of Physarum polycephalum. In the future, this type of experiment can be used to try and bring about a better understanding of how to efficiently grow physarum as well as other types of fungi, which may in fact have beneficial properties that humans learn from to better understand human cellular functions.
+
+
+Literature Cited:
+Johnson AD. Signaling. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest 
+University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).  
+
+Joyce NC, Meklir B. “PGE2: a Mediator of Corneal Endothelial Wound Repair in Vitro.” American Journal of Physiology-Cell Physiology, vol. 266, no. 1, 1994.
+
+Knowles DJC, Carlile MJ. “Growth and Migration of Plasmodia of the Myxomycete Physarum Polycephalum: the Effect of Carbohydrates, Including Agar.” Journal of General Microbiology, vol. 108, no. 1, 1978, pp. 9–15.
+
+Kuehn, Glenn. An Adenosine 3', 5'-Monophosphate-Inhibited Protein Kinase From Physarum 
+Polycephalum. 16 Aug. 
+ 
+Ravindran J, Prasad S, Aggarwal BB. “Curcumin and Cancer Cells: How Many Ways Can Curry Kill Tumor Cells Selectively?” The AAPS Journal, vol. 11, no. 3, 10 July 2009, pp. 495–510.
+ 
+Reddy S, Aggarwal BB. “Curcumin Is a Non-Competitive and Selective 
+Inhibitor of Phosphorylase Kinase.” FEBS Letters, vol. 341, no. 1, 1994, pp. 19–22.
+ 
+Seternes OM, Sorensen R, Johansen B, Moens U. “Activation of Protein Kinase A by Dibutyryl CAMP Treatment of 
+NIH 3T3 Cells Inhibits Proliferation but Fails to Induce Ser-133 Phosphorylation and 
+Transcriptional Activation of CREB1dbcAMP–Dibutyryl CAMP; PKA–Protein Kinase 
+A; CRE–CAMP Response Elements; CREB–CRE Binding Protein; RT-PCR–Reverse 
+Transcriptase-Polymerase Chain Reaction; CAT–Chloramphenicol Acetyl Transferase; 
+AKAP–A Kinase Anchor Protein.1.” Cellular Signalling, vol. 11, no. 3, 1 Mar. 1999, pp. 
+211–219.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-14+at+8.47.26+PM.png&Size=97824&Type=image%2Fpng&F=F_2fHeILqdfLWhzwN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average area of physarum growth over a two day period when treated with water, a 10 mM d-cAMPs solution, and a 10 mM curcumin solution. All PDA plates were soaked in their respective treatment for 10 minutes prior to impanting the physarum samples. The physarum were allowed to grow over the course of 48 hours in a dark bag stored in an incubator.*************************************************************************
+
+
+

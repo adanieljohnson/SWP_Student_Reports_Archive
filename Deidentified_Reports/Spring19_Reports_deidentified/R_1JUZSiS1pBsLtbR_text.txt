@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-03-19 18:15:12
+Author of this lab report is: Std_Qsw35dYc
+ID: R_1JUZSiS1pBsLtbR
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Effect of Lidocaine on Anura’s Neuromuscular Sodium Channel Receptors
+
+Abstract:
+Anura’s skeletal muscle uses action potentials in order to prompt muscular movement. When the process of such is disrupted, the subject will lose all voluntary movement. Whether this be tetanus or relaxation depends on the causation. Specifically, Lidocaine is known to have anesthetic effects that lessen muscular feeling and movement. Due to this, Lidocaine was injected into the experimental gastrocnemius muscles of severed Anura legs. The control group received nothing other than electrical stimulus to cause expected movement. It was hypothesized that the lidocaine within the experimental group would bind to the sodium channels that propagate action potentials and, in turn, decrease the contraction amplitude of the gastrocnemius muscle. After the experiment was carried out, our results revealed there was an ​extreme difference in the experimental and control groups. There was contraction as expected in the control group, however, there was absolutely no contraction result in the experimental. Therefore, with the data collected, we rejected the null hypothesis.
+
+Introduction:
+Anura’s muscular system uses nerves and other structures within it in order to properly react to their external and internal environments. Within their system, they have skeletal muscle that uses motor neurons and such in order to properly prompt action potentials/release of Ca+2 from the sarcoplasmic reticulum and force the muscle to contract. In this experiment we plan on measuring the contraction amplitude of the gastrocnemius muscle by stimulating the sciatic nerve and testing the specimen’s responses again after injecting it with lidocaine, a medication that inhibits feeling through numbing a localized area with its anesthetic properties, to block the sodium channel receptors. In a study done on Canis lupus familiaris, subjects were injected with either 1mL or 2mL of 2% lidocaine as well as the control group with 2% of saline. The 2mL experimental group of Canis lupus familiaris all experienced akinesia, or loss of voluntary control, of the eyes as well as mydriasis, the dilatation of the pupil, which is a smooth muscle. In the 1mL group experienced the same thing with the exception that nine eyes experienced akinesia and seven exhibited mydriasis [Ahn: 2013]. With this knowledge, as well as our own, we hypothesize that Lidocaine inhibits sodium ions from reaching the channel pore through binding to the localized sodium channels. This would have a direct effect on the propagation of action potentials within the cells of the gastrocnemius muscle. Therefore, we are testing to see if blocking the sodium channel receptors with lidocaine will decrease the contraction amplitude of the gastrocnemius muscle.
+
+Materials and Methods:
+An Anura’s leg was placed on a dissection pan. The leg was then skinned by pulling the top of the skin located at the point of severance downward towards the foot. To keep the muscles moist, it was sprayed with Ringer’s solution that was kept on hand. We carefully separated the inner thigh muscles from each other and, in the process, revealed the white sciatic nerve. The nerve was removed from the connective tissue, however, it was not severed from the muscles and damage was kept to an absolute minimum. Then, the Anura’s gastrocnemius muscle was attached to the FT-302 force transducer with string. The muscle and string was kept at a 90-degree angle with the rest of the leg and ground. The muscle was then shocked before as a collection of results for the control. After, 2.o mL of Lidocaine was injected and was shocked in order to determine experimental results. This was carried out of three different Anura legs in order to ensure truthful results. The data collected was examined through a One-tailed Paired t-test.
+
+Results:
+The experiment conducted began with observation of change in contraction amplitude in the control group. As seen in figure one, Subject A had a control result of .181V. Subject B had control results of .141 V, .153 V, and .160 V. Subject C had control results of .099 V, .095 V, and .085 V. However, for all three subjects, their experimental results, after being injected with lidocaine, were 0. Given this, the average change in contraction amplitude for A was -0.181 V, B was -0. 1513 V, and C was -0.093 V. Due to this, the data observed in figure one and the results gleaned from it can be considered statistically significant (t-value= 5.4840, our one tailed p-value ended up being 0.031, and the standard deviation resulted in 0.039.
+
+Discussion:
+The lab experiment relayed significant data that, in turn, rejects our null hypothesis. Therefore, because of the total lack or reaction to electrical stimulation in the experimental group, the injection of lidocaine, a medication with anesthetic properties, effectively blocked the voltage-gated sodium channels, created a decrease of contraction amplitude at a constant frequency, and blocked action potentials in a way that inhibited the gastrocnemius muscle from properly contracting despite being exposed to shock stimulation. This example of loss of movement within the smooth muscle due to the effects of lidocaine can also be seen and verified in the experiment regarding Canis lupus familiaris; in which the injection of lidocaine at the same volume propagated akinesia and mydriasis [Ahn: 2013]. Sodium was effectively prevented from entering the cell, thus preventing action potentials, thus limiting the response to simulation. The anesthetic properties of lidocaine then become important to understanding the functions and limitations of the muscular system in not just Anura and Canis lupus familiaris, but many other’s muscular systems.
+
+Literature Cited:
+Ahn, J. S., Jeong, M. B., Park, Y. W., Lee, Y. S. R., Lee, E. R., Kim, S. H., … Seo, K. 2013. A sub-Tenon’s capsule injection of lidocaine induces extraocular muscle akinesia and mydriasis in dogs. The Veterinary Journal, 196(1), 103–108. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Frog+Figure+%28upside+down%29.png&Size=47894&Type=image%2Fpng&F=F_2SdzqM8KIvVwDMp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+mean change in Anura’s contraction amplitude (v) *************************************************************************
+
+
+

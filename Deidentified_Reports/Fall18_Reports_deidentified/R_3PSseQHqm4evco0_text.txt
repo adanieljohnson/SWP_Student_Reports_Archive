@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-01 20:28:30
+Author of this lab report is: Std_Up6KpmxN
+ID: R_3PSseQHqm4evco0
+Course number: BIO101L
+TA: TA_ZaFL1W9f
+*************************************************************************
+Title: Effects of 2% Sevin on Muscle Contractions in Anura Legs.
+
+Abstract:
+Despite carrying out the experiment as laid out in our experimental design, something in the experiment went wrong.  In the experiment I hoped to observe the effect of the Sevin acetylcholinesterase inhibitor solution on the muscle of the Anura legs.  We hypothesized that if we injected the frog leg with the 2% Sevin solution the frog leg would skip the relaxation period and continue contracting, and to test this hypothesis we separated and stimulated the sciatic nerve of the frog’s leg, with and without the Sevin solution, to collect our data.  However, the data we collected would not allow any meaningful analysis to be made because of the lack of expected variability between the experimental and control groups; I believe this occurred due to the possibility of some kind of error being made in the execution of our experiment.
+
+Introduction:
+Skeletal muscle in both vertebrates and invertebrates consists of hundreds to thousands of myofibers, which are cylindrical, multi-nuclear, fused aggregates of cells and the individual myofibers are bound together by connective tissue to form functional groups.  Skeletal muscles are innervated by motor neurons, whose cell bodies are located in the gray matter of the spinal cord. Axons of motor neurons extend into a muscle then branch out to innervate several individual myofibers, at points called neuromuscular junctions. Nerves and muscles allow organisms to sense and respond to the internal and external environments and the use Anura legs in experiments like this can be attributed to the ease of access to the sciatic nerve, especially for an organism as complex as it is.  We also chose to use Sevin an acetylcholinesterase inhibitor; acetylcholinesterase inhibitors increase the amount of acetylcholine available in the neuromuscular junction therefore increasing neuromuscular transmission at the synapse [Meinen: 2012].  This increased amount of acetylcholine can be attributed to how the acetylcholinesterase inhibitor stops the enzyme that breaks down acetylcholine in the synapse of the neuromuscular junction.  Finally, I hypothesize that if we inject the frog legs with the 2% Sevin solution, an acetylcholinesterase inhibitor, the frog leg will skip the relaxation period and continue contracting due to increased amount of acetylcholine left in the synapse of the neuromuscular junction, and our independent variable would be the presence of the Sevin solution, and our dependent variable would be the time between contractions. 
+
+Materials and Methods:
+We first degloved the frog legs and separated the muscles of the thigh to expose the sciatic nerve.  Next, we detached the Gastrocnemius suspended it from the force transducer and attached the probes.  After attaching the probes, we then stimulated the sciatic nerve and recorded the time between contractions for all three legs without the seven solution to establish a control.  After establishing our control values, we injected all three frog legs with the 2% Sevin solution and repeated the test on each leg.  After conducting this portion of the experiment, we used a paired t-test to analyze the data.   
+
+Results:
+There is little to no difference in the control and experimental groups, Table 1 highlights the average times of contraction between the two groups; there are no trends in our data. The mean of the experimental group was not statistically significantly different than that of the experimental group (t-stat = 2.52, df = 6, Leg 1 P = 0.145, Leg 2 P =0.231, Leg 3 P = 0.182)
+
+Discussion:
+The data collected suggests that something went wrong in the experiment, I expected some kind of variation in the data but for the most part the data collected from each frog leg and even across the experimental and control groups remained roughly the same.  If the acetylcholinesterase inhibitor had worked in the way we had expected and increased the amount of acetylcholine present within the synapse we may have observed that the frog leg would contract more than the control group did without the Sevin solution [Meinen. 2012].  Also, Conducting the paired t-test, our p-values were all greater than 0.05, therefore, there’s greater than a five percent chance that the observed change was due to chance.  I believe that the error in our experiment may have been in how we handled the injection of the 2% Sevin solution into the frog legs; more than one member of the group injected the frog legs with the solution so there was no consistency between each frog leg.  Regardless of error, in the end our data did not support our hypothesis.
+
+Literature Cited:
+1.	Meinen S, Lin S, Ruegg M, Punga A. 2012. Fatigue and Muscle Atrophy in a Mouse Model of Myasthenia Gravis Is Paralleled by Loss of Sarcolemmal nNOS.  PLOS One. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=froggraph.JPG&Size=58403&Type=image%2Fjpeg&F=F_2fxS5eJFVbWPz45
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frogtable.JPG&Size=72946&Type=image%2Fjpeg&F=F_2PqgtwwqvQJKvU2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1:  Mean contraction times of frog muscles stimulated at varying frequencies, with error bars.
+Table 1.  Average contraction time of frog legs with varying stimulation frequencies*************************************************************************
+
+
+

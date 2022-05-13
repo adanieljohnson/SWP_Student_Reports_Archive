@@ -1,0 +1,57 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-29 15:38:46
+Author of this lab report is: Std_Sy6nUPsZ
+ID: R_qEOpPhcjgRYeShX
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: Acetylcholinesterase Inhibitors Effect on Frog Gastrocnemius Muscle
+
+Abstract:
+In this experiment, an acetylcholinesterase inhibitor was itested by studying how it affects muscle contraction. The enzyme acetylcholinesterase breaks down acetylcholine resulting in relaxation. It was expected that the acetylcholinesterase would increase the amplitude and lower the threshold of the contractions of gastrocnemius muscle. After studying 3 frog legs, used initially for the control and then used as experimental group, it was found that the gastrocnemius muscle injected with acetylcholinesterase inhibitor contraction had lower amplitude and higher threshold. With the results of the statistical analysis, it cannot be conclusively stated that the gastrocnemius muscle injected with acetylcholinesterase inhibitor has contraction with lower amplitudes and higher thresholds.
+
+Introduction:
+In the terminal end of the motor neuron at the neuromuscular junction, an action potential in the terminal end opens up voltage gated calcium channels allowing calcium to come into the neuron and depolarize the terminal end. Vesicles containing acetylcholine bind to the membranes of the terminal end and acetylcholine is released into the synaptic cleft. The acetylcholine binds to the ligand gated sodium channels on the sarcomere, causing it to open. Sodium moves into the sarcomere from the extracellular matrix, causing the sarcomere to depolarize which leads to muscle contraction. Once the contraction period is finished, the acetylcholine is released from the ligand gated sodium channels and gets recycled by acetylcholinesterase. This molecule removes acetylcholine from the synapse and breaks the acetylcholine down into acetate and choline, which are then reabsorbed into the terminal end of the motor neuron to be used as new acetylcholine. Acetylcholinesterase inhibitors work by blocking acetylcholinesterase from breaking down acetylcholine and as a result, acetylcholine remains in the synapse so the muscle stays contracted longer until the muscle fatigues due to a lack of ATP (almost like the muscle was undergoing tetany). This experiment will test whether the presence of acetylcholinesterase inhibitor will produce that effect (sustained contraction until fatigue, as well as an increased threshold value for contraction) on the gastrocnemius muscle of a frog’s leg. If that effect is observed, the experiment will be deemed a success
+
+Materials and Methods:
+Each group was given three frog legs to work with that would function as both the control and experimental groups in the experiment, one after another. The legs were moistened with frog ringer’s solution and skinned so that the gastrocnemius muscle and sciatic nerve were visible. The gastrocnemius muscle was separated from the rest of the leg and suspended by string to the transducer. The electrodes were then placed under the sciatic nerve so that they would be able to read the contractions and produce a myogram. During the control section with each leg, this procedure proceeds n. ormally until the myograms are recorded and the data is then taken from there. After each leg has undergone the control section of the experiment, the gastrocnemius of each leg is injected with 0.1 mL of acetylcholinesterase inhibitor and left to sit for three minutes while the inhibitor takes effect. After the three minute waiting period, the electrodes are put back on the sciatic nerve and the experiment is run again in exactly the same way as the control group. The myograms are recorded and the data is taken from the myograms. In both sections of the experiment, the duration of contraction, the threshold, and the amplitude of the contraction are measured. 
+
+Results:
+After running statistical tests, these graphs do not show a clear trend in the data as proposed by the hypothesis. The p-value for the control group was 0.8 and the p-value for the experimental group was 0.6. These values are too large to be considered statistically relevant.
+
+Discussion:
+This experiment was successful to a degree as one of the legs exhibited a lower threshold, but it was not consistent or conclusive. The first frog leg experienced an increased threshold (0.06 to 0.18 amps) once exposed to the acetylcholinesterase inhibitor. The second leg also had an increased threshold, but not nearly by the same factor as the first leg going from 0.03 amps in the control section to 0.04 amps in the experimental section. These results go against what the acetylcholinesterase inhibitor was meant to do because the presence of that chemical should have decreased the thresholds while increasing the amplitude. The third frog leg actually exhibited the response that the inhibitor was meant to have, by having a decreased threshold compared to the control section, going from 0.17 amps in the control to 0.14 amps in the experimental section. There was not a trend to our data and our p-value for the control group was massive at 0.8, when it should have been at or under 0.05. The p-value for the experimental was 0.6, which is also too large to be conclusive. Regarding the amplitudes, the acetylcholinesterase inhibitor was meant to have an increased value for the amplitude which was only shown by the third frog leg. The first and second legs had decreased amplitudes, which, similar to the data for the thresholds, was not supposed to happen in the presence of the inhibitor. The third leg had an increased amplitude which was our predicted result for this experiment. Our data does not have a clear trend because of the skewed results from the first two legs, which explains the massive p-values and the large standard deviations on the graphs. We followed procedure to a tee, but our data did not correlate with the expected results for the experiment. 
+
+Literature Cited:
+1. Johnson AD. Hormone Regulation. Comparative Physiology Bio114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated January 5, 2018), pp. 17-21
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph1.png&Size=43188&Type=image%2Fpng&F=F_268D28Oi50JS7uV
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph2.png&Size=43335&Type=image%2Fpng&F=F_3Rk04eZZSwrT1Pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+This table shows the average amplitude of contraction once the muscle reaches threshold, with a standard deviation bar.
+This table shows the amount of current in amps put through to the frog legs in order to reach the threshold value, with a standard deviation bar.
+
+*************************************************************************

@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-04-11 19:24:53
+Author of this lab report is: Std_4h4UtW17
+ID: R_2uPP1sevITXDqjp
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Chemotactic effects of glucose and glycine on Physarum polycephalum
+
+Abstract:
+The objective of this study was to investigate the relational effects of glucose and glycine on the chemotaxis of the slime mold Physarum polycephalum. Chemotaxis in Physarum polycephalum has been widely studied due to its use for studying cytoplasmic streaming, signaling, and how these play a role in chemotaxis movement (DeLacyCostello: 2013). When placed in equal proximity to both glucose and glycine, we hypothesized that the Physarum polycephalum would move more towards the glucose than the glycine. Three water-agar petri dishes were prepared with a glucose sample to the left of a Physarum polycephalum sample, and a glycine sample to the right of the same Physarum polycephalum sample. After incubating the three plates for 48 hours, the distance traveled by the Physarum polycephalum, and the direction (towards glucose, glycine, or neither) was measured. The average distance traveled towards glucose was 0 mm (s.d. = 0 mm), and the average distance traveled towards glycine was 27 mm (s.d. = 24 mm). A two-sample, one-tailed t-test yielded a p-value of p=0.058, which denied a statistical difference between the mean distances traveled towards glucose versus glycine. Ultimately, our hypothesis was not supported.
+
+Introduction:
+This study will test the chemotaxis response of Physarum polycephalum to glucose and the amino acid glycine. Physarum polycephalum is “a true acellular slime mold that belongs to the species of order Physarales,” and its chemotaxis behavior has been widely studied as a model organism for cell signaling (DeLacyCostello: 2013) A study by DeLacyCostello and Adamatzky states that “the first studies on chemoattractants and their effect on Physarum polycephalum can be traced back over 100 years,” resulting in a vast amount of primary literature that examines the different chemoattractants and chemorepellants of Physarum polycephalum (DeLacyCostello: 2013). Certain studies have looked at the two molecules that will be tested in this study, and have found the respective chemotaxis strengths of glucose and glycine. A study by Kincaid and Mansour found that glucose is a strong chemoattractant of Physarum polycephalum, and that it promotes Physarum polycephalum growth. This same study found that glycine is a strong chemoattractant of Physarum polycephalum, and that it is considered “essential for growth” (Kincaid: 1978). Glucose is a strong chemoattractant most likely because it’s chair conformation is stable compared to other, less strong sugar chemoattractants (Kincaid: 1978). Additionally, glucose supports growth due to its role as a carbohydrate and source of carbon for the Physarum polycephalum (Johnson: 2016). Amino acids as a group vary in their chemotaxis strength, and glycine is grouped in the category of highest chemoattractants (Kincaid: 1978). The same study by Kincaid and Mansour found that glycine is “essential for growth” of the Physarum polycephalum (Kincaid: 1978). A different study found that “Deletion of glycine permitted growth at only 25% of the optimal rate [in Physarum polycephalum],” affirming that glycine does in fact play a major role in Physarum polycephalum growth (Daniel: 1963). When compared, glucose exhibited stronger chemoattractive forces than glycine (Kincaid: 1978). One more vital piece of information that the study by Kincaid and Mansour revealed is that the chemoattractant strength of sugars and amino acids was not directly related to the nutritional use of the substances, including glucose and glycine (Kincaid: 1978). Knowing this information, we hypothesize that Physarum polycephalum will exhibit more movement towards glucose than towards glycine. Glycine and glucose are the two independent variables in this study, and the distance traveled (and direction) by the Physarum polycephalum is the dependent variable. 
+
+
+
+Materials and Methods:
+This study obtained three petri dishes with a gel water-agar solution, one dish with Physarum polycephalum, one dish with glucose, and one dish with glycine (prepared by soaking water-agar with liquid glycine for 10 minutes). Using sterilized forceps and spatula, we cut three 1cm x 1cm cubes out of each individual water-agar petri dish, and dispose of the cubes. Next, we used sterilized forceps and a spatula to cut 3 1cm x 1cm cubes out of the glucose petri dish, 3 1cm x 1cm cubes out of the glycine petri dish, and 3 1cm by 1cm cubes out of the Physarum polycephalum dish. One cube of glucose was added to the empty space on the far left of each individual water-agar dish, one cube of Physarum polycephalum to the empty space in the middle of each water-agar dish, and one glycine cube to the empty space on the far right of each water-agar dish. The three petri dishes were wrapped completely in foil so that no light can enter. We labeled the petri dishes and placed them in an incubator for approximately 48 hours. We returned measure the distance traveled (in mm) by the Physarum polycephalum and the direction in which it traveled. We ran a two-sample, one-sided t-test to test our null hypothesis that the Physarum polycephalum would move more towards the glucose than the glycine, considering p &lt; 0.05 to be significant. The t-test compared the mean distance traveled by the Physarum polycephalum towards the glycine with the mean distance traveled by the Physarum polycephalum towards the glucose.
+
+Results:
+The average distance traveled by the Physarum polycephalum towards the glucose was 0 mm, with a standard deviation of 0 mm. The average distance traveled by the Physarum polycephalum towards the glycine was 27 mm, with a standard deviation of 24 mm. The biggest trend in the data was that there was no movement towards the glucose in any of the three petri dishes, and strong movement towards the glycine in two of the three dishes. Dish three had no movement but not in the direction of glucose or glycine specifically. When run, the two-sample, one-sided t-test yielded a p-value of p=0.058. 
+
+Discussion:
+A p-value of p=0.058 does not support the hypothesis that the Physarum polycephalum would move more towards the glucose than the glycine. Even if the p-value had been p&lt;0.05, it would have supported a statistical difference in favor of more movement towards the glycine. This is because our data suggested that the Physarum polycephalum moved more towards the glycine (avg. 27 mm) than the glucose (avg. 0 mm), which contradicts our hypothesis. Additionally, our data did not support the countless studies like those by DeLacyCostello and Adamatzky which supported glucose being a stronger chemoattractive strength than glycine (DeLacyCostello: 2013). Given that there is an overwhelming amount of data and studies to support glucose as a stronger chemoattractant than glycine for Physarum polycephalum, there must be some possible sources of error. There are many possible explanations for this data, some of which might be considered errors or room for improvement in future replicated studies. Firstly, it is possible that the concentration of glycine was much higher than the concentration of glucose in the 1cm x 1cm cubes placed adjacent to the Physarum polycephalum cube. This would be attributed to the process by which we prepared the glycine solution – soaking the water-agar directly in glycine for 10 minutes prior to conducting the study. Since both glucose and glycine are strong chemoattractants, a higher concentration of glycine could have made up for the difference in chemoattractance, and would have attracted the Physarum polycephalum more strongly. In future replications of similar studies, it would be necessary to use equal relative concentrations of glycine and glucose to ensure the most accurate results. Additionally, it would be necessary to increase our number of petri dishes to increase our data’s validity. Although this study’s hypothesis was not supported, it would be interesting to examine other relationships between chemoattractants using Physarum polycephalum. Such studies could reveal whether or not chemoattractance strength depends on the presence of other, nearby chemoattractants, and how the Physarum polycephalum responds biologically under such circumstances.
+
+Literature Cited:
+1.	DeLacyCostello B, Adamatzky AI. 2013. Assessing the chemotaxis behavior of Physarum Polycephalum to a range of simple volatile organic chemicals. Communicative & Integrative Biology. 6: 1–2.
+2.	Kincaid RL, Mansour TE. 1978. Chemotaxis toward carbohydrates and amino acids in Physarum Polycephalum. Experimental Cell Research. 116: 377–384. 
+3.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 35
+4.	Danial JW, Babcock KL, Sievert AH, Rusch HP. 1963. Organic requirements and synthetic media for growth of the myxomycete Physarum Polycephalum.” Journal of Bacteriology. 86.2: 324.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-11+at+7.23.32+PM.png&Size=30888&Type=image%2Fpng&F=F_25zuJNFFZKEcmLe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1 shows the average distance migrated by the Physarum polycephalum towards the glucose and glycine respectively. The average distance migrated towards the glucose was 0 mm and the standard deviation 0 mm. The average distance migrated towards the glycine was 27 mm and the standard deviation was 24 mm. The error bars represent the standard deviations. Overall trends were that there was no movement towards glucose in any of the three petri dishes, and strong movement towards glycine in two of the three petri dishes. 
+
+*************************************************************************

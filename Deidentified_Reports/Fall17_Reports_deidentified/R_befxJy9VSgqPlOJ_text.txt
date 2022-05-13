@@ -1,0 +1,47 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a lab report.
+Date submitted: 2017-11-16 15:27:53
+Author of this lab report is: Std_AyqaPVtJ
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Whether Salinity Impacts Specific Metabolic Rates of Procambarus sp. 
+
+Abstract:
+The high salt diets of many Americans is a contributing factor to high blood pressure and the number one cause of death throughout the world, heart disease. Understanding the effects of salts on the human body is crucial in order to educate and possibly reduce the number of individuals impacted by this process. To test the impact of salts on metabolic processes, an experiment was performed to determine the impact of higher salinity water on the specific metabolic rate of the Procambarus sp. by measuring the amount of dissolves oxygen found in its environment over time. Because crayfish inhabit mostly freshwater, it was hypothesized that exposure to higher salinity waters would change their specific metabolic rate. This hypothesis was supported, however there is not a scientific consensus regarding whether this rate should increase or decrease following exposure to NaCl. When a paired t-test was performed on the results, the p-value was 0.082015. Through this, it was determined that the data indicating that Procambarus sp.’s SMR decreases as salinity increases was statistically significant, however further study must be conducted in order to further understand why this is. 
+
+
+Introduction:
+Crayfish, Procambarus sp., are crustaceans that are often found in streams and rivers. Because streams and rivers are fresh water bodies of water, or sometimes brackish, crayfish have adapted to function in freshwater or low salinity environments. Metabolism describes the process of balancing energy capture, conversion, and transfer within the cells of an organism. The cellular processes associated with metabolism are dependent upon the environment that an organism is in. When subjected to unfamiliar environmental conditions, an organisms metabolic rate can change (Khan Academy). Because crayfish are accustomed to living in fresh water or low salinity conditions, subjecting them to high levels of salinity through the supplementation of NaCl to their water could change their metabolic rate. To measure metabolic rate, the amount of diffused oxygen present within water can be measured, as these values are directly proportional. We hypothesize that if crayfish have NaCl supplemented (in concentrations ranging from 0.269 M – 0.276 M) to their water (environment), their specific metabolic rate will change. 
+
+Materials and Methods:
+First, weight the first crayfish. Fill the jar with fresh water, and insert the O2 concentration probe. Submerge the closed jar into room temperature water. Press read and record the value on the O2 sensor monitor, and continue this process every 5 minutes until 20 minutes have elapsed. Then, measure the volume of water that was in the jar using a volumetric flask. Next, add 100mL of 6.5% NaCl to the jar and dilute it to the brim with fresh water. Re-insert the dissolved O2 sensor, and re-submerge the jar into room temperature water. Press read and record the value from the sensor initially, and repeat this process at 5 minute intervals until 20 minutes have elapsed. Measure the volume of NaCl + water that was in the jar in a volumetric flask. Repeat both the freshwater and NaCl treatment for the following two crayfish specimen after weighing them. Once all data has been collected, calculate the specific metabolic rate of each treatment of each specimen using the equation . Calculate the concentration of NaCl in each diluted NaCl solution in the three trials of salt water. Determine the concentration by first calculating the number of grams of NaCl used, then convert this value to moles using NaCl’s molar mass (58.44 g). Finally, divide the number of moles of NaCl by the volume of solution within the jar to determine the molarity of the solution. Perform a paired t-test comparing the SMR values calculated for the control group to those calculated for the experimental group in order to determine if that data found was statistically significant.
+
+
+Results:
+The specific metabolic rates of the crayfish in the control treatment of fresh water had higher specific metabolic rates than those of the experimental treatment of 100mL of NaCl. In crayfish specimen 1, its control SMB was 0.00171 compared to the SMB of 0.0011 after 20 minutes in 0.276 M NaCl solution. In crayfish specimen 2, its control SMB was 0.0017 compared to the SMB of 0.0009 after 20 minutes in 0.269 M NaCl solution. In crayfish specimen 3, its control SMB was 0.0024 compared to the SMB of 0.0008 after 20 minutes in 0.273 M NaCl solution. The standard deviation of the control treatments was 0.000404 while the standard deviation of the experimental treatments was 0.000153. The p-value was 0.082015. Figure 1 highlights the significantly higher SMR in the control when compared to the experimental treatment SMR’s. 
+
+Discussion:
+The hypothesis that metabolic rate changes as salinity increases was supported by the findings of this experiment. However, the direction of this change has not been consistent in findings of experiments similar to this one. In the findings of this experiment, the SMR of each Procambarus sp. decreased when in the presence of NaCl. Some other studies support this finding, including one of another crustacean, shrimp, tends to acclimate to higher salinities and decrease their specific metabolic rate, as was found in this experiment (Rosas 1-22). However, other studies have found that metabolic rates were not salinity dependent in another species of crayfish (Meade 188-198). Thus, there is no scientific consensus on the direction of SMR change in crayfish when exposed to higher salinity rates. Through this uncertainty in recent results, the question of which salinities provoke changes in which species emerges. This is a promising area for future study, as varying the NaCl concentrations greatly would show more clear trends in the impact salinity has on the metabolic rates. Additionally, the environments in which different species live could be taken into account for future experiments. Crayfish tend to live in brackish water, so they may be accustomed to and adapted to the lower concentrations of NaCl that were used. Thus, the freshwater may have been more of a stress to the species used than the NaCl was, converse to what was originally hypothesized. This translates to a potential source of error within the experiment, as a molarity of NaCl that is too low may not produce a significant enough change in the metabolic rate. Or, the molarity of NaCl used may have been more consistent with the environmental conditions the crayfish is used to, and thus the error stems from a lack of research on the environment of the model organism. Another possible source of error could be not screwing the lid of the dissolved O2 sensor on tightly enough, allowing it to escape from the closed system.
+
+
+
+Literature Cited:
+Rosas, Carlos, et al. "Metabolism and growth of juveniles of Litopenaeus vannamei: effect of salinity and dietary carbohydrate levels." Journal of Experimental Marine Biology and Ecology 259.1 (2001): 1-22.
+Meade, Mark E., et al. "Effects of Temperature and Salinity on Weight Gain, Oxygen Consumption Rate, and Growth Efficiency in Juvenile Red‐Claw Crayfish Cherax quadricarinatus." Journal of the World Aquaculture Society33.2 (2002): 188-198.
+https://www.khanacademy.org/science/biology/principles-of-physiology/metabolism-and-thermoregulation/a/metabolic-rate
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2017-11-16+at+2.02.31+PM.png&Size=84664&Type=image%2Fpng&F=F_6XqYDjt7fD3kBtr
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Graph displaying the average SMR values for the control treatments of the crayfish in freshwater compared to the average SMR values for the experimental treatments of the crayfish in NaCl treated water, which had molarities ranging from 0.269 to 0.276 M. 
+
+*************************************************************************

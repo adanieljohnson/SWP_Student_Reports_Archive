@@ -1,0 +1,97 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 22:18:58
+Author of this lab report is: Std_A7S2S992
+ID: R_YXNuGIgvaHVwk7L
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The Working of Muscle Contraction in Rana pipiens by Manipulating the Level of Acetylcholine
+
+Abstract:
+In this experiment, we looked at how acetylcholine affects muscle contraction via the gastrocnemius muscle of the Rana pipiens. We predict that the increase of acetylcholine in the synapse will lead to bigger contractions, which can be measured by the height of the amplitude in the myogram. This is done by comparing the stimulation of contraction by voltage of before (controlled) and after (treatment) the injection of acetylcholine. We then observed what happened to the amplitude of contraction before the injection of acetylcholine and after the injection of acetylcholine. Based on the data, acetylcholine does indeed affect the size of muscle contraction in Rana pipiens which can be seen by the increase of amplitude in the myogram (volts). 
+
+Introduction:
+The purpose for this experiment is to test the effects of acetylcholine on the size of muscle contraction on Rana pipiens. We choose this species because the contraction of the gastrocnemius muscle is big enough to see when it is stimulated by a voltage. Acetylcholine is a neurotransmitter that carries information across vertebrate neuromuscular junctions and some other synapses. It is broken down by acetylcholinesterase. The amount of the acetylcholine in the postsynaptic membrane from the presynaptic membrane affects the action potential traveling down the T-tubules, which causes the conformation of DHP receptor and ryanodine receptor, releasing calcium ions stored in the sarcoplasmic reticulum, which is what stimulate muscle contraction [BSL:2014]. For this particular experiment, we are to confirm that acetylcholine is essential in muscle contraction by observing the effects it has in Rana pipiens. Our hypothesis states that an increase in acetylcholine level through injection will lead to a bigger muscle contraction, which can be measured by the amplitude in the myogram. 
+
+
+
+Materials and Methods:
+The procedure of increasing the size of muscle contraction in Rana pipiens by increasing the amount of acetylcholine is outlined below: 
+
+Procedure:
+
+1.	Obtain 3 Rana pipiens (frog) legs, preferably the same size.
+2.	Remove all of the skin, make sure not to cut the gastrocnemius muscle.
+3.	Cut the gastrocnemius muscle from the Achilles’ tendon.
+4.	Tie the Achilles’ tendon using a string, take one string and loop it into 2 to make a hoop.
+5.	Take the hoop with the Achilles’ tendon and hang it on the hook on the ring stand.
+a.	Make sure it is at a 90 degrees angle, the leg completely on the tray.
+6.	Pin down the frog leg, immobilizing it so only the gastrocnemius muscle moves when the voltage is running through during the simulation. See picture below.
+7.	Take the red and black wire instrument (where voltage will run) and stick them in the gastrocnemius muscle
+8.	When finished with the setup, run the simulation using Labscribe. 
+9.	Apply voltage to the frog leg and record down the amplitude by V2-V1.
+10.	Inject frog leg in the gastrocnemius muscle with 1ml of acetylcholine.
+a.	Be careful when handling a sharp object.
+11.	Apply voltage to the frog leg and record down the amplitude by V2-V1.
+12.	Repeat steps for the two other frog legs.
+
+In order to interpret and understand the observations we record, we will be using the paired t-test (on Microsoft Excel).
+
+
+Results:
+Orange bar-after injection; the treatment group
+Blue bar-before the injection; the controlled group
+
+Based on the data, we can see that when the gastrocnemius muscle was injected with acetylcholine, the amplitude increases tremendously. In Figure 2, the average amplitude for all 3 legs before the injection is 0.154 and the average amplitude after the injection is 0.672. 
+ In order to see if these two groups are statistically significant, we did a paired t-test on it and found the p-value to be 0.024036. 
+
+
+
+
+
+Discussion:
+Based on the data, we can confirm that acetylcholine does indeed influence the size of muscle contraction in Rana pipiens frogs. We can see that the control group was able contract but it was barely visible if we did not look closely enough whereas the treatment group’s contractions were definitely visible. This means that the controlled group’s sizes of contractions are very small while the treatment group’s sizes of contractions are very large. By measuring the amplitude via the myograms, we are able to conclude the effects of acetylcholine in muscle contraction. 
+
+In the study of “Correlated Release of Acetylcholine and Protein from the Neuromuscular Junction” by J.R. Musick, the release of acetylcholine leads to the release of calcium ions [Musick:1979]. Similar to our experiment, the higher the level of acetylcholine in the synapse, the more calcium ions are to be released by the sarcoplasmic reticulum. This will then lead to a bigger muscle contraction compared to a normal level of acetylcholine.  
+
+The next step for us would be to repeat this experiment using the same procedure until the data is consistent and the p-value is still led than 0.05. If possible, a larger sample of frog legs is ideal to limit any confound variables. All in all, this experiment gives a glimpse of how different levels of acetylcholine affects muscle contraction can do to an organism. For example, it can be used when dealing with runners. If a runner were to participate in a 15k marathon, understanding how muscle contraction works can help prevent them from tetanus, fatigue of the muscle. Furthermore, acetylcholine plays a big role in Parkinson and Huntington’s Diseases. The amount of acetylcholine can stimulate how many times the muscle contract. If we know this manipulation of acetylcholine to be true in frogs, we can apply this knowledge to other organisms.  
+
+
+Literature Cited:
+“BSL PRO Lesson A02: Contractility of Skeletal Muscle Using Frog Gastrocnemius Muscle.” BIOPAC SYSTEMS, Inc: Higher Education, BIOPAC SYSTEMS, Inc., 4 Feb. 2014, www.biopac.com/wp-content/uploads/a02.pdf.
+
+Musick, J. R. “Correlated Release of Acetylcholine and Protein from the Neuromuscular Junction.” The American Journal of Physiology, vol. 236, no. 5, May 1979, pp. C225-232. PubMed, doi:10.1152/ajpcell.1979.236.5.C225.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Muscle+Graph.png&Size=156053&Type=image%2Fpng&F=F_2qgtGbhh5lMmFrF
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=IMG_1729%5B5534%5D.JPG&Size=483780&Type=image%2Fjpeg&F=F_1d0SE2JQX7lM13v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Picture of how the frog leg should be pinned down and hooked to ring stand
+Figure 2: Shows the average height of amplitude, which measures the size of contraction before (controlled) and after the injection (treatment) acetylcholine 
+*The error bar represents the standard deviation in height of amplitude.
+
+
+*************************************************************************

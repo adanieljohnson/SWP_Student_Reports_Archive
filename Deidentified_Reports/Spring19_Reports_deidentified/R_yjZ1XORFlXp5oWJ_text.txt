@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-02-26 18:20:55
+Author of this lab report is: Std_z6Kbhsf3
+ID: R_yjZ1XORFlXp5oWJ
+Course number: BIO101L
+TA: TA_djqpYq9n
+*************************************************************************
+Title: IGR and their use in pest control: how early stage Manduca sexta responds to the introduction of Precor, a synthetic substitute for Juvenile Hormone.
+
+Abstract:
+This study was conducted to determine the efficacy of Precor as an insect growth regulator in early instar Manduca sexta larvae. M. sexta is considered a good model organism for this sort of trial because its holometabolous development and the hormonal sequences that accompany it are widely representative of holometabolous insects [Johnson: 2018]. Furthermore, M. sexta’s timeline for developement is relatively short and allows for a quick but effective case study. The goal of the experiment was to test the hypothesis that the introduction of the hormones in food for the larvae would stunt growth and prevent development into further instar stages through statistical analysis of mass changes over time. Caterpillars were fed and massed every two days for two weeks. It was determined through a two sample t-test that the change in mass for the control group was not statistically different than that of the experimental group (t-stat = 0.022, df = 3, P = 0.98). Further areas of study,  such as ideas on what stage to target the organisms with IGR, are discussed and it is concluded that the introduction of Precor into larval diets must be tested at higher concentrations. 
+
+
+Introduction:
+Insects are found everywhere. Although insects can be and are beneficial to the environment, some species of insect are pests at different stages of development. Thanks to modern sensibilities, research has begun into pest control methods that are effective in fighting the onslaught of pests, but harmless to the human population. As part of this research is Insect growth regulators (IGRs), which target different hormonal pathways in insects in order to prevent or speed up development. Through the use of hormone manipulation, one can study Manduca sexta and apply the results to a broader and more general insect population [Johnson: 2018]. In this experiment, we aim to test the efficacy of hormonal treatment through a Juvenile Hormone (JH) synthetic simulator, Precor. In M. sexta, as well as other holometabolous insects, JH and ecdysterone (20E) play vital roles in the regulation of development. When the larvae are ready to pupate, JH levels must drop very low (for the first time in their life) and 20E levels slightly rise. This small spike is known as the commitment pulse, and it is this, along with the drastic drop in JH, that allows the larva to continue its development and pupate, ultimately completing its metamorphosis. Because of this, it is reasonable to stipulate that if JH levels are kept high artificially, that the commitment pulse will not take place and the larva will be unable to develop further. JH substitutes have been shown to work in the past, resulting in both accelerated development to the pupal stages as well as in physical deformities [Kort:1991][Gruetzmacher:1984]. The goal is to test the hypothesis that the introduction of JH in early stages of development will stunt growth in M. Sexta larvae. This can be helpful in the pest control problem as it would effectively remove the ability of Manduca sexta to grow to a point that would be damaging as a pest.
+
+
+Materials and Methods:
+The experiment involved six caterpillars, three of which were put in a control group and three of which were placed in an experimental group. The caterpillars  were numbered 1-6 and kept in individual compartments. These were small plastic boxes with four separate sections, each of which had two holes poked through the side for air. The caterpillars were fed one of the two following diets: 10 grams of Manduca sexta food with 5 drops of Precor (the JH substitute) or 10 grams of Manduca sexta food with 5 drops of water. While the former diet was fed to the experimental group, the latter was for the control. Every two days, the caterpillars were massed and their food supply replenished every two days for two weeks. At the end of the two weeks the caterpillars were disposed of and the data analyzed. The difference in mass of each caterpillar was found from the first day to the last day and these were averaged within groups. A two sample t-test was used to determine whether the difference between the mean mass value of the control group and the mean mass value of the experimental group were statistically significant.
+
+
+Results:
+Throughout the experiment, both groups of caterpillars were observed to grow at about the same rate. Both groups were equally as mobile and both ate about the same amount of food; when food was replaced, it very often was replaced for all six caterpillars at once. The two sample t-test demonstrated a lack of statistical difference between the treatment group and the control group means shown in Figure 1 (t-stat = 0.022, df = 3, P = 0.98). It is important to note that one of the caterpillars in the control group failed to grow more than .2 grams during the two weeks. Although it remained alive for about a week and a half, it finally died. Because this caterpillar performed drastically different than the control is expected to, it was considered an outlier and not factored into the data. Had the caterpillar been included, the data would have shown that Precor in fact accelerated M. sexta growth. The failure of this caterpillar to grow would have skewed the results and created the illusion that the average growth of  M. sexta larvae without any external stressor or stimulus  was far slower than it was. 
+
+
+Discussion:
+This experiment failed to prove that the introduction of the synthetic JH hormone, when ingested by early instar M. sexta larvae affects the growth pattern or ability of the animal. As such, there is failure to reject the null hypothesis and support the alternate hypothesis. Both groups were equally as mobile and ate the same amount. It is possible here that not enough of the hormone was given in order to induce an effect. It is true that if this synthetic hormone were to be applied in the use of IGR, that the concentration used would be far greater. If this experiment were redone, the main change would be to the concentration of the Precor fed to the larvae because it is important to simulate the way in which this molecule would be used as an IGR. Previous studies have found that the effects of IGR’s are not nearly as pronounced on early developmental stage M. sexta as they are on adults of the same species [Staal: 1975]. The findings of this study correlate with this idea and add to the notion that in order for IGR treatment to work with this particular hormone, they must be administered at later stages of development. As a continuation of these findings, further research should be conducted into IGR’s that are shown to be effective in early stages of development. Further, coupled with the research involving higher concentrations should be inquiries into the potential side effects to the environment from the use of highly concentrated synthetic JH as an IGR. It must also be considered that the only function IGR’s can have is not to stunt growth but to accelerate it. In other words, rather than attempting to prevent M. sexta from achieving the commitment pulse, it might be more effective to simply speed up its development so that it begins pupation at a far younger stage. 
+
+
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated August 2, 2018), pp. 10.   2. De Kort, C.A.D. Koopmanschap, A.B. 1991.  A juvenile hormone analogue affects the protein pattern of the haemolymph in last-instar larvae of Locusta migratoria. Journal of Insect Physiology. 37: pp. 87-93.   3. Gruetzmacher, M.C.. Gilbert, L.I.. Granger, N.A.. Goodman,  W. Bollenbacher, W.E. The effect of juvenile hormone on prothoracic gland function during the larval-pupal development of Manduca sexta: An in situ and in vitro analysis. Journal of Insect Physiology. 30: pp. 331-340.   4. Stall, G.B. 1975. Insect growth regulators with juvenile hormone activity. Annual Review: pp.426.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-26+at+18.14.39.JPG&Size=27687&Type=image%2Fjpeg&F=F_2TyJ2XkHZhs7bAa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average change in mass of Manduca Sexta with change in diet
+*************************************************************************
+
+
+

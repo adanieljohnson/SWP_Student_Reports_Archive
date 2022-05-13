@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-09-30 21:32:30
+Author of this lab report is: Std_Nkw7HAZL
+ID: R_bqhfpFHXjKmSYy5
+Course number: BIO103L
+TA: TA_QsMOD6cQ
+*************************************************************************
+Title: The change in resource allocation in Buckwheat under acidic environment
+
+Abstract:
+This experiment is trying to find out the influence of pH on the plant allocation process. Buckwheat is used as the targeted plant, and the root to shoot weight ratio is measured as the indication of plant allocation. The hypothesis is that as the pH of the soil decreases, the root to shoot weight ratio increases. Two-sampled t-test is the statistical method used in this experiment. Through collecting and analyzing data, and utilizing the two-sampled t-test, the null hypothesis is supported, which is that the pH of soil doesn’t have significant influence on the plant allocation. However, this doesn’t mean that there is completely no relation between the pH of soil and the plant allocation. The reason why this experiment supported the null hypothesis may be an abnormal data set in the experiment group. Further experiments could be done on collecting more data sets to overcome the randomness of the data collected. Knowing how the pH would influence the plant allocation could help the agricultural industry to manually select the desired part of the plant in order to be more productive. 
+
+Introduction:
+Resources in the nature are usually scarce, even in the highly nutrient areas, there may still be some other resources are lacked. For example, in the forest, water and nutrients are abundant, there are easily accessed nutrients everywhere, however, the sunlight then become a highly competitive resource because of the shade created by the tall trees in the forest. And in the desert area, the sun light is never a problem (even sometimes too much,) but the water resource and the nutrients are highly scarce. Under the selection pressure caused by the natural selection, the plants developed to have their own methods to overcome the scarcity of the resources in order to keep them alive. The ways that plants vary their behavior under different environments are called the resources allocation of plants. Resource allocation leads to the fact that even for the same plant, they may appear to have minor difference in different growth environments. The recourse allocation is extremely important due to the immobility of the plants. For the plants in the desert, for instance, they need to spare more resource on growing their roots longer in order to get water from the underground water resource or gather the water that may drop in a wider area. In this situation, for the same plant, the root to shoot ratio may differ because of the different source allocation. The environment in real life highly varies around the world, there may exist many different extreme environments. Acid rain, which causes the acidity of the soil to decrease, may be one of the most influential factors changing the growing pattern of the plant. [Zen Fanrong, 2010] So, a question needs to be considered that: how would the plants be influenced under the environment with different pH? Thus, change in pH is chosen as the independent variable of the experiment. In order to know how the resource allocation differs in acidic and neutral environments, the root to shoot weight ratio was tested. Buckwheat was the targeted plant that we test on, and we hypothesized that: As the acidity of the soil increases, the root to shoot weight ratio increases. The acidity of the soil was measured by the pH value. 
+
+Materials and Methods:
+Detailed Procedure
+·	Added enough soil in six planting boxes, and added some fertilizer to all six planting boxes, then added enough water to rinse the soil until the water came out from the bottom of the boxes. 
+·	Planted 15 buckwheat seeds into each planting box and covered the seed with little amount of soil. 
+·	Separated the six planting boxes into three control group and three experiment group.
+·	Added 40 mL of pH 3.5 water to experiment group.
+·	Repeatedly added 200 mL water to each planting box in both control and experiment groups, and an extra 40 mL of pH 3.5 water to the experiment group for two weeks. 
+·	After waiting for two weeks, took the plant out and carefully cleaned the dusk on the plant using water. 
+·	Cut the plant into two parts (root and ratio,) according to the color change around the separation of the root and shoot. 
+·	Measured the weight of the roots and shoots of at least three plants from each planting box, calculated their root to shoot weight ratio. 
+Statistical Test(s)
+Two-Sample T-test was used as the statistical test for this experiment, since there are two groups (control and experimental groups) in total. The Two-Sample T-test checked whether there is significant difference between the control group and the experiment group (which has a lower pH.)
+
+
+Results:
+From the data collected from the experiment, the Experiment group seems to have a higher root to shoot weight ratio compare to the control group, and the standard deviation of the control group is less than that of the experiment group. P-value collected from the two-sampled t-test is 0.12, which is larger than 0.05. Since the p-value is larger than 0.05, it means that there is no significant difference between the control group and experiment group. 
+
+The error bar of control group and experiment group overlaps, which also indicates that there is not significant difference between the control group and experiment group. 
+
+Discussion:
+The control group which in the neutral environment has an average root to shoot ratio of 0.28, which the acidic experiment group has an average root to shoot ratio of 0.39. It seems that the experiment group had an overall larger root to shoot weight ratio. The standard deviation of the control group is 0.042, while the standard deviation of the experiment group is 0.140. This means that the control group has a more converged data, while the experiment group has a wiser range. The two-sample t test has a result of p-value = 0.12, which indicates that there is no significant difference between the control group and experiment group. This supports the null hypothesis that: as acidity of the soil increases, the root to shoot weight ratio would increase. However, this doesn’t mean that there is no difference between the root to shoot weight ratio of control group and that of the experimental group, since in the original data collected, there was a abnormal data set from one planting box of the experiment group, they appeared to be much taller than other experiment groups. This causes the standard deviation to increase for the experiment group, also increases the p-value from the two-sample t-test. The abnormal data may cause by the loss of acidic ion when water flushing. Or, it’s possible that the uneven distribution of acidic ions in the box cause the plants grown from the abnormal planting box may not be influenced by the acid solution added to the soil. For further experiments, more data samples in control and experiments should be tested to decrease the randomness of the data collected. Fully understand how pH influences the plant allocation means that people can understand in which situation, one part of the plants would grow more. This would largely help the agricultural industry to do the manual selection of which parts of the plant is more desired. Thus, increase the yield of production. Also, how the alkaline environment influences the plant allocation could be tested to enable knowing more about how pH influences the plant allocation. 
+
+Literature Cited:
+Kamat, P., Hartland, G., and Schatz, G. 2014. Graphical Excellence. The Journal of Physical Chemistry
+Letters 5(12):2118-2120.
+
+Biology Core Resource Guide. Wake Biology, 2019.
+
+Zeng, Fanrong, et al. “The Influence of PH and Organic Matter Content in Paddy Soil on Heavy Metal 
+Availability and Their Uptake by Rice Plants.” Environmental Pollution, vol. 159, no. 1, 2011, 
+pp. 84–91., doi:10.1016/j.envpol.2010.09.019.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%2812%29.png&Size=26191&Type=image%2Fpng&F=F_3NR05LMQMMV3DF3
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%2813%29.png&Size=16686&Type=image%2Fpng&F=F_Rsn2WQJ683bSvKx
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+%2810%29.png&Size=5958&Type=image%2Fpng&F=F_3qkgL3O1fSKAC4k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: The material needed for the experiment
+Table 2: the root to shoot ratio of the buckwheat in control group and experiment group
+Figure 1: The Root to Shoot Ratio of the control group and experiment group (with error bar shown)*************************************************************************
+
+
+

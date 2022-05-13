@@ -1,0 +1,86 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-25 12:57:48
+Author of this lab report is: Std_UV8v9Hd7
+ID: R_1re3QFmWABxwJER
+Course number: BIO102L
+TA: TA_zoTYZxuS
+*************************************************************************
+Title: THE EFFECT OF SODIUM BICARBONATE ON THE RATE PHOTOSYNTHESIS
+
+Abstract:
+Photosynthesis is used by plants, some protists and some bacteria with the help of light energy (What Is Photosynthesis). Carbon dioxide is an important input to the chemical reaction of photosynthesis which yield oxygen and glucose. Its outputs are imperative to the function of organisms growth and structure and life. To test how excess bicarbonate effects photosynthesis, we tested how 0.5M and 1M concentration of bicarbonate compare to none at all. It was found that there is no significance due to a 0.233 p-Value, causing an acceptance of the null hypothesis. These results could be due to human error during the experiment. This is still important to the success of organisms and should be further studied. Two experiments found that bicarbonates presence did increase the rate of photosynthesis (Zhou et al.) (Price et al.). 
+
+Introduction:
+	Plants, some protists, and some bacteria capture and store light energy through photosynthesis (WFUSakai : BIO 214 Lab Fall 2018 : 214.2 Photosynthesis). Photosynthesis involves redox reactions where electrons go through an electron transport chain where protons pump across the lipid bilayers due to the transference of high energy electrons. The equation for photosynthesis is:
+6 CO2 + 12 H2O + light energy  C6H12O6 + 6 O2, which illustrates how the reaction occurs and its byproducts (What Is Photosynthesis). Carbon dioxide, water, and light are integral parts of the rate of reaction, and any alteration of these components can change the rate of photosynthesis.
+	In order to assess the effect of carbon dioxide on the rate of photosynthesis, various concentrations of sodium bicarbonate will be added to conclude its effect on the rate with the chloroplasts present in the organism spinach. The presence of sodium bicarbonate can be assessed with the amount of bubbles present due to the release of oxygen as well as the absorbance levels using a spectrophotometer. 
+
+
+Materials and Methods:
+In exercise 1, we took the veins out of four large spinach leaves, rinsed them in cold water, patted them dry and place the leaves in a mortar and pestle. Second, we added 10 mL of cold grinding buffer and grind until there was a thick paste. Third, we added another 10 mL of grinding buffer to create a slurry of spinach. Then we strained the slurry through three layers of cheesecloth into a beaker, making sure to squeeze the excess liquid. Sixth, we transferred 200 μL of the liquid into a microtube that was titled “Sample A”, and placed it in ice. Next, we transferred the rest of the liquid into a centrifuge tube titled, “A”. Upon placing it into the centrifuge with a balance, it was spun at 200 x G for three minutes at 4℃. The supernatant was drained slowly into another centrifuge tube titled, B, with the intent of leaving the pellet at the base of the centrifuge tube. We transferred 200 μL of the liquid from “B” into a microtube titled, “Sample B” and placed the microtube on ice. After creating another balance, we placed centrifuge tube “B” into the centrifuge and spun it at 1000 x G for ten minutes at 4℃. We then poured the liquid of “B” into another centrifuge tube titled “C”. We lastly added 20 mL of grinding buffer to resuspend the pellet from “B” and stirred it gently with a transfer pipet. 
+	In exercise 2, we turned on the spectrophotometer and then set it to measure at 600 nm. We labeled ten medium test tubes and prepared 18 mL of 0.5M Sodium Bicarbonate and 1M of Sodium Bicarbonate. We then set up the ten tubes by way of the table below. Next, we added 100 μL of the resuspended pellet from exercise one, into all of the tubes and mixed them immediately. We transferred the liquid into cuvettes immediately. Then, blanked the spectrophotometer, using the blank test tube and take the first set of absorbances. Lastly, measure the absorbances every ten minutes for thirty minutes, leaving the cuvettes in the windowsill during the time. 
+	To collect statistical data, we calculated the mean, standard deviation, using the program ANOVA, calculated the p-value, and lastly the found out which sets of data are significant using the Tukey-Kramer test.
+
+
+
+Results:
+There was not much variance in the absorbance between the different concentrations, except for in 0.5M as seen in Figure 2. The ANOVA test concluded that the p-Value present was 0.233 with the degrees of freedom at 7 as seen in Table 4. The Tukey Kramer test compared the percent change over the thirty minutes and concluded that none of the data sets are significant to one another as seen in Table 5. 
+
+Discussion:
+As seen in Tables 4 and 5, there is no statistical evidence in support of the hypothesis. The p-Value is noted to be 0.233 making the data sets insignificant, resulting in acceptance in the null hypothesis. It was clear that in the presence of light, the cuvettes containing 0.5M and 1M of sodium bicarbonate, were bubbling expressing the release of oxygen indicating photosynthesis occurring with no presence of bubbles in the cuvettes with 0M. These juxtaposing observations could come from human error of the stock solution and lapse of time. Although this experiment produced, undesired results, it is still very relevant. 
+	It is imperative to note that without photosynthesis, the world would be devoid of oxygen, causing death to most organisms (“The Important Role of Photosynthesis”). It not only provides a source of oxygen but of glucose as well which important for energy for organisms, further supporting them. In another study it was seen that the increased amounts of bicarbonate helped the growth and photosynthetic activity of microalgae (Zhou et al.). In another study, bicarbonate was found to increase leaf photosynthesis by 15% (Price et al.). It is seen that although there may have been error, this is still an imperative aspect to life and biological study. 
+
+
+Literature Cited:
+Price, G. Dean, et al. “The Prospect of Using Cyanobacterial Bicarbonate Transporters to Improve Leaf Photosynthesis in C^sub 3^ Crop Plants[W].” Plant Physiology; Rockville, vol. 155, no. 1, Jan. 2011, pp. 20–26.
+
+“The Important Role of Photosynthesis.” MSU Extension, https://www.canr.msu.edu/news/the_important_role_of_photosynthesis. Accessed 25 Oct. 2018.
+
+WFUSakai : BIO 214 Lab Fall 2018 : 214.2 Photosynthesis. https://sakai.wfu.edu/portal/site/7d5834ae-27e0-4c39-ad07-1f06e0027bca/tool/de5e6d4c-77d5-458b-bf62-02e9b2ef520a. Accessed 25 Oct. 2018.
+
+What Is Photosynthesis. 12 Apr. 2017, https://ssec.si.edu/stemvisions-blog/what-photosynthesis.
+
+Zhou, Wei, et al. “Effects of Sodium Bicarbonate Concentration on Growth, Photosynthesis, and Carbonic Anhydrase Activity of Macroalgae Gracilariopsis Lemaneiformis, Gracilaria Vermiculophylla, and Gracilaria Chouae (Gracilariales, Rhodophyta).” Photosynthesis Research, vol. 128, no. 3, June 2016, pp. 259–70. Springer Link, doi:10.1007/s11120-016-0240-3.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+12.53.35+PM.png&Size=47841&Type=image%2Fpng&F=F_2qFdF9ciI5DGq20
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+12.54.06+PM.png&Size=39276&Type=image%2Fpng&F=F_110DI2FdfQN8u5K
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+12.54.01+PM.png&Size=12844&Type=image%2Fpng&F=F_1QbkERycKVlG2W9
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+12.53.57+PM.png&Size=26146&Type=image%2Fpng&F=F_2VpCx8gKIl3SR7M
+
+Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+12.53.51+PM.png&Size=55116&Type=image%2Fpng&F=F_32LPCJrBcgTChOQ
+
+Figure 6: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+12.54.12+PM.png&Size=38229&Type=image%2Fpng&F=F_3qmoR0qYtp7qybw
+
+Figure 7: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-25+at+12.54.18+PM.png&Size=38827&Type=image%2Fpng&F=F_yWLkvJc08JflTsl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Volumes of reagents per each tube
+Table 2: The mean per concentration and time and other statistical data.
+Table 3: Percent change at 30 minutes per concentration (used to do ANOVA)
+Table 4: ANOVA Value
+Table 5: Tukey-Kramer Test
+Figure 1: The average absorbance per concentration over time. 
+Figure 2: The percent change by each concentration at each time change. 
+*************************************************************************
+
+
+

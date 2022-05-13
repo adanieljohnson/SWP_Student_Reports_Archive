@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-27 01:16:54
+Author of this lab report is: Std_WiqwYfeR
+ID: R_3PuVDwOmacZoTKq
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The effect of lanthanum chloride on muscle contraction in Rana pipiens frog legs
+
+Abstract:
+In this lab, we used Rana pipiens frog legs to determine the minimum threshold required to stimulate a muscle contraction in the gastrocnemius. The legs were then injected with lanthanum chloride, a calcium-blocker, and their minimum threshold was calculated again. Our hypothesis stated that the minimum threshold following the injection of calcium would be higher since the calcium-blocker would prevent release of calcium resulting in the muscle having a more difficult time contracting. Our data showed that the average minimum threshold after the injection was slightly higher than before, but after running a paired t-test, we discovered that our results were statistically insignificant. In the future, repeating this experiment with a higher concentration of lanthanum chloride and allowing more time to elapse following the injection before calculating the minimum threshold again could yield more accurate results.
+
+Introduction:
+The neuromuscular system is composed of neurons which instantly transmit signals to muscles, through electrical impulses known as action potentials. Action potentials stimulate Ca2+ release in the muscle, allowing troponin and myosin to bind and stimulate a muscular contraction [Johnson, AD: 2018]. In frogs, the sciatic nerve is responsible for stimulating the contraction of the gastrocnemius muscle. Following the death of the frog, the remaining ATP, calcium, and acetylcholine built up allows the muscle to be stimulated by outside electrical signal. The outside electrical signal will be created through a software system called iWorx, which sends an electrical signal through silver thread and creates an action potential in the nerve which will then travel down into the muscle, stimulating muscle contraction. This muscle contraction can be measured using a myogram. A myogram is a graph which illustrates the latency, contraction, and refractory periods involved in a muscle contraction. The latency period illustrates the time between the signal being received and being carried out, the contraction period is the time in which the muscle is contracting, and the refractory period is the time following contraction in which the muscle cannot be stimulated again. In this lab, we will be introducing calcium-blocking lanthanum chloride to the frog leg of a Rana pipiens frog. While before lanthanum chloride is introduced, the stimulation will cause the frog's gastrocnemius to contract, the blocking of calcium by lanthanum chloride will prohibit the contraction of the muscle. A previous study illustrates that introducing lanthanum chloride in the frogs will prevent tension responses and the calcium ion movements expected across the membranes [Weiss: September 1970]. It is our hypothesis that the threshold for stimulating a muscle twitch in the frog leg will increase compared to the threshold prior to the introduction of the calcium-blocking substance. 
+
+Materials and Methods:
+First, we obtained two Rana pipiens frog legs. We then stripped the skin from the legs to expose the muscle. We severed the gastrocnemius at the Achilles tendon and separated the membrane. We then opened the thigh muscle to expose the sciatic nerve. We took a piece of thread and tied one end to the cut end of the gastrocnemius and hooked the other end onto the stand. Next, two silver threads attached to the transducer were placed underneath the sciatic nerve. The frog leg was then pinned down and using the iWorx computer software, an electrical stimulus was sent through the transducer, down the nerve, and into the muscle. The first part of this experiment was to determine the minimum threshold required to stimulate a muscle contraction in the frog legs. After the minimum threshold was established, the leg was injected with 0.1 mL of lanthanum chloride. Since lanthanum chloride is a relatively large molecule, we waited 8 minutes after injection and massaged the muscle to spread the chemical. After 8 minutes, we measured the minimum threshold again to observe the changes caused by the lanthanum chloride. We then repeated the same process for the other leg. To determine whether out results were significant, we performed a paired t-test to compare the minimum threshold for contraction before and after injection of the lanthanum chloride.
+
+Results:
+Our average difference in the minimum threshold of the frog legs before and after injection was 0.013. To determine the significance of our results, we ran a paired t-test on our data. After performing this test, we found our t-value to be 1.52 with a p-value of 0.23 and 3 degrees of freedom. A p-value of 0.23, greater than 0.05, indicates that our results are not statistically significant.
+
+Discussion:
+Our results (p&gt;0.05) indicated that our hypothesis was not supported. While the average minimum threshold was slightly higher after injection with lanthanum chloride, the paired t-test indicated that this difference was not statistically significant. This indicates that lanthanum chloride did not have a significant impact on the minimum threshold required to stimulate a muscle contraction in the Rana pipiens frog legs. Other studies suggest that our hypothesis should have been supported. According to one study, the lanthanum chloride was able to suppress 90% of muscle contraction in isolated human femoral veins following a 30-minute resting period [Glusa: May 1987]. Yet another study indicated that as lanthanum chloride concentrations increased, twitch tension output in affected muscles decreased [DeBassio: 1971]. It is possible that our experiment did not have statistically significant results as a result of not allowing enough time to elapse before measuring the minimum threshold again. Since lanthanum chloride is a large molecule it has a slow diffusion time. Another possibility is that our concentration of lanthanum chloride injected into the frog muscle was too small. In the future, this experiment could be performed again with an increased concentration of lanthanum chloride and a longer amount of time should elapse before measuring the minimum threshold following injection. 
+
+Literature Cited:
+[1] Johnson AD. Comparative Physiology. BIO114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated 1/5/18)
+[2] Weiss, George B. ON THE SITE OF ACTION OF LANTHANUM IN FROG SARTORIUS MUSCLE. Journal of Pharmacology and Experimental Therapeutics September 1970, 174 (3) 517-526
+[3] Glusa, E.; Markwardt, F. Effects of calcium channel blockers on the contractile response to dihydroergotamine in isolated human femoral veins. Naunyn Schmiedebergs Arch Pharmacol. 1987 May;335(5):529-33.
+[4] DeBassio, William A.;Schnitzler, Ronald M.; Parsons, Rodney L. Influence of lanthanum on transmitter release at the neuromuscular junction. John Wiley & Sons 1971.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screenshot+2018-03-27+at+12.51.08+AM.png&Size=70302&Type=image%2Fpng&F=F_3KGB1o8nBQAOSNG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The average minimum threshold required to stimulate muscle contraction in a Rana pipiens frog leg before and after injection with lanthanum chloride. The minimum threshold after injection had increased slightly compared to before injection, though the results were not statistically significant. There was an average change of 0.013 higher in the group after the injection than before.
+
+*************************************************************************

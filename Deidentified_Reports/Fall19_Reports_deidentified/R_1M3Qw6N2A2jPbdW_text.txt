@@ -1,0 +1,78 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-10-16 00:56:30
+Author of this lab report is: Std_INsuTNaU
+ID: R_1M3Qw6N2A2jPbdW
+Course number: BIO101L
+TA: TA_23dMbkjX
+*************************************************************************
+Title: Effects of Constant Juvenile Hormone Addition in Manduca Sexta Larvae
+
+Abstract:
+n/a
+
+Introduction:
+The Tobacco Hornworm, Manduca sexta, is a species of moth commonly found in the United States that is frequently used in laboratories studying neurobiology due to its short life span and easily accessible nervous system. Aside from their use in the laboratory, the moths are considered a pest in most agricultural communities as they are harmful to crops. With further research into the hormones that control larval development, more efficient methods can be developed of limiting the tobacco hornworm’s effect on crops. Our experiment seeks to measure the physiological effects of artificially manipulating the concentrations of select hormones during instar development. As the moth progresses through its lifespan (which typically takes around 40 days), the ecdysterone hormone is released from the prothoracic glands to determine when the larva should molt to the next phase [Riddiford: 2003]. While this is occurring, the juvenile hormone is released from the corpus allata to regulate which phase the larva should progress to [Riddiford: 2003]. In natural conditions, each larva goes through five different instar phases, slowly growing in size, until it molts into a pupa and eventually a fully grown moth [Hatem: 2015]. To simulate additional release of juvenile hormone, we used an insecticide containing methoprene called Martins IGR. Methoprene is a juvenile hormone analogue that would produce similar physiological responses as juvenile hormone [Satyanarayana: 1994]. Since the juvenile hormone can potentially delay instar development, giving more time for growth, we hypothesized that if the juvenile hormone was increased in development the change in mass of the moth would be higher. 
+
+
+Materials and Methods:
+To prepare for the experiment, eight caterpillars were acquired and separated into two different groups, the treatment group and the control group. Each caterpillar was massed and given a number for identification to track future growth. To prepare the habitat for the caterpillars during the two weeks of testing, two plastic containers with four separate chambers for each caterpillar were used. Holes were poked in the side of the container for oxygen and each chamber was marked with an assigned number for each caterpillar. Ten grams of food were measured out for each caterpillar. The food for the treatment group was treated with 10 drops of Martin’s IGR while the food for the control group was treated with 10 drops of water. When the caterpillars ran out of food, the process was repeated in the exact same way with another 10 grams of food. During the two weeks of testing, the caterpillars mass was measured in grams every day to track growth. The difference between the final and the initial mass of each caterpillar were then compared in a two-sample, one-sided t-test with an alpha level of 0.05 to test whether any difference in mass was statistically significant.
+
+
+Results:
+The growth represented in Figure 1. shows a broad range of growth patterns between both the treatment group and the control group. Larvae treated with additional juvenile hormone showed a larger range of growth compared to the control group as the larva with the highest growth and the larva with the lowest growth were both treated with additional juvenile hormone. The high amount of difference in growth pattern is also demonstrated by the large standard deviation shown by the error bars in Figure 1. The untreated group had a more condensed growth pattern than the JH treated group; however, the mean of the control group was not statistically significantly different than the mean of the experimental group (t-value = 0.51956, df = 6, one-sided p-value = 0.310986). 
+
+
+Discussion:
+Based on the results of the two-sample t-test, the null hypothesis was supported as the average mass of the treatment group was actually lower than the average mass of the control group. Our original hypothesis reasoned that the implementation of the juvenile hormone would delay molting to a higher instar level, allowing the larvae more time to grow before maturation. We failed to recognize that the juvenile hormone would not just stunt the molting of higher instar levels, but could result in unnatural progression of molting. The progression of molting in tobacco hornworm larvae follows a relatively rigid pattern but the constant addition of juvenile hormone could result in molting in an unnatural progression by possibly skipping developmental instars [Browder: 2001]. We reason that the juvenile hormone level of the treatment group for larvae that saw rapid growth, such as larva 1, could have triggered molting into a much higher instar level than what the next instar level was. If this is true, and the larvae molted straight to instar four or five, the larvae would need to gain mass quickly to compensate for the unnaturally high growth. Inversely, a larvae such as Margaret, could have had their molting schedule stunted, keeping them at a low instar level where gaining additional body mass would not be necessary. If this reasoning is accurate, this could explain why there was a much higher standard deviation in the treatment group relative to the control group. 
+
+Similar studies on Manduca sexta development have examined similar results but attribute the variances in growth to the possibility of juvenile hormone inhibiting the production of prothoracicotropic hormone (PTTH), another important developmental hormone, during early instar phases [Nijhout: 1974]. PTTH triggers the release of ecdysterone (20e) during development which regulates the timing of molting during larvae development [Riddiford: 2012]. By inhibiting the production and release of PTTH and the subsequent release of 20e, larva with high amounts of juvenile hormone could possibly remain in low instar levels for extended amounts of time, explaining the limited growth of some treatment larvae. 
+
+Reflecting back on the specifics of our methods, 10 drops of the diluted juvenile hormone for the treatment group could have been excessive and caused more developmental errors than anticipated. Our study could be improved by using variable amounts of diluted hormones for a higher amount of larvae in order to have more accurate data describing a wider variety of hormone imbalances. Due to the different biological processes that could have influenced the growth patterns of the larvae used, research could be improved upon by testing the addition of more hormones during development. 
+
+In conclusion, more exact amounts of juvenile hormone would be needed to decrease the growth of tobacco hornworm larvae. However, the results could be more easily predictable by controlling the concentration of ecdysterone or PTTH during development to offset the timing of early molting. 
+
+
+Literature Cited:
+Riddiford, L.M., Hiruma, K., Zhou, X. and Nelson, C.A., 2003. Insights into the molecular basis of the hormonal control of molting and metamorphosis from Manduca sexta and Drosophila melanogaster. Insect biochemistry and molecular biology, 33(12), pp.1327-1338.
+
+Hatem, N.E., Wang, Z., Nave, K.B., Koyama, T. and Suzuki, Y., 2015. The role of juvenile hormone and insulin/TOR signaling in the growth of Manduca sexta. BMC biology, 13(1), p.44.
+
+Satyanarayana, K., Bradfield, J.Y., Bhaskaran, G. and Dahm, K.H., 1994. Stimulation of vitellogenin production by methoprene in prepupae and pupae of Manduca sexta. Archives of insect biochemistry and physiology, 25(1), pp.21-37.
+
+Browder, M.H., D'Amico, L.J. and Nijhout, H.F., 2001. The role of low levels of juvenile hormone esterase in the metamorphosis of Manduca sexta. Journal of Insect Science, 1(1).
+
+NIJHOUT, H.F. and WILLIAMS, C.M., 1974. Control of moulting and metamorphosis in the tobacco hornworm, Manduca sexta (L.): cessation of juvenile hormone secretion as a trigger for pupation. Journal of Experimental Biology, 61(2), pp.493-501.
+
+Riddiford, L.M., 2012. How does juvenile hormone control insect metamorphosis and reproduction?. General and comparative endocrinology, 179(3), pp.477-484.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+%28Updated%29.png&Size=76383&Type=image%2Fpng&F=F_1hAqCv3Y4GstFOg
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=FIgure+2+%28Updated%29.png&Size=22830&Type=image%2Fpng&F=F_etiEERDN9YWqokp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Growth in larvae over two-week span
+Figure 2. Average difference in mass for treatment group and control group. Error bars represent +/- one standard deviation.*************************************************************************
+
+
+

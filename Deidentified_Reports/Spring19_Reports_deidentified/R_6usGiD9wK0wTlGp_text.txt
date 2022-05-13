@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 22:45:30
+Author of this lab report is: Std_T0Ty0DPA
+ID: R_6usGiD9wK0wTlGp
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Effect of Sodium Channel Blocker on Nerve Contraction
+
+Abstract:
+As sodium channels plays an important role in initiating the action potential at the neuromuscular system, the blocking of sodium channel is likely to influence the nerve response of organisms. The purpose of this experiment is to investigate the effect of sodium channel blocker reagent on the nerve response of organisms, and frog legs are used as samples. This experiment sets whether the sciatic nerve of frog legs receives sodium channel blocker reagent as independent variable, and the nerve response voltage as the dependent variable. The results of this experiment are obtained rely on myograms of frog legs’ responses and suggest an insignificant result concerning the effect of sodium channel blocker on muscle contraction. However, although the results are insignificant, there is still a general trend that indicates the negative effect of sodium channel blocker on the muscle contraction of frog legs.
+
+Introduction:
+Organisms sense and respond to external environment through their neuromuscular system. A muscle contraction will be stimulated by a process called excitation-contraction coupling. During this process, action potential travels along an axon with a nerve arrive at the neuromuscular junction. The action potential is triggered when gated sodium channels open, causing sodium ions influx into the axon and thus depolarizing the membrane. The depolarization of the motor neuron causes releasing of neurotransmitters—Acetylcholine, which further triggers the opening of sodium channels at the muscle fibers and generates action potential afterwards [Johns: 2014]. Therefore, sodium channels are crucial in the initiation and propagation of action potentials and are likely to impact the results of whether or not the nerve will generate responses when they are blocked [Bagal: 2015]. Based on the mechanisms of sodium channels, the sciatic nerves of the frog are used in this experiment to find out the relationship between sodium channel blocker and muscle contractions. Our null hypothesis is that sodium channel blocker reagent has no effect on the muscle contraction of frog legs; and the alternative hypothesis is that the sodium channel blocker reagent has an effect on the muscle contractions.
+
+Materials and Methods:
+In this experiment, we used three frog legs in order to make our experiment replicable and valid. Thus, each frog leg received treatments for both control group and treatment group. Firstly, we pulled off the skin for each frog leg and separated their inner thigh muscle to reveal the sciatic nerve. Since we wanted to use myogram to analyze the nerve responses towards stimulations, we hung the frog leg onto the holder that connects with the myogram and make sure the force on the leg is tight and appropriate. Then, we attached a probe under the sciatic nerve and gave 1-amplitude stimulus to the nerve. The nerve responses were recorded for three runs. After that, we injected 0.1 ml sodium channel blocker into both the muscle and nerve of frog leg. Three minutes later until the reagent was completely absorbed by the nerve, 1-amplitude stimulus was acted on the sciatic nerve for three runs. We ran the same process for three frog legs and conducted a paired-t test by calculating the average means of nerve responses for three legs before and after the injection of sodium channel blocker reagent. 
+
+Results:
+The mean voltage for three frog legs before the injection of sodium channel blocker reagent is 0.620 volts with standard deviation of 0.188 and standard error of 0.433. The mean voltages after the injection is 0.366 volts with standard deviation of 0.227 and standard error of 0.476 (Figure 1.). The resulting p-value is 0.270 (degree of freedom = 2, t-value = 1.509). According to Figure 1., the general trend shows there is a decreasing nerve response after the injection of the sodium channel blocker reagent. 
+
+Discussion:
+According to the general trend suggested by the results, sodium channel blocker has a negative effect on the muscle contraction of frog legs. However, the p-value suggested by the paired-t test indicates that it is not statistically significant enough for the difference of mean values before and after the injection of sodium channel blocker reagents to conclude the effect of sodium channel blocker. Therefore, it failed to reject the null hypothesis that sodium channel blocker has no effect on the muscle contraction of frog legs. Previous researches indicate that the mechanisms of sodium channel contain three states. At first, the pore in the channel is closed so that sodium cannot pass from one side to the other. Second, the open state of channel will initiate depolarization and change the membrane potential to threshold potential. The third state is termed as inactivated state, which is self-declining current of sodium ions. The blocking characteristic is also shown in previous research that nearly full-size sodium ion current could be elicited during the first depolarizing impulse, but subsequent impulses get smaller and smaller. As a result, sodium channel blocker works when the channel is open before [Scholz: 2002]. This mechanism upon sodium channel explains our result because if the timing of our experiment should follow the three states of sodium channel, otherwise, the sodium channel blocker will not show its actual effects. The small sample size may also contribute to the insignificance of our results. In conclusion, the results suggested a trend that sodium channel blocker is likely to decrease the nerve response, but it is not significant due to various reasons.
+
+Literature Cited:
+1.	Johns, P. (2014). Electrical Signaling in Neuron. Clinical Neuroscience. 71-80.
+2.	Bagal, K. S., et al. (2015). Voltage Gated Sodium Channels as Drug Discovery Targets. Channels (Austin). 9(6): 360-366.
+3.	Scholz, A. (2002). Mechanisms of (local) Anaesthetics on Voltage-Gated Sodium and Other Channels. British Journal of Anaesthia. 89(1): 52-61.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1..png&Size=42189&Type=image%2Fpng&F=F_2pM5H99B4zsEWMv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Sciatic Nerve Response Before and After Using Sodium Channel Blocker. Each bar represents the mean voltage of three frog legs after averaging three runs before and after the injection of sodium channel blocker reagent. Error bar represents SE.*************************************************************************
+
+
+

@@ -1,0 +1,68 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-11-29 20:16:35
+Author of this lab report is: Std_CZEcOcx9
+ID: R_Re1tx1KBRBL2VPz
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The inhibitory effects of Circumin on Physarum polycephalum
+
+Abstract:
+Physarum, a genus of mycetozoan slime molds, was chosen as the model organism for this experiment. It is found to be a great model organism as it is a, relatively easy organism to observe and manipulate. This species was the focal point of the experiment as we attempted to determine the effect of curcumin on the signaling pathway that was responsible for the negative chemotaxis of Physarum (no movement as a result of a chemical stimulant). The medium through which this was accomplished was by placing the species into 3 PDA plates that contained curcumin. Curcumin inhibits Protein Kinase A, which is responsible for the cAMP-mediated signaling pathway. These plates were compared to a control, where no inhibitor was present. Each plate was taped shut, wrapped in tin foil, and left in an incubator a total of 24 hrs. Afterwards, each plate was measured to determine the migration of each Physarum (in millimeters), then averaged, and compared to the control plates. After conducting the experiment, we found that, on average, the plates containing the circumin solution migrated less compared to the that of the control. 
+
+
+Introduction:
+Physarum polycephalum, or rather, Physarum, is a slime that is typically found in shady, moist, and cool areas [Eastfield]. The species itself is a useful organism for biological study as it is easy to see the large cells of the organism. Physarum, in general, is sensitive to the chemical nature of its environment. Physarum uses the various signaling pathways it posses in order to maintain homeostasis and interact with its environment [Eastfield]. Cytoplasm streams rhythmically back and forth through a network of tubular elements, circulating nutrients and chemical signals and forming pseudopods that allow the organism to navigate around and respond to its environment [Eastfield]. In an experiment conducted in 1999, a relationship between IP3 as well as cyclic AMP (cAMP) was determined by. IP3 receptors are phosphorylated by a protein kinase that is dependent upon cAMP, this, in turn, catalyzes the release of calcium through these IP3 receptors [Taylor: 2016]. For Physarum, as well as other organisms, the movement of a cell is regulated by the various interaction between its action and myosin filaments; these typically involve muscle contractions whenever calcium ions are able to bind to myosin [Nakamur, 1999]. Given these notions, we carried out a similar experiment, where we planned to determine how the introduction of an inhibitor affects the signaling pathway used during chemotaxis of Physarum.In order to determine this, we exposed the species to curcumin, which inhibits protein kinase A (necessary for the cAMP-mediated pathway) and then compared these treatments to a control group. We then measured the average distances migrated by the species after 24 hours to determine which group led to the largest change as a result of, or in absence of chemotaxis. We conducted the experiment with the following hypothesis in mind, based on the information provided, the average distance for Physarum is to be significantly reduced in the presence of circumin, a cAMP inhibitor.
+
+
+Materials and Methods:
+Initially, a dilution of Curcumin was made by mixing 1mL of the 20 X stock curcumin solution with 9 mL of H2O (10 x dilution). A singular (1 x 1) cm square was drawn on the water agar plates (approximately in the center) and then cut in the plates as well, forming “wells” in the agar. For the experimental plates, 4 mL of the diluted curcumin solution was spread over the water agar plates prior to the agar wells being cut out. Physarum was then introduced into each well for both the controls as well as the experimental wells. Food was then placed (oats) in all 6 plates. An “X” marking the location of the food was placed on the outside of the PDA plates. After the PDA plates were taped, they were wrapped in tin foil and placed in a black bag. The plates were then placed in an incubator at 25 degrees Celsius for 24 hours. After that, the migratory distance of Physarum for each plate was determined. Using the values recorded, a one-tailed 2 sample T-test was performed to test for statistical significance. 
+
+
+Results:
+After conducting the experiment, it was found that the control group moved, on average, 8.33 mm more than the experimental group (according to figure 1). All three plates in the control group migrated at least 13.6 mm and all plates in the experimental group moved at least 6.2 mm. It was found that for all three plates, for both the experimental and the control group, 2 moved towards the food and 1 plate did not. After the experiment was conducted a one-tailed 2 sample T-test was conducted and the following values were produced: t-stat =3.54014, d.f = 3 , P= 0.01986 
+
+Discussion:
+Physarum, a genus of mycetozoan slime molds, was chosen as the model organism for this experiment. It is found to be a great model organism as it is an, relatively, easy organism to observe and manipulate [Eastfield]. This species was the focal point of the experiment as we attempted to determine the effect of curcumin on the signaling pathway that was responsible for the chemotaxis of Physarum. We initially hypothesized that the experimental group with the addition of curcumin will be found to move less on average than that of the control group. After conducting the experiment, we found that our results were statistically significant and that there is reasonable evidence to support the notion that curcumin causes negative chemotaxis to occur in Physarum. We can anticipate the experimental group for having, on average, less total migration as Curcumin inhibits Protein Kinase A, which is responsible for the cAMP-mediated signaling pathway. Consequently, inhibiting protein Kinase A reduces the motility of Physarum, leading to its reduced movement over time [Squire, 2009]. More specifically, the relationship between the IP3 and cAMP-mediated pathway can explain the results that are shown. To be specific, adenylyl cyclase produces cyclic AMP. cAMP is then able to activate the enzyme protein Kinase A. Protein Kinase A phosphorylates other enzymes [Bowen]. Specifically, protein kinase A phosphorylates IP3 receptors, this, in turn, triggers the opening of Calcium ion channels [Taylor, 2016]. This release of calcium binds to the myosin/actin filaments to allow for the movement of Physarum via the power stroke [Nakamura:1999]. So, the experimental group of Physarum that was doused in the Curcumin solution shows significantly less movement as a result of a disrupted pathway. Curcumin, which is a cAMP inhibitor, disrupts the pathway the allows the production of cAMP. Without the production of cAMP, protein kinase A is not able to be activated, meaning that calcium will not be able to bind to myosin/actin filaments to allow Physarum to move. Based on the results, previous studies, and what we know about the cAMP pathway, we know that there is a relationship between cAMP and IP3 pathways, we can also state that Curcumin causes an inhibition of cAMP in Physarum to a statistically significant extent. Although our data did support our original hypothesis, there were various limitations to our experiment, one of them being that there were some overgrown bacteria on the oatmeal flakes attached to the Physarum, which may have inhibited the migration of the specimen in the sense that the bacteria compete with the Physarum for food. Aside from this, research can go beyond Physarum, we can take this experiment further by exploring various organisms and their respective behaviors, by finding the means through which certain behaviors are observed, determine what signaling pathways/internal mechanisms are responsible for producing specific responses to the environment.
+
+
+Literature Cited:
+Bowen, Richard. “Protein Kinase A.” Digestive Anatomy in Ruminants, Vivo, www.vivo.colostate.edu/hbooks/pathphys/topics/pka.html.
+
+Eastfield. “Slime Mold.” Encyclopedia of Life, National Museum of Natural History, eol.org/pages/1002810/names?all=1.
+
+Nakamura, A., & Kohama, K. (1999). Calcium regulation of the actin-myosin interaction of Physarum polycephalum. In International review of cytology Academic Press.
+
+Taylor, C. W. (2017). Regulation of IP3 receptors by cyclic AMP. Cell Calcium, 63, 48-52.
+
+Squire, Larry R. “Cyclic Adenosine Monophosphate.” NeuroImage, Academic Press, 12 June 2009, www.sciencedirect.com/topics/neuroscience/cyclic-adenosine-monophosphate.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-29+at+8.14.41+PM.png&Size=46262&Type=image%2Fpng&F=F_32Wvp6gqQeZ87WK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Compares the average migration of Physarum polycephalum in the experimental solution (with curcumin) and the control solution (no circumin). After the experiment was conducted a one-tailed 2 sample T-test was conducted and the following values were produced: t-stat =3.54014, d.f = 3, P= 0.01986 *************************************************************************
+
+
+

@@ -1,0 +1,62 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-11-29 15:04:50
+Author of this lab report is: Std_6W0QowAm
+ID: R_3LYDdsYMWxE6x7n
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: Inhibitor effects on Movement in Physarum
+
+Abstract:
+The effects on signaling pathway inhibitors on Physarum movement was evaluated. Signal transduction is a chemical or physical signal is transmitted through the cell, most commonly by protein phosphorylation, which ultimately results in a cellular response. Through signal transduction, Physarum is able to respond to changes in the environment and either move towards or away from those stimuli. Physarum was placed in water-agar plates soaked in caffeine and oatmeal was added to the top half of the plate and incubated over 24 hours. Our results were significant as the Physarum in the caffeine plates showed an increase in movement.
+
+
+Introduction:
+Physarum is a yellow, flat, sticky mass that lives within damp, decomposing leaves and ground debris. Physarum moves similar to an amoeba and has various protoplasmic tubes. These tubes have cytoplasm streaming rhythmically back and forth through them that can circulate chemical signals. This allows the organism to respond and navigate through the environment. Physarum wants to navigate through the environment in order to achieve the optimal environmental conditions: such as a warmer location or nutrients. Physarum can have positive or negative chemotaxis, meaning the Physarum senses the molecules in the environment and then responds by moving away or towards that source (Johnson, 2016). Physarum utilizes signal transduction pathways to respond to external stimuli. Specifically,  Physarum is regulated through the cAMP second messenger. cAMP diffuses throughout cells and binds to several substrates which can activate enzymes involved in turning on and off biological processes. One of these enzymes is PKA which phosphorylates other enzymes and can activate or silence them. These enzymes can signal the organism to respond. Activation or inactivation of enzymes is what causes a response from the organism. The signaling paths stop when cAMP is broken down by phosphodiesterase. Several lines of evidence suggest a role for cyclic AMP as a mediator of both sensory and motile responses over a wide range of species and cell types. (Kincaid and Monsour). Thus, without the breakdown of the mediator between a signal and movement, the movement continues. This study evaluated the effects of caffeine, a known phosphodiesterase inhibitor, on Physarum slime mold chemotaxis. We hypothesized that if we placed Physarum in a caffeine-soaked plate, the cAMP will continue to produce, and therefore there will be an increase in movement towards a food source. 
+
+Materials and Methods:
+The experiment began by mixing 1 mL of 20X caffeine with 19 mL of deionized water to obtain a 1X solution. Then 6 water-agar plates were obtained and labeled: 3 plates control and 3 experimental. 6 mL of the caffeine solution was placed in each of the experimental plate and was dried. 1 cm x 1 cm squares were cut out of each plate and replaced with a square of Physarum in each. 5-6 pieces of oatmeal were sprinkled on the top half of each plate. The lids were taped shut, wrapped in foil and labeled. The plates were placed in a black bag and then placed in an incubator at 27℃. We returned after 24 hours and slime mold movement was measured. A 2-sample t-test was ran to test significance. 
+
+
+Results:
+The movement of Physarum increased in the caffeine plates over the 24 hour incubation period. The movements for the control plates were 3 mm, 2 mm, and 2 mm, and the movements for the caffeine plates were 10mm, 13mm, and 11mm. The standard deviation for the control plates was +/- 0.577 and was +/- 1.528 for the caffeine plates (figure 1). A 2-sample t-test produced a p-value of 0.0003. 
+
+
+Discussion:
+Physarum responds to the environment by using signal transduction pathways which allow it to move towards or away from an environmental factor. Physarum does this by diffusing cAMP through the cell to activate enzymes that serve as signals for a response. The signal stops when cAMP is broken down by cAMP phosphodiesterase, and therefore the response ends. In this experiment, we tested the effects of caffeine, a known inhibitor of phosphodiesterase, on the movement of Physarum. We hypothesized that the Physarum would move further towards the oatmeal when caffeine was added due to the inhibition of phosphodiesterase and therefore more cAMP production. Our hypothesis was supported because the distance traveled by the Physarum in the caffeine was significantly further than the Physarum without. The average rate of migration for the control plates was 0.304 and was 1.478 for the caffeine plates (figure 1). Physarum utilizes a signal transduction pathway to respond to an external stimuli, such as in this case, movement towards oatmeal. Physarum is regulated through the cAMP second messenger, which diffuses throughout cells and binds to several substrates, activating enzymes involved in turning on and off biological processes. One specific enzyme is PKA, which phosphorylates other enzymes and can activate or silence them. These enzymes signal the organism to respond. The activation or inactivation of enzymes is what causes a response from the organism to the stimuli. The signaling paths stop when cAMP is broken down by phosphodiesterase. The movement towards oatmeal was expected to increase because when the phosphodiesterase is inhibited, the cAMP would not be broken down to stop signaling. Cyclic AMP is shown to act as a mediator of both sensory and motile responses over a wide range of species (Kincaid and Monsour). When phosphodiesterase is inhibited, the inactivation of a cellular second messenger is blocked. Because cAMP would not be inactivated, the signal would continue, continuing movement of Physarum. The p-value for the experiment was 0.0003 meaning that our results were significant. By knowing how inhibitors affect Physarum movement, we could use this knowledge to know how to stop or trigger the spreading of bacteria. 
+
+
+Literature Cited:
+Kincaid, Randall L., and Tag E. Mansour. “Cyclic 3′,5′-AMP Phosphodiesterase in Physarum Polycephalum I. Chemotaxis toward Inhibitors and Cyclic Nucleotides.” Biochimica et Biophysica Acta (BBA) - General Subjects, vol. 588, no. 3, Dec. 1979, pp. 332–41. ScienceDirect, doi:10.1016/0304-4165(79)90341-6.
+Johnson 2016: BIO 214 Lab Fall 2018 : 214.3 Signaling. https://sakai.wfu.edu/portal/site/7d5834ae-27e0-4c39-ad07-1f06e0027bca/tool/08df4bbe-848e-425d-8ccb-b3b9afa933c7/ShowPage?sendingPage=1435490&itemId=1541581&path=clear_and_push&title=Overview%20of%20Signaling%20Pathways&newTopLevel=false. Accessed 29 Nov. 2018.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-29+at+3.01.53+PM.png&Size=31184&Type=image%2Fpng&F=F_2roztJIcvD0E3ie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: measurements were taken after a 24 hour period using a mm ruler. Measurements were added and averaged. *************************************************************************
+
+
+

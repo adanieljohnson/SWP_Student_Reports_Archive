@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-10 08:11:34
+Author of this lab report is: Std_sY0KSwLe
+ID: R_31cPihlszdI1sLd
+Course number: BIO103L
+TA: TA_fMNrLFgi
+*************************************************************************
+Title: Difference in size does not affect aggression in Betta splendens
+
+Abstract:
+The Siamese fighting fish (Betta splendens) displays aggression when exposed to rival males. This experiment was performed to see if there was a relation between size of males and their aggressive behaviors. After exposing male fish of different sizes to each other in a separate tank, their behaviors were observed.  The analysis of the data showed that there was no relation between these variables. This goes against the hypothesis that there was a relation. 
+
+
+Introduction:
+The Siamese fighting fish (Betta splendens) is known for its aggressive behavior in the presence of others of its species, especially rival males [Evans: 1985]. The purpose of this experiment is to see whether size of the males affects their aggressive behaviors. Males typically display aggression with one of several behaviors, including the movement of several types of fin and the flaring of the branchiostegal membrane that covers the gills. The aggression varies somewhat between individuals [Evans: 1985], so this experiment was designed to isolate size as a variable for aggression. The hypothesis is that there will be a relation between size of the male and aggression. The reason for this hypothesis is that size plays a role in actual fights between animals of all kinds, so it is very likely to influence aggression in Betta splendens. The trend could conceivably go either way; the smaller fish could be more aggressive in order to compensate for their lack of fighting ability, or the larger fish could use aggression as a warning of how dangerous they are to smaller males. These trends are very common in other species, such as another freshwater fish Brachyrhaphis rhabdophora [Basolo: 2004] and a prawn M. idellaidella [Soundarapandian: 2013]. Studying behavior in species is exceedingly useful, especially when it comes to breeding behaviors. For example, knowing the conditions in which a species prefers to breed can be very useful in conservation. In the case of Betta splendens, the domestic individuals being used could potentially give useful information about those in the wild, and studies such as this one can also be used to compare different species to each other. 
+
+
+Materials and Methods:
+For testing, a tank was prepared that had a transparent glass partition and a sliding opaque plastic partition, allowing for two fish in each section of the tank to interact without touching each other for carefully measured durations of time. Fish were selected based on size, with care being taken to match only same-colored fish in order to limit that variable. A small fish and a large fish were acquired, and they were placed in separate compartments of this tank. Then the opaque divider was removed so the fish could see one another. They were carefully observed for several aggressive behaviors, the most obvious of which are the flaring of the branchiostegal membranes in the gills of the fish, and the vigorous beating of the tail. The fish were watched for these behaviours for 5 minutes, and the results were recorded. This was repeated with 3 seperate groups of fish. With these data, a two-sample t-test was run using Excel. 
+
+
+Results:
+When looking at tail-beating as a metric (see figure 1), the P-value was 0.50, which vastly exceeds the alpha of 0.05. This means that the null hypothesis of the values being similar is accepted. There is no trend of one fish size being more or less aggressive given these data. 
+
+In terms of gill-flaring of the branchiostegal membrane (see figure 2), the results are similar. The P-value is 0.28, so again this far exceeds the alpha of 0.05. The null hypothesis is accepted. By this measure, too, there is no trend of one sized fish being more or less aggressive.
+
+
+Discussion:
+According to these data, there is no relation between size and aggression in Betta splendens. This is goes against the hypothesis. This is somewhat surprising, as many species, including other fish, do have a relation between size and aggression [Basolo: 2004]. One study found that M. idellaidella prawns show increasingly aggressive behavior at larger sizes [Soundarapandian: 2013]. This data suggests that size of the male does not have any bearing on aggression. Perhaps other variables determine aggression, such as color or fin type. Perhaps all male fighting fish are nearly equally aggressive, or some other factor that wasn’t tested for. There are many explanations for the data gathered. On the other hand, the data gathered in this experiment are questionable at best. The sample size was so small partially because many of the fish were not displaying any aggressive behaviors at all, which gave them no value to this experiment. With the time given, only three useful tests were conducted. With the last of these, the larger male was completely docile and nonaggressive, again likely skewing the results. If the experiment was repeated, with a much larger sample size, more reliable results could likely be obtained. 
+
+
+Literature Cited:
+Evans CS. 1985. Display vigour and subsequent fight performance in the siamese fighting fish, betta splendens. Behavioural Processes. 11: 113-121.
+Basolo AL. 2004. Variation between and within the sexes in body size preferences. Animal Behaviour. 68: 75-82.
+Soundarapandian P. 2013. Alternative mating strategies in male morphotypes of the prawn macrobrachiumidellaidella (Hilgendorf, 1898). Journal of Aquaculture Research & development. 5: 1-10. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1+lab+report+2+REV.PNG&Size=13243&Type=image%2Fpng&F=F_3nuethkvcm1egxO
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2+lab+report+2+REV.PNG&Size=15196&Type=image%2Fpng&F=F_2QMTccg6r9kkoSs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Instances of tail beating in the three tests. Note very large deviation represented by error bars. 
+
+Figure 2. Seconds of gill flaring (branchiostegal membrane) in the three tests. Note very large deviation represented by error bars. 
+
+*************************************************************************

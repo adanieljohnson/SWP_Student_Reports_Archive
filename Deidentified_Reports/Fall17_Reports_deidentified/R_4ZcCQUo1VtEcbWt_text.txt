@@ -1,0 +1,58 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-31 14:56:21
+Author of this lab report is: Std_4KTEG1Y8
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: Application of Sodium Channel Blocker Lidocaine on the Neuromuscular System of Rana pipiens Shows No Significant Effects on Muscle Contraction Strength
+
+Abstract:
+Neuromuscular activity in an organism is reliant on the ability of motor neurons to innervate muscle fibers through action potentials that are transmitted at the neuromuscular junction. Sodium channels are responsible for the depolarization of both motor neurons and muscle fibers that allow muscle contractions to occur. Lidocaine is a substance known to block sodium channels. In this experiment, the contractile amplitude of the gastrocnemius muscle of a frog, Rana pipiens, was measured by stimulating its innervating sciatic nerve. The experimental group’s muscle contractions were measured after injecting 0.2mL of a 25mM lidocaine solution. A voltage stimulus of 1.0V was applied to both the control and the experimental groups. It was hypothesized that the presence of lidocaine in the neuromuscular system would decrease the muscle’s contractile response; this hypothesis was not supported. A one-tailed paired t-test determined that the results were not significant due a P-value of 0.572 above the significance level (P>0.05). The ability of muscles to contract with the presence of lidocaine were attributed to ineffectiveness of lidocaine to block every sodium channel, allowing for action potentials to be fired and create contractions.
+
+Introduction:
+Nerves and muscles are capable of responding rapidly, within milliseconds, to internal and external stimuli. In vertebrates and invertebrates, neuromuscular communication and response occur at the neuromuscular junction. Here, skeletal muscles, made of bands of myofibers, are innervated by spinal cord motor neurons. Acetylcholine (ACh) neurotransmitters are released from pre-synaptic vesicles and bind post-synaptic motor end plates of skeletal muscle fibers. This binding allows voltage gated Na+ channels to open and depolarize the post-synaptic membrane. This leads to the firing of action potentials, allowing the muscle fiber to contraction. Twitch contractions are stimulated by a single action potential that activates a number of motor units.
+	Lidocaine is a substance that is known to block voltage gated Na+ channels. The flow of Na+ currents is crucial to the propagation of action potentials down a neuron or a muscle fiber. Preventing the flow of Na+ ions through a cell affects its ability to functionally respond to internal or external stimuli. In a 2009 experiment, it was found that injecting 5.8–58mM solutions of QX-314, a lidocaine derivative, into the rats had inhibitory effects on their sensory and motor functions, reflecting lidocaine’s ability to block sodium channels [Binshtok, et al.: 2009]. 
+	In this experiment, the species Rana pipiens is used as a model organism because of the ability of its anatomy to compared across multiple species, including humans; it’s common name is the northern leopard frog. The goal of this experiment is to test the effects that lidocaine has on the neuromuscular activity of the Rana pipiens’ gastrocnemius muscle, which is innervated by the sciatic nerve. It is hypothesized that the presence of lidocaine will contribute to a significant decrease in the muscle’s ability to contract. 
+
+
+Materials and Methods:
+	In order to test the effects of Lidocaine, we measured the neuromuscular control between the frog leg’s sciatic nerve and its gastrocnemius muscle. For this experiment, three frog legs acted both the control and the experimental groups. 
+	For each frog leg, the sciatic nerve was separated from the inner thigh muscles in order to be independently controlled by a nerve probe. The gastrocnemius muscle was separated and suspended at a 90 degrees angle in order for the muscle’s reaction to stimulus to be accurately measured and visually noticeable. It was important for exposed tissue to remain moistened with Ringer’s solution throughout the experiment. 
+	LabScribe was used to view the contractile amplitude (V) of the muscle’s response to the stimulus. The sciatic nerve was stimulated by single of different amplitudes through a nerve probe. The threshold voltage needed for the muscle’s contraction was found (0.15V). A stimulus of 1.0V was administered; the muscle’s contractile amplitude was recorded. 
+	For the experimental group, 0.2mL of a 25mM lidocaine solution was injected into each of frog leg. The same stimulus was administered and the contractile amplitude was recorded. 
+	To evaluate the recorded amplitudes of the control group and the experimental, a one-tailed paired t-test was performed. 
+
+
+Results:
+	Figure 1 represents the comparison of the average contractile amplitudes in response to the pulse stimulus of the sciatic nerve before and after the injection of 0.2mL of a 0.25mM solution of Lidocaine. In the both the control and experimental groups, contractions were observed in the gastrocnemius muscle. The control group’s mean contractile amplitude was 0.417V  0.226V, and the experimental group’s was 0.308V 0.210V. Based on the data, the mean contractile amplitude of the control group was greater than that of the experimental (t-value= 0.670, degrees of freedom = 2, P-value = 0.572). 
+
+
+Discussion:
+	The results of this experiment do not support our hypothesis that muscles injected with lidocaine would significantly affect their contractile response. The P-value determined from the one-tailed paired t-test (P-value = 0.572) is above the significance level (P>0.05), therefore the results were not significant. 
+	The 2009 experiment of effects of a lidocaine derivative, QX-314, showed short-term paralysis of the rats’ muscle in response to the inhibition of the motor functions of the sciatic nerve [Binshtok: 2009]. 
+	For this experiment, the unexpected results can be attributed to the activity of Na channels that were not blocked by the injection of lidocaine, allowing action potentials to be fired and contract the gastrocnemius muscles. Explanations for the differing results between this experiment and the 2009 experiment may include: the need for a greater concentration of lidocaine to cause greater inhibition of neuromuscular functions, lidocaine injected at ineffective locations in the muscle, and measurements of contractile amplitudes taken before lidocaine could effectively spread through the frog leg’s entire neuromuscular system. 
+	Due to the unexpected results of this experiment, further experimentation of the effects of lidocaine on the contractile force of targeted muscles. Understanding the effects of  lidocaine can be useful in biological, or specifically medicinal, studies to emphasize the importance of the activity of sodium channels and the presence of sodium in the firing of action potentials for neuromuscular activity. 
+
+
+Literature Cited:
+1. Johnson AD. Neuromuscular Control. BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated August 2, 2017), pp. 19–36.
+
+2. Binshtok, AM; Gerner, P; Oh, SB; Puopolo, M; Suzuki, S; et al. 2009. Coapplication of lidocaine and the permanently charged sodium channel blocker QX-314 produces a long-lasting nociceptive blockade in rodents. Anesthesiology. 111: 127-137.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO+Lab+Report+1+Figure+1.png&Size=40559&Type=image%2Fpng&F=F_bygmAkotAYTKrd3
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Comparison of the Contractile Amplitude of the Gastrocnemius Muscles of Three Rana pipiens Before and After the Administration of 0.2mL of a 25mM Solution of Lidocaine.  Error Bars Represent Standard Deviation Values for Each Group. The Control Group’s Mean Amplitude was 0.417V0.226V, and the Experimental Group’s was 0.308V0.210V. The One-Tailed Paired T-Test indicated a P-Value of 0.572.
+
+
+*************************************************************************

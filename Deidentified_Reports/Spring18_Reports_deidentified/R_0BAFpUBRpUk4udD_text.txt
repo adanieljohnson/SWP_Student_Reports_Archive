@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-02-21 18:45:45
+Author of this lab report is: Std_qrjzQIG5
+ID: R_0BAFpUBRpUk4udD
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The Introduction of Martin’s IGR of JH into the Diets of Manduca Sexta Caterpillars
+
+Abstract:
+In this experiment, researchers tested the effects of a Juvenile Growth Hormone IGR, Martin’s, on the development cycles of Manduca Sexta Caterpillars, believing that the presence of the hormone would not allow the subjects to pupate. When the treatment caterpillars were fed 10 drops of Martins with every ten grams of food for a week, researchers discovered that they did not grow at the same rate as the control group and on average grew two grams less. However, neither of the groups pupated and researchers could therefore not make a justified judgement of the hypothesis.
+
+Introduction:
+Manduca Sexta caterpillars evolve from eggs through five instar molting stages before finally pupating into fully grown moths [1]. This development is largely controlled by Juvenile Growth hormone (JH) and Ecdyson (E-20). In the fifth instar, there is an occurrence known as a commitment pulse—the first spike of E20 with complete absence of JH—that signals the caterpillar is ready nutritionally to pupate [1]. The vital roles these hormones play in development raise questions on the consequences of modifying their levels—specifically because the Manduca Sexta is a pest as a caterpillar and a moth as an adult. In a previously done study, researchers found detrimental results of insufficient thyroid hormone during early pregnancy [2]. Although this study did not include direct manipulation of TH, the trend of affected visual attention and processing skills in children of mothers with hyperthyroidism and other diseases of the sort brought them to more closely study these events to find the correlation between TH levels and adequate motor, visual processing and visual attention skills [2]. In this study, we will be similarly watching the effects of hormone levels during development, however, we will be directly controlling them with a substance called Martin’s—a low concentration IGR of JH. An IGR is a substance that closely imitates naturally occurring hormone. We hypothesize that if caterpillars are exposed to Martins, then they will never be able to pupate—due to the constant presence of JH and consequential inability to have a commitment pulse—and will continue to grow and molt indefinitely.
+
+Materials and Methods:
+1.	Take eight similarly sized Manduca Sexta caterpillars and separate them, randomly, into two groups.
+2.	Place each caterpillar into an individual container.
+3.	Feed the two groups different diets:
+a.	Group 1 (Control): 10 g of normal caterpillar food each day per caterpillar with 10 drops of water per 10 g
+b.	Group 2 (Treatment): 10 g of normal caterpillar food each day per caterpillar with 10 drops of Martin’s IGR per 10 g
+4.	Store all caterpillars in the same temperature and light conditions.
+5.	Each day when new food is given, discard of waste and weigh caterpillars.
+6.	Continue this for a full seven days.
+7.	At the end of the experiment take note of development stage.
+8.	Take the collected data, place daily averages into a two-sample t-test and use the results from this statistical test to determine if you disproved your null hypothesis.
+
+
+Results:
+Researchers found that the control group caterpillars grew more in the seven-day period. When a Two-Sample T-Test was used by comparing the daily average weight of the control and treatment caterpillars, however, the p-value was 0.39—a statistically insignificant value. The average control caterpillar grew from 1.11 g to 10.72 g while the average treatment grew from 1.05 g to 8.04 g. No caterpillars began to pupate.
+
+Discussion:
+These results did not support our hypothesis initially. Although we did find that the caterpillars that were fed a normal diet grew more (see Figure 1), the p-value found in the two-sample t-test was not technically statistically significant. The fact that no caterpillars pupated at all also affects the results. Our hypothesis was based on the belief the control caterpillars would pupate and the treatment would not, however, it must have been too early in the development cycles of any of the caterpillars to begin pupation and therefore no comparison can be made. In reference to the study cited in the introduction regarding the influence of TH levels on early pregnancy development [2], it is clear that, similarly to TH, varying levels JH does have an effect on their instar phases—specifically growth rates. However, there is room for doubt as the p-value was higher than expected, and therefore the treatments could have been, on average, in lower instar phases then the ones randomly selected for the control group. In the future, the same experiment over a longer time-span could be conducted in order to see if, when the control group pupated, the treatment caterpillars did as well. Another experiment could also be conducted to see if growth rates would be affected as they were in this study from a younger instar phase. This study, however, can be expanded to provide more information on what Juvenile Growth hormone affects in the Manduca Sexta caterpillar population. If the study had been conducted for longer and the caterpillars without JH IGR had pupated, then that information could have gone towards the study of the species’ effects as pests on the environment. Manduca Sexta are detrimental as caterpillars because they eat crops, such as tobacco. However, after their pupation, they are harmless. The known effects of JH on the species could have more information on effects of E-20, as well. 
+
+Literature Cited:
+1. Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 6-12.
+
+2. Zoeller, R. T., and J. Rovet. “Timing of Thyroid Hormone Action in the Developing Brain: Clinical Observations and Experimental Findings.” Journal of Neuroendocrinology, Blackwell Science Ltd, Oct. 20, 2004.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=41888&Type=image%2Fpng&F=F_bd3NYhPtaXMDkgd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Two-Sample t-test using average daily weights for control and treatment caterpillars.
+
+*************************************************************************

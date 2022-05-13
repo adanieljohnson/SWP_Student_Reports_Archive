@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-30 22:46:57
+Author of this lab report is: Std_iIVAz50T
+ID: R_2co74cTWzcMRt5e
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: The Effect of Aqueous NaCl on the Gravitaxis of Physarum polcephalum
+
+Abstract:
+In this lab Physarum polycephalum cultures were used to test the effect of sodium chloride on the rate of gravitaxis which is a cAMP mediated pathway. We hypothesized that the sodium chloride would increase the rate of gravitaxis, because in other studies it was shown that sodium chloride activates the cAMP pathway. This pathway is mediated through a series of activations in which ATP is converted to cAMP which acts as a second messenger and stimulates a response. The rate of gravitaxis was measured through placing the samples vertically and after a timed incubation period measuring the distance traveled. Then calculating the rate of gravitaxis. Because of the effect of light on Physarum polycephalum, this experiment was deemed inconclusive. However is was shown that the sodium chloride slightly deactivated the gravitaxis pathway which could have been due to the repellent properties of sodium chloride on physarum.  
+
+
+Introduction:
+In this lab our model organism was Physarum polycephalum. This organism is a protist that inhabits dark humid spaces and participates in many signaling events including phototaxis, chemotaxis, gravitaxis, and cytoplasmic streaming.  We used this organism, because unlike many multicellular organisms physarum does not use hormones or a nervous system to respond to its external environment. Physarum relies solely on its signal transduction pathways which allowed us to manipulate its external environment and test the effects on its signal transduction pathways directly. These signal transduction pathways normally have three distinctive steps. The first involves a stimulus activating a receptor, the receptor then causes the formation or release of a second messenger, then the second messenger binds to an effector protein to produce a change of behavior in the cell. Although most signaling pathways use the above mechanism, there are differences depending on the specific pathway. Because of this, signaling pathways are organized into families where the type of receptor is normally the same. Physarum uses two different families: g-protein coupled receptors and ion-coupled receptors  [Nakamura: 1999]. The family this experiment tested was the g-protein receptor pathway. This pathways occurs through two different second messengers cAMP and IP3. The cAMP pathway was tested in this experiment, because this pathway regulates gravitaxis [Block: 1998]. This pathway occurs through the stimulus binding to a receptor which then activates a g-protein complex. This g-protein complex then activates adenylyl cyclase which converts ATP to cAMP. cAMP then propagates throughout the cell and binds to many substrates which stimulates a response. cAMP will continue to bind to its substrates until it is broken down by phosphodiesterase. The goal of this experiment was to test the effect of sodium chloride on the cAMP mediated pathway of Physarum gravitaxis. We hypothesized that  if we added 0.2 M NaCl to the PDA plate that the Physarum grows on, then the Physarum rate of gravitaxis will be greater. Understanding this process is very important, due to its implication in many diseases and forms of cancer. If we know how to specifically target certain pathways, then we can synthesize more specific and aggressive drugs.  
+
+
+Materials and Methods:
+To begin this lab we obtained seven Potato dextrose agar plates and a culture a Physarum polycephalum. Using a sterilized spatula, we placed one block of Physarum in the middle of each PDA plate. Then we added 10 mL of 0.2 M aq. NaCl to three of the seven plates and allowed them to incubate for ten minutes. During this time, we wrapped our other four plates in aluminum foil. After the ten minute incubation period, we then poured off the excess NaCl and wrapped the remaining plates in aluminum foil. We then placed six of the seven plates including all of the NaCl plates vertically in a black bag. We also placed the remaining plate horizontally in the same black bag. After 24 hours we then measured the distance each culture grew and calculated the rate of gravitaxis. Then to test for statistical significance we ran a t-test.  
+
+
+
+Results:
+In order to test the effect of aqueous 200mM NaCl on the gravitaxis of the Physarum, we found the distance traveled by the Physarum, then found the rate of gravitaxis. After finding the rate of gravitaxis for each sample we averaged them according to the NaCl group or the control group. Assuming that our hypothesis was correct, we were expecting to see a higher rate of gravitaxis in the NaCl group(Figure 1).  However something went wrong in our experiment and we observed only 4 out the of seven samples migrated. Excluding the samples that did not migrate, we observed that the sodium chloride  group had a lower average rate of gravitaxis than the control group (table 1). However the difference between the control group and the sodium chloride group were not statistically significant (p= 0.422). 
+
+
+Discussion:
+Based on the statistical analysis conducted and the lack of adequate data collected, this lab was inconclusive. The lack of adequate data was due to the fact that three out of our seven samples did not participate in gravitaxis. The lack of gravitaxis was most likely due to  the physarum cultures being exposed to light before the eighteen to twenty-four hour incubation period. The physarum was stored in an incubator with an automatic light when the door opened. Many lab sections used this incubator throughout the week which led to our cultures being exposed to an adequate amount of light before the incubation period for our physarum samples. This exposure to light impacted our results, because when exposed to light the physarum enters a reproductive hibernation state in which it does not participate in gravitaxis [J.W.: 1962]. Although our experiment had three samples that did not participate in gravitaxis, one control sample and two NaCl samples participated in gravitaxis. However due to the statistical analysis conducted, the null hypothesis was accepted. The insignificant results were most likely due to the limited number of samples that participated in gravitaxis. However based on the results we did obtain we found that the control group had a higher rate of gravitaxis than the treatment NaCl group. This was most likely due to a competing variable in the treatment group. Although in previous studies with other organisms 200mM NaCl hyperactivated the cAMP pathway, we found that gravitaxis was slightly deactivated [Imashimizu: 2005]. This deactivation of gravitaxis was most likely due to the fact that crystalline NaCl is a repellent of physarum [Adamatzky: 2010]. Although we used aqueous 200mM NaCl, the small amount of sodium chloride most likely slightly repelled the physarum which caused a decreased rate of gravitaxis. To further this study, one could measure the amount of cAMP in the physarum. This would eliminate the confounding variable of the repellent effects of NaCl. Although this experiment did not produce reliable results, it is still important to study cell-signaling events. Cell-signaling events occur in our body everyday and are linked in many forms of cancer. The more specific information we have on certain pathways, the more focused medicines we can synthesize which leads to decreases in side effects and increased survival rates.    
+
+
+Literature Cited:
+1. Nakamura, A., & Kohama, K. (1999). Calcium regulation of the actin-myosin interaction of Physarum polycephalum. In International review of cytology (Vol. 191, pp. 53-98). Academic Press. 
+
+2. Block, I., Rabien, H., & Ivanova, K. (1998). Involvement of the second messenger cAMP in gravity-signal transduction in Physarum. Advances in Space Research, 21(8-9), 1311-1314.
+
+3. Daniel, J. W., & Rusch, H. P. (1962). Method for inducing sporulation of pure cultures of the myxomycete Physarum polycephalum. Journal of bacteriology, 83(2), 234-240.
+
+4. Imashimizu, M., Yoshimura, H., Katoh, H., Ehira, S., & Ohmori, M. (2005). NaCl enhances cellular cAMP and upregulates genes related to heterocyst development in the cyanobacterium, Anabaena sp. strain PCC 7120. FEMS microbiology letters, 252(1), 97-103.
+
+5. Adamatzky, A. (2010). Routing Physarum with repellents. The European Physical Journal E, 31(4), 403-410.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+10.44.13+PM.png&Size=44181&Type=image%2Fpng&F=F_3n9tocCxn6GpNrB
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-30+at+10.44.59+PM.png&Size=110248&Type=image%2Fpng&F=F_2SDBUTWcpxFSI0b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1: Mean rate of gravitaxis of the control and treatment NaCl groups excluding the plates that did not participate in gravitaxis. The T test conducted showed insignificance between the rate of gravitaxis (p = 0.422). 
+Figure 1: The expected mean rate of gravitaxis of the treatment and control groups. Error bars represent +/- one standard deviation. T test showed gravitaxis rates between groups to be statistically different (p- value &lt; 0.05).   *************************************************************************
+
+
+

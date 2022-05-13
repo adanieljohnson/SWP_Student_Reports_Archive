@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-11 15:20:38
+Author of this lab report is: Std_1XgJzQ3d
+ID: R_2AFKc3yTKqhZPSg
+Course number: BIO101L
+TA: TA_kLMtS9Cu
+*************************************************************************
+Title: The effects of caffeine on the amplitude of contraction of the gastrocnemius muscle in Rana pipiens
+
+Abstract:
+This experiment focused on the effects of caffeine on the amplitude of contraction in the gastrocnemius muscle of Rana pipiens.  Caffeine increases calcium ion release in muscle fibers, initiating contractions.  Caffeine acts as a central nervous system stimulant that causes increased alertness, rapid heart rate, and jitters.  We hypothesized that if caffeine was injected into the gastrocnemius muscle of Rana pipiens, then the amplitude of the muscle response would be greater than the contraction before it was exposed to caffeine.  In our experiment we compared the amplitude of muscle contraction in three frog legs before and after caffeine was injected into the gastrocnemius muscle.  The amplitude of muscle contraction was greater in the gastrocnemius muscle before it was injected with caffeine.   This outcome was not one that we had predicted because we thought that the contraction would be higher after caffeine was injected due to increased calcium channels being open.  The amplitude of the contraction was lower for the legs injected with caffeine due to chemically-induced tetany caused by an increase in open calcium channels that made the leg continuously contract. 
+
+Introduction:
+The goal of the experiment was to learn about muscle contractions in the body and how they can be altered by adding stimulants or blockers that change the amount of calcium or sodium released in the muscle fibers.  We chose to test the response of the gastrocnemius muscle to electrical pulses of Rana pipiens.  Through a process called excitation contraction coupling, we can see how nerves stimulate muscle contraction and see how acetylcholine and calcium play a role in muscle contraction.  Action potentials travel down axons within a nerve until they come in contact with a neuromuscular junction.  There the neuron depolarizes and causes acetylcholine to be released into the synaptic cleft.  Acetylcholine then diffuses and binds to its receptor causing sodium channels to open and generate action potentials.  These action potentials cause calcium to be released from the sarcoplasmic reticulum activating the contractile function of muscle fibers.  The calcium binds to tropomyosin causing the myosin filament to use energy from ATP and rub against actin filaments causing the myofibers to shorten.   The muscle fiber relaxes when the calcium unbinds from tropomyosin causing the myosin to return to its resting position.[Johnson: 2018].  Caffeine increases calcium release by lowering the threshold that must be reached for calcium to be released into the sarcoplasmic reticulum [Kong: 2008].  We hypothesize that if caffeine is injected into the gastrocnemius muscle of Rana pipiens then the muscle will have a stronger muscle contraction then the muscle before it was injected with caffeine.  
+
+Materials and Methods:
+Three Rana pipiens legs were selected to test muscle response before and after caffeine was injected into the gastrocnemius muscle.  The legs were prepared by placing them into a dissecting pan and using forceps to grab the skin and pull it down towards the foot.  Afterward, the skinned leg was placed in the dissecting pan and moistened with Ringer's frog solution.  The gastrocnemius muscle was separated from the bone and the achilles tendon was cut from the bone, allowing it to be tied with a string from the force transducer.  The achilles tendon was tied with string and the muscle was hung.  We made sure that the string wasn’t too loose.  The thigh muscle was secured to the dissecting dish with pins.  Pin probes were connected to the gastrocnemius muscle for stimulations to be administered.   We applied increasing thresholds with single stimulus amplitudes until a threshold was found and  the response in volts was recorded.  Once a threshold was found we stimulated the muscle with 1,2,3,4, and 5 volts.  We injected  0.1mL of caffeine solution into the gastrocnemius muscle and watch the muscle respond to the caffeine on the screen.  Find the threshold of the leg with caffeine and record the contraction amplitude of the same leg after it was injected with caffeine to amplitudes 1,2,3,4, and 5 volts.  Perform a 2 tailed paired t-test. 
+
+Results:
+We found that the mean amplitude of muscle contraction in the leg before caffeine was 0.4148±0.1371 Volts. After the gastrocnemius frog muscle was treated with caffeine, the average amplitude was found to be lower at 0.2623±0.1076 Volts. Overall the leg after caffeine injection had a reduction in contractions of 36.76% from the contractions seen before caffeine injection (t-stat:7.18, p-value: 0.0008), respectively (Fig. 1).
+
+Discussion:
+Overall our data at first glance did not support our original hypothesis that caffeine would increase the muscle contraction.   While we were injecting the caffeine into the gastrocnemius muscle we saw that the response amplitude was gradually increasing even though no stimulus was applied.  This gradual increase can be explained as chemically-induced tetany.  In another experiment caffeine was used to test fatigue compared to legs not treated with caffeine [Rosser: 2009].  The legs took longer to fatigue due to the supply of calcium being greater in the legs treated with caffeine [Rosser: 2009].  Chemically-induced tetany was seen in our experiment and even though the response to the actual stimulus was lower, there was actually already 0.614 V responding in the muscle from the caffeine allowing more calcium in.  Therefore, our results partly supported our hypothesis and the caffeine allowed in more calcium like we predicted.  If we were to conduct another experiment we would see if the amount of caffeine injected varied the amount of chemically-induced tetany.  This experiment makes a lot of sense because when coffee is consumed in large quantities it makes people jittery which is a sign of that it affected muscle contraction. 
+
+Literature Cited:
+ Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated Jan 5, 2018), 17-34
+
+   Kong et al. 2008. Caffeine Induces Ca2+ Release by Reducing The Threshold. Biochem 
+414(3):441–452. 
+
+   Rosser et al. 2009. Effect of physiological levels of caffeine on Ca2+ handling and fatigue. Am J 
+Physiol Regul Integr Comp Physiol.  296(5): R1512–R1517
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=average+muscle+response.png&Size=11443&Type=image%2Fpng&F=F_ujHTBOOwQNZhTm9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1:  The graph above shows the average muscle contraction of the frog leg before and after  caffeine was injected into the gastrocnemius muscle of Rana pipiens.  The error bars represent the standard deviation of the data.  The frog legs before caffeine injection had a higher average muscle response than the same legs after they were injected with caffeine.
+
+*************************************************************************

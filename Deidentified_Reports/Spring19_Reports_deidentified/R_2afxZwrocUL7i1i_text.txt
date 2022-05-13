@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2019-02-25 18:53:07
+Author of this lab report is: Std_CQ7ETi7l
+ID: R_2afxZwrocUL7i1i
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Effect of Prelog on Manduca sexta Caterpillar Maturation
+
+Abstract:
+Insect Growth Regulators are substances that regulate growth and maturation in insects by inhibiting or allowing a stage to take place. Juvenile hormone regulates growth and maturation in Manduca sexta caterpillars. In this experiment, Manduca sexta caterpillars were treated with JH analog Precor to determine if it inhibited the growth and maturation of caterpillars from larva to pupa. Two groups of three caterpillars received 7 µl of water, in the control group, or JH analog, in the experimental group, per ten grams of food, and their weights were recorded every day for a week. No significant difference was found after using a two-sample T-test, so the hypothesis was not supported, and that JH analog does not prevent caterpillar maturation from larva to pupa.
+
+Introduction:
+Insect Growth Regulators, or IGRs, are substances that affect the growth and maturation of insects by inhibiting or allowing a step in maturation to take place. Juvenile hormone, or JH, is a hormone present in Manduca sexta caterpillars that regulates the maturation of caterpillars into pupae when present at low levels. [Johnson: 2018]. The purpose of the lab is to observe the effect of a JH analog, Precor, on the weight of Manduca sexta caterpillars. The concentration of Precor is 1:1250. JH analog mimics JH; by treating caterpillars with the analog, the amount of JH present essentially increases. A study using epoxygeranyl sesamole, a JH analog, demonstrated that the presence of JH analog causes a decrease in mass of caterpillars over time [Kiguchi: 1978]. If JH analog is present in a Manduca caterpillar’s diet, then manduca caterpillar weight will decrease because JH levels will be too high for regular growth and maturation from a caterpillar to a pupa to occur. 
+
+Materials and Methods:
+Two groups of three Manduca sexta caterpillars were divided into separate containers. The caterpillars in both groups were fed 10 grams of Great Lakes Manduca brand food and the food was not swapped. Each caterpillar in the control group received seven drops, or 70 µl, of water per 10 grams of food. Each caterpillar in the experimental group received 7 drops of Precor, or 70 µl, per 10 grams of food. The caterpillars were kept in an incubator at 25 degrees Celsius in 24 hours of light and 0 hours dark. Every day for one week, the caterpillars’ weights were recorded. We took the average of the difference in weight from the first and last day of the experiment for the caterpillars in the control group and the group treated with Precor. A two-sample T-test was used to compare the averages of the difference in the weight of the caterpillars between the final and initial measurements of the control and experimental groups. 
+
+Results:
+In both the control and experimental group, the caterpillars grew and matured regularly, as their weights increased steadily over the course of the week. The average change in weight of the caterpillars in the control group was 7.38, while the average change in weight of the experimental group was 5.93 (Figure 1). The average change in weight of the control group was greater than the experimental group. The p-value of the two-sample T-test was 0.147, which is greater than 0.05, indicating that there is no significant difference between the average change in weight of the two groups.
+
+Discussion:
+The data does not support the hypothesis that the JH analog would inhibit growth of the Manduca sexta caterpillar and inhibit its maturation by preventing the transition from larva to pupa. There was no significant difference between the average weight difference of the caterpillars that were treated with JH analog and the caterpillars that were not treated. Initially, it was expected that the caterpillars’ maturation would be inhibited because the JH analog mimics JH, which allows the caterpillar to develop from a larva into a pupa when present at low levels. Thus, the expectation was that the caterpillars would not be able to mature into a pupa because the JH analog would cause JH levels to be too high for regular maturation to occur. However, our hypothesis was not supported, likely because not enough JH analog was present to create a significant difference in the maturation of the Manduca sexta caterpillar. However, although there was no significant difference in the change in weight of the caterpillar, the caterpillars in the control group were larger and appeared fatter and more vibrant than the caterpillars in the experimental group, which were smaller and less vibrant green. Our data is not in line with the results of a past study, which found that the presence of Juvenile Hormone delayed or completely stopped pupation in Manduca sexta, demonstrating that JH has an effect on maturation of the caterpillars. [Gilbert: 1977]. The logical next step for this study would be to increase the amount of JH analog given to the caterpillars. The caterpillars were given 7 microliters of analog per 10 grams of food. The experiment should be conducted again, but the caterpillars should be given 12 of JH analog to see if it inhibited their maturation from a caterpillar to a pupa. 
+
+Literature Cited:
+Gilbert, Lawrence I. and Roger K. Vince. 1977. Juvenile hormone esterase activity in precisely times last instar larvae and pharate pupae of Manduca sexta. Insect Biochemistry. 7: 115-120.
+
+Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem NC. Vers. 18.2 (updated August 2, 2018), pp. 
+
+Kiguchi, Kenji and Lynn M. Riddiford. 1978. A role of Juvenile Hormone in pupal development of the tobacco hornworm Manduca Sexta. Journal of Insect Physiology. 24: 673-675, 677-680.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-25+at+1.25.51+PM.png&Size=69020&Type=image%2Fpng&F=F_2QocvxtiPlUxN7N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Average change in weight of manduca sexta caterpillars treated with and without JH analog. Control group received 70 µl of water per 10 mg of food, while experimental caterpillars received 70 µl of JH analog per 10 mg of food. There is no significant difference between the average change in weight of the experimental and control groups. Each bar is the average change in weight of three caterpillars over a week of treatment. Error bars are ±0.716 standard error of the mean *************************************************************************
+
+
+

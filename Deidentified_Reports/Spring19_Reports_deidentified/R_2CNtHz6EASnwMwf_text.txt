@@ -1,0 +1,65 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-01 18:06:48
+Author of this lab report is: Std_Y71Iybw8
+ID: R_2CNtHz6EASnwMwf
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Effect of Acetylcholine on the Gastrocnemius Contractions of a Rana Pipien
+
+Abstract:
+Nerves and muscles allow for the survival of organisms due to their ability to help organisms respond to the different environments they are subjected to. Nerve impulses arrive at neuromuscular junctions and cause the opening of Na+2 channels which generate the action potentials that stimulate the release of these Ca+2 ions – the ion that activates the contractile mechanism of the muscle fiber. In this experiment we looked at how an injection of acetylcholine in the Gastrocnemius of a detached Rina Pippen leg might affect the contractions of the muscle, when compared to control leg. Our expectation was that the experimental leg would contract with more force than the control leg when exposed to the same stimulus of about 0.2v. This was our prediction due to the acetylcholine’s downstream ability to open more Calcium channels to trigger the contractile mechanism, however our data did not support this idea, as our data showed no significant affect; resulting in almost no affect at all. 
+
+Introduction:
+Nerves and muscles allow organisms to respond to the environments inside or around them. Nervous systems, composed of millions of different neurons, are able to respond to these environments very rapidly due to the myofibers - individual, multinuclear, fused groups of cells – that make up the skeletal muscles of both vertebrates and invertebrates. These skeletal muscles are interlaced with motor neurons which join the muscle to more myofibers, creating neuromuscular junctions at which the nerve impulses arrive, and cause the release of acetylcholine, and subsequently allow for the generation of action potentials through the opening of Na+ channels. This process appears in many organisms, including the Rana Pipien, otherwise known as the Northern Leopard Frog: our experimental subject. In our experiment, we will be manipulating acetylcholine levels in the leg of the Rina Pipien by injecting it into an experimental frog leg while leaving the other untouched. Knowing that acetylcholine allows for the action potentials that travel through the length of the muscle fibers and signal for Ca+2 to be released from the Sarcoplasmic Reticulum, we expect that the injection will increase the number of action potentials fired when exposed to the same stimulus, and consequently the leg will contract with more force. Additionally, acetylcholine’s ability to depolarize the postsynaptic terminals of a neuron also helps causes contractions in the muscle [Gerald:1974]. Such results will be able to be seen on a myogram, which is a graphic representation of the muscular contraction, showing the latent, contraction, and relaxation period.
+
+Materials and Methods:
+The sciatic nerve of 3 Rana Pipien legs was exposed and connected to an electrode. The gastrocnemius muscle was then connected to the force transducer and subjected to pulses of different amplitudes ranging from 0.0 to 0.5 v at a width of 5ms, and a frequency of 1 Hz. The resulting movement of the Gastrocnemius were recorded. Once sufficient data has been collected let the leg rest for about 5 minutes and inject .1mL of 10mg/mL acetylcholine throughout its Gastrocnemius and repeat collection steps. We then preformed a 2-Tailed T-test to determine the significance of our data, focusing our attention on the results of the 0.2 v, as this was the minimum threshold for each of the frog legs.
+
+Results:
+The results collected in this experiment did not show the correlation we anticipated to see, which was one that would have showed the injected leg reacting to the same stimulus with much more intensity than the control leg did. In fact, the general trend of our averaged data was that the injection of the acetylcholine had no effect at all, which can be seen on the graph that follows. In terms of the average standard deviation values of the control and the experimental over the different voltages were 0.25419815 and 0.26567907 respectively. In terms of the 0.2 volts threshold, however, the standard deviations were 0.09553533 for the control and 0.0980833 for the experimental. Additionally, none of the data collected was significant according the P value of the 2-Tailed T-test that was performed. These calculations very well reflect all 3 sets of data as we did not have one round that supported our hypothesis and other that did not. 
+
+Discussion:
+A 2-Tailed T-test was performed on our data and a P value of .520 indicated that our data was not significant. Although we had thought that the addition of the acetylcholine would act as a transmitter of excitation from nerve ending to muscle end – plate, causing contractions due to its role in releasing Ca+2 [Brown :1936], we now reject our hypothesis because no effects were seen. This is likely due to the discrepancy between when ACh is released and when it gets cleared out of the cell fluid. ACh released from the presynaptic membrane binds to receptors on the postsynaptic membrane very quickly, however this is assuming that our injection went right into the synapse, which it likely didn’t due to the small size of it and the arbitrary location of our injection.  For the molecules that are not bound immediately, they are hydrolyzed almost instantly by acetylcholinesterase, and their intended effects are never seen [Brittner:2013]. A likely cause of the insignificance of our data, then, is that the injection never reached the synapses we intended it to, and therefore did not bind to receptors it would have needed to to make an effect because it was broken down. Although this seems like the most likely reason for the data we see, in order to rule out other factors effecting it we could redo the experiment with a higher concentration of ACh or let the ACh sit in the limb for longer before testing. Although we were not able to find any data on the reuptake of ACh, it could has also played a role in our results.
+
+Literature Cited:
+Bittner, E. A., & Martyn, J. (2013). Neuromuscular Physiology and Pharmacology. Science Direct. Retrieved March 23, 2019, from http://www.sciencedirect.com/science/article/pii/B9781437716795000181
+
+
+GERALD M. FENICHEL, WOLF-D. DETTBARN, THOMAS M.NEWMAN
+Neurology Jan 1974, 24 (1) 41; DOI: 10.1212/WNL.24.1.41
+
+Brown, G. L., Dale, H. H., & Feldberg, W. (n.d.). Reactions of the Normal Mammalian Muscle to Acetylcholine and Eserine. National Institute for Medical Research. Retrieved March 19, 2019, from https://doi.org/10.1113/jphysiol.1936.sp003414.
+
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-01+at+6.05.52+PM.png&Size=229670&Type=image%2Fpng&F=F_57oq39EACKJ6Dux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: This graph of the voltage of contraction upon stimulation of the sciatic nerve at 0.2 V pre and post ACh injection. No significant difference was noted before an after injection *************************************************************************
+
+
+

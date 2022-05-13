@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2018-10-23 16:30:03
+Author of this lab report is: Std_vjRfyGh9
+ID: R_QiFPCUjHRQUZKs9
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: Using the Hill Reaction to Measure the Rate of Electron Transport in Kale (Brassica oleracea var. sabellica) and Spinach (Spinacia oleracea)
+
+Abstract:
+We worked with Kale (Brassica oleracea var. sabellica) and Spinach (Spinacia oleracea) to demonstrate the properties of photosynthesis and electron transport. We viewed the differences in electron transport activity between the two plants in both a normal light control and enhanced light experimental group. The hill reaction is the general process of electron transfer in the presence of active chloroplasts and light. DCIP was used as the alternative electron acceptor. The null hypothesis is that there would be no change between the electron transport rates between the two plants and between the plants and their relative control. The alternative hypothesis is that there would be a change between the rates between the two plants and between the plants and their relative control. Enriched chloroplast preparations were made for both spinach and kale plants by using grinding buffer and isolating the pellet through the use of a centrifuge. Absorbances were measured at time zero, 10, 20, and 30 minutes. Absorbances decreased over time for both the control and experimental groups. There was a significant difference across the plants and their respective controls as well as between the two plants (P=0.00385, P=0.0220, P=0.00834). The alternative hypothesis was supported. 
+
+Introduction:
+Many cellular processes require added energy from chemical energy stored in covalent bonds, energy stored as an oxidation-reduction potential and an electrical/chemical gradient across a lipid bilayer in order for the reaction to proceed. All three of these forms of energy are used by plants, some protists, and certain bacteria from capturing and storing energy from the sun in a process called photosynthesis. This stored energy is subsequently released by glycolysis in the cytoplasm and respiration which occurs in the mitochondria of both plants. Photosynthesis and cellular respiration are two of the most important metabolic processes. 
+The hill reaction is the general process of electron transfer in the presence of active chloroplasts and light. DCIP is used as the alternative electron acceptor. A 1957 study by Jagendorf found that the hill reaction activity in spinach leaves were much higher than that of red kidney beans suggesting that enriched chloroplasts in different plants respond differently (Jagendorf, 1957)
+The hill reaction will be used to measure the rate of electron transport between kale (Brassica oleracea var. sabellica) and spinach (Spinacia oleracea) in a control and light condition. The null hypothesis is that there would be no change between the electron transport rates between the two plants and between the plants and their relative control. The alternative hypothesis is that there would be a change between the rates between the two plants and between the plants and their relative control. We predict that the alternative hypothesis will be supported due to past experiments and the enhanced light reducing DCIP absorbance and therefore increasing electron movement. 
+
+
+Materials and Methods:
+Four medium sized spinach and kale leaves were used in this experiment. The leaves were deveined and rinsed. We added the spinach leaves and added 10 mL of cold grinding buffer and grinded until a thick paste formed. Another 10 mL of cold grinding buffer was added and grinded until slurry consistency. A three-layered cheese cloth was used to strain the slurry and the strained liquid was added to a 50 mL centrifuge tube to be spun at 200xG for 3 minutes at 4 degrees Celsius. The supernatants were poured out of the tube and into a new 50 mL centrifuge to be spun at 1000xG for 10 minutes at 4 degrees Celsius. The pellet was isolated, and 20 mL of grinding buffer was added and stirred gently with a transfer pipet. This was then repeated to make an enriched chloroplast preparation.
+13 large test tubes were prepared. 6 tubes were made with 100µL enriched spinach chloroplasts, 6 mL water, 2 mL 130 mM DCIP, and 2 mL 100 mM phosphate pH 6.5. 3 of these were used as the spinach controls and the others were used as the spinach light condition. 6 tubes were made with 100µL enriched kale chloroplasts, 6 mL water, 2 mL 130 mM DCIP, and 2 mL 100 mM phosphate pH 6.5. 3 of these were used as the kale controls and the others were used as the kale light condition. A blank was made with 8 mL water and 2 mL of 100 mM phosphate pH 6.5. The enriched chloroplasts were added last and were mixed immediately to be transferred to spectrometer cuvettes. The spectrometer was set to 600 nm and blanked. Data points were taken at time zero, 10, 20, and 30 minutes. The controls were placed in a dimly lit room and the light conditions were placed under a lamp. To evaluate the data, we used a two-sample t-test to determine significance. An alpha level of α=0.05 was used.
+
+
+Results:
+The P value from two-sample t-test for the kale light sample with the kale control was 0.00385. The P value for the spinach light sample and control was 0.0220. The value for the kale light sample and the spinach light sample was 0.00834.
+
+Discussion:
+The results were significant, and we were able to reject the null hypothesis. The alternative hypothesis was supported (P=0.00385, P=0.0220, P=0.00834). There was an overall significant decrease in absorbance of DCIP between the two controls and two enhanced light conditions and between the kale and spinach chloroplasts as seen in Figure 1. The control and experimental conditions decreased in absorbance because as DCIP accepted electrons it became reduced and changed from dark blue to colorless. A decrease was expected in the control since there was still moderate light. The significant difference between the two plants could have been due to the inactivation of chloroplasts during the grinding process (Jagendorf, 1957). This inactivation could have been due to the pH and the absence of protective agents. Future studies could include testing different pHs of grinding buffers and protective agents to see if this enhances the chloroplast activity in a kale plant compared to spinach. Limitation in this study include the relatively low sample size (n=3) and inability to test all samples in the spectrometer at once. 
+
+Literature Cited:
+Jagendorf, A. T., & Evans, M. (1957). The Hill Reaction of Red Kidney Bean Chloroplasts. Plant physiology, 32(5), 435.
+
+Wake Forest University Biology Department (2018). Unit 2: Photosynthesis. Sakai, Wake Forest University, 214.2.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.PNG&Size=52829&Type=image%2Fpng&F=F_Uc0AJzk56tglMkh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The percent change in absorbance from time zero at 10, 20, and 30 minutes for Brassica oleracea var. sabellica and Spinacia oleracea enriched chloroplasts. The kale control (n=3) had a total percent change of 27.3%. The kale in light (n=3) had a total percent change of 44.1%. The spinach control (n=3) had a total percent change of 43.4%. The spinach in light (n=3) had a total percent change of 79.4%. Error bars represent the standard deviation. *************************************************************************
+
+
+

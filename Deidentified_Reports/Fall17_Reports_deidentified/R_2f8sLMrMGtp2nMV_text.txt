@@ -1,0 +1,83 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a lab report.
+Date submitted: 2017-10-19 13:11:28
+Author of this lab report is: Std_xRYy2EXB
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: Effect of Sevin injection on voltage threshold within frog leg muscle for nerve stimulation 
+
+Abstract:
+Carbamate pesticides, especially Sevin, are widely used due to their low contamination to the environment and high efficiency. Sevin acts on the somatic neuromuscular system by inhibiting the activity of acetylcholinesterase which breaks down acetylcholine (the major neurotransmitter between motor neurons and muscle cells). The main objective of the study was to determine the capability of Sevin to alter the minimum amplitude of nerve stimulus required to initiate muscle contraction. And it was hypothesized that Sevin would decrease the voltage threshold. I examined how voltage thresholds change in response to the injection of 2% solution of Sevin into gastrocnemius muscle of frog legs by stimulating the sciatic nerve with pulses of increasing amplitude. Comparing the control and test groups, there was a large percentage decrease in threshold voltage but it failed to reach significance (P>0.05).  Hence, the presence of Sevin in gastrocnemius muscle in frog legs did not significantly lower the voltage threshold for a muscle twitch. This result opposed the hypothesis probably because of the small sample of subjects and   the effect of Sevin on neuromuscular control remains to be explored. 
+
+Introduction:
+Carbaryl is a chemical insecticide that operates as a nerve agent by inhibiting the function of acetylcholinesterase. And this insecticide is often sold under a trade name Sevin [Relyea: 2006]. Acetylcholinesterase, located in synaptic clefts, hydrolyzes acetylcholine which is a neurotransmitter released from presynaptic axon terminal, binding to the ACh receptors on the postsynaptic motor end plates and initiating action potential within muscle fibers [Johnson: 2017]. Therefore, if Sevin is injected into muscle tissues, acetylcholinesterase will cease to function; acetylcholine will linger in synaptic clefts and continue to activate muscle contraction.  As a result, Sevin interferes with the somatic neuromuscular system, and inevitably triggers spastic muscle paralysis or even death of organisms [Sadava: 2016]. 
+According to the mechanism of Sevin acting upon neuromuscular juctions, it can be conjectured Sevin may alter the voltage threshold- the minimum voltage for initiation of action potential and therefore a muscle twitch- for nerve stimulation. Thus, in this investigation, I examined the effect of Sevin on voltage threshold for muscle contraciton. To be more specific,  my hypothesis is that Sevin decreases the value of threshold voltage for nerve stimulation. And I examined how the injection of 2% solution of Sevin into the gastrocnemius muscle of frog legs will affect the threshold voltage when the sciatic nerve, which is attached to the muscle, is stimulated by individual pulses [Johnson: 2017].
+
+
+Materials and Methods:
+Dissection
+1.	Place 3 frog legs in a dissecting pan.
+2.	Peel the skin from the top of the legs with a pair of forceps [Johnson: 2017].
+3.	Use a pair of scissors to gently separate the inner thigh muscle [Johnson: 2017].
+4.	Identify and gently pull out the white sciatic nerve from the surrounding connective tissue.
+5.	Constantly moisten the frog leg with frog Ringer’s solution [Johnson: 2017]..
+Attaching a probe
+6.	Lay the sciatic nerve on the top of the bipolar stimulation probe.
+7.	Cover the probe and nerve with a rubber sleeve.
+Stimulator control by Labscribe
+8.	Keep control variables the same throughout the experiment [Johnson: 2017]:
+Number of pulses: 1
+Frequency: 1
+Pulse width: 5ms
+9.	Set pulse amplitude to 0.0 V and raise the stimulus voltage in 0.1 V increments [Johnson: 2017]. 
+10.	Record the value of stimulus amplitude at which the first muscle twitch is generated (amplitude of muscle twitch is not 0) in Table 1.
+11.	Inject 1 ml of   2% solution of Sevin at 3 different sites on the gastrocnemius muscle. 
+12.	Repeat the procedure and record the stimulus amplitudes in Table 1. 
+13.	Use paired t-test to compare the control and the test group. Set the level of significance to p<0.05.
+
+
+Results:
+The gastrocnemius muscles of 2 frog legs have higher threshold voltage for muscle twitch, especially the threshold voltage of frog leg 3 decreased by 0.3 V. But frog leg 1 revealed an increase in voltage threshold (0.1 V) after the treatment. 
+
+Overall, the difference between the mean threshold voltages before and after injection is negative (Table 1), indicating the general decrease in threshold by 0.08 V which is also shown in Figure 2.
+
+Comparing the experimental group to the control group, the mean threshold voltage after Sevin injection was not significantly lower than its mean before the injection (t-stat = 0.68, df = 2, P = 0.28>0.05). 
+
+Discussion:
+It was hypothesized that a significant decrease in threshold voltage caused by Sevin injection would be shown. But data opposed this hypothesis and showed that there was no effect of Sevin injection on threshold voltage, as the values of threshold voltage were not significantly lower with Sevin compared to the control group (P>0.05). 
+
+The practical significance of the result is vague and questionable, since there is a relatively large decrease in mean voltage threshold ( 27.6%) in response to Sevin injection carried out properly. This is probably due to the limited sample size of subjects and relatively low concentration of Sevin solution, so improvements could be made by testing on a larger number of frog legs and preparing Sevin solution with a higher concentration. 
+
+The drop in average voltage threshold was primarily caused by the effect of carbaryl (Sevin) on acetylcholinesterase activity. Carbaryl lowers the enzyme’s activity by carbamylating its active site [Iyer: 2010]. The capability of carbaryl to inhibit acetylcholinesterase was statistically proved by a study on earthworms’ responses to carbaryl by D Ribera. Acetylcholinesterase activity was significantly suppressed to 23% of the control value at all doses of carbaryl (P<0.001*). Even at lowest dosage of carbaryl(12 mg carbaryl kg−1 soil), there was a significant drop in the amount of activity [Ribera: 2001]. 
+
+Subsequently, acetylcholine concentration within synaptic clefts remains high, due to the inactivity of acetylcholinesterase which breaks down acetylcholine. Acetylcholine continues to bind to nicotinic receptors, sending excitatory postsynaptic potential (EPSP) from motor end plates to the axon hillock where summation takes place. Since more EPSPs can be delivered at the same amplitude of stimulus on motor neurons, it is more likely to reach threshold, generate an action potential, and initiate a muscle twitch. In other words, muscle contraction can be generated with a nerve stimulus with lower amplitude. 
+
+The main limitation of this research was the small sample size and therefore low reliability of the results, so further investigation would be based on a much larger sample size (over 20 frog legs). Apart from this modification, the categorical variable (before- after) will be replaced with quantitative variable (concentration of Sevin solution or dosage of Sevin solution), allowing finding the correlation between the amount of Sevin injection and the resultant threshold voltage. 
+
+
+
+Literature Cited:
+1.	Johnson AD. Neuromuscular control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated August 1, 2016), pp. 19-24.
+2.	Relyea, R. A. The effects of pesticides, pH, and predatory stress on amphibians under mesocosm conditions. Ecotoxicol. N. Y. 15: 503–511 .
+3.	David E. Sadava. 2016. Life: The Science of Biology. Sunderland, MA: Sinauer Associates. 954 pp.
+4.	Poorni Iyer, Susan Makris. 2010. Hayes' Handbook of Pesticide Toxicology. Academic Press. 381 pp.
+5.	D Ribera, J.F Narbonne, C Arnaud, M Saint-Denis. Biochemical responses of the earthworm Eisenia fetida andrei exposed to contaminated artificial soil, effects of carbaryl. Soil Biology and Biochemistry. 33: 1123-1130.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Table+1.png&Size=18691&Type=image%2Fpng&F=F_4YJI7Hi4keBwSBT
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+2.png&Size=28447&Type=image%2Fpng&F=F_cBKD03xUakSYQlL
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1:  Threshold voltage before Sevin injection (control group, n=3) vs after injection (experimental group, n=3). Paired t-test showed p=0.28 (>0.05).
+Figure 1: Mean threshold voltage before and after injection. Error bars represent -/+ one standard deviation. 
+
+*************************************************************************

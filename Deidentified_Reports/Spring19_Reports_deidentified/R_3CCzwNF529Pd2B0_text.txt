@@ -1,0 +1,88 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-02-11 15:47:27
+Author of this lab report is: Std_GAytqpBk
+ID: R_3CCzwNF529Pd2B0
+Course number: BIO101L
+TA: TA_rVWBLI1O
+*************************************************************************
+Title: The Effects of JH Analog on the Weight (g) of Manduca Sexta
+
+Abstract:
+This experiment tested the effects of the JH Analog on the Weight (g) of Manduca Sexta. JH Analog allows for a caterpillar to undergo metamorphosis; as the Manduca Sexta matures, JH levels will decrease. Therefore, we hypothesized that the presence of a JH analog will decrease the weight of the caterpillar because JH levels would be too high for the caterpillar to mature regularly. To test our experiment, three caterpillars were given 10 grams of Great Lakes Manduca food and were labelled as the Control Group. Three other caterpillars were given a treatment on 70 microliters of JH Analog along with the 10 grams of Great Lakes Manduca Food and were labelled as the Experimental Group. Both the control and experimental group were surrounded in the same conditions, with an incubator of 25 degrees Celsius. During the course of 7 days, the weight of each caterpillar was measured. After a Two-Sample T-Test was used, we observed that there was no significant difference between the Control Group and the Experimental Group because out P value was greater than 0.05. Therefore, we could not determine the relationship between JH analog and weight of caterpillars. 
+
+Introduction:
+In this experiment, we observed the effects of a JH analog on the weight (g) of Manduca Sexta. A JH analog will increase JE levels, a hormone that regulates growth, molting, and metamorphosis. Specifically, JH allows for a caterpillar to undergo metamorphosis; as the Manduca Sexta matures, JH levels will decrease. Our hypothesis was that the presence of a JH analog will decrease the weight of the caterpillar because JH levels would be too high for the caterpillar to mature regularly. It is also important to note that the dependent variable was the weight of the caterpillars, but the independent variable was the JH analog.
+
+Materials and Methods:
+Three caterpillars were given 10 grams of Great Lakes Manduca food. These caterpillars were labelled as the control group. Three other caterpillars were given a food weight of 10 grams plus 7 drops (rougly 70 microliters) of JH analog. The mass of the caterpillars was observed each day using an electronic balance. In this case, the control group is the caterpillars that did not receive the JH analog. The purpose of the control groups is to compare the effects of the JH analog; was there a difference between the caterpillars who ate food with the analog and those who did not? It is also important to note that all caterpillars were placed in an incubator at a temperature of 25 degrees Celsius under the same conditions. Each caterpillar was placed in one section of a container with 2 holes in each section. A Two-Sample t-test was the statistical model used for this experiment because 1 categorical variable and 1 measurement variable existed. A two-sample t-test compares the averages of the control (Great Lakes Manduca) from the experimental group (Great Lakes Manduca food +70 microliters of JH analog). 
+
+Results:
+Table 1. Control Weight (g):
+Day             Caterpillar 1                Caterpillar 2                       Caterpillar 3
+Initial                1.20                                1.08                                     0.91
+1                        1.12                                2.10                                     0.85
+2                        1.71                                3.54                                     1.38
+3                        3.85                                5.47                                     3.47
+4                        3.89                                5.52                                     3.60
+5                        6.34                                8.73                                     5.68
+6                        7.36                                9.27                                     6.75
+
+Table 1. Experimental Weight (g)
+Day             Caterpillar 1                Caterpillar 2                       Caterpillar 3
+Initial                 0.82                               0.57                                       1.06
+1                         2.12                               1.01                                       1.00
+2                      3.58                                    1.48                                    1.13
+3                      4.98                                    1.41                                    2.53
+4                      5.09                                    1.63                                    2.45
+5                      7.35                                    2.03                                    4.98
+6                      8.09                                    3.44                                    6.36
+
+Table 2. Statistical Analysis (Two-Sample T-Test)
+
+                   Control                                      Experimental
+Average:     7.38                                                    5.93
+N:                   3                                                          3
+Df: 4
+t-value: 1.204455
+One-tailed p-value: 0.147403
+Two-tailed p-value: 0.294806
+
+
+Discussion:
+The weights of each caterpillar was recorded over a range of 7 days. After conducting a Two-Sample T-Test, the One-Tailed P-Value was 0.280114 and the Two-Tailed P-Value was 0.560229. Since the P Values were greater than 0.05, it was determined that there was no significant difference between the weights of the caterpillars in the Experimental Group and the Control Group. Therefore, there was not a great enough effect to observe how the JH analog affected the weight of caterpillars. If we were to repeat this experiment, then we would have added more than 70 microliters of JH analog to the Experimental Group to see if this would be enough to observe a difference. As cited by Tunaz, we predicted that the IGR Compound (JH Analog) will affect the biochemistry and physiology of Manduca sexta development [Tunaz 2004]. We hypothesized that the JH Analog would affect the weight of Manduca sexta, but since out P-Value was greater than 0.05, our experimental results were not different from our control group. Therefore, we could not prove Tunaz's theory. 
+
+Literature Cited:
+Tunaz H, Uygun N. 2004. Insect Growth Regulators for Insect Pest Control. Turk.J.Agric. For. 28: 377-387. 
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-11+at+3.20.35+PM.png&Size=105920&Type=image%2Fpng&F=F_3HqurrXIO1Ks89h
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-11+at+3.20.47+PM.png&Size=92841&Type=image%2Fpng&F=F_2DNfSEkGayIhgcM
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-11+at+3.23.30+PM.png&Size=111041&Type=image%2Fpng&F=F_3JwJy1xLdIrKeA5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Table 1. The Effects of JH Analog on the Weight (g) of the Control Group and Experimental Group
+Table 3. Two-Sample T-Test Results
+Figure 1. Treatment vs. Change in Weight of Manduca Sexta*************************************************************************
+
+
+

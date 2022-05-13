@@ -1,0 +1,46 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2017-12-02 17:38:33
+Author of this lab report is: Std_BoeZPPbD
+Course number: BIO101L
+TA: TA_l0zDB5kQ
+*************************************************************************
+Title: The change in specific metabolic rate of Procambarus sp. after increasing water salinity. 
+
+Abstract:
+The purpose of this experiment is to analyze the effect that increased water salinity has on the specific metabolic rate of crayfish: Procambarus sp. It was hypothesized that increased water salinity would lead to an increased specific metabolic rate of the crayfish. Metabolic rates were determined for control experiments of crayfish placed in room temperature water and experimental groups placed in high salinity room temperature water. The control trials had an average specific metabolic rate of 0.548 ± 0.235 mg O₂*g⁻¹*min⁻¹. Experimental trials had an average metabolic rate of 0.430 ± 0.518 mg O₂*g⁻¹*min⁻¹. The average change was -0.119 ± 0.670 mg O₂*g⁻¹*min⁻¹. The data was insignificant (t=0.307, df=2, p=0.788) and the null hypothesis could not be rejected. 
+
+Introduction:
+Autotrophs, different than heterotrophs, are organisms that can produce their own energy through metabolic pathways like photosynthesis. Heterotrophs must consume other organisms which are then converted into a usable form of energy called adenosine triphosphate (ATP). ATP is most commonly formed by breaking down individual molecules of glucose. This energy, ATP, is then used in all the physiological processes of life and its consumption can be measured as metabolic rate. This metabolic rate is easily detected by the rate at which an animal consumes oxygen. By measuring changes in the amount of oxygen used, the specific metabolic rate of an organism can be determined. Metabolic rate can be dependent upon many different factors like temperature and salinity. These factors play a critical role in metabolic rates as organisms must maintain an internal balance of water and salt concentrations through a process known as osmoregulation.  A 2001 study, of penaeid shrimp, determined that as water salinity increased, specific metabolic rate increased [Rosas et al.-2001]. The purpose of this experiment is to determine what effect that increased water salinity would have on the specific metabolic rate of the crayfish. 
+Procambarus sp. are good model organisms because their oxygen consumption is easily monitored thus allowing for an easy calculation of their specific metabolic rate [Johnson-2017]. It is hypothesized that if water salinity is increased then the specific metabolic rate of Procambarus sp. will increase when compared to the rates of crayfish in water with regular salinity. 
+
+
+Materials and Methods:
+To test this hypothesis, three crayfish of the genus Procambarus were obtained. Three crayfish, all of similar size were obtained and their mass was recorded. For the control experiments, a mason jar was filled with room temperature water and a crayfish was placed inside. The lid was then screwed onto the jar. The lid contained a special dissolved oxygen meter. When screwing the lid onto the jar, it was important that the jar overflow with water to ensure that there was no air left in the jar. Immediately after attaching lid, the dissolved oxygen meter was read to determine the amount of oxygen inside. The meter should then be re-read twenty minutes after being sealed. The total volume of water in the jar should be measured using a graduated cylinder. The total volume of water, the change in the amount of oxygen in the water, and the mass of the crayfish were then used to calculate the specific metabolic rate in the following equation: (∆O₂ (mg/L)*volume H₂O (L)) / (Time (min.)*weight (g)). The crayfish was then placed back into the mason jar and filled with high salinity water. The high salinity water was diluted in a ratio of nine parts tap water to one part high salinity water. The crayfish was then sealed into the jar and the dissolved oxygen was determined then reanalyzed after 20 minutes. The specific metabolic rate was then recalculated. This process was then repeated with crayfish two and three. The first trial, for each crayfish, with room temperature and normal salinity water served as the control group. The second trial, for each crayfish, with room temperature and high salinity water served as the experimental group. After being collected, the difference between the control and experimental groups was calculated and a one-tail paired t-test was used to analyze the data. 
+
+Results:
+The control trials had average specific metabolic rate of 0.548 ± 0.235 mg O₂*g⁻¹*min⁻¹ (Figure 1) and the experimental trials had an average metabolic rate of 0.430 ± 0.518 mg O₂*g⁻¹*min⁻¹ (Figure 1). The average change in metabolic rate was -0.119 ± 0.670 mg O₂*g⁻¹*min⁻¹ from before to after salinity was increased. After running a one tail paired t-test, the data was as follows (t=0.307, df=2, p=0.788). Both the first and second crayfish exhibited a decrease in specific metabolic rate while the third crayfish had a decreased metabolic rate. 
+
+Discussion:
+The null hypothesis of this experiment could not be rejected because the paired t-test indicated a p-value of 0.788 which was larger than an alpha value of 0.05. This high p-value means that the data was insignificant. It was expected that the specific metabolic rates of all crayfish would increase as the organism would have to work harder at osmoregulation [Rosas et al.-2001]. If salinity is increased, there is a higher concentration gradient between the internal (low salinity) and external (high salinity) environments of the crayfish. It was expected that salt would diffuse down its concentration gradient. As a result, Procambarus sp. was expected to have to work harder to perform osmoregulation—the maintenance of water and salt concentrations in internal fluids—and as a result increase the metabolic rate. This was contradicted by another study that found increased salinity reduced osmoregulatory ability and thus lowered metabolic rates in milkfish [Swanson-1998]. The specific metabolic rate of the first and second crayfish decreased while the rate of the third increased and the data did not correlate to either of these studies. This could be explained by variation in the sizes of crayfish. Different sizes of crayfish may adapt better to different salinity concentrations relative to their size and mass. The standard deviations for the experimental group, as represented in figure 1, is extremely large due to the fact that there was a wide range of metabolic rates for the control group. In future experiments, it would be useful to increase sample size and to use different concentrations of high salinity. Additionally, it would be useful to use crayfish of different sizes to identify whether or not size could play a role in increased or decreased metabolic rates. 
+
+Literature Cited:
+1.	Rosas, C., Cuzon, G., Gaxiola, G., Le Priol, Y., Pascual, C., Rossignyol, J., ... & Van Wormhoudt, A. (2001). Metabolism and growth of juveniles of Litopenaeus vannamei: effect of salinity and dietary carbohydrate levels. Journal of Experimental Marine Biology and Ecology, 259(1), 1-22. 
+2.	Johnson AD. Metabolism and Gas Exchange. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 17.2 (updated August 2, 2017), pp. 37-42.
+3.	Swanson, C. (1998). Interactive effects of salinity on metabolic rate, activity, growth and osmoregulation in the euryhaline milkfish (Chanos chanos). Journal of Experimental Biology, 201(24), 3355-3366. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=final+metabolism.png.jpg&Size=64288&Type=image%2Fjpeg&F=F_bykyvPaB1Cwjsbz
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Change in specific metabolic rate of Procambarus sp. with increased salinity. Three crayfish submerged in regular room temperature water serve as the control and the same three crayfish submerged high salinity room temperature water serve as the experimental group. Control trials had an average specific metabolic rate of 0.548 ± 0.235 mg O₂*g⁻¹*min⁻¹ and experimental trials had an average metabolic rate of 0.430 ± 0.518 mg O₂*g⁻¹*min⁻¹. The average change was -0.119 ± 0.670 mg mg O₂*g⁻¹*min⁻¹. (t=0.307, df=2, p=0.788)
+
+*************************************************************************

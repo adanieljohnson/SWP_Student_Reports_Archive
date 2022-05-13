@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-03-26 23:45:47
+Author of this lab report is: Std_MF08cxFt
+ID: R_09elOPRmSGPpE0p
+Course number: BIO101L
+TA: TA_2R8KStqZ
+*************************************************************************
+Title: The Effect of Lidocaine Injection on the Contraction of the Gastrocnemius Muscle in Rana pipiens
+
+Abstract:
+Sodium channels are essential in the process of excitation-contraction coupling in muscles. Lidocaine, an anesthetic, serves as an inhibitor of these crucial channels. The hypothesis was that if Lidocaine is injected into the gastrocnemius muscle of Rana pipiens, it will inhibit the voltage-gated sodium channels in the tissue, preventing depolarization, action potential production, calcium release, and ultimately muscle contraction. A force transducer was used to apply stimulus to the gastrocnemius muscle and record myograms of the muscle’s response both prior to and post injection; the amplitude of the standard contraction responses of the muscle were then recorded. A paired t-test was performed using these averaged values. There is statistically significant evidence suggesting that the standard contraction amplitude of the gastrocnemius muscle of Rana pipiens prior to injection of Lidocaine is greater than the standard contraction amplitude post injection of Lidocaine (p = 0.018593). The injection of Lidocaine decreased the muscle’s standard contraction significantly due to the blockage of voltage-gated sodium ion channels in muscle tissue. 
+
+Introduction:
+In both vertebrates and invertebrates, skeletal muscle consists of hundreds to thousands of myofibers bound together by connective tissue to form muscles proper. Axons of motor neurons, which innervate these muscles, extend into a muscle and branch out to then innervate several individual myofibers at neuromuscular junctions. Through the process of excitation-contraction coupling, a nerve stimulates muscle contraction. To monitor what is happening at the macroscopic level of an entire muscle or nerve, a myogram is recorded by attaching a muscle to a force transducer [Johnson: 2018]. Both physical properties and chemical environments in an around a muscle affect its contractile properties. Voltage-gated sodium channels are essential in the generation and propagation of action potentials in tissues, and it is necessary that these channels function to initiate action potentials in order for muscle contraction to occur [Simkin: 2011]. If these sodium channels are blocked, depolarization will not occur; thus, no action potential will be produced. When an action potential reaches the axon terminal, the voltage-dependent calcium channels open and calcium ions are released from the sarcoplasmic reticulum, triggering muscle contraction [Koch: 1990]. Lidocaine, an anesthetic, is known to inhibit the sodium channels in muscles; therefore, the hypothesis is that if Lidocaine is injected into the gastrocnemius muscle of Rana pipiens, then the sodium channels will be inhibited, preventing depolarization, action potential production, calcium release, and ultimately muscle contraction. 
+
+Materials and Methods:
+The Labscribe3 software by iWorx was first installed. Two Rana pipiens legs were obtained. Each Rana pipiens leg was then degloved, the sciatic nerve was exposed, and the gastrocnemius muscle was detached. The gastrocnemius muscle was suspended from a Force Transducer, using strings and pins to tie and hold it down, and two probes were then attached to the muscle. Two different trials were executed. The first muscle was stimulated with 2.0 volts prior to injection -- the amplitude of the muscle’s standard contraction on the myogram was then measured three times and the mean was calculated. Then, 1 mL of Lidocaine was injected and five minutes were waited before taking another three measurements of muscle contraction amplitude to calculate the mean amplitude of the standard muscle contraction post-injection. This process was repeated on the second gastrocnemius muscle, except 0.5 volts were used as stimulus.
+
+Results:
+On average, the standard muscle contraction of the gastrocnemius muscle of Rana pipiens decreased significantly after being injected with Lidocaine. The mean standard contraction amplitude of the first trial muscle, stimulated by 2.0 volts, was 0.221 +/- 0.0146 volts prior to the injection of Lidocaine and 0.089 +/- 0.0164 post injection of Lidocaine (Fig. 1). The mean standard contraction amplitude of the second trial muscle, with a 0.5 volt stimulus, was 0.638 +/- 0.00624 prior to and post-injection of Lidocaine was 0.013 +/- 0.001 volts (Fig. 1). Overall, the mean  standard contraction amplitude of both of the trial muscles before injection was 0.4297 +/- 0.2284 and after injection was 0.051 +/- 0.0429 (Fig. 1). The p-value determined by the paired t-test was 0.018593 (Fig. 2). 
+
+Discussion:
+There is statistically significant evidence suggesting that the standard contraction amplitude of the gastrocnemius muscle Rana pipiens prior to injection of Lidocaine is greater than the standard contraction amplitude post injection of Lidocaine; the null hypothesis that these results were due to normal chance was able to be rejected (p = 0.018593). The alternate hypothesis was supported, as the amplitude of the gastrocnemius muscle’s standard contraction significantly decreased after it was injected with Lidocaine. This is likely due to the fact that voltage-gated sodium channels, which are essential in triggering action potentials, are blocked. These channels must function properly in order for muscle contraction to occur because they initiate the process of depolarization, which leads to action potentials, the release of calcium ions, and ultimately, muscle contraction [Simkin: 2011], [Koch: 1990]. A similar study examined the effects of various volatile anesthetics on mammalian sodium channels [Herold: 2012]. The inhibition of the channels and their stabilization of the inactivated state of these channels displayed evidence of hyperpolarization causing the inactivation [Herold: 2012]. This sensitivity of sodium channels to clinically relevant anesthetics, similar to Lidocaine, was confirmed using various mammals [Herold: 2012]. The evidence displayed in this study relates similarly to the findings of the experiment executed. It is suggested that due to this evidence obtained in previous studies, the decreased contraction of the gastrocnemius muscle of Rana pipiens after Lidocaine injection was caused by the anesthetic blocking effect on the sodium channels in the tissues. 
+
+Literature Cited:
+Tetsuya Kai, Junji Nishimura, Sei Kobayashi, Shosuke Takahashi, Jun-ichi Yoshitake, Hideo Kanaide; Effects of Lidocaine on Intracellular Ca2+ and Tension in Airway Smooth Muscle. Anesthesiology 1993;78(5):954-965.
+Simkin, Dina, and Saïd Bendahhou. “Skeletal Muscle Na+ Channel Disorders.” Frontiers in Pharmacology 2 (2011): 63. PMC. Web. 26 Mar. 2018.
+Koch GL. The endoplasmic reticulum and calcium storage. Bioessays. 1990 Nov;12(11):527-31. Review. PubMed PMID: 2085319.
+Johnson AD. Comparative Physiology. BIO114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated January 5, 2018).
+Bean BP, Cohen CJ, Tsien RW. Lidocaine Block of Cardiac Sodium-Channels. Journal of General Physiology. 1983;81:613–642. doi: 10.1085/jgp.81.5.613
+Herold K., Hemmings H. (2012). Sodium channels as targets for volatile anesthetics. Front. Pharmacol. 3:50. 10.3389/fphar.2012.00050
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-26+at+11.44.08+PM.png&Size=29065&Type=image%2Fpng&F=F_1jOFgO9HhJownbp
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-26+at+11.44.32+PM.png&Size=44079&Type=image%2Fpng&F=F_2fwZCWKaK7MT73G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The mean standard muscle contraction amplitudes prior to and after injection of Lidocaine in each trial and overall. 
+Figure 2. The effect of Lidocaine injection on Rana pipiens gastrocnemius standard muscle contraction. 
+
+*************************************************************************

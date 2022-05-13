@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a lab report.
+Date submitted: 2017-11-12 14:53:56
+Author of this lab report is: Std_P5Q2tIHo
+Course number: BIO101L
+TA: TA_zzgkJro5
+*************************************************************************
+Title: Effects of darkness on the metabolic pathway of Cambarus bartonii 
+
+Abstract:
+Oxygen is utilized in the metabolic pathway in the making of ATP, and the amount of ATP needed by the organism changes in response to environmental factors. Therefore, in darkness, when most organisms are inactive, a lower metabolic rate should be observed. It was hypothesized that Cambarus bartonii would respond to darkness by lowering its metabolic rate. Methods included the use of a dissolved oxygen probe to measure the oxygen consumption of 3 crayfish both with and without aluminum foil covering the chamber, with each crayfish serving as its own control. The hypothesis was not supported, as statistical significance was not reached in the data, with a p-value of 0.851. It was concluded that these results were likely flawed, as similar experiments found that the metabolic rate of ectotherms decreased in response to darkness. The experimental design must be altered in the future to account for limitations of the current design. 
+
+
+Introduction:
+In the metabolic pathway, which takes place in the mitochondria, high-energy molecules (glucose) are converted to lower-energy ones; the energy released is ATP. Oxygen is vital to the pathway, because it takes electrons off the end of the transport chain, allowing ATP production to continue. In the process of doing this, oxygen is converted into water. Therefore, the amount of oxygen consumed by an organism is directly proportional to the amount of energy produced and is an indirect indicator of metabolic rate. Metabolic rate can be influenced by environmental conditions such as temperature [Sadava: 2016]. Another environmental factor believed to have an impact on metabolism is the amount of light present. In Spermestes cucullatus, a small species of bird, a nocturnal metabolic rate 50% less than that in daytime was observed [Lovegrove: 2003]. In addition, Microcebus murinus, a small primate, was exposed to simulated days and nights of varying lengths; it was found that the primates exposed to the shortest day length gained body mass and experienced a decrease in oxygen consumption [Perret: 1998]. These findings can be most likely be attributed to the tendency of animals to lower their activity in the dark, as is commonly seen at night. Cambarus bartonii will be used as the model organism for the experiment, as the organism is an ectotherm, and its metabolic rate changes drastically in response to environmental conditions. Additionally, it is small enough that it can be held in a test chamber, yet large enough that its oxygen intake will register on the dissolved oxygen instrument. Although Spermestes cucullatus and Microcebus murinus are endothermic and Cambarus bartonii is ectothermic, it is expected that the effect of darkness on their metabolic rate will be the same, although very few experiments have been conducted on how light impacts metabolic rate, especially with regard to ectothermic organisms. It is hypothesized that the crayfish will consume a smaller quantity of oxygen, or have a lower specific metabolic rate, when exposed to darkness.
+
+
+Materials and Methods:
+Three crayfish were used for this experiment, with each crayfish serving as its own control. A crayfish was weighed before being placed in the test chamber. The chamber was then filled with room-temperature water that had been saturated with air. When the oxygen probe was inserted into the chamber and the chamber top was screwed on, some water overflowed, ensuring that the probe was completely submerged in water. The chamber was placed in a dishpan containing room-temperature water. Once the dissolved oxygen instrument was turned on, it was allowed to stabilize for approximately a minute before the preliminary reading of dissolved oxygen was taken. Additional readings were taken at 5, 10, 15, and 20 minutes before the probe was removed. The crayfish was then removed before the volume of water in the test chamber was measured using a graduated cylinder. These steps were repeated for the same crayfish, except aluminum foil was placed over the entire chamber and left in place for all 20 minutes of the dissolved oxygen readings. Specific metabolic rate was calculated using the following formula: 
+Specific metabolic rate = [∆O2  (mg/L)  * volume H2O (L)] / [Time (min)  *  weight (g)]
+This process was repeated until the specific metabolic rates of all 3 crayfish had been found under both control and dark conditions. Specific metabolic rate data was analyzed using a one-tailed paired t-test.
+
+
+Results:
+The average specific metabolic rate for the control was 0.000438 mg O2 *g-1 *min-1 (SD: 0.000365), whereas the average specific metabolic rate in darkness was 0.000470 mg O2 *g-1 *min-1 (SD: 0.000363), and the p-value was 0.851. The specific metabolic rate was not significantly different in darkness from the baseline. 
+
+
+Discussion:
+It was hypothesized that crayfish would consume a smaller amount of dissolved oxygen in darkness and a larger amount of dissolved oxygen in light. The original hypothesis has not been supported, and statistical significance was not reached. This data is intriguing because in another experiment, in which the resting metabolic rate was measured for a species of lizard, another ectotherm, the metabolic rate was higher in summer than in spring or fall, supposedly due to more hours of light [Angilletta: 2001]. The hours of darkness are related to metabolic rate in that physical activity decreases during darkness, resulting in a smaller need for ATP production and a subsequent drop in metabolic rate. Similarly, in an experiment in which fish were subjected to four different photoperiod cycles, or different amounts of time for light and darkness, it was observed that the greatest metabolic activity occurred during light periods and the lowest metabolic activity occurred during dark periods [Biswas: 2002]. Thus, scientific literature seems to be in agreement that, for both terrestrial and aquatic ectotherms, metabolic rate is lowered in darkness.
+	Therefore, limitations of this experiment could have altered the results that were attained. One such limitation was that there was no way to control for the physical activity of the crayfish, so they might have been exerting more energy during the experimental trial than they were in the control trial, inflating the specific metabolic rate. Another possibility could have been that the dissolved oxygen probe was faulty, as the oxygen reading exceeded the initial reading several times throughout the experiment. Also, the test chamber might not have been completely sealed, which would have allowed oxygen to enter or exit the chamber. 
+	In a future study, the oxygen consumption of an organism living in a region with fewer hours of light could be compared to the oxygen consumption of the same organism in a region with more light. Data about how available light affects its metabolism could shed new light on that organism’s behaviors, such as its feeding and mating patterns, and how these might be restricted based on environmental factors.
+
+
+Literature Cited:
+1.	Sadava, D.E., Hillis, D.M., Heller, H.C. & Hacker, S.D. (2017). Life: The Science of Biology (11th ed), 179-184. New York: Freeman. 
+
+2.	Lovegrove, B. G., & Smith, G. A. (2003). Is ‘nocturnal hypothermia’ a valid physiological concept in small birds?: a study on Bronze Mannikins Spermestes cucullatus. Ibis, 145(4), 547-557. 
+
+3.	Perret, M., Aujard, F., & Vannier, G. (1998). Influence of daylength on metabolic rate and daily water loss in the male prosimian primate Microcebus murinus. Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology, 119(4), 981-989.
+
+4.	Angilletta, Jr, M.J. (2001). Variation in metabolic rate between populations of geographically widespread lizard. Physiological and Biochemical Zoology, 74(1), 11-21.
+
+5.	Biswas, A.K. and Takeuchi, T. (2002). “Effect of different photoperiod cycles on metabolic rate and energy loss of fed and unfed adult tilapia Oreochromis niloticus: Part II.” Fisheries science, 68(3), 543-553.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Metabolism.jpg&Size=15428&Type=image%2Fjpeg&F=F_8AEFGtXLBm4SV0N
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Effect of Darkness on Specific Metabolic Rate. The 3 control crayfish (orange bar) were not covered and were exposed to the maximum amount of light. The experimental group (blue bar) consisted of the same 3 crayfish, except their chambers were covered with aluminum foil. Specific metabolic rate was calculated by multiplying the change in oxygen concentration in the water (mg/L) by the volume of water in the chamber (L), and dividing this by the time (minutes) multiplied by weight of the crayfish (grams). Oxygen consumption was measured using a dissolved oxygen probe. Each bar is the mean specific metabolic rate of 3 crayfish. Error bars represent the standard deviation of the sample.
+
+
+*************************************************************************

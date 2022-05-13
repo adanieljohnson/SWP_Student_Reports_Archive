@@ -1,0 +1,61 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2018-11-28 02:55:48
+Author of this lab report is: Std_V2XuU5nu
+ID: R_1DApsugw7kXYD9H
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title:  The Effect of a Calcium-Rich Environment on the Growth of Physarum polycephalum 
+
+Abstract:
+In this experiment, we examined the signal pathway within the species Physarum polycephalum as we determined the effect of calcium on its growth. Due to previous research findings suggesting that the Physarum polycephalum is calcium-dependent, this group hypothesized that placing Physarum polycephalum in an environment with an abundance of calcium present would promote the slime mold’s growth. In order to test this, we placed blocks of Physarum polycephalum stock into six plates with a potato dextrose agar (PDA) medium. Three of the PDA plates were also treated with CaCl2. These six plates were incubated for 48 hours and the surface area of Physarum polycephalum growth was examined after 24 hours and 48 hours. However, the results of this experiment proved to be inconclusive seeing as the data collected was not found to be statistically significant. Various compounding variables were identified which could have had unexpected effects on the results of this experiment, such as reaction thresholds, sporulation, and the appearance of competing mold.
+
+Introduction:
+Physarum polycephalum is a yellow slime mold that grows as a result of dampness in ground debris. It moves by the extension of its actin microfilaments towards food sources or away from sunlight. [Adamatzky: 2012.] This movement and the reproduction of the multinucleate organism that is Physarum polycephalum can be affected signals given off by different factors such as heat, food, light, and even specific enzymes. [Adamatzky: 2012.]  For example, an important factor that has been found to have a great effect on the growth of Physarum polycephalum is calcium. [Hickey: 2008.] Research has shown Physarum polycephalum growth to be calcium-dependent, seeing as optimal growth of Physarum polycephalum has been found to require a specific amount of calcium within the cells’ nuclei. [Holmes: 1979.] Changes in the concentration of free calcium available for P. polycephalum has been found to be correlated to its movement and growth. [Ridgway: 1976.] Due to these findings suggesting a correlation between calcium availability and cell reproduction, we hypothesized that the presence of calcium would increase the growth of Physarum polycephalum. 
+
+Materials and Methods:
+In order to examine the effect of the presence of calcium in the growth of Physarum polycephalum we incubated blocks of slime mold in plates of 2% potato dextrose agar (PDA) medium. First, we split up the plates of PDA medium into two groups, a control and an experimental group. For the experimental group, we removed the PDA medium from each of the three plates, placing it into a 125 mL flask. We then melted the PDA from each individual plate separately in a microwave and added 1.5mL of 50 mM calcium chloride to the fully melted PDA medium. We returned the PDA and CaCl2 mixture into each respective plate and waited for it to fully cool. Then, for both groups, we used a metal spatula and forceps to cut and remove a 1 cm block from each plate. Between every use of the spatula and forceps we sterilized the instruments by placing them into 95% ethanol and wiping them off using a Kimwipe. Additionally, to make the measurements as accurate a measurement as possible, we taped 1 cm by 1 cm grid paper onto the backs of the six PDA plates. Then for all six of the plates we placed a 1cm by 1cm block of Physarum polycephalum from two Physarum polycephalum stock plates into the holes we had previously cut into the six PDA plates. We wrapped each of the plates in aluminum foil and stored them to incubate for 48 hours. The plates were examined both after 24 hours and after 48 hours, and the area the Physarum polycephalum had grown was measured using the grid paper attached to the plates. The growth, or lack thereof, was recorded for the six plates in order to calculate an average. This was then used in order to perform a two-tailed t-test on the data.
+
+Results:
+After 24 and 48 hours, the plates were examined and while some of the plates showed growth of the Physarum polycephalum, others did not. In one of the control plates, the slime mold did not grow past the 1cm block of P. polycephalum stock but instead grew around and under itself. As can be seen in Figure 1., the average growth of the surface area of the slime mold for the control group was 0.75 cm, and that of the experimental group was 1 cm. The two-tailed t-test performed on the data showed a p-value of 0.431, with a df of 5 and a t of 0.92. Therefore, the data collected regarding the change in surface area covered by the Physarum polycephalum was statistically insignificant. Also to be noted, a white mold grew in two of the plates, one in each of the treatment groups. In both of those plates, the Physarum polycephalum actually grew away from the white mold.
+
+Discussion:
+The results attained through this experiment proved to be inconclusive over all. We expected growth for all of the plates since they were placed in a PDA agar medium, and significantly more growth in the experimental group of plates that were treated with calcium. However, the results did not appear to follow any sort of pattern. The data attained regarding the growth of Physarum polycephalum in the plates proved to be statistically insignificant. Nonetheless, the minimal growth observed in only some of the plates did not appear to be necessarily affected by the CaCl2 treatment either. Due to the inconclusiveness of the data attained, we are unable to fully determine the effect of calcium on the growth of Physarum polycephalum. The inconclusiveness could be due to many possible factors and errors. Physarum polycephalum has been found to have certain concentration thresholds for different factors that affect its growth. [Kobatake: 1975] It is possible that not a high enough concentration of calcium was added to the experimental PDA plates for it to have made a statistically significant impact on the growth of the P. polycephalum. Another possible factor that could have affected the results could be related to our use of two separate Physarum polycephalum stock plates. Physarum polycephalum undergoes sporulation at different periods in its life cycle. While undergoing sporulation, the slime mold essentially starves itself, stunting its growth. [Esselborn: 2000] Research has actually shown calcium to be a promoter of sporulation in Physarum polycephalum. [Esselborn: 2000] One of the two Physarum polycephalum stock plates used for this experiment could have been close to undergoing sporulation and the addition of caclcium could have caused it to begin sporulation. If this occurred in only one of the Physarum polycephalum stock plates, this could explain the lack of growth in some of the treatment plates but not all. Additionally, the white mold found in two of the plates could also be a factor that affected the results attained. The presence of the white mold in two of the plates and the fact that the slime mold grew in the opposite direction could suggest competition between the two molds for food source. Among the many factors that affect its growth, P. polycephalum has been found to grow towards food sources [Hickey: 2008.]. Therefore, the appearance of the white mold on one side of the plate could have led it to grow towards the other side, possibly inhibiting the potential amount of growth if could have shown has the white mold not been present. On the side of human error, another reason for the inconsistencies in growth in one of the stock plates could be due to an imprecise measurement of the block of P. polycephalum stock. If cut too small, the slime mold’s growth could have been restricted to only the block of stock. This could explain the issue encountered with one of the control group plates where the slime mold grew around and under the block of P. polycephalum stock. There were many possible factors that could have caused the inconclusiveness of the results and the failure of our null hypothesis to be rejected. This experiment would have to be performed again in a manner that could eliminate some of these possible factors and errors that occurred.
+
+Literature Cited:
+1.	Adamtazky, A. Costello, BDL. 2012. Physarum attraction: Why slime mold behave as cats do? Communicative & Integrative Biology, 5:3,297-299
+2.	Esselborn, S. Hildebrandt, A. Sauer HW. Renzel, S. 2000. Calcium and malate are sporulation-promoting factors of physarum polycephalum. American Society for Microbiology Journals.
+3.	Hickey, DS. Noriega, LA. 2008. Insights into information processing by the single cell slime mold physarum polycephalum. Conference Proceedings.
+4.	Holmes, RP. Stewart, PR. 1979. The response of physraum polycephalum to extracellular Ca2+: studies on Ca2+ Nutrition, Ca2+ Fluxes and Ca2+ Compartmentation.  Microbiology 113: 275-285
+5.	Kobatake, Y. Kurihara, K. Terayama, K. Ueda, T. 1975. Threshold phenomena in chemoreception and taxis in slime mold physarum polycephalum. The Journal of General Physiology 65: 223-234.
+6.	Ridgway EB, Durham AC. Oscillations of calcium ion concentrations in Physarum polycephalum. J Cell Biol. 1976;69(1):223-6.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-28+at+2.32.25+AM.png&Size=56519&Type=image%2Fpng&F=F_UR9twwIC4A51mhz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. This graph depicts the results of the collected data, comparing the control group (left) to the group treated with 50 mM CaCl2 (right). The N value was 6. A two-tailed t-test was conducted and it showed a p-value of 0.431, df equal to 5, and t equal to 0.92. The average growth of the surface area of the slime mold for the control group was 0.75 cm, and that of the experimental group with CaCl2 added was 1 cm.*************************************************************************
+
+
+

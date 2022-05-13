@@ -1,0 +1,66 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a submission.
+Date submitted: 2019-03-19 18:01:02
+Author of this lab report is: Std_TpBX65nZ
+ID: R_OcI83t1IMUW3E9b
+Course number: BIO101L
+TA: TA_TaMqWbpv
+*************************************************************************
+Title: The Effect Of 2% Sevin Solution on Threshold Voltage  Required for Muscle Contraction in Rana Pipiens
+
+Abstract:
+The effect of pesticides on the neuromuscular junction is an important topic within the field of biology. With an increasing prevalence of pesticide use in farming, bodies of water are beginning to contain a multitude of lab synthesized molecules due to run-off. Here we look at the effect of Sevin on the threshold voltage required to elicit a muscular contraction. The expectation was that a 0.2mL injection of 2% Sevin solution into the gastrocnemius of Rana Pipiens would increase the threshold voltage. A paired t-test was used to analyze the results. The average threshold of the frog’s gastrocnemius prior to injection was 0.15667 +/- 0.321455. The average threshold of the frog’s gastrocnemius after injection with 0.2mL of 2% Sevin solution was 0.29333 +/- 0.07023769. The two-tailed p value was calculated to be 0.037622. The t-value was calculated to be 5.008947. The degrees of freedom was two. A significant difference was observed at the 0.05 level, suggesting that Sevin solution causes sarcomeres to be less responsive to electrical signals. A possible biological explanation is that the pre-synaptic voltage gated Ca+ channels built up electrical resistance in response to excess Ach binding to pre-synaptic Ach receptors.
+
+Introduction:
+This experiment evaluates the effect of Sevin on threshold voltage required to elicit a contraction in the gastrocnemius of Rana Pipiens. Threshold voltage is defined as the minimum voltage required to cause a muscle to contract. The shock, administered at a specific voltage, achieves a contraction by imitating a nerve impulse. The nerve impulse causes presynaptic nerve terminals to release Acetylcholine (Ach) which binds to receptors on the muscle fibers resulting in ligand gated sodium channels to open. The Na+ flows into the muscle fibers causing an action potential in the muscle fibers. Consequently, Calcium Ions (Ca+) are released from the sarcoplasmic reticulum, activating the contractile mechanism between the actin and myosin within the frog’s sarcomeres. Many drugs exist that are able to alter this biological pathway; one such drug is Sevin. 
+	Under normal circumstances, Ach is broken down into acetate and choline by cholinesterase and the two components are recycled in the neuron to make new Ach molecules. When Sevin is injected into a muscle it binds to post-synaptic cholinesterase’s, which keeps Ach from being broken down. As a result, Ach builds up in the synapse. Sevin was originally created as a pesticide; the buildup of Ach in the synapses of insects is fatal (NPIC: 2003). Since Carbaryl is used as an insecticide it enters bodies of water via runoff; frogs may come into contact with Sevin in nature. This lab examines the effect that Sevin has on the threshold voltage required to elicit a muscular contraction. We hypothesized that a 0.2mL injection of 2% Sevin into the gastrocnemius of Rana Pipiens will result in the threshold increasing. 
+
+
+Materials and Methods:
+	Three Rana Pipiens legs were obtained and degloved. The gastrocnemius and the tibialis anterior were separated and the gastrocnemius was hung on a ring stand by tying a knot around the Achilles tendon and making a loop on the opposite end. Pins were placed into the thigh muscle and the tibialis anterior to keep the frog leg minus the suspended gastrocnemius flat against the dissecting tray. An electrical probe was inserted directly into the suspended gastrocnemius and a shock was administered with a voltage of 0.1V. The voltage was then increased in intervals of 0.01V until a twitch was elicited. The minimum voltage required to elicit a twitch was recorded as the initial threshold. 
+	Next, the gastrocnemius was injected with 0.2mL of Sevin.  The gastrocnemius was massaged for two minutes and then allowed to sit for five minutes in order to evenly distribute the solution within the muscle. Shocks were re-administered starting with 0.1V and increasing at intervals of 0.01V in order to determine the post injection threshold. This process was repeated with two other Rana Pipiens legs. Each leg served as its own control. A paired t-test was used to analyze the data as two sets of data points were taken from each frog leg.
+
+
+Results:
+A paired t-test was conducted because two sets of data were being taken from the same frog. The threshold voltage required to elicit a response was determined. Afterwards, .2mL of seven was injected into the gastrocnemius of the frog leg and threshold voltage required to elicit a response was redetermined.  The average threshold of the frog’s gastrocnemius prior to injection was 0.15667 +/- 0.321455 (figure 2). The average threshold of the frog’s gastrocnemius after injection with 0.2mL Sevin solution was 0.29333 +/- 0.07023769 (figure 2). The two-tailed p value was calculated to be 0.037622. The t-value was calculated to be 5.008947. The degrees of freedom was two. 
+
+Discussion:
+Our hypothesis, that the threshold voltage for the gastrocnemius of Rana Pipiens would increase after injection with 0.2mL of 2% Sevin solution, was supported. A significant difference was observed at the 0.05 level, suggesting that Sevin solution causes sarcomeres to be less responsive to electrical signals. Prior research has shown that carbaryl, the active ingredient in Sevin, acts as an Ach mimic, binding to membrane bound cholinesterase’s in place of the Ach molecules. Consequently, Ach is not broken down into acetate and choline and recycled; instead it builds up in the synapse. This “increases the availability of acetylcholine at the cholinergic receptors”, specifically the nicotinic ligand gated sodium channels (O'Shaughnessy: 2012). Theoretically, increased acetylcholine availability would cause a muscle contraction to occur “faster” because more Na+ channels would be open at one time causing a faster rate of depolarization in the muscle cells and consequential opening of voltage gated Ca+ channels which triggers the contractile mechanism via exposing the actin to the myosin heads. 
+	The observed results, an increased threshold after injection with Sevin, could possibly be explained by increased resistance among the voltage gated Ca+ channels on the pre-synaptic membrane due to Ach binding to pre-synaptic receptors and inhibiting further exocytosis of Ach into the synapse. There may not have been adequate Sevin to completely occupy all of the active sites of the cholinesterase enzymes on the post-synaptic membrane, thus Ach in the synapse continued to be broken down, just at a slower pace. When all of the Ach had left the synapse for the first time, the voltage gated Ca+ channels could have retained their resistance. As a result, a higher voltage was required to cause Ach to be transported into the synapse and eventually cause a contraction. 
+	It is important to study the effects of Sevin on organisms because it has been shown to end up in bodies of water via run-off (Ha: 2018). This study adds to the understanding of Sevin by showing that it could possibly decrease the ability of organisms such as frogs and possibly even humans to react to external stimuli since a greater electrical impulse is needed to get a muscle to contract if it has been exposed to Sevin. Some might downplay the potential harm of Sevin because its effects are reversible; they only last up to an hour. Further studies should look at the effect of long-term exposure to Sevin to see if it effects an organism after the Sevin ceases to be administered. 
+
+
+Literature Cited:
+Ha B., Zamini L., Monn J., Njoroge S., Thimo L., Ondeti M., Murungi J., Muhoro C. 2018. Tropical surface water quality studies: Implications for the aquatic fate of N-methyl carbamate pesticides. J Environ Sci Health B. 3: 161- 170. 
+NPIC. 2003. Carbaryl. National Pesticide Information Center
+O'Shaughnessy K.M. 2012. Clinical Pharmacology (Eleventh Edition). Churchill Livingstone. 371-381. 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=graph.png&Size=16201&Type=image%2Fpng&F=F_27IGCmMGsK9SEJB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The effect of injecting 0.2mL of 2% Sevin solution into on average threshold voltage. Three frog legs were tested in order to get an average for both the control group that had 0mL of 2% Sevin injected and the experimental group which had 0.2mL of 2% Sevin injected into the gastrocnemius. Error bars are +/- 2 s.d.*************************************************************************
+
+
+

@@ -1,0 +1,60 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-04 20:13:05
+Author of this lab report is: Std_LL1o8BYN
+ID: R_sXdGHS7TOLxNPZD
+Course number: BIO102L
+TA: TA_T8nPUAZg
+*************************************************************************
+Title: Effect of carbonated water on photosynthetic activity in chloroplasts as measured by reduction of DCIP
+
+Abstract:
+Photosynthesis is a biological process that uses an electron transport chain to produce ATP and glucose from CO2. The chloroplasts were centrifuged in both carbonated seltzer water and distilled water and then recorded absorbance at 600 nm in the presence of DCIP for three 10-minute intervals to determine photosynthetic activity. Carbonated water was not shown to statistically significantly alter percent change in absorbance. The results contrast with other literature and with our hypothesis. Studies of the effect of CO2 are increasingly important due to human-caused increases in atmospheric CO2 levels.
+
+Introduction:
+In the experiment the photosynthetic process of Spinacia oleracea was examined. Photosynthesis allows organisms to capture solar energy and store it for later use during other cellular functions through glycolysis and respiration, according to the formula 6CO2 + 12H2O --&gt; C6H12O6 + 6H2O. Glucose serves as the storage molecule of that energy. To complete this process, the organism requires sunlight, chlorophyll and Mn2+ ions in addition to water and carbon dioxide. This process uses a series of electron transport complexes and the phospholipid bilayer of the chloroplast to form a proton gradient. Photosynthesis begins by chlorophyll inside chloroplasts absorbing solar radiation, which excites electrons cleave water and create the proton gradient. The electrons are then stored as NADPH and the proton gradient powers ATP production. The NADPH electrons and ATP react to form glucose from CO2. The light dependent reactions in photosynthesis generate NADPH to give the cell reducing power and generate ATP. A second set of reactions utilizes the enzyme RUBISCO to generate glucose from CO2 and ribulose phosphate. Because CO2 is a reagent in the reaction, we hypothesized that by introducing carbonated seltzer water we would increase photosynthetic activity by pushing equilibrium toward the products. CO2 has previously been shown to increase photosynthetic activity in tomato plants [Lanoue: 2018]. 
+	To observe photosynthetic activity, we introduced an alternative electron acceptor than NADP+, DCIP, a blue compound. As DCIP is reduced, it becomes colorless. Thus, we can measure electron reduction via the electron transport complex with this reaction as DCIP is reduced.
+
+Materials and Methods:
+We chilled a mortar and pestle, a medium-sized beaker (150-250 ml size), and three 50 mL centrifuge tubes in crushed ice. We removed the large central veins from four medium-sized spinach leaves as waste. We rinsed the remaining leaf pieces with tap water and then blotted dry with clean paper towels. We wiped the mortar and pestle dry and added the spinach leaves. After adding 10 mL of cold grinding buffer, we ground the spinach. We then added an additional 10 mL of grinding buffer and strained the entire volume of green slurry through three layers of cheesecloth into the chilled beaker. We transferred the resulting green liquid to a chilled 50 mL centrifuge tube and spun it at 200 x G (200 times the force of gravity; 1200 rpm in the RT-7 centrifuge) for three minutes at 4oC. The supernatant was poured out of the tube marked “A” into the second chilled 50 ml centrifuge tube marked “B.” Then we centrifuged the 50 mL tube containing chloroplast suspension (Tube “B”) at 1,000 x G (2800 rpm in the RT-7 centrifuge) for ten minutes at 4oC. We poured the supernatant into a new 50 mL tube marked “C,” carefully so as not to disturb the pellet in tube B. We placed tube “B” on ice and then added 20 mL of grinding buffer to the pellet and suspend it by stirring gently with a transfer pipet. We then divided the resuspended pellet into two 10 mL samples. One of the samples was combined with 10 mL of distilled water and the other with 10 mL of seltzer water. Both samples were recentrifuged at 2800 rpm for ten minutes. The supernatants of the two samples were poured off. The pellets were then each resuspended with 10 mL each of grinding buffer.
+Next, we labeled eight large test tubes as shown 0 through 7. We prepared the spectrophotometer by setting it to 600 nm. Tubes 0 and 1 were prepared as blanks, each with 4 mL of distilled water and 1 mL of reaction buffer, 100 mM phosphate at pH 6.5. Tubes 2 through 7 were prepared with 6 mL of distilled water, 2 mL of 130 mM DCIP, and 2 mL of reaction buffer. We began the assay by adding 100 μl of the enriched chloroplasts with seltzer water to the first blank tube (tube 0), and to Tubes #2-4 and mixing each tube immediately. The second blank (tube 1) and Tubes #5-7 were prepared with the enriched chloroplasts with distilled water. Then we transferred the mixtures to spectrophotometer cuvettes. We blanked the spectrophotometer using Tube 0. Then we took the absorbance of all the samples with chloroplasts exposed to seltzer water. The process was then completed using the blank and samples with chloroplasts exposed to distilled water.  After 10 minutes, we repeated this process. After 10 more minutes (20 minutes total) the absorbances were taken again using the same procedure. We repeated the previous process for a final time after another 10 minutes (30 minutes total). The raw data were then compared using a one-tailed independent t-test, alpha = .05, to determine if there was statistically significant difference in photosynthetic activity between the chloroplasts treated with carbonated water versus the chloroplasts treated with distilled water. We assumed equal variance because we had equal sample sizes.
+
+Results:
+The mean percent change at 10 minutes for distilled water chloroplasts was 16.39, SD = 0.11; at 20 minutes, was 31.44, SD = 0.17; and at 30 minutes was 45.15, SD = 0.22. At 10 minutes, the mean percent change for seltzer water chloroplasts was 11.53, SD = 0.05; at 20 was 22.77, SD = 0.05; and at 30 minutes was 27.95, SD = 0.06.  Carbonated water was not shown to significantly affect the percent change in absorbance at 600 nm (t = 1.065, df = 4, p = 0.17).  However, the percent change in absorbance for chloroplasts exposed to carbonated water was always observed to be lower than the percent change in absorbance for chloroplasts exposed to distilled water, as shown in Figure 1.
+
+Discussion:
+As seen in Figure 1, our hypothesis was not supported. We speculated that the increase in CO2 would increase photosynthetic activity, but this was not observed during the experiment. Instead, the carbonated water did not significantly alter absorbance at 600 nm, indicating similar levels of photosynthetic activity as observed from electron reduction of DCIP. The decrease seen was not shown to be statistically significant compared to the percent change in absorbance of chloroplasts exposed to distilled water, as the results of the independent samples t-test indicated, t = 1.065, df = 4, p = .17. This is in contrast with reported literature. For example, a study of phytoplankton found increased CO2 to increase photosynthetic activity by between 38 and 39% [Huang: 2018]. This contrast may have occurred because the experiment took place in isolated chloroplasts rather than the entire cell, where other processes involved in photosynthesis take place and can affect the reaction equilibrium. Studies of the effects of CO2 on photosynthetic activity are increasingly important as CO2 levels in the atmosphere rise due to human activity. This could have significant effects on photosynthetic rates in nature.
+
+Literature Cited:
+1.	Lanoue, J, Leonardos ED, Khosla S, Hao X, Grodzinski B. 2018. Effect of elevated CO2 and spectral quality on whole plant gas exchange patterns in tomatoes. PLoS One 13: 1-22.
+2.	Johnson AD. Photosynthesis. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016).
+3.	Huang Y, Liu X, Laws EA, Chen B, Li Y, Xie Y, Wu Y, Gao K, Huang B. 2018. Effects of increasing atmospheric CO2 on the marine phytoplankton and bacterial metabolism during a bloom: a coastal mesocosm study. Science of the Total Environment 633: 618-629.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-11-04+at+8.11.42+PM.png&Size=40621&Type=image%2Fpng&F=F_2tLJNp3WwDpr1gZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The effect of carbonated water on percent change in absorbance at 600 nm compared to distilled. The mean percent change at 10 minutes for distilled water chloroplasts was 16.39, SD = 0.11; at 20 minutes, was 31.44, SD = 0.17; and at 30 minutes was 45.15, SD = 0.22. At 10 minutes, the mean percent change for seltzer water chloroplasts was 11.53, SD = 0.05; at 20 was 22.77, SD = 0.05; and at 30 minutes was 27.95, SD = 0.06.*************************************************************************
+
+
+

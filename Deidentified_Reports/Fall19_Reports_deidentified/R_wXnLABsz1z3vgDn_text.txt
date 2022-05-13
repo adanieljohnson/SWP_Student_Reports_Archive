@@ -1,0 +1,78 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a submission.
+Date submitted: 2019-10-29 18:02:27
+Author of this lab report is: Std_zWIMYkKt
+ID: R_wXnLABsz1z3vgDn
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: High temperatures and their effects on the electron transfer rates of Photosystem II in spinach leaf chloroplasts
+
+Abstract:
+In order to better understand the effect of the changing climate and demand on crops, the effect temperature has on the performance of Photosystem II (PS II) in plants was studied using a Hill reaction alternate electron acceptor, DCPIP. It was asked whether increasing the temperature at which chloroplasts were kept would affect the performance of PS II. Data collected gave no indication as to an answer to our research question, as no change or statistical significance was observed throughout the study. Further refinement of our research methods is suggested and possible reasons for the unchanging data are proposed, such as the possibility of failure to isolate chloroplasts and intensity of lighting. 
+
+
+Introduction:
+How well plants perform under different conditions is a subject that is of paramount importance to today's world. Not only do we live in an era that sees more tumultuous seasons as well as rising temperatures that threaten crop yields [Zhao, 2017], but the rapidly increasing world population demands an ever-rising amount of crops for food [Godfray, 2015]. Farmers have a vested interest in understanding what a plants optimum growing conditions are, and temperature is a large part of this. Photosynthesis is a metabolic process that allows plants to successfully transfer energy received from absorbed light photons into carbon carbon bonds, which can later be broken up to create ATP, the energy currency  of the cell. Research has shown that this process involves two large protein complexes embedded in the thylakoid membrane. These protein complexes, Photosystem I (PS I) and Photosystem II (PS II) are tasked with receiving photons and transferring them down an electron transport chain to create carbon carbon bonds. PS II specifically, passes these electrons to water in the first step of this transport chain. This then,  affords us a good  avenue to analyze the activity of PS II. It is worth noting here that the overall output of the chloroplasts is not being measured, but rather the performance of the first link of the process, PS II. Experiments have shown that PS II will pass these electrons to a different, electron accepting molecule rather than  water when another molecule is present [Dean, 1996]. 2,6-Dichlorophenolindophenol (DCPIP) is a great molecule for this. Its structure features a nitrogen in the middle that can be easily reduced by PS II (Figure 1), thus changing the conjugation of its bonds and reducing its interaction with visual light [Myers, 1990]. By detecting the decrease in absorbance, we can attribute this to Photosystem function. In using DCPIP in conjunction with in vitro methods for isolating chloroplasts, we are able to measure a multitude of different factors that may affect chloroplasts in the environment. Here, we looked to see what the effects of high temperatures would be on chloroplasts as compared to room temperature, and it was asked if the temperature would have an effect on the overall performance of the PS II complexes of the chloroplasts. It was hypothesized that a temperature of 45 ºC would inhibit PSII from adequately performing its job as compared to room  temperature.  
+
+
+Materials and Methods:
+The first part of this experiment involved the isolation of chloroplasts from whole spinach leaves for analysis. We took four spinach leaves from which the central veins had been removed and ground them in a chilled mortar and pestle using 10 ml of grinding buffer. After a paste was formed, an additional 10 mL of the buffer was added and we strained the mixture into a beaker so as to remove any large debris. This liquid was transferred into a centrifuge tube and spun at 200 x  G for 3minutes at 4 ºC. The supernatant was again centrifuged in a second tube, this time at 1000 x G for 10 minutes at 4 ºC. The supernatant from this second tube was removed and the 20 mL of grinding buffer was poured in with the pellet at the bottom of the second centrifuge two to resuspend the pellet. This solution was used as our chloroplast source. The second part of this experiment involved the creation of 7 separate test tubes, labeled 0-6, in order to test our hypothesis. These were 0 - blank, 1-3 - hot water (our experimental group), and 4-6 - room temperature (what would serve as our control). The contents of each test tube are out-lined in (table 1). The solutions were transferred to cuvettes. Both groups had their absorbances measured and a timer was started for ten minutes. The hot water group was promptly put in a hot water bath kept at 45 ºC and the room temperature solutions were kept on a tabletop, both with a lamp shining directly onto them. Every ten minutes for 30 minutes, the spectrophotometer was zeroed using the blank, and absorbances were taken. At the end of the experiment, a two-sample t-test was used to compare the average absorbance values as well as the average %change at each of the 3 time intervals.  
+
+
+Results:
+This experiment resulted in some very similar and reliable replicates. The average standard deviation for the three measurements at each interval was less than .05 for the hot water group and 0.01 for the control, indicating that all three samples in each of the experimental groups performed very similarly. Also of note is that the standard deviation of every absorbance value taken for the replicates of each group, that is, the three absorbances taken at t=0, 10, 20...etc, was also very small, indicating that all of the absorbances were similar across the board and that there was very little change. This is seen in  Figure 2. Both the Hot water group and the room temperature groups have a nearly flat line connecting the data points, showing that the percent change was minuscule. These two lines also overlap, showing that the data points for the two groups were rather similar. A t-test revealed statistical difference for the %change in absorbance for the t = 1-10 intervale (p = 0.01), but not for the other two intervals 0-20 or 0-30  (p = 0.29 and 0.06 respectively). T-test analysis of the absorbance values showed no statistically significant differences among the groups at any of the time intervals (p = 0.354, 0.5,0.377)  All of the p-values are summarized in table 2. 
+
+
+Discussion:
+Unfortunately, little  useful information can be drawn  from these results. Because nothing changed from  start to finish, we were effectively unable to determine any effect that temperature might have had on the PS II’s in the chloroplasts that we isolated. Furthermore, because the % change throughout the experiment were almost 0, it is not simply that the two groups progressed at the same rate, but rather that neither progressed at all. We know from Yamasaki et al. that the temperature does in fact affect the thylakoid membranes performance during  photosynthesis. In fact  their research suggests that had we obtained useful data, we could potentially have supported our hypothesis. In their research, they found that the optimum temperature for leaves was at 25 ºC, and that performance decreased as the temperature was raised to 35 degrees. Many explanations exist for this experiments lack of change. The first is that we either failed to isolate chloroplasts from the strained spinach slurry, however this seems unlikely. In previous  experiments we successfully isolated chloroplasts and even visually confirmed their presence through the use of microscopy. As such it is very likely that this experiments suspended pellet contained chloroplasts perfectly capable of reducing DCPIP. A similar explanation positing that chloroplasts were destroyed in the process would be met with the same end, which is that the procedure has worked successfully in the past. It is also possible that the light from the lamps used was simply not strong enough to excite the electrons in PS II to reduce DCPIP. DCPIP is known to have been active as it was blue upon addition,  and other experiments using the same mixture saw positive results. Because of these reasons or any potential others, we failed to support our hypothesis and reject the null. It would be recommended that this experiment be redone using more reliable methods of isolation and measurement. Furthermore, attention should be paid to the role of water during the incubation periods under water. Because light travels differently through water than it does air, it may affect PS II differently. As such, it could be advisable that the room temperature samples be also kept in a water bath, with  20 ºC temperature. In the end, this experiment did not reveal anything new, but did set a need for it to be retested. 
+
+
+Literature Cited:
+Godfray, H. Charles J. “The Debate over Sustainable Intensification.” Food Security, vol. 7, no. 2, 2015, pp. 199–208., doi:10.1007/s12571-015-0424-2.
+
+“The Hill Reaction of Photosynthesis in Isolated Chloroplasts A Quantitative Approach.” The American Biology Teacher, vol. 58, no. 5, 1996, pp. 303–306., doi:10.2307/4450156.
+
+“Use of DCPIP in a Colorimetric Method to Investigate Electron Transport in Crude Heart Mitochondrial Extracts.” Biochemical Education, vol. 18, no. 4, 1990, p. 220., doi:10.1016/0307-4412(90)90169-o.
+
+Yamasaki, Takenobu, et al. “Temperature Acclimation of Photosynthesis and Related Changes in Photosystem II Electron Transport in Winter Wheat.” Plant Physiology, vol. 128, no. 3, 2002, pp. 1087–1097., doi:10.1104/pp.010919.
+
+Zhao, Chuang, et al. “Temperature Increase Reduces Global Yields of Major Crops in Four Independent Estimates.” Proceedings of the National Academy of Sciences, vol. 114, no. 35, 2017, pp. 9326–9331., doi:10.1073/pnas.1701762114.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+18.00.00.JPG&Size=21042&Type=image%2Fjpeg&F=F_9pdTnz2ulaT05IR
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+17.59.55.JPG&Size=61575&Type=image%2Fjpeg&F=F_3FRTLMf92IrU1g8
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+18.00.07.JPG&Size=55469&Type=image%2Fjpeg&F=F_27QEByVB32UxwNH
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-10-29+at+18.00.15.JPG&Size=72484&Type=image%2Fjpeg&F=F_sicDGb24IJ8FrKV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. A scheme of the protonation and reduction of DCPIP, changing its conjugation and thus affecting its photoactivity 
+
+Table 1. Contents of test tubes during phase two of the experiment
+
+Table 2. P values for the averages of the experimental (hot water) and control group (room temperature). A Two sample t-test was used and both absorbance averages and % change averages were compared at each time interval. 
+
+Figure 2. Absorbances measured at each 10-minute interval for both the replicates kept in hot water and those kept at room temperature. Standard error bars are shown, but because the standard deviation was so low for the data, the error bars are not visible. *************************************************************************
+
+
+

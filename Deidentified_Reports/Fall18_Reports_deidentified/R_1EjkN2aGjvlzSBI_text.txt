@@ -1,0 +1,89 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-06 09:45:42
+Author of this lab report is: Std_jWqekZqo
+ID: R_1EjkN2aGjvlzSBI
+Course number: BIO102L
+TA: TA_hVirqCmk
+*************************************************************************
+Title: The Difference of Photosynthesis Between Kale and Spinach 
+
+Abstract:
+Photosynthesis is one of the processes in which organisms use the energy captured from the sun.  The effects of added light vs no added light and it’s effects on the change in absorbance in both spinach and kale chloroplasts will be observed through the use of DCIP as the electron acceptor in the Hill Reaction. It was hypothesized that the Spinach and Kale plants would have differing rates of absorption within the respective chloroplasts. It was also hypothesized that the chloroplasts of Spinach and Kale in the additional light with have greater changes in absorbance than their respective controls. The hypotheses were supported by the data. The results showed a clear trend as the rate of change of absorbance was much higher in the kale and spinach in light compared to their respective controls. The Spinach control had an average percent change of 28% while the spinach in light had an average of 71%. The greater rate of absorption seen in the added light plants emphasized the influence of light intensity of electron movement. The greater rate of absorption of the Spinach plant compared to the Kale can be attributed to the spinach being predominately a shade plant while Kale is a sun plant and their respective characteristics. 
+
+Introduction:
+In order to live, organisms need to extract energy to use in different cellular processes. Photosynthesis is one of the processes in which organisms use the energy captured from the sun. The energy can be stored as covalent bonds, redox potential, and an electrical or chemical gradient across a bilayer. The energy can further be use in many metabolic processes. Photosynthesis produces glucose, water, and molecular oxygen. It’s reaction is shown:                                                                                                   
+                                       6CO_(2 )+6H_2 O+light energy→ C_6 H_12 O_6+6O_2  
+ Photosynthesis occurs in 3 steps, 2 light dependent steps that use light to create a proton gradient and form NADPH, and a final light independent step that creates the 6 carbon glucose molecule. More specifically, in the light dependent reactions, light is used to excite electrons on chloroplasts in order to cleave water and create a proton gradient (II) and produce NADPH (I). When the electrons are excited through photon absorption, a proton gradient is created through negative and positive charges along the outer membrane of the chloroplasts. [Youvan and Barry  1987] The electron transfer process is called the Hill Reaction. This electron transport chain is difficult to observe when NADP+ is the electron acceptor. Previous experiments discovered that the electron chains will pass electrons onto other acceptors. [Sakai 2018] In order to follow the reaction in the lab, an alternate acceptor, DCIP, can be used as a replacement for NADP+. The reaction is listed below:
+2H_2 O+2DCIP→2DCIPH_2+ O_2
+DCIP is used in order to observe this reaction and determine what environmental conditions affect the transfer of electrons and overall rate of photosynthesis. The DCIP allows for the electron transfer to be viewed in several ways. Originally, DCIP is dark blue color, but when DCIP is reduced it becomes colorless. This is due to the shift from the original aromatic ring structure to a reduced DCIP structure containing conjugated carbon-carbon double bonds. Oxidized DCIP maximally absorbs light at 600nm, while reduced DCIP would show a decrease in light absorption at 600nm. As more electrons are being transferred, the more DCIP is being reduced, causing the DCIP absorbance to decrease. If few electrons are being transferred, the fewer DCIP will be reduced, and the absorbance would not see as dramatic of a decline in number.
+ The organisms of study are Kale, Brassica oleracea var. sabellic, and Spinach, spinicia oleracea. In this lab, the effects of added light vs no added light and it’s effects on the change in absorbance in both spinach and kale chloroplasts will be observed. Based on previous research, Kale was found to have large amounts of B-cartenoid (growth hormone) concentrations in summer and high levels of lutein in all seasons [De-Azevedo and Rodriguez-Amaya 2004]. While previous studies on spinach show that spinach has a high density of chloroplasts as it has a large amount of grana formation, but does not contain the same growth hormones as Kale [ Anderson, Goodchild, and Boardman, 2003]. A difference between plant types and rates of absorption is also expected due to variance in leaf species physical properties but specific predictions are unable to be made. Based on previously conducted studies, the chloroplasts in added light are predicted to have greater rates of photosynthesis [Arnon 1954]. Therefore, it is hypothesized that the chloroplasts in the additional light with have greater changes in absorbance than their respective controls as the rate of photosynthesis would be higher causing their absorbances to drop a greater proportions. 
+
+
+
+Materials and Methods:
+To begin, the large veins from 3 small spinach leaves and one large kale leaf were removed. The leaves were then washed and dried. The next processes were performed on the kale and spinach leaves separately. The leaves were added to the cold mortar and pestle along with 10ml of grinding buffer and ground until it was a paste. Another 10 ml of grinding buffer was added and mixed in before being strained by a 3 layered cheese cloth. Then, 200ul of the liquid is stored on ice and labeled sample of A. The rest of the liquid is poured into a centrifuge tube and labeled Sample A. The centrifuge was then balanced and spun at 200x G for 3min at 4 degrees Celsius with Sample A. Sample A was then poured into centrifuge B, avoiding transferring any debris that had previously settled. Then, 200ul of B was placed into a microtube and labeled Sample B. B was then centrifuged at 1,000 x G for 10 minutes at 4 degrees Celsius. After being centrifuged, B was poured into a 05 mL tube labeled C, once again avoiding the pellets. Then B was put on ice. Following that, 20 mL of grinding buffer was added to the pellet and was stirred gently. Then, 13 test tubes were labeled and prepared. Test tubes 1-3 were labeled Kale control, 4-6 Kale were labeled Kale Light, 7-9 were labeled Spinach Control, and 10-12 were labeled Spinach Light. Tubes 1-12 consisted of 6mL water, 2mL 130mM DCIP, and 2mL reaction buffer (100mM phosphate, pH 6.5), while Tube 13, labeled blank, consisted of 8mL water and 2mL reaction buffer.
+100 ul of enriched chloroplasts previously prepared were added to the tubes above, with 1-6 being kale and 7-12 being spinach. The solutions were then mixed and transferred to cuvettes. After transferring into the cuvettes, the spectrometer was blanked with the blank, or test tube 0, and the absorbances of the 12 cuvettes were taken and recorded at 600nm. Following the recordings, test tubes 1-3  and 7-9 were placed in a general light setting (just left on table with natural rooms light), while 4-6 and 10-12 were placed under a lamp for 10 minutes. After the 10 minutes, the absorbances were again taken and recorded. The tubes were once again placed in their respective light environments for 10 minutes until recorded again. This was repeated for a total of 30 minutes. In order to analyze the data, two sample t-tests were used.
+
+
+
+Results:
+Both the kale and spinach in light showed larger percent change in absorbance than their respective controls. The Kale control had an average of 22% change, while the kale in light had an average 42% change in absorbance with a P value of 0.0084. Spinach control had an average percent change of 28% while the spinach in light had an average of 71% with a P value of 0.0232. The confidence interval was above 95% for both of these tests, and therefore statistically significant. It was also observable that the percent change in absorbance in spinach was 28% larger than the change of absorbance in kale (figure 3). 
+
+
+
+Discussion:
+Photosynthesis is a vital and important metabolic process seen in both Kale and Spinach plants. An important step within photosynthesis is the excitement (caused by light photons) and movement of electrons within the electron transfer chain. The role and influence of light intensity on the movement of electrons in photosynthesis was studied in this lab through the use of an observable electron acceptor, DCIP. The difference in movement of electrons between species was also determined through the use of spinach and kale.
+	Originally, it was hypothesized that the absorbances of the kale and spinach in added light would be lower than their respective controls and their percent change of absorbance would be greater than their respective controls. It was also hypothesized that there would be a difference in absorbance rates between kale and spinach. Both of the hypotheses were proven to be correct.  
+	The percent change of absorbance in the Kale control was an average of 22% change, while the kale in light had an average 42% change in absorbance (Figure 2). Similarly, the Spinach control had an average percent change of 28% while the spinach in light had an average of 71% (Figure 4). This shows that in the light samples for both, as the time in light went on the absorbance got smaller and the percent change get larger. This allows for the conclusion that DCIP was being reduced at a greater rate in the added light than in the control samples. Further more, this shows electrons were being excited at a greater rate in the chloroplasts with the additional light, further supporting the previous studies that concluded that chloroplast in additional light show greater electron excitment and greater rates of photosynthesis [Arnon 1954].
+	There was indeed a large difference between thee percent change of absorbance between kale and spinach (Figure 3). The spinach in light has an average percent change of absorbance of 71%, while the average percent change of kale was 34%. This allows for the conclusion that the Hill reaction was taking place at a greater rate, and DCIP was being reduced at greater rates in the spinach plant compared to the kale leaves. Based on a previous study, shade plants have greater densities of chlorophyll and therefore are more efficient at photosynthesis. [Boardman, “Comparative Photosynthesis of Sun and Shade Plants” ]) Based on a previously discussed study, it was determined that Kale had greater carotenoid concentrations in summer, leading to the belief that Kale is a seasonally sun based plant. [De-Azevedo and Rodriguez-Amaya 2004 ] Whereas other past studies concluded that spinach contained high densities of chlorophyll, a characteristic indicative to shade plants. [Anderson, Goodchild, and Boardman, 2003] The information gathered from previous studies explained the greater rate of absorption in spinach compared to kale. The higher, more efficient rate of photosynthesis that characterizes shade plants like spinach allows for a larger rate of absorption compared to its sun dominated counterpart, spinach. 
+A way this experiment could be improved would be to do more than 2 samples in order to see a more constant trend. As mention in a previous study, fluctuations of rates of photosynthesis and light intensity could be attributed to variance among the amount of chloroplasts extracted in each sample [Peeters 1978].
+
+
+
+Literature Cited:
+Anderson, Jan M. , Goodchild D.J., and Boardman N.K. ,“Composition of the photosystems and chloroplast structure in extreme shade plants,” Biochimica et Biophysica Acta (BBA) - Bioenergetics,Volume 325, Issue 3, 1973
+ARNON, DANIEL I., et al. “Photosynthesis by Isolated Chloroplasts.” Nature, vol. 174, Aug. 1954, p. 394.
+Boardman, N. K. “Comparative Photosynthesis of Sun and Shade Plants.” Annual Review of Plant Physiology, vol. 28, no. 1, June 1977, pp. 355–77, doi:10.1146/annurev.pp.28.060177.002035.
+de Azevedo, C.H. and Rodriguez‐Amaya, D. B. 2005, “Carotenoid Composition of Kale as Influenced by Maturity, Season and Minimal Processing.” Journal of the Science of Food and Agriculture. 85(4): 591-597
+Peeters, J.C.H. & Eilers, P. Hydrobiological Bulletin (1978) 12: 134. https://doi.org/10.1007/BF02260714
+Youvan, Douglas C., and Barry L. Marrs. “Molecular Mechanisms of Photosynthesis.” Scientific American, vol. 256, no. 6, 1987, pp. 42–49., www.jstor.org/stable/24979401.
+
+
+
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+7.22.52+PM.png&Size=71933&Type=image%2Fpng&F=F_9tA2XuLlRix09Ut
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+7.03.24+PM.png&Size=113734&Type=image%2Fpng&F=F_24iS3zkpAdwAxKS
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+7.25.53+PM.png&Size=66875&Type=image%2Fpng&F=F_2ONNxZ7HgthIeCm
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-21+at+7.06.22+PM.png&Size=70338&Type=image%2Fpng&F=F_u1ys2DNC1YtSrp7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure One: The percent change of absorbance of spinach control compared to the percent change of kale control.
+Figure Two : The percent change of absorbance of Kale in light compared to the percent change of kale control.
+Figure three: The percent change of absorbance of kale in light compared to the percent change of spinach in light.
+Figure Four: The percent change of absorbance of spinach control compared to the percent change of spinach in light.*************************************************************************
+
+
+

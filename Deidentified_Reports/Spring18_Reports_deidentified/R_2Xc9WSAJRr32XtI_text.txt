@@ -1,0 +1,85 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-03-21 14:09:36
+Author of this lab report is: Std_5jZbiS2l
+ID: R_2Xc9WSAJRr32XtI
+Course number: BIO103L
+TA: TA_fMNrLFgi
+*************************************************************************
+Title: Effect of Soil Copper Concentration on the Root to Shoot Ratio of Mung Beans (Vigna radiata)
+
+Abstract:
+Allocation is how plants change phenotype to account for resource availability. This experiment investigates how mung beans (Vigna radiata) allocate in environments with different copper concentrations. It was hypothesized that the copper treated mung beans would have decreased allocation to the root system compared to the control. This decrease would be due to easier access to necessary nutrients. Statistical analysis revealed that the root to shoot ratios of the copper treated and control mung beans were not significantly different. This could be because the concentration of copper in the copper treated group was too low. Future studies could examine how different concentrations of soil copper could affect root to shoot ratio.
+
+Introduction:
+Plants can change phenotype based on the availability of sunlight, water, nutrients, competition, and other factors. These changes in phenotype are meant to increase a plant’s fitness in the environment. For example, a plant with exposure to shade and sun will grow more leaves on the sunny side than the shady side. This is called resource allocation. Allocation is often measured in ratios, as the same amount of energy and resources are being used, simply in different locations. Therefore, in the previous example, we could calculate the ratio of sunny-side leaves to shady-side leaves to measure how a plant is allocating its resources.
+	This experiment aimed to measure the effect of copper availability on mung beans (Vigna radiata) resource allocation. Prior research shows increased nutrient levels in the soil to drive more nutrient allocation to roots [Müllera, 2000]. However, this research also indicates increases in stem and leaf biomass, although less profound [Müllera, 2000]. 
+	Specifically, copper is involved in the activation of chlorophyll cleaving enzymes, and therefore a necessary micronutrient. Copper has also been shown to be toxic in amounts too far above what is optimal for the plant by sequestering in the roots and retarding root growth [Cook, 1998], [O’Sullivan, 1997]. It is hypothesized that the root to shoot (R:S) ratio will increase because the mung beans will allocate more resources to the roots due to the increased copper nutrient content. Mung beans (Vigna radiata) were used because they have complex root systems and grow quickly.
+
+
+Materials and Methods:
+Six pots were filled with limited-nutrient soil and saturated with water. Fifty mung bean seeds were planted 0.5 inches under the surface. These plants were then placed in a sunny greenhouse, and watered daily for 14 days. Three of the plants were labeled “copper treatment” and were given 50ml of .25µM copper solution daily in addition to the water. Data was collected by measuring the lengths and masses of the roots and shoots. These were used to calculate a root to shoot ratio. Two-tailed t-tests were run on the data sets.
+
+
+Results:
+The “root mass to shoot mass” and the “root length to shoot length” ratios were calculated for each plant. As shown in Figure 1.1, when the mass ratios were compared, no visible trend was observed. The average mass ratio of the control group was 1.09. The average mass ratio of the copper treated group was 1.53. A two-tailed t-test was run comparing the mass ratio distributions of the control and copper groups, and the p-value was 0.24
+
+As seen in Figure the average length R:S ratio for the cooper treated mung beans was 1.33. The average length R:S ratio for the untreated mung beans was 1.10. A two-tailed t-test was run comparing the length ratio distributions of the control and copper groups, and the p-value was 0.51.
+
+The average total mass of the untreated mung beans was 4.1g. The average total mass of the copper treated mung beans was 2.99g. These were compared in figure 3.1. A two-tailed t-test resulted in a p-value of .11. The total length of the copper treated mung beans was 30.26cm. The total length of the untreated mung beans was 28cm. These were compared in figure 3.2. A one tailed t-test resulted in a p-value of .45.
+
+It was also noted that the cooper treated mung beans shoot’s seemed to be less stiff than the stems of their untreated counterparts. Additionally, the untreated beans had purple coloring near the base of their roots, however this coloring was lightened or disappeared completely in the copper treated mung beans.
+
+
+Discussion:
+This data does not support the hypothesis that the copper decreased the root to shoot ratio of the mung beans. The p-values of the two-tailed t-tests comparing the R:S ratios of the treated and control groups were both greater than .05, and therefore not statistically significant. This could be a result of several scenarios. 
+The first scenario is that, as seen in Müllera, 2000, the nutrients increased shoot growth as well as root growth because of increased photosynthesis due to copper’s role in photosynthesis. If both the roots and shoots increased, the R:S ratio would not necessarily differ from the control. The average total length of the control mung beans was 28cm, and the average total length of the copper treated group was 30cm. A t-test of the lengths of the plants showed the copper treated mung beans to not be statistically significantly longer than the control mung beans. This seems to indicate that the copper did not increase total growth in the mung beans, thus rejecting this theory. 
+In fact, the total masses indicate that the copper decreased total growth. The average mass of the control mung beans was 4.11g, while the average mass of the copper treated mung beans was 2.99g. A t-test between these distributions had a p-value of .11, which is much closer to being statistically significant. This decrease of total growth could be due to the third scenario. As outlined in Müllera, 2000, the copper could have slowed root growth, but not enough to be statistically significant. Copper slows root growth in the first stages of copper poisoning, as copper builds up in the roots.
+The third scenario is that the copper concentration could simply have no effect on R:S ratio. Although copper is a necessary mineral, it is only needed in minute quantities. Because of this, the pressure for the control plant to allocate more resources to its root system may not have been strong enough to cause a significant change.
+The results of this experiment were inconclusive, and do not support the hypothesis that the R:S ratio would increase. It could be possible that too little copper was used, resulting in no or little effect on R:S ratio. It is also possible that since copper is only needed in minute quantities the additional copper did not have an effect. Further research should analyze the effect of different concentrations of soil copper to find a trend.
+
+
+Literature Cited:
+Cook, C., Kostidou, A., Vardaka, E. et al. Photosynthetica (1998) 34: 179. https://doi.org/10.1023/A:1006832321946
+
+Müller, Ivo, Bernhard Schmid, and Jacob Weiner. 2000. “The Effect of Nutrient Availability on Biomass Allocation Patterns in 27 Species of Herbaceous Plants.” Perspectives in Plant Ecology, Evolution and Systematics 3 (2): 115–27. 
+https://doi.org/10.1078/1433-8319-00007.
+
+O’Sullivan, J., Loader, L., Asher, C., Blamey, P. 1997b. Troubleshooting nutritional problems in a new industry: sweet potato in North Queensland. Proceedings of the First Australian New Crops Conference, Gatton, July 1996. Rural Industries Research and Development Corporation, Australia.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-21+at+2.06.23+PM.png&Size=58937&Type=image%2Fpng&F=F_2Yc95m4VxFtUiA7
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-21+at+2.07.13+PM.png&Size=58792&Type=image%2Fpng&F=F_2CqVgXqRudrcRFb
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-21+at+2.07.39+PM.png&Size=27972&Type=image%2Fpng&F=F_3O5JzswgULKlU0F
+
+Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-21+at+2.08.09+PM.png&Size=32483&Type=image%2Fpng&F=F_116EzreDABturIk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Mass R:S ratios of copper treated and control mung beans
+
+Figure 2: Length R:S ratios of copper treated and control mung beans
+
+Figure 3.1: Total growth of mung beans by mass
+
+Figure 3.2: Total growth of mung beans by length
+
+*************************************************************************

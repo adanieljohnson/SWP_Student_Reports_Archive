@@ -1,0 +1,72 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-10-02 20:49:03
+Author of this lab report is: Std_n2ixBlbU
+ID: R_3j3sdgSuuDb0hzs
+Course number: BIO103L
+TA: TA_bc8EVX09
+*************************************************************************
+Title: Density Affected Resource Allocation in Field Peas
+
+Abstract:
+Plants have a unique ability to adjust their resource allocation depending on environmental pressures. To study this, we completed an experiment to determine if field peas would alter their resource allocation, and thus have a higher root:shoot ratio, if they were grown in a high density condition or a low density condition. We predicted that the plants grown in higher population density conditions would have a higher root:shoot ratio in order to combat limited soil space and soil resources. We planted four high density plots and four low density plots of field peas and measured their root:shoot ratios based on weight at the end of a two-week germination period. In the end, we determined that the field peas grown in high density conditions tended to have higher root:shoot ratios. This is likely because plants grown close to other plants have to fight for space and soil nutrients, so their roots need more resources to grow. This could be very useful in agriculture as our population continues to rapidly increase. 
+ 
+
+
+Introduction:
+In order to maximize their reproductive and survival fitness, some plants have phenotypic plasticity that allows them to grow allometrically, meaning they can alter their allocation of resources to promote different rates of growth so they can adapt to environmental pressures. Such pressures include water, sunlight, carbon dioxide, space, and soil nutrients such as nitrogen. These are also called limiting factors. Plants can choose to allocate these resources to either their root system, which is below ground, or their shoot system, which is above ground. Plants will allocate more resources to new growth wherever the limiting factor in the environment is. For example, in a dry desert, plants will allocate more resources to their root systems to reach below-ground water sources. In this experiment, we were dealing with the limiting factors of space and soil nutrients, which are taken in by the root system of plants. Specifically, we were attempting to determine if population density will increase the root:shoot ratio in field peas. Field peas are angiosperms that have edible qualities; they are descendants of one of the first crops to be grown in the Fertile Crescent [Taiz: 2013]. They are good organisms of study for our experiment because they are fast growing, have phenotypic plasticity and they are used in agriculture. This experimental question is important because as the world’s population continues to grow exponentially,, we need to produce more food to feed everyone. In fact, food production has taken the driver’s seat when it comes to population growth recently [Taiz: 2013]. To combat pressure for more food, it would seem logical to plant seeds closer together to maximize crop production, but for plants bearing their fruits above ground, this may negatively affect their shoot growth because space and soil nutrients would become limiting factors. We predict that the peas grown in high density plots will have higher root:shoot ratios to help fight for soil space and nutrients as these will be the limiting factors. 
+
+
+
+Materials and Methods:
+We filled eight small containers with vermiculite and set them each in a large bin of water until the soil was damp. We then placed all eight containers into a large plot. Using colored tape, we labeled the front containers ‘High Density’ and the back four containers ‘Low Density’.  Using our pinkie fingers, we poked ten shallow holes (two times the depth of field pea seeds) in the first four containers and five shallow holes in the back four. The holes were proportionally spaced. We placed two field peas in each hole and gently covered the holes with vermiculite. Then, we evenly spread 5ml of Miracle Grow on each container. We placed the trays in a greenhouse in Winston Hall where they received even, natural sunlight. We watered the plot for two weeks at approximately 4pm daily. At the end of the two week period, we placed the contents of each of the eight containers in a bucket of water (separately) and gently removed five sproutlings from each, being sure to keep the sproutlings from each container together on a labeled paper between tests. We used paper towels to gently dry each plant and then weighed them in their groups of five based on which container they came out of. Then, we cut each field pea plant at the root:shoot junction and weighed the seperate groups of five roots and the groups of five shoots respectively. We recorded all of this data in an excel spreadsheet. Finally, we created bar graphs to show the root:shoot ratio difference between plants grown in high density conditions versus plants grown in low density conditions. To interpret the data we used a two-sample t test and interpreted our p-value using a critical value of .05. 
+
+
+
+Results:
+As seen in Figure 1, the plants grown in high density conditions had higher root:shoot ratios with an average of 1.6 grams compared to 1.3 grams. When removed from the soil, the plants grown in high density conditions were easier to remove due to the sturdier-looking root systems. Figure 2 illustrates that after completing a two sample t-test with six degrees of freedom and a t-value of 2.45, the p value of .025 indicates a significant difference between the two groups. 
+
+
+
+Discussion:
+ Since Figure 2 shows a p value of .025, which is less than the alpha of .05, we have support for our hypothesis that field peas grown in higher density plots will have a higher root:shoot ratio than field peas grown in low density plots. If further testing is done, this data could convince farmers to spread their crops in order to allow for maximum shoot growth, which is more profitable in plants that grow their fruits/seeds above ground. Interestingly, when a similar study was completed in a species of trees, it was concluded that shoot growth was much more important in seedling survival than root growth because overall, light competition is more prevalent [Ogawa:2004]. In an agricultural field or in a plot in a greenhouse, however, there are no taller plants to block sunlight which could explain why our data is different. In the future, we could study if altruism prevented our field peas from growing even more aggressive root systems in high density situations. Similarly, while we often associate larger plants with more fit ones, in an effort to increase vitality, some plants will decrease their size in a dense ecosystem in order to promote survival [Meekins: 2002]. This is a difficult variable to test, but it provides an interesting lense through which to view this data as well as that of similar studies. It has also been found in other studies that interspecific competition is more powerful than intraspecific competition despite that individuals of the same species require the same resources to grow [Meekins: 2002]. To study these interesting finds further, we could plant multiple species of plants in a high density condition and compare the root:shoot ratio of the field peas in that condition to the data which we collected in this experiment. 
+
+
+Literature Cited:
+1. Taiz L. 2013. Agriculture, plant physiology, and human population growth: past, present, and future. Theoretical and Experimental Plant Physiology. 25: 167-181.
+2. Ogawa K. 2005. Relationships between mean shoot and root masses and density in an overcrowded population of hinoki (Chamaecyparis obtusa (Sieb. et Zucc.) Endl.) seedlings. Forest Ecology and Management. 213: 391-398. 
+3. Meekins FJ, Mccarthy BC. 2002. Effect of population density on the demography of an invasive plant (Alliaria petiolata, Brassicaceae) population in a southeastern Ohio forest. The American Midland Naturalist. 147: 256-278. 
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-02+at+8.12.54+PM.png&Size=45932&Type=image%2Fpng&F=F_0IzJDmpNLLUMvzb
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-02+at+8.13.02+PM.png&Size=27020&Type=image%2Fpng&F=F_suQb6IG3Kt0OmKl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Root:shoot ratios of field peas grown in low density (n=1.5) versus high density (n=1.6) conditions. Error bars represent one standard deviation in either direction from the mean. 
+
+Figure 2: Statistical values from the calculations of the two-sample t-test which was used to analyze the data in Figure 1. 
+*************************************************************************
+
+
+

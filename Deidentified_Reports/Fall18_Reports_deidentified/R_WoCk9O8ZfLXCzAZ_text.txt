@@ -1,0 +1,70 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2018-11-05 19:09:48
+Author of this lab report is: Std_M5TWJnP8
+ID: R_WoCk9O8ZfLXCzAZ
+Course number: BIO102L
+TA: TA_xjQbYV9u
+*************************************************************************
+Title: Effect of Ion Concentration in Spinacia oleracea Photosynthesis through NaCl and MgCl2 on Isolated Chloroplasts
+
+Abstract:
+Photosynthesis is a process in which plants use energy from the sun to generate a proton gradient to ultimately produce oxygen and glucose. High cation concentrations of MgCl2 have been shown to reduce photosynthesis on isolated chloroplast while NaCl has shown no effect besides a thickening of the leaf. Therefore, if both were tested with isolated chloroplast, MgCl2 will have a lower change in absorption than NaCl. However, the results differed from expectation. The P values from a single tailed t test expressed values of 0.22 and 1.48 X 10-6  for NaCl then MgCl2 with standard deviations of ±13 (control), ±42 (NaCl) and ±154 (MgCl2). However, due to error in the first ten minutes, new adjusted values yielded P=0.158 and 0.386 with standard deviations of 5.32, 15.73 and 4.08. The new P=values portray how MgCl2 did not inhibited photosynthesis significantly. 
+
+Introduction:
+Many cellular processes require additional energy gained from covalent bonds, oxidation-reduction potential, and electrical or chemical gradients across a lipid bilayer. Plants, however, capture energy from the sun during a process called photosynthesis. The energy stored from the process is released by glycolysis in the cytoplasm and respiration in the mitochondria (Fernie et. Al 2004). Plants and animals go through glycolysis and respiration. Other similarities found between glycolysis and respiration are that they both involve multiple redox reactions in which electrons are transferred through an electron transport chain within each molecule. These processes use energy to move electrons and pump protons across the lipid bilayer to ultimately create a proton gradient. The generated gradient is then used to synthesize ATP (energy) (Nicholls 1974). The consistent transfer of high energy electrons are occasionally used for carrier molecules such as NAD+/NADH or NADP+/NADPH which enable the electrons to carry out other reactions. Photosynthesis on the other hand absorbs solar radiation into chlorophyll which excite electrons to leave carrier molecules, triggering a reaction which causes water to cleave (Tachibana 2012). This will ultimately assist with generating a proton gradient. The high energy electrons that were stored as NADPH and the proton gradient powers ATP synthesis. The NADPH and ATP synthesize 6-carbon glucose from 1- carbon-carbon dioxide molecule. The written reaction is as follows: 
+6 CO2 (carbon dioxide) + 12 H2O (water) ----- C6H12O6 (glucose) + 6 H2O + 6 O2 (oxygen)
+Apart from the equation, the cofactors and components for photosynthesis which are not consumed are light, green pigment chlorophyll, Mn+2 ions, electron transport complexes and phospholipid bilayer to create the proton gradient. 
+	The effects of high cation concentrations on photosynthesis of spinach leaves will be tested with NaCl (salt) and MgCl2. The effects of NaCl have previously shown to have no effect on photosynthesis because the leaf itself thickened (Robinson et. al. 1983). However, when the chloroplast were isolated and MgCl2 was added, Magnesium decreased the effects of photosynthesis (Sudha and Raghavendra 1990). The independent variables will be the salt concentrations and time while the dependent will be the photosynthetic activity measured through the Hill Reactions. The Hill Reaction causes photosystem 2 to oxidize DCPIP giving it more electrons, causing it to go from dark blue to colorless, proving the degree of the reaction (Park et. al 1966). Therefore, if similar concentrations of MgCl2 and NaCl are used with enriched isolated chloroplast, MgCl2 will inhibit photosynthesis more than NaCl. Hence, the absorbance of DCPIP will have a significantly lower percent change in MgCl2. 
+
+Materials and Methods:
+First, four rinsed and dried spinach leaves (excluding the main central vail) were grounded up with a total of 20 ml buffer of 400 mM sucrose in Tricine buffer with a cooled mortar and pestle.  Next, the mixture was strained into a cooled beaker using a cheese cloth. After the remaining green liquid was transferred to a chilled 50 ml centrifuge tube marked “A” and spun at 200 x G for 3 minutes at 4oC.  The supernatant was poured out of the tube marked “A” and into a second marked “B,” however, the debris at the bottom was not transferred then was spun at 1,000 x G for 10 minutes at 4oC which was lastly labeled “C.” After, 10 large test tubes were labeled “0/ blank,” then 1-9 and placed in a tube rack. The individual tubes were prepared with the following: In tube “0” fill with 5 mL of water, 3mL of 120mM DCPIP, and 2mL of reaction buffer (100mM phosphate, pH 6.5). In tube 1-3 add 5 mL of water, 3 mL of DCPIP, 2mL of reaction buffer and 100 enriched chloroplasts. In tubes 4-6 add 3mL of DCPIP, 2mL of reaction buffer, 100mM of NaCl and 100 enriched chloroplasts. Lastly, in tubes 7-9 ad 3 mL of DCPIP, reaction buffer, 5mL of 100mM of MgCl2, and 100 enriched chloroplasts (all seen in Figure 1). After, each tube was mixed immediately after adding chloroplasts and the solutions were transferred to spectrophotometer cuvettes. The spectrophotometer was blanked using Tube #0. Then the initial (time zero data points) absorbances were taken. The samples were then placed under the grow light. After 10 minutes, the spectrophotometer was re-blanked with Sample #0. The absorbances of each sample were taken at 600 nm. The light exposure followed by blanking and recording the absorbances was done two more times in 10 minute intervals for a total of 30 minutes. Finally, results and a 1 tailed T test were recorded.
+
+Results:
+The percent change formula was multiplied by -100 rather than a positive 100 to express that as the color decreased, the reaction increased. Throughout the experiment, the solutions lightened the longer exposed to light, however, DCPIP automatically changed light purple when added to MgCl2 prior to adding the chloroplasts while NaCl with the chloroplast and the chloroplast themselves remained the blue color. 
+When including the percent change found within the first 10 minutes of the experiment, it produces extremely low percentages such as -154.78% for only chloroplast, -166.93% for NaCl and -3684.62% for MgCl2. These dramatically low numbers affected the rest of the results for percent change for although they increased, the numbers remained in the high negatives for final values at 30 minutes of -131.42% in the control, -83.37% for NaCl and -3380.77% for MgCl2. The standard deviations were ±13, ±42 and ±154 respectively. Giving T values of 2.13 and NaCl with a P value of 0.222 and MgCl2 with 1.48 X 10-6. However, if one were to discard the difference within the first ten minutes and use the 10-minute values as the original to create new percent changes for 20 and 30 minutes, then the percent changes decreased to 6.33%, 18.475% and 5.28% for 20 minutes and 10.57%, 31.305% and 8.03% at the 30-minute mark (control, NaCl and MgCl2 respectively). The T-value then became 2.13 and the P value for NaCl is 0.158 and MgCl2 is 0.386. As seen in figure 2, MgCl2 has a much lower absorbance, expressing that it reacted much more than the chloroplast or NaCl for the chloroplast and NaCl mostly overlap in the figure. In figure 3, there is a steady increase in absorbance for NaCl, however, not significant as the error bars overlap one another. MgCl2 and chloroplast points also mostly overlap, creating it difficult to distinguish between the separate points. 
+
+Discussion:
+The hypothesis was mostly refuted but, partially supported because rather than decreasing in reaction to MgCl2 the reaction significantly increased as presented through the initial P value of 1.48 X 10-6.  However, if compared to the results excluding the initial 10-minute percent change reading in absorption, the P value is above 0.05, therefore, not significant. It is partially supported because no significant percent absorption change occurred to the chloroplast with NaCl. The standard deviations are not very reliable because they were calculated with the average of the percent changes, hence, less data points were used. This idea is furthered through figure 2 when there are overlapping error bars expressing that the relations are not significant, proven through P value. Error most probably arose when blanking the 10-minute absorption ratings. Not being certain if it was blanked arises error in the data points and relationship among them. To improve the experiment, making sure that the blanks are zero-ed prior to reading the rest of the cuvettes is essential, also by using a higher salt concentration to see “rate-limiting reactions” caused by “salt-induced changes” (Baker 1978). If more salt was used then maybe more inhibition would have been seen. Another improvement is to research prior to the experiment to see if any of the solutions react in a way which may negatively affect the experiment. For example, because the DCPIP changed color with MgCl2 prior to adding the chloroplasts leads to believe a reaction occurred prior to the hill reaction with chloroplast, thus affecting the absorbance reading. 
+
+Literature Cited:
+Baker, N. R. (1978). Effect of high cation concentrations on photosystem II activities. Plant	physiology, 62(6), 889-893.
+Fernie, A. R., Carrari, F., & Sweetlove, L. J. (2004). Respiratory metabolism: glycolysis, the TCA cycle and mitochondrial electron transport. Current opinion in plant biology, 7(3), 254-261.
+Nicholls, D. G. (1974). The influence of respiration and ATP hydrolysis on the proton	electrochemical gradient across the inner membrane of rat‐liver mitochondria as	determined by ion distribution. European Journal of Biochemistry, 50(1), 305-315.
+Park, R. B., Kelly, J., Drury, S., & Sauer, K. (1966). The Hill reaction of chloroplasts isolated from glutaraldehyde-fixed spinach leaves. Proceedings of the National Academy of Sciences, 55(5), 1056-1062.
+Robinson, S. P., Downton, W. J. S., and Millhouse, J. A. (1983). Photosynthesis and ion content of leaves and isolated chloroplasts of salt-stressed spinach. Plant Physiology.73(2), 238- 242.
+Sundari, D. S., and Raghavendra, A. S. (1990). Sensitivity of photosynthesis by spinach	chloroplast membranes to osmotic stress in vitro: Rapid inhibition of O2 evolution in	presence of magnesium. Photosynthesis research. 23(3), 325-330.
+Tachibana, Y., Vayssieres, L., & Durrant, J. R. (2012). Artificial photosynthesis for solar water- splitting. Nature Photonics, 6(8), 511.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=reagent+table.PNG&Size=31551&Type=image%2Fpng&F=F_2S1rsBzIlD5qThn
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=fig+1+photosynthesis.PNG&Size=30493&Type=image%2Fpng&F=F_2QtcXf5zSkJAbvQ
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=fig+2+photosynthesis.PNG&Size=24291&Type=image%2Fpng&F=F_24P3KDga2dYb59s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Fig. 1: Reagent Table for Procedures
+Fig. 2: The average percent change in absorbance for every 10 minutes from time zero to 30 minutes. The horizontal bars represent the uncertainty of ±1 minute for testing all the vials. The vertical error bars represent the standard deviation for each condition of the control, NaCl and MgCl2.  The standard deviations for the control (chloroplast only) was ±13, for the NaCl it was ±42 and for MgCl2 it was ±154. The calculated T-value for NaCl and MgCl2 gave 2.13, however, NaCl yielded a P value for a one tailed T test of 0.223 and MgCl2 1.48 X 10-6. 
+Fig. 3: The percent change in absorbance starting at 10 minutes as the initial 0 value for a total of 30 minutes. The standard deviation for the control was ±5.32, NaCl ±15.7 and MgCl2 ±4.08. The calculated T value when excluding the difference in the first 10 minutes were 2.13 while the P-value gave 0.158 for NaCl and 0.386 for MgCl2. *************************************************************************
+
+
+

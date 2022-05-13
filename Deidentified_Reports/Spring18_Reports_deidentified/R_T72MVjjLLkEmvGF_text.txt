@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-23 11:13:37
+Author of this lab report is: Std_ZWfKTucb 
+ID: R_T72MVjjLLkEmvGF
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: IP3- Mediated Signaling Pathway Responsible for Phototaxis Within Physarum  
+
+Abstract:
+Physarum is an efficient model species for experimentation in biology because it is relatively easy to manipulate and observe. This species was the focus of study as we sought out to determine which signaling pathway was responsible for its negative phototactic activity (moves away from light). In order to do this, the specimen was placed into PDA plates containing either Curcumin or Neomycin (inhibitors). The Curcumin inhibits the protein kinase A, which is responsible for the cAMP-mediated signaling pathway. Neomycin inhibits Phospholipase C, which is responsible for the IP3 mediated signaling pathway. These solutions were compared to a control. After treating with test compounds, both treatment and control groups were incubated for 22 hours.
+The migration of each Physarum was then measured in millimeters, averaged and then compared to the control. Near the conclusion of the experiment, Neomycin produced the least migration from its origin on the PDA plate and a significant p-value, which lead us to conclude that Neomycin inhibited phototaxis to a significant extent and therefore, the IP3- mediated signaling pathway is responsible for the phototactic activity.  
+
+
+Introduction:
+The “many headed slime” or Physarum (Physarum Polycephalum) is known to the scientific community as a Physarum that inhabits shaded, cool, moist areas, such as decaying leaves and logs. This species is useful for biological studies regarding cytoplasmic streaming as it is easy to see the large cells of the species under relatively low magnification. The large size also makes the cells easy to manipulate. In a 2014 experiment, researchers used this species in order to test the effects of Neomycin and Curcumin on contractile behavior. They found that the inhibitors led to a decline in contractile behavior including negative phototaxis [Matveeva et.al, 2014]. In a similar manner, we planned to carry-out a similar experiment, where we planned to determine the signaling pathway used during phototaxis of Physarum. In order to determine this, we conducted an experiment, where we exposed the species to Curcumin, which inhibits protein kinase A (necessary for the cAMP-mediated pathway) and also to Neomycin, which inhibits Phospholipase C (necessary for the IP3-mediated pathway) and then compared these treatments to a control group. We then measured the average distances migrated by the species after twenty-two hours to determine which pathway inhibition had led to the largest decrease in negative phototaxis. We conducted the experiment with the following hypothesis in mind, if phototaxis is inhibited within Physarum when treated with either Curcumin or Neomycin, then the corresponding signaling pathway is responsible for phototaxis of the Physarum.
+
+
+Materials and Methods:
+The Physarum stock used in the experiment was prepared prior to lab. A total of 9 petri dishes were used throughout the lab while 3 were used as part of the control group and 6 were used for the treatment groups (3 for the 10 mM Curcumin treatment and 3 for 5 m Neomycin treatment). Both the control and treatment groups were prepared according to the guidelines indicated in Figure 1. Each plate was then secured with tape and covered in tin foil with a precut window allowing for light to enter (less than 0.5 cm square). The nine plates were stored in a light box and retrieved after twenty-two hours. The distance Physarum migrated was measured in millimeters (dependent variable) from the current edge of migration to the nearest edge of the originating slab. The direction of each migration was also noted (toward window, toward other slab, etc.) along with the elapsed time. Finally, a two-sample t-test was used in order to determine the extent to which phototaxis was inhibited throughout Physarum after having been exposed to the diluted Curcumin and Neomycin solutions by analyzing amount of distance migrated in millimeters by the species after having been exposed to light for at least eighteen hours. The critical value used to determine the significance of data for the two sample t-test was a p-value of less than 0.05.
+
+
+Results:
+After the incubation period, there was an overall decrease in phototaxis for both solutions containing Curcumin and Neomycin. There was a slight decrease in phototaxis with the solution containing Curcumin as compared to the control. The control had a vertical migration (neither towards or away the other slab) as opposed to Curcumin which migrated away from the light) t-stat= 0.61, d.f.=10, P=0.55). The solution containing Neomycin, on the other hand, saw a larger decrease in phototactic activity (t-stat=4.09, d.f.=10, P=0.002) as shown in figure 2. 
+
+
+Discussion:
+The collected data in this experiment does answer our biological question as we sought to determine which signaling pathway is responsible for phototaxis in Physarum. Typically, Physarum moves away from any given source of light, which was reflected by our control group. Determining which of the two solutions used would inhibit this phototactic response would allow us to determine which of the two signaling pathways is responsible for the phototactic response in Physarum. Although the solution made with diluted Curcumin did produce a decrease in phototactic activity, the p-value produced with this treatment is deemed insignificant. Therefore, we cannot conclude that the cAMP-mediated signaling pathway is the signaling pathway responsible for the phototactic activity. The solution made with diluted Neomycin on the other hand, saw a significant decrease in response to phototaxis and produced a significant p-value of 0.002. This leads us to conclude that the IP3-mediated path is the signaling pathway responsible for the phototactic activity of the Physarum. This determination is similar to that of Matveeva et.al, who conducted a similar experiment where they found that Neomycin was responsible for the inhibition of contractile inhibition within Physarum, which includes negative phototaxis [Matveeva et.al, 2014]. In terms of possible error, it is possible that the size of the windows cut on the tin foil were of different sizes from one sample to another, which could have affected the amount of migration for each sample since this may have resulted in each sample receiving more or less light relative to one another. In addition to this, it is clear that there were some overgrown bacteria attached to the Physarum, which may have inhibited the migration of the specimen in the sense that the bacteria compete with the Physarum for food. In terms of addressing this concern for future studies, one can look towards preparing the PDA plates of the experiment with more caution, following lab protocol for preparing them correctly. Along with this, one can also prepare more replicates of the PDA plates in order to increase the chances of producing data that has not been contaminated by the bacteria. Also, using Physarum from different stock could minimize the chances of using Physarum that has been contaminated as the Physarum that we used in this experiment could have been contaminated whenever grown in stock. From this experiment, researcher can go beyond Physarum and explore other organisms, their behaviors, and determine what signaling pathways/internal mechanisms are responsible for producing specific responses to the environment.
+
+
+Literature Cited:
+1.	 Matveeva N.B., Beylina S.I., Klyueva V.A., Teplov V.A. 2014. Binding proteins in the generation of contractile oscillations in the Physarum polycephalum plasmodium. Biophysics. 59:758.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-23+at+11.06.29+AM.png&Size=96905&Type=image%2Fpng&F=F_1rdHEDGW3yyPKzh
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-23+at+11.06.37+AM.png&Size=153270&Type=image%2Fpng&F=F_3XjzNKxpsCJ3uTv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure Legends: Figure 1 preparation guideline for control and treatment groups Figure 2: Compares the average phototactic migration of Physarum in millimeters after being exposed to light for 21.75 hours. Comparing the control to the Curcumin solution, the following values were produced t-stat= 0.61, d.f.=10, P=0.55. Comparing the control to the Neomycin solution, the following values were produced, t-stat=4.09, d.f.=10, P=0.002.
+
+
+*************************************************************************

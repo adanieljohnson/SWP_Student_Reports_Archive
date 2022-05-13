@@ -1,0 +1,80 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-12-02 15:33:39
+Author of this lab report is: Std_L1w0quYT
+ID: R_Q4ExIzdjdWk1NER
+Course number: BIO102L
+TA: TA_swN4peBr
+*************************************************************************
+Title: Effects of Heat Stress on the Mobility of Physarum polycephalum
+
+Abstract:
+Physarum polycephalum is a species of slime mold that uses various intracellular transduction pathways in order to respond to environmental conditions and changes by means of movement. One pathway, in particular, is the cAMP signaling pathway. The cAMP signaling pathway uses a protein kinase referred to as protein kinase A (PKA) in order to activate the pathway and therefore respond to any environmental changes or conditions that may be present near the slime mold. PKA is a calcium-dependent protein kinase, meaning calcium ions must be present in the cell in order for any response to occur. One way in which calcium ions can be released in a cell is by heat shock. Therefore, the effects of heat stress on Physarum polycephalum were studied by comparing heat exposure and calcium exposure, and it was hypothesized that the mobility of the Physarum polycephalum would increase. Based on the results of the experiment, the Physarum polycephalum appeared to have increased mobility when in the presence of heat and calcium. 
+
+
+Introduction:
+The cytoskeleton is a microscopic network of protein filaments and tubules in the cytoplasm of living cells that give them their shape and coherence. There are three main components of the cytoskeleton: actin, intermediate filaments, and microtubules. Each of the components has a specific purpose within the cell. The intermediate filaments are responsible for the structural support of the cell; the microtubules are responsible for the movement of small molecules within the cells; the actin, the element being studied in this experiment, is responsible for movement [Britanica: 2009].
+Physarum polycephalum, a species of slime mold, lives within dark and damp conditions such as under debris and leaves. This species of slime mold crawls by extending its leading edge by using actin in order to locate and digest food. As long as the species is kept in a dark environment with high humidity, it will continue to move towards a food source, otherwise, it will enter a state of hibernation in which no movement can be detected. This behavior is known as chemotaxis: a response to environmental conditions in which the slime mold moves towards or away from the source [Johnson: 2016]. With environmental conditions constantly changing, it is important to study and understand the effects that these changes have on the survival and movement of different organisms, and because of the large size of Physarum polycephalum, it is a good organism to study as it behaves as a single giant cell that can be observed without the use of a microscope. Physarum polycephalum also uses many similar signal transduction pathways that human cells do, and therefore by studying Physarum polycephalum, we can gain information about cellular signaling in human cells. 
+In order for the movement of the mold to occur, the physarum must sense and respond to any environmental changes. This is done through intracellular signal transduction pathways, one of which being the cAMP signaling pathway. When the organism is exposed to an external or internal stimulus, a receptor is activated. This activated receptor causes the formation or release of a second messenger molecule, (a molecule or ion inside the cell that triggers the response pathway), which then binds to an effector and triggers the response. In the case of the cAMP signaling pathway, one enzyme that is commonly activated is protein kinase A (PKA), which then causes the activation of other molecules and therefore triggers the response.
+In this experiment, the effect of heat stress on the movement of Physarum polycephalum is being analyzed. PKA activation is vital in the ability of the organism to respond to environmental stressors. PKA is a calcium-dependent protein kinase, meaning in order for the protein to become activated, Ca2+ must be present. According to a study by Sonia Dorion and Jacques Landry, within minutes of applying heat, the shock activates major signaling pathways that involve protein kinases by releasing Ca2+ into the cell [Dorion: 2002]. Therefore, it was hypothesized that heat stress would increase the mobility of the physarum due to an activation of the cAMP signaling pathway and an overexpression of the cross-linkage of actin filaments. 
+
+Materials and Methods:
+In the experiment, the effects of heat stress on the movement of Physarum polycephalum was tested. In order to test this, the movement of Physarum polycephalum was measured in response to both heat and calcium. The pertinent equipment in the experiment was nine 100 mm Petri plates containing 2% water-agar, a Petri plate containing a stock sample of Physarum polycephalum, an incubator, black ziplock bags, tin foil, calcium, and dry oatmeal. 
+	The first step in the experiment was to prepare the calcium agar plates. In order to do this, a 20M calcium solution was diluted to 1M and placed in three water agar plates. The calcium was then absorbed by the agar plates for 10 minutes, after which, any additional calcium solution was drained from the plates. 
+	All nine agar plates (three control, three heat, and three calcium) were then prepared by cutting two 1cm x 1cm squares in the center of each plate. Squares of the same size were then removed from the Petri dish containing the Physarum polycephalum and placed in each of the squares removed from the nine water agar plates. Approximately eight pieces of oatmeal were then sprinkled in each of the agar plates and all plates were wrapped in foil and placed in black bags. The three control agar plates (no calcium and no heat) were placed into a drawer at room temperature. The three heat agar plates were placed in an incubator, and the three calcium soaked agar plates were placed in a drawer at room temperature. 24 hours after later the plates were observed and the movement of the Physarum polycephalum was measured using a ruler and two-sample t-tests were carried out in order to better interpret the results. 
+
+
+Results:
+In this experiment, the effects of heat stress on the movement of Physarum polycephalum were tested. In order to accomplish this, samples of Physarum polycephalum were placed in either heat or calcium and their movement after 24 hours was measured. The results of the experiment indicate that the Physarum polycephalum had an increased rate of migration when placed in a heated environment or in calcium compared to in a controlled environment. This can be seen in figure 1, as the bar for both the heat group and the calcium group is taller than that of the control group.  In order to better interpret the results of the experiment, a two-sample t-test was carried out twice, once for the control group vs. heat, and a second time for the control group vs. calcium. These results show that the statistical results of the experiment are not statistically significant because the mean of the control group was not statistically significantly different than that of the heat group (t-stat = 1.228, df = 4, P = 0.287) or the calcium group (t-stat = 1.04, df = 4, P = 0.357). 
+
+
+Discussion:
+The initial hypothesis of the experiment was that heat stress would increase the mobility of the physarum due to an activation of the cAMP signaling pathway and an overexpression of the cross-linkage of actin filaments. Based on the results of the experiment, it could be seen that in the presence of heat or calcium, the Physarum polycephalum had increased movement in comparison to the movement of the control group. However, the statistical tests indicate that the data is not statistically significant because the control group had an average that was too close to that of the treatment groups. Therefore, the hypothesis cannot be definitively supported. 
+Adjustments of cAMP levels are responsible for controlling the activity of cAMP-dependent protein kinases, which play a key role in controlling the complex morphogenetic events that result in the growth and movement of organisms such as Physarum polycephalum [Shaulsky: 1998]. In a study conducted by Zephan Melville, it was determined that the activation of protein kinase A, the kinase responsible for the activation of the cAMP pathway, is dependent on calcium [Melville: 2017]. Therefore, when additional calcium is present in the environment of the mold, it is expected that there would be an increase in the movement of the mold. Likewise, when the mold is in a heated environment, the heat stress would cause an additional amount of calcium to be released into the cell, therefore, activating PKA and the cAMP pathway. Ideally, the results of the experiment would show that when in the presence of heat or calcium, there should be increased mobility in the Physarum polycephalum. However, the results were not statistically significant even though the mobility appeared to increase. One reason that this may have occurred is that the sample of Physarum polycephalum that was used during the experiment had a systemic problem. This problem could have stunted the mobility of the Physarum polycephalum causing the mean values of the treatment and control groups to be too close and therefore not statistically significant. In order to obtain more accurate results, the experiment should be repeated with a sample of Physarum polycephalum that has no systemic problems.
+
+Literature Cited:
+Britannica, The Editors of Encyclopaedia. “Cytoskeleton.” Encyclopædia Britannica, 
+Encyclopædia Britannica, Inc., 7 Aug. 2009, www.britannica.com/science/cytoskeleton.
+
+Dorion, Sonia, and Jacques Landry. "Activation of the mitogen-activated protein kinase 
+pathways by heat shock." Cell stress & chaperones 7.2 (2002): 200.
+
+Johnson AD. “Cell Structure.” Biological Principles Laboratory Manual. Dept. Biology, Wake 
+Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2016)
+
+Melville, Zephan et al. “The Activation of Protein Kinase A by the Calcium-Binding Protein 
+S100A1 Is Independent of Cyclic AMP” Biochemistry vol. 56,17 (2017): 2328-2337.
+
+Shaulsky G, Fuller D, and Loomis WF (1998) A cAMP-phospho-diesterase controls 
+PKA-dependent differentiation. Development 125:691–699.
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Messages+Image%284265687282%29.png&Size=8423&Type=image%2Fpng&F=F_3OkswIWNeWxUy9e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The effect of heat stress on the movement of Physarum polycephalum compared to that of calcium. The average rate of migration of the Physarum polycephalum is plotted on the chart above with corresponding p-values of 0.357 (calcium) and 0.287 (heat). The degrees of freedom and the t-value, respectively, for heat, are 4 and 1.228. And for calcium, they are 4 and 1.04.
+
+*************************************************************************
+
+
+

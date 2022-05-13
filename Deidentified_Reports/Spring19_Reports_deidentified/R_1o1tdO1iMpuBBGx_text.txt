@@ -1,0 +1,63 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2019-04-08 09:20:05
+Author of this lab report is: Std_lcCkARQi
+ID: R_1o1tdO1iMpuBBGx
+Course number: BIO101L
+TA: TA_kKK8bPFb
+*************************************************************************
+Title: Presence of Sodium Channel Blocker Lidocaine Reduces Contractile Output of Gastrocnemius Muscle When Stimulus is Applied To Sciatic Nerve
+
+Abstract:
+No abstract required
+
+Introduction:
+One of the most defining attributes of many living organisms is the ability to react to stimuli. Locomotion in response to external conditions would be impossible without the work of neuromuscular units. Signals resulting from external stimuli are sent from nerve to nerve as a result of fast-acting action potentials [Johnson: 2016]. During this process, sodium ion channels within the nerve’s membrane open up, causing Na+ to flood the inside of the cell and K+ to rush out, depolarizing the cell. This gradient flows down the axon, creating a flow of electricity that ends with the release of a neurotransmitter from the axon terminal [Johnson: 2016]. In a neuromuscular junction – the space between an axon terminal and a muscle cell – the release of a neurotransmitter like acetylcholine (ACh) would cause a signaling cascade that would end with the muscle cell contracting [Johnson: 2016]. This process happens thousands of times a day within our bodies, and it is essential for the survival of many animals. It begs to question, however, how locomotion would be affected by the inhibition of nerve function. This is an important question, as the survival for many vertebrates depends on the organism’s ability to have unimpaired neuromuscular function. Lidocaine, a common general anesthetic, is a known sodium ion channel blocker [Cahalan: 1979]. We hypothesized that the addition of a 0.25mM lidocaine solution to the gastrocnemius muscle would reduce muscle contraction when a voltage stimulus was applied to the sciatic nerve of Rana pipiens.
+
+Materials and Methods:
+A frog’s leg was degloved, revealing the muscles of the leg. With scissors, the gastrocnemius muscle was freed form the leg on one side. The cut end was tied with twine and connected to the iWorx machine in order to measure the contraction of the muscle (in mV). Afterwards, the inner thigh muscles were spread apart to reveal the sciatic nerve. Throughout the experiments, frog Ringer’s solution was used to prevent the nerve and muscle from drying out.
+ A voltage stimulus of 2.0 V was applied to the sciatic nerve using the electric probe, and the resulting mV output from the contraction of the gastrocnemius muscle was measured. The stimulus was applied three times on each leg sample for the control results. Afterwards, the same procedure was done on each of the same leg samples, this time with each of the samples being injected with 0.1 mL of 0.25mM Lidocaine. The statistical significance between the control samples and the lidocaine-treated samples was found using a paired t-test. 
+
+
+Results:
+From the experiment, it was found that the average mV output of the control gastrocnemius muscle was mV, while the average output for the 0.25 mM Lidocaine treated group was 0.023 0.021 mV (Figure 1). From the resulting data, it was found that the lidocaine-treated samples exhibited smaller contractions than during the control runs. A paired t-test was used to determine significance of results. The paired T-test revealed a p-value of 0.19, which was above the cut-off value of 0.05.
+
+Discussion:
+The gastrocnemius muscle is responsible for generating rather large contractile forces in order for the frog to move. Despite a difference of averages by as much as 0.387 mV, the two sample T-test revealed that there was no statistically significant difference between the control and the lidocaine treated group, so the hypothesis that lidocaine would affect contraction of the gastrocnemius muscle was not supported. This is most likely due to inconsistencies within the experiment. The first leg sample registered low mV outputs – the average measured value was at least a tenth of the outputs from leg samples 2 and 3 in both the control and the treated groups. This may also be the reason for the large standard deviations for both the control and lidocaine-treated groups. 
+	As seen in other studies, the addition of lidocaine should inhibit contraction of muscles and dampen signaling between nerve cells and muscles. In one experiment, the addition of lidocaine was found to inactivate sodium-ion channels. The result was that messages between nerves experienced delays in signaling times, and higher stimulus inputs were required in order for an action potential to occur [Cahalan: 1979]. In a different study, the presence of lidocaine was found to reduce contractile forces in the muscles in human hands compared to hands treated with a saline solution. Forces and speed of neuromuscular actions in participant’s hands was reduced compared to control groups due to the inactivation of sodium channels [Yokota: 1994]. From these two studies, one should expect that the addition of lidocaine would, in fact, inhibit neuromuscular function and reduce contractile output of muscles when signals are sent via nerves.  
+	In future experiments, further exploration may be done to find how different concentrations of lidocaine affect neuromuscular function.
+
+
+Literature Cited:
+1.	Cahalin MD, Alemers W. Interaction between quaternary lidocaine, the sodium channel gates, and tetrodotoxin. Biophysical Journal. 27: 39-55. 
+2.	Johnson AD. Comparative Physiology Bio 114 Laboratory Manual. Department of Biology, Wake Forest University. 18.2: 20-28.
+3.	Yokota T, Saito Y, Miyatake T. Conduction slowing without conduction block of compound muscle and nerve action potentials due to sodium channel block. Journal of the Neurological Sciences. 124(2), 220–224. 
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-04-08+at+9.19.16+AM.png&Size=182433&Type=image%2Fpng&F=F_1DFGgnxN2bRjnJW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1: Average mV output of gastrocnemius muscle with a 2.0 V stimulus added to the sciatic nerve. The average output for control samples was 0.41 0.31 mV (SE = 0.583), while average output for 0.25mM Lidocaine treated samples was 0.023 0.021 mV (SE= 0.144). Statistical testing showed no significant difference between test groups (P= 0.19)*************************************************************************
+
+
+

@@ -1,0 +1,56 @@
+*************************************************************************
+Number of lab report in semester: first
+This is a revision of a previous lab report.
+Date submitted: 2017-10-29 15:05:58
+Author of this lab report is: Std_KfZoD6ps
+Course number: BIO101L
+TA: TA_axAQrfTP
+*************************************************************************
+Title: Lanthanum chloride blocking calcium channels significantly effects tetany in the Northern Leopard Frog, Rana pipiens,
+
+Abstract:
+We predicted that administering Lanthanum Chloride would have a negative effect on frequency and contractile force at tetany in the gastrocnemius muscle. We used the Northern Leopard Frog, Rana pipiens, to study the effects of Lanthanum chloride on the gastrocnemius muscle. This drug is a calcium channel blocker. This was tested using three separate Ranna pipiens with each being tested before and after injection. Each gastrocnemius muscle was connected to a force transducer and shocked with pin electrodes. The frequency was increased until tetany was reached and the force recorded. Our results showed that Lanthanum Chloride lowered the frequency tetany was reached significantly and it also lowered the force output of the muscle contractions for when tetany was reached. Overall, this study demonstrated how this drug, by blocking the Ca2+ channels, negatively impacts tetany because the muscle contractions of the treatment group reached tetany at much lower frequency of shocks than normal and the force output, much lower. Our p value was 0.00344 which shows that our data was very significant and that our results support our hypothesis. 
+
+Introduction:
+Muscle tissue is made of myofibrils which in conjunction with connective tissue function as the skeletal muscle network in both vertebrates and invertebrates [Johnson: 2016]. Motor neurons control the behavior of muscle tissue with their cell bodies making up the spinal cord grey matter and their axons reading the tissue [Johnson: 2016]. Ach is released in the neuro muscular junction causing Na+ channels to open which in turn releases Ca2+ [Johnson: 2016]. Ca2+ then binds to troponin which allows for myosin and actin interact to contract [Johnson: 2016]. We will be using the gastrocnemius leg muscle of the Northern Leopard Frog, Rana pipiens, which is triggered by the sciatic nerve which resides in the upper thigh [Johnson: 2016]. We will see what effect 1 mM of Lanthanum Chloride has on twitch amplitude. It is clear this drug has strong effects on neurological behaviors from many studies [Yang 2013]. Lanthanum Chloride is a Ca2+ channel blocker [Glusa: 1987]. We will shock each leg consistently and compare the force of contractions from before and after injection. We predict that this drug will have a negative effect on frequency and contractile force at tetany in the gastrocnemius muscle. A paired t test will be used in the analysis of our data. [Johnson: 2016] 
+
+Materials and Methods:
+First, obtain three Northern Leopard Frog Rana pipiens legs. This organism is ideal because it is easy to access the target muscle, isolate it, connect it to a force transducer, and shock it with pin electrodes. Furthermore, it will also give results that will reflect the behavior of most mammalian muscles. Whenever the legs are not moist, wet them with Ringer’s solution.  With one of the legs: Peel the skin off gently starting at the upper thigh and moving down. Use bio wipes when needed. Use the scissors to separate the gastrocnemius muscle from the rest of the leg at the Achilles tendon so that the other end is the only part that remains attached. Tie a string to the Achilles tendon creating a loop about 4 cm long. Hang the leg from the force transducer so that the leg rests on the ground and there is a small amount of tension on the string. Use two pins per bone to pin the leg in place. Insert the pin electrodes into the gastrocnemius muscle and attach them to input one. Then, set the amplitude to the lowest possible value that still gives strong contractions. Set the frequency to 2 Hz, pulse to 0, amps to 0.2, and width to 5 ms. Record for five seconds. Measure the voltage of the largest peak. Repeat shock with frequencies of 4 Hz, 5Hz, 25Hz, 50Hz, and 100Hz until tetany is achieved. Record the voltage output at tetany.
+Inject the leg with 2mL lanthanum chloride using a syringe. Prepare lanthanum chloride by dissolving 12 mg in 100 mL Ringer’s solution. Repeat prep and testing with the injected leg. Dispose of leg properly.
+Repeat prep and testing with control and treatement for the remaining two frog legs. A paired t test will be used to analyze the results. The legs untreated will be used to see how the treated legs react differently.
+
+
+Results:
+From figure one, we can compare frequency tetany was reached at. The control groups all reached tetany around 10 Hz. Once injected with Lanthanum Chloride, the force output dropped. Tetany was very close to being reached at 2 Hz and was achieved by 4Hz except for frog three which achieved tetany at 5 Hz. The standard deviation shows that the data across the three frogs are in accordance with each other. For our statistical analysis using a paired t test, the degree of freedom was 2 and the p value was 0.00344.  This is smaller than the alpha value of .05 so our results are very significant. Our t value was 17. This shows that there is a significant difference between treatment groups. The Lanthanum Chloride groups reached tetany at a much lower frequency than the control groups. 
+Figure two compares the force of the contraction when tetany was reached. The error bars show that the difference in force is significant. The p value was .0135 for the data used in this chart. The t value was 8.5 and the degrees of freedom again 2. The control group clearly had stronger contractions when tetany was reached. From the statistical analysis, we know these results are significant.
+
+
+
+Discussion:
+From our results, observations and our statistical analysis, our hypothesis that lanthanum chloride would negatively impact frequency and contractile force at tetany in the gastrocnemius muscle was supported. Looking at the first figure (figure 1), we can easily see the difference of when tetany was reached in each treatment group. The fact that after injection, tetany was reached at a much lower frequency shows that calcium is much more present outside of the sarcoplasmic reticulum [Johnson: 2016].  This is because calcium presence is needed for tetany to be reached. If it is reached sooner, then more calcium must be present. The second figure (figure 2) shows that the force of the contractions when tetany was reached was much lower. This data is very significant because there is a large difference in force of the contraction because our p value for the force of contractions is .0135 which is much lower than .05. This data shows that Lanthanum chloride blocked the calcium channels causing the calcium flow in and out of the sarcoplasmic reticulum to decrease significantly [Glusa: 1987]. Thus, Ca2+ remained bound to troponin [Johnson: 2016]. Furthermore, when the muscles were shocked, the strength was much smaller due to the blocked channels. These two things explain why tetany was reached so early and why the force of contraction was much weaker. The remaining Ca2+ caused tetany to be reached earlier and the blocked channels caused the shock to be much less effective. One way this could be continued to be studied would be using a similar setup but by testing the strength of muscle contractions directly. Varying the strength of input shock and measuring the force output would determine the effect of Lanthanum Chloride specifically on muscle contraction strength rather than focusing on tetany. This would provide further insight into the effects of this drug. One similar study was done where the effects of Lanthanum Chloride on neuronal impairment. They found this drug damaged the hippocampus by increasing the glutamate level [Yang: 2013]. This correlates to how we found this drug to block calcium channels to have a negative impact.
+ 
+
+
+Literature Cited:
+Johnson AD. Hormone Regulation. Biological Principles Laboratory Manual. Dept. biology, Wake Forest 	University, Winston Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15-16
+Glusa, E., and F. Markwardt. “Effects of Calcium Channel Blockers on the Contractile Response to Dihydroergotamine in Isolated Human Femoral Veins.” Naunyn-Schmiedeberg’s Archives of Pharmacology 335, no. 5 (May 1987): 529–33.
+Yang, Jinghua, Qiufang Liu, Shengwen Wu, Qi Xi, and Yuan Cai. “Effects of Lanthanum Chloride on Glutamate Level, Intracellular Calcium Concentration and Caspases Expression in the Rat Hippocampus.” BioMetals 26, no. 1 (February 1, 2013): 43–59.
+
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+1.png&Size=27667&Type=image%2Fpng&F=F_bkMcsDxYWU833Q9
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=figure+2.png&Size=31113&Type=image%2Fpng&F=F_6fLT1h6i0cwcyot
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. The frequency tetany is reached for each treatment group is compared. The average was taken for each group and error bars represent the standard deviation. 
+
+Figure 2. The force measured from the contraction of the muscle when it reached tetany. The standard deviation is represented through the error bars.
+
+*************************************************************************

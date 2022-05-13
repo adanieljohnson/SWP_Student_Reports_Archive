@@ -1,0 +1,67 @@
+*************************************************************************
+Number of lab report in semester: second
+This is a revision of a previous lab report.
+Date submitted: 2018-04-22 08:49:29
+Author of this lab report is: Std_ieAA8GSW
+ID: R_24zOhROGcUMOdUM
+Course number: BIO102L
+TA: TA_0RcV6NvC
+*************************************************************************
+Title: The effect of Trifluoperazine on the ability of calmodulin to bind Ca2+ in Physarum organisms
+
+Abstract:
+This experiment serves to test the effect of a calmodulin inhibitor, Trifluoperazine, on Physarum movement towards a food source. Calmodulin changes conformation when Ca2+ binds to it and then regulates different enzymes in an organism, like the movement of actin filaments. Physarum uses its actin microfilaments to crawl by extending their leading edges. This experiment tests Trifluoperazine as the independent variable to compare to a control group, the movement towards the food sources. Using water agar petri dishes, chemotaxis assays were carried out to observe the movement of the Physarum after about 29 hours. A two-sample t-test was performed once the results were collected and our results were statistically significant. The treatment group migrated a further distance than the control group and traveled towards the food source. This led to the conclusion that calmodulin hinders the movement of Physarum.
+
+Introduction:
+The effect of Trifluoperazine was tested on the slime mold, Physarum polycephalum (Physarum) organism. This was used as the model organism because it has a mass of multiple nuclei contained within a single plasma membrane and all the nuclei undergo mitosis at the same time. [Johnson, 2018]. These Physarum masses are called plasmodiums and behave like an individual giant cell. This way the cell-level processes can be observed without using a microscope. Physarum uses very similar signal transduction pathways as humans like G-protein coupled receptors and ion-coupled receptors. [Johnson, 2018]. Calmodulin is a Ca2+ binding protein that mediates the control of a large number of enzymes. When calmodulin binds Ca2+ it changes conformation and activates enzymes which then phosphorylate available targets. Trifluoperazine is a calmodulin inhibitor, meaning the calmodulin would not be able to bind the Ca2+ and would be inactive. In a study done on mice, it showed that calmodulin regulates the binding of HSP90 to F-actin in a Ca2+ dependent manner. [Nishida, 1986]. This shows that calmodulin plays a role in the movement of actin filaments, which are necessary for migration and motility in the Physarum. Physarum organisms crawl by extending their leading edges using actin microfilaments to move towards necessities like food. Trifluoperazine is expected to inhibit calmodulin because a study done on cultured chromaffin cells demonstrated that this compound acted as a calmodulin antagonist to inhibit secretory response. [Kenigsberg, 1982]. Therefore, if Trifluoperazine is applied to a Physarum stock, it will inhibit calmodulin’s ability to bind Ca2+ and be activated, resulting in less movement in the actin filaments. This will slow the Physarum’s movement towards the available food sources. 
+
+Materials and Methods:
+The application of the calmodulin inhibitor, Trifluoperazine, was used as the independent variable to see the effects it causes. A total of six 2% water agar petri dishes were used, half were treated with the Trifluoperazine as the experimental group, and the other three dishes were treated as the control. The water agar plates were prepared according to the procedure as indicated in Figure 1. For the treatment group plates, 4 mL of the 20 X test solution was soaked for 10 minutes in each of the 3 dishes and then drained.  To perform the chemotaxis assays, two 1x1 cm2 blocks were cut out of the six different agar plates. The two blocks in each of the petri dishes were filled, one with food and one with the Physarum stock, following the preparation guidelines in Figure 1. The Physarum stock was prepared prior to the experiment.  Once all of the petri dishes were prepared according to Figure 1, they were each separately wrapped in foil to create a dark environment and placed in the incubator. After approximately 29 hours, the plates were scored. Once the data was collected, a two-sample t-test was carried out for the results with a critical p-value of 0.05, indicating whether the results were statistically significant or not. 
+
+Results:
+The Physarum in each of the control group plates, traveled away from the food source. The treatment groups traveled much further, but towards the food source. The average trends can be seen in Figure 3. Altogether the results were consistent and the treatment group with Trifluoperazine compared to the control group were statistically significant (t-stat= 8.06, d.f.= 4, p=0.0013). The standard deviation for the control group was 5.03, while the treatment group was 10.79 but each group was still migrating in the same direction. The average results were that the control group migrated 18.7 mm away from the food source and the treatment group migrated 36.7 mm towards the food source. 
+
+Discussion:
+The results did not support the hypothesis because the treatment group migrated further than the control group and towards the food source. The results were statistically significant because of the p-value of 0.0013. When treated with Trifluoperazine, calmodulin was inhibited, and movement drastically increased towards the source. This shows that calmodulin must hinder the movement of actin filaments, so when inhibiting the calmodulin, the actin filaments had more movement. In a study that tested the mechanism for regulation of the F-actin binding activity of IQGAP1 by calmodulin, it was found that an increase in intracellular Ca2+ promotes the binding of calmodulin to IQGAP1, which then inhibits IQGAP1 from binding to actin filaments. [Mateer, 2002]. IQGAP1 is a widely expressed mammalian protein that associates with cortical actin filaments and cross-links actin filaments. [Mateer, 2002]. This binding of the actin filaments is needed for movement in the Physarum organism, so calmodulin usually inhibits the action of this binding as long as calcium concentrations are high enough for calcium to bind and cause a conformation change. It is unclear why the control group moved away from the food source because it was not treated with anything that would make the organism want to move away from the oat flakes. Possible causes for this error would be that there was cross-contamination on the spatula used. To further the experiment, we could have examined the traces the Physarum left behind by placing it against a light source because it is likely that the organism changed direction of growth while in the incubator. The larger implications of this study can be applied to human cells because Physarum uses many of the same signal transduction pathways as human cells do. [Johnson, 2018]. Although this organism does not use hormones or a nervous system to sense and respond to its environment, it uses intracellular signal transduction pathways that can be compared to human cells. An important study relating to calmodulin in signaling pathways found that there is an increased content of calmodulin in human leukemia cells. [Takemoto, 1983]. 
+
+Literature Cited:
+Mateer, Scott, et al. The Mechanism for Regulation of the F-actin Binding Activity of IQGAP1 by Calcium/Calmodulin. The Journal of Biological Chemistry, 24 Jan. 2002. Journal of Biological Chemistry, www.jbc.org/content/277/14/12324.long.
+
+Nishida, E., et al. Calmodulin-regulated binding of the 90-kDa heat shock protein to actin filaments. The Journal of Biological Chemistry, 5 Dec. 1986. Journal of Biological Chemistry, www.jbc.org/content/261/34/16033.short.
+
+ Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated May 1, 2018).
+
+Kenigsberg R.L., Cote A., Trifaro J.M. Trifluoperazine, a calmodulin inhibitor, blocks secretion in cultured chromaffin cells at a step distal from calcium entry. (1982) Neuroscience, 7 (9), p. 2277-2286. https://www.ncbi.nlm.nih.gov/pubmed/6292785
+
+Takemoto, D., Jilka, C., Increased content of calmodulin in human leukemia cells. (1983) PubMed. https://www.ncbi.nlm.nih.gov/pubmed/6834884
+
+
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-22+at+8.48.06+AM.png&Size=89733&Type=image%2Fpng&F=F_3gTrIC58eXPQhet
+
+Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-22+at+8.48.27+AM.png&Size=20728&Type=image%2Fpng&F=F_2xRTgbbawlN1mjz
+
+Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-04-22+at+8.48.45+AM.png&Size=34230&Type=image%2Fpng&F=F_2ZBTUWDaL22eYjT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure Legends: 
+Figure 1. Preparation guideline for the 6 petri dishes. The 20 X solution of Trifluoperazine was created my mixing 1 mL of 1X Trifluoperazine with 19 mL of dH2O. 
+Figure 2. The distance travelled in millimeters of the Physarum stock.
+Figure 3. The distance between the control group and treatment group in average distance traveled by the Physarum in 29 hours. (t-stat= 8.06, d.f.= 4, p=0.0013)
+
+*************************************************************************
