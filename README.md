@@ -4,7 +4,7 @@ This repository contains >4400 student lab reports written for introductory biol
 
 All reports were collected as part of a research study conducted at Wake Forest University under supervision of the Institutional Review Board (IRB Protocol #00022693, approved January 2017). Only reports from students who provided written informed consent (signatures on file) are available from the archive. 
 
-Reports have been de-identified, and both author and grader names replaced with randomized IDs. All report files have been converted to plain text (.txt) format.
+Reports have been de-identified, and both author and grader names replaced with randomized IDs. All report files have been converted to plain text (.txt) format. Examples of BaSH scripts used to strip identifying names and extraneous information are provided in a separate folder.
 
 ## Licensing and Terms of Use
 
