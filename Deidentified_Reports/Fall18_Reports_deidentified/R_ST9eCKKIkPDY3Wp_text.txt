@@ -15,19 +15,19 @@ All species, whether vertebrate or invertebrate, experience muscle contractions 
 Introduction:
    Invertebrates and vertebrates both have skeletal muscles that contain myofibers. These myofibers group together, becoming supplied with nerves through motor neurons. Originating from the spinal cord, motor neurons facilitate muscle contractions (1).  Motor neurons then extend at points called neuromuscular junctions to supply specific myofibers. From here, impulses cause acetylcholine (Ach) to be released, which in turn opens sodium channels. Generated action potentials stimulate calcium, resulting in the activation of a contractile mechanism, which then causes contraction. We speculate that the activation of calcium channels will result in contractions with higher intensity. 
 
-Materials and Methods:
-A tray holding a detached frog leg was placed on the table. The leg was skinned to the muscles. Then, the Achilles tendon was clipped with scissors. Following this, the gastrocnemius muscle was tied with a string and suspended in the air. The remainder of the leg was secured down with pins, and the software was connected. Once the software was enabled, various frequencies were stimulated for five seconds each. The effects of the stimulations on the muscle were observed and recorded. 
+Materials and Method:
+A tray holding a detached frog leg was placed on the table. The leg was skinned to the muscles. Then, the Achilles tendon was clipped with scissors. Following this, the gastrocnemus muscle was tied with a string and suspended in the air. The remainder of the leg was secured down with pins, and the software was connected. Once the software was enabled, various frequencies were stimulated for five seconds each. The effects of the stimulations on the muscle were observed and recorded. 
 
 Results:
-Trials were conducted on two frog legs. Regular contractions served as the control date, while contractions following the activation of the calcium channels served as the treatment data. Five trials were conducted prior to activation and after activation on each leg. Throughout the conducted trials on the first leg, the control data commenced at an intensity around .1, before experiencing a gradual increase. However, the treatment trials commenced at a contraction around .28, before experiencing a decline (Figure 1). On the second leg, the control data once more commenced at .1, before experiencing a gradual decline, while the treatment date commenced around .25, before experiencing a sharper decline (Figure 2). 
+Trials were conducted on two frog legs. Regular contractions served as the controll date, while contractions following the activation of the calcium channels served as the treatment data. Five trials were conducted prior to activation and after activation on each leg. Throughout the conducted trials on the first leg, the controll data commenced at an intensity around .1, before experiencing a gradual increase. However, the treatment trials commenced at a contraction around .28, before experiencing a decline (Figure 1). On the second leg, the controll data once more commenced at .1, before experiencing a gradual decline, while the treatment date commenced around .25, before experiencing a sharper decline (Figure 2). 
 
 Discussion:
-As demonstrated through the trials, the activation of calcium channels resulted in contractions at greater intensity. The normal contractions never commenced at more than .1 intensity, in contrast to both post-activation contractions commencing at above .25 intensity. This proved our hypothesis, which asserted that the activation of calcium channels would result in contractions at higher intensity. This also translated to muscle fatigue, as the treatment trials experienced a steeper decline. Overall, the experiment reaffirmed past findings of calcium having a significant, if perhaps the primary role in muscle contractions. 
+As demonstrated through the trials, the activation of calcium channels resulted in contractions at greater intensity. The normal contractions never commenced at more than .1 intensity, in contrast to both post-activation contractions commencing at above .25 intensity. This proved our hypothesis, which asserted that the activation of calcium channels would result in contractions at higher intensity. This also translated to muscle fatigue, as the treatment trials experienced a steeper decline. Overall, the experiment reaffirmed past findings of calcium having a significent, if perhaps the primary role in muscle contractions. 
 
 Literature Cited:
 1.Cooper, RJ. Weck, MA. Ford. DJ. Neuromuscular Control. Comparative Physiology Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Ver. 18.2 (updated August 12, 2018), pp. 17-18
 
-2. University of California Regents. Skeletal Muscle Fiber Structure. University of California San Diego. Accessed November 1, 2018. &lt; http://muscle.ucsd.edu/Musintro/myofiber.shtml&gt;
+2. University of California Regents. Skeletal Muscle Fiber Structure. University of California San Diego. Accessed November 1, 2018. &lt; http://muscle.ucsd.edu/Musintro/myofiber.shtMl&gt;
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.PNG&Size=5790&Type=image%2Fpng&F=F_27eU6hGkTXGzQlP
@@ -55,8 +55,8 @@ Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1: Contraction intensities of first frog leg. The control data is prior to activation, with the treatment data after the activation.
-Figure 2: Contraction intensities of second frog leg. The control data and the treatment date abide by the same rules of the first leg in regards to activation.
+Figure 1: Contraction intensities of first frog leg. The controll data is prior to activation, with the treatment data after the activation.
+Figure 2: Contraction intensities of second frog leg. The controll data and the treatment date abide by the same rules of the first leg in regards to activation.
 Figure 3: Paired T-Test results of the first frog leg.
 Figure 4: Paired T-Test results of the second frog leg. *************************************************************************
 

@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2018-10-05 13:33:13
+Date submitted: 2018-10-05 13:33: 13
 Author of this lab report is: Std_T494hzfh
 ID: R_W98u2HYboP3y5Fv
 Course number: BIO103L
@@ -10,29 +10,29 @@ TA: TA_jzY6bAQ4
 Title: The effects of herbivory on the resource allocation of Fagopyrum esculentum
 
 Abstract:
-We studied the effect of herbivory on the resource allocation of buckwheat plants (Fagopyrum esculentum). We conducted this study by simulating herbivory by cutting the leaves of the plants in our experimental group. After a 14 day experimental period, we measured the root and shoot lengths and masses of our buckwheat plants. Our statistics showed that the difference between the control and experimental groups were not significant. We conclude that herbivory does not significantly affect resource allocation in buckwheat plants.
+We studied the effect of herbivory on the resource allocation of buckwheat plants (Fagopyrum esculentum). We conducted this study by simulating herbivory by cutting the leaves of the plants in our experimental group. After a 14 day experimental period, we measured the root and shoot lengths and masses of our buckwheat plants. Our statistics showed that the difference between the controll and experimental groups were not significent. We conclude that herbivory does not significently affect resource allocation in buckwheat plants.
 
 
 Introduction:
 We will be studying buckwheat plants (Fagopyrum esculentum). Buckwheat is a domesticated food plant commonly grown in Asia and was introduced into the New World by European settlers in the 17th century [Treadwell & Huang: 2008]. In this experiment, we are trying to understand the effects of herbivory. Herbivory is the eating of living plants by insects. We know that herbivory reduces plant fitness [Harvell & Tollrian: 1999]. We are specifically trying to see if herbivory affects the root to shoot ratio of our buckwheat plants. The effects on the root to shoot ratio are important because it shows how the plant is allocating its resources. We are studying this because insects are common in almost every environment that plants are grown around the world. It is important for us as biologists to understand the effects that the insects have on these plants, and how the plants respond. We hypothesize that if herbivory acts on the leaves, the buckwheat plants will allocate more resources to the leaves, causing a smaller root to shoot ratio.
 
-Materials and Methods:
-We planted 32 total buckwheat plants in 8 different pots 4 plants in each pot). Half (16) of these plants served as the experimental group and the other have served as the control group. In the experimental group, we simulated herbivory by cutting a small whole in one leaf per plan per day. The control group was not cut at and both groups received the same amount of daily water. After an experimental period of 14 days, we uprooted the plants. We then cut the plants at the area where the root becomes the shoot and separated the two. We measured the mass all 32 roots and all 32 shoots using a scale and we measured the length in centimeters using a ruler. We used these data points to calculate mean root:shoot ratios for mass and length in the control and experimental groups, as well as the standard deviation for each measurement. We measured the significance of our results by comparing the means using a two sample one-tailed T test.
+Materials and Method:
+We planted 32 total buckwheat plants in 8 different pots 4 plants in each pot). Half (16) of these plants served as the experimental group and the other have served as the controll group. In the experimental group, we simulated herbivory by cutting a small whole in one leaf per plan per day. The controll group was not cut at and both groups received the same amount of daily water. After an experimental period of 14 days, we uprooted the plants. We then cut the plants at the area where the root becomes the shoot and separated the two. We measured the mass all 32 roots and all 32 shoots using a scale and we measured the length in centimeters using a ruler. We used these data points to calculate mean root:shoot ratios for mass and length in the controll and experimental groups, as well as the standard deviation for each measurement. We measured the significance of our results by comparing the means using a two sample one-tailed T test.
 
 
 Results:
-Figure 1 shows the difference between our mean root to shoot ratio for mass in our experimental (0.2797 ± 0.1713) and our control (0.2627 ± 0.0587) groups. The experimental group was more variable than the control group, but the means were very similar.
+Figure 1 shows the difference between our mean root to shoot ratio for mass in our experimental (0.2797 ± 0.1713) and our controll (0.2627 ± 0.0587) groups. The experimental group was more variable than the controll group, but the means were very similar.
 
-t-stat = 0.377, df = 30, P = 035
+t_stat = 0.377, d.f. = 30, P = 035
 
-Figure 2 shows the difference between our mean root to shoot length ratio in our experimental (0.8331 ± 0.2594) and control (0.9690 ± 0.2712) groups. Both groups had small variability.
+Figure 2 shows the difference between our mean root to shoot length ratio in our experimental (0.8331 ± 0.2594) and controll (0.9690 ± 0.2712) groups. Both groups had small variability.
 
-t-stat = 0.1.45, df = 30, P = 0.08
+t_stat = 0.1.45, d.f. = 30, P = 0.08
 
 
 
 Discussion:
-Our hypothesis that if herbivory acts on the leaves, the buckwheat plants will allocate more resources to the leaves, causing a smaller root to shoot ratio can be rejected. Our hypothesis is rejected because our results show that there is no significant difference between the experimental and control groups in root to shoot mass ratio (P=0.377) and root to shoot length ratio (P = 0.078). There are a few reasons that herbivory would not affect the root to shoot ratio in a significant fashion. Firstly, herbivory might simply not affect resource allocation in a significant manner. Another explanation is that herbivory affects the overall size of the plant but not the root to shoot ratios, as seen in Clay et. al [1993]. Another feasible explanation is that the buckwheat plants did allocate more resources to the leaves but not enough to show a significant difference considering we were stunting the growth of the shoot by cutting the leaves. If we were to do this experiment again, we would lengthen the experimental period to longer than two weeks and give herbivory more time to act, as well as measuring the effect on the total mass of the plants instead of the root to shoot ratios.  We think our biological thinking was correct in forming our hypothesis based on Meiden et al.: “Plants that are frequently consumed have low shoot/ root ratios and a well-developed regrowth mechanism, whereas plants that are rarely consumed have high shoot/root ratios and a poor regrowth mechanism” [1998]. Meiden et al’s model organism was not buckwheat, however. We find another example that supports our hypothesis and the need to lengthen the experimental period: “Trees experiencing folivory over four consecutive years maintained similar levels of foliar biomass after attack yet possessed twice the number of leaf-bearing terminal stems as undamaged trees” [2005]. Another thing we would do differently when redoing this experiment is that we would add multiple new plant species to see if other species respond to herbivory differently. 
+Our hypothesis that if herbivory acts on the leaves, the buckwheat plants will allocate more resources to the leaves, causing a smaller root to shoot ratio can be rejected. Our hypothesis is rejected because our results show that there is no significent difference between the experimental and controll groups in root to shoot mass ratio (P=0.377) and root to shoot length ratio (P = 0.078). There are a few reasons that herbivory would not affect the root to shoot ratio in a significent fashion. Firstly, herbivory might simply not affect resource allocation in a significent manner. Another explanation is that herbivory affects the overall size of the plant but not the root to shoot ratios, as seen in Clay et. al [1993]. Another feasible explanation is that the buckwheat plants did allocate more resources to the leaves but not enough to show a significent difference considering we were stunting the growth of the shoot by cutting the leaves. If we were to do this experiment again, we would lengthen the experimental period to longer than two weeks and give herbivory more time to act, as well as measuring the effect on the total mass of the plants instead of the root to shoot ratios.  We think our biological thinking was correct in forming our hypothesis based on Meiden et al.: “Plants that are frequently consumed have low shoot/ root ratios and a well-developed regrowth mechanism, whereas plants that are rarely consumed have high shoot/root ratios and a poor regrowth mechanism” [1998]. Meiden et al’s model organism was not buckwheat, however. We find another example that supports our hypothesis and the need to lengthen the experimental period: “Trees experiencing folivory over four consecutive years maintained similar levels of foliar biomass after attack yet possessed twice the number of leaf-bearing terminal stems as undamaged trees” [2005]. Another thing we would do differently when redoing this experiment is that we would add multiple new plant species to see if other species respond to herbivory differently. 
 
 Literature Cited:
 1. Treadwell D, Huang P. 2008. Buckwheat: a cool-season cover crop for Florida vegetable systems. University of Florida IFAS Extension. Document HS1135.
@@ -64,13 +64,13 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1 shows the difference between our mean root to shoot ratio for mass in our experimental (0.2797 ± 0.1713) and our control (0.2627 ± 0.0587) groups. The experimental group was more variable than the control group, but the means were very similar.
+Figure 1 shows the difference between our mean root to shoot ratio for mass in our experimental (0.2797 ± 0.1713) and our controll (0.2627 ± 0.0587) groups. The experimental group was more variable than the controll group, but the means were very similar.
 
-t-stat = 0.377, df = 30, P = 035
+t_stat = 0.377, d.f. = 30, P = 035
 
-Figure 2 shows the difference between our mean root to shoot length ratio in our experimental (0.8331 ± 0.2594) and control (0.9690 ± 0.2712) groups. Both groups had small variability.
+Figure 2 shows the difference between our mean root to shoot length ratio in our experimental (0.8331 ± 0.2594) and controll (0.9690 ± 0.2712) groups. Both groups had small variability.
 
-t-stat = 0.1.45, df = 30, P = 0.08
+t_stat = 0.1.45, d.f. = 30, P = 0.08
 *************************************************************************
 
 

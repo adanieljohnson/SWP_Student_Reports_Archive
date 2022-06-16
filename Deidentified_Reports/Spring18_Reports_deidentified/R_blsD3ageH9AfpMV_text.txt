@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2018-02-21 18:45:10
+Date submitted: 2018-02-21 18:45: 10
 Author of this lab report is: Std_CBGMKlTJ
 ID: R_blsD3ageH9AfpMV
 Course number: BIO101L
@@ -14,18 +14,18 @@ Manduca Sexta, also known as the tobacco hornworm, has evolved a method for regu
 
 Introduction:
 Manduca Sexta, also known as the tobacco hornworm, has a lifespan between 30-50 days. During development, Juvenile Hormone (JH) plays a crucial role in regulating the physiology of these insects. For instance, JH regulates metamorphosis by preventing Manduca Sexta from continuing maturation and forming a pupa to transition from a larval stage to an adult. As the insect develops through each stage, growing and maturing into an adult, the amount of JH is reduced (Niño et al.) The present study aims to address ways to modulate insect growth by studying the effects of different JH analogs (JHAs). 
-A lot of research has been conducted on JHAs in pesticides (for example, see Ginjupalli and Baldwin). Precor, active ingredient methoprene, is a JHA that has long been used in pesticides because they are not of concern to human health (Kavlock and Ankley), JHAs are an attractive management options for farmers because they have low toxicity to mammals and an extensive history of controlling a variety of pests, such as cockroaches, mosquitoes, and fleas (Goodman, Potter, and Haynes). Specifically, by imitating high levels of JH, these analogs interfere with the development of normal reproductive adults by preventing the targeted insect from ever maturing (Goodman, Potter, and Haynes; Niño et al.), which can protect crops from current and subsequent pest populations. Thus, our belief is that high levels of JH hinders the growth and development of Manduca Sexta, as measured by individual organism's weight.
+A lot of research has been conducted on JHAs in pesticides (for example, see Ginjupalli and Baldwin). Precor, active ingredient methoprene, is a JHA that has long been used in pesticides because they are not of concern to human health (Kavlock and Ankley), JHAs are an attractive management options for farmers because they have low toxicity to mammals and an extensive history of controllling a variety of pests, such as cockroaches, mosquitoes, and fleas (Goodman, Potter, and Haynes). Specifically, by imitating high levels of JH, these analogs interfere with the development of normal reproductive adults by preventing the targeted insect from ever maturing (Goodman, Potter, and Haynes; Niño et al.), which can protect crops from current and subsequent pest populations. Thus, our belief is that high levels of JH hinders the growth and development of Manduca Sexta, as measured by individual organism's weight.
 Our hypothesis is: Precor (methoprene), does not affect the growth of Manduca Sexta, so weight does not change when exposed to Precor.
 
-Materials and Methods:
-To conduct our experiment, we first selected 8 Manduca Sexta caterpillars from the Bio 114 lab that weigh between 0.75 and 1.75 g. From there we divided the caterpillars in two groups (an experimental and a control), placing one from each group into each container, which was separated by an index card. For each group of caterpillars we gave one of two diets: the control group had 10g of Great Lakes Manduca (GLM) diet-recommended by the manufacturer, with 4 drops of DI water; and the experimental group had 10g of GLM diet, supplemented with 4 drops of Precor (active ingredient methoprene). After the initial preparation, we kept all of our caterpillars in the same incubator, after properly labeling their containers with the group name and ID number.
+Materials and Method:
+To conduct our experiment, we first selected 8 Manduca Sexta caterpillars from the Bio 114 lab that weigh between 0.75 and 1.75 g. From there we divided the caterpillars in two groups (an experimental and a controll), placing one from each group into each container, which was separated by an index card. For each group of caterpillars we gave one of two diets: the controll group had 10g of Great Lakes Manduca (GLM) diet-recommended by the manufacturer, with 4 drops of DI water; and the experimental group had 10g of GLM diet, supplemented with 4 drops of Precor (active ingredient methoprene). After the initial preparation, we kept all of our caterpillars in the same incubator, after properly labeling their containers with the group name and ID number.
 
 Results:
-On average, the control group weighed more than the experimental group. The control group's average weights for containers 1-4, respectively, were: 3.057g +/- 0.975; 2.0457g +/- 0.452; 2.16g +/- 0.415; 1.596g +/- 0.304. The experimental group's average weights for containers 1-4, respectively, were 2.04g +/- 0.456; 1.104g +/- 0.582; 2.424g +/- 0.726; 0.9238g +/- 0.1078 (Figures 2 & 3). The average difference in weight between caterpillars in the control and experimental groups was 0.592g. The paired t-test using the difference in weight yielded a p-value of 0.2584 (Figure 3).
+On average, the controll group weighed more than the experimental group. The controll group's average weights for containers 1-4, respectively, were: 3.057g +/- 0.975; 2.0457g +/- 0.452; 2.16g +/- 0.415; 1.596g +/- 0.304. The experimental group's average weights for containers 1-4, respectively, were 2.04g +/- 0.456; 1.104g +/- 0.582; 2.424g +/- 0.726; 0.9238g +/- 0.1078 (Figures 2 & 3). The average difference in weight between caterpillars in the controll and experimental groups was 0.592g. The paired t_test using the difference in weight yielded a p_value of 0.2584 (Figure 3).
 
 Discussion:
-The p-value of 0.2584 is far above the significance level of 0.05, which indicates that we must accept the null hypothesis. With that in mind, however, after completing this experiment, we discovered that our protocol called for fresh food to be given each day. Another result of this miscommunication is the observation that the subjects lost weight starting on the 6th day and continuing to the 7th. Accordingly, a possible reason that the p-value is so high is because the subjects may have had an insufficient food supply. Thus, the observed difference, while not statistically significant, may actually be due to the addition of Precor. Under this assumption, findings (Niño et al.; Goodman, Potter, and Haynes) that JHAs interfere with the development of normal reproductive adults prove accurate. 
-	Alternatively, the results observed in this experiment may be attributed to random chance-as suggested by the high p-value. If that is the case, perhaps Manduca Sexta has evolved an immunity to the effects of Precor. Additionally, there are confounding variables that may further explain the high p-value, including variations in duration spent in the containers with food due to different prep times and different team members efficiency at weighing the caterpillars.
+The p_value of 0.2584 is far above the significance level of 0.05, which indicates that we must accept the null hypothesis. With that in mind, however, after completing this experiment, we discovered that our protocol called for fresh food to be given each day. Another result of this miscommunication is the observation that the subjects lost weight starting on the 6th day and continuing to the 7th. Accordingly, a possible reason that the p_value is so high is because the subjects may have had an insufficient food supply. Thus, the observed difference, while not statistically significent, may actually be due to the addition of Precor. Under this assumption, findings (Niño et al.; Goodman, Potter, and Haynes) that JHAs interfere with the development of normal reproductive adults prove accurate. 
+	Alternatively, the results observed in this experiment may be attributed to random chance-as suggested by the high p_value. If that is the case, perhaps Manduca Sexta has evolved an immunity to the effects of Precor. Additionally, there are confounding variables that may further explain the high p_value, including variations in duration spent in the containers with food due to different prep times and different team members efficiency at weighing the caterpillars.
 
 
 Literature Cited:
@@ -56,8 +56,8 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. Weight in gram for the control and experimental caterpillars in each container. 
+Figure 1. Weight in gram for the controll and experimental caterpillars in each container. 
 Figure 2. Comparison between Average Weight of Manduca Sexta caterpillars. Control group (blue) vs. experimental group (orange).
-Figure 3. Average weight of the control vs. experimental group.
+Figure 3. Average weight of the controll vs. experimental group.
 
 *************************************************************************

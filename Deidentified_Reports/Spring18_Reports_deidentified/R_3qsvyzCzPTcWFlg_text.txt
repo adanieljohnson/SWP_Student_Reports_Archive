@@ -7,12 +7,12 @@ ID: R_3qsvyzCzPTcWFlg
 Course number: BIO101L
 TA: TA_kLMtS9Cu
 *************************************************************************
-Title: Effects of Lidocaine on the Gastrocnemius Muscle of Rana pipiens 
+Title: Effects of Lidocaine on the Gastrocnemius Muscle of Rania pipiens 
 
 Abstract:
-Action potentials orchestrate muscle contractions between neurons and muscle cells. Sodium is a crucial element in action potentials, as they cause the depolarization that begins the action potential. We hypothesize that if we inject the gastrocnemius muscle of Rana pipiens with 25mM of lidocaine, the level of contraction will significantly decrease, and the duration of the latent period will increase. 
+Action potentials orchestrate muscle contractions between neurons and muscle cells. Sodium is a crucial element in action potentials, as they cause the depolarization that begins the action potential. We hypothesize that if we inject the gastrocnemus muscle of Rania pipiens with 25mM of lidocaine, the level of contraction will significently decrease, and the duration of the latent period will increase. 
 
-To test our hypothesis, we directly stimulated the sciatic nerve of a frog leg and recorded the generated twitches in the gastrocnemius muscle before and after injecting lidocaine. Each time we measured the amplitude of the contraction and the duration of the latent period. 
+To test our hypothesis, we directly stimulated the sciatic nerve of a frog leg and recorded the generated twitches in the gastrocnemus muscle before and after injecting lidocaine. Each time we measured the amplitude of the contraction and the duration of the latent period. 
 
 As predicted, the duration of the latent period increased after injection and the amplitude decreased after injection. This is because the sodium channels were blocked due to lidocaine, a sodium channel blocker. 
 
@@ -24,27 +24,27 @@ At the neuromuscular junction, a nerve stimulates muscle contraction through a p
 
 First, an action potential arrives at the post-synaptic terminal of the neuron. The action potential depolarizes the cell and as a result, there is an influx of Na+. Then, Ca2+ enters the cells causing exocytosis of Acetylcholine (ACh). ACh then binds to receptors on the post-synaptic membrane and the action potential beings in the next cell. For this experiment, the post-synaptic cell is a muscle cell, so therefore the action potential causes muscle contraction. 
 
-Lidocaine is a Na+ channel blocker. We predict that if we inject the gastrocnemius muscle with lidocaine, the chemical will cause the sodium channels to be blocked and the amplitude of the contraction will decrease substantially while the latent period increases substantially. 
+Lidocaine is a Na+ channel blocker. We predict that if we inject the gastrocnemus muscle with lidocaine, the chemical will cause the sodium channels to be blocked and the amplitude of the contraction will decrease substantially while the latent period increases substantially. 
 
 
-Materials and Methods:
-To test our hypothesis, we preformed direct nerve stimulation to the sciatic nerve and recorded the contractions in the gastrocnemius muscle of Rana pipiens. To do this, we had to expose the sciatic nerve of two frog legs. Once we exposed the sciatic nerve, two stimulation electrodes were placed on the nerve. Then, for each leg we found the minimum voltage for the maximum contraction to occur. Muscle twitches were measured with a force transducer connected to an iWorx box and amplitude of the contraction was measured in response to increased voltage for the maximum contraction. 
+Materials and Method:
+To test our hypothesis, we preformed direct nerve stimulation to the sciatic nerve and recorded the contractions in the gastrocnemus muscle of Rania pipiens. To do this, we had to expose the sciatic nerve of two frog legs. Once we exposed the sciatic nerve, two stimulation electrodes were placed on the nerve. Then, for each leg we found the minimum voltage for the maximum contraction to occur. Muscle twitches were measured with a force transducer connected to an iWorx box and amplitude of the contraction was measured in response to increased voltage for the maximum contraction. 
 
-After we determined the voltage for maximum contraction, we stimulated the nerve at that voltage three times and measured the latent period for both frog legs. Then, we injected the gastrocnemius muscle of both frog legs with 0.1mL of 25mM of lidocaine. We preformed the same measurements that we did before we injected the frog leg. Lastly, we compared the amplitude of contraction and latent period of the obtained myograms before we injected the frog legs with lidocaine. 
+After we determined the voltage for maximum contraction, we stimulated the nerve at that voltage three times and measured the latent period for both frog legs. Then, we injected the gastrocnemus muscle of both frog legs with 0.1Ml of 25mM of lidocaine. We preformed the same measurements that we did before we injected the frog leg. Lastly, we compared the amplitude of contraction and latent period of the obtained myograms before we injected the frog legs with lidocaine. 
 
 
 Results:
-Figure 1 suggests that on average, the amplitude of the contraction was larger before the injection of lidocaine. The average difference in the amplitude of contraction (before treatment - after treatment) is -0.237V. The mean amplitude of the contraction after the lidocaine injection was significantly smaller than the mean amplitude before the lidocaine injection (t-stat = 12.787, df = 1, P = 0.0497). In comparison, Figure 2 suggests that the duration of the latent period after the lidocaine injection is longer. Unlike the results for amplitude, the mean duration of the latent period after injection is not statistically larger than the mean duration of the latent period before the lidocaine injection (t-stat = 3, df = 1, P = 0.205). 
+Figure 1 suggests that on average, the amplitude of the contraction was larger before the injection of lidocaine. The average difference in the amplitude of contraction (before treatment - after treatment) is -0.237V. The mean amplitude of the contraction after the lidocaine injection was significently smaller than the mean amplitude before the lidocaine injection (t_stat = 12.787, d.f. = 1, P = 0.0497). In comparison, Figure 2 suggests that the duration of the latent period after the lidocaine injection is longer. Unlike the results for amplitude, the mean duration of the latent period after injection is not statistically larger than the mean duration of the latent period before the lidocaine injection (t_stat = 3, d.f. = 1, P = 0.205). 
 
 
 Discussion:
 Lidocaine is a sodium channel blocker. This means that the amplitude of a contraction is expected to decrease in the presence of lidocaine. This is because sodium causes the cell to depolarize, beginning the action potential which ultimately causes the contraction. If there are lower levels of sodium, the cell will take longer to depolarize, and the contraction won't be as strong. Therefore, if the contractions aren't as strong, the amplitude (level of contraction) will be smaller and the latent period (the time before the contraction occurs) will be longer. According to previous experiments, at low doses, lidocaine induced a small reduction in action potential duration and contraction [Mitchell: 1988], which is exactly what we predicted. 
 
-It is clearly represented in figure 1 that the amplitude of the contractions after the injection is much smaller. The p-value for the mean difference in amplitude before and after injection is 0.0497 and therefore our results are statistically significant, meaning that the amplitude of contraction after injection is significantly smaller than that before injection. 
+It is clearly represented in figure 1 that the amplitude of the contractions after the injection is much smaller. The p_value for the mean difference in amplitude before and after injection is 0.0497 and therefore our results are statistically significent, meaning that the amplitude of contraction after injection is significently smaller than that before injection. 
 
-As represented in figure 2, the latent period after the injection is much longer than the latent period before the injection, which we hypothesized. In regard to the duration of the latent period, our results were not statistically significant meaning that the latent period could have been longer simply due to chance.  Although our results are not statistically significant, I still accept our hypothesis with caution. We predicted that the latent period after injection would increase and we predicted that the amplitude of the contractions would decrease. Both of these outcomes occurred, therefore I accept our hypothesis. 
+As represented in figure 2, the latent period after the injection is much longer than the latent period before the injection, which we hypothesized. In regard to the duration of the latent period, our results were not statistically significent meaning that the latent period could have been longer simply due to chance.  Although our results are not statistically significent, I still accept our hypothesis with caution. We predicted that the latent period after injection would increase and we predicted that the amplitude of the contractions would decrease. Both of these outcomes occurred, therefore I accept our hypothesis. 
 
-To improve this experiment, I would test our hypothesis on a few more frog legs to ensure that our results are statistically significant. We were initially given another frog leg, but it's gastrocnemius muscle was not contracting and therefore we could not use that leg for our experiment. 
+To improve this experiment, I would test our hypothesis on a few more frog legs to ensure that our results are statistically significent. We were initially given another frog leg, but it's gastrocnemus muscle was not contracting and therefore we could not use that leg for our experiment. 
 
 
 
@@ -79,8 +79,8 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. The average amplitude of contraction for two gastrocnemius muscles of Rana pipiens before and after the injection of 0.1mL of lidocaine. Each bar represents the average of three amplitudes for two frog legs and the whickers represent the standard deviation. 
+Figure 1. The average amplitude of contraction for two gastrocnemus muscles of Rania pipiens before and after the injection of 0.1Ml of lidocaine. Each bar represents the average of three amplitudes for two frog legs and the whickers represent the standard deviation. 
 
-Figure 2. The average duration of the latent period for two gastrocnemius muscles of Rana pipiens before and after the injection of 0.1mL of lidocaine. Each bar represents the average of three measurements of latent period of two frog legs and the whickers represent the standard deviation. 
+Figure 2. The average duration of the latent period for two gastrocnemus muscles of Rania pipiens before and after the injection of 0.1Ml of lidocaine. Each bar represents the average of three measurements of latent period of two frog legs and the whickers represent the standard deviation. 
 
 *************************************************************************

@@ -15,11 +15,11 @@ Nitrogen is extremely important in the growth and energy intake all crop plants 
 Introduction:
 Buckwheat (Fagopyrum esculentum) is a common plant used for food in many parts of the world.  Buckwheat can provide an array of different nutrients including natural protein, dietary fibers, resistant starch, vitamins, and minerals [Wijngaard, 2006].  Buckwheat was chosen for this experiment because of its simplicity and its ability to sprout and grow within a short amount of time.  Nitrogen is essential to the growth of Buckwheat along with most other plant-life, it is primarily responsible for plant growth and energy intake.  The pattern in which received energy is assigned is called energy allocation.  Depending on the resources available, plants will change the way they build their structure to increase their chances of survival.  This leads to the question of how an increase in Nitrogen will be interpreted by plants.  Will it be a positive reaction?  Or will the addition of Nitrogen overwhelm the plant’s natural systems and stunt growth?  These questions are important considering that plants are a large food source and that more and more plant species are going extinct every couple of years because of a change in environment.  There is a great need to be able to understand the extent to which plants can adapt to their environments.  In this study, there will be a focus on observing the relationship between Nitrogen and the way that plants restructure themselves according to the difference in soil composition.  It is predicted that the averages of root and shoot length will be different because it is expected that the Buckwheat seeds will capitalize on the added resource and build more plant-matter as a result.
 
-Materials and Methods:
-First, 10 plastic containers were set aside and filled with soil.  5 previously soaked Buckwheat seeds were inserted into the soil in each plastic container.  The 10 containers were separated into 2 groups of 5 containers (5 control and 5 treatment containers), they were then labeled accordingly.  The soil-seed combinations were then completely saturated with water then left in a greenhouse for the night.  For the next two weeks, the control group was sustained with just water while the treatment group was sustained with water and 50 mL of Nitrogen concentrate per container.  After two weeks, 5 plants were picked at random from each group. Next, they were submerged in water, separated and cleaned so that proper measurements could be taken.  The roots and shoots were measured in millimeters, the roots should be measured up until the distinct change in color.  All of the data was recorded and averaged together.  A two-sample t-test was used to determine if the data was significant.
+Materials and Method:
+First, 10 plastic containers were set aside and filled with soil.  5 previously soaked Buckwheat seeds were inserted into the soil in each plastic container.  The 10 containers were separated into 2 groups of 5 containers (5 controll and 5 treatment containers), they were then labeled accordingly.  The soil-seed combinations were then completely saturated with water then left in a greenhouse for the night.  For the next two weeks, the controll group was sustained with just water while the treatment group was sustained with water and 50 Ml of Nitrogen concentrate per container.  After two weeks, 5 plants were picked at random from each group. Next, they were submerged in water, separated and cleaned so that proper measurements could be taken.  The roots and shoots were measured in millimeters, the roots should be measured up until the distinct change in color.  All of the data was recorded and averaged together.  A two-sample t_test was used to determine if the data was significent.
 
 Results:
-The data is insignificant (P=0.60)
+The data is insignificent (P=0.60)
 
 Control Roots: 
 	Mean: 74.6 mm
@@ -35,19 +35,19 @@ Treatment Shoots:
 	Mean: 105.4 mm
 	Standard Deviation: 24.7 mm
 
-The standard deviation marks appear to be off because of the p-value.
+The standard deviation marks appear to be off because of the p_value.
 
 
 
 Discussion:
-During this lab, it was observed that the roots and shoots were longer in our treatment group and shorter than our control group.  However, it was found that the data is insignificant.  Therefore, the hypothesis is not supported.  There were some things that probably affected the data that we received.  For the first week the plants barely grew and had to be re-planted, this resulted in the plants being at different stages of maturity when the lengths were measured.  While the data for this experiment was not significant, there is still value in continuing the study of plant allocation, incase of replication, it might be more beneficial to make sure the conditions for the seeds are kept constant so that the data will be more accurate.  For future studies, it would probably be helpful to study plants on a more broad scale.  For instance, a study on how plants in the natural world allocate their resources during different seasons would give more insight into plants in their natural habitats.
+During this lab, it was observed that the roots and shoots were longer in our treatment group and shorter than our controll group.  However, it was found that the data is insignificent.  Therefore, the hypothesis is not supported.  There were some things that probably affected the data that we received.  For the first week the plants barely grew and had to be re-planted, this resulted in the plants being at different stages of maturity when the lengths were measured.  While the data for this experiment was not significent, there is still value in continuing the study of plant allocation, incase of replication, it might be more beneficial to make sure the conditions for the seeds are kept constant so that the data will be more accurate.  For future studies, it would probably be helpful to study plants on a more broad scale.  For instance, a study on how plants in the natural world allocate their resources during different seasons would give more insight into plants in their natural habitats.
 
 Literature Cited:
 “Soil–Plant–Nitrogen Relationships.” Google Books, Google, https://books.google.com/books? 
        id=fi_LBAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.
 
 Wijngaard, H. H., and E. K. Arendt. “Buckwheat.” Wiley Online Library, John Wiley & Sons, Ltd, 15 July 2006, 
-       https://onlinelibrary.wiley.com/doi/pdf/10.1094/CC-83-0391.
+       https://onlinelibrary.wiley.com/doi/pd.f./10.1094/CC-83-0391.
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=AVERAGE+ROOTS+AND+SHOOTS.png&Size=6420&Type=image%2Fpng&F=F_28TGW4d8b2WoADU
 

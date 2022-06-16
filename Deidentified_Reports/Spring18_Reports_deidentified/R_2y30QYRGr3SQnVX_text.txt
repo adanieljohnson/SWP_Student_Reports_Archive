@@ -1,23 +1,23 @@
 *************************************************************************
 Number of lab report in semester: second
 This is a submission.
-Date submitted: 2018-03-27 08:11:31
+Date submitted: 2018-03-27 08: 11:31
 Author of this lab report is: Std_sY0KSwLe
 ID: R_2y30QYRGr3SQnVX
 Course number: BIO103L
 TA: TA_fMNrLFgi
 *************************************************************************
-Title: Difference in size does not affect aggression in Betta splendens
+Title: Difference in size does not affect aggression in Betta splendins
 
 Abstract:
-The Siamese fighting fish (Betta splendens) displays aggression when exposed to rival males. This experiment was performed to see if there was a correlation between size of males and their aggressive behaviors. After exposing male fish of different sizes to each other in a separate tank, their behaviors were observed.  The analysis of the data showed that there was no correlation between these variables. This goes against the hypothesis that there was a correlation. 
+The Siamese fighting fish (Betta splendins) displays aggression when exposed to rival males. This experiment was performed to see if there was a correlation between size of males and their aggressive behaviors. After exposing male fish of different sizes to each other in a separate tank, their behaviors were observed.  The analysis of the data showed that there was no correlation between these variables. This goes against the hypothesis that there was a correlation. 
 
 
 Introduction:
-The Siamese fighting fish (Betta splendens) is known for its aggressive behavior in the presence of others of its species, especially rival males [Evans: 1985]. The purpose of this experiment is to see whether size of the males affects their aggressive behaviors. The hypothesis is that there will be a correlation between size of the male and aggression. There are many examples of this trend in other species, such as Brachyrhaphis rhabdophora [Basolo: 2004]. 
+The Siamese fighting fish (Betta splendins) is known for its aggressive behavior in the presence of others of its species, especially rival males [Evans: 1985]. The purpose of this experiment is to see whether size of the males affects their aggressive behaviors. The hypothesis is that there will be a correlation between size of the male and aggression. There are many examples of this trend in other species, such as Brachyrhaphis rhabdophora [Basolo: 2004]. 
 
-Materials and Methods:
-For testing, a tank was prepared that had a transparent glass partition and a sliding opaque plastic partition, allowing for two fish in each section of the tank to interact without touching each other for carefully measured durations of time. Fish were selected based on size, with care being taken to match only same-colored fish in order to limit that variable. A small fish and a large fish were acquired, and they were placed in separate compartments of this tank. Then the opaque divider was removed so the fish could see one another. They were carefully observed for several aggressive behaviors, the most obvious of which are the flaring of the branchiostegal membranes in the gills of the fish, and the vigorous beating of the tail. The fish were watched for these behaviours for 5 minutes, and the results were recorded. This was repeated with 3 seperate groups of fish. With these data, a two-sample t-test was run using Excel. 
+Materials and Method:
+For testing, a tank was prepared that had a transparent glass partition and a sliding opaque plastic partition, allowing for two fish in each section of the tank to interact without touching each other for carefully measured durations of time. Fish were selected based on size, with care being taken to match only same-colored fish in order to limit that variable. A small fish and a large fish were acquired, and they were placed in separate compartments of this tank. Then the opaque divider was removed so the fish could see one another. They were carefully observed for several aggressive behaviors, the most obvious of which are the flaring of the branchiostegal membranes in the gills of the fish, and the vigorous beating of the tail. The fish were watched for these behaviours for 5 minutes, and the results were recorded. This was repeated with 3 seperate groups of fish. With these data, a two-sample t_test was run using Excel. 
 
 
 Results:
@@ -28,10 +28,10 @@ In terms of gill-flaring of the branchiostegal membrane (see figure 2), the resu
 
 
 Discussion:
-According to these data, there is no correlation between size and aggression in Betta splendens. This is goes against the hypothesis. This is somewhat surprising, as many species, including other fish, do have a correlation between size and aggression [Basolo: 2004]. However, the data gathered in this experiment are questionable at best. The sample size was so small partially because many of the fish were not displaying any aggressive behaviors at all, which gave them no value to this experiment. With the time given, only three useful tests were conducted. With the last of these, the larger male was completely docile and nonaggressive, again likely skewing the results. If the experiment was repeated, with a much larger sample size, more reliable results could likely be obtained. 
+According to these data, there is no correlation between size and aggression in Betta splendins. This is goes against the hypothesis. This is somewhat surprising, as many species, including other fish, do have a correlation between size and aggression [Basolo: 2004]. However, the data gathered in this experiment are questionable at best. The sample size was so small partially because many of the fish were not displaying any aggressive behaviors at all, which gave them no value to this experiment. With the time given, only three useful tests were conducted. With the last of these, the larger male was completely docile and nonaggressive, again likely skewing the results. If the experiment was repeated, with a much larger sample size, more reliable results could likely be obtained. 
 
 Literature Cited:
-Evans CS. 1985. Display vigour and subsequent fight performance in the siamese fighting fish, betta splendens. Behavioural Processes. 11: 113-121.
+Evans CS. 1985. Display vigour and subsequent fight performance in the siamese fighting fish, betta splendins. Behavioural Processes. 11: 113-121.
 
 Basolo AL. 2004. Variation between and within the sexes in body size preferences. Animal Behaviour. 68: 75-82
 

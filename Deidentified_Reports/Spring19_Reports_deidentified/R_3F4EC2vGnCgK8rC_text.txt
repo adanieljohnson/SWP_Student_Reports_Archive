@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2019-03-25 21:32:12
+Date submitted: 2019-03-25 21:32: 12
 Author of this lab report is: Std_Wpwy0EWM
 ID: R_3F4EC2vGnCgK8rC
 Course number: BIO102L
@@ -10,7 +10,7 @@ TA: TA_zoTYZxuS
 Title: Effects of pH in the Stroma on Photosystem II Activity of Brassica oleracea
 
 Abstract:
-Photosynthesis involves a series of transmembrane proteins and electron carriers on the thylakoid membrane; through the utilization of solar energy, a proton gradient is generated in the thylakoid. Since the proton gradient is crucial for ATP synthase to produce ATP, if the proton gradient has been intervened, the photosynthetic activity may be affected in some ways. Our experiment uses the DCIP decolorization assay to test the activity of photosystem II in Brassica oleracea. Results show that the photosynthetic activity reached its highest when the pH is 7 and the lowest when the pH is 9 or 11, while pH=5 has a moderate photosynthetic activity. Our experiment shows that altering the pH in stroma from its normal value pH=7.5 do lower the photosynthetic activity. Moreover, the basic environment has the least photosynthetic activity due to the limited number of protons in the stroma. With that being said, pH in the environment does play a role in the photosynthesis of the plants. Inappropriate pH can reduce photosynthetic activity significantly, which may affect other biological processes in plants.
+Photosynthesis involves a series of transmembrane proteins and electron carriers on the thylakoid membrane; through the utilization of solar energy, a proton gradient is generated in the thylakoid. Since the proton gradient is crucial for ATP synthase to produce ATP, if the proton gradient has been intervened, the photosynthetic activity may be affected in some ways. Our experiment uses the DCIP decolorization assay to test the activity of photosystem II in Brassica oleracea. Results show that the photosynthetic activity reached its highest when the pH is 7 and the lowest when the pH is 9 or 11, while pH=5 has a moderate photosynthetic activity. Our experiment shows that altering the pH in stroma from its normal value pH=7.5 do lower the photosynthetic activity. Moreover, the basic environment has the least photosynthetic activity due to the limited number of protons in the stroma. With that being said, pH in the environment does play a role in the photosynthesis of the plants. Inappropriate pH can reduce photosynthetic activity significently, which may affect other biological processes in plants.
 
 Introduction:
 Plants play a unique role in the ecological system due to its ability to convert the solar energy to chemical energy via photosynthesis -- a three-stage process run inside the chloroplasts. Photosynthesis is composed of the light-dependent reaction (which includes the first two stages) and the light-independent (dark) reaction. Light reaction converts light energy, by absorbing photons, and creates a proton gradient that is used to drive ATP synthesis [AskNature Team: 2018]. Calvin cycle (the light-independent reaction uses ATP and NADPH to produce one 6-carbon glucose by combining one carbon dioxide molecule and one 5-carbon ribulose phosphate [Johnson: 2019]. 
@@ -27,12 +27,12 @@ It is hypothesized that as the pH of the stroma goes up (less free protons in th
 Brassica oleracea (commonly known as collard greens) is one of the mainly grown food crops in the world and has multiple uses, such as an antiseptic, diuretic, rubefacient, rich source of iron, Vitamin A and C, etc [Kapoor et al.: 2014]. Such important plants should be studied extensively at which condition is its optimal growing environment. Thus, this study can contribute to agricultural produce.
 
 
-Materials and Methods:
+Materials and Method:
 Leaf Slurry Preparation
-Add 10 ml of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) to the mortar and grind the leaves. After adding 10 ml more grinding buffer, strain the slurry through three layers of cheesecloth into the chilled beaker.
+Add 10 Ml of cold grinding buffer (400 mM sucrose in Tricine buffer, pH 8.0) to the mortar and grind the leaves. After adding 10 Ml more grinding buffer, strain the slurry through three layers of cheesecloth into the chilled beaker.
 
 Concentrating and Enriching the Chloroplasts
-Transfer 200μl of the filtered liquid from the beaker, then transfer the remaining liquid to a chilled 50 ml centrifuge tube and spin it at 1200 rpm for 3 minutes at 4oC. Pour the supernatant out of “A” into the second chilled centrifuge tube “B”. Leave the pellet of debris at the bottom of “A”. Remove 200μl of the liquid from the 50ml tube “B,” and place them into 4 microtubes “Sample of B” each with 50μl and four different pH buffers (pH = 5, 7, 9, and 11). Centrifuge the 50 ml tubes containing chloroplast suspension (Tube “B”) at 2800 rpm in the RT-7 centrifuge for 10 minutes at 4oC. Pour the supernatant into a clean 50ml tube “C”. Add 20 ml of grinding buffer to the pellet and suspend it. Transfer 200μl of the resuspended pellet into a microtube labeled “Sample of B Pellet”. Based on previous laboratory results, “Sample of B Pellet” contains the least amount of debris and sufficient chloroplasts, thus the four “Sample of B Pellet” tubes were used for the assay.
+Transfer 200μl of the filtered liquid from the beaker, then transfer the remaining liquid to a chilled 50 Ml centrifuge tube and spin it at 1200 rpm for 3 minutes at 4oC. Pour the supernatant out of “A” into the second chilled centrifuge tube “B”. Leave the pellet of debris at the bottom of “A”. Remove 200μl of the liquid from the 50Ml tube “B,” and place them into 4 microtubes “Sample of B” each with 50μl and four different pH buffers (pH = 5, 7, 9, and 11). Centrifuge the 50 Ml tubes containing chloroplast suspension (Tube “B”) at 2800 rpm in the RT-7 centrifuge for 10 minutes at 4oC. Pour the supernatant into a clean 50Ml tube “C”. Add 20 Ml of grinding buffer to the pellet and suspend it. Transfer 200μl of the resuspended pellet into a microtube labeled “Sample of B Pellet”. Based on previous laboratory results, “Sample of B Pellet” contains the least amount of debris and sufficient chloroplasts, thus the four “Sample of B Pellet” tubes were used for the assay.
 
 Quantifying PS-II Reduction Activity with the Hill Reaction
 Prepare three replicates of each pH condition and one blank for spectrometer calibration. Set the spectrophotometer to 600nm. Mix the chloroplast with DCIP; then, measure the absorbance of all the samples at 600nm. These are the Time Zero (T0) data points. Place all samples under the grow light. Record the absorbance readings at 10-minute increments – T10, T20, and T30. 
@@ -40,13 +40,13 @@ Prepare three replicates of each pH condition and one blank for spectrometer cal
 Statistical Test and Analysis of Results
 Use the following formula to calculate the “% Change” in absorbance at T10, T20, and T30:
 %change=(〖Absorbance〗_T0-〖Absorbance〗_TX)/〖Absorbance〗_T0 ×100%
-Plot the changes in absorbance (average for each group ± standard deviation) against time (in minutes) for each of the 4 treatments. Two-sample t-test might be performed for two trends of values that are close to each other and hard to identify the difference.
+Plot the changes in absorbance (average for each group ± standard deviation) against time (in minutes) for each of the 4 treatments. Two-sample t_test might be performed for two trends of values that are close to each other and hard to identify the difference.
 
 
 Results:
-Since percent changes in pH=9 and pH=11 are close to each other throughout the entire 30 minutes, a two-sample t-test was performed to compare the means. 
+Since percent changes in pH=9 and pH=11 are close to each other throughout the entire 30 minutes, a two-sample t_test was performed to compare the means. 
 
-There is not a statistically significant difference between the PSII activity in the pH=9 and pH=11 conditions (Table 1.). Thus, statistically, it is hard to tell either pH=9 or pH=11 has a higher PSII activity. However, in Fig 1., pH=7 and pH=5 have shown distinguishable trends. 
+There is not a statistically significent difference between the PSII activity in the pH=9 and pH=11 conditions (Table 1.). Thus, statistically, it is hard to tell either pH=9 or pH=11 has a higher PSII activity. However, in Fig 1., pH=7 and pH=5 have shown distinguishable trends. 
 
 Discussion:
 Changing the pH environment in the chloroplasts can indirectly affect the proton composition in the stroma of the chloroplasts due to simple diffusion. Our hypothesis is confirmed with the experimental results (Fig. 1), with a higher pH, fewer protons will be available in the stroma to be pumped in, thus, less PSII activity will be observed due to the stagnant, slow, reaction rate of the subsequent stages in the light reaction. It is shown that at pH=7, PSII has the highest activity; this coheres with the empirical data that, normally, stroma has a pH = 7.5 [Mohanty et al.: 1992]. With that being said, if we added the pH=7.5 condition treatment, it may have the highest activity among the five treatments. In our experiment, the second highest PSII activity is produced by pH=5.0. In the pH=5.0 condition, more protons are available in the stroma to be used by photosynthesis. However, this abnormal pH value may not be the optimal working environment for many proteins associated with photosynthesis, thus its activity is not as high as the normal pH=7 condition.
@@ -63,13 +63,13 @@ Literature Cited:
 2.	Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 16.1 (updated January 1, 2019).
 3.	Alberts, B. (2013). Essential cell biology (Fourth ed.). New York, NY: Garland Science. pp 475 - 477.
 4.	Nuffield Foundation. (2008, September). Investigating the light dependent reaction in photosynthesis.
-5.	Kapoor, D., Kaur, S., & Bhardwaj, R. (2014). Physiological and biochemical changes in brassica juncea plants under cd-induced stress. BioMed Research International, 2014, 726070. doi:10.1155/2014/726070
+5.	Kapoor, D., Kaur, S., & Bhardwaj, R. (2014). Physiological and biochemical changes in brassica juncea plants under cd-induced stress. BioMed Research International, 2014, 726070. doi: 10.1155/2014/726070
 6.	Campbell P.G.C. & Stokes. P.M. (1985) Acidification and toxity of metals to aquatic biota. Canadian Journal of Fisheries and Aquatic Sciences 42, 2034–2049.
 7.	Nixdorf B., Krumbeck H., Jander J. & Beulker C. (2003) Comparison of bacterial and phytoplankton productivity in extremely acidic mining lakes and eutrophic hard water lakes. Acta Oecologica 24, 281–288.
 8.	Kamjunke N., Tittel J., Krumbeck H., Beulker C. & Poerschmann J. (2005) High heterotrophic bacterial production in acidic, iron‐rich mining lakes. Microbial Ecology in press.
 9.	Javed, M. T. (2011). Mechanisms behind pH changes by plant roots and shoots caused by elevated concentration of toxic elements [Abstract]. doi:978-91-7447-413-8
-10.	Paunov, M., Koleva, L., Vassilev, A., Vangronsveld, J., & Goltsev, V. (2018). Effects of different metals on photosynthesis: Cadmium and zinc affect chlorophyll fluorescence in durum wheat. International Journal of Molecular Sciences, 19(3), 787. doi:10.3390/ijms19030787
-11.	Nilima Kumari, Manisha Yadav & Vinay Sharma (2018) Differential response of Brassicajuncea cultivars to Al; consequences for chlorophyll a fluorescence, antioxidants and psb A gene, Journal of Plant Interactions, 13:1, 496-505, DOI: 10.1080/17429145.2018.1526980
+10.	Paunov, M., Koleva, L., Vassilev, A., Vangronsveld, J., & Goltsev, V. (2018). Effects of different metals on photosynthesis: Cadmium and zinc affect chlorophyll fluorescence in durum wheat. International Journal of Molecular Sciences, 19(3), 787. doi: 10.3390/ijms19030787
+11.	Nilima Kumari, Manisha Yadav & Vinay Sharma (2018) Differential response of Brassicajuncea cultivars to Al; consequences for chlorophyll a fluorescence, antioxidants and psb A gene, Journal of Plant Interactions, 13: 1, 496-505, DOI: 10.1080/17429145.2018.1526980
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=BIO214L+-+Jason+Hou+-+Photosynthesis+-+Figure+1.+.png&Size=23686&Type=image%2Fpng&F=F_3Hw62x3xtU3nV56
@@ -98,7 +98,7 @@ Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 Figure Legends: 
 Figure 2. Effects of pH in stroma on the PSII activity in Brassica oleracea. PSII in pH=7 condition has the highest activity for the whole experiment period. pH=5 condition provides the second highest PSII activity throughout the entire period. At T10, pH=9 has a higher PSII activity than pH=11; however, pH=11 has a higher PSII activity then pH=9 at T30. At T20, the PSII activities of pH=9 and pH=11 are almost the same. Each data point is the mean percent change of 3 replicates from each treatment; error bars are ± S.D.
 
-Table 1. Two-sample t-test of Percentage Change in Absorbance in pH=9 and pH=11*************************************************************************
+Table 1. Two-sample t_test of Percentage Change in Absorbance in pH=9 and pH=11*************************************************************************
 
 
 

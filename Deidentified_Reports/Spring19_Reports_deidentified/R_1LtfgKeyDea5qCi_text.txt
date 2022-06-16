@@ -10,24 +10,24 @@ TA: TA_JzvDkdcR
 Title: Caffeine's Effects on Muscle Contraction Strength in Frog Legs
 
 Abstract:
-Stimulants can increase the power of muscle contractions. We compared the force of contractions in frog legs both with and without caffeine to test this fact using a probe. The difference in force in the legs with and without caffeine was found to be significant. This suggests that caffeine is a stimulant that increases the power of contractions and can cause chemically induced tetany. 
+Stimulants can increase the power of muscle contractions. We compared the force of contractions in frog legs both with and without caffeine to test this fact using a probe. The difference in force in the legs with and without caffeine was found to be significent. This suggests that caffeine is a stimulant that increases the power of contractions and can cause chemically induced tetany. 
 
 
 Introduction:
 All vertebrates have a nervous system that communicates signals through electrical pulses and a muscular system that aids in organismal movement. These two systems must communicate because it is nerves that send electrical signals to muscle cells prompting them to stimulate motion. After this stimulation, calcium is released from the sarcoplasmic reticulum (a portion of a muscle fiber, a sarcomere, that stores calcium until it is needed) and initiates movement/contraction in the actin and myosin (Introduction). Stimulants can increase the power of the contraction. One example of a stimulant is caffeine; excess caffeine is known to cause muscle twitches/involuntary muscle contractions. Due to this fact, we hypothesize that injecting caffeine into the muscle of a frog leg (used for its ease of setting up) will then cause the muscle to have stronger contractions leading to a faster reached chemically induced tetany. 
 
 
-Materials and Methods:
-	First, prepare 3 frog legs for use in this experiment. Attach the first frog leg to the probe and run 5 myograms on the gastrocnemius muscle at 2hz. Then, inject 1mL of caffeine into the gastrocnemius	 and run 5 more myograms also at 2hz. Repeat this process on the other two legs. Record the average force of the no-caffeine contractions and the caffeine contractions for each leg, and then compare the force of the no-caffeine contraction to the caffeine contraction in each leg using a paired t-test to look at each of the three legs separately. 
+Materials and Method:
+	First, prepare 3 frog legs for use in this experiment. Attach the first frog leg to the probe and run 5 myograms on the gastrocnemus muscle at 2hz. Then, inject 1Ml of caffeine into the gastrocnemus	 and run 5 more myograms also at 2hz. Repeat this process on the other two legs. Record the average force of the no-caffeine contractions and the caffeine contractions for each leg, and then compare the force of the no-caffeine contraction to the caffeine contraction in each leg using a paired t_test to look at each of the three legs separately. 
 
 
 
 Results:
-Each muscle experienced chemically induced tetany and became stiff after the second set of 5 myograms. Our paired t-test yielded a p-value of 0.040142, which is significant. 
+Each muscle experienced chemically induced tetany and became stiff after the second set of 5 myograms. Our paired t_test yielded a p_value of 0.040142, which is significent. 
 
 
 Discussion:
-Our significant paired t-test demonstrates that our hypothesis is likely correct. The frog legs did experience stronger contractions and chemically induced tetany when they were injected with the caffeine. This is likely because caffeine is a stimulant and increases the power of muscle contractions. This leads to faster energy usage and more quickly reached tetany. These findings can be helpful in understanding caffeine’s effect on the body.
+Our significent paired t_test demonstrates that our hypothesis is likely correct. The frog legs did experience stronger contractions and chemically induced tetany when they were injected with the caffeine. This is likely because caffeine is a stimulant and increases the power of muscle contractions. This leads to faster energy usage and more quickly reached tetany. These findings can be helpful in understanding caffeine’s effect on the body.
 
 
 Literature Cited:

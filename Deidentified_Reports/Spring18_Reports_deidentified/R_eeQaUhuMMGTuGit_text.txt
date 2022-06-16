@@ -1,32 +1,32 @@
 *************************************************************************
 Number of lab report in semester: second
 This is a submission.
-Date submitted: 2018-03-27 23:10:43
+Date submitted: 2018-03-27 23: 10:43
 Author of this lab report is: Std_Re0m7sLs
 ID: R_eeQaUhuMMGTuGit
 Course number: BIO101L
 TA: TA_rVWBLI1O
 *************************************************************************
-Title: Effect of Sodium Channel Blockers on Nerve Stimulation Threshold of Rana Pipiens Frog Legs
+Title: Effect of Sodium Channel Blockers on Nerve Stimulation Threshold of Rania Pipiens Frog Legs
 
 Abstract:
-We conducted nerve stimulation tests to determine the effect of Lidocaine, a sodium channel blocker, on the amplitude needed for a muscle contraction to occur. We performed these tests on the sciatic nerve of Rana Pipiens frog legs. Theoretically, the Lidocaine should prevent sodium channels from opening, thus causing the muscle contraction to not occur, or at least require a much greater stimulation for the contraction to occur. Although we observed a difference in the thresholds with and without Lidocaine, after conducting a two-sample t-test, these differences were not significant (p=0.207). We, therefore, cannot say that Lidocaine had any effect on the threshold amplitude for Rana Pipiens frog legs. 
+We conducted nerve stimulation tests to determine the effect of Lidocaine, a sodium channel blocker, on the amplitude needed for a muscle contraction to occur. We performed these tests on the sciatic nerve of Rania Pipiens frog legs. Theoretically, the Lidocaine should prevent sodium channels from opening, thus causing the muscle contraction to not occur, or at least require a much greater stimulation for the contraction to occur. Although we observed a difference in the thresholds with and without Lidocaine, after conducting a two-sample t_test, these differences were not significent (p=0.207). We, therefore, cannot say that Lidocaine had any effect on the threshold amplitude for Rania Pipiens frog legs. 
 
 Introduction:
-In this experiment, we will be testing the effect of sodium channel blockers on the sciatic nerve stimulation of the Rana Pipiens frog leg. Normally, action potentials arrive at the neuromuscular junction, causing the release of the Acetylcholine. This neurotransmitter binds to the receptors on the muscle fiber, causing sodium channels to open. Another action potential is generated and propagates along the muscle fiber releasing calcium which stimulates the muscle fiber, releasing calcium which stimulates the muscle contraction (Johnson 2018). If we block sodium channels with Lidocaine, then the sciatic nerve will require a much higher voltage to be stimulated or will not be stimulated at all. In the Rana Pipiens frog leg, the sciatic nerve is attached to the gastrocnemius muscle. When the nerve is stimulated, we would expect to see a contraction in this muscle. 
+In this experiment, we will be testing the effect of sodium channel blockers on the sciatic nerve stimulation of the Rania Pipiens frog leg. Normally, action potentials arrive at the neuromuscular junction, causing the release of the Acetylcholine. This neurotransmitter binds to the receptors on the muscle fiber, causing sodium channels to open. Another action potential is generated and propagates along the muscle fiber releasing calcium which stimulates the muscle fiber, releasing calcium which stimulates the muscle contraction (Johnson 2018). If we block sodium channels with Lidocaine, then the sciatic nerve will require a much higher voltage to be stimulated or will not be stimulated at all. In the Rania Pipiens frog leg, the sciatic nerve is attached to the gastrocnemus muscle. When the nerve is stimulated, we would expect to see a contraction in this muscle. 
 
-Materials and Methods:
-We were given two Rana Pipiens frog legs to start. One each one, we removed the skin to expose the tissue, and spread the upper thigh tissue to see the sciatic nerve. Throughout the procedure, we made sure to apply Ringer solution to keep the leg, especially the nerve, moist and alive. Next, we detached the Gastrocnemius muscle from the Achilles tendon, tied a string around the end of the muscle, and hung it perpendicular to the pan with slight tension. This made it easier to identify any visible muscle contractions. On the first frog leg, we did not inject any Lidocaine to begin with. We began at an amplitude of 0.0V, increasing the amplitude by different increments to find the exact threshold and the corresponding voltage. We repeated this process three times on this leg and recorded the average threshold amplitude. After this, we added a total of 0.1 mL of 25 mMol Lidocaine throughout the gastrocnemius muscle, with the last bit directly on the sciatic nerve. We repeated the threshold testing process on the leg to observe the effects of Lidocaine. In between each trial, we waited one minute to let the muscle rest. On the second frog leg, we applied Lidocaine immediately in the same way as the previous leg. We recorded the threshold three times once again. After recording all the thresholds, we conducted a two-sample t-test to analyze our results. 
+Materials and Method:
+We were given two Rania Pipiens frog legs to start. One each one, we removed the skin to expose the tissue, and spread the upper thigh tissue to see the sciatic nerve. Throughout the procedure, we made sure to apply Ringer solution to keep the leg, especially the nerve, moist and alive. Next, we detached the Gastrocnemius muscle from the Achilles tendon, tied a string around the end of the muscle, and hung it perpendicular to the pan with slight tension. This made it easier to identify any visible muscle contractions. On the first frog leg, we did not inject any Lidocaine to begin with. We began at an amplitude of 0.0V, increasing the amplitude by different increments to find the exact threshold and the corresponding voltage. We repeated this process three times on this leg and recorded the average threshold amplitude. After this, we added a total of 0.1 Ml of 25 mMol Lidocaine throughout the gastrocnemus muscle, with the last bit directly on the sciatic nerve. We repeated the threshold testing process on the leg to observe the effects of Lidocaine. In between each trial, we waited one minute to let the muscle rest. On the second frog leg, we applied Lidocaine immediately in the same way as the previous leg. We recorded the threshold three times once again. After recording all the thresholds, we conducted a two-sample t_test to analyze our results. 
 
 Results:
 For each of the three sections, the nerve required increasing stimulation on average the first to the last trial, as seen in Figures 1, 2, and 3. This is most likely because the muscle is getting tired. 
-When comparing the average threshold amplitudes of the control and treatment frogs as seen in Figure 4, the legs with Lidocaine had a higher average threshold. Frog 2 with the Lidocaine had a much higher average threshold, while the difference between the control and treatment for frog1 was much smaller. 
+When comparing the average threshold amplitudes of the controll and treatment frogs as seen in Figure 4, the legs with Lidocaine had a higher average threshold. Frog 2 with the Lidocaine had a much higher average threshold, while the difference between the controll and treatment for frog1 was much smaller. 
 
-We conducted a two-sample t-test to determine if the difference in threshold amplitude between the normal frog legs and the frog legs with Lidocaine was significant. The p value for this test was 0.207, meaning the difference was not statistically significant. 
+We conducted a two-sample t_test to determine if the difference in threshold amplitude between the normal frog legs and the frog legs with Lidocaine was significent. The p value for this test was 0.207, meaning the difference was not statistically significent. 
 
 
 Discussion:
-When comparing the control and treatment experiments on frog 1, there is an obvious increase in the required amplitude to create an action potential. This increase is even more obvious when comparing the control of frog 1 and the treatment of frog 2. However, after conducting a two-sample t-test, we cannot say these differences are statistically significant. Similar results have been found in other studies. For example, in a study conducted on guinea-pigs, Lidocaine was found to have no direct effect on the release of calcium from the sarcoplasmic reticulum (Mitchell and Plant 1988). Although we applied Lidocaine as a sodium channel blocker, the results of this study support our own, as the release of calcium is the result of sodium channels opening (Johnson 2018). Overall, we cannot say that Lidocaine had any significant effect on the stimulation of the sciatic nerve in the Rana Pipiens frog leg. 
+When comparing the controll and treatment experiments on frog 1, there is an obvious increase in the required amplitude to create an action potential. This increase is even more obvious when comparing the controll of frog 1 and the treatment of frog 2. However, after conducting a two-sample t_test, we cannot say these differences are statistically significent. Similar results have been found in other studies. For example, in a study conducted on guinea-pigs, Lidocaine was found to have no direct effect on the release of calcium from the sarcoplasmic reticulum (Mitchell and Plant 1988). Although we applied Lidocaine as a sodium channel blocker, the results of this study support our own, as the release of calcium is the result of sodium channels opening (Johnson 2018). Overall, we cannot say that Lidocaine had any significent effect on the stimulation of the sciatic nerve in the Rania Pipiens frog leg. 
 
 Literature Cited:
 Mitchell, M. R., and S. Plant. 1988. “Effect of Lidocaine on Action Potentials, Currents and Contractions in the Absence and Presence of Ouabain in Guinea-Pig Ventricular Cells.” Quarterly Journal of Experimental Physiology (Cambridge, England) 73 (3): 379–90.
@@ -34,7 +34,7 @@ Mitchell, M. R., and S. Plant. 1988. “Effect of Lidocaine on Action Potentials
 Johnson AD. Neuromuscular Control. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.1 (updated January 5, 2018), pp. 17-19. 
 
 
-Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+1+control.png&Size=78845&Type=image%2Fpng&F=F_3ha35MRzbYUpcdX
+Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+1+controll.png&Size=78845&Type=image%2Fpng&F=F_3ha35MRzbYUpcdX
 
 Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=frog+1+treatment.png&Size=92783&Type=image%2Fpng&F=F_1jpLjxK5swvniVi
 
@@ -59,9 +59,9 @@ Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. Amplitudes and Corresponding Voltages for Trials 1, 2, and 3 conducted on Frog 1 (control)
+Figure 1. Amplitudes and Corresponding Voltages for Trials 1, 2, and 3 conducted on Frog 1 (controll)
 Figure 2. Amplitudes and Corresponding Voltages for Trials 1, 2, and 3 conducted on Frog 1 (treatment)
 Figure 3. Amplitudes and Corresponding Voltages for Trials 1, 2, and 3 conducted on Frog 2 (treatment)
-Figure 4. Average Threshold Amplitudes for the control and treatment experiments, including standard deviation error bars
+Figure 4. Average Threshold Amplitudes for the controll and treatment experiments, including standard deviation error bars
 
 *************************************************************************

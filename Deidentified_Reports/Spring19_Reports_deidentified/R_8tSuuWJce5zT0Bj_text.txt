@@ -7,28 +7,28 @@ ID: R_8tSuuWJce5zT0Bj
 Course number: BIO101L
 TA: TA_rVWBLI1O
 *************************************************************************
-Title: The effect of the sodium channel blocker, lidocaine, on the neuromuscular control of the gastrocnemius muscle of the Rana pipiens
+Title: The effect of the sodium channel blocker, lidocaine, on the neuromuscular controll of the gastrocnemus muscle of the Rania pipiens
 
 Abstract:
-Understanding the effects of drugs on neuromuscular control is important especially in the medical field in order to treat patients effectively. In this lab, we look at the effects of lidocaine, a sodium channel blocker, on the effects of how muscles are controlled. The expectation was that the legs of the Rana pipiens that were injected with the drug would have a lower muscular amplitude than legs not treated. This trend was seen with the data but was not significant enough to support this hypothesis.
+Understanding the effects of drugs on neuromuscular controll is important especially in the medical field in order to treat patients effectively. In this lab, we look at the effects of lidocaine, a sodium channel blocker, on the effects of how muscles are controllled. The expectation was that the legs of the Rania pipiens that were injected with the drug would have a lower muscular amplitude than legs not treated. This trend was seen with the data but was not significent enough to support this hypothesis.
 
 
 Introduction:
-The purpose of this experiment is to test the effects of the sodium channel blocker, lidocaine, on the neuromuscular control in the gastrocnemius muscle of the frog, Rana pipiens.
+The purpose of this experiment is to test the effects of the sodium channel blocker, lidocaine, on the neuromuscular controll in the gastrocnemus muscle of the frog, Rania pipiens.
 
 The skeletal muscles of both invertebrates and vertebrates are made up of thousands of myofibers skeletal muscles are innervated by motor neurons that extend their axons into several individual myofibers at points called neuromuscular junctions. The nerve impulses that arrive there cause the release of the neurotransmitter, Acetylcholine (ACh), from the presynaptic cleft. ACh is then received by receptor cells on the membrane of the muscle fiber. This then leads to an action potential in the muscle fiber because once ACh is received, sodium channels open up. The action potential spreads down the muscle fiber, stimulating the release of calcium ions from the sarcoplasmic reticulum. This leads to the activation of the mechanisms that lead to the contraction of muscle fibers. This reaction can be recorded with a myogram which is a graphic representation of muscular contractions. The hypothesis is if lidocaine a sodium channel blocker was injected into the frog leg there will be a decrease to a cessation of an action potential in the nerve.
 
 
-Materials and Methods:
-Place frog leg on dissecting pads and remove the skin off the leg with fingers. Once it is off in one piece, set aside the skin and keep moist. Use the dissecting rod to separate the inner twitch muscles from the top to the upper knee. The sciatic nerve is white. Free the nerve from surrounding tissues but not too close to the knee joint and do not allow nerve to touch metal. Repeat this for the next 2 legs. Keep exposed tissue moist with frog ringer's solution. Attach probes and run tests at threshold 0.04 on the control leg, which is the leg without sodium channel blocker, and record the results. Inject 0.1mL of lidocaine into the thigh of the second and third frog leg. Use the simulator on Labscribe and test and measure the amplitude and frequency. Refer back to steps 1-11 in the lab manual. A two-sample t-test was used to determine differences in muscle amplitude of the control frog leg and the treatment frog legs.
+Materials and Method:
+Place frog leg on dissecting pads and remove the skin off the leg with fingers. Once it is off in one piece, set aside the skin and keep moist. Use the dissecting rod to separate the inner twitch muscles from the top to the upper knee. The sciatic nerve is white. Free the nerve from surrounding tissues but not too close to the knee joint and do not allow nerve to touch metal. Repeat this for the next 2 legs. Keep exposed tissue moist with frog ringer's solution. Attach probes and run tests at threshold 0.04 on the controll leg, which is the leg without sodium channel blocker, and record the results. Inject 0.1Ml of lidocaine into the thigh of the second and third frog leg. Use the simulator on Labscribe and test and measure the amplitude and frequency. Refer back to steps 1-11 in the lab manual. A two-sample t_test was used to determine differences in muscle amplitude of the controll frog leg and the treatment frog legs.
 
 
 Results:
-We used a two-sample t-test to analyze our results and a p-value of 0.489 was obtained. The muscle amplitudes of the control group is not statistically significant than that of the treatment groups. As seen in figure 1. the control group looks to have a slightly larger output compared to the treatment groups.
+We used a two-sample t_test to analyze our results and a p_value of 0.489 was obtained. The muscle amplitudes of the controll group is not statistically significent than that of the treatment groups. As seen in figure 1. the controll group looks to have a slightly larger output compared to the treatment groups.
 
 
 Discussion:
-Although the results of the experiment show a decrease in muscle amplitude in the treatment groups compared to the control the p-value is 0.489 indicating that there is not a significant difference between the two groups. The alternative hypothesis is rejected null hypothesis is accepted, saying that the sodium channel blocker, lidocaine, has no effect on amplitude of the frog legs when injected into the muscle. 0.3 was discovered to be the threshold of the frog legs so the experiment used a stimulus of 0.4V. This was done to test whether the sodium channels would be blocked and if so the leg would decrease in voltage within the experimental group due to the sodium channel blocker blocking the opening of the sodium channels, which limits the action potential that is created. The control leg seemed to have a larger output compared to the treatment legs because the stimulus was able to disperse throughout a larger area of the leg since the sodium channels were not blocked. While with the treatment groups, the output was smaller because some sodium channels were blocked preventing a larger action potential. One thing that could be changed is the amount of lidocaine that is injected into the legs. We believe that if more lidocaine was injected into the legs then more sodium channels would be blocked resulting in a lower muscle amplitude output during the experiment in the treatment groups.
+Although the results of the experiment show a decrease in muscle amplitude in the treatment groups compared to the controll the p_value is 0.489 indicating that there is not a significent difference between the two groups. The alternative hypothesis is rejected null hypothesis is accepted, saying that the sodium channel blocker, lidocaine, has no effect on amplitude of the frog legs when injected into the muscle. 0.3 was discovered to be the threshold of the frog legs so the experiment used a stimulus of 0.4V. This was done to test whether the sodium channels would be blocked and if so the leg would decrease in voltage within the experimental group due to the sodium channel blocker blocking the opening of the sodium channels, which limits the action potential that is created. The controll leg seemed to have a larger output compared to the treatment legs because the stimulus was able to disperse throughout a larger area of the leg since the sodium channels were not blocked. While with the treatment groups, the output was smaller because some sodium channels were blocked preventing a larger action potential. One thing that could be changed is the amount of lidocaine that is injected into the legs. We believe that if more lidocaine was injected into the legs then more sodium channels would be blocked resulting in a lower muscle amplitude output during the experiment in the treatment groups.
 
 
 Literature Cited:
@@ -56,7 +56,7 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Table 1. The recorded muscle amplitudes of frog legs at the start of the experiment and after 3 minutes. After injection of lidocaine the treatment groups appeared to have a lower muscle amplitude compared to the control.
+Table 1. The recorded muscle amplitudes of frog legs at the start of the experiment and after 3 minutes. After injection of lidocaine the treatment groups appeared to have a lower muscle amplitude compared to the controll.
 *************************************************************************
 
 

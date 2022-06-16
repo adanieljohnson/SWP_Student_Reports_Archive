@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: second
 This is a submission.
-Date submitted: 2018-03-28 14:23:17
+Date submitted: 2018-03-28 14:23: 17
 Author of this lab report is: Std_Nkw7HAZL
 ID: R_2OZ4jaeC1Wy7uGX
 Course number: BIO101L
@@ -10,7 +10,7 @@ TA: TA_kKK8bPFb
 Title: Discover the inhibitory effect of Nicotinic ACH Receptor Antagonist of the Sciatic Nerve and Gastrocnemius Muscle
 
 Abstract:
-This experiment mainly focuses on discovering how Nicotinic ACH Receptor Antagonist influence the twitch threshold of the neuromuscular connection. As written by other scientific researches, Nicotinic ACH Receptor Antagonist is a kind of neuron inhibitor, and it decrease the amplitude of muscle contraction, however, this experiment focuses on the change of twitch threshold. Sciatic nerve’s connection with gastrocnemius muscle was the targeted neuromuscular structure that studied in this experiment. The dependent variable is the existence of Nicotinic ACH Receptor Antagonist, while the independent variable is the twitch threshold. The hypothesis raised in this experiment: Nicotinic ACH Receptor Antagonist has a significant effect on heightening the twitch threshold is proved to be correct. At the same time, from the data collected, it seems that the lower twitch threshold the muscle originally had, the higher increment would take place. Through pair t-test, this relationship is proved to be significant, which is not caused by coincidence. 
+This experiment mainly focuses on discovering how Nicotinic ACH Receptor Antagonist influence the twitch threshold of the neuromuscular connection. As written by other scientific researches, Nicotinic ACH Receptor Antagonist is a kind of neuron inhibitor, and it decrease the amplitude of muscle contraction, however, this experiment focuses on the change of twitch threshold. Sciatic nerve’s connection with gastrocnemus muscle was the targeted neuromuscular structure that studied in this experiment. The dependent variable is the existence of Nicotinic ACH Receptor Antagonist, while the independent variable is the twitch threshold. The hypothesis raised in this experiment: Nicotinic ACH Receptor Antagonist has a significent effect on heightening the twitch threshold is proved to be correct. At the same time, from the data collected, it seems that the lower twitch threshold the muscle originally had, the higher increment would take place. Through pair t_test, this relationship is proved to be significent, which is not caused by coincidence. 
 
 Introduction:
 Nervous system is one of the most mysterious system in all animals’ body which leads to many scientists to study on. It is the nervous system that connects all the separate parts of the body with each other, connects thoughts with actions, and even connects sensing with reacting. With a single neuron, synapse part is one of the most important part to transfer signals from one pre-synaptic cell to the post-synaptic cell. Neurotransmitters are chemicals that released from the pre-synaptic cells through exocytosis, and bind to the receptors on the membrane of the post-synaptic cell. 
@@ -24,17 +24,17 @@ In this experiment, Sciatic Nerves on frog legs are chosen as the targeted nerve
  
 Figure 1: The Structural Diagram for frog leg which focuses on the Sciatic Nerve [Wake Biology, 2018]
 
-In this experiment, the effect of Nicotinic ACH Receptor Antagonist was shown as the change of the twitch threshold of the muscle. The dependent variable is the existence of antagonist, while the independent variable is the twitch threshold. The expected result is that after injecting the antagonist, the minimum twitch threshold increases. The hypothesis for this experiment is: Nicotinic ACH Receptor Antagonist has a significant effect on heightening the twitch threshold.
+In this experiment, the effect of Nicotinic ACH Receptor Antagonist was shown as the change of the twitch threshold of the muscle. The dependent variable is the existence of antagonist, while the independent variable is the twitch threshold. The expected result is that after injecting the antagonist, the minimum twitch threshold increases. The hypothesis for this experiment is: Nicotinic ACH Receptor Antagonist has a significent effect on heightening the twitch threshold.
 
 After knowing the detailed information about how Nicotinic ACH Receptor Antagonist influence on the twitch threshold, it could potentially be further studied turning into ingredients of therapeutic drugs. 
 
 
-Materials and Methods:
+Materials and Method:
 Materials:
 Material	Quantity
 Frog Ringer	Plenty
 Fresh Frog Leg	2
-Nicotinic ACH Receptor Antagonists	5 mL
+Nicotinic ACH Receptor Antagonists	5 Ml
 Iron Stand	1
 Scissor	1
 Rubber Plate	1
@@ -47,35 +47,35 @@ Injector	1
 Control Group: 
 The frog legs before injecting Nicotinic ACH Receptor Antagonist
 Treatment Group:
-The frog legs after injecting 5mL of Nicotinic ACH Receptor Antagonist
+The frog legs after injecting 5Ml of Nicotinic ACH Receptor Antagonist
 
-Methods:
+Method:
 -	Prepared two fresh frog legs and placed them on the rubber plate. 
 -	Detached the skin of the frog leaving muscles bare. 
--	Used the scissors to cut the lower tendon of the gastrocnemius muscle.
+-	Used the scissors to cut the lower tendon of the gastrocnemus muscle.
 -	Then used the hands slightly separated the muscles that surrounded the sciatic nerve. 
--	Hanged the gastrocnemius using a string to a detector on the iron stand. (on the 0~10g hook)
--	 Tied two silver strings on the gastrocnemius muscle, one on the top of the muscle, while the other at the bottom of the muscle. 
+-	Hanged the gastrocnemus using a string to a detector on the iron stand. (on the 0~10g hook)
+-	 Tied two silver strings on the gastrocnemus muscle, one on the top of the muscle, while the other at the bottom of the muscle. 
 -	Connected the two electrodes onto the silver ring. 
 -	Given a relatively low voltage (0.1V) as the stimulus amplitude.
 -	Observed whether there were peaks shown on the iWorks
 -	If no, increased the stimulus amplitude by 0.01V each time; if yes, decreased the stimulus amplitude by 0.01V each time until find the minimum stimulus amplitude that would cause the muscle contraction, which was called the twitch threshold. 
 -	(Kept the frog leg moist by adding frog ringer)
 -	Recorded the twitch threshold hold for both legs.
--	Then, injected 2.5mL of Nicotinic ACH Receptor Antagonist into both legs and waited for 10 minutes. 
+-	Then, injected 2.5Ml of Nicotinic ACH Receptor Antagonist into both legs and waited for 10 minutes. 
 -	Repeated the procedures to detect the twitch threshold for the legs after injecting, recorded these thresholds.
 -	Compared the Thresholds values of the same leg before and after injecting Nicotinic ACH Receptor Antagonist, and tried to find out whether it fit the hypothesis. 
 
 
 Results:
 Table 1 shows the difference of the average twitch threshold change after the muscle was injected with Nicotinic ACH Receptor Antagonists. From the table, it shows that the change in twitch threshold, which is the threshold after injecting minus the twitch threshold before injecting the antagonist, is all positive. This means that the twitch threshold increases after injecting the antagonist. 
-Figure 2 above shows the graphic representative of the difference of twitch threshold with and without he antagonist. The error bar was drawn using ±1SD. From the graph, it could be seen that the error bar of the control group and the treatment group don’t overlap, which means that there is significant difference between the control group and the treatment group. 
+Figure 2 above shows the graphic representative of the difference of twitch threshold with and without he antagonist. The error bar was drawn using ±1SD. From the graph, it could be seen that the error bar of the controll group and the treatment group don’t overlap, which means that there is significent difference between the controll group and the treatment group. 
 
-All the raw data got from the experiment were taken to do the student T-test. For leg 1, the t-value is 24, the degree of freedom is 4, while the p value is 1.79x10-5. Since it is smaller than 0.05, which means that there is significant difference between control group and treatment group that are not caused by coincidence. 
+All the raw data got from the experiment were taken to do the student T-test. For leg 1, the t-value is 24, the degree of freedom is 4, while the p value is 1.79x10-5. Since it is smaller than 0.05, which means that there is significent difference between controll group and treatment group that are not caused by coincidence. 
 
 
 Discussion:
-The change in twitch threshold before and after injection indicates the effect of Nicotinic ACH Receptor Antagonist on the neuro signal transportation synapsis. Since figure 2 shows that there is no overlapping of error bars between the control group and the treatment group, it means that the increasing effect of twitch threshold caused by Nicotinic ACH Receptor Antagonist is significant. This fits the hypothesis that Nicotinic ACH Receptor Antagonist has a significant effect on heightening the twitch threshold. At the same time, it seems that the lower twitch threshold the muscle originally had, the more increment of twitch threshold it would take place. 
+The change in twitch threshold before and after injection indicates the effect of Nicotinic ACH Receptor Antagonist on the neuro signal transportation synapsis. Since figure 2 shows that there is no overlapping of error bars between the controll group and the treatment group, it means that the increasing effect of twitch threshold caused by Nicotinic ACH Receptor Antagonist is significent. This fits the hypothesis that Nicotinic ACH Receptor Antagonist has a significent effect on heightening the twitch threshold. At the same time, it seems that the lower twitch threshold the muscle originally had, the more increment of twitch threshold it would take place. 
 
 For previous studies [Susan Wonnacott, 1997], the effect of Nicotinic ACH Receptor Antagonist on the reaction amplitude of the muscle is obvious and proved. In this experiment, the influence of the antagonist on twitch threshold which decides the muscle is activated or not is tested. These experiments could be analyzed together to find that from what degrees Nicotinic ACH Receptor Antagonist influence more on muscle, and trying to know more detail mechanism and effects of Nicotinic ACH Receptor Antagonist on human nervous system. 
 
@@ -86,11 +86,11 @@ For further studies, Nicotinic ACH Receptor Antagonist’s effect on other neuro
 
 Literature Cited:
 1. Wonnacott, Susan. “Presynaptic Nicotinic ACh Receptors.” Trends in Neurosciences, vol. 20, 
-no. 2, 1997, pp. 92–98., doi:10.1016/s0166-2236(96)10073-4.
+no. 2, 1997, pp. 92–98., doi: 10.1016/s0166-2236(96)10073-4.
 2. Comparative Physiology Bio114 Laboratory Manual. Wake Biology, 2018.
 3. “Acetylcholine Receptors.” The European Bioinformatics Institute &lt; EMBL-EBI, www.ebi.ac.uk/interpro/potm/2005_11/Page2.htm.
 4. “Nicotinic Receptor Antagonists.” Nicotinic Receptor Antagonists - Pharmacorama, www.pharmacorama.com/en/Sections/Acetylcholine_5_2.php.
-5. Information and Facts on the Anatomy of Amphibians, www.lookd.com/frogs/anatomy.html.
+5. Information and Facts on the Anatomy of Amphibians, www.lookd.com/frogs/anatomy.htMl.
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-03-28+at+2.18.57+PM.png&Size=126612&Type=image%2Fpng&F=F_3snpsXfbrucX7Co
@@ -117,6 +117,6 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 Figure Legends: 
 Table 1: Comparison of twitch stimulus with and without Nicotinic ACH Receptor Antagonists
-Figure 2: Comparison of twitch threshold between control and treatment group
+Figure 2: Comparison of twitch threshold between controll and treatment group
 
 *************************************************************************

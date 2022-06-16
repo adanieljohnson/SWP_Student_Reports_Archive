@@ -7,18 +7,18 @@ ID: R_3dXEAkk2Mm2K16d
 Course number: BIO101L
 TA: TA_2R8KStqZ
 *************************************************************************
-Title: Calcium Inhibition and the neuromuscular junction on the gastrocnemius muscle of Rana Pipiens
+Title: Calcium Inhibition and the neuromuscular junction on the gastrocnemus muscle of Rania Pipiens
 
 Abstract:
-On a molecular level, Calcium ions are responsible for voluntary and involuntary contractions; thus, calcium inhibition should prevent contraction. In this experiment, we tested the effect of calcium inhibition on the gastrocnemius muscle of northern leopard frogs (Rana Pipiens), hypothesizing that the calcium inhibition would raise the threshold (V) and produce weaker amplitudes (lower strength). The data collected is inconsistent most likely due to experimental procedural error and further testing is necessary for any concrete conclusions.
+On a molecular level, Calcium ions are responsible for voluntary and involuntary contractions; thus, calcium inhibition should prevent contraction. In this experiment, we tested the effect of calcium inhibition on the gastrocnemus muscle of northern leopard frogs (Rania Pipiens), hypothesizing that the calcium inhibition would raise the threshold (V) and produce weaker amplitudes (lower strength). The data collected is inconsistent most likely due to experimental procedural error and further testing is necessary for any concrete conclusions.
 
 
 Introduction:
-Contractions are the result of interactions at the neuromuscular junction involving the neurotransmitter acetylcholine (Ach). Acetylcholine binds to receptors triggering an action potential that travels across the sarcolemma and travels down the t tubules, triggering the release of calcium ions from the sarcoplasmic reticulum into the sarcoplasm. In the sarcoplasm, calcium binds to the troponin complex which binds to tropomyosin which undergoes a conformational change of shape, exposing the binding sites on actin and allowing cross bridges to form so that contraction can proceed[Julian 1988]. The presence of calcium is necessary for the exposure of the binding sites; thus, we hypothesized that calcium inhibition would inhibit contraction, either raising the threshold or by providing weaker contractions. This was tested using the gastrocnemius muscle of Rana pipiens (northern leopard frog) which was used because the muscles are easy to see and to isolate.
+Contractions are the result of interactions at the neuromuscular junction involving the neurotransmitter acetylcholine (Ach). Acetylcholine binds to receptors triggering an action potential that travels across the sarcolemma and travels down the t tubules, triggering the release of calcium ions from the sarcoplasmic reticulum into the sarcoplasm. In the sarcoplasm, calcium binds to the troponin complex which binds to tropomyosin which undergoes a conformational change of shape, exposing the binding sites on actin and allowing cross bridges to form so that contraction can proceed[Julian 1988]. The presence of calcium is necessary for the exposure of the binding sites; thus, we hypothesized that calcium inhibition would inhibit contraction, either raising the threshold or by providing weaker contractions. This was tested using the gastrocnemus muscle of Rania pipiens (northern leopard frog) which was used because the muscles are easy to see and to isolate.
 
 
-Materials and Methods:
-1. 	Isolate the gastrocnemius muscle by skinning the frog legs and cutting the muscle away from the leg.
+Materials and Method:
+1. 	Isolate the gastrocnemus muscle by skinning the frog legs and cutting the muscle away from the leg.
 2. 	Tie the muscle to a string and suspend to keep tension the same
 3. 	Place electrical probes in the muscle
 4. 	Record Myogram for a variety of voltages, moving by .1 V until 1 is reached, record threshold of the leg and amplitude of the curve for each voltage.
@@ -28,11 +28,11 @@ Materials and Methods:
 
 
 Results:
-Using average amplitudes for the control and experimental groups (fig. 1 and 2), the data demonstrates that there is no change in threshold between the two samples; however, there is a notable difference in average strength of contraction. Running a paired t-test, the p value was found to be .0178 which represents a partial support of the hypothesis.
+Using average amplitudes for the controll and experimental groups (fig. 1 and 2), the data demonstrates that there is no change in threshold between the two samples; however, there is a notable difference in average strength of contraction. Running a paired t_test, the p value was found to be .0178 which represents a partial support of the hypothesis.
 
 
 Discussion:
-After averaging our data, a lot of the contradictions were removed and a significant pattern emerged. The contractions were overall weaker despite no observable difference in threshold; however, it would be worthwhile to accumulate more data for a more complete observation on change in threshold as there was at least one leg that represented a significant outlier. Ultimately, the results of this study can be used to further look calcium inhibition as a viable method for weakening/halting contractions which can be used in a medical contexts for the treatment of conditions like fibromyalgia.
+After averaging our data, a lot of the contradictions were removed and a significent pattern emerged. The contractions were overall weaker despite no observable difference in threshold; however, it would be worthwhile to accumulate more data for a more complete observation on change in threshold as there was at least one leg that represented a significent outlier. Ultimately, the results of this study can be used to further look calcium inhibition as a viable method for weakening/halting contractions which can be used in a medical contexts for the treatment of conditions like fibromyalgia.
 
 
 Literature Cited:

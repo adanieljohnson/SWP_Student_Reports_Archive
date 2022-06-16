@@ -6,26 +6,26 @@ Author of this lab report is: Std_IT2MLH8J
 Course number: BIO101L
 TA: TA_l0zDB5kQ
 *************************************************************************
-Title: The Effect of Nicotine on Rana Pipiens 
+Title: The Effect of Nicotine on Rania Pipiens 
 
 Abstract:
-Nicotine is a Ach receptor agonist, meaning it replicates the role of ACh. ACh is crucial in carrying action potentials in a neuromuscular junction. If more ACh is released, more depolarization occurs and more action potentials can be fired. Because nicotine can bind to these ACh receptors, the addition of nicotine does just that, where the increase of action potentials will lead to increased muscle response to electrical stimulus. In this lab, a frog’s (rana pipiens) muscle response via the gastrocnemius muscle will be observed and recorded by using a IWX/214.  Then, nicotine will be injected in to the same gastrocnemius muscle and its response will be recorded. This process will be repeated for three different frog legs to develop a mean. By calculating a mean, we will then be able to use this to run a two-tailed T-test, where this test will actually determine whether the null hypothesis of alternate hypothesis should be accepted.
+Nicotine is a Ach receptor agonist, meaning it replicates the role of ACh. ACh is crucial in carrying action potentials in a neuromuscular junction. If more ACh is released, more depolarization occurs and more action potentials can be fired. Because nicotine can bind to these ACh receptors, the addition of nicotine does just that, where the increase of action potentials will lead to increased muscle response to electrical stimulus. In this lab, a frog’s (Rania pipiens) muscle response via the gastrocnemus muscle will be observed and recorded by using a IWX/214.  Then, nicotine will be injected in to the same gastrocnemus muscle and its response will be recorded. This process will be repeated for three different frog legs to develop a mean. By calculating a mean, we will then be able to use this to run a two-tailed T-test, where this test will actually determine whether the null hypothesis of alternate hypothesis should be accepted.
 
 
 Introduction:
-ACh is one of the most important neurotransmitter in the human body. It has a very important rule in muscle contraction, and with insufficient ACh presence, muscle contraction would not be able to be carried out. ACh remains stored in vesicles in the presynaptic neuron, and it requires calcium in order to be released. When an action potential reaches the presynaptic synapse, this depolarization causes calcium to enter the cell, which causes the vesicles containing ACh to bind the membrane of the cell. From here, ACh is released in to the synaptic cleft. Because in this case nicotine is mimicking nicotine, nicotine can bind to nicotinic ion channels, causing the channels to release sodium and therefore depolarize the post synaptic membrane. This depolarization causes the firing of action potentials, which move in to the transverse tubules to signal calcium and begin muscle contraction. The main idea examined in this lab is if the increase in ACh agonist can translate in to higher muscle responses. This has been examined in other case studies. In one specific study, nicotine is injected in to rats and its response is observed. Injecting nicotine had the effect of “an increased firing rate, a membrane depolarization and an inward current” (Egan and North: 1986). Although this study doesn’t integrate muscle output, the increase in action potential firing rate would indicate that muscle fibers would get excited and contract with more force than if no nicotine was injected. But then again, that is the main question being asked and sought out in this lab. However, based on these previous studies and information on how muscle contraction works, the injection of nicotine should cause a significant increase in muscle response in terms of voltage due to increased action potential firing activity.
+ACh is one of the most important neurotransmitter in the human body. It has a very important rule in muscle contraction, and with insufficient ACh presence, muscle contraction would not be able to be carried out. ACh remains stored in vesicles in the presynaptic neuron, and it requires calcium in order to be released. When an action potential reaches the presynaptic synapse, this depolarization causes calcium to enter the cell, which causes the vesicles containing ACh to bind the membrane of the cell. From here, ACh is released in to the synaptic cleft. Because in this case nicotine is mimicking nicotine, nicotine can bind to nicotinic ion channels, causing the channels to release sodium and therefore depolarize the post synaptic membrane. This depolarization causes the firing of action potentials, which move in to the transverse tubules to signal calcium and begin muscle contraction. The main idea examined in this lab is if the increase in ACh agonist can translate in to higher muscle responses. This has been examined in other case studies. In one specific study, nicotine is injected in to rats and its response is observed. Injecting nicotine had the effect of “an increased firing rate, a membrane depolarization and an inward current” (Egan and North: 1986). Although this study doesn’t integrate muscle output, the increase in action potential firing rate would indicate that muscle fibers would get excited and contract with more force than if no nicotine was injected. But then again, that is the main question being asked and sought out in this lab. However, based on these previous studies and information on how muscle contraction works, the injection of nicotine should cause a significent increase in muscle response in terms of voltage due to increased action potential firing activity.
 	
 
 
-Materials and Methods:
-Methods:
+Materials and Method:
+Method:
 •	Peel of skin of frog
-•	Locate the gastrocnemius muscle, and isolate it by freeing it of any connective tissue
+•	Locate the gastrocnemus muscle, and isolate it by freeing it of any connective tissue
 •	With the scalpel between the bone and muscle, cut the downward end of the muscle off, making sure to leave the Achilles tendon attached.
 •	Tie the string around the tendon, and hang the muscle from the IWX/214 at a ninety-degree angle from the ground, making sure the rest of the frog is flat on the dissecting board.
 •	Set the 	Pulse amplitude to 1V, # pulses to 5, frequency to 1, and pulse width to 5ms.
 •	Stimulate the muscle under these conditions, record muscle response at top of each myogram.
-•	Let the muscle rest for 30 seconds, then inject the 1mg/mL nicotine in to the top and bottom of the frog muscle.
+•	Let the muscle rest for 30 seconds, then inject the 1mg/Ml nicotine in to the top and bottom of the frog muscle.
 •	Stimulate the muscle immediately under these same conditions, record muscle response at top of each myogram.
 •	Repeat this same procedure two more times with two different frog legs
 
@@ -57,13 +57,13 @@ Frog 1: Nicotine response was 1.0978V higher than regular response (448% increas
 Frog 2: Nicotine response was on average .9874V higher than regular response (1098% increase)
 Frog 3: Nicotine response was on average .9204V higher than regular response (357% increase)
 
-My hypothesis was correct because this increases in muscle response can be deemed significant based on the p- values calculated below via a two-tailed T test.
+My hypothesis was correct because this increases in muscle response can be deemed significent based on the p- values calculated below via a two-tailed T test.
 
 Frog 1 P-value: 1.69E-7
 Frog 2 P-value: 1.51E-7
 Frog 3 P-value 2.10E-8
 
-All three of these numbers fall below .05, meaning there is a significant difference between the two variables (frog response w/o injection and frog response w/ 1mg/mL nicotine injection). Based on this test, the null hypothesis should be rejected and the alternate hypothesis should be accepted.
+All three of these numbers fall below .05, meaning there is a significent difference between the two variables (frog response w/o injection and frog response w/ 1mg/Ml nicotine injection). Based on this test, the null hypothesis should be rejected and the alternate hypothesis should be accepted.
 This confirms the fact that because nicotine acted identically to ACh, an increase in nicotine would mimic an increase in neurotransmitter released in to neuromuscular junctions. The binding of nicotine to ligand receptors opens sodium channels and depolarization begins. Because more receptors are being opened due to increase ligand-presence, this leads to the increase in action potentials. This is important because this enables more calcium to be present in the muscle, and the rate of power strokes are therefore increased, giving an increasing muscle response value.
 	One limitation we faced that held back our experiment is the randomized frog leg. Although the change in muscle response based on nicotine is relative to a specific leg, having similar mass and sized frog legs could help us develop a more accurate statistical mean. This would have led to our T-Test values being closer together.
 	A next step could be to alter nicotine concentration in order to see where increasing use of nicotine injection caps off, meaning where response reaches it maximum possible value (tetanus). Another thing that could be done is to alter the # pulses to see if the injection of nicotine also causes muscles to fatigue easier than regular muscles. This can also be done by increasing frequency of pulses.

@@ -15,25 +15,25 @@ The purpose of this experiment was to assess how Gentrol affected the larvae of 
 Introduction:
 The Manduca sexta, also known as the Tobacco Hornworm is a pest which begins its life as an egg. Larvae produce a lot of JH, or Juvenile Hormone, which helps them grow, but when it drops, they begin to pupate. Gentrol is an IGR, or an Insect Growth Regulator, which can be used to describe a hormone that interferes with a larvae’s ability to pupate [Williams, 1967]. IGRs can be used as a third-generation pesticide (Williams, 1967). Gentrol is similar to JH in that it inhibits pupation. This will lower the amount of adult moths which will produce more eggs, hence more larvae. This then stops the pest problem because no more pests are being born. The null hypothesis is that if we feed Manduca sexta Gentrol, then noting will change, but if something does change, that is our alternative hypothesis.
 
-Materials and Methods:
+Materials and Method:
 First, we weighed and measured each of the larvae and put them into a separate compartment of the box, which are numbered to ensure that the larvae don’t get mixed up. Next, we divided out 10 grams of food for each larvae and added 6 drops of Gentrol to 8 of them, and 6 drops of water to the other 8, and gave them to the larvae. We continued to feed the larvae everyday with the same amount of food and liquid and made sure that the larvae receive the same type of liquid every time. We weighed and measured the larvae on day 7 and day 14, and then disposed of them by freezing. We used a two sample t test to analyze our data.
 
 Results:
 Figure 1. The average differences of length between day 1 and day 14 of the Manduca sexta.
-The p-value for the average differences in length is 1.09E-5.
-The average for the control was 23, the average for the treatment was 45.625
+The p_value for the average differences in length is 1.09E-5.
+The average for the controll was 23, the average for the treatment was 45.625
 Figure 2. The differences between the average of the weights of day 1 and day 14 Manduca sexta. 
 P-value of the average differences of weights is 8.99E-9.
-The average for the control was 4.95, the average for the treatment was 9.169.
+The average for the controll was 4.95, the average for the treatment was 9.169.
 
 
 Discussion:
-The results of the experiment support our hypothesis. We expected for the treated larvae to continue to grow passed that of the control larvae and that is what happened, they grew passed the point of where they should have begun to pupate. The p-value for the difference in the average lengths is 1.09 x 10-5 which shows that they are statistically significant. The p-value for the difference in the average in weights is 8.99 x 10-9 which also shows that these results are statistically significant. Therefore, we can reject the null hypothesis and say that Gentrol does affect the growth of Manduca sexta larvae by making them grow much larger than they are supposed to be due to the fact that their pupation is inhibited. This stops the production of new Manduca sexta which are a pest because they never reach maturity to produce eggs. In the next experiment, I would try something that excites pupation and observe what happens to the larvae then.
+The results of the experiment support our hypothesis. We expected for the treated larvae to continue to grow passed that of the controll larvae and that is what happened, they grew passed the point of where they should have begun to pupate. The p_value for the difference in the average lengths is 1.09 x 10-5 which shows that they are statistically significent. The p_value for the difference in the average in weights is 8.99 x 10-9 which also shows that these results are statistically significent. Therefore, we can reject the null hypothesis and say that Gentrol does affect the growth of Manduca sexta larvae by making them grow much larger than they are supposed to be due to the fact that their pupation is inhibited. This stops the production of new Manduca sexta which are a pest because they never reach maturity to produce eggs. In the next experiment, I would try something that excites pupation and observe what happens to the larvae then.
 
 Literature Cited:
 Subramanian, Sabtharishi, and K. Shankarganesh. "Insect Hormones (as Pesticides)." Ecofriendly Pest Management for Food Security. 2016. 613-650.
 
-Wijayaratne, L. K. W., F. H. Arthur, and S. Whyard. "Methoprene and control of stored-product insects." Journal of Stored Products Research 76 (2018): 161-169.
+Wijayaratne, L. K. W., F. H. Arthur, and S. Whyard. "Methoprene and controll of stored-product insects." Journal of Stored Products Research 76 (2018): 161-169.
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-02-12+at+3.40.44+PM.png&Size=719984&Type=image%2Fpng&F=F_2cix0qXVyEJMJ8p

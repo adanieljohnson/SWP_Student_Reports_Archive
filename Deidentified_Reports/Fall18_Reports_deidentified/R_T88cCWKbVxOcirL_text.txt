@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2018-10-22 22:11:41
+Date submitted: 2018-10-22 22: 11:41
 Author of this lab report is: Std_pbmM9eGj
 ID: R_T88cCWKbVxOcirL
 Course number: BIO102L
@@ -10,17 +10,17 @@ TA: TA_xjQbYV9u
 Title: Lack of Inhibition by NaCl and MgCl2 in isolated Spinacia oleracea L. Chloroplasts
 
 Abstract:
-This experiment observed the effects of salinity on photosynthesis in isolated chloroplasts from leaves of spinach, Spinacia oleracea L. More specifically, the experiment targeted the final point of reduction in the light-dependent electron transport chain, using light-reflective DCPIP in place of electron acceptor NADPH. Absorbance values were taken over the 30 minute total time of DCPIP reduction, using samples of 50 mM NaCl-exposed chloroplasts, 50 mM MgCl2 exposed-chloroplasts, and a control group with only chloroplasts. It was hypothesized that both MgCl2 exposure and NaCl exposure would yield significantly lower rates of DCPIP reduction than the control, and that MgCl2 would inhibit reduction further than NaCl. The results contradicted expectations, with one tailed p values below .05 indicating significantly higher reduction rates in NaCl than both the control and MgCl2. MgCl2 also showed to be statistically similar to the control, with one-tailed t test values above .05. In this experiment, it appears as though MgCl2 has no effect on the electron transport chain reduction, while NaCl seems to activate reduction. 
+This experiment observed the effects of salinity on photosynthesis in isolated chloroplasts from leaves of spinach, Spinacia oleracea L. More specifically, the experiment targeted the final point of reduction in the light-dependent electron transport chain, using light-reflective DCPIP in place of electron acceptor NADPH. Absorbance values were taken over the 30 minute total time of DCPIP reduction, using samples of 50 mM NaCl-exposed chloroplasts, 50 mM MgCl2 exposed-chloroplasts, and a controll group with only chloroplasts. It was hypothesized that both MgCl2 exposure and NaCl exposure would yield significently lower rates of DCPIP reduction than the controll, and that MgCl2 would inhibit reduction further than NaCl. The results contradicted expectations, with one tailed p values below .05 indicating significently higher reduction rates in NaCl than both the controll and MgCl2. MgCl2 also showed to be statistically similar to the controll, with one-tailed t test values above .05. In this experiment, it appears as though MgCl2 has no effect on the electron transport chain reduction, while NaCl seems to activate reduction. 
 
 Introduction:
 A key component of plant photosynthesis is the light-dependent redox reactions in the Electron Transport Chain (ETC). Final reduction of electron carrier NADPH during this process is crucial for later steps in the Calvin Cycle, where CO2 is reduced to sugars and O2 is generated [Johnson: 2018].
 Assessing the rate of photosynthesis may be done by quantifying O2 production by the plant [Robinson: 1983], however observing solely the rate of light-dependent reactions calls for a method that detects changes in the ETC, such as the Hill reaction. In the Hill reaction, electron carrier DCPIP substitutes NADPH at the end of the ETC. DCPIP appears blue when oxidized and clear once reduced, so ETC redox function may be measured as a function of %change in DCPIP absorbance at 600 nm [Johnson: 2018]. 
 The leaves of Spinacia oleracea L. (spinach) serve as a good model organism for measuring photosynthesis due to plant accessibility and ease when extracting chloroplasts [Seigneurin-Berny: 2008]. Measuring the effect of salinity on photosynthesis is of interest because spinach can be exposed to salinity fluctuations in the soil. Understanding the effects of salt on photosynthesis may inform how farmers may treat spinach soil to yield better crops. 
 Previous studies have observed the effects of sodium chloride (NaCl) and magnesium chloride (MgCl2) on photosynthesis in both whole spinach leaves and isolated chloroplasts by measuring gas evolution and/or the Hill reaction. One study found through observing O2 production in isolated chloroplasts, that [NaCl] above 100 mM and [MgCl2] above 25 mM hindered reduction during light reactions [Baker: 1978]. Similarly, a study that used the Hill reaction and O2 evolution to observe the effect of MgCl2 on isolated chloroplasts found that concentrations above 10 mM decreased redox activity [Sundari: 1989]. Contrastingly, a study that measured O2 evolution in both whole-leaf and isolated spinach chloroplasts reported no change in photosynthesis in [NaCl] 200 mM [Robinson: 1983]. In this experiment, however, salt was introduced incrementally over several days to live plants, before their chloroplasts were isolated and analyzed.
-While this suggests that spinach can adapt to salt environments, that study did not assess the effect of NaCl on specifically the electron chain. Thus, the purpose of this experiment is to use the DCPIP/Hill reaction to test an experimental group 50 mM NaCl added directly to chloroplasts as opposed to grown with them, alongside exposure of another experimental group to 50 mM MgCl2. The independent variable is presence of salt, with concentrations deemed a suitable middle ground based on findings of the aforementioned studies. The dependent variable is reduction of DCPIP, measured as %change absorbance over time. It is hypothesized that both MgCl2 and NaCl will inhibit reduction, but that MgCl2 will have a greater inhibiting effect on photosynthesis than NaCl, partially based on the conflicting research results. The expectation is that %change of DCPIP absorbance to be significantly lower in MgCl2 than NaCl, and for the %change in both NaCl and MgCl2 to be significantly lower than the control group of chloroplasts.
+While this suggests that spinach can adapt to salt environments, that study did not assess the effect of NaCl on specifically the electron chain. Thus, the purpose of this experiment is to use the DCPIP/Hill reaction to test an experimental group 50 mM NaCl added directly to chloroplasts as opposed to grown with them, alongside exposure of another experimental group to 50 mM MgCl2. The independent variable is presence of salt, with concentrations deemed a suitable middle ground based on findings of the aforementioned studies. The dependent variable is reduction of DCPIP, measured as %change absorbance over time. It is hypothesized that both MgCl2 and NaCl will inhibit reduction, but that MgCl2 will have a greater inhibiting effect on photosynthesis than NaCl, partially based on the conflicting research results. The expectation is that %change of DCPIP absorbance to be significently lower in MgCl2 than NaCl, and for the %change in both NaCl and MgCl2 to be significently lower than the controll group of chloroplasts.
 
-Materials and Methods:
-Spinach chloroplasts were first isolated by grinding 4 de-veined, rinsed leaves with 10 mL cold grinding buffer (400 mM sucrose in Tricine) using a cold mortar and pestle. 10 more mL were added, and the paste was strained through cheesecloth, leaving behind the liquid component. 50 mL was spun down twice, with the supernatant extracted each time. The first spin was 3 min, 1200 rpm, 4°C, and the second spin of the supernatant was for 10 min, 2800 rpm, 4°C. The final supernatant, containing chloroplasts, was used to make the following control and experimental solutions:
+Materials and Method:
+Spinach chloroplasts were first isolated by grinding 4 de-veined, rinsed leaves with 10 Ml cold grinding buffer (400 mM sucrose in Tricine) using a cold mortar and pestle. 10 more Ml were added, and the paste was strained through cheesecloth, leaving behind the liquid component. 50 Ml was spun down twice, with the supernatant extracted each time. The first spin was 3 min, 1200 rpm, 4°C, and the second spin of the supernatant was for 10 min, 2800 rpm, 4°C. The final supernatant, containing chloroplasts, was used to make the following controll and experimental solutions:
 	
 SEE EMAIL TO KAELA WITH THIS TABLE
 
@@ -30,53 +30,53 @@ SEE EMAIL TO KAELA WITH THIS TABLE
 3 tubes of:
 Reagent
 Blank
-Chloroplasts (control)
+Chloroplasts (controll)
 Chloroplasts +50 mM NaCl
 Chloroplasts +50 mM MgCl2
 Water
-1 mL
-5 mL
+1 Ml
+5 Ml
 ---
 ---
 120 mM DCPIP
-0 mL
-3 mL
-3 mL
-3 mL
+0 Ml
+3 Ml
+3 Ml
+3 Ml
 Hill Reaction buffer (100 mM phosphate, pH 6.5)
-1 mL
-2 mL
-2 mL
-2 mL
+1 Ml
+2 Ml
+2 Ml
+2 Ml
 100 mM NaCl (final 50 mM)
 ---
 ---
-5 mL
+5 Ml
 ---
 100 mM MgCl2 (final 50 mM)
 ---
 ---
 ---
-5 mL
+5 Ml
 Enriched chloroplasts
 ---
 100 uL
 100 uL
 100 uL
 
-After addition of chloroplasts, absorbances at 600 nm were taken using spectrophotometry. However, the blank used at first contained DCPIP and thus resulted in the first readings, which would be expected to decrease over time, to start off low, ranging .004 to .197. A new blank, listed above, was made for the subsequent timepoints. All tubes were held under a solar lamp, and absorbances with this new blank were taken at t=10 minutes, t=20 minutes, and t=30 minutes. % change from the initial, though improperly measured, t=0 were recorded at each point, as well as % change from the re-blanked 10 minute point as a corrective measure. A series of 1 tailed t tests were used to compare %change values among NaCl, MgCl2, and the control group.
+After addition of chloroplasts, absorbances at 600 nm were taken using spectrophotometry. However, the blank used at first contained DCPIP and thus resulted in the first readings, which would be expected to decrease over time, to start off low, ranging .004 to .197. A new blank, listed above, was made for the subsequent timepoints. All tubes were held under a solar lamp, and absorbances with this new blank were taken at t=10 minutes, t=20 minutes, and t=30 minutes. % change from the initial, though improperly measured, t=0 were recorded at each point, as well as % change from the re-blanked 10 minute point as a corrective measure. A series of 1 tailed t tests were used to compare %change values among NaCl, MgCl2, and the controll group.
 
 
 Results:
 Due to the procedural flaw in which the time=0 absorbances were taken using the incorrect blank, and due to the fact that time points 10-30 minutes were taken using the right blank, using %change from an incorrect value at t=0 does not accurately reflect the true change over time. As seen in Figure 2, which attempts to depict %change in DCPIP reduction, vast differences in %change can be attributed to the fact that initial readings were truly not in line with the rest of the readings, which had used the right blank.
-	Thus, data used for analysis was taken from properly blanked t=10 on, and %changes were calculated from that baseline value t=10 rather than t=0, presented in Figure 1. As seen in Figure 1, all groups show a steady increase of %change in DCPIP reduction, rather than the nearly indecipherable data from Figure 2. Reduction over time appears to follow a similar incline between MgCl2 and the control group, while it appears as though %change was consistently greater in the NaCl group. One tailed t test results yielded p values below significance level .05 for t=20 and t=30 between NaCl and the control (.01174 and .011147, respectively). Results at t=20 and t=30 also yielded p values below .05 between NaCl and MgCl2 (.002334 and .001578, respectively). In the one tailed t tests between MgCl2 and the control group at t=20 and t=30, p values were both above .05 (.364 and .315, respectively).
+	Thus, data used for analysis was taken from properly blanked t=10 on, and %changes were calculated from that baseline value t=10 rather than t=0, presented in Figure 1. As seen in Figure 1, all groups show a steady increase of %change in DCPIP reduction, rather than the nearly indecipherable data from Figure 2. Reduction over time appears to follow a similar incline between MgCl2 and the controll group, while it appears as though %change was consistently greater in the NaCl group. One tailed t test results yielded p values below significance level .05 for t=20 and t=30 between NaCl and the controll (.01174 and .011147, respectively). Results at t=20 and t=30 also yielded p values below .05 between NaCl and MgCl2 (.002334 and .001578, respectively). In the one tailed t tests between MgCl2 and the controll group at t=20 and t=30, p values were both above .05 (.364 and .315, respectively).
 
 
 Discussion:
-Since p values were below significance level .05 for tests between NaCl and both control and MgCl2 groups, it can be said that reductive activity in Spinacia oleracea L. chloroplasts in the presence of NaCl is significantly greater than both MgCl2 and control. It was, in fact, hypothesized that NaCl addition would yield higher reductive rates relative to MgCl2, however, it was also hypothesized that NaCl would have a lower rate of DCPIP reduction than the control. In this experiment, the opposite occurred, and it appears as though NaCl addition activated reductive activity in the electron transport chain of Spinacia oleracea L. chloroplasts. Though mathematical statistical difference is present, this difference contradicts the hypothesis and thus rejects it.  Also contrary to the hypothesis were the results between MgCl2 and the control. It was expected that the control would show greater reductive activity than MgCl2, however p values above .05 between MgCl2 and the control indicate that, statistically, the MgCl2 groups and control groups are not the same. Due to this result, the hypothesis is again, not supported. 
+Since p values were below significance level .05 for tests between NaCl and both controll and MgCl2 groups, it can be said that reductive activity in Spinacia oleracea L. chloroplasts in the presence of NaCl is significently greater than both MgCl2 and controll. It was, in fact, hypothesized that NaCl addition would yield higher reductive rates relative to MgCl2, however, it was also hypothesized that NaCl would have a lower rate of DCPIP reduction than the controll. In this experiment, the opposite occurred, and it appears as though NaCl addition activated reductive activity in the electron transport chain of Spinacia oleracea L. chloroplasts. Though mathematical statistical difference is present, this difference contradicts the hypothesis and thus rejects it.  Also contrary to the hypothesis were the results between MgCl2 and the controll. It was expected that the controll would show greater reductive activity than MgCl2, however p values above .05 between MgCl2 and the controll indicate that, statistically, the MgCl2 groups and controll groups are not the same. Due to this result, the hypothesis is again, not supported. 
 	Procedurally, many mistakes were made that could have led to skewed data. Aside from the improper blanking at t=0 which was omitted from analysis, it is probable that measurements when making solutions were not entirely accurate. Chloroplasts may not have been evenly distributed in the stock solution, meaning some tubes may have had more than others. Chloroplasts were also added hurriedly to each solution, also potentially skewing chloroplast volume. If this is the case with NaCl, this may account for the apparently higher reduction rate. In NaCl and in the other groups, standard deviation values were often over 50% of the values obtained, which indicates high variability, even within each experimental group. This may be accounted for, again, by uneven distribution of chloroplasts. In future studies, more samples should be taken and the chloroplast solution should be entirely homogenized so as not to let material sink and risk having uneven amounts of photosynthetic chloroplasts in each sample.
-	These results prove interesting compared to previous studies, since no result obtained was in accordance with previous research. Studies found either inhibition of reduction by NaCl [Baker: 1978] or no change from the control [Robinson: 1983], however no study showed activation of the ETC reduction compared to the control. It is possible that procedure design decisions might have caused this variation, since NaCl was added immediately and thus may not have even had a true effect on the chloroplasts. It could be that NaCl had no effect and that the NaCl trials had high chloroplast density. Trials may be completed after soaking chloroplasts in NaCl for a more extended period of time, to better compare with the [Robinson: 1983] and test against [Baker: 1978] [Sundari: 1989] studies. 
-	As with MgCl2, the result that MgCl2 shows no change in reduction is not in line with both [Sundari: 1989] study and [Baker: 1978] study, which report significant inhibition of reduction. If the difference is a matter of time of exposure to salt as with NaCl, it could be that MgCl2 was not around the chloroplasts for long enough to show inhibition. As with NaCl, longer exposure times with MgCl2 may clarify the effects of the salt.
+	These results prove interesting compared to previous studies, since no result obtained was in accordance with previous research. Studies found either inhibition of reduction by NaCl [Baker: 1978] or no change from the controll [Robinson: 1983], however no study showed activation of the ETC reduction compared to the controll. It is possible that procedure design decisions might have caused this variation, since NaCl was added immediately and thus may not have even had a true effect on the chloroplasts. It could be that NaCl had no effect and that the NaCl trials had high chloroplast density. Trials may be completed after soaking chloroplasts in NaCl for a more extended period of time, to better compare with the [Robinson: 1983] and test against [Baker: 1978] [Sundari: 1989] studies. 
+	As with MgCl2, the result that MgCl2 shows no change in reduction is not in line with both [Sundari: 1989] study and [Baker: 1978] study, which report significent inhibition of reduction. If the difference is a matter of time of exposure to salt as with NaCl, it could be that MgCl2 was not around the chloroplasts for long enough to show inhibition. As with NaCl, longer exposure times with MgCl2 may clarify the effects of the salt.
 	Future studies would involve more testing with completely homogenized solutions and longer exposure times. This may be better in drawing conclusions regarding agriculture as a whole, because plants are not exposed to high salinity in isolation but rather over longer periods of time. Longer experiment timing may yield results that are closer to real environments in Spinacia oleracea L. crop fields.
 
 
@@ -116,11 +116,11 @@ Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1: Comparison of the average %change in absorbance from t=10 min to t=20 and t=30 minutes, for control group of chloroplasts, the chloroplasts + 50 mM NaCl, and the chloroplasts + 50 mM MgCl2 groups. The %change from t=10 at  t=20 averaged 6.33% +/- 4.89 SD for the control , 18.5% +/- 3.18 SD for 50 mM NaCl, and 5.28%+/- 2.44 SD for 50 mM MgCl2. Final %change at  t=30 averaged 10.6% +/- 8.39 SD for the control, 31.3% +/- 5.08 SD for 50 mM NaCl, and 8.02% +/- 3.82 SD for 50 mM MgCl2.  N=3 for each time point. One-tailed t test results are shown below, in Table 1.
+Figure 1: Comparison of the average %change in absorbance from t=10 min to t=20 and t=30 minutes, for controll group of chloroplasts, the chloroplasts + 50 mM NaCl, and the chloroplasts + 50 mM MgCl2 groups. The %change from t=10 at  t=20 averaged 6.33% +/- 4.89 SD for the controll , 18.5% +/- 3.18 SD for 50 mM NaCl, and 5.28%+/- 2.44 SD for 50 mM MgCl2. Final %change at  t=30 averaged 10.6% +/- 8.39 SD for the controll, 31.3% +/- 5.08 SD for 50 mM NaCl, and 8.02% +/- 3.82 SD for 50 mM MgCl2.  N=3 for each time point. One-tailed t test results are shown below, in Table 1.
 
-Table 1: Results of 1-tailed t tests at both t=20 and t=30 points, with tests between control and NaCl, control and MgCl2, and MgCl2 with NaCl.
+Table 1: Results of 1-tailed t tests at both t=20 and t=30 points, with tests between controll and NaCl, controll and MgCl2, and MgCl2 with NaCl.
 
-Figure 2: Comparison of the average %change in absorbance from t=0 min blank values to t=10, t=20, and t=30 minutes, for control group of chloroplasts, the chloroplasts + 50 mM NaCl, and the chloroplasts + 50 mM MgCl2 groups. Not included in data analysis, but shown to see blank error.*************************************************************************
+Figure 2: Comparison of the average %change in absorbance from t=0 min blank values to t=10, t=20, and t=30 minutes, for controll group of chloroplasts, the chloroplasts + 50 mM NaCl, and the chloroplasts + 50 mM MgCl2 groups. Not included in data analysis, but shown to see blank error.*************************************************************************
 
 
 

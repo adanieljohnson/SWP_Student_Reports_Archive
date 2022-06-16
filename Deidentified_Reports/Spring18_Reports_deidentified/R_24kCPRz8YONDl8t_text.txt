@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: second
 This is a submission.
-Date submitted: 2018-03-27 16:23:11
+Date submitted: 2018-03-27 16:23: 11
 Author of this lab report is: Std_TbdbpNy9
 ID: R_24kCPRz8YONDl8t
 Course number: BIO101L
@@ -10,31 +10,31 @@ TA: TA_l0zDB5kQ
 Title: Effects of a Calcium Blocker at Neuromuscular Junctions
 
 Abstract:
-The main objective of this experiment was to see if the addition of a substance to block calcium channels to the gastrocnemius muscle of a Rana pipien frog would have an effect on the voltage required for the muscle to reach the threshold for contraction. We hypothesized that the introduction of such a calcium blocker, in the form of lanthanum chloride, would increase the threshold for muscle contraction as opposed to muscles not injected with such a substance. The background for this experiment was based on knowledge of neuromuscular junctions and ions required for the process of muscle contraction. This experiment measured the thresholds of two frog legs, before and after injection with lanthanum chloride. The data did support the hypothesis as the thresholds did increase, but not significantly as they only increased minutely. In addition, the P values, being relatively large numbers, from the two-sample t-test performed suggested that those findings could have been due to chance as opposed to being caused by the introduction of the calcium blocker. 
+The main objective of this experiment was to see if the addition of a substance to block calcium channels to the gastrocnemus muscle of a Rania pipien frog would have an effect on the voltage required for the muscle to reach the threshold for contraction. We hypothesized that the introduction of such a calcium blocker, in the form of lanthanum chloride, would increase the threshold for muscle contraction as opposed to muscles not injected with such a substance. The background for this experiment was based on knowledge of neuromuscular junctions and ions required for the process of muscle contraction. This experiment measured the thresholds of two frog legs, before and after injection with lanthanum chloride. The data did support the hypothesis as the thresholds did increase, but not significently as they only increased minutely. In addition, the P values, being relatively large numbers, from the two-sample t_test performed suggested that those findings could have been due to chance as opposed to being caused by the introduction of the calcium blocker. 
 
 Introduction:
-An action potential in a neuron causes the release of neurotransmitters into the synaptic cleft between two neurons. Those neurotransmitters cause either an excitatory or inhibitory stimulus in the postsynaptic cell. Eventually a motor neuron will reach a muscle and create a neuromuscular junction (Mills, 2017). The neurotransmitter released at this junction is acetylcholine. It then binds with receptors on the postsynaptic membrane of the muscle fiber, opening sodium channels, allowing the action potential to propagate through the muscle fiber. The opening of the sodium channels causes the calcium channels to be stimulated and opened, releasing calcium from the sarcoplasmic reticulum into the sarcoplasm, allowing the actin and myosin to bind and the muscle to contract. Without the calcium, the tropomyosin would remain over the binding sites on the actin filaments, preventing the myosin from binding and the muscle from contracting. Also, neurotransmitter would not be able to be released because it is necessary to allow the exocytosis of the neurotransmitter from the presynaptic terminal. This week, we will be injecting the calcium channel blocker, lanthanum chloride, into the gastrocnemius muscle of frog legs. We hypothesize that the introduction of lanthanum chloride in a frog’s gastrocnemius muscle will increase the voltage to reach the threshold of a muscle contraction. 
+An action potential in a neuron causes the release of neurotransmitters into the synaptic cleft between two neurons. Those neurotransmitters cause either an excitatory or inhibitory stimulus in the postsynaptic cell. Eventually a motor neuron will reach a muscle and create a neuromuscular junction (Mills, 2017). The neurotransmitter released at this junction is acetylcholine. It then binds with receptors on the postsynaptic membrane of the muscle fiber, opening sodium channels, allowing the action potential to propagate through the muscle fiber. The opening of the sodium channels causes the calcium channels to be stimulated and opened, releasing calcium from the sarcoplasmic reticulum into the sarcoplasm, allowing the actin and myosin to bind and the muscle to contract. Without the calcium, the tropomyosin would remain over the binding sites on the actin filaments, preventing the myosin from binding and the muscle from contracting. Also, neurotransmitter would not be able to be released because it is necessary to allow the exocytosis of the neurotransmitter from the presynaptic terminal. This week, we will be injecting the calcium channel blocker, lanthanum chloride, into the gastrocnemus muscle of frog legs. We hypothesize that the introduction of lanthanum chloride in a frog’s gastrocnemus muscle will increase the voltage to reach the threshold of a muscle contraction. 
 
-Materials and Methods:
+Materials and Method:
 Materials:
 •	Electrodes and Volt Meter
 •	Lab Scribe Computer Software
-•	2 Rana pipiens Frog Legs
+•	2 Rania pipiens Frog Legs
 •	Dissection Tools and Tray
 •	Thread and Thin Wire
 
-Methods:
+Method:
 
-First, obtain two frog legs and remove the skin. Moisten the frog legs with frog ringer periodically throughout the experiment. Separate the inner thigh muscles to isolate the sciatic nerve. Clip the gastrocnemius at the Achille’s tendon and tie a piece of thread around the juncture between the muscle and tendon. Tie a loop at the end of the thread and place on a hook on a stand. Pin the rest of the frog leg (using 2 pins crossed at two different places) and then adjust the stand so that the gastrocnemius muscle is suspended at 90°. Tie thin wire around the muscle at two places (either end) and attach an electrode to each wire piece. Apply increasing voltage in small increments until the muscle twitches to find threshold. Then, inject the gastrocnemius with 1 mL of lanthanum chloride to block the calcium channels and find the threshold after injection with each leg. After the data is collected, perform a 2-sample T-test. 
+First, obtain two frog legs and remove the skin. Moisten the frog legs with frog ringer periodically throughout the experiment. Separate the inner thigh muscles to isolate the sciatic nerve. Clip the gastrocnemus at the Achille’s tendon and tie a piece of thread around the juncture between the muscle and tendon. Tie a loop at the end of the thread and place on a hook on a stand. Pin the rest of the frog leg (using 2 pins crossed at two different places) and then adjust the stand so that the gastrocnemus muscle is suspended at 90°. Tie thin wire around the muscle at two places (either end) and attach an electrode to each wire piece. Apply increasing voltage in small increments until the muscle twitches to find threshold. Then, inject the gastrocnemus with 1 Ml of lanthanum chloride to block the calcium channels and find the threshold after injection with each leg. After the data is collected, perform a 2-sample T-test. 
 
 
 Results:
-The average thresholds for both legs before the injection of the lanthanum chloride was 0.16 volts and after the injection was 0.24 volts. For both legs, the threshold increased, as shown by th trendlines in the scatter plot. The two-sample t-test showed 1 degree of freedom, a tStat value of -2.14 and a p value of 0.28. 
+The average thresholds for both legs before the injection of the lanthanum chloride was 0.16 volts and after the injection was 0.24 volts. For both legs, the threshold increased, as shown by th trendlines in the scatter plot. The two-sample t_test showed 1 degree of freedom, a tStat value of -2.14 and a p value of 0.28. 
 
 Discussion:
 In this experiment, the average data did show an effect from the injection of lanthanum chloride. The threshold for muscle contraction for both frog legs did increase after the injection of the calcium channel blocker. Theoretically, if calcium channels were blocked the muscle would not be able to contract as easily because the calcium would not be able to gain entry into the presynaptic neuron to bind the neurotransmitter-containing vesicles to the membrane to release the neurotransmitter and the calcium would not be able to gain entry into the sarcoplasm to bind to troponin to allow actin and myosin to bind for a power stroke (Mills, 2017). Even if the blockage of calcium channels were not complete, it should take longer for enough calcium to enter either the presynaptic terminal or the sarcoplasm to obtain the proper levels for action. Our data did reflect this. 
 
-However, the data obtained did not exhibit dramatic changes. For example, in frog leg 1, threshold only increased 0.04 volts when the muscle was injected with the calcium blocker. This means that the calcium blocker did not generate significant results. This idea was supported by the statistical values generated from a two-sample t-test. The p value for this experiment was 0.28. This value is relatively high, suggesting that our results are not statistically significant. Our hypothesis was supported by the data collected because injecting a calcium blocker in the form of lanthanum chloride did delay threshold, but not significantly, statistically. 
+However, the data obtained did not exhibit dramatic changes. For example, in frog leg 1, threshold only increased 0.04 volts when the muscle was injected with the calcium blocker. This means that the calcium blocker did not generate significent results. This idea was supported by the statistical values generated from a two-sample t_test. The p value for this experiment was 0.28. This value is relatively high, suggesting that our results are not statistically significent. Our hypothesis was supported by the data collected because injecting a calcium blocker in the form of lanthanum chloride did delay threshold, but not significently, statistically. 
 
 
 Literature Cited:
@@ -66,10 +66,10 @@ Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Table 1. Values obtained from a Two-Sample T-Test on the voltages at which threshold was reached for control and treatment groups where the treatment group was injected with lanthanum chloride. 
+Table 1. Values obtained from a Two-Sample T-Test on the voltages at which threshold was reached for controll and treatment groups where the treatment group was injected with lanthanum chloride. 
 
 Figure 1. Voltages for which threshold was reached for frog legs 1 and 2 before and after the injection of lanthanum chloride. Control is in gray and treatment is in blue.
 
-Figure 2. Average voltages for frog legs 1 and 2 before and after injection of lanthanum chloride at which threshold was reached. Leg 1 is in blue and leg 2 is in gray. The standard deviation for control is ±0 and for the treatment is ±0.049497. 
+Figure 2. Average voltages for frog legs 1 and 2 before and after injection of lanthanum chloride at which threshold was reached. Leg 1 is in blue and leg 2 is in gray. The standard deviation for controll is ±0 and for the treatment is ±0.049497. 
 
 *************************************************************************

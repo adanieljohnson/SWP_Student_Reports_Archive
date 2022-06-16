@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2019-02-14 18:17:03
+Date submitted: 2019-02-14 18: 17:03
 Author of this lab report is: Std_63FsgnD6
 ID: R_3nIB9aUXMwAg7Xp
 Course number: BIO101L
@@ -10,24 +10,24 @@ TA: TA_ZaFL1W9f
 Title: The Effect of Precor IGR on Manduca Sextas Life Cycle
 
 Abstract:
-Hormones are an important study in biology looking at the effects it has on the body and its various functions. They send signals throughout the body regulating growth stimulating specific cells to perform specific tasks. Ecdysterone and juvenile hormones are both found in manduca sextas helping the organism regulate growth and development. The brain of the organism lowers the juvenile hormone levels while increasing the ecdysterone to start the process of pupating. In the experiment, we added Precor, an insect growth regulator that mimics the juvenile hormone, in the treatment group to see the growth effects on manduca sextas. We hypothesized that the high level of juvenile hormones will cause the insect to not pupate and decrease in size. The data shows a decrease in average length for the treatment group and an increase in the control. However, the data cannot support nor refute the hypothesis because it is not under the 5% confidence interval. 
+Hormones are an important study in biology looking at the effects it has on the body and its various functions. They send signals throughout the body regulating growth stimulating specific cells to perform specific tasks. Ecdysterone and juvenile hormones are both found in manduca sextas helping the organism regulate growth and development. The brain of the organism lowers the juvenile hormone levels while increasing the ecdysterone to start the process of pupating. In the experiment, we added Precor, an insect growth regulator that mimics the juvenile hormone, in the treatment group to see the growth effects on manduca sextas. We hypothesized that the high level of juvenile hormones will cause the insect to not pupate and decrease in size. The data shows a decrease in average length for the treatment group and an increase in the controll. However, the data cannot support nor refute the hypothesis because it is not under the 5% confidence interval. 
 
 
 Introduction:
-This experiment looks at the effect of hormones on insect development. Hormones are chemicals that send signals to the body and control physiological development. The brain releases electrochemical outputs with hormones controlling behavior, growth and physiology. A manduca sexta life cycle consists of development, molting, pupa formation and adulthood. Life cycles can vary depending on their living conditions and diet. The ecdysterone hormone is a type of steroid hormone that manages when an insect should molt and controls other developmental functions. Juvenile hormones are produced in the prothoracic glands controlling the type of molt an insect should development. Both hormones work simultaneously together in order to keep the animal alive. Once the body has enough nutrients to form into an adult moth, it goes into commitment pulse where the brain releases an increase of ecdysterone and juvenile hormones are low. This experiment manipulates the juvenile hormone level with an insect growth regulator, Precor. Since low levels of juvenile hormones trigger the commitment pulse then if the manduca sexta is exposed to the IGR inhibitor Precor, then they will lose weight and decrease in length, thus giving them a less chance of survival. 
+This experiment looks at the effect of hormones on insect development. Hormones are chemicals that send signals to the body and controll physiological development. The brain releases electrochemical outputs with hormones controllling behavior, growth and physiology. A manduca sexta life cycle consists of development, molting, pupa formation and adulthood. Life cycles can vary depending on their living conditions and diet. The ecdysterone hormone is a type of steroid hormone that manages when an insect should molt and controlls other developmental functions. Juvenile hormones are produced in the prothoracic glands controllling the type of molt an insect should development. Both hormones work simultaneously together in order to keep the animal alive. Once the body has enough nutrients to form into an adult moth, it goes into commitment pulse where the brain releases an increase of ecdysterone and juvenile hormones are low. This experiment manipulates the juvenile hormone level with an insect growth regulator, Precor. Since low levels of juvenile hormones trigger the commitment pulse then if the manduca sexta is exposed to the IGR inhibitor Precor, then they will lose weight and decrease in length, thus giving them a less chance of survival. 
 
 
-Materials and Methods:
-First punch two holes on the side of all eight containers with a “hole” tool. Label the containers with numbers 1-4 distinguishing which are the control and treatment. Then weigh ten grams of food for each eight manduca sexta. Stir each 10 grams of food separately mixing in either 8 drops of the Precor IGR inhibitor for the treatment group or 10 drops of distilled water for the control group. Place the food accordingly in each container and put the eight manduca sextas in the containers. The weight and length of each manduca sexta was measured daily for the duration of fourteen days and stored in an 25 degree celsius set incubator. Food was replaced roughly after every one to two days depending on how much was consumed. A two sample T-test was run to test the null hypothesis and the mean difference between the treatment and control group of manduca sextas. 
+Materials and Method:
+First punch two holes on the side of all eight containers with a “hole” tool. Label the containers with numbers 1-4 distinguishing which are the controll and treatment. Then weigh ten grams of food for each eight manduca sexta. Stir each 10 grams of food separately mixing in either 8 drops of the Precor IGR inhibitor for the treatment group or 10 drops of distilled water for the controll group. Place the food accordingly in each container and put the eight manduca sextas in the containers. The weight and length of each manduca sexta was measured daily for the duration of fourteen days and stored in an 25 degree celsius set incubator. Food was replaced roughly after every one to two days depending on how much was consumed. A two sample T-test was run to test the null hypothesis and the mean difference between the treatment and controll group of manduca sextas. 
 
 
 Results:
-A two sample t-test was conducted to compare the treatment and control group of the manduca sextas. The confidence interval for weight was 0.4052 and for length 0.2518; both p-values were greater than 0.05 therefore not statistically significant. The average length of the control group increased between day four and seven going past the treatment group but declines back on day seven; however, day six had the largest standard deviation out of all the average control lengths. (Figure 1) After day twelve, the average control length increased while the treatment group began to slightly decrease. (Figure 1) The standard deviation for control weight is significantly higher than the others ranging from 0.12-3.857. The average weight control group began to increase after day three surpassing the treatment’s average weight. (Figure 2) After day twelve, the weights for both treatment and control both decreased. (Figure 2)
+A two sample t_test was conducted to compare the treatment and controll group of the manduca sextas. The confidence interval for weight was 0.4052 and for length 0.2518; both p_values were greater than 0.05 therefore not statistically significent. The average length of the controll group increased between day four and seven going past the treatment group but declines back on day seven; however, day six had the largest standard deviation out of all the average controll lengths. (Figure 1) After day twelve, the average controll length increased while the treatment group began to slightly decrease. (Figure 1) The standard deviation for controll weight is significently higher than the others ranging from 0.12-3.857. The average weight controll group began to increase after day three surpassing the treatment’s average weight. (Figure 2) After day twelve, the weights for both treatment and controll both decreased. (Figure 2)
  
 
 
 Discussion:
-Our collected data can not support nor refute our hypothesis that if the manduca sexta is exposed to an inhibitor of juvenile hormones, then they will lose weight and decrease in length since the confidence interval was greater than 5%. However, the average length of the treatment group did show a decline. Past research has found that injecting manduca sextas with juvenile hormones stopped it from being able to begin pupating. [Nijhout: 1974] The experiment can be run again for a longer duration to see if the manduca sextas in the control group actually pupate while the length and weight of the treatment group declines significantly. 
+Our collected data can not support nor refute our hypothesis that if the manduca sexta is exposed to an inhibitor of juvenile hormones, then they will lose weight and decrease in length since the confidence interval was greater than 5%. However, the average length of the treatment group did show a decline. Past research has found that injecting manduca sextas with juvenile hormones stopped it from being able to begin pupating. [Nijhout: 1974] The experiment can be run again for a longer duration to see if the manduca sextas in the controll group actually pupate while the length and weight of the treatment group declines significently. 
 
 
 Literature Cited:
@@ -58,10 +58,10 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 Figure Legends: 
 Figure 1. 
-Average length of control and treatment manduca sexta groups with standard deviations. 
+Average length of controll and treatment manduca sexta groups with standard deviations. 
 
 Figure 2.
-Average weight of control and treatment manduca sexta groups with standard deviations. 
+Average weight of controll and treatment manduca sexta groups with standard deviations. 
 *************************************************************************
 
 

@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2018-02-28 14:31:19
+Date submitted: 2018-02-28 14:31: 19
 Author of this lab report is: Std_oT0bzQlH
 ID: R_9TEBSfI5jOwz1YN
 Course number: BIO103L
@@ -10,14 +10,14 @@ TA: TA_fMNrLFgi
 Title: Effects of Acid rain on Triticum aestivum Energy Allocation
 
 Abstract:
-In this experiment, we were testing the effects of acid rain on Triticum aestivum plant energy allocation, specifically at the length of the roots. It was hypothesized that because acid rain depletes nutrients in the soil, the roots of the plant would grow longer than plants watered with regular water because they are compensating for the lack of nutrients in the soil. We had two variable groups, one set of plants watered with a pH 4 solution and another set of plants watered with hose water. The plants were watered every day with their respective solution for two weeks. After two weeks we measured the length of the roots and found that there was no statistical difference between the root length of the control group and the experimental group. 
+In this experiment, we were testing the effects of acid rain on Triticum aestivum plant energy allocation, specifically at the length of the roots. It was hypothesized that because acid rain depletes nutrients in the soil, the roots of the plant would grow longer than plants watered with regular water because they are compensating for the lack of nutrients in the soil. We had two variable groups, one set of plants watered with a pH 4 solution and another set of plants watered with hose water. The plants were watered every day with their respective solution for two weeks. After two weeks we measured the length of the roots and found that there was no statistical difference between the root length of the controll group and the experimental group. 
 
 Introduction:
 Pollution is more than just a cause of global warming; it is the leading cause of sulfur dioxide gas in the atmosphere. Volcanoes used to be the leading cause of sulfur dioxide in the air, so it is natural to have some amount of sulfur dioxide, but in recent years, with the increase of chemical emissions, the amount of SO2 has also increased (Air Pollution, 2009). SO2 is one of the leading causes of acid rain in the world. As noted before, volcanoes naturally emit SO2 so acid rain is not totally human-caused, but the increase of SO2 has also lead to an increase of acid rain and an increase of acidity. Acid rain is detrimental to both animal-life and plant-life; it contaminates water sources for animals, but it also strips the soil of nutrients and plants struggle to grow and thrive when they cannot get the energy they need (US EPA, O., Effects of Acid Rain, 2016). 
 However, plants are adaptive just as humans and animals are, and have learned ways to adapt to the lack of nutrients in the soil. By extending their roots, the plants can gather the sparse nutrients in the soil more effectively. In this experiment, we are hypothesizing that plants watered with a lower pH solution will grow longer roots than plants water with normal water in order to best take up the nutrients in the soil. 
 
 
-Materials and Methods:
+Materials and Method:
 •	Variables: 
 o	Control group- pH7 or simple tap water
 o	Experimental group- pH 4 water
@@ -40,7 +40,7 @@ o	Scissors
 
 •	Procedures
 o	The first step is to gather materials and set up the pots with soil and miracle grow.
-o	The 6 pots were filled to the brim with soil, water was added until it dripped it was fully saturated, and then 50 mL of Miracle Grow was added. 
+o	The 6 pots were filled to the brim with soil, water was added until it dripped it was fully saturated, and then 50 Ml of Miracle Grow was added. 
 o	Seeds were lightly pushed into the soil
 o	Three of the pots were labeled as the Control group, which were only watered with tap water
 o	The other three pots were labeled as the Experimental group and were watered with a pH 4 solution. 
@@ -54,16 +54,16 @@ o	Dispose of soil waste in appropriate bins and clean workspace
 
 
 Results:
-The p-value of 0.817 is extremely high, and we fail to reject the null hypothesis in this case. 
+The p_value of 0.817 is extremely high, and we fail to reject the null hypothesis in this case. 
 
-The averages for the root lengths between the control and the experimental are not that different, which can account for the high p-value
+The averages for the root lengths between the controll and the experimental are not that different, which can account for the high p_value
 
-The p-value of 0.0266 is fairly low which suggests a relationship between shoot length and acid rain in Triticum aestivum plants. 
+The p_value of 0.0266 is fairly low which suggests a relationship between shoot length and acid rain in Triticum aestivum plants. 
 
 Discussion:
-As stated previously in the introduction, acid rain reduces nutrients in the soil, which negatively impacts plant life. Based on research from previous studies (list citations) I hypothesized that because the acid would “wash” away most of the nutrients, the plants with the acid treatment would grow longer roots to compensate for the lack of nutrients. In actuality, we saw no significant difference in our plant root length between the two experimental groups. After performing a two-sample T-test on the control root length and the experimental root length, I found a p-value of 0.817, which is extremely high, and means that the experiment did not support our hypothesis.  
+As stated previously in the introduction, acid rain reduces nutrients in the soil, which negatively impacts plant life. Based on research from previous studies (list citations) I hypothesized that because the acid would “wash” away most of the nutrients, the plants with the acid treatment would grow longer roots to compensate for the lack of nutrients. In actuality, we saw no significent difference in our plant root length between the two experimental groups. After performing a two-sample T-test on the controll root length and the experimental root length, I found a p_value of 0.817, which is extremely high, and means that the experiment did not support our hypothesis.  
 During the plant growth process, we noticed mold starting to grow from or on the plants. It seemed that the mold was growing from the seeds because the areas with high seed concentration also had the highest mold concentration. Mold also grew on all of the pots, so it was not a conflicting variable. However, it does raise the question as to whether the mold did affect the plant growth in some way. In nature, mold can be beneficiary to breaking down dead organisms and reintroducing nutrients back into the soil. If this is true of the mold growing on our plants, then some of the nutrients stripped by the acid could have been reintroduced by the mold (Chapin, F.S., et.al, 1987) (The Importance of Fungi and their Symbiotic Relationships). 
-Looking at the rest of the data, aside from the T-test, our results aren’t that surprising because the averages for the control and experimental groups were very similar. The surprising piece of information gleaned from the data, is that the average shoot length for the experimental group had a bigger difference. When a T-test was performed on the shoot lengths of the control and experimental groups, the p-value was significantly lower at 0.0266. This number would have been statistically significant if my hypothesis had been about shoot lengths because the number is lower than 0.05. The acidity of our solution was pH 4 which is the average pH of acid rainfall. Although pH 4 is on the higher side of the acidic scale, we still expected to see some difference in root lengths because of the lower levels of nutrients in the soil (US EPA, O., What is Acid Rain, 2016). Maybe for wheat plants, growing longer shoots is more beneficial for nutrient intake. This could be something to test in the future for wheat plants because there could be a link between energy allocation and shoots with wheat plants.
+Looking at the rest of the data, aside from the T-test, our results aren’t that surprising because the averages for the controll and experimental groups were very similar. The surprising piece of information gleaned from the data, is that the average shoot length for the experimental group had a bigger difference. When a T-test was performed on the shoot lengths of the controll and experimental groups, the p_value was significently lower at 0.0266. This number would have been statistically significent if my hypothesis had been about shoot lengths because the number is lower than 0.05. The acidity of our solution was pH 4 which is the average pH of acid rainfall. Although pH 4 is on the higher side of the acidic scale, we still expected to see some difference in root lengths because of the lower levels of nutrients in the soil (US EPA, O., What is Acid Rain, 2016). Maybe for wheat plants, growing longer shoots is more beneficial for nutrient intake. This could be something to test in the future for wheat plants because there could be a link between energy allocation and shoots with wheat plants.
 
 
 Literature Cited:
@@ -72,7 +72,7 @@ Chapin, F. S., Bloom, A. J., Field, C. B., & Waring, R. H. (1987). Plant Respons
 The Importance of Fungi and their Symbiotic Relationships. (n.d.-a). Retrieved February 28, 2018, from http://www.actforlibraries.org/the-importance-of-fungi-and-their-symbiotic-relationships/
 US EPA, O. (2016a, February 9). What is Acid Rain? [Overviews and Factsheets]. Retrieved February 28, 2018, from https://www.epa.gov/acidrain/what-acid-rain
 US EPA, O. (2016b, March 16). Effects of Acid Rain [Overviews and Factsheets]. Retrieved February 28, 2018, from https://www.epa.gov/acidrain/effects-acid-rain
-What is acid rain? [USGS]. (n.d.). Retrieved February 28, 2018, from https://pubs.usgs.gov/gip/acidrain/2.html
+What is acid rain? [USGS]. (n.d.). Retrieved February 28, 2018, from https://pubs.usgs.gov/gip/acidrain/2.htMl
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Figure+1.png&Size=118047&Type=image%2Fpng&F=F_5gMag0f5YhCzM57
@@ -109,7 +109,7 @@ Table 2. Averages and Standard Deviations for Control Group
 Table 3. Averages and Standard Deviations for Experimental Group
 Table 4. Root to Shoot Ratios
 Figure 2. Shoot lengths of Control and Experimental Groups
-Table 5. Two sample t-tests of shoot length
+Table 5. Two sample t_tests of shoot length
 
 
 *************************************************************************

@@ -6,31 +6,31 @@ Author of this lab report is: Std_QBsTAhBt
 Course number: BIO101L
 TA: TA_TaMqWbpv
 *************************************************************************
-Title: Does Salinity affect metabolic rate of Procambarus sp.?
+Title: Does Salinity affect metabolic rate of Procambris sp.?
 
 Abstract:
-Metabolism is the overall process of energy gain and use within an organism and can be measured via oxygen consumption. Our group did the experiment on crayfish Procambarus sp., a kind of fresh water crustacean, to see if salinity can affect their metabolic rate. Our alternate hypothesis is that there will be metabolic rate difference between ones in fresh water and in salt water. 
+Metabolism is the overall process of energy gain and use within an organism and can be measured via oxygen consumption. Our group did the experiment on crayfish Procambris sp., a kind of fresh water crustacean, to see if salinity can affect their metabolic rate. Our alternate hypothesis is that there will be metabolic rate difference between ones in fresh water and in salt water. 
 
-Three different crayfishes’ oxygen consumption was measured by a detector both in fresh and salt water every 5 minutes for 20 minutes. Then specific metabolic rate was calculated and compared using a two sample two tail paired T-test. The P value we got was 0.0447, indicating our hypothesis was supported and our result was statistically significant. Salinity can affect metabolic rate because crayfishes want to avoid excessive gain of ions, thus tend to stay more static compare to in fresh water. Further researches can be done by testing on different aquatic creatures or different salinity concentrations.
+Three different crayfishes’ oxygen consumption was measured by a detector both in fresh and salt water every 5 minutes for 20 minutes. Then specific metabolic rate was calculated and compared using a two sample two tail paired T-test. The P value we got was 0.0447, indicating our hypothesis was supported and our result was statistically significent. Salinity can affect metabolic rate because crayfishes want to avoid excessive gain of ions, thus tend to stay more static compare to in fresh water. Further researches can be done by testing on different aquatic creatures or different salinity concentrations.
 
 Introduction:
 Metabolism is the entire process of balancing energy capture, conversion and transfer within cells. Organisms need to generate ATP as energy in order to carry out daily activities. ATP is generated through various processes including glycolysis, citrate cycle and electron transport system. Metabolism rate can a be affected by many environmental factors such as temperature, salinity and so on.
 
-We read a study of salinity’s effect on crayfish oxygen consumption written by M. Meade and his other colleagues, who found metabolic rate is independent on salinity and there is no significant difference between 0-20 ppm salt water and fresh water. [Meade, 2002] However, we thought that if a crayfish lives in a salty environment, ions will flow into its body while breathing. Then, it needs to actively pump out all the ions, which means the metabolic rate will be affected. Therefore, we decided to do the experiment on whether salinity will change metabolic rate of crayfish, Procambarus sp., to see if the study is supported.
+We read a study of salinity’s effect on crayfish oxygen consumption written by M. Meade and his other colleagues, who found metabolic rate is independent on salinity and there is no significent difference between 0-20 ppm salt water and fresh water. [Meade, 2002] However, we thought that if a crayfish lives in a salty environment, ions will flow into its body while breathing. Then, it needs to actively pump out all the ions, which means the metabolic rate will be affected. Therefore, we decided to do the experiment on whether salinity will change metabolic rate of crayfish, Procambris sp., to see if the study is supported.
 
-There are many ways to measure the rate, and measuring oxygen consumption is most convenient because oxygen used is directly proportional to the amount of energy spent. We will measure three crayfishes’ oxygen consumption in 20 minutes both in fresh and salt water to compare the specific metabolic rate. In this case, the control and treatment groups are the same crayfishes. Our null hypothesis is that there will be no metabolic rate difference between control and treatment group, while the alternate hypothesis is there will be difference.
+There are many ways to measure the rate, and measuring oxygen consumption is most convenient because oxygen used is directly proportional to the amount of energy spent. We will measure three crayfishes’ oxygen consumption in 20 minutes both in fresh and salt water to compare the specific metabolic rate. In this case, the controlll and treatment groups are the same crayfishes. Our null hypothesis is that there will be no metabolic rate difference between controlll and treatment group, while the alternate hypothesis is there will be difference.
 
 
-Materials and Methods:
-Fill the screw-top glass bottle with about 900ml room temperature water and put it in a plastic dish pan filled with water. Then, weigh a crayfish and put it into the bottle. Insert the oxygen detector probe and record the initial oxygen concentration from the instrument. Record the number every 5 minutes for 20 minutes. After recording all data, pour the water in to a measuring cylinder and measure the water volume. Mix 100ml 6.5% salt water with 800 ml fresh water and pour into the bottle with the previous crayfish. Repeat the above steps. After that, take the first cray fish out and repeat all steps with another crayfish. There should be 3 crayfish with 6 groups of data. Finally, calculate the specific metabolic rate by using formula: . Finally, run a two-tailed paired T test to obtain the T value to see if there is significant difference. 
+Materials and Method:
+Fill the screw-top glass bottle with about 900Ml room temperature water and put it in a plastic dish pan filled with water. Then, weigh a crayfish and put it into the bottle. Insert the oxygen detector probe and record the initial oxygen concentration from the instrument. Record the number every 5 minutes for 20 minutes. After recording all data, pour the water in to a measuring cylinder and measure the water volume. Mix 100Ml 6.5% salt water with 800 Ml fresh water and pour into the bottle with the previous crayfish. Repeat the above steps. After that, take the first cray fish out and repeat all steps with another crayfish. There should be 3 crayfish with 6 groups of data. Finally, calculate the specific metabolic rate by using formula: . Finally, run a two-tailed paired T test to obtain the T value to see if there is significent difference. 
 
 
 Results:
 During the experiment, we observed that the crayfish is more active in fresh water compare to in salt water.
 
-The sample size is 3 and degrees of freedom is 2. Although we collected data for each trial in both conditions, I averaged them before calculating them in Excel. The average for control is 1.50810-3, and 7.78310-4 for treatment. The error bars in Figure 1 represent each standard deviation, 0.000284 and 0.0000708 respectively. The P value is 0.0447.
+The sample size is 3 and degrees of freedom is 2. Although we collected data for each trial in both conditions, I averaged them before calculating them in Excel. The average for controlll is 1.50810-3, and 7.78310-4 for treatment. The error bars in Figure 1 represent each standard deviation, 0.000284 and 0.0000708 respectively. The P value is 0.0447.
 
-From Figure 1, we can observe that there is relatively big difference between control and treatment groups. In salt water, crayfish’s metabolic rate is much lower. 
+From Figure 1, we can observe that there is relatively big difference between controlll and treatment groups. In salt water, crayfish’s metabolic rate is much lower. 
  
 
 
@@ -58,7 +58,7 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1:  This is the average specific metabolic rate of crayfish both in fresh water (control) and in salt water (treatment). The sample size each is 3. Mean for control is 0.001508, and 0.0007783 for treatment. The error bars represent each standard deviation, 2.8410-4 and 7.0810-5 respectively. The P value is 0.0447.
+Figure 1:  This is the average specific metabolic rate of crayfish both in fresh water (controlll) and in salt water (treatment). The sample size each is 3. Mean for controlll is 0.001508, and 0.0007783 for treatment. The error bars represent each standard deviation, 2.8410-4 and 7.0810-5 respectively. The P value is 0.0447.
 
 
 *************************************************************************

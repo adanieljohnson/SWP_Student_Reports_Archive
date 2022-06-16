@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2018-10-11 15:34:16
+Date submitted: 2018-10-11 15:34: 16
 Author of this lab report is: Std_gRXgXlbU 
 ID: R_2uU7NXf1ipkSNSk
 Course number: BIO101L
@@ -10,32 +10,32 @@ TA: TA_ZaFL1W9f
 Title: Effects of AzaGuard on the Development of the Manduca sexta
 
 Abstract:
-In this experiment, AzaGurard in a 1:1250 dilution was added to the food of the Manduca sexta experimental group, to analyze any changes in the animals’ development patterns, with a specific focus on the occurrence of the commitment pulse. The AzaGuard is known to target the early life stages of insects by blocking the ecdysterone hormone, responsible for determining the timing of the insects’ molts. It was predicted that in the absence of this hormone, the commitment pulse would not occur because it is induced by a slight increase in the ecdysterone hormone, in which the levels of ecdysterone exceed those of juvenile hormone. The experimental group was observed to remain a very small length and low weight, as well as they never reached the commitment pulse. The control group however, did appear to experience the commitment pulse and was able to reach pupation; thus suggesting the rejection of the null hypothesis. 
+In this experiment, AzaGurard in a 1: 1250 dilution was added to the food of the Manduca sexta experimental group, to analyze any changes in the animals’ development patterns, with a specific focus on the occurrence of the commitment pulse. The AzaGuard is known to target the early life stages of insects by blocking the ecdysterone hormone, responsible for determining the timing of the insects’ molts. It was predicted that in the absence of this hormone, the commitment pulse would not occur because it is induced by a slight increase in the ecdysterone hormone, in which the levels of ecdysterone exceed those of juvenile hormone. The experimental group was observed to remain a very small length and low weight, as well as they never reached the commitment pulse. The controll group however, did appear to experience the commitment pulse and was able to reach pupation; thus suggesting the rejection of the null hypothesis. 
 
 
 Introduction:
-The Manduca sexta’s development, is mainly controlled by ecdysterone, commonly referred to as 20E, which controls the timing of molts, and juvenile hormone, which determines the type of molt that will occur. The hormone ecdysterone is secreted by a group of cells in the insect’s prothoracic glands, in the back of the head and thorax [Cloyd: 2013].
+The Manduca sexta’s development, is mainly controllled by ecdysterone, commonly referred to as 20E, which controlls the timing of molts, and juvenile hormone, which determines the type of molt that will occur. The hormone ecdysterone is secreted by a group of cells in the insect’s prothoracic glands, in the back of the head and thorax [Cloyd: 2013].
 In the Manduca sexta’s 5th larval instar, the commitment pulse occurs when signals are sent indicating that the animal has stored enough nutrients and is large enough to pupate. The commitment pulse is seen as a drop in juvenile hormone is accompanied by a slight increase in levels of 20E. 
 This experiment involves the feeding of AzaGuard to the Manduca sexta. AzaGuard is a substance known to be an ecdysterone blocker, which mainly targets the animals’ early stages of life: the nymphal and larval stages. AzaGuard works by disrupting the metabolism of the ecdysone hormone, which converts to 20E [Cloyd: 2013].
 If Manduca sexta are exposed to AzaGuard, the commitment pulse in these animals will not occur and therefore the animal will not pupate because the commitment pulse is induced by a slight increase in the levels of ecdysterone, a hormone that will be blocked by presence of AzaGuard. 
 
 
-Materials and Methods:
-Eight Manduca sexta larvae were divided into two groups of four: the control group and the experimental group. Two plastic containers, each with four compartments, were used to separate the larvae. Each individual compartment was labelled according to the animal’s corresponding group and animal number. One group, the control group, was given 10g of food each, with 10 drops of water added to it. The second group, the experimental group, was given 10g of food each, with 10 drops of AzaGuard in a 1:1 250 dilution. The weights and lengths of each Manduca sexta, in grams and centimeters respectively, were recorded daily for 15 days. Food was given as needed, or roughly every 3 days. Following this experiment, a two-sample t-test was used to compare the significance between the average weights and heights of the control and experimental groups. 
+Materials and Method:
+Eight Manduca sexta larvae were divided into two groups of four: the controll group and the experimental group. Two plastic containers, each with four compartments, were used to separate the larvae. Each individual compartment was labelled according to the animal’s corresponding group and animal number. One group, the controll group, was given 10g of food each, with 10 drops of water added to it. The second group, the experimental group, was given 10g of food each, with 10 drops of AzaGuard in a 1: 1 250 dilution. The weights and lengths of each Manduca sexta, in grams and centimeters respectively, were recorded daily for 15 days. Food was given as needed, or roughly every 3 days. Following this experiment, a two-sample t_test was used to compare the significance between the average weights and heights of the controll and experimental groups. 
 
 
 Results:
-Initially, the control group and the experimental group of the Manduca sexta were roughly equal in length and weight. Over the course of the experiment however, the control group grew longer and heavier, while the experimental group appeared to remain roughly the same length and lost weight. As shown in Figures 1 and 2, this remained the trend until roughly day 7 of the experiment, after which the average lengths and weights of the control group began to decline, while for the experimental group, they remained relatively constant. A two-sample, one-tailed t-test was run. The mean weight of the control group was statistically significantly different that that of the experimental group (t-stat = 5.42386, df = 22, P = 0.0000095). The mean of the control group for lengths of the Manduca sexta, was also statistically significantly different from that of the experimental group (t-stat = 6.381437, df = 22, P = 0.00000101). 
+Initially, the controll group and the experimental group of the Manduca sexta were roughly equal in length and weight. Over the course of the experiment however, the controll group grew longer and heavier, while the experimental group appeared to remain roughly the same length and lost weight. As shown in Figures 1 and 2, this remained the trend until roughly day 7 of the experiment, after which the average lengths and weights of the controll group began to decline, while for the experimental group, they remained relatively constant. A two-sample, one-tailed t_test was run. The mean weight of the controll group was statistically significently different that that of the experimental group (t_stat = 5.42386, d.f. = 22, P = 0.0000095). The mean of the controll group for lengths of the Manduca sexta, was also statistically significently different from that of the experimental group (t_stat = 6.381437, d.f. = 22, P = 0.00000101). 
 
 Discussion:
-The hypothesis that if Manduca sexta are exposed to AzaGuard, the commitment pulse in these animals will not occur and therefore the animal will not pupate, was supported. The calculated p-values suggested a significant difference, indicating that the blocking of ecdysterone prevents the occurrence of the commitment pulse. As clearly shown in figures 1 and 2, the control group continued to grow, both in length and weight, until about the 7th day of measurements, after which they began to decrease in length and weight. Due to a hurricane preventing daily measurements, it is unclear on which day it began, but somewhere between day 8 and day 9, which is truly day 12, the commitment pulse occurred, inducing pupation in the control group. 
+The hypothesis that if Manduca sexta are exposed to AzaGuard, the commitment pulse in these animals will not occur and therefore the animal will not pupate, was supported. The calculated p_values suggested a significent difference, indicating that the blocking of ecdysterone prevents the occurrence of the commitment pulse. As clearly shown in figures 1 and 2, the controll group continued to grow, both in length and weight, until about the 7th day of measurements, after which they began to decrease in length and weight. Due to a hurricane preventing daily measurements, it is unclear on which day it began, but somewhere between day 8 and day 9, which is truly day 12, the commitment pulse occurred, inducing pupation in the controll group. 
 In the experimental group, this was not possible, as the blockage of ecdysterone disrupted the molting of the Manduca sexta, by inhibiting the metabolism of the molting hormone: ecdysone [Cloyd: 2013]. Due to this disruption, the slight increase in 20E levels required to initiate the commitment pulse did not occur. The commitment pulse is induced by the reception of signals indicating that the animal has both stored enough nutrients and grown large enough for pupation to occur. The irregular eating habits amongst the experimental group and the blockage of the ecdysterone hormone, suggest that the experimental group had neither the nutrition nor growth requirements to initiate the commitment pulse. 
 The next logical step for this study would be to run a test during which different experimental groups are given different amounts of AzaGuard over the same period of time. Data recorded from this experiment would help to clarify whether it was the addition of AzaGuard to the animals’ food, or if it was the irregular eating habits of the Manduca sexta, that prevented the commitment pulse from being reached. 
 
 
 Literature Cited:
-1. INSECT CONTROL. (2017, December 5). Retrieved from http://www.biosafesystems.com/insect-control/
-2. Cloyd, R. A. (2013, April). Insect Growth Regulators. Retrieved from https://www.bookstore.ksre.ksu.edu/pubs/MF3094.pdf
+1. INSECT CONTROL. (2017, December 5). Retrieved from http://www.biosafesystems.com/insect-controll/
+2. Cloyd, R. A. (2013, April). Insect Growth Regulators. Retrieved from https://www.bookstore.ksre.ksu.edu/pubs/MF3094.pd.f.
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2018-10-11+at+3.32.07+PM.png&Size=125590&Type=image%2Fpng&F=F_3MrtuURu1oJeGM0
@@ -61,8 +61,8 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1: Comparison of the daily average lengths (cm) of the Manduca sexta control and experimental groups throughout the experiment. Error bars represent +/- one standard deviation. 
-Figure 2: Comparison of the daily average weights (g) of the Manduca sexta control and experimental groups throughout the experiment. Error bars represent +/- one standard deviation. *************************************************************************
+Figure 1: Comparison of the daily average lengths (cm) of the Manduca sexta controll and experimental groups throughout the experiment. Error bars represent +/- one standard deviation. 
+Figure 2: Comparison of the daily average weights (g) of the Manduca sexta controll and experimental groups throughout the experiment. Error bars represent +/- one standard deviation. *************************************************************************
 
 
 

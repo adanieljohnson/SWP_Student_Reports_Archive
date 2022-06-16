@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: second
 This is a revision of a previous lab report.
-Date submitted: 2018-04-12 15:17:29
+Date submitted: 2018-04-12 15: 17:29
 Author of this lab report is: Std_2SARKJsV
 ID: R_3n7TMtYSOlufSI8
 Course number: BIO101L
@@ -17,24 +17,24 @@ Introduction:
 Muscle contraction can be hindered or supported through various chemicals. Chemicals such as lidocaine act as sodium channel blockers, which would hinder the voltage-gated sodium channels from opening and allowing the membrane potential to change so that the action potential can be passed down and the neurons triggered. In previous experiments, it has shown that, “lidocaine blocks the channel by binding one-on-one”, therefore the muscle doesn’t contract or takes more voltage for contraction to occur (Bean et al., 1983). The goals of the experiment are to look at the effect that lidocaine will have on the threshold voltage of a frog leg. If lidocaine is injected into frog legs, then the injected muscle will require more voltage to produce a contraction. 
 
 
-Materials and Methods:
-1.	Obtained three frog legs, 25mM lidocaine, and a 1.0 mL needle. 
+Materials and Method:
+1.	Obtained three frog legs, 25mM lidocaine, and a 1.0 Ml needle. 
 2.	Skinned the leg and separated the nerve from the muscle. 
 3.	Placed the leads into the muscle and connected the cords to the computer program using the animal muscle setting. 
 4.	Tested the leg and found the threshold voltage of the leg before the lidocaine was injected. Record three thresholds. 
-5.	Inject the first frog leg with 0.2 mL of lidocaine and wait approximately 7 minutes before testing the threshold voltage. Record three thresholds. 
+5.	Inject the first frog leg with 0.2 Ml of lidocaine and wait approximately 7 minutes before testing the threshold voltage. Record three thresholds. 
 6.	Tested the threshold three times, then disconnected the leads from the leg and disposed of it. 
 7.	Repeated steps 2-6 with the two other legs. 
 To analyze and summarize the raw data, a two-sample t test was used, along with the averages of the trials for each leg. 
 
 
 Results:
-The results of the experiment showed an overall trend that the lidocaine acted in its predicted way and it took more stimulated voltage to for contraction to occur and be recorded. The threshold voltages values for the un-injected legs were almost two times the values for the lidocaine injected legs. A sample t-test was run and it was found that the mean of the control group was significantly different than the lidocaine/experimental group (t-stat= -2.325862, df= 8, P= 0.0484738). 
+The results of the experiment showed an overall trend that the lidocaine acted in its predicted way and it took more stimulated voltage to for contraction to occur and be recorded. The threshold voltages values for the un-injected legs were almost two times the values for the lidocaine injected legs. A sample t_test was run and it was found that the mean of the controll group was significently different than the lidocaine/experimental group (t_stat= -2.325862, d.f.= 8, P= 0.0484738). 
 
 
 Discussion:
-The hypothesis of the experiment was supported by the results of the experiment and is scientifically significant as shown by the results of the t-test. The hypothesis stated that lidocaine would cause the leg to need more stimulation (voltage) in order to contract. The average threshold voltage for the control group in all three trials was that 0.2889 V, which is considerable low (Figure 3). The average threshold voltage for the trials that included lidocaine was .63999 V, which is significantly higher than that of the control group (Figure 3). 
-Although the hypothesis was supported, there was one slight problem with the experiment, in that for the first frog leg, the timing of how long the leg was stimulated after the injection was different than the other two legs. The first leg was stimulated roughly 5 minutes after the injection, per instruction; however, it was noticed that as the measurements were recorded, the threshold was slowly decreasing. After this was noticed, the times were changed in accordance and the remaining legs were allowed to set for 7 minutes after injection. The results were also adjusted and the first two thresholds were thrown out and repeated in order to be replaced, to allow for more accurate results. The experiment was proven scientifically significant due to the p-value having been 0.0484738, meaning that the experiment was 95.15262% coincidence (Figure 2). 
+The hypothesis of the experiment was supported by the results of the experiment and is scientifically significent as shown by the results of the t_test. The hypothesis stated that lidocaine would cause the leg to need more stimulation (voltage) in order to contract. The average threshold voltage for the controll group in all three trials was that 0.2889 V, which is considerable low (Figure 3). The average threshold voltage for the trials that included lidocaine was .63999 V, which is significently higher than that of the controll group (Figure 3). 
+Although the hypothesis was supported, there was one slight problem with the experiment, in that for the first frog leg, the timing of how long the leg was stimulated after the injection was different than the other two legs. The first leg was stimulated roughly 5 minutes after the injection, per instruction; however, it was noticed that as the measurements were recorded, the threshold was slowly decreasing. After this was noticed, the times were changed in accordance and the remaining legs were allowed to set for 7 minutes after injection. The results were also adjusted and the first two thresholds were thrown out and repeated in order to be replaced, to allow for more accurate results. The experiment was proven scientifically significent due to the p_value having been 0.0484738, meaning that the experiment was 95.15262% coincidence (Figure 2). 
 In previous experiments, the results yielded were very similar to those of this experiment. “Judged from gating current measurements, a drug-blocked channel is an inactivated channel” (Cahalan et al., 1979). The lidocaine acted as a sodium channel blocker, which halts or delays the contraction due to the action potential not being able to go over the membrane as effectively. Sodium (Na2+) depolarizes the membrane and sets it back to the membrane resting potential after the action potential has passed, but if the sodium channels are blocked, then the membrane is never set back to resting potential. This would inhibit the next action potential from correctly going over the membrane, which would cause it to take more voltage/stimulation for the muscle to contract; thus proven in the experiment. 
 
 
@@ -70,8 +70,8 @@ Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. A graph including the averages and standard deviation bars for the control and lidocaine injected groups.
-Figure 2. The results of the t-test, showing that the experiment is scientifically significant.
+Figure 1. A graph including the averages and standard deviation bars for the controll and lidocaine injected groups.
+Figure 2. The results of the t_test, showing that the experiment is scientifically significent.
 Figure 3. The mean and standard deviation numbers for the experiment.
 
 

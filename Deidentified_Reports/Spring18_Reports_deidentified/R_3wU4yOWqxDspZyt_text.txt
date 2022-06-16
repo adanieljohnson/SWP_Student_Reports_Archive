@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2018-02-21 11:19:46
+Date submitted: 2018-02-21 11: 19:46
 Author of this lab report is: Std_TsrZU3gG 
 ID: R_3wU4yOWqxDspZyt
 Course number: BIO101L
@@ -10,25 +10,25 @@ TA: TA_axAQrfTP
 Title: Mandaca Caterpillar growth post introduction of Azaguard 
 
 Abstract:
-My group tested whether introduction of azaguard would cause manduca sexta caterpillars to not molt resulting in weight gain. We studied this by feeding azaguard to one of two groups of caterpillars and studying the differences between the groups. We found that while the compound may prevent molting, the lack of molting does not increase weight gain. Our hypothesis is if we introduce azaguard into the Manduca caterpillar’s diet then it will be unable to molt resulting in more weight gain in these caterpillars due to them not being able to enter the next stage of their lifecycle. Our Null Hypothesis is if we introduce azaguard into the Manduca caterpillar’s diet then it will continue on its normal lifecycle and have no weight variation from the control.
+My group tested whether introduction of azaguard would cause manduca sexta caterpillars to not molt resulting in weight gain. We studied this by feeding azaguard to one of two groups of caterpillars and studying the differences between the groups. We found that while the compound may prevent molting, the lack of molting does not increase weight gain. Our hypothesis is if we introduce azaguard into the Manduca caterpillar’s diet then it will be unable to molt resulting in more weight gain in these caterpillars due to them not being able to enter the next stage of their lifecycle. Our Null Hypothesis is if we introduce azaguard into the Manduca caterpillar’s diet then it will continue on its normal lifecycle and have no weight variation from the controll.
 
 
 Introduction:
-My lab group will attempt to alter the life cycle of the manduca sexta caterpillar through the introduction of azaguard into the caterpillar’s diet. Azaguard blocks the hormone ecdysone which spikes in manduca caterpillars to signal when to molt. Molting is where the caterpillar forms a new layer of skin, shedding its old skin. Molting is necessary for the caterpillar to move between stages in its lifecycle. By preventing the process of molting we believe the Caterpillar will be stuck in its current larval stage unable to undergo metamorphosis. Metamorphosis is the radical transition the caterpillar undergoes into the pupal stage. Metamorphosis requires lots of energy and prevents the organism from eating so we believe preventing this process will cause a weight change disparity, this being the dependent variable, between azaguard treated caterpillars, the independent variable, and control. 
+My lab group will attempt to alter the life cycle of the manduca sexta caterpillar through the introduction of azaguard into the caterpillar’s diet. Azaguard blocks the hormone ecdysone which spikes in manduca caterpillars to signal when to molt. Molting is where the caterpillar forms a new layer of skin, shedding its old skin. Molting is necessary for the caterpillar to move between stages in its lifecycle. By preventing the process of molting we believe the Caterpillar will be stuck in its current larval stage unable to undergo metamorphosis. Metamorphosis is the radical transition the caterpillar undergoes into the pupal stage. Metamorphosis requires lots of energy and prevents the organism from eating so we believe preventing this process will cause a weight change disparity, this being the dependent variable, between azaguard treated caterpillars, the independent variable, and controll. 
 
 
-Materials and Methods:
-Materials and Methods:
+Materials and Method:
+Materials and Method:
 1)	Obtain 8 manduca sexta caterpillars of similar weights
 2)	Obtain 4 rearing containers 
 3)	Separate these containers into 2 sections with index card barriers down the middle
-4)	label each section of the containers control 1-4 or experiment 1-4
+4)	label each section of the containers controll 1-4 or experiment 1-4
 5)	place a single caterpillar into each of the sections
-6)	weigh out four 10 gram balls of manduca caterpillar food, mix these well, hydrate each ball with 10 drops of distilled water from pipet and add each to a control group section
-7)	weigh out four more 10 gram balls of manduca food, well mixed again, hydrate each with 10 drops of 1:1250 azaguard from different pipet then add each ball to an experimental section
+6)	weigh out four 10 gram balls of manduca caterpillar food, mix these well, hydrate each ball with 10 drops of distilled water from pipet and add each to a controll group section
+7)	weigh out four more 10 gram balls of manduca food, well mixed again, hydrate each with 10 drops of 1: 1250 azaguard from different pipet then add each ball to an experimental section
 8)	place all containers into the same incubator set on 25 degrees Celsius and a 12 hour day/night cycle 
 9)	check on caterpillars every day for the next week taking observations, weighing the caterpillars, and replacing the food as needed
-10)	calculate average weight change from final weighing and use 2 sample t test excel sheet to calculate P-value comparing the change in weights of the control versus the experimental group 
+10)	calculate average weight change from final weighing and use 2 sample t test excel sheet to calculate P-value comparing the change in weights of the controll versus the experimental group 
 
 
 Results:
@@ -153,13 +153,13 @@ No
 Above are the recorded values for the weights and the calculated weight change of the caterpillars. Also, the standard deviation between those weight changes is pictured. Whether an individual caterpillar molted or not is also pictured.
 
 P-value from 2 sample T-test = 0.665633
-The P-value is the probability that the null hypothesis is truer than the chosen hypothesis, values over .05 signal that the data is not significant enough to prove the hypothesis. A 2 sample T-test compares how close the mean values of 2 sets of data are.
+The P-value is the probability that the null hypothesis is truer than the chosen hypothesis, values over .05 signal that the data is not significent enough to prove the hypothesis. A 2 sample T-test compares how close the mean values of 2 sets of data are.
 
 
 
 
 Discussion:
-Our P-value does not substantiate the hypothesis that introducing azaguard would cause caterpillars to gain weight quicker. In fact, it seems than the introduction of the ecdysone blocker supports the opposite of the hypothesis, that it causes weight loss. This seems to be due to our limited understanding of muanduca Caterpillar behavior and anatomy, with a lack of molting not causing weight gain. the inability to molt may have prevented the experimental caterpillars from growing, limiting weight gain. conduction this experiment with a different depended variable, like times molted, would be more effective due to being more directly affected by the independent variable. We did indeed seem to observe the azaguard causing the caterpillars to not molt, however we would need to conduct another experiment with larger groups over a longer timeframe to be sure. The azaguard could have also put the experimental caterpillars in much worse health than the control, also possibly limiting weight gain. Evidence of this was the death of a single experimental caterpillar and the survival of all controls, of course, tests with much larger group sizes would be needed to prove this. We also had a large variation is the original sizes of the caterpillars which would cause larger variation is P-value. An ecdysone blocker would most definitely lead to an inability to molt in the caterpillar as we already know this compound is necessary in signaling the molting process [Bio114 lab manual].  
+Our P-value does not substantiate the hypothesis that introducing azaguard would cause caterpillars to gain weight quicker. In fact, it seems than the introduction of the ecdysone blocker supports the opposite of the hypothesis, that it causes weight loss. This seems to be due to our limited understanding of muanduca Caterpillar behavior and anatomy, with a lack of molting not causing weight gain. the inability to molt may have prevented the experimental caterpillars from growing, limiting weight gain. conduction this experiment with a different depended variable, like times molted, would be more effective due to being more directly affected by the independent variable. We did indeed seem to observe the azaguard causing the caterpillars to not molt, however we would need to conduct another experiment with larger groups over a longer timeframe to be sure. The azaguard could have also put the experimental caterpillars in much worse health than the controll, also possibly limiting weight gain. Evidence of this was the death of a single experimental caterpillar and the survival of all controlls, of course, tests with much larger group sizes would be needed to prove this. We also had a large variation is the original sizes of the caterpillars which would cause larger variation is P-value. An ecdysone blocker would most definitely lead to an inability to molt in the caterpillar as we already know this compound is necessary in signaling the molting process [Bio114 lab manual].  
 
 
 Literature Cited:
@@ -191,7 +191,7 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Above are two columns comparing the change in weight between the control and experimental groups. However, I could not figure out how to separate the values for the error bar so the bars are only correct for the control.
+Above are two columns comparing the change in weight between the controll and experimental groups. However, I could not figure out how to separate the values for the error bar so the bars are only correct for the controll.
 
 
 *************************************************************************

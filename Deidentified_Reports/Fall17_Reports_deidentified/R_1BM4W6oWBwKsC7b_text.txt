@@ -6,10 +6,10 @@ Author of this lab report is: Std_ThJCEOr7
 Course number: BIO103L
 TA: TA_YiRfsy28
 *************************************************************************
-Title: Studying Pisum sativum: The Effect of Herbivory on Field Peas
+Title: Studying Pisum sativun: The Effect of Herbivory on Field Peas
 
 Abstract:
-Herbivory is important to research for conservation efforts. A hole punch was used to simulate herbivory acting on the plant Pisum sativum (field peas). One hole was placed in each of the leaves. Variables included the length and weight of the roots and shoots. The root to shoot ratio for length and weight was calculated. If field peas are hole punched to simulate herbivory, then the root to shoot ratio for height and weight will decrease as a result. The results demonstrated that there was a decrease in the root to shoot ratio for height and weight. This study reveals insights about the co-evolution of plants and animals and is important for the conservation of the field pea, an important agricultural resource. 
+Herbivory is important to research for conservation efforts. A hole punch was used to simulate herbivory acting on the plant Pisum sativun (field peas). One hole was placed in each of the leaves. Variables included the length and weight of the roots and shoots. The root to shoot ratio for length and weight was calculated. If field peas are hole punched to simulate herbivory, then the root to shoot ratio for height and weight will decrease as a result. The results demonstrated that there was a decrease in the root to shoot ratio for height and weight. This study reveals insights about the co-evolution of plants and animals and is important for the conservation of the field pea, an important agricultural resource. 
 
 
 Introduction:
@@ -18,24 +18,24 @@ The co-evolution of plants and animals have been occurring for more than 350 mil
 Field peas are frequently used for consumption and are often used as a livestock feed since they contain high levels of protein and carbohydrates (North Dakota State University 2009). The herbivory of field peas was simulated using a hole punch. The question, “how does herbivory behavior affect the root to shoot ratio for length and weight among field peas” was asked to prompt this experiment. The goal of this experiment is to measure the root shoot ratio of weight and length after the herbivore interacts with the field peas. If field peas are hole punched to simulate herbivory, then the root to shoot ratio for height and weight will decrease as a result. 
 
 
-Materials and Methods:
-Field pea seeds were gathered from the Wake Forest Science Department and planted in six different bins containing soil and Miracle Gro nutrients to help growth. About 50 seeds were placed in each bin to ensure variety when choosing plants to measure after the experiment. The planted seeds were Three bins were allocated to the experimental treatment of herbivory and the other three were allocated as the control group and had no herbivory. The field peas grew for 12 days before hole punching to simulate herbivory. The three experimental bins of field peas had a hole punch placed in each leaf. The three control bins of field peas were left alone. All of the plants were watered every other day leading up to data collection day. On the 14th day of growth, giving the field peas 2 days of growth with the hole punches, the root to shoot ratio was recorded. Fig. 3. shows the field peas before herbivory.  
+Materials and Method:
+Field pea seeds were gathered from the Wake Forest Science Department and planted in six different bins containing soil and Miracle Gro nutrients to help growth. About 50 seeds were placed in each bin to ensure variety when choosing plants to measure after the experiment. The planted seeds were Three bins were allocated to the experimental treatment of herbivory and the other three were allocated as the controlll group and had no herbivory. The field peas grew for 12 days before hole punching to simulate herbivory. The three experimental bins of field peas had a hole punch placed in each leaf. The three controlll bins of field peas were left alone. All of the plants were watered every other day leading up to data collection day. On the 14th day of growth, giving the field peas 2 days of growth with the hole punches, the root to shoot ratio was recorded. Fig. 3. shows the field peas before herbivory.  
 
-The root to shoot ratio for length and weight were calculated. Three individual field pea plants with two leaves were chosen from each bin. There was a total of 18 replicates recorded - 9 from the experimental group and 9 from the control group. Each replicate was rinsed with water and dried to ensure accurate weight recordings. To calculate the root to shoot ratio for length, a ruler was used to measure the distance from the end of the root to the beginning of the shoot. The distance between the beginning of the shoot to the end of the leaves was also calculated. 
+The root to shoot ratio for length and weight were calculated. Three individual field pea plants with two leaves were chosen from each bin. There was a total of 18 replicates recorded - 9 from the experimental group and 9 from the controlll group. Each replicate was rinsed with water and dried to ensure accurate weight recordings. To calculate the root to shoot ratio for length, a ruler was used to measure the distance from the end of the root to the beginning of the shoot. The distance between the beginning of the shoot to the end of the leaves was also calculated. 
 
 To calculate the root to shoot ratio for weight, a digital scale was used to measure the weight of the entire plant. After this measurement was taken, a pair of scissors was used to cut the root from the shoot. The replicate was cut right when the shoot began to form the root. This was held constant for each individual plant. 
 
-A one-tailed, two-sample t-test was used to analyze the data since we are comparing the means from the control and experimental groups of field peas. 
+A one-tailed, two-sample t_test was used to analyze the data since we are comparing the means from the controlll and experimental groups of field peas. 
 
 
 Results:
-The root to shoot weight ratio of the control group was statistically significantly different than that of the experimental group’s root to shoot weight ratio (t-stat = 2.05, df = 16, P = 0.0283). The average root to shoot weight ratio for the control group was 0.229 and the average root to shoot weight ratio for the experimental group was 0.141. 
+The root to shoot weight ratio of the controlll group was statistically significently different than that of the experimental group’s root to shoot weight ratio (t_stat = 2.05, d.f. = 16, P = 0.0283). The average root to shoot weight ratio for the controlll group was 0.229 and the average root to shoot weight ratio for the experimental group was 0.141. 
 
-The root to shoot length ratio of the control group was statistically significantly different than that of the experimental group’s root to shoot length ratio (t-stat = 2.54, df - 16, P = 0.0108). The average root to shoot length ratio for the control group was 0.441 and the average root to shoot length ratio for the experimental group was 0.270. 
+The root to shoot length ratio of the controlll group was statistically significently different than that of the experimental group’s root to shoot length ratio (t_stat = 2.54, d.f. - 16, P = 0.0108). The average root to shoot length ratio for the controlll group was 0.441 and the average root to shoot length ratio for the experimental group was 0.270. 
 
 
 Discussion:
-Since both of the P values were less than 0.05 for both groups of data, we can reject the null hypothesis that there would be an increase in the root to shoot height/weight ratio. As represented in Fig. 1 and Fig. 2, there is an overall decrease in the root to shoot ratios for height and weight from the control to the experimental groups; therefore, our results support our hypothesis that herbivory would decrease the root to shoot ratio for height and weight among field peas. 
+Since both of the P values were less than 0.05 for both groups of data, we can reject the null hypothesis that there would be an increase in the root to shoot height/weight ratio. As represented in Fig. 1 and Fig. 2, there is an overall decrease in the root to shoot ratios for height and weight from the controlll to the experimental groups; therefore, our results support our hypothesis that herbivory would decrease the root to shoot ratio for height and weight among field peas. 
 
 These results are most likely due to the negative effects of herbivory on the plant. In response to herbivores, it is common for plants to decrease their apparency and decrease growth and surface area (Mortensen 2013). This could explain the root to shoot ratio decrease in length. 
 
@@ -70,8 +70,8 @@ Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Fig. 1. The comparison of mean root to shoot weight ratio between the control and experimental groups.
-Fig. 2. The comparison of mean root to shoot length ratio between the control and experimental groups.
+Fig. 1. The comparison of mean root to shoot weight ratio between the controlll and experimental groups.
+Fig. 2. The comparison of mean root to shoot length ratio between the controlll and experimental groups.
 Fig. 3. An image of the field peas before herbivory. 
 
 

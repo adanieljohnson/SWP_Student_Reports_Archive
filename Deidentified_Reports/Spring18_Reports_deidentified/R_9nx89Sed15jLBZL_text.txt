@@ -1,16 +1,16 @@
 *************************************************************************
 Number of lab report in semester: second
 This is a submission.
-Date submitted: 2018-03-28 15:10:52
+Date submitted: 2018-03-28 15: 10:52
 Author of this lab report is: Std_sRiZ2FLC
 ID: R_9nx89Sed15jLBZL
 Course number: BIO101L
 TA: TA_2R8KStqZ
 *************************************************************************
-Title: The Effects of a Potassium Blocker on the Contractions of a Muscle in Rana pipens
+Title: The Effects of a Potassium Blocker on the Contractions of a Muscle in Rania pipens
 
 Abstract:
-The purpose of this lab was to determine if blocking potassium channels would affect the relaxation times of the leg muscles of a Rana pipens.  We hypothesized that the relaxation times of the legs would be longer after they had received an injection of the potassium blocker because the potassium helps the repolarization of the neurons in the leg and the leg will take longer to repolarize.  This means that the neuron will stay activated and the muscle will stay contracted for longer.  3 legs were used and tested, once before, and then once after they had received an injection of the potassium blocker.  The t-test shows that the data was statistically insignificant, but we believe our hypothesis was supported based on raw data and that the t-test was incorrect because of low degrees of freedom.  
+The purpose of this lab was to determine if blocking potassium channels would affect the relaxation times of the leg muscles of a Rania pipens.  We hypothesized that the relaxation times of the legs would be longer after they had received an injection of the potassium blocker because the potassium helps the repolarization of the neurons in the leg and the leg will take longer to repolarize.  This means that the neuron will stay activated and the muscle will stay contracted for longer.  3 legs were used and tested, once before, and then once after they had received an injection of the potassium blocker.  The t_test shows that the data was statistically insignificent, but we believe our hypothesis was supported based on raw data and that the t_test was incorrect because of low degrees of freedom.  
 
 
 
@@ -19,16 +19,16 @@ The nervous system is an important biological process in all living creatures be
 	
 
 
-Materials and Methods:
+Materials and Method:
 The computer program was set up and connected to the computer in order to take myograms.  The leg was then skinned and hung on the hook by the calf muscle.  The frog leg was then given different stimuli of Amps and the latency time, contraction time, relaxation time, and the amplitude were all measured.  After this, the same frog leg was injected with a potassium blocker, 100mM tetraethlammonium Cl.  The leg was once again given different stimuli and the same data was recorded.  This same procedure was done with 3 different frog legs.  After this was done, the 2 sets of data were compared with a paired T-test.  
 
 
 
 Results:
-On average the relaxation times of the frog leg muscles after the injection of the potassium blocker seemed to be much longer than the relaxation time before the injection.  On the other hand, the paired t-test gave a p value = 0.138468 which means that the data is technically insignificant.  Figure 1 is a chart that shows the average relaxation times of the frog legs before and after the injection of the potassium blocker.  Figure 2 is a table that shows the values and results of the paired T-test.  In general, the relaxation times of the muscles after the injection seemed to be much longer than the relaxation times before the injection.  
+On average the relaxation times of the frog leg muscles after the injection of the potassium blocker seemed to be much longer than the relaxation time before the injection.  On the other hand, the paired t_test gave a p value = 0.138468 which means that the data is technically insignificent.  Figure 1 is a chart that shows the average relaxation times of the frog legs before and after the injection of the potassium blocker.  Figure 2 is a table that shows the values and results of the paired T-test.  In general, the relaxation times of the muscles after the injection seemed to be much longer than the relaxation times before the injection.  
 
 Discussion:
-While the paired T-test shows that the data was technically insignificant, I still believe that our hypothesis was supported by the data.  Our paired T-test might not have been completely accurate because there were only 2 degrees of freedom allowed.  While the t-test does not show it, we believe there was a very large distinct difference between the data of the control and experimental groups.  While the T-test does not support our hypothesis, two studies, one by Physiol and one by Koketsu, do support our hypothesis.  Both of these studies showed that the relaxation time, or repolarization of the cell took significantly longer after it received an injection of the potassium blocker.  The Physiol study showed that the relaxation times in squid after receiving the potassium blocker were much larger than before (Physiol: 1965), and the Koketsu study showed that repolarization in frogs took a longer time after receiving the potassium blocker.  Each of these experiments helps support our hypothesis, so we believe that the potassium blocker did in fact have an effect on the relaxation times of the frog legs.
+While the paired T-test shows that the data was technically insignificent, I still believe that our hypothesis was supported by the data.  Our paired T-test might not have been completely accurate because there were only 2 degrees of freedom allowed.  While the t_test does not show it, we believe there was a very large distinct difference between the data of the controll and experimental groups.  While the T-test does not support our hypothesis, two studies, one by Physiol and one by Koketsu, do support our hypothesis.  Both of these studies showed that the relaxation time, or repolarization of the cell took significently longer after it received an injection of the potassium blocker.  The Physiol study showed that the relaxation times in squid after receiving the potassium blocker were much larger than before (Physiol: 1965), and the Koketsu study showed that repolarization in frogs took a longer time after receiving the potassium blocker.  Each of these experiments helps support our hypothesis, so we believe that the potassium blocker did in fact have an effect on the relaxation times of the frog legs.
 
 Literature Cited:
 Comparative Physiology Bio 114 Laboratory Manual. 18.1 ed., 2018.  

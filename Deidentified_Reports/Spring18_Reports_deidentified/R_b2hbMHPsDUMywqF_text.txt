@@ -10,35 +10,35 @@ TA: TA_2R8KStqZ
 Title: Effects of Azamax on Manduca Sexta Caterpillars
 
 Abstract:
-The Manduca Sexta is a common pest that consumes tobacco plants in its larval stage. In this experiment we tested the effects of adding Azamax to the standard Manduca Sexta diet which inhibits ecdysone levels in the insect in order to observe if it stunted the growth and caused health to deteriorate in the Manduca Sexta caterpillar by using 8 caterpillars. The Azamax was a premade dilution of an organic insecticide that was mixed into the food for the experimental group. Each caterpillar in the control group was fed 10 g of food mixed with 8 drops of distilled water while esch caterpillar in the experimental group was fed 10g of food mixed with 8 drops of Azamax. Over a course of 8 days the caterpillars were fed the same amount and ratio of food and weighed. We then analyzed the difference in the weights of the two groups by performing a Two-sample t-test. Ultimately, our findings did not support the hypothesis because there was not a statistically significant difference between the control group and the experimental group.
+The Manduca Sexta is a common pest that consumes tobacco plants in its larval stage. In this experiment we tested the effects of adding Azamax to the standard Manduca Sexta diet which inhibits ecdysone levels in the insect in order to observe if it stunted the growth and caused health to deteriorate in the Manduca Sexta caterpillar by using 8 caterpillars. The Azamax was a premade dilution of an organic insecticide that was mixed into the food for the experimental group. Each caterpillar in the controll group was fed 10 g of food mixed with 8 drops of distilled water while esch caterpillar in the experimental group was fed 10g of food mixed with 8 drops of Azamax. Over a course of 8 days the caterpillars were fed the same amount and ratio of food and weighed. We then analyzed the difference in the weights of the two groups by performing a Two-sample t_test. Ultimately, our findings did not support the hypothesis because there was not a statistically significent difference between the controll group and the experimental group.
 
 
 Introduction:
-The Manduca Sexta is an insect in the order Lepidoptera that undergoes holometabolous development that undergoes holometabolous development. It is commonly known as the tobacco hornworm and is considered and feeds on tobacco plants during its larval stage. Due to the nature of the caterpillar’s eating habits, many agriculturists and gardeners desire to eliminate the populations that feed on their crop by using an insecticide. The development of the Manduca Sexta is mainly controlled by three hormones: Prothoracicotropic Hormone, Ecdysterone, and Juvenile Hormone. The Juvenile Hormone and Ecdysterone work together to control growth; juvenile hormone regulates the type of molt while ecdysterone regulates the time of the molt. In this experiment, we will observe the effects of blocking the ecdysterone levels in the Manduca Sexta caterpillar by adding Azamax to the standard Manduca Sexta diet. Azamax is a natural insecticide that is extracted from neem seed kernels that works by blocking the necessary hormones for survival. Our hypothesis is that by incorporating Azamax into the Manduca Sext diet, the caterpillars will be stunted in growth and begin to deteriorate in health by losing weight. 
+The Manduca Sexta is an insect in the order Lepidoptera that undergoes holometabolous development that undergoes holometabolous development. It is commonly known as the tobacco hornworm and is considered and feeds on tobacco plants during its larval stage. Due to the nature of the caterpillar’s eating habits, many agriculturists and gardeners desire to eliminate the populations that feed on their crop by using an insecticide. The development of the Manduca Sexta is mainly controllled by three hormones: Prothoracicotropic Hormone, Ecdysterone, and Juvenile Hormone. The Juvenile Hormone and Ecdysterone work together to controll growth; juvenile hormone regulates the type of molt while ecdysterone regulates the time of the molt. In this experiment, we will observe the effects of blocking the ecdysterone levels in the Manduca Sexta caterpillar by adding Azamax to the standard Manduca Sexta diet. Azamax is a natural insecticide that is extracted from neem seed kernels that works by blocking the necessary hormones for survival. Our hypothesis is that by incorporating Azamax into the Manduca Sext diet, the caterpillars will be stunted in growth and begin to deteriorate in health by losing weight. 
 
 
 
-Materials and Methods:
-Obtain 8 Manduca Sexta caterpillars and divide them into two groups of four, assign each caterpillar a number and identify one group as the control group and the other as the experimental group. Weigh each caterpillar in order to obtain an initial weight. Next, measure approximately 10g of the standard Manduca Sexta food for each of the eight caterpillars. For the control group, add 8 drops of distilled water to each 10g of food using a disposable pipette and mix in a container. For the experimental group, add 8 drops of Azamax per 10g of food and mix. Then place two caterpillars from the same group into a container, using a secured index card to separate them. Place the designated food for each caterpillar in the container and place in the incubator. Feed and weigh the caterpillars by repeating the necessary steps above each day for 7 additional days and observe.
+Materials and Method:
+Obtain 8 Manduca Sexta caterpillars and divide them into two groups of four, assign each caterpillar a number and identify one group as the controll group and the other as the experimental group. Weigh each caterpillar in order to obtain an initial weight. Next, measure approximately 10g of the standard Manduca Sexta food for each of the eight caterpillars. For the controll group, add 8 drops of distilled water to each 10g of food using a disposable pipette and mix in a container. For the experimental group, add 8 drops of Azamax per 10g of food and mix. Then place two caterpillars from the same group into a container, using a secured index card to separate them. Place the designated food for each caterpillar in the container and place in the incubator. Feed and weigh the caterpillars by repeating the necessary steps above each day for 7 additional days and observe.
 Materials needed include the following: 8 Manduca Sexta Caterpillars, a scale, Standard Manduca Sexta food, spoons, disposable pipettes, mixing containers, Azamax, distilled water, housing containers, index cards, and an incubator. 
-Use a Two-Sample t-test to compare the mean of the control group to the mean of the experimental group.
+Use a Two-Sample t_test to compare the mean of the controll group to the mean of the experimental group.
 
 
 
 Results:
-We conducted a Two-sample t-test in order to compare the means of the control group and the experimental group.
+We conducted a Two-sample t_test in order to compare the means of the controll group and the experimental group.
 
-Null Hypothesis: There is no statistically significant difference between the mean weight of the control group and the experimental group. 
+Null Hypothesis: There is no statistically significent difference between the mean weight of the controll group and the experimental group. 
 H0: x̄C =  x̄E
-Alternate Hypothesis: The mean of the control group is significantly greater than the mean of the experimental group.
+Alternate Hypothesis: The mean of the controll group is significently greater than the mean of the experimental group.
  HA:  x̄C > x̄E 
 
-The mean of the control groups was not statistically significantly different than that of the experimental group. ( t-stat = 1.87, df = 14, P= .08)
+The mean of the controll groups was not statistically significently different than that of the experimental group. ( t_stat = 1.87, d.f. = 14, P= .08)
 
 
 
 Discussion:
- Our results were not supported by our hypothesis, meaning that Azamax did not have a statistically significant effect on the development of the Manduca Sexta caterpillar. While visual observations appeared to support our hypothesis, there was not a statistical difference between the group that received the hormone blocker and the group that did not. In regards to alleviating the pest issue with tobacco plants, Azamax would not serve as a effective insecticide.
+ Our results were not supported by our hypothesis, meaning that Azamax did not have a statistically significent effect on the development of the Manduca Sexta caterpillar. While visual observations appeared to support our hypothesis, there was not a statistical difference between the group that received the hormone blocker and the group that did not. In regards to alleviating the pest issue with tobacco plants, Azamax would not serve as a effective insecticide.
 
 
 
@@ -70,6 +70,6 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. Weight of Manduca Sexta Caterpillars Over 8 Days. The blue bars represent the weights of the  the four caterpillars in the control group that were fed 10g of food mixed with 8 drops of water. The red bars represent the weights of the experimental group that was fed 10g of food mixed with 8 drops of  Azamax. The graph shows the trend of the control growing over time while the general trend for the control group was that the development was stunted. Each bar is a mean weight of four caterpillars from each treatment or control group. 
+Figure 1. Weight of Manduca Sexta Caterpillars Over 8 Days. The blue bars represent the weights of the  the four caterpillars in the controll group that were fed 10g of food mixed with 8 drops of water. The red bars represent the weights of the experimental group that was fed 10g of food mixed with 8 drops of  Azamax. The graph shows the trend of the controll growing over time while the general trend for the controll group was that the development was stunted. Each bar is a mean weight of four caterpillars from each treatment or controll group. 
 
 *************************************************************************

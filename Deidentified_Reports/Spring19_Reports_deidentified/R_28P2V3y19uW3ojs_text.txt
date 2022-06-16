@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2019-02-13 18:15:27
+Date submitted: 2019-02-13 18: 15:27
 Author of this lab report is: Std_9eFDNQIz
 ID: R_28P2V3y19uW3ojs
 Course number: BIO101L
@@ -10,26 +10,26 @@ TA: TA_ZaFL1W9f
 Title: Effect of Juvenile Hormone on Manduca sexta caterpillars
 
 Abstract:
-In this lab, we used Manduca sexta caterpillars and divided them into 2 groups, a control and a treatment group. The treatment group was given Marvin’s Growth Hormone and the control group was given water. We were testing the effect of juvenile hormone on the growth of the Manduca sexta over a period of 14 days. To determine the effect of the Marvin’s growth hormone we weighed and measured the length of the caterpillars each day. Our hypothesis was that the caterpillars treated with growth hormone would be significantly larger than those not treated with it and found that our results did not support this hypothesis. Repeating this experiment with a larger amount of test subjects given a larger amount of hormone might be beneficial in finding out if the results of our experiment were simply error or the truth.
+In this lab, we used Manduca sexta caterpillars and divided them into 2 groups, a controll and a treatment group. The treatment group was given Marvin’s Growth Hormone and the controll group was given water. We were testing the effect of juvenile hormone on the growth of the Manduca sexta over a period of 14 days. To determine the effect of the Marvin’s growth hormone we weighed and measured the length of the caterpillars each day. Our hypothesis was that the caterpillars treated with growth hormone would be significently larger than those not treated with it and found that our results did not support this hypothesis. Repeating this experiment with a larger amount of test subjects given a larger amount of hormone might be beneficial in finding out if the results of our experiment were simply error or the truth.
 
 
 Introduction:
 Hormones are chemicals released and produced by the body to stimulate a response in cells and organs. The Manduca sexta, or Tobacco hornworm, is a relatively common insect. In its larval stage it is a caterpillar, but after pupating they turn into moths. Manduca sexta larvae are widely considered pests, so there have been many studies into how altering hormonal balances in the hornworm can affect the molting of the Manduca sexta. The two main hormones that are responsible for growth and molting in the Manduca sexta are juvenile hormone and ecdysterone. In our experiment, we will be testing the effect that juvenile hormone has on Manduca sexta larvae weight and length.  Juvenile Hormone(JH) has a variety of effects on insect development and reproduction, one of the most prevalent is that it encourages growth in larvae while inhibiting metamorphosis. We will use Marvin’s Growth Hormone, an insect growth regulator that affects JH, in an effort to study the effects of juvenile hormone on Manduca sexta caterpillars. We hypothesized that when introduced to 3 drops of Juvenile Hormone, Manduca sexta caterpillars will have increased weight and length due to prolonged larval stage and continually heightened JH levels. The increased levels of JH will prevent metamorphosis and keep the larvae from advancing to maturity. 
 
 
-Materials and Methods:
-To test our hypothesis, we got 8 Manduca sexta caterpillars. We divided them into two groups of 4: one to be the control group, and one to be the treatment group. They were placed into two containers, one for treatment and one for control, and each caterpillar had its own space. We made sure to poke holes in the side of all 8 rearing jars. Then we measured out 80 grams of premade caterpillar food as exactly as we could using an electric scale and divided them into balls of food that were 10 grams each. The treatment caterpillars each received food that had 3 drops of Marvin’s Growth Hormone in it, and the control group caterpillars each received food with 3 drops of water in it. Then, we measured the length in millimeters and weight in grams of each caterpillar and left them in an incubator. Each day for 14 days, we measured the length and weight of each caterpillar, and replenished their food using the same procedure we did on the first day as needed. We used a two sample t-test to determine whether the difference in weight and length, a test for each, between the control and treatment groups was statistically significant.
+Materials and Method:
+To test our hypothesis, we got 8 Manduca sexta caterpillars. We divided them into two groups of 4: one to be the controll group, and one to be the treatment group. They were placed into two containers, one for treatment and one for controll, and each caterpillar had its own space. We made sure to poke holes in the side of all 8 rearing jars. Then we measured out 80 grams of premade caterpillar food as exactly as we could using an electric scale and divided them into balls of food that were 10 grams each. The treatment caterpillars each received food that had 3 drops of Marvin’s Growth Hormone in it, and the controll group caterpillars each received food with 3 drops of water in it. Then, we measured the length in millimeters and weight in grams of each caterpillar and left them in an incubator. Each day for 14 days, we measured the length and weight of each caterpillar, and replenished their food using the same procedure we did on the first day as needed. We used a two sample t_test to determine whether the difference in weight and length, a test for each, between the controll and treatment groups was statistically significent.
 
 
 Results:
-Our results showed that over the course of 2 weeks, the average weight and length for each day of the control group and the treatment group were fairly similar. When running a two sample t-test for weight in excel, we found that our degrees of freedom were 26, a t value of 0.513508, and a p value of 0.611933. For length we found a degrees of freedom of 26, a t value of 0.023993, and a p value of 0.981041. 
+Our results showed that over the course of 2 weeks, the average weight and length for each day of the controll group and the treatment group were fairly similar. When running a two sample t_test for weight in excel, we found that our degrees of freedom were 26, a t value of 0.513508, and a p value of 0.611933. For length we found a degrees of freedom of 26, a t value of 0.023993, and a p value of 0.981041. 
 
 
 Discussion:
-In both length and weight, our results did not support our hypothesis since the calculated p value for each measurement was greater than 0.05. The weight, length and appearance of both our treatment and caterpillars tended to fluctuate with each day, so throughout the process of the experiment it was difficult to tell what our results would be, since there were no constant differences in trends for the control vs the treatment groups. It would be beneficial to add more replicates and increase the dose if we were to replicate this experiment as these might provide more accurate results.
+In both length and weight, our results did not support our hypothesis since the calculated p value for each measurement was greater than 0.05. The weight, length and appearance of both our treatment and caterpillars tended to fluctuate with each day, so throughout the process of the experiment it was difficult to tell what our results would be, since there were no constant differences in trends for the controll vs the treatment groups. It would be beneficial to add more replicates and increase the dose if we were to replicate this experiment as these might provide more accurate results.
 
 Literature Cited:
-Wyatt, Gerard R., and Kenneth G. Davey. “Cellular and Molecular Actions of Juvenile Hormone. II. Roles of Juvenile Hormone in Adult Insects.” In Advances in Insect Physiology, edited by P. D. Evans, 26:1–155. Academic Press, 1996. https://doi.org/10.1016/S0065-2806(08)60030-2.
+Wyatt, Gerard R., and Kenneth G. Davey. “Cellular and Molecular Actions of Juvenile Hormone. II. Roles of Juvenile Hormone in Adult Insects.” In Advances in Insect Physiology, edited by P. D. Evans, 26: 1–155. Academic Press, 1996. https://doi.org/10.1016/S0065-2806(08)60030-2.
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=weight+graph.png&Size=77169&Type=image%2Fpng&F=F_yZMFD6xxpGENkrf
@@ -55,7 +55,7 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Chart 1. The effect of Marvin’s Growth Hormone on the weight of the Manduca sexta larvae over time. The data fluctuates between whether the control or the treatment group had a higher weight. Chart 2. The effect of Marvin’s Growth Hormone on the length of the Manduca sexta larvae over time. Same as with the weight data, the two data sets fluctuate but with a general trend of increasing, with neither increasing much faster or slower than the other.
+Chart 1. The effect of Marvin’s Growth Hormone on the weight of the Manduca sexta larvae over time. The data fluctuates between whether the controll or the treatment group had a higher weight. Chart 2. The effect of Marvin’s Growth Hormone on the length of the Manduca sexta larvae over time. Same as with the weight data, the two data sets fluctuate but with a general trend of increasing, with neither increasing much faster or slower than the other.
 *************************************************************************
 
 

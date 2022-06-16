@@ -6,12 +6,12 @@ Author of this lab report is: Std_OYOpoHH9
 Course number: BIO102L
 TA: TA_zoTYZxuS
 *************************************************************************
-Title: Rate of photosynthesis in spinach (Spinacia olercea) significantly higher at 0° Celsius compared to other temperatures 
+Title: Rate of photosynthesis in spinach (Spinacia olercea) significently higher at 0° Celsius compared to other temperatures 
 
 Abstract:
 Photosynthesis is the process of converting light energy into chemical energy, and is performed mostly by plants, such as Spinicia olercea, used in this experiment. Photosynthesis depends on factors such as temperature, which can affect membrane fluidity and protein functionality of chloroplasts in the cell, where photosynthesis occurs. 
 
-It was hypothesized that moderate temperatures, like 20°C, would cause the rate of photosynthesis to be higher, relative to other temperatures. Absorbance readings at 600 nanometer light wavelength were taken at 0 and 30 minutes after the reactions occurred. Results were analyzed with a one-way ANOVA with Tukey-Kramer post hoc test, and then a two-sampled t-test on samples deemed significant. We found significant difference between rate of photosynthesis at 0°C when compared to 20°C (p-value = 0.042327), 40°C (p-value = 0.016531) and room temperature (p-value = 0.019708). These results do not support our hypothesis, as photosynthesis in the spinach worked most efficiently at 0. 
+It was hypothesized that moderate temperatures, like 20°C, would cause the rate of photosynthesis to be higher, relative to other temperatures. Absorbance readings at 600 nanometer light wavelength were taken at 0 and 30 minutes after the reactions occurred. Results were analyzed with a one-way ANOVA with Tukey-Kramer post hoc test, and then a two-sampled t_test on samples deemed significent. We found significent difference between rate of photosynthesis at 0°C when compared to 20°C (p_value = 0.042327), 40°C (p_value = 0.016531) and room temperature (p_value = 0.019708). These results do not support our hypothesis, as photosynthesis in the spinach worked most efficiently at 0. 
 
 More studies should be conducted with a wider range of temperatures and more variability in plant species and other photosynthetic organisms, as these can improve our understanding of how temperature changes, in the context of climate change for example, affect plants. 
 
@@ -27,18 +27,18 @@ The purpose of this experiment is to determine how temperature affects the rate 
 It is hypothesized that chloroplasts will reduce DCPIP the fastest in 20° Celsius, as this temperature is closest to outdoor spring temperatures, when the majority of plants are most active. Higher temperatures could cause the protein complexes of the electron transport chain to denature, and lower temperatures may affect membrane fluidity of the chloroplast and thylakoid membrane, causing the overall light-dependent reaction center inside to not work as efficiently.    
 
 
-Materials and Methods:
+Materials and Method:
 Materials
 
-Two 50-mL centrifuge tubes, a medium beaker, a mortar and pestle, 20 mL of grinding buffer (10mM sucrose in Tricine, pH 8), 26 mL of reaction buffer (100mM phosphate, 6.5 pH) and 24 mL of DCPIP were packed into crushed ice. 4 medium spinach leaves were used as sources of chloroplast. 13 corresponding spectrometer cuvettes for the test tubes, and three pieces of cheese cloth, were also used. Three water baths, one at 0° Celsius, another at 20° Celsius, and the final at 40° Celsius, were prepared. 
+Two 50-Ml centrifuge tubes, a medium beaker, a mortar and pestle, 20 Ml of grinding buffer (10mM sucrose in Tricine, pH 8), 26 Ml of reaction buffer (100mM phosphate, 6.5 pH) and 24 Ml of DCPIP were packed into crushed ice. 4 medium spinach leaves were used as sources of chloroplast. 13 corresponding spectrometer cuvettes for the test tubes, and three pieces of cheese cloth, were also used. Three water baths, one at 0° Celsius, another at 20° Celsius, and the final at 40° Celsius, were prepared. 
 
-Methods
+Method
 
-The central veins were removed from each of the spinach leaves. The leaves were rinsed and crushed into a paste using the mortar and pestle and 10 mL of cold grinding buffer. After crushing, 10 more mL of grinding buffer were added and the solution was poured through three layers of cheese cloth into the beaker. 
+The central veins were removed from each of the spinach leaves. The leaves were rinsed and crushed into a paste using the mortar and pestle and 10 Ml of cold grinding buffer. After crushing, 10 more Ml of grinding buffer were added and the solution was poured through three layers of cheese cloth into the beaker. 
 
-About 20 mL of the solution from the beaker were transferred into a centrifuge tube and centrifuged for 3 minutes at 4° Celsius, 200xG (1200 rpm). The solution was then transferred into another centrifuge tube (ignoring debris at the bottom of the first tube) and centrifuged for 10 minutes at 4° Celsius, 1000xG (2800 rpm).  
+About 20 Ml of the solution from the beaker were transferred into a centrifuge tube and centrifuged for 3 minutes at 4° Celsius, 200xG (1200 rpm). The solution was then transferred into another centrifuge tube (ignoring debris at the bottom of the first tube) and centrifuged for 10 minutes at 4° Celsius, 1000xG (2800 rpm).  
 
-About 100 microliters of solution from the second tube (excluding debris at the bottom) were transferred into 10 of the test tubes. In one of these 10 test tubes, no DCPIP was added, and 8 mL of distilled water were added. For the other 12 tubes, 6 mL of distilled water and 2 mL of DCPIP were added. 2 mL of reaction buffer were added to all of the test tubes. The contents of each tube were mixed.
+About 100 microliters of solution from the second tube (excluding debris at the bottom) were transferred into 10 of the test tubes. In one of these 10 test tubes, no DCPIP was added, and 8 Ml of distilled water were added. For the other 12 tubes, 6 Ml of distilled water and 2 Ml of DCPIP were added. 2 Ml of reaction buffer were added to all of the test tubes. The contents of each tube were mixed.
 
 Solutions from each test tube were then transferred into cuvettes. Absorbances at 600 nm were read by a spectrometer and recorded at time zero. The blank tube went first to zero the spectrometer. 
 
@@ -46,13 +46,13 @@ After the first round of spectrometer readings, 4 test tubes (including the blan
 
 Results were analyzed by separately averaging initial and final absorbance readings for each sample group, and averaging their percent changes. 
 
-A one-way ANOVA with Tukey-Kramer post hoc test was used to determine significant differences between the percent changes of the 4 sample groups. A two-sampled t-test was then administered to find the p-value for each pair of samples that showed significant difference in the ANOVA test. 
+A one-way ANOVA with Tukey-Kramer post hoc test was used to determine significent differences between the percent changes of the 4 sample groups. A two-sampled t_test was then administered to find the p_value for each pair of samples that showed significent difference in the ANOVA test. 
 
 
 Results:
-Each sample experienced a decrease in absorbance after 30 minutes. There is a large difference between absorbances for 0 and 30 minutes at 0°C. At time zero, average absorbances were approximately 0.436 (control), 0.331 (0), 0.357 (20) and 0.308 (40). After 30 minutes, these values were approximately 0.417 (control), 0.169 (0), 0.306 (20) and 0.304 (40) (Figure 1).  
+Each sample experienced a decrease in absorbance after 30 minutes. There is a large difference between absorbances for 0 and 30 minutes at 0°C. At time zero, average absorbances were approximately 0.436 (controlll), 0.331 (0), 0.357 (20) and 0.308 (40). After 30 minutes, these values were approximately 0.417 (controlll), 0.169 (0), 0.306 (20) and 0.304 (40) (Figure 1).  
 
-Based on the ANOVA test, significant differences occurred between average percent change of 0°C when individually compared with each of the other three groups (Table 1). P-values for 0°C and control, 0°C and 20°C, and 0°C and 40°C were calculated to be 0.019708, 0.042327, and 0.016531 respectively. Respective t-values were found to be 3.7639, 2.941464 and 3.970579. Degree of freedom was 4 for each test. 
+Based on the ANOVA test, significent differences occurred between average percent change of 0°C when individually compared with each of the other three groups (Table 1). P-values for 0°C and controlll, 0°C and 20°C, and 0°C and 40°C were calculated to be 0.019708, 0.042327, and 0.016531 respectively. Respective t-values were found to be 3.7639, 2.941464 and 3.970579. Degree of freedom was 4 for each test. 
 
 
 
@@ -60,11 +60,11 @@ Discussion:
 Our results suggest that DCPIP was most reduced at 0°C when compared to the other sample groups, meaning that the rate of photosynthesis was highest at 0°C. This evidence does not support our hypothesis, which predicted that photosynthetic rate would be highest at 20°C. We initially chose this hypothesis since 20°C is closest to spring temperatures, and since some plants, such as loblolly and red pines, peak in photosynthetic rate around 20/30°C [Decker: 1944]. After further research, however, it was found that spinach can function relatively well in cool climates, which could explain why photosynthesis rate was so high at a colder temperature. In addition, spinach is especially sensitive to heat. This information could explain the lack of photosynthetic performance of spinach at 40°C when compared to 0°C [Koike: 2011].  
 
 While the overall photosynthetic rate at 0°C was quite high, the rate was inconsistent amongst the individual test tubes within the sample. This phenomenon could be due to the fact that while spinach is able to function relatively well in colder temperatures, these temperatures are not entirely ideal for the plant [Koike: 2011].   
-As for the rate of photosynthesis at 20°C, while the average relative decline in absorbance reading was not significant when compared to the others (with the exception of 0°C), it still had the second highest percent change, behind 0°C. It is suggested, if this experiment were done again, to have more test tubes at 20°C, as well as include more temperatures within the range of 20°C, to see if photosynthesis in spinach can perform consistently at this temperature. In addition, it would need to be determined if photosynthesis in spinach really cannot perform as adequately at 20°C, or if there are possible confounding factors. While we did have a control group for this experiment, this sample seemed to succumb to confounding factors. While it was exposed to a temperature similar to 20°C, the chloroplasts in this sample were not able to reduce DCPIP to the same capacity as those at 20°C, nor were they close to reaching the reduction rate of 0°C, like those at 20°C. Spinach should still function well in these moderate temperatures, suggesting that there could be some confounding factors affecting our results [Koike: 2011].
+As for the rate of photosynthesis at 20°C, while the average relative decline in absorbance reading was not significent when compared to the others (with the exception of 0°C), it still had the second highest percent change, behind 0°C. It is suggested, if this experiment were done again, to have more test tubes at 20°C, as well as include more temperatures within the range of 20°C, to see if photosynthesis in spinach can perform consistently at this temperature. In addition, it would need to be determined if photosynthesis in spinach really cannot perform as adequately at 20°C, or if there are possible confounding factors. While we did have a controlll group for this experiment, this sample seemed to succumb to confounding factors. While it was exposed to a temperature similar to 20°C, the chloroplasts in this sample were not able to reduce DCPIP to the same capacity as those at 20°C, nor were they close to reaching the reduction rate of 0°C, like those at 20°C. Spinach should still function well in these moderate temperatures, suggesting that there could be some confounding factors affecting our results [Koike: 2011].
 
-It is possible that the control test tubes did not receive enough light and therefore the chloroplasts within the tubes could not perform photosynthesis to their full potential. The control group sat near a shelf, which could have cast a shadow on the tubes.
+It is possible that the controlll test tubes did not receive enough light and therefore the chloroplasts within the tubes could not perform photosynthesis to their full potential. The controlll group sat near a shelf, which could have cast a shadow on the tubes.
 
-Further experimentation should be done on this topic, controlling for factors such as light intensity, to ensure more accurate results. In addition, one should test for a wider range of temperatures and plant species in order to make the findings more generalizable, as well as increase our understanding of what extreme temperatures can do to plants’ photosynthetic ability. These findings can show us how climate change affects plants, and help us move towards better solutions for climate change and saving endangered plant species. In addition, we can learn how different types of plants have evolved to cope with the temperatures of their native region. 
+Further experimentation should be done on this topic, controlllling for factors such as light intensity, to ensure more accurate results. In addition, one should test for a wider range of temperatures and plant species in order to make the findings more generalizable, as well as increase our understanding of what extreme temperatures can do to plants’ photosynthetic ability. These findings can show us how climate change affects plants, and help us move towards better solutions for climate change and saving endangered plant species. In addition, we can learn how different types of plants have evolved to cope with the temperatures of their native region. 
 
 On a broader scale, we can conduct rate of photosynthesis experiments on non-plant photosynthetic organisms, such as the marine bacterium Synechococcus spp. A study conducted by the American Society of Plant Biologists focused on this specific organism, and revealed that these bacteria are able to adapt to the dynamic temperatures of the ocean by shifting photosynthetic responsibilities between protein complexes to reduce strain on the proteins [Mackey: 2013]. With studies such as this one, which show how certain organisms have learned to overcome ever-changing climates, we can come closer to figuring out how to save more temperature-sensitive photosynthetic organisms from climate change.   
 
@@ -106,9 +106,9 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 Figure Legends: 
 Figure 1. 
-Average absorbance readings at time 30 minutes for control, 0°, 20° and 40° (Celsius) sample groups 
+Average absorbance readings at time 30 minutes for controlll, 0°, 20° and 40° (Celsius) sample groups 
 
 Table 1. 
-Results from ANOVA and Tukey-Kramer post-hoc test: p-values for significant pairs were 0.019708 (control – 0), 0.042327 (0 – 20), and 0.016531 (0 – 40): t-values were 3.7639, 2.941464 and 3.970579: average percent changes (all of which represent a decrease in absorbance) were approximately 4.507% (control), 48.84% (0), 14.19% (20), 1.405% (40): degree of freedom is 4
+Results from ANOVA and Tukey-Kramer post-hoc test: p_values for significent pairs were 0.019708 (controlll – 0), 0.042327 (0 – 20), and 0.016531 (0 – 40): t-values were 3.7639, 2.941464 and 3.970579: average percent changes (all of which represent a decrease in absorbance) were approximately 4.507% (controlll), 48.84% (0), 14.19% (20), 1.405% (40): degree of freedom is 4
 
 *************************************************************************

@@ -13,16 +13,16 @@ Abstract:
 N/A
 
 Introduction:
-Ecdysterone (20E) and Juvenile Hormone (JH) are two of the three hormones involved in the development if the Manduca Sexta. Ecdysterone is produced in the prothoracic glands and is responsible for the timing of the molting of the Manduca Sexta. JH is produced in the Corpus Allata and is responsible for the type of molt that that occurs. Both JH and Ecdysterone work together, in different proportions and concentrations, to control the growth, molting, and metamorphosis of the Manduca Sexta [Eaton, 1988]. This organism is considered a pest while in its larvae stage, so increasing the rate of the growth would be advantageous because it would mean that the Manduca Sexta spends less time in its larvae stage. JH levels are very high during the first four larval instar periods of the Manduca Sexta, the levels of JH start to drop at the end of the fourth instar; Therefore, by increasing the amount of JH present, there is a chance that the Manduca Sexta would reach the fifth instar faster. This would cause it to pupate and become a moth, making it less of a pest [Progress in Neurobiology, 2003]. For this experiment, our group hypothesized that by adding the JH analog, Precor, the Manduca Sexta would increase in weight and ultimately grow faster than those who were not given the extra Juvenile hormone. 
+Ecdysterone (20E) and Juvenile Hormone (JH) are two of the three hormones involved in the development if the Manduca Sexta. Ecdysterone is produced in the prothoracic glands and is responsible for the timing of the molting of the Manduca Sexta. JH is produced in the Corpus Allata and is responsible for the type of molt that that occurs. Both JH and Ecdysterone work together, in different proportions and concentrations, to controll the growth, molting, and metamorphosis of the Manduca Sexta [Eaton, 1988]. This organism is considered a pest while in its larvae stage, so increasing the rate of the growth would be advantageous because it would mean that the Manduca Sexta spends less time in its larvae stage. JH levels are very high during the first four larval instar periods of the Manduca Sexta, the levels of JH start to drop at the end of the fourth instar; Therefore, by increasing the amount of JH present, there is a chance that the Manduca Sexta would reach the fifth instar faster. This would cause it to pupate and become a moth, making it less of a pest [Progress in Neurobiology, 2003]. For this experiment, our group hypothesized that by adding the JH analog, Precor, the Manduca Sexta would increase in weight and ultimately grow faster than those who were not given the extra Juvenile hormone. 
 
-Materials and Methods:
-The first step is to set up the Manduca Sexta habitat. Obtain two containers, each containing four slots. This gives room for four control and for experimental caterpillars. Next, place holes inside of each slot of the container to ensure proper airflow to the Manduca Sexta. Then, label each container as either control or experimental and then number each slot one through four
-Secondly, we set up food for the Manduca Sexta. This is important because it is how the treatment is being administered. The control group received five drop sof water mixed with ten grams of food. The experimental group received five drops of Precor mixed with Ten grams of food. These were mixed up and rolled it into a ball. Then, we placed the mixture in the respective slot 
-Next, one Manduca Sexta was placed in each container and we observed them every day for two weeks. We would come in and record the weight of the caterpillar every day. The food was remade every day to avoid dehydration and the container was cleaned as necessary. After two weeks, compare the recorded weights and run a two-sample t-test to determine statistical significance in the weights of the control and experimental groups 
+Materials and Method:
+The first step is to set up the Manduca Sexta habitat. Obtain two containers, each containing four slots. This gives room for four controll and for experimental caterpillars. Next, place holes inside of each slot of the container to ensure proper airflow to the Manduca Sexta. Then, label each container as either controll or experimental and then number each slot one through four
+Secondly, we set up food for the Manduca Sexta. This is important because it is how the treatment is being administered. The controll group received five drop sof water mixed with ten grams of food. The experimental group received five drops of Precor mixed with Ten grams of food. These were mixed up and rolled it into a ball. Then, we placed the mixture in the respective slot 
+Next, one Manduca Sexta was placed in each container and we observed them every day for two weeks. We would come in and record the weight of the caterpillar every day. The food was remade every day to avoid dehydration and the container was cleaned as necessary. After two weeks, compare the recorded weights and run a two-sample t_test to determine statistical significance in the weights of the controll and experimental groups 
 
 
 Results:
-The mean of the experimental group treated with precor was significantly statistically different than the mean of the control group (t-stat = 1.74, df = 28, P= 0.046)   
+The mean of the experimental group treated with precor was significently statistically different than the mean of the controll group (t_stat = 1.74, d.f. = 28, P= 0.046)   
 
 Discussion:
 
@@ -31,7 +31,7 @@ Overall, our results supported our hypothesis that the Manduca Sexta treated wit
 
 Literature Cited:
 
-Rountree, Dorothy, and Walter Bollenbacher . THE RELEASE OF THE PROTHORACICOTROPIC HORMONE IN THE TOBACCO HORNWORM, MANDUCA SEXTA, IS CONTROLLED INTRINSICALLY BY JUVENILE HORMONE, 4 July 1985, jeb.biologists.org/content/jexbio/120/1/41.full.pdf.
+Rountree, Dorothy, and Walter Bollenbacher . THE RELEASE OF THE PROTHORACICOTROPIC HORMONE IN THE TOBACCO HORNWORM, MANDUCA SEXTA, IS CONTROLLED INTRINSICALLY BY JUVENILE HORMONE, 4 July 1985, jeb.biologists.org/content/jexbio/120/1/41.full.pd.f..
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Screen+Shot+2019-09-19+at+1.54.01+PM.png&Size=115731&Type=image%2Fpng&F=F_1q4aVFhbeRUPE5O
@@ -56,7 +56,7 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. Manduca sexta treated with 5 drops of Water (control) or Precor (experiment)*************************************************************************
+Figure 1. Manduca sexta treated with 5 drops of Water (controll) or Precor (experiment)*************************************************************************
 
 
 

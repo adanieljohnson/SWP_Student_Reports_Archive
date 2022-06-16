@@ -15,32 +15,32 @@ Hormones play a role in the growth of insects. Manipulating the intake of juveni
 Introduction:
 Hormones surge development, molting and formation of an organism helping to emerge the organism into its adult form. Humans have an upsurge of hormones in a stage called puberty, typically at the age of 10. In this stage juveniles begin their transformation into adults. 
 An accidental observation of the Linden Bug showcased the effect of hormones. Researchers observed a low egg hatch rate and failure to mature into adults in cultures of Linden Bugs. An abnormality was traced into paper towels used in the jars that held these organisms. The researchers found Juvabione, an IGR compound (Tunaz:2004). 
-The Manduca sexta is an insect commonly known as a hornworm caterpillar. They have a lifecycle that includes an egg stage, 1-5 instar stages, pupa stage and the adult stage. All together this is called the Homeotabaoulus Life Cycle. The Juvenile Hormone (JH) and Ecdysterone (20E) work together to control growth, molting and metamorphosis of the Manduca sexta. JH is what helps proceed the lifecycle process. If there is still JH left in the insect when it will continue to stay in the instar stage, going on to a 6th and 7th instar. With JH still in the body of the Manduca sexta it will never mature into an adult. 20E regulates the timing of molting and controls additional function in adult insects. 
+The Manduca sexta is an insect commonly known as a hornworm caterpillar. They have a lifecycle that includes an egg stage, 1-5 instar stages, pupa stage and the adult stage. All together this is called the Homeotabaoulus Life Cycle. The Juvenile Hormone (JH) and Ecdysterone (20E) work together to controll growth, molting and metamorphosis of the Manduca sexta. JH is what helps proceed the lifecycle process. If there is still JH left in the insect when it will continue to stay in the instar stage, going on to a 6th and 7th instar. With JH still in the body of the Manduca sexta it will never mature into an adult. 20E regulates the timing of molting and controlls additional function in adult insects. 
 How does the presence of 20E blockers impart the weight of Manduca sexta caterpillars over a given period of time? It is important to know the specific influence of each hormone on the caterpillars.  In this experiment, a 20E blocker will be inserted into the food of the caterpillars, to see what happens to the organism with the absence of 20E, and compared to food that is unaltered. With the 20E blockers, the Manduca sexta caterpillars' growth into the stage of Pupa and adult will be hindered. 
 
 
-Materials and Methods:
-1.	Gather 4 containers. Divide the containers in half by placing an index card into the container, taping it to the side of the container. Number each side of the container 1-8 and label two of the containers control and the other two experiments. 
+Materials and Method:
+1.	Gather 4 containers. Divide the containers in half by placing an index card into the container, taping it to the side of the container. Number each side of the container 1-8 and label two of the containers controll and the other two experiments. 
 2.	Measure 10g of food for each Manduca sexta that is used, for a total of 80g. Be sure to use a clean spoon and "Zero out" the balance. 
-3.	In a new container, weigh 10g of food for each of your control caterpillars. With a transfer pipet add 7 drops of di water for each 10g of food. Stir together. Keep the food in a clump to prevent dryness. Place the 10g blob of food in one of the control halves of the container. 
-4.	Repeat 3 more times for the remaining control groups. There are 4 total control groups. 
+3.	In a new container, weigh 10g of food for each of your controll caterpillars. With a transfer pipet add 7 drops of di water for each 10g of food. Stir together. Keep the food in a clump to prevent dryness. Place the 10g blob of food in one of the controll halves of the container. 
+4.	Repeat 3 more times for the remaining controll groups. There are 4 total controll groups. 
 5.	In a new container, weigh 10g of food for each of your experiment caterpillars. With a new transfer pipet add 7 drops of AZA Guard for each 10g of food. Stir together with clean utensils. Keep the food in a clump to prevent dryness. Place the 10g blob of food in one of the experiment halves of the container. 
 6.	Repeat 3 more times for the remaining experiment groups. There are 4 total experiment groups. 
 7.	Create an excel sheet to collect weight and observations of each Manduca sexta. Before placing Manduca sextas in their respective section of the container carefully measure and record the weight of each in grams. 
 8.	Place containers in an incubator. 
 9.	Once a day record the new weight of each caterpillar. Make note of any observation. 
 10.	If food is less than half, replenish the supply. 
-11.	Record for a week, 8 days, then compare the results of the control and experiment groups. 
-12.	To compare the control and experiment, a two-sample t-test is used. 
+11.	Record for a week, 8 days, then compare the results of the controll and experiment groups. 
+12.	To compare the controll and experiment, a two-sample t_test is used. 
 
 
 Results:
-Table 1 shows what the graph (Figure 2) shows visually. The general trend shown is that the control group had an increase of growth, while the experimental group had little if any increase in weight. 
-Table 2 shows the average weight for all controls and experiments for each day. The standard deviation is the measure of spread in the measurements of weight for each group and day. Figure 2 visually shows consistently, as each day goes by, that the control weight is larger than the experiment weight. Note that as the days go by the standard deviation expands. 
-A two-sample t-test is performed to compare the average difference between the control and experiment is significant or by random chance. The mean of the control group is statistically significantly different than that of the experimental group (t-stat= -14.63, df= 6, P= 0.000006). 
+Table 1 shows what the graph (Figure 2) shows visually. The general trend shown is that the controll group had an increase of growth, while the experimental group had little if any increase in weight. 
+Table 2 shows the average weight for all controlls and experiments for each day. The standard deviation is the measure of spread in the measurements of weight for each group and day. Figure 2 visually shows consistently, as each day goes by, that the controll weight is larger than the experiment weight. Note that as the days go by the standard deviation expands. 
+A two-sample t_test is performed to compare the average difference between the controll and experiment is significent or by random chance. The mean of the controll group is statistically significently different than that of the experimental group (t_stat= -14.63, d.f.= 6, P= 0.000006). 
 
 Discussion:
-The findings in the results support the hypothesis that with the 20E blockers, the Manduca sexta caterpillars' growth into the stage of Pupa and adult will be hindered. When Ecdestyrone is not present, the growth of a Manduca sexta is stunted. The caterpillars had little growth, as they all averaged beneath the 2g marker for weight, while the control caterpillars averaged around 9g on the last day.  Similar to the Linden Bug, there was a disruption of hormone for the insects that caused an interference with the growth (Tunaz:2004). Without 20E, the Manduca sexta, will never reach another instar to morph into its adult form. If there is an abnormal growth in the Manduca sexta, to obstruct the growth block out the 20E and the growth will cease. This is a way to control the size of these insects. This experiment was not carried out long enough to test whether or not without 20E, will the Manduca sexta die? Another experiment to study is how long the Manduca sexta can survive without 20E? Does it take longer for the Manduca sexta to morph into its next instar without 20E or does it stay in that one instar for the rest of its lifetime?
+The findings in the results support the hypothesis that with the 20E blockers, the Manduca sexta caterpillars' growth into the stage of Pupa and adult will be hindered. When Ecdestyrone is not present, the growth of a Manduca sexta is stunted. The caterpillars had little growth, as they all averaged beneath the 2g marker for weight, while the controll caterpillars averaged around 9g on the last day.  Similar to the Linden Bug, there was a disruption of hormone for the insects that caused an interference with the growth (Tunaz:2004). Without 20E, the Manduca sexta, will never reach another instar to morph into its adult form. If there is an abnormal growth in the Manduca sexta, to obstruct the growth block out the 20E and the growth will cease. This is a way to controll the size of these insects. This experiment was not carried out long enough to test whether or not without 20E, will the Manduca sexta die? Another experiment to study is how long the Manduca sexta can survive without 20E? Does it take longer for the Manduca sexta to morph into its next instar without 20E or does it stay in that one instar for the rest of its lifetime?
 
 Literature Cited:
 Excerpt from Comparative Physiology BIO 114 Laboratory Manual, Edition Ver. 18.1. 
@@ -73,9 +73,9 @@ Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. Growth in weight (g) for control and experiment Manduca sexta over 8 days.
-Table 2. Average weight (g) and standard deviation for control and experiment for days 1-8.  
+Figure 1. Growth in weight (g) for controll and experiment Manduca sexta over 8 days.
+Table 2. Average weight (g) and standard deviation for controll and experiment for days 1-8.  
 Figure 2. Effect of 20E blocker on the Manduca sexta. Each bar is the mean weight of Control and experiment caterpillars. Error bars show variability. 
-Table 3. Two-sample t-test chart.
+Table 3. Two-sample t_test chart.
 
 *************************************************************************

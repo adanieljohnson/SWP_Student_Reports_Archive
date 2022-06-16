@@ -10,23 +10,23 @@ TA: TA_TaMqWbpv
 Title: Inhibition of Manduca Sexta with azadirachtin
 
 Abstract:
-The Manduca sexta pupation is controlled by a horomone called ecdysone. By adding azadirachtin to the food of the manduca sexta we hoped to inhibit the growth of the insect. The results of the experiment did not support our hypothesis with a p-value of 0.0686 to an alpha value of 0.05.
+The Manduca sexta pupation is controllled by a horomone called ecdysone. By adding azadirachtin to the food of the manduca sexta we hoped to inhibit the growth of the insect. The results of the experiment did not support our hypothesis with a p_value of 0.0686 to an alpha value of 0.05.
 
 Introduction:
-Our experiment focuses on the Manduca sexta and the effect of azadirachtin on growth inhibition. Azadirachtin inhibits ecdysone which controls the molting process of this caterpillar. A similar study was conducted by Chowdhury on the Spilosoma obliqua in which the catepillars growth was “significantly inhibited” (2001). This study and the knowledge that ecdysone is responsible for the molting process leads us to believe that the addition of azadirachtin to the food of the Manduca sexta will inhibit the growth of the caterpillar which will be measured in grams. 
+Our experiment focuses on the Manduca sexta and the effect of azadirachtin on growth inhibition. Azadirachtin inhibits ecdysone which controlls the molting process of this caterpillar. A similar study was conducted by Chowdhury on the Spilosoma obliqua in which the catepillars growth was “significently inhibited” (2001). This study and the knowledge that ecdysone is responsible for the molting process leads us to believe that the addition of azadirachtin to the food of the Manduca sexta will inhibit the growth of the caterpillar which will be measured in grams. 
 
 
 
 
 
-Materials and Methods:
-The 8 caterpillars were kept in 2 separate plastic containers with four sections each of which was numbered one through four. One container was labeled for control the other for experimental. Each group was fed daily and given new food if they were running low or food was dry. The experimental group was fed 10g of food with four drops of azadarachtin 1:1250 and control was fed 10g of food with four drops of water. The difference between day 1 and day 14 was taken averaged and put through a 1 tailed t test with an alpha of 0.05
+Materials and Method:
+The 8 caterpillars were kept in 2 separate plastic containers with four sections each of which was numbered one through four. One container was labeled for controll the other for experimental. Each group was fed daily and given new food if they were running low or food was dry. The experimental group was fed 10g of food with four drops of azadarachtin 1: 1250 and controll was fed 10g of food with four drops of water. The difference between day 1 and day 14 was taken averaged and put through a 1 tailed t test with an alpha of 0.05
 
 Results:
-The average difference in mass of the control group is 1.93g with a standard deviation of +/-0.301. The averaged difference in mass of the experimental is 1.01g with a standard deviation of +/-1.01. There were 6 degrees of freedom. The one tail t test yielded a p-value of 0.0686. Graph 1.1 shows the average differences and standard deviation.
+The average difference in mass of the controll group is 1.93g with a standard deviation of +/-0.301. The averaged difference in mass of the experimental is 1.01g with a standard deviation of +/-1.01. There were 6 degrees of freedom. The one tail t test yielded a p_value of 0.0686. Graph 1.1 shows the average differences and standard deviation.
 
 Discussion:
-The results of the experiment did not support the alternative hypothesis with a p-value of 0.0686 being above the alpha of 0.05. This experiment did not provide enough of a difference between the mass of the control and experimental group to determine that azadirachtin inhibits the growth of the Manduca sexta. This could be due to the concentration of azadirachtin being used. The study by Timmins injected the Manduca sexta with the azadirachtin and had results supporting the inhinition of growth. The low levels used in our study or method of delivery may account for the failure to inhinit growth at a statistically relevant level.
+The results of the experiment did not support the alternative hypothesis with a p_value of 0.0686 being above the alpha of 0.05. This experiment did not provide enough of a difference between the mass of the controll and experimental group to determine that azadirachtin inhibits the growth of the Manduca sexta. This could be due to the concentration of azadirachtin being used. The study by Timmins injected the Manduca sexta with the azadirachtin and had results supporting the inhinition of growth. The low levels used in our study or method of delivery may account for the failure to inhinit growth at a statistically relevant level.
 
 Literature Cited:
 Chowdhury, H., Walia, S., & Dhingra, S. (2001). Bioefficacy of azadirachtin, turmeric oil and their mixture against Bihar hairy caterpillar,(Spilosoma obliqua Walk). Pesticide Research Journal, 13(2), 165-172.

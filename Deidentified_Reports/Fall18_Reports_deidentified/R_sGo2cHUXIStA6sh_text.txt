@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a revision of a previous lab report.
-Date submitted: 2018-10-22 12:15:09
+Date submitted: 2018-10-22 12: 15:09
 Author of this lab report is: Std_Y1Hl7kww
 ID: R_sGo2cHUXIStA6sh
 Course number: BIO103L
@@ -16,12 +16,12 @@ Vigna radiata is a plant which allocated resources to roots or shoots depending 
 Introduction:
 A vital aspect of a plant’s life is uptake and allocation of resources. When certain biotic or abiotic factors in a plant’s environment are changed, the plant also changes its physical form in order to gain appropriate amounts of nutrients and continue to live. This is called Resource Allocation; Resource Allocation happens on the phenotypic level when a plant must make a change in order to be more fit for the environment in which it lives. Such patterns of allocation are extremely vital to the life history evolution and function of plant ecology [Bazzaz: 1997]. Plants being exposed to various amounts of light will cause variation in the ways they allocate resources in order to be most fit for their environments. This happens because when plants are exposed to less light,they adapt to their environment and create larger surface area of leaves in order to perform adequate photosynthetic processes. Vigna radiata was an appropriate model organism for this experiment because it is a relatively quickly adapting plant, which allowed easy viewing of its ability to allocate resources. Since the shoot is the part of the plant that is mostly responsible for photosynthetic processes, those plants exposed to less light will allocate more energy for shoot length than those exposed to more light. 
 
-Materials and Methods:
-	For this experiment we first soaked 50-60 seeds from the model organism in water prior to planting them. We then placed the seeds in pre-soaked vermiculite with 50mg of “Miracle Gro” in each individual seed hole (six bins of about 6-10 seeds in each bin). We placed three bins on one tray of plants in a greenhouse with natural light exposure, and three under a shade cover with much less light exposure. We watered the plants daily for two weeks, and after they grew appropriately we began to measure the root:shoot ratios. We gathered ten plants from the natural light group and ten from the shaded group. We first weighed the plants respectively, then separated the roots from the shoot (precision and consistency is crucial here for the integrity of the experiment). We then weighed the roots and the shoots of each respective group and calculated weight ratios, after this we measured the length of root and shoot and calculated that ratio as well. Last, measure the maximum root and shoot lengths of each group and record the mean values for both of the plant groups. To calculate significance we used a two-sample t-test and an alpha level of 0.05. 
+Materials and Method:
+	For this experiment we first soaked 50-60 seeds from the model organism in water prior to planting them. We then placed the seeds in pre-soaked vermiculite with 50mg of “Miracle Gro” in each individual seed hole (six bins of about 6-10 seeds in each bin). We placed three bins on one tray of plants in a greenhouse with natural light exposure, and three under a shade cover with much less light exposure. We watered the plants daily for two weeks, and after they grew appropriately we began to measure the root:shoot ratios. We gathered ten plants from the natural light group and ten from the shaded group. We first weighed the plants respectively, then separated the roots from the shoot (precision and consistency is crucial here for the integrity of the experiment). We then weighed the roots and the shoots of each respective group and calculated weight ratios, after this we measured the length of root and shoot and calculated that ratio as well. Last, measure the maximum root and shoot lengths of each group and record the mean values for both of the plant groups. To calculate significance we used a two-sample t_test and an alpha level of 0.05. 
 
 
 Results:
-The results of this experiment showed a significant difference for weight (t= 13.378, df=4, p= 0.000181) as well as height (t= 3.983, df=4, p=0.016353) with an alpha level of 0.05. The graphs show the differences in both ratios of root:shoot weight and length in the light and dark areas. 
+The results of this experiment showed a significent difference for weight (t= 13.378, d.f.=4, p= 0.000181) as well as height (t= 3.983, d.f.=4, p=0.016353) with an alpha level of 0.05. The graphs show the differences in both ratios of root:shoot weight and length in the light and dark areas. 
 
 
 Discussion:

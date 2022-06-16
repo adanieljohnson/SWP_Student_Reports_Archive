@@ -21,8 +21,8 @@ more tolerable pH environment. In our experiment, we exposed half of our seeds t
 environmental conditions, and half to acidic solution. After a week of growth, the masses of each
 individual were recorded as well as the masses of the roots and shoots of each in order to
 determine the root-to-shoot ratios, which are indicative of the plant’s resource allocation. we
-found our data to be nonsignificant and our null hypothesis could not be rejected. Despite
-nonsignificant data, the study of resource allocation in buckwheat plants is an important topic as
+found our data to be nonsignificent and our null hypothesis could not be rejected. Despite
+nonsignificent data, the study of resource allocation in buckwheat plants is an important topic as
 the issue of crop health is at the forefront of agricultural studies.
 
 Introduction:
@@ -51,16 +51,16 @@ itself as a researchable topic in the context of plant resource allocation. We h
 buckwheat seeds that are exposed to soil of pH 3.5 will have a great root:shoot ratio in terms of
 mass compared to buckwheat seeds that are exposed to soil of neutral pH.
 
-Materials and Methods:
-A handful of buckwheat seeds were soaked prior to partitioning them into pots for experimenting.
+Materials and Method:
+A hand.f.ul of buckwheat seeds were soaked prior to partitioning them into pots for experimenting.
 Once the seeds had soaked for about an hour, six planters were prepared by filling each to the
 top with soil, then adding a scoop of Miracle-Gro™ to each, spreading evenly. Three planters
 
-were labeled “control” while the other three were labeled “experimental” to differentiate our two
+were labeled “controll” while the other three were labeled “experimental” to differentiate our two
 groups. 15 seeds were added to each planter, totaling to 90. The planters were saturated with
 water, then placed in the greenhouse for the remainder of our week long experiment. Each day,
-once a day, both groups were watered with 150 mL of water to each planter, and to the three
-experimental planters, 50 mL of aqueous pH 3.5 solution was added to each planter. After 8
+once a day, both groups were watered with 150 Ml of water to each planter, and to the three
+experimental planters, 50 Ml of aqueous pH 3.5 solution was added to each planter. After 8
 days, the plants were removed from each planter and rinsed and dried. This allowed for accurate
 massing of the individuals. Three individuals from each planter were analyzed. To do so, an
 individual was placed on a tared weigh paper on a digital scale. The mass of the entire individual
@@ -68,21 +68,21 @@ was recorded, followed by the mass of the shoots alone, obtained by cutting the 
 root and shoot junction. From these two masses, the mass of the root could be calculated by
 subtracting shoot mass from the total mass. This data allowed for the calculation of the root to
 shoot ratio, simply performed by dividing the root mass by the shoot mass. The average ratio of
-each planter was then calculated, followed by the average weight ratio of the control group and
-the average weight ratio of the experimental group. A two-sample t-test was used to determine
+each planter was then calculated, followed by the average weight ratio of the controll group and
+the average weight ratio of the experimental group. A two-sample t_test was used to determine
 the significance of our data.
 
 Results:
-Our experiment yielded nonsignificant data with a p-value equal to 0.25. The average root:shoot
-ratios of the control buckwheat individuals did not show a clear pattern of difference compared to
-the root:shoot ratios of experimental individuals. The p-value indicates a 25% likelihood that our
+Our experiment yielded nonsignificent data with a p_value equal to 0.25. The average root:shoot
+ratios of the controll buckwheat individuals did not show a clear pattern of difference compared to
+the root:shoot ratios of experimental individuals. The p_value indicates a 25% likelihood that our
 data patterns were due to chance, which is above the 5% accepted value. The error bars
 represent our standard deviation and express that our experimental group individuals displayed
-more variation in their root:shoot ratios than did control group individuals.
+more variation in their root:shoot ratios than did controll group individuals.
 
 Discussion:
-The two-sample t-test yielded a p-value of 0.25, which is above the accepted p value of 0.05 and
-thus indicates that our data is not significant. Our null hypothesis, which states that if buckwheat
+The two-sample t_test yielded a p_value of 0.25, which is above the accepted p value of 0.05 and
+thus indicates that our data is not significent. Our null hypothesis, which states that if buckwheat
 plants are exposed to acidic soil they will not show a difference in root:shoot weight ratio
 compared to plants grown in neutral soil, cannot be rejected. Despite patterns in our data that
 indicate a general trend toward greater root:shoot weight ratios, we cannot assume that our data
@@ -130,7 +130,7 @@ Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Table One: Total weights and weight ratio of control group individuals. Total
+Table One: Total weights and weight ratio of controll group individuals. Total
 weights were recorded followed by shoot weights such that root weights could be derived from
 this information. Standard deviation of average root to shoot ratio was +/-0.0416.
 
@@ -139,10 +139,10 @@ Recorded total weights &amp; weight ratio of experimental group individuals. Ave
 were calculated for each plot with a standard deviation of +/-0.14.
 
 Figure One: Representation of
-the average root:shoot weight ratios of control versus experimental plot, with error bars
-representing standard deviation of +/-0.0416 in the control bar and +/-0.14 in the experimental
-bar. The average control group root:shoot ratio was equal to 0.283 grams, whereas the average
-experimental group root:shoot ratio was equal to 0.393 grams. The two-sample t-test stated a p-
+the average root:shoot weight ratios of controll versus experimental plot, with error bars
+representing standard deviation of +/-0.0416 in the controll bar and +/-0.14 in the experimental
+bar. The average controll group root:shoot ratio was equal to 0.283 grams, whereas the average
+experimental group root:shoot ratio was equal to 0.393 grams. The two-sample t_test stated a p-
 value of 0.25.*************************************************************************
 
 

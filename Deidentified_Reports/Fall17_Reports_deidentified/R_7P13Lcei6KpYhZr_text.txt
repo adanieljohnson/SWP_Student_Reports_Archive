@@ -9,19 +9,19 @@ TA: TA_2R8KStqZ
 Title: The Effects of Lidocaine on the Threshold of the Gastrocnemius Muscle of Frog Legs
 
 Abstract:
-Lidocaine is a drug that blocks sodium channels. If lidocaine is injected into the muscle it can cause a delay in generating action potential as it stops the opening of the sodium channel and resulting in the delay of action potential stimulating the release of calcium from the sarcoplasm reticulum. In this experiment, lidocaine will be injected into the gastrocnemius muscle of frog legs. Once injected, the voltage threshold with a force transducer of the muscle will be measured and compared to the voltage threshold of the gastrocnemius muscle of frog without the injection of lidocaine. The findings indicate that lidocaine raised the threshold, but there is no significant 
+Lidocaine is a drug that blocks sodium channels. If lidocaine is injected into the muscle it can cause a delay in generating action potential as it stops the opening of the sodium channel and resulting in the delay of action potential stimulating the release of calcium from the sarcoplasm reticulum. In this experiment, lidocaine will be injected into the gastrocnemus muscle of frog legs. Once injected, the voltage threshold with a force transducer of the muscle will be measured and compared to the voltage threshold of the gastrocnemus muscle of frog without the injection of lidocaine. The findings indicate that lidocaine raised the threshold, but there is no significent 
 
 Introduction:
 Skeletal muscles contain myofibrils, which are protein structures inside the muscle fibers. The major proteins of myofibrils are actin and myosin, which are myofilaments. Functional groups are individual myofibrils attached by connective tissue. Motor neurons, which are in the spinal cord supply the skeletal muscle. The motor neurons’ axons spread within the muscle and branch out to supply several myofibrils. At this point, this is known as the neuromuscular junction. At neuromuscular junction, acetylcholine (ACh) is released. Acetylcholine is ionotropic and binds with its receptors on the membrane of the muscle fiber. Acetylcholine depolarizes the muscle fiber, opening sodium channels, and generating an action potential on the muscle fiber. The action potential spreads throughout the muscle fiber through the T-tubule, which reaches the sarcoplasm reticulum, stimulating the release of calcium internally stored inside it. The release of calcium causes the muscle fibers to contract and shorten. 
 Lidocaine is a sodium channel blocker. It can slow down the opening of the sodium channels at the neuromuscular junction. This would cause a delay for action potential to generate, therefore delay the stimulation for the release of calcium, then for the muscle fibers to contract.   
 Null hypothesis: 
-If lidocaine is added to the frog’s gastrocnemius muscle, then there will be no significant difference in the amplitude of the threshold between the control group and the experimental group. 
+If lidocaine is added to the frog’s gastrocnemus muscle, then there will be no significent difference in the amplitude of the threshold between the controlll group and the experimental group. 
 Alternative hypothesis: 
-If lidocaine is added to the frog’s gastrocnemius muscle, then there will be a significant difference in the amplitude of the threshold between the control group and the experimental group. 
+If lidocaine is added to the frog’s gastrocnemus muscle, then there will be a significent difference in the amplitude of the threshold between the controlll group and the experimental group. 
 
 
 
-Materials and Methods:
+Materials and Method:
 Materials 
 •Frog legs
 •25mm of lidocaine 
@@ -35,16 +35,16 @@ Materials
 •Force transducer
 •String 
 •Scissors 
-Methods
+Method
 1.Each group will obtain three frog legs. Place one of the frog legs in a dissecting pan. Using a pair of forceps take hold of the skin on the top part of the frog’s leg and pull the skin down towards the foot region. Place the skinned leg in the dissecting pan and using frog Ringer’s solution moisten the leg [Johnson, 21].  
 2.Take the dissecting probe and carefully separate the inner part of the frog’s thigh, starting at the upper part and going towards the knee. This reveals the white sciatic nerve and blood vessels with it [Johnson, 21]. Free the nerve from the connective tissue that it is attached to with a dissecting needle and a pair of forceps [Johnson, 21]. Try to cause as less trauma or metal contact as you can. Make sure that the tissue is moist with the frog Ringer’s solution.
-3.Tie a knot with a piece of string around the junction of the achilles tendon and gastrocnemius muscle. Make sure to leave a loop at the end and cut off any extra string. 
+3.Tie a knot with a piece of string around the junction of the achilles tendon and gastrocnemus muscle. Make sure to leave a loop at the end and cut off any extra string. 
 4.Suspend the loop of the string from the tray by hooking it to the ring stand. Pin across the tibia bone, tibialis muscle, and the femur bone to attach the leg to the tray. Adjust the ring stand so that the string is at approximately a 90-degree angle and use the precise tenser to put some tension on the muscle. 
-5.Insert the stimulation probes (needle probe and sleeve probe) into the gastrocnemius muscle.  
-6.For the control testing, add different levels of stimulus to the gastrocnemius muscle with the force transducer until threshold and record data. 
-7.For the experimental testing, add lidocaine to the middle and lower regions of the gastrocnemius muscle with a syringe and repeat step six. 
+5.Insert the stimulation probes (needle probe and sleeve probe) into the gastrocnemus muscle.  
+6.For the controlll testing, add different levels of stimulus to the gastrocnemus muscle with the force transducer until threshold and record data. 
+7.For the experimental testing, add lidocaine to the middle and lower regions of the gastrocnemus muscle with a syringe and repeat step six. 
 8.Repeat steps one through seven to the other two frog legs.
-9.Run a single-tailed paired t-test on the data collected. 
+9.Run a single-tailed paired t_test on the data collected. 
 Variables
 •Lidocaine 
 •Pin electrode 
@@ -54,15 +54,15 @@ Variables
 
 
 Results:
-Single-tailed Two-sample t-test
-(t-stat =4.00, df =2, P=0.0572)
-Based on the results, there is not quite a statistically significant difference between the length until threshold between the control group and the experimental group with lidocaine added to the gastrocnemius muscle. Therefore, the null hypothesis is accepted with the support of the results. 
+Single-tailed Two-sample t_test
+(t_stat =4.00, d.f. =2, P=0.0572)
+Based on the results, there is not quite a statistically significent difference between the length until threshold between the controlll group and the experimental group with lidocaine added to the gastrocnemus muscle. Therefore, the null hypothesis is accepted with the support of the results. 
 
 
 Discussion:
-The hypothesis is if lidocaine is added to the frog’s gastrocnemius muscle, then there will be no significant difference in the amplitude of the threshold between the control group and the experimental group. The results support the hypothesis as the p-value from the single-tailed two-sample t-test is 0.0572, which is greater than 0.05, but not a significant difference. The reason there was a difference in threshold hold is because lidocaine is a sodium channel blocker, therefore inhibiting the opening of the sodium channel for a temporary period. A possible explanation for why the difference was not significant could be because the amount of lidocaine was not large enough to delay the opening of the sodium channel for a long period of time. 
-An area of error in the experiment is difficulty seeing a visual pulse on the gastrocnemius muscle in the experimental group. This cause is the liquid of the lidocaine could have taken up space for the muscle to show contraction. This could also have been caused by the placement of the probe pins. If the probe pins were not completely placed in or not placed properly, therefore causing the reading of the threshold to be off and a reason for the little significance. This is also an issue in Ward’s study where the probe tips “extended beyond the lidocaine absorption region”, therefore causing no effect to the muscle tissue [Ward, 8]. They also predicted in their study that lidocaine would not have a significant effect as they study the effects of topical lidocaine on the occurrence of artefacts in canine EEG recordings [Ward, 6].  
-The next step in this experiment is to modify it for improvement. Some possible ideas would be adding more frog legs to the control and experimental group to get a larger data pool. Another idea would be to repeat this experiment by adding different amounts of lidocaine to the gastrocnemius muscles to see if there is a larger change or significance in the threshold. Another idea would be to test the threshold of the nerve, instead of the muscle to see if there is a different or similar result when testing lidocaine in a different region of the frog leg.
+The hypothesis is if lidocaine is added to the frog’s gastrocnemus muscle, then there will be no significent difference in the amplitude of the threshold between the controlll group and the experimental group. The results support the hypothesis as the p_value from the single-tailed two-sample t_test is 0.0572, which is greater than 0.05, but not a significent difference. The reason there was a difference in threshold hold is because lidocaine is a sodium channel blocker, therefore inhibiting the opening of the sodium channel for a temporary period. A possible explanation for why the difference was not significent could be because the amount of lidocaine was not large enough to delay the opening of the sodium channel for a long period of time. 
+An area of error in the experiment is difficulty seeing a visual pulse on the gastrocnemus muscle in the experimental group. This cause is the liquid of the lidocaine could have taken up space for the muscle to show contraction. This could also have been caused by the placement of the probe pins. If the probe pins were not completely placed in or not placed properly, therefore causing the reading of the threshold to be off and a reason for the little significance. This is also an issue in Ward’s study where the probe tips “extended beyond the lidocaine absorption region”, therefore causing no effect to the muscle tissue [Ward, 8]. They also predicted in their study that lidocaine would not have a significent effect as they study the effects of topical lidocaine on the occurrence of artefacts in canine EEG recordings [Ward, 6].  
+The next step in this experiment is to modify it for improvement. Some possible ideas would be adding more frog legs to the controlll and experimental group to get a larger data pool. Another idea would be to repeat this experiment by adding different amounts of lidocaine to the gastrocnemus muscles to see if there is a larger change or significance in the threshold. Another idea would be to test the threshold of the nerve, instead of the muscle to see if there is a different or similar result when testing lidocaine in a different region of the frog leg.
 
 
 Literature Cited:
@@ -81,6 +81,6 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. The voltage level where the gastrocnemius muscle reached threshold hold in the control group (blue) and experimental group (orange). 
+Figure 1. The voltage level where the gastrocnemus muscle reached threshold hold in the controlll group (blue) and experimental group (orange). 
 
 *************************************************************************

@@ -10,7 +10,7 @@ TA: TA_QsMOD6cQ
 Title: The effect of Magnesium Sulfate on mung bean plant leaf health. 
 
 Abstract:
-We initially wanted to test the effect of commercial leaf greener in the form of Magnesium sulfate on mung beans vs a group of beans given normal water everyday. We hypothesized that the mung bean plants given the Mg treatment would contain more green leaves and less wilted leaves than those who were given only water. Our data failed to support our hypothesis and in fact those given treatment were less healthy than those of the control group. We believe this is because our constant magnesium treatment was too excessive and the Mg+ ion interfered with Ca2+ ion uptake. We recommend future studies in this field in order to determine the proper quantities at which fertilizers become negative for plant growth and health. 
+We initially wanted to test the effect of commercial leaf greener in the form of Magnesium sulfate on mung beans vs a group of beans given normal water everyday. We hypothesized that the mung bean plants given the Mg treatment would contain more green leaves and less wilted leaves than those who were given only water. Our data failed to support our hypothesis and in fact those given treatment were less healthy than those of the controll group. We believe this is because our constant magnesium treatment was too excessive and the Mg+ ion interfered with Ca2+ ion uptake. We recommend future studies in this field in order to determine the proper quantities at which fertilizers become negative for plant growth and health. 
 
 
 Introduction:
@@ -18,15 +18,15 @@ Magnesium is an important element for plants during photosynthesis, as it allows
 
 
 
-Materials and Methods:
-In order to test our hypothesis we need to have a treatment group and a control group. To minimize variables an equal number of seeds were placed in the treatment side and and equal number of seeds in the control side. Both were grown in vermiculite soil and given around 100 grams of miracle grow fertilizer to start off growth. The control group was then watered everyday around 4pm for 2 weeks. The treatment group was given a 2M solution MgSO4 of equal volume to that given to the control group. It was given the solution of MgSO4 every day at 4pm for 2 weeks. After 2 weeks, the number of healthy and unhealthy/wilted leaves were collected from both groups. 
+Materials and Method:
+In order to test our hypothesis we need to have a treatment group and a controll group. To minimize variables an equal number of seeds were placed in the treatment side and and equal number of seeds in the controll side. Both were grown in vermiculite soil and given around 100 grams of miracle grow fertilizer to start off growth. The controll group was then watered everyday around 4pm for 2 weeks. The treatment group was given a 2M solution MgSO4 of equal volume to that given to the controll group. It was given the solution of MgSO4 every day at 4pm for 2 weeks. After 2 weeks, the number of healthy and unhealthy/wilted leaves were collected from both groups. 
 
 
 
 Results:
 One observation I noticed during data collection period was the accumulation of excess salt on the plant leaves of the treatment group. Most of the treatment plants appeared to be dead and had little to no growth or healthy leaves. 
 The data was collected and recorded after our 2 week period of treatment. And summarized below.
-Average control group wilted leaves/total leaves was 18.66/31.66  or 58.9% wilted leaves. And an average mass of 2.21g per plant.
+Average controll group wilted leaves/total leaves was 18.66/31.66  or 58.9% wilted leaves. And an average mass of 2.21g per plant.
 Average treatment group wilted leaves/total leaves was 9/10.38 or 86.7% wilted leaves. And an average mass of .36g per plant.
 
 Ho :Control  Xc wilted/total = treatment Xt wilted/total leaves
@@ -37,11 +37,11 @@ Xt = .88
 Df = 2.98
 P =.9573 
 
-Using a two tailed t-test for an α = .05 our p= .9573 thus we failed to reject the null hypothesis and we reject the alternative hypothesis for α = .05. This means that the treatment did not result in a significant decrease in the percentage of wilted/total leaves compared to control group plants. 
+Using a two tailed t_test for an α = .05 our p= .9573 thus we failed to reject the null hypothesis and we reject the alternative hypothesis for α = .05. This means that the treatment did not result in a significent decrease in the percentage of wilted/total leaves compared to controll group plants. 
 
 
 Discussion:
-We failed to reject our null hypothesis for α = .05 with a p= .9573. Thus there is no significant decrease in wilted leaves/total leaves in the treatment group compared to our control group. Our proposed alternative hypothesis was rejected and thus we disproved our initial hypothesis with the data we collected. We believed that the extra Magnesium in our treatment would allow the plant to better photosynthesis and thus have fewer wilted leaves. Our Magnesium Sulphate even was named comercial leaf greener and wilt prevention. However we had completely the opposite results. The treatment group leaves were on average far more wilted and less healthy looking, the plants themselves had far less mass and grew less as well. We believe this is because our constant magnesium treatment was too excessive and the Mg+ ion interfered with Ca2+ ion uptake. Calcium is an essential secondary messenger in cell signaling and in calcium ion channels. For plants it is very important for maintaining cell wall integrity.[2] In the future a repeat study with less concentrated or less frequent application of the treatment Magnesium would be beneficial to test. Then we could see if the lowered Magnesium ion would positively impact the growth of the plants. This has real world applications because excessive fertilizers and runoffs can have very negative impact on crop growth and could lead to mass famine if said crop were to fail. This is why our data is important and repeat tests should be performed in order to determine how much of these fertilizers is becoming excessive and harmful to plant growth.
+We failed to reject our null hypothesis for α = .05 with a p= .9573. Thus there is no significent decrease in wilted leaves/total leaves in the treatment group compared to our controll group. Our proposed alternative hypothesis was rejected and thus we disproved our initial hypothesis with the data we collected. We believed that the extra Magnesium in our treatment would allow the plant to better photosynthesis and thus have fewer wilted leaves. Our Magnesium Sulphate even was named comercial leaf greener and wilt prevention. However we had completely the opposite results. The treatment group leaves were on average far more wilted and less healthy looking, the plants themselves had far less mass and grew less as well. We believe this is because our constant magnesium treatment was too excessive and the Mg+ ion interfered with Ca2+ ion uptake. Calcium is an essential secondary messenger in cell signaling and in calcium ion channels. For plants it is very important for maintaining cell wall integrity.[2] In the future a repeat study with less concentrated or less frequent application of the treatment Magnesium would be beneficial to test. Then we could see if the lowered Magnesium ion would positively impact the growth of the plants. This has real world applications because excessive fertilizers and runoffs can have very negative impact on crop growth and could lead to mass famine if said crop were to fail. This is why our data is important and repeat tests should be performed in order to determine how much of these fertilizers is becoming excessive and harmful to plant growth.
 
 
 Literature Cited:

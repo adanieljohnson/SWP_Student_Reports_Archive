@@ -10,19 +10,19 @@ TA: TA_2R8KStqZ
 Title: A study of the effect of Martin’s IGR upon growth of Manduca Sexta
 
 Abstract:
-	This study examines the effect of controlling juvenile hormone level within a specific insect named Manduca Sexta by mixing Martin’s IGR, a juvenile hormone imitating chemical, with caterpillar food. The initial and final weights of caterpillars after seven days of feeding were recorded and compared. We hypothesized that caterpillars feed with Martin’s IGR would grow smaller with less weight than control caterpillars with normal food. The eight caterpillars were split into two groups and feed separately. According to our experimental data, the hypothesis was supported. 
+	This study examines the effect of controllling juvenile hormone level within a specific insect named Manduca Sexta by mixing Martin’s IGR, a juvenile hormone imitating chemical, with caterpillar food. The initial and final weights of caterpillars after seven days of feeding were recorded and compared. We hypothesized that caterpillars feed with Martin’s IGR would grow smaller with less weight than controll caterpillars with normal food. The eight caterpillars were split into two groups and feed separately. According to our experimental data, the hypothesis was supported. 
 
 Introduction:
-In this experiment, we chose Manduca Sexta as our experimental model and for testing hypothesis of growth of insects because it is a typical pest and does no harm to human. In general, the growth of insect is primarily manipulated by three hormones: growth hormone, ecdysone and juvenile hormone. The growth hormone is produced by the corpus cardiacum and regulated the releasing of ecdysone. Ecdysone, as known as 20-E, secreting by the prothoracic gland, regulates the timing of insects’ molting in developmental stages [1]. Juvenile hormone, producing mainly by the corpus allata, controls the type of molting of insects which high level of juvenile hormone prevent insects from molting into adult but instars and accelerates their death. 
-	In our experiment, we studied and focused on the effect of high level Ecdysone upon insects’ growth. The eight Manduca caterpillars were divided into two main groups with measured initial weights. The first group of four caterpillars is the control group feeding on normal caterpillar food mixing with distilled water. The second group with four caterpillars is the treatment group feeding on caterpillar food mixing with Martins IGR insect growth regulator. Martins IGR, a Control Solutions inc. product, is an insect growth regulator that imitates juvenile hormone and affects insects’ growth by inhibiting metamorphosis of caterpillars from larvae to adult stage with low mammalian toxicity [2]. We assume that caterpillars feed with Martins IGR food could molt into instars infinitely rather than complete form of adults. Meanwhile, treatment caterpillars would display smaller weights than that of control caterpillars.  By contrast, the null hypothesis is that manipulating the juvenile hormone level has no effect on caterpillars’ growth, which hopefully would be proved wrong by our experimental results. The change in caterpillars’ weights would be recorded. It is unlikely to measure the length of caterpillars accurately as they squeeze their body most of the time. The caterpillar food is the independent variable and the weight of caterpillar is the dependent variable.
+In this experiment, we chose Manduca Sexta as our experimental model and for testing hypothesis of growth of insects because it is a typical pest and does no harm to human. In general, the growth of insect is primarily manipulated by three hormones: growth hormone, ecdysone and juvenile hormone. The growth hormone is produced by the corpus cardiacum and regulated the releasing of ecdysone. Ecdysone, as known as 20-E, secreting by the prothoracic gland, regulates the timing of insects’ molting in developmental stages [1]. Juvenile hormone, producing mainly by the corpus allata, controlls the type of molting of insects which high level of juvenile hormone prevent insects from molting into adult but instars and accelerates their death. 
+	In our experiment, we studied and focused on the effect of high level Ecdysone upon insects’ growth. The eight Manduca caterpillars were divided into two main groups with measured initial weights. The first group of four caterpillars is the controll group feeding on normal caterpillar food mixing with distilled water. The second group with four caterpillars is the treatment group feeding on caterpillar food mixing with Martins IGR insect growth regulator. Martins IGR, a Control Solutions inc. product, is an insect growth regulator that imitates juvenile hormone and affects insects’ growth by inhibiting metamorphosis of caterpillars from larvae to adult stage with low mammalian toxicity [2]. We assume that caterpillars feed with Martins IGR food could molt into instars infinitely rather than complete form of adults. Meanwhile, treatment caterpillars would display smaller weights than that of controll caterpillars.  By contrast, the null hypothesis is that manipulating the juvenile hormone level has no effect on caterpillars’ growth, which hopefully would be proved wrong by our experimental results. The change in caterpillars’ weights would be recorded. It is unlikely to measure the length of caterpillars accurately as they squeeze their body most of the time. The caterpillar food is the independent variable and the weight of caterpillar is the dependent variable.
 
 
-Materials and Methods:
+Materials and Method:
 1. Prepare eight healthy Manduca Sexta caterpillars from the incubator.
 2. Weigh and record the initial weight of each caterpillars.
 3. Weigh approximately 40 grams of caterpillar food on electronic balance.
 4. Add 40 drops of distilled water by pipet in the pre-weighed caterpillar food and stir
-5. Divide the pre-weighed control food into four junks that each weigh approximately 10 grams.
+5. Divide the pre-weighed controll food into four junks that each weigh approximately 10 grams.
 6. Weigh 4 portions of approximately 10 grams.
 7. Add 10 drops of Martins IGR by pipet in approximately 10 grams of caterpillar food and stir.
 8. Feed each caterpillar with approximately 10 grams of food.
@@ -31,7 +31,7 @@ Materials and Methods:
 
 Results:
 Results:
- The average weight increase of control caterpillars is 9.6125 and 6.99 for treatment caterpillars. 
+ The average weight increase of controll caterpillars is 9.6125 and 6.99 for treatment caterpillars. 
 
 N:	4	4
 S.D.	0.965794146	1.920607543
@@ -41,7 +41,7 @@ P-value:	0.050485
 
 
 Discussion:
-	As we run the two-sample t test, we got a final p-value of 0. 050485 which exceeds 0.05 just a little bit. This value implies that our experiment was not designed correctly and the difference of growth of caterpillars in term of grams may just be a coincident. The mean of the control group was not statistically significantly different than that of the experimental group (t-stat = 2.44, df = 8, P = 0.05505). Despite caterpillars consuming the control food had a bigger increase in body weight and body size than that of treatment caterpillars, it doesn’t necessarily support our hypothesis that Martin’s IGR regulates the caterpillars’ growth by limiting its body mass. Figure1 illustrates the average increase in caterpillars’ weight per day with slow rise in the first three days and big rises from day 4. The final average weight of control and treatment caterpillars is 10.72 grams and 8.035 grams respectively. By this data, control caterpillars displayed greater appetite than treatment caterpillars. In general, Martin’s IGR had some effect upon caterpillars’ growth. We suspect that as days progress the juvenile hormone mimicking chemical start to inhibit growth by limiting appetite thus resulting in reduced food intake. 
+	As we run the two-sample t test, we got a final p_value of 0. 050485 which exceeds 0.05 just a little bit. This value implies that our experiment was not designed correctly and the difference of growth of caterpillars in term of grams may just be a coincident. The mean of the controll group was not statistically significently different than that of the experimental group (t_stat = 2.44, d.f. = 8, P = 0.05505). Despite caterpillars consuming the controll food had a bigger increase in body weight and body size than that of treatment caterpillars, it doesn’t necessarily support our hypothesis that Martin’s IGR regulates the caterpillars’ growth by limiting its body mass. Figure1 illustrates the average increase in caterpillars’ weight per day with slow rise in the first three days and big rises from day 4. The final average weight of controll and treatment caterpillars is 10.72 grams and 8.035 grams respectively. By this data, controll caterpillars displayed greater appetite than treatment caterpillars. In general, Martin’s IGR had some effect upon caterpillars’ growth. We suspect that as days progress the juvenile hormone mimicking chemical start to inhibit growth by limiting appetite thus resulting in reduced food intake. 
 Furthermore, our study could be improved by recording the amount of food consumed by caterpillars and poops they released. Because caterpillars do not consume all 10 grams of food we prepared each day, measuring the amount of food consumed could illustrate the relationship between appetite and growth of caterpillars. 
 
 
@@ -76,10 +76,10 @@ Figure 5: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure1. The average change of weight of caterpillars from day one to day seven. The blue bars refer to the average weight of treatment group while the orange bars refer to the average weight of control group. 
-Figure2. The weight change of control caterpillars in unit of grams within seven days. 
+Figure1. The average change of weight of caterpillars from day one to day seven. The blue bars refer to the average weight of treatment group while the orange bars refer to the average weight of controll group. 
+Figure2. The weight change of controll caterpillars in unit of grams within seven days. 
 Figure3. The weight change of treatment caterpillars in unit of grams within seven days. 
 Figure4. Average weight change in caterpillars within 7 days.
-Table1. A summary of two sample t test values. The weight difference of each caterpillars from day one to day seven were calculated to run two sample t test. The average weight increase for control group is 9.6125 grams and 6.99 grams for treatment group. The final p-value is a little bit higher than the ideal 0.05.  
+Table1. A summary of two sample t test values. The weight difference of each caterpillars from day one to day seven were calculated to run two sample t test. The average weight increase for controll group is 9.6125 grams and 6.99 grams for treatment group. The final p_value is a little bit higher than the ideal 0.05.  
 
 *************************************************************************

@@ -19,8 +19,8 @@ Based on these processes and previous findings, we were interested in investigat
 
 
 
-Materials and Methods:
-We began this experiment by creating calcium concentrations to soak 9 PDA plates in order to test our hypothesis. The control concentration (3 plates) contained 0mL of 0mM CaCl2. The first test group contained 5mL of 2mM CaCl2 (3 plates) and the second test group contained 5mL of 5mM CaCl2 (3 plates). The correct concentration of CaCl2 was poured onto each PDA plate, was labeled, and given 10 minutes to soak in. The excess was poured off.  A 1mm x 1mm block of Physarum was added to the center of each plate. 
+Materials and Method:
+We began this experiment by creating calcium concentrations to soak 9 PDA plates in order to test our hypothesis. The controll concentration (3 plates) contained 0Ml of 0mM CaCl2. The first test group contained 5Ml of 2mM CaCl2 (3 plates) and the second test group contained 5Ml of 5mM CaCl2 (3 plates). The correct concentration of CaCl2 was poured onto each PDA plate, was labeled, and given 10 minutes to soak in. The excess was poured off.  A 1mm x 1mm block of Physarum was added to the center of each plate. 
 
 To place the Physarum, we took a Physarum stock plate and cut a line through the middle of the plate using a sterilized spatula. Then we cut half of the plate into 1cm blocks using the spatula blade to measure. After cutting the blocks of Physarum we re-sterilized the spatula with ethanol. On the back of each PDA plate we drew a horizontal line through the middle of the plate, then we drew a 1cm x 1cm square in the middle of the line. After removing and disposing the block from each PDA plate, we used the sterilized utensils to remove and place one block of 1cm x 1cm Physarum in each PDA plate making sure the block completely filled the space in the PDA plate. We made sure that the block of Physarum was face up. After each plate had a Physarum block placed we replaced the cover and taped each plate closed. After each plate had been taped shut, we wrapped each set of three in aluminum foil and labeled with the correct concentration of CaCl2. Then we placed each stack of foil in a black plastic bag and placed the entire bag in dark dry environment. 
 
@@ -28,7 +28,7 @@ After 24 hours, we came back and removed the foil from the plates. We left the t
 
 We repeated the above measurement after 24 hours, 48 hours, and 72 hours. Each time we recorded the start time, end time, and total hours elapsed from the previous measurement. 
 
-To analyze the data, we planned to use 2 two- sample t-tests. 
+To analyze the data, we planned to use 2 two- sample t_tests. 
 
 
 
@@ -39,7 +39,7 @@ Figure 2 below is a hypothetical display of the results we expected to see had o
 
 Figure 3 below is a hypothetical display of possible results based on the results we saw from our experiment, as well as the results communicated in Terry et.al (2009). The displayed results could be a more likely outcome of this experiment had the Physarum grown as expected. This graph is specifically modeled after figure 3 in the results section of the experiment conducted by Terry et.al (2009). This graph is not a display of data collected during our experiment. In this graph the Physarum was not inhibited until after the first 48 hours and the culture treated with 5mM CaCl2 was more inhibited than the culture treated with 2mM CaCl2 which was more inhibited than the culture treated with 0mM CaCl2. 
 
-When we conducted 2 sample t-tests on the data retrieved from our experiment, there was no significance found. However, in the similar experiment conducted by Terry et.al (2009) both the 1mM CaCl2 and the 2mM CaCl2 samples were significant. This is an indicator that figure 3 may be the best representation of similar experiments to the one we conducted. 
+When we conducted 2 sample t_tests on the data retrieved from our experiment, there was no significance found. However, in the similar experiment conducted by Terry et.al (2009) both the 1mM CaCl2 and the 2mM CaCl2 samples were significent. This is an indicator that figure 3 may be the best representation of similar experiments to the one we conducted. 
 
 
 Discussion:

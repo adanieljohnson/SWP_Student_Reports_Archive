@@ -16,20 +16,20 @@ Introduction:
 The Manduca Sexta is a bug with a holometabolous life cycle. The growth of this insect is regulated by hormones; including Juvenile Hormone (JH). In this experiment, we will use the hormone azadirachtin to study the influence on the Manduca. Azadirachtin is an insect growth regulator (IGR). This means it affects the physiological regulatory processes of the insect, which are essential for its development. In ScienceDirect (1), we can find that a low intake of azadirachtin by larvae will make them pupate, but the resulting pupates would be defective for the most part. A high dosis of the hormone would lead to an uncomplete development, moulting to supernumerary larvae or dying as larvae. Our hypothesis is that Manduca sexta given food mixed with azadirachtin will cause greater larvae growth and prevent the larvae from pupating, compared to Manduca Sexta that receive food without azadyrachtin. This would happen because azadirachtin is an ecdysterone (20E) blocker, so it should prevent the spikes in 20E that correspond with molts or the start of pupation. Since JH is still present, they will continue to grow in their larvae phase. 
 
 
-Materials and Methods:
-First, we placed each of 8 Manduca Sexta larvae in separate containers: 4 caterpillars (experiment group) will receive 10g of food each, mixed with azadirachtin in the amount of 6 drops per every 10g. The 4 remaining caterpillars (control group) will receive 10g of food each, but with 6 drops of distilled water instead of azadyrachtin. We weighed each caterpillar every day for two weeks. As the food dries out, we replaced it in the same manner and amount as was originally done.
+Materials and Method:
+First, we placed each of 8 Manduca Sexta larvae in separate containers: 4 caterpillars (experiment group) will receive 10g of food each, mixed with azadirachtin in the amount of 6 drops per every 10g. The 4 remaining caterpillars (controll group) will receive 10g of food each, but with 6 drops of distilled water instead of azadyrachtin. We weighed each caterpillar every day for two weeks. As the food dries out, we replaced it in the same manner and amount as was originally done.
 
 Results:
 
 Control group: 1.0175 +/- 1.18719207
 Experiment group: -1.4325 +/- 0.36178953
-One-tail p-value: 0.00084253
+One-tail p_value: 0.00084253
 t-value:2.35336343                                                        
 
 
 
 Discussion:
-The stats are significant, so the nul hypothesis is rejected. As citated in ScienceDirect (2), Azadirachtin is used as a botanical insecticide. It affects a wide variety of biological processes, including reduction of feeding, suspension of molting, death of larvae and pupae, and sterility of emerged adults in a dose-dependent manner. However, the caterpillars we fed with azadirachtin were still able to pupate. This means our hypothesis isn’t supported. There was still one caterpillar in the experiment group who didn’t pupate. A reason for that could be that this one caterpillar was the lightest of the experimental group in the beginning of the experiment. This could lead to a slower pupation because there is less body mass, leading to less capacity to grow, maybe because he wasn’t able to eat as much food as the other caterpillars. On the other hand, the lightest caterpillar in the control group pupated first. Maybe this is because the influence of azadirachtin depends on the body mass of the target organism. Another reason for that could be that larvae with a greater body mass have a bigger amount of target cells for azadirachtin to influence. Overall, the azadirachtin made the caterpillars smaller, which is a good reason why azadirachtin is used as a pesticide.
+The stats are significent, so the nul hypothesis is rejected. As citated in ScienceDirect (2), Azadirachtin is used as a botanical insecticide. It affects a wide variety of biological processes, including reduction of feeding, suspension of molting, death of larvae and pupae, and sterility of emerged adults in a dose-dependent manner. However, the caterpillars we fed with azadirachtin were still able to pupate. This means our hypothesis isn’t supported. There was still one caterpillar in the experiment group who didn’t pupate. A reason for that could be that this one caterpillar was the lightest of the experimental group in the beginning of the experiment. This could lead to a slower pupation because there is less body mass, leading to less capacity to grow, maybe because he wasn’t able to eat as much food as the other caterpillars. On the other hand, the lightest caterpillar in the controll group pupated first. Maybe this is because the influence of azadirachtin depends on the body mass of the target organism. Another reason for that could be that larvae with a greater body mass have a bigger amount of target cells for azadirachtin to influence. Overall, the azadirachtin made the caterpillars smaller, which is a good reason why azadirachtin is used as a pesticide.
 
 Literature Cited:
 1.	[U.Schlüter: 1985]. Azadirachtin affects growth and endocrine events in larvae of the tobacco hornworm, Manduca sexta. Journal of Insect Physiology. 9/24/2018. https://www.sciencedirect.com/science/article/pii/0022191085900708
@@ -61,7 +61,7 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1: This graph represents the weight of the caterpillars in function of the time. From top to bottom in the legend, the lines respectively represent C1, C2, C3, C4, E1, E2, E3 and E4. C standing for the control group and E standing for the experiment group. The numbers 1 to 4 represent each caterpillar in a group.
+Figure 1: This graph represents the weight of the caterpillars in function of the time. From top to bottom in the legend, the lines respectively represent C1, C2, C3, C4, E1, E2, E3 and E4. C standing for the controll group and E standing for the experiment group. The numbers 1 to 4 represent each caterpillar in a group.
 Figure 2: This is a graph of the average change in mass of both groups in the experiment. *************************************************************************
 
 

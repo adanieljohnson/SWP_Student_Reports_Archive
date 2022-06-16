@@ -1,41 +1,41 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a revision of a previous lab report.
-Date submitted: 2017-10-30 19:10:39
+Date submitted: 2017-10-30 19: 10:39
 Author of this lab report is: Std_2i4HK6PQ
 Course number: BIO101L
 TA: TA_TaMqWbpv
 *************************************************************************
-Title: The Effect of Caffeine on the Contraction Amplitude of Rana pipiens Gastrocnemius Muscle
+Title: The Effect of Caffeine on the Contraction Amplitude of Rania pipiens Gastrocnemius Muscle
 
 Abstract:
-The objective of this lab was to test the effect of caffeine on muscle contraction amplitude. Calcium is a key molecule in activating the muscular machinery required for muscle contraction to occur, as it binds to troponin and allows for myosin to bind to thin filaments and muscle contraction to take place. The muscle tissue from the leg of the Rana pipiens was stimulated. The gastrocnemius muscle was stimulated and then injected with caffeine and further stimulated. It was hypothesized that caffeine would increase the contraction amplitude of the Rana pipiens gastrocnemius muscle and statistical analysis suggests that the data validates a rejection of the null and supports the alternate hypothesis. The results of this experiment support the conclusion that caffeine promotes the release of calcium into the sarcomeres of muscle cells, which allows for a greater contraction amplitude.
+The objective of this lab was to test the effect of caffeine on muscle contraction amplitude. Calcium is a key molecule in activating the muscular machinery required for muscle contraction to occur, as it binds to troponin and allows for myosin to bind to thin filaments and muscle contraction to take place. The muscle tissue from the leg of the Rania pipiens was stimulated. The gastrocnemus muscle was stimulated and then injected with caffeine and further stimulated. It was hypothesized that caffeine would increase the contraction amplitude of the Rania pipiens gastrocnemus muscle and statistical analysis suggests that the data validates a rejection of the null and supports the alternate hypothesis. The results of this experiment support the conclusion that caffeine promotes the release of calcium into the sarcomeres of muscle cells, which allows for a greater contraction amplitude.
 
 Introduction:
-The nervous system is essential to our body and its ability to respond to external stimuli. The nervous system is much faster than endocrine signaling, and allows for significantly quicker responses to prevent injury. The nervous system is joined together by a series of functional units called neurons, which allow for the generation and transmission of action potentials which serve as messaging signals that either cause the further depolarization of another neuron or, the contraction of a muscle cell. There are several different types of neurons that perform different jobs. Motor neurons connect the nervous system to the muscular system of the body and allow for physical movement in response to stimuli. 
+The nervous system is essential to our body and its ability to respond to external stimuli. The nervous system is much faster than endocrine signaling, and allows for significently quicker responses to prevent injury. The nervous system is joined together by a series of functional units called neurons, which allow for the generation and transmission of action potentials which serve as messaging signals that either cause the further depolarization of another neuron or, the contraction of a muscle cell. There are several different types of neurons that perform different jobs. Motor neurons connect the nervous system to the muscular system of the body and allow for physical movement in response to stimuli. 
 	Muscle contraction involves more than just an action potential and a muscle cell. There are vital molecules that must be present for the action potential to result in contraction of muscle. Calcium is one of these vital molecules that is responsible for activating the contractile mechanisms of the muscle. Calcium molecules are stored in the sarcoplasmic reticulum in muscle cells, when an action potential acts on muscle cell it stimulates the release of calcium which then binds to the thin filaments of the muscle. Thin filaments are composed of troponin and tropomyosin, calcium binds to troponin which results in the exposure of myosin binding sites on the tropomyosin. These binding sites allow the thick filament myosin to bind to the tropomyosin and thus muscle contraction occurs. This process can only occur if there is calcium present, if calcium levels are too low then muscle contraction cannot take place and thus there can be no physical response to the external stimuli. 
-	It has been shown that caffeine acts to potentiate calcium release and thus has a direct impact on the concentration of calcium in muscle cells. In an experiment conducted by Isaacson and Sandow it was shown that caffeine increases both the uptake and release of calcium in frog muscle by 50 percent [Isaacson: 1967]. This influx of calcium allows for a lowered action potential threshold value which subsequently increases twitch potentiation [Isaacson: 1967]. Based on this information it is thought that caffeine could potentially affect the contraction amplitude of the Rana pipiens gastrocnemius muscle due to the lowered threshold value and the increased likelihood for contraction to occur. The purpose of this experiment is to test the effect of caffeine of muscle contraction amplitude and it is hypothesized that by adding caffeine to the Rana pipiens gastrocnemius will increase the contraction amplitude of the muscle. 
+	It has been shown that caffeine acts to potentiate calcium release and thus has a direct impact on the concentration of calcium in muscle cells. In an experiment conducted by Isaacson and Sandow it was shown that caffeine increases both the uptake and release of calcium in frog muscle by 50 percent [Isaacson: 1967]. This influx of calcium allows for a lowered action potential threshold value which subsequently increases twitch potentiation [Isaacson: 1967]. Based on this information it is thought that caffeine could potentially affect the contraction amplitude of the Rania pipiens gastrocnemus muscle due to the lowered threshold value and the increased likelihood for contraction to occur. The purpose of this experiment is to test the effect of caffeine of muscle contraction amplitude and it is hypothesized that by adding caffeine to the Rania pipiens gastrocnemus will increase the contraction amplitude of the muscle. 
 
 
-Materials and Methods:
-The muscle being tested comes from the organism Rana pipiens. The sciatic nerve and gastrocnemius muscle were isolated in the frog in order to be directly electrically stimulated and subsequently injected with the 200 Mm caffeine solution. The muscle will be stimulated with 5 pulses each time before and after the injection of caffeine and obtain thorough myograms. 
+Materials and Method:
+The muscle being tested comes from the organism Rania pipiens. The sciatic nerve and gastrocnemus muscle were isolated in the frog in order to be directly electrically stimulated and subsequently injected with the 200 Mm caffeine solution. The muscle will be stimulated with 5 pulses each time before and after the injection of caffeine and obtain thorough myograms. 
 1.	Prepare frog leg by detaching it and removing the skin. Once the skin is removed isolate the sciatic nerve by separating the thigh muscle and revealing the white nerve, making sure not to touch the sciatic nerve with and metal dissection equipment. 
-2.	After the sciatic nerve is exposed, isolate the gastrocnemius by severing the Achilles tendon.
-3.	Tie a string around the remaining tendon and suspend the gastrocnemius muscle at a 90-degree angle using the suspension equipment. Pin down the rest of the frog leg making sure not to touch the sciatic nerve.
-4.	Connect BNC connector of the pin electrodes to the gastrocnemius muscle or use the BNC sleeve connector and attach it directly to the sciatic nerve
+2.	After the sciatic nerve is exposed, isolate the gastrocnemus by severing the Achilles tendon.
+3.	Tie a string around the remaining tendon and suspend the gastrocnemus muscle at a 90-degree angle using the suspension equipment. Pin down the rest of the frog leg making sure not to touch the sciatic nerve.
+4.	Connect BNC connector of the pin electrodes to the gastrocnemus muscle or use the BNC sleeve connector and attach it directly to the sciatic nerve
 5.	Open LabScribe software. Set Amplitude to 1 V, Frequency (F(Hz)) to 1, Pulses to 5, and time in between each pulse to 5 milliseconds. 
 6.	Stimulate the frog leg by running the simulator and record the data for each of the 5 pulses. Find the average of these data points later.
-7.	Run stimulation again. After 5 pulses inject the frog leg with 1 ml of 200 Mm Caffeine solution.
+7.	Run stimulation again. After 5 pulses inject the frog leg with 1 Ml of 200 Mm Caffeine solution.
 8.	Run another simulation again with 5 pulses to obtain 5 more myograms 
 9.	Compare the contraction amplitudes and record data.   
-10.	Run statistical analysis using a one tail paired t-test.
+10.	Run statistical analysis using a one tail paired t_test.
 
 
 Results:
-After the injection of caffeine into the frog gastrocnemius muscle there was an almost instantaneous hardening of the muscle as the caffeine caused chemically induced tetany. There was an increase in contraction amplitudes after caffeine was injected into the muscle (Figure 1). Data was run through a one-tailed paired t-test, which resulted in a p-value of .00338 and a t-value of 17.157. 
+After the injection of caffeine into the frog gastrocnemus muscle there was an almost instantaneous hardening of the muscle as the caffeine caused chemically induced tetany. There was an increase in contraction amplitudes after caffeine was injected into the muscle (Figure 1). Data was run through a one-tailed paired t_test, which resulted in a p_value of .00338 and a t-value of 17.157. 
 
 Discussion:
-Statistical analysis resulted in a p value that was less than .05, which allowed for the rejection of the null hypothesis and the support of our alternate hypothesis. The data supports our alternate hypothesis that the injection of caffeine would result in a greater contraction amplitude in the Rana pipiens gastrocnemius muscle. This can be explained by the effect of caffeine on the concentration of calcium in muscle cells. Caffeine enhances the depolarization-induced calcium release caused by extra potassium or an action potential [Isaacson: 1967]. This effect is coupled with caffeine’s ability to increase twitch potentiation by lowering action potential thresholds [Isaacson: 1967]. These effects of caffeine allow for greater concentration of calcium to flow into the sarcomeres and produce prolonged periods of muscle contraction. It most likely because of this effect of caffeine that the contraction amplitude was greater after injection as there was more calcium and lower threshold values which allowed for maximal muscle contraction. 
+Statistical analysis resulted in a p value that was less than .05, which allowed for the rejection of the null hypothesis and the support of our alternate hypothesis. The data supports our alternate hypothesis that the injection of caffeine would result in a greater contraction amplitude in the Rania pipiens gastrocnemus muscle. This can be explained by the effect of caffeine on the concentration of calcium in muscle cells. Caffeine enhances the depolarization-induced calcium release caused by extra potassium or an action potential [Isaacson: 1967]. This effect is coupled with caffeine’s ability to increase twitch potentiation by lowering action potential thresholds [Isaacson: 1967]. These effects of caffeine allow for greater concentration of calcium to flow into the sarcomeres and produce prolonged periods of muscle contraction. It most likely because of this effect of caffeine that the contraction amplitude was greater after injection as there was more calcium and lower threshold values which allowed for maximal muscle contraction. 
 	 There are no known errors in our experiment, however to build upon the findings of this experiment another test should be performed, this time manipulating calcium concentrations by employing the use of calcium blockers. This experiment would show the result of a lack of calcium in muscle cells and these results could be compared to the data of this experiment. By conducting this second experiment it could potentially provide further insight on the role of calcium in muscle contraction. The results of the hypothetical future experiment in conjunction with the results of this experiment could potentially lead to a greater understanding of how caffeine effects muscles. This information could be applied to more real-world situations involving the potential benefits or harmful effects of using high concentrations of caffeine. 
 
 
@@ -54,11 +54,11 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. Average contraction amplitude of Rana pipiens gastrocnemius
+Figure 1. Average contraction amplitude of Rania pipiens gastrocnemus
 	      muscle measured in volts with caffeine and without (Control). Error bars 
 	      represent standard deviation while data bars represent average contraction
-	      amplitude. Difference between control (n=2) and experimental
-	      (n=2) means were significant (one-tail paired t-test, t=17.16, p=.0034).
+	      amplitude. Difference between controlll (n=2) and experimental
+	      (n=2) means were significent (one-tail paired t_test, t=17.16, p=.0034).
 
 
 *************************************************************************

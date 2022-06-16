@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2018-02-26 12:43:14
+Date submitted: 2018-02-26 12:43: 14
 Author of this lab report is: Std_H39zYAAm
 ID: R_9SjUPtlcjxzCreR
 Course number: BIO103L
@@ -10,22 +10,22 @@ TA: TA_YiRfsy28
 Title: The Inconclusive Effects of Salinity in Water on the Growth of Vigna Radiata
 
 Abstract:
-Environmental factors play a large role in the ability of plants to thrive. This experiment examines, particularly, the effect of salt on plant growth (in this case mung beans) as it has been known to hinder proper processes [Bayer and Njue: 2016]. Plants were grown in two groups (one treated with water and the other salt water) over a two week period in order to conduct a two sample t-test to determine significant difference in root:shoot ratios between the two groups. The statistical test showed a high probability of our results occurring at random as the data were very similar. 
+Environmental factors play a large role in the ability of plants to thrive. This experiment examines, particularly, the effect of salt on plant growth (in this case mung beans) as it has been known to hinder proper processes [Bayer and Njue: 2016]. Plants were grown in two groups (one treated with water and the other salt water) over a two week period in order to conduct a two sample t_test to determine significent difference in root:shoot ratios between the two groups. The statistical test showed a high probability of our results occurring at random as the data were very similar. 
 
 Introduction:
-In their utilization of available resources, plants must contend with some variability in their environments. Rather advantageous or disadvantageous, the things present play a role in their development. Through studies of these various factors, we can discover ways to better allow plants to flourish. Moving to a more specific area, extra salinity in water is known to block the uptake of necessary nutrients like potassium and phosphorus [Bayer and Njue: 2016]. In the context of areas that face runoff from areas possessing salt, such as roads, this can be vital information for plant health. Applying these concepts specifically to mung bean plants (Vigna radiata), I would hypothesize that watering the plants with salt water would result in a larger root:shoot ratio as compared with the control group watered with regular water. In the context of this experiment, mung beans were pertinent to the research thanks to the speed of their growth. This might reflect in greater movements the effects of unfavorable conditions on the growth of plants. 
+In their utilization of available resources, plants must contend with some variability in their environments. Rather advantageous or disadvantageous, the things present play a role in their development. Through studies of these various factors, we can discover ways to better allow plants to flourish. Moving to a more specific area, extra salinity in water is known to block the uptake of necessary nutrients like potassium and phosphorus [Bayer and Njue: 2016]. In the context of areas that face runoff from areas possessing salt, such as roads, this can be vital information for plant health. Applying these concepts specifically to mung bean plants (Vigna radiata), I would hypothesize that watering the plants with salt water would result in a larger root:shoot ratio as compared with the controll group watered with regular water. In the context of this experiment, mung beans were pertinent to the research thanks to the speed of their growth. This might reflect in greater movements the effects of unfavorable conditions on the growth of plants. 
 
-Materials and Methods:
-To test this hypothesis, there will be two test groups, one being a treatment group and the other being a control group. Both of these groups will be kept in a greenhouse to reduce variability in abiotic factors such as temperature, light, and humidity. Both groups are also planted in vermiculite and fertilizer. After this, the treatment group will be watered in salt water rather than normal water, with both groups receiving liberal amounts of water. Following a two week growth period, the weights, lengths, and ratios of the roots and shoots of the plants will be measured. These measurements will be compared using a one tail, two sample t test to assess the validity of the hypothesis. 
+Materials and Method:
+To test this hypothesis, there will be two test groups, one being a treatment group and the other being a controll group. Both of these groups will be kept in a greenhouse to reduce variability in abiotic factors such as temperature, light, and humidity. Both groups are also planted in vermiculite and fertilizer. After this, the treatment group will be watered in salt water rather than normal water, with both groups receiving liberal amounts of water. Following a two week growth period, the weights, lengths, and ratios of the roots and shoots of the plants will be measured. These measurements will be compared using a one tail, two sample t test to assess the validity of the hypothesis. 
 
 
 Results:
 In examining the averages from all of the measurements between both groups, it becomes apparent that the R:S ratios are not dramatically different between the two. Furthermore, accounting for the standard deviations, the two are within single standard deviations of each other.
-With the results of our statistical tests listed in Figure 3, we can quickly deduce that the groups are not statistically different from each other. With both the weights and lengths, there is greater than a 50% chance that the results could have happened at random (from the p-value). 
+With the results of our statistical tests listed in Figure 3, we can quickly deduce that the groups are not statistically different from each other. With both the weights and lengths, there is greater than a 50% chance that the results could have happened at random (from the p_value). 
 
 
 Discussion:
-Referring back to the original hypothesis, there is no evidence from the data to support the theory that being watered with salt water would lead to greater root:shoot ratios. There was not enough variation between the control and treatment group to hold up this conclusion. While this is true, the plants were mostly dead at the end of the growing period, so had they been thriving, there could be some incongruence between the data presented here and the results in another scenario. However, purely going based off of the evidence collected, it does not seem that the presence of salt in water has any great impact on the growth of plants. Perhaps it could also help to explain the resiliency of plants in environments that are not entirely ideal. As the mung bean plants in this experiment seemed indifferent to their source of water, they could be completely fine in adverse conditions. 
+Referring back to the original hypothesis, there is no evidence from the data to support the theory that being watered with salt water would lead to greater root:shoot ratios. There was not enough variation between the controll and treatment group to hold up this conclusion. While this is true, the plants were mostly dead at the end of the growing period, so had they been thriving, there could be some incongruence between the data presented here and the results in another scenario. However, purely going based off of the evidence collected, it does not seem that the presence of salt in water has any great impact on the growth of plants. Perhaps it could also help to explain the resiliency of plants in environments that are not entirely ideal. As the mung bean plants in this experiment seemed indifferent to their source of water, they could be completely fine in adverse conditions. 
 
 
 Literature Cited:
@@ -58,6 +58,6 @@ Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 Figure Legends: 
 Figure 1: Mean and Standard Deviation values for the varying measurements amongst the mung bean plants
 Figure 2: Graphical Representation of Fig 1.
-Figure 3: Results of statistical tests looking for significant differences between the control and treatment groups.
+Figure 3: Results of statistical tests looking for significent differences between the controll and treatment groups.
 
 *************************************************************************

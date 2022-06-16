@@ -10,30 +10,30 @@ TA: TA_QsMOD6cQ
 Title: The examination of resource allocation to the roots and shoots of Vigna radiata in excessively watered conditions
 
 Abstract:
-This study examines the effects of over and underwatering on a population of mung beans (Vigna radiata). We hypothesized that the overwatered plants would have a smaller root to shoot ratio in both weight and length when compared to the underwatered plants. The results showed that our hypothesis was supported in weight ratios, but not length. However, the p-values deemed the differences in data to not be significantly significant. This study could have future implications in climate change research to maintain the crop yield of mung beans in times of drought and excess precipitation.
+This study examines the effects of over and underwatering on a population of mung beans (Vigna radiata). We hypothesized that the overwatered plants would have a smaller root to shoot ratio in both weight and length when compared to the underwatered plants. The results showed that our hypothesis was supported in weight ratios, but not length. However, the p_values deemed the differences in data to not be significently significent. This study could have future implications in climate change research to maintain the crop yield of mung beans in times of drought and excess precipitation.
 
 
 Introduction:
 Resource limitation impacts which species outcompete others, as more fit organisms will take all of the resources from the unfit organisms. Plants will allocate their resources based on what resources are available to them. This study observed the way that Vigna radiata, colloquially known as mung beans, allocated its resources based on whether it was over or underwatered. We hypothesized that if the mung beans were overwatered they would have smaller roots, and subsequently a smaller root to shoot ratio because the resources are plentiful and energy does not need to be allocated to the roots. We also hypothesized that the reverse would be true, and that if  the mung beans were underwatered, they would have a larger root to shoot ratio because more energy would be allocated to the roots to make up for the lack of available resources. 
 
 
-Materials and Methods:
-Obtain six trays of vermiculite and plant ten Vigna radiata seeds in each tray. Designate three of the six trays as being underwatered (100 mL water) and the other three to be overwatered (300 mL water). The trays are then watered their specified amounts, daily, for the next two weeks.
-	Once the two weeks have passed the mung beans are mature enough to be measured. Harvest one small plant from each of the six trays and separate the root from the shoot by cutting it at the root-shoot junction. To keep this location standard, the root-shoot junction was deemed to be where the color changed from green to a purplish hue. The roots and shoots are then weighed separately in order to calculate the root to shoot weight ratios. Next, the roots and shoots will be measured in millimeters. The shoot length calculation will include the leaf at the topmost point of the stem. The root to shoot length ratio will then be calculated. The mean and standard deviation of both the weight and length ratios will be found, and a two-tailed t-test will be utilized to determine if the data is statistically significant. 
+Materials and Method:
+Obtain six trays of vermiculite and plant ten Vigna radiata seeds in each tray. Designate three of the six trays as being underwatered (100 Ml water) and the other three to be overwatered (300 Ml water). The trays are then watered their specified amounts, daily, for the next two weeks.
+	Once the two weeks have passed the mung beans are mature enough to be measured. Harvest one small plant from each of the six trays and separate the root from the shoot by cutting it at the root-shoot junction. To keep this location standard, the root-shoot junction was deemed to be where the color changed from green to a purplish hue. The roots and shoots are then weighed separately in order to calculate the root to shoot weight ratios. Next, the roots and shoots will be measured in millimeters. The shoot length calculation will include the leaf at the topmost point of the stem. The root to shoot length ratio will then be calculated. The mean and standard deviation of both the weight and length ratios will be found, and a two-tailed t_test will be utilized to determine if the data is statistically significent. 
 
 
 Results:
-The mean root to shoot weight ratio in the 100 mL mung beans was 1.26, with a standard deviation of 0.09 (Figure 1). The mean root to shoot length ratio in the 100 mL mung beans was 1.23, with a standard deviation of 0.04 (Figure 1). The mean root to shoot weight ratio in the 300 mL mung beans was 0.99, with a standard deviation of 0.21 (Figure 2). The mean root to shoot length ratio in the 300 mL mung beans was 1.34, with a standard deviation of 0.23 (Figure 2). The two-tailed t-test produced p-values of 0.17 for the weight ratio and 0.53 for the length ratio (Figure 3).
+The mean root to shoot weight ratio in the 100 Ml mung beans was 1.26, with a standard deviation of 0.09 (Figure 1). The mean root to shoot length ratio in the 100 Ml mung beans was 1.23, with a standard deviation of 0.04 (Figure 1). The mean root to shoot weight ratio in the 300 Ml mung beans was 0.99, with a standard deviation of 0.21 (Figure 2). The mean root to shoot length ratio in the 300 Ml mung beans was 1.34, with a standard deviation of 0.23 (Figure 2). The two-tailed t_test produced p_values of 0.17 for the weight ratio and 0.53 for the length ratio (Figure 3).
 
 
 Discussion:
-The hypothesis was that the 100 mL mung beans would have a larger root to shoot ratio in both length and weight than the 300 mL mung beans. This would be because the excess water would allow the plant to allocate more resources to the shoot because the excess water eliminates the need to focus on the roots. The 100 mL weight ratio was larger than the 300 mL ratio, which supports the hypothesis. However, the 100 mL length ratio was smaller than the 300 mL ratio, which rejects the hypothesis. Once the two-tailed t-test was performed, the p-values revealed that the differences in the ratios are not significantly different. 
+The hypothesis was that the 100 Ml mung beans would have a larger root to shoot ratio in both length and weight than the 300 Ml mung beans. This would be because the excess water would allow the plant to allocate more resources to the shoot because the excess water eliminates the need to focus on the roots. The 100 Ml weight ratio was larger than the 300 Ml ratio, which supports the hypothesis. However, the 100 Ml length ratio was smaller than the 300 Ml ratio, which rejects the hypothesis. Once the two-tailed t_test was performed, the p_values revealed that the differences in the ratios are not significently different. 
 The ways the resources are allocated depends on what is available to the plant, because “plants optimize their behaviour by maximizing their relative growth rate”(Argen 2003), and this is expressed in the root to shoot ratios that were calculated. In this study, one set of plants were overwatered and the other was underwatered. Other similar studies have shown that the “root dry matter was the first to be affected” (Musgrave 1989),  and that “plants may try to obtain water in soil by enhancing its root system” (Xu 2010). The results of these studies and the study performed in this lab reveal that a plant will allocate its resources towards the shoot if water is abundant enough to eliminate the need to aid the root growth. This has further implications in the developing research on climate change, because the fluctuation between drought and excess rain (ex. hurricanes) could have negative impacts on mungbean agricultural growth. 
 
 
 Literature Cited:
-Xu, Z., Zhou, G., & Shimizu, H. (2010). Plant responses to drought and rewatering. Plant                    	    signaling & behavior, 5(6), 649–654. doi:10.4161/psb.5.6.11398
-Agren, G. I., & Franklin, O. (2003). Root : shoot ratios, optimization and nitrogen productivity.                                              	   Annals of botany, 92(6), 795–800. doi:10.1093/aob/mcg203	 	 	 	
+Xu, Z., Zhou, G., & Shimizu, H. (2010). Plant responses to drought and rewatering. Plant                    	    signaling & behavior, 5(6), 649–654. doi: 10.4161/psb.5.6.11398
+Agren, G. I., & Franklin, O. (2003). Root : shoot ratios, optimization and nitrogen productivity.                                              	   Annals of botany, 92(6), 795–800. doi: 10.1093/aob/mcg203	 	 	 	
 Musgrave, M.E., & Vanhoy, M.A. (1989). A growth analysis of waterlogging damage in mung 	                                                                                                      	   bean (Phaseolus aureus). Canadian Journal of Botany,  67(8): 2391-2395. 
 
 
@@ -62,13 +62,13 @@ Figure 4: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Table 1: Root : Shoot Ratios of Vigna radiata watered 100 mL daily
+Table 1: Root : Shoot Ratios of Vigna radiata watered 100 Ml daily
 
-Table 2: Root : Shoot Ratios of Vigna radiata watered 300 mL daily
+Table 2: Root : Shoot Ratios of Vigna radiata watered 300 Ml daily
 
-Table 3: Two-tailed t-test p-values of root : shoot weight and length ratios
+Table 3: Two-tailed t_test p_values of root : shoot weight and length ratios
 
-Figure 1: Comparison of Root : Shoot Ratios in 100 mL and 300 mL Watered Vigna radiata
+Figure 1: Comparison of Root : Shoot Ratios in 100 Ml and 300 Ml Watered Vigna radiata
 *************************************************************************
 
 

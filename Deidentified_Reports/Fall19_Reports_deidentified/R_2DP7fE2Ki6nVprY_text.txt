@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2019-09-24 23:16:20
+Date submitted: 2019-09-24 23: 16:20
 Author of this lab report is: Std_GYGCHLVT
 ID: R_2DP7fE2Ki6nVprY
 Course number: BIO101L
@@ -17,16 +17,16 @@ This experiment strives to explore the effects of the hormone ecdysterone (20E) 
 It can be hypothesized that feeding E20 inhibitors to the Manduca Sexta insects will slow the timing of the molting process during development, resulting in decreased mass gain, and prevent it from pupating at the proper time. 
 
 
-Materials and Methods:
-8 caterpillars were picked out and separated into 2 containers that each have four different compartments. Half of the caterpillars were labeled as the control group and half of the caterpillars were labeled as the experimental group. The plastic containers were hole punched for steady air exchange. Since the goal of the experiment is to investigate the effects of E20 of the growth and development of the insect, the experimental group was given E20 inhibitors--Aza guard. Seven drops of Aza guard was mixed into the food for the experimental group caterpillars; the control group had water mixed with their food. Each of the caterpillars were given 10grams of food to begin with, and more was added during the data recording process when needed. The caterpillars were checked everyday for weight gain, and the food was checked to see if it was still moist. The containers were cleaned when feces built up. Weight gain was checked through weighing the caterpillars individually on a scale. The dependent variable in this experiment would be growth rate, which was measured in weight gain, while the independent variable in this experiment is whether the caterpillars were given hormones. A mean and standard deviation were determined each of the groups, and a t-test was performed to determine the significance of the data collected.
+Materials and Method:
+8 caterpillars were picked out and separated into 2 containers that each have four different compartments. Half of the caterpillars were labeled as the controll group and half of the caterpillars were labeled as the experimental group. The plastic containers were hole punched for steady air exchange. Since the goal of the experiment is to investigate the effects of E20 of the growth and development of the insect, the experimental group was given E20 inhibitors--Aza guard. Seven drops of Aza guard was mixed into the food for the experimental group caterpillars; the controll group had water mixed with their food. Each of the caterpillars were given 10grams of food to begin with, and more was added during the data recording process when needed. The caterpillars were checked everyday for weight gain, and the food was checked to see if it was still moist. The containers were cleaned when feces built up. Weight gain was checked through weighing the caterpillars individually on a scale. The dependent variable in this experiment would be growth rate, which was measured in weight gain, while the independent variable in this experiment is whether the caterpillars were given hormones. A mean and standard deviation were determined each of the groups, and a t_test was performed to determine the significance of the data collected.
 
 
 Results:
-The mean growth rate of the control group is 0.85325g/day while the mean growth rate for the experimental group is 0.079g/day. The standard deviation for the control group is 0.223, and the standard deviation for the experimental group is 0.047. A t-test was run for the control versus experimental group, and the t-value was 6.79. The p-value for this data set is 0.000498. 
+The mean growth rate of the controll group is 0.85325g/day while the mean growth rate for the experimental group is 0.079g/day. The standard deviation for the controll group is 0.223, and the standard deviation for the experimental group is 0.047. A t_test was run for the controll versus experimental group, and the t-value was 6.79. The p_value for this data set is 0.000498. 
 
 
 Discussion:
-The p-value suggests that we can reject the null hypothesis, and that the difference of growth rate detected in this experiment is significant and not due to chance. The mean growth rate is much higher for the control group than the experimental group, although the control group has more variation. The hypothesis is supported by the results since the group given E20 inhibitors experiences significantly slower growth rates. These effects can be attributed to the lack of Ecdysterone the caterpillars are experiencing. Ecdysterone is the hormone that control growth and molting[Johnson: 2019]; therefore, it is reasonable to conclude that a lack of these hormones will cause a decrease in growth rate. The azo guard that was fed to the caterpillars were effectively inhibiting the proper release the E20 hormone, which kept the growth rate of the experimental caterpillars much lower than the control group. These effects are robust and consistent of all the experimental group caterpillars. 
+The p_value suggests that we can reject the null hypothesis, and that the difference of growth rate detected in this experiment is significent and not due to chance. The mean growth rate is much higher for the controll group than the experimental group, although the controll group has more variation. The hypothesis is supported by the results since the group given E20 inhibitors experiences significently slower growth rates. These effects can be attributed to the lack of Ecdysterone the caterpillars are experiencing. Ecdysterone is the hormone that controll growth and molting[Johnson: 2019]; therefore, it is reasonable to conclude that a lack of these hormones will cause a decrease in growth rate. The azo guard that was fed to the caterpillars were effectively inhibiting the proper release the E20 hormone, which kept the growth rate of the experimental caterpillars much lower than the controll group. These effects are robust and consistent of all the experimental group caterpillars. 
 
 Literature Cited:
 Johnson AD, Mallison s. 2016. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 19.2 (updated July 8, 2019), pp. 5-13
@@ -57,7 +57,7 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-figure1. comparison of growth rates of experimental vs. control groups
+figure1. comparison of growth rates of experimental vs. controll groups
 figure2. mean growth rates*************************************************************************
 
 

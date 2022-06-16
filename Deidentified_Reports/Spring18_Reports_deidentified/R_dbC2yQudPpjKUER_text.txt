@@ -1,7 +1,7 @@
 *************************************************************************
 Number of lab report in semester: first
 This is a submission.
-Date submitted: 2018-02-28 14:12:12
+Date submitted: 2018-02-28 14: 12: 12
 Author of this lab report is: Std_RQhdsI6n
 ID: R_dbC2yQudPpjKUER
 Course number: BIO103L
@@ -13,30 +13,30 @@ Abstract:
 i have not finished this section 
 
 Introduction:
-This experiment is designed to look at the resource allocation of plants in the canopy versus the understory of an environment. Canopy plants tower over other plants and therefore receive the most sunlight. Plants in the understory are shaded by those in the canopy and receive less sunlight. Plants absorb light in the 700 nm to 400 nm wavelength range. This range is called photosynthetically-active radiation. Chlorophyll a absorbs blue-violet light while chlorophyll b absorbs red-blue light. Both chlorophyll types reflect green light. This is why leaves, the main sites of photosynthesis, appear green. (https://www.uccs.edu/~dcorey2/ges2050/web/lab_6/Absorption%20of%20Light.html)
-For this experiment, we used radish plants as they are easy to cultivate and grow quickly in containers (https://garden.org/learn/articles/view/2702/). To mimic canopy and understory conditions, we placed three pots under clear filter paper. These plants receive the full spectrum of sunlight: high energy blue-violet wavelengths as well as low energy red-orange wavelengths. We then placed three pots under green filter paper meaning they receive a shorter spectrum of light with less energy. We hypothesized that the experimental plants under the green filter paper would try to minimize their resource limitation of sunlight by growing longer shoots than the plants under clear filter paper in order to obtain more energy. We measured the progress of the control and experimental groups in a controlled environment over the span of two weeks.
+This experiment is designed to look at the resource allocation of plants in the canopy versus the understory of an environment. Canopy plants tower over other plants and therefore receive the most sunlight. Plants in the understory are shaded by those in the canopy and receive less sunlight. Plants absorb light in the 700 nm to 400 nm wavelength range. This range is called photosynthetically-active radiation. Chlorophyll a absorbs blue-violet light while chlorophyll b absorbs red-blue light. Both chlorophyll types reflect green light. This is why leaves, the main sites of photosynthesis, appear green. (https://www.uccs.edu/~dcorey2/ges2050/web/lab_6/Absorption%20of%20Light.htMl)
+For this experiment, we used radish plants as they are easy to cultivate and grow quickly in containers (https://garden.org/learn/articles/view/2702/). To mimic canopy and understory conditions, we placed three pots under clear filter paper. These plants receive the full spectrum of sunlight: high energy blue-violet wavelengths as well as low energy red-orange wavelengths. We then placed three pots under green filter paper meaning they receive a shorter spectrum of light with less energy. We hypothesized that the experimental plants under the green filter paper would try to minimize their resource limitation of sunlight by growing longer shoots than the plants under clear filter paper in order to obtain more energy. We measured the progress of the controll and experimental groups in a controllled environment over the span of two weeks.
 
-Materials and Methods:
-Methods: 
+Materials and Method:
+Method: 
 1. Label three pots “Control” and three pots “Experimental”. 
 2. Fill each poth with the soil, approximately 50 radish seeds, and ___ of Miracle-Gro (plant food).
-3. Place the three experimental pots in one tray and the three control pots in another.
+3. Place the three experimental pots in one tray and the three controll pots in another.
 4. Water the plants until the tray drips to ensure all pots contain the maximum amount of water the soil can carry.
 5. Using wooden rods, tape, and filter paper to create tents that will provide different light rays to the two sets of plants. 
-6. Place the tent made of clear filter paper over the tray with the control pots. Place the tent made of green filter paper over the tray with the experimental pots. 
+6. Place the tent made of clear filter paper over the tray with the controll pots. Place the tent made of green filter paper over the tray with the experimental pots. 
 7. Water the plants to maximum capacity (as explained before) once a day for two weeks. 
 8. At the end of the two weeks, measure root weight and length as well as shoot weight and length of five plants from each pot then average these values. Record. 
 
 
 Results:
-The data shows that the experimental plants had an average shoot length of 117.2 mm while the control plants had an average shoot length of 100.2 mm. To evaluate the significance of these results a one-tailed T test was performed. The T test showed that the average shoot length of the control group was statistically significantly different than that of the experimental group (t-stat = 3.047211, df = 14, P = 0.004349).
+The data shows that the experimental plants had an average shoot length of 117.2 mm while the controll plants had an average shoot length of 100.2 mm. To evaluate the significance of these results a one-tailed T test was performed. The T test showed that the average shoot length of the controll group was statistically significently different than that of the experimental group (t_stat = 3.047211, d.f. = 14, P = 0.004349).
 
 
 Discussion:
-The results show that our null hypothesis that the experimental plants would have longer shoots than those of the control plants is correct. We reject the alternative hypothesis that the experimental and control groups show no difference in their shoot lengths. The plants were grown under the same conditions: same soil, water, and temperature. The only difference being the light rays each plot received. We attribute the statistically significant results to the filter papers placed over the plants. To improve upon this experiment, we could have averaged over five plants from each plot to obtain more data. We also could have used plants in the actual understory-canopy environment we attempted to mimic. This would be more difficult to control as many factors including: insects, human activity, etc could affect the growth of the plants. 
+The results show that our null hypothesis that the experimental plants would have longer shoots than those of the controll plants is correct. We reject the alternative hypothesis that the experimental and controll groups show no difference in their shoot lengths. The plants were grown under the same conditions: same soil, water, and temperature. The only difference being the light rays each plot received. We attribute the statistically significent results to the filter papers placed over the plants. To improve upon this experiment, we could have averaged over five plants from each plot to obtain more data. We also could have used plants in the actual understory-canopy environment we attempted to mimic. This would be more difficult to controll as many factors including: insects, human activity, etc could affect the growth of the plants. 
 
 Literature Cited:
-https://www.uccs.edu/~dcorey2/ges2050/web/lab_6/Absorption%20of%20Light.html
+https://www.uccs.edu/~dcorey2/ges2050/web/lab_6/Absorption%20of%20Light.htMl
 
 https://garden.org/learn/articles/view/2702/
 
@@ -68,6 +68,6 @@ Figure 3: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 Figure Legends: 
 Figure 1: Experimental (green filter paper) plant averages 
 Figure 2: Control (clear filter paper) plant averages 
-Figure 3: One tailed t-test comparing experimental and control shoot length 
+Figure 3: One tailed t_test comparing experimental and controll shoot length 
 
 *************************************************************************

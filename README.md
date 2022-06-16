@@ -12,7 +12,10 @@ Reports have been de-identified, and both author and grader names replaced with 
 
 This archive is intended to be a research resource. The terms of the Creative Commons license allow reports to be used for research and assessment purposes, but __does not allow commercial use in any form__. 
 
-The license also __explicitly states that users must attribute the original source__ when using these documents. Students are not permitted to submit or use these reports (in whole or in part) in any way that suggests they are the original author of the text. Failing to identify the original source is a violation of the Terms of Use.
+The license also __explicitly states that users must attribute the original source__ when using these documents. These terms mean students are not permitted to submit or use these reports (in whole or in part) in any way that suggests they are the original author of the text. Failing to identify the original source is a violation of the Terms of Use.
+
+If an instructor suspects students have used one or more of these documents inappropriately, please contact us for assistance. The individual files have embedded errors and formatting that clearly identify our texts as the original source of any copied materials.
+
 
 ## Acknowledgements
 

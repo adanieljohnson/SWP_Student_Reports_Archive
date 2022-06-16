@@ -7,10 +7,10 @@ ID: R_12DP9h0JQMU4jHt
 Course number: BIO103L
 TA: TA_YiRfsy28
 *************************************************************************
-Title: Effect of excess nitrogen on energy allocation in Pisum sativum (field pea) plants
+Title: Effect of excess nitrogen on energy allocation in Pisum sativun (field pea) plants
 
 Abstract:
-In this experiment, we wanted to examine how field pea plants allocated their energy differently if nitrogen was added to the soil. Energy allocation is an organism’s way of adjusting to the environment in order to obtain what it needs in the most energy-efficient way. To test this, we compared the growth of two groups of field peas (Pisum sativum), with one group having ⅓ cup excess nitrogen in the soil. After 14 days, we measured this difference in energy allocation by examining root:shoot ratios of the plants. Our results showed no growth in the treatment group, which had an average root:shoot ratio of 0.000, and much growth in the control group, which had an average root:shoot ratio of 0.596. The seeds in the treatment group also had mold growing on them. The lack of growth was most likely due to an error in preparation, specifically too much nitrogen being added to the soil, causing the soil to become toxic to the plant. Because of these results, our experiment was inconclusive. In future experiments, we would use 0.8g nitrogen to prevent the soil from becoming toxic. 
+In this experiment, we wanted to examine how field pea plants allocated their energy differently if nitrogen was added to the soil. Energy allocation is an organism’s way of adjusting to the environment in order to obtain what it needs in the most energy-efficient way. To test this, we compared the growth of two groups of field peas (Pisum sativun), with one group having ⅓ cup excess nitrogen in the soil. After 14 days, we measured this difference in energy allocation by examining root:shoot ratios of the plants. Our results showed no growth in the treatment group, which had an average root:shoot ratio of 0.000, and much growth in the controll group, which had an average root:shoot ratio of 0.596. The seeds in the treatment group also had mold growing on them. The lack of growth was most likely due to an error in preparation, specifically too much nitrogen being added to the soil, causing the soil to become toxic to the plant. Because of these results, our experiment was inconclusive. In future experiments, we would use 0.8g nitrogen to prevent the soil from becoming toxic. 
 
 Introduction:
 In order for plants to survive, grow, and thrive, it is necessary for them to allocate their resources. In other words, they use the resources they have in the most effective way possible to adjust what they need to what the environment is able to provide. 
@@ -25,16 +25,16 @@ In plants, energy is allocated to grow different parts of the plant depending on
 We predict that if nitrogen is added to the soil, then field peas will allocate their energy to their shoots, thus having a small root:shoot ratio.
 
 
-Materials and Methods:
-We started with 4 pots of field peas, adding 10 mL of Nutrigrow to each one. Two of the pots were out control plants, while the other two were our treatment plants. We added ⅓ cup of nitrogen to each treatment plant. After adding water to all the plots, we waited 14 days to allow the plants to grow before taking measurements. During this time, they were kept in warm conditions with access to sunlight, and were watered once every two days. After this period, we weighed and measured the length of the shoots and roots of the two groups of plants. Using a one-tailed two-sample t-test, we determined whether the difference in root:shoot ratio between the two plants was statistically significant. 
+Materials and Method:
+We started with 4 pots of field peas, adding 10 Ml of Nutrigrow to each one. Two of the pots were out controll plants, while the other two were our treatment plants. We added ⅓ cup of nitrogen to each treatment plant. After adding water to all the plots, we waited 14 days to allow the plants to grow before taking measurements. During this time, they were kept in warm conditions with access to sunlight, and were watered once every two days. After this period, we weighed and measured the length of the shoots and roots of the two groups of plants. Using a one-tailed two-sample t_test, we determined whether the difference in root:shoot ratio between the two plants was statistically significent. 
 
 Results:
-The root:shoot ratio of the control group had an average of 0.5860 with a standard deviation of 0.1238. The root:shoot ratio of the treatment group had an average of 0 with a standard deviation of 0. The results of the one-tailed two-sample t-test were (T-value=11.6, df=10, P-value=2.01E-7).
+The root:shoot ratio of the controll group had an average of 0.5860 with a standard deviation of 0.1238. The root:shoot ratio of the treatment group had an average of 0 with a standard deviation of 0. The results of the one-tailed two-sample t_test were (T-value=11.6, d.f.=10, P-value=2.01E-7).
 
 Discussion:
 Our hypothesis was not supported. We were correct in predicting the treatment group having a small root:shoot ratio, however, the only reason it is small is because the plants in the treatment group did not grow. The reason for this was most likely due to an excess of nitrogen added to the soil to the point where the soil was toxic to the seeds. This would explain not only why they did not grow, but also why there was mold found on the seed of the treatment group. 
 
-While there was a significant difference between the control and the treatment group, this difference was not due to the treatment group’s difference in where the plants allocated their energy, but rather in the fact that the treatment group’s plants did not sprout of grow at all. By the time measurements were taken, the seeds of the treatment group had grown mold on them. This caused all measurements for the treatment group to be zero, thus causing the significant difference in the data. 
+While there was a significent difference between the controll and the treatment group, this difference was not due to the treatment group’s difference in where the plants allocated their energy, but rather in the fact that the treatment group’s plants did not sprout of grow at all. By the time measurements were taken, the seeds of the treatment group had grown mold on them. This caused all measurements for the treatment group to be zero, thus causing the significent difference in the data. 
 
 In summary, the correct prediction in which groups would have the larger root:shoot ratio is not adequately justified due to the error in preparing our experiment. 
 
@@ -68,7 +68,7 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1: Difference in root:shoot ratio between control and treatment group. Based on the presence and absence of nitrogen in the soil affecting the root:shoot ratio in field pea plants. *************************************************************************
+Figure 1: Difference in root:shoot ratio between controll and treatment group. Based on the presence and absence of nitrogen in the soil affecting the root:shoot ratio in field pea plants. *************************************************************************
 
 
 

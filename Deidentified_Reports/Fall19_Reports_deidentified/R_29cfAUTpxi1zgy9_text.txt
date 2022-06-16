@@ -10,23 +10,23 @@ TA: TA_QsMOD6cQ
 Title: Environmental Effects of Acidic Soil on Polygonum fagopyrum
 
 Abstract:
-In this experiment, Polygonum fagopyrum, Buckwheat plants, were grown in an acidic soil environment to determine how this condition would influence plant growth. The average weight shoot:root ratio was recorded for each plant. Data was analyzed using a two-sample t-test. The following results indicated that the control group and experimental group are statistically different (t-stat=1.12 df=16 P=0.139). The experimental group had a greater root: shoot ratio than the control.
+In this experiment, Polygonum fagopyrum, Buckwheat plants, were grown in an acidic soil environment to determine how this condition would influence plant growth. The average weight shoot:root ratio was recorded for each plant. Data was analyzed using a two-sample t_test. The following results indicated that the controll group and experimental group are statistically different (t_stat=1.12 d.f.=16 P=0.139). The experimental group had a greater root: shoot ratio than the controll.
 
 Introduction:
 Phenotype plasticity is a plant’s ability to tolerate and adapt to its environment. Soil nutrients is an abiotic factor that influences how plants allocate limited resources. In this experiment, Polygonum fagopyrum, Buckwheat plants, were grown in an acidic soil environment to determine how this condition would influence plant growth. Buckwheat prefers a neutral pH environment. (Pavek: 2016) They grow best in soil with good drainage and can only tolerate moderate acidity (to a pH of 5). (Myers: 1994) To determine any changes in plant phenotypic plasticity, the root: shoot weight ratio of each plant was calculated. Hypothesis: Buckwheat plants grown in acidic conditions will have a larger shoot: root ration that plants grown in a neutral pH environment. 
 
 
 
-Materials and Methods:
-Buckwheat seeds were grown in 6 containers: 3 experimental; 3 control using vermiculite is a soil substitute. Plants were watered every day using 200 ml of water. Experimental plants were given 50 ml of pH 3.5 and each day--for 2 weeks. Harvest 9 control and 9 experimental plants by pulling the plant gently out of the tray. Weigh the plants individually and record the weight. Cut the roots at the root-shoot junction and weigh the root mass. Measure the maximum shoot and root length, then record the mean value for the control group and the experimental group. Analyze results using a two-sample t-test. 
+Materials and Method:
+Buckwheat seeds were grown in 6 containers: 3 experimental; 3 controll using vermiculite is a soil substitute. Plants were watered every day using 200 Ml of water. Experimental plants were given 50 Ml of pH 3.5 and each day--for 2 weeks. Harvest 9 controll and 9 experimental plants by pulling the plant gently out of the tray. Weigh the plants individually and record the weight. Cut the roots at the root-shoot junction and weigh the root mass. Measure the maximum shoot and root length, then record the mean value for the controll group and the experimental group. Analyze results using a two-sample t_test. 
 
 
 
 Results:
-Data was taken for the experimental acidic soil group and the control neutral pH group. The mean of the control group was statistically different than that of the experimental group (t-stat=1.12 df=16 P=0.139)
+Data was taken for the experimental acidic soil group and the controll neutral pH group. The mean of the controll group was statistically different than that of the experimental group (t_stat=1.12 d.f.=16 P=0.139)
 
 Discussion:
-The results of this experiment support our hypothesis. The experimental group had a greater root: shoot ratio than the control. Based on the standard deviation, there was more deviance in the experimental group than the control group. The introduction of a more acidic environment caused experimental plant roots to grow more than the roots of the control group. Experimental plants grew longer roots to locate areas in soil with a neutral pH. (Myers:1994) Overall, Buckwheat is an excellent fast-growing crop. (Pavek: 2016) However, data from this experiment is indicative of the phenotypic plasticity of Buckwheat plants when resources are limited. 
+The results of this experiment support our hypothesis. The experimental group had a greater root: shoot ratio than the controll. Based on the standard deviation, there was more deviance in the experimental group than the controll group. The introduction of a more acidic environment caused experimental plant roots to grow more than the roots of the controll group. Experimental plants grew longer roots to locate areas in soil with a neutral pH. (Myers: 1994) Overall, Buckwheat is an excellent fast-growing crop. (Pavek: 2016) However, data from this experiment is indicative of the phenotypic plasticity of Buckwheat plants when resources are limited. 
 
 
 Literature Cited:
@@ -57,7 +57,7 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1: Average Weight Shoot: Root Ratio of the control group (mean=0.288 +/- 0.042 m SD) and the experimental group(mean=0.395 +/- 0.14m SD). *************************************************************************
+Figure 1: Average Weight Shoot: Root Ratio of the controll group (mean=0.288 +/- 0.042 m SD) and the experimental group(mean=0.395 +/- 0.14m SD). *************************************************************************
 
 
 

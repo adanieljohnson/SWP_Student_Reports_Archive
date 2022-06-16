@@ -15,21 +15,21 @@ N/A
 Introduction:
 The Manduca sexta, known more colloquially as the tobacco hornworm, is a common pest in a variety of plants such as tobacco, tomatoes, eggplants, peppers, and other various weeds. Manduca sexta in the larval stages are ravenous and widely considered pests as they feed on unripe fruit and leaves. This leaves large wounds in plants that exposes them to a variety of harmful plant pathogens which has been shown to have detrimental effects on the economic success of tobacco crops, and occasionally tomato and plant crops. On the other hand, the adult stage of the Manduca sexta are not pests and some are even considered beneficial pollinators [Byron:2017]. 
 	There are eight different developmental stages that make up the life cycle of the tobacco hornworm [Johnson:2018]. These stages start at the egg and ultimately end at the moth, commonly called the Carolina sphynx moth or the tobacco hawkmoth [Byron:2017]. After the tobacco hornworm develops from an egg, it undergoes five different instar larvae stages. After the fifth, it sustains the process of pupation for between 19 and 23 days [Johnson:2018].
-	The cycle of hormones that occurs during the developmental process of the Manduca is essential to its growth. Ecdysterone (20E) and Juvenile Hormone (JH) are two of the three hormones involved in the development if the Manduca sexta. Ecdysterone is produced in the prothoracic glands and is responsible for the timing of the molting of the Manduca sexta. JH is produced in the Corpus Allata and is responsible for the type of molt that that occurs. Both JH and Ecdysterone work together, in different proportions and concentrations, to control the growth, molting, and metamorphosis of the Manduca sexta [Johnson:2018]. JH levels remain very high during the first four larval instar periods of the Manduca sexta, and the levels of JH start to drop at the end of the fourth instar. After this, a small rise of 20E occurs and causes the commitment pulse, which triggers pupation [Johnson 2018].  
+	The cycle of hormones that occurs during the developmental process of the Manduca is essential to its growth. Ecdysterone (20E) and Juvenile Hormone (JH) are two of the three hormones involved in the development if the Manduca sexta. Ecdysterone is produced in the prothoracic glands and is responsible for the timing of the molting of the Manduca sexta. JH is produced in the Corpus Allata and is responsible for the type of molt that that occurs. Both JH and Ecdysterone work together, in different proportions and concentrations, to controll the growth, molting, and metamorphosis of the Manduca sexta [Johnson:2018]. JH levels remain very high during the first four larval instar periods of the Manduca sexta, and the levels of JH start to drop at the end of the fourth instar. After this, a small rise of 20E occurs and causes the commitment pulse, which triggers pupation [Johnson 2018].  
 	With this information in mind, it is possible that by increasing the amount of JH present, there is a chance that the Manduca sexta would reach the fifth instar faster. This could possibly cause it to pupate at an increased rate and become a moth, making it less of a pest. For this experiment, our group hypothesized that by adding the JH analog, Precor, the Manduca sexta would increase in weight and ultimately grow faster than those who were not given the extra Juvenile hormone.
 
 
 
-Materials and Methods:
-The first step in our experiment was to set up the Manduca Sexta habitat. The group obtained two containers, each with four segments. This gave room for four control and four experimental caterpillars. Next, we placed holes inside of each slot of the container to ensure proper airflow to the Manduca Sexta. Then, we labeled each container as either control or experimental and numbered each slot one through four.
-Secondly, we set up food for the Manduca Sexta. This was especially important because it is how the treatment is was administered. The control group received five drops of water mixed with ten grams of food. The experimental group received five drops of Precor mixed with Ten grams of food. These were mixed up and rolled it into a ball. Then, we placed the mixture in the respective slot. 
+Materials and Method:
+The first step in our experiment was to set up the Manduca Sexta habitat. The group obtained two containers, each with four segments. This gave room for four controll and four experimental caterpillars. Next, we placed holes inside of each slot of the container to ensure proper airflow to the Manduca Sexta. Then, we labeled each container as either controll or experimental and numbered each slot one through four.
+Secondly, we set up food for the Manduca Sexta. This was especially important because it is how the treatment is was administered. The controll group received five drops of water mixed with ten grams of food. The experimental group received five drops of Precor mixed with Ten grams of food. These were mixed up and rolled it into a ball. Then, we placed the mixture in the respective slot. 
 Next, one Manduca Sexta was placed in each container, which were then put in an incubator for fourteen days. We observed them every day for two weeks. Each day we came in we cleaned out the container, replenished the food, and weighed each hornworm. It was important to remake the food every day in order to avoid dehydration. 
-After two weeks of collecting data, we compared the recorded weights of the Manduca sexta and ran a two-sample t-test to determine statistical significance in the weights of the control and experimental groups. 
+After two weeks of collecting data, we compared the recorded weights of the Manduca sexta and ran a two-sample t_test to determine statistical significance in the weights of the controll and experimental groups. 
 
 
 Results:
-Both the control and experimental groups increases at a relatively constant rate. The only difference was that the experimental group were noticeably larger than the control group. There is a slight decline in the masses of each group that can be seen after day twelve until the end of the experiment. From a behavioral standpoint, the experimental group seemed much more lethargic and enlarged than their counterparts in the control group. They also seemed to be slightly lighter in color than those in the control group. 
-The average of the masses taken over two weeks for the experimental group was 9.009 with a standard deviation of 6.070. The average mass of the control group was slightly smaller at 8.725 with a standard deviation of 3.980. Overall, the difference of the means of the experimental group treated with Precor and the control group showed to be statistically significant (t-stat = 1.74, df = 28, P= 0.046). 
+Both the controll and experimental groups increases at a relatively constant rate. The only difference was that the experimental group were noticeably larger than the controll group. There is a slight decline in the masses of each group that can be seen after day twelve until the end of the experiment. From a behavioral standpoint, the experimental group seemed much more lethargic and enlarged than their counterparts in the controll group. They also seemed to be slightly lighter in color than those in the controll group. 
+The average of the masses taken over two weeks for the experimental group was 9.009 with a standard deviation of 6.070. The average mass of the controll group was slightly smaller at 8.725 with a standard deviation of 3.980. Overall, the difference of the means of the experimental group treated with Precor and the controll group showed to be statistically significent (t_stat = 1.74, d.f. = 28, P= 0.046). 
 
 
 Discussion:
@@ -41,7 +41,7 @@ Overall, the results found from this experiment conducted lead us to a greater u
 
 
 Literature Cited:
-Rountree, Dorothy, and Walter Bollenbacher . THE RELEASE OF THE PROTHORACICOTROPIC HORMONE IN THE TOBACCO HORNWORM, MANDUCA SEXTA, IS CONTROLLED INTRINSICALLY BY JUVENILE HORMONE, 4 July 1985, jeb.biologists.org/content/jexbio/120/1/41.full.pdf.
+Rountree, Dorothy, and Walter Bollenbacher . THE RELEASE OF THE PROTHORACICOTROPIC HORMONE IN THE TOBACCO HORNWORM, MANDUCA SEXTA, IS CONTROLLED INTRINSICALLY BY JUVENILE HORMONE, 4 July 1985, jeb.biologists.org/content/jexbio/120/1/41.full.pd.f..
 
 Johnson AD. Comparative Physiology. BIO 114 Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp. 5-13.
  
@@ -70,7 +70,7 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. Average masses over time of Manduca sexta treated with 5 drops of Water (control) or Precor (experiment) *************************************************************************
+Figure 1. Average masses over time of Manduca sexta treated with 5 drops of Water (controll) or Precor (experiment) *************************************************************************
 
 
 

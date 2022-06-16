@@ -20,21 +20,21 @@ This experiment investigates how manipulating sunlight influences root-to-shoot 
 
 Given what is known about resource allocation and how it worked for alfalfa plants, if the root-to-shoot ratios of mung beans growing in full sunlight have a higher root-to-shoot ratio than those of the 0% and 50% light conditions, it can be determined that as sunlight increases, so does root growth.
 
-Materials and Methods:
+Materials and Method:
 Three large trays were amassed and labeled either 0% light, 50% light, or 100% light. Nine smaller pots, or replicates, were filled to the brim with soil and fifteen mung bean seeds were added and dispersed throughout the soil of each pot. The nine pots were divided among and placed inside the three large trays. Once assembly was completed, the 0% light tray was placed into a dark cabinet in the lab room, the 50% light tray was placed under a dark, semi-transparent screen in the greenhouse, and the 100% light tray was placed in the greenhouse under full sunlight conditions. Every day, a group member watered all nine pots, filling up a watering can fully and equally dividing the water among each pot. This process repeated every day for two weeks. 
 
 After allowing the mung beans to grow for two weeks, the number of leaves on each mung bean plant was recorded in addition to noting the general color of the plant and the number of plants that germinated out of the fifteen seeds that were planted. In order to record root and shoot masses and lengths, the soil and plants were removed and placed into a bucket of water to help separate the soil from the roots of each plant. It is important to keep the plants from each pot remain grouped together within their replicate for further measurements when separating the plants from the soil. 
 
 After washing each individual mung bean plant, the length of each whole plant was recorded in addition to the mass of all the plants in a pot. Then the length of each plant’s root was recorded in addition to the mass of all the roots in a pot once the roots were separated from the shoots. 
 
-Using the collected root and shoot data, averages and standard deviations were determined for the mass and length root-to-shoot ratios of each light intensity. In addition, a two-tail t-test was performed to compare the 0% and 100% light intensity groups, and p-values were calculated in order to determine if the collected data was statistically significant.
+Using the collected root and shoot data, averages and standard deviations were determined for the mass and length root-to-shoot ratios of each light intensity. In addition, a two-tail t_test was performed to compare the 0% and 100% light intensity groups, and p_values were calculated in order to determine if the collected data was statistically significent.
 
 It is important to note that while recording the length and mass data, all replicates for 0% light and 100% light intensities were recorded separately, then averaged down to one single mean value for each intensity. However, while recording the length and mass data of the 50% light intensity mung beans, instead of recording the data of each replicate separately and then averaging the three replicate values down to one, all three replicates were combined into one large group with one single mean value. Because of this, for the 50% light intensity data, there is no standard deviation because instead of three replicates that can be compared, there is only one large replicate that cannot be compared to anything.
 
 Results:
 The root to shoot mass and length ratios of the mung beans did increase as light intensity increased, as expressed in Figure 1 and Figure 2. 
 
-After performing a two-tailed t-test comparing the replicate data of the 0% and 100% mass and length ratios, it was confirmed that the data were statistically significant.  The mass ratios had a p-value of 0.002, t-value of 6.97, and a degree of freedom of 4 for mass ratios, and the length ratios had a p-value of 0.004, t-value of 5.67, and a degree of freedom of 4. 
+After performing a two-tailed t_test comparing the replicate data of the 0% and 100% mass and length ratios, it was confirmed that the data were statistically significent.  The mass ratios had a p_value of 0.002, t-value of 6.97, and a degree of freedom of 4 for mass ratios, and the length ratios had a p_value of 0.004, t-value of 5.67, and a degree of freedom of 4. 
 
 In addition, as light intensity increased, so did the average germination rate of each replicate, as shown in Figure 3.  Lastly, as light intensity increased, so did the pigmentation of the mung bean plants. The mung beans grown in 50% and 100% light conditions were a healthy shade of green, while the mung beans grown in darkness were a sickly, white-yellow tone. 
 
@@ -53,7 +53,7 @@ In conclusion, experimenting with light intensities contributes to a larger unde
 
 Literature Cited:
 1. Johnson AD. Ecology & Evolution. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 17.2 (updated August 14, 2017), pp. 15-18. 
-2. Muhammad, Y., et al. “The Effect of Reduced Light Intensity on Grass Weeds.” Weed Science, vol. 65, no. 05, 2017, pp. 603–613., doi:10.1017/wsc.2017.17. 
+2. Muhammad, Y., et al. “The Effect of Reduced Light Intensity on Grass Weeds.” Weed Science, vol. 65, no. 05, 2017, pp. 603–613., doi: 10.1017/wsc.2017.17. 
 3.Eckhart, G., et al. “Effect of Varied Soil Nitrogen Supply on Growth and Nutrient Uptake of Young Norway Spruce Plants Grown in a Shaded Environment.” Journal of Plant Nutrition and Soil Science, WILEY‐VCH Verlag GmbH, 30 Mar. 2000. 
 4. Lorensen, E., et al. “The Appearance of New Active Forms of Trypsin Inhibitor in Germinating Mung Bean (Vigna Radiata) Seeds.” Plant Physiology, vol. 68, no. 1, Jan. 1981, pp. 88–92.
 5. Gottschalk, Kurt. “George, Eckhard, Et Al. ‘Effects of Shading on Growth and Development of Northern Red Oak, Black Oak, Black Cherry, and Red Maple Seedlings .’ Department of Forestry and Agricultural Experiments, 15 Apr. 1985. 

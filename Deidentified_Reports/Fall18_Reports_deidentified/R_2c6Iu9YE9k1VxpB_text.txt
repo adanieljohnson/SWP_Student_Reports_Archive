@@ -10,38 +10,38 @@ TA: TA_TaMqWbpv
 Title: The effect of methoprene on Manduca sexta caterpillars
 
 Abstract:
-The main objective of this study was to determine whether or not a specific insect growth regulator, methoprene, would inhibit the pupation of Manduca sexta caterpillars. Juvenile hormone is present in high levels in larvae caterpillars; when the hormone drops, the caterpillar’s body signals that it is time for pupation. Methoprene mimics juvenile hormone. Eight Manduca sexta caterpillars were observed and weighed over the course of eleven days. Four of the caterpillars, the control group, were fed caterpillar diet while the other four, the experimental group, were fed caterpillar diet with five drops of methoprene mixed into every ten grams of diet. When using a two-sample t-test to compare the average difference in weight of the control group and the weight of the experiment group, our p-value was significant, which indicates that methoprene does inhibit the pupation of Manduca sexta caterpillars. 
+The main objective of this study was to determine whether or not a specific insect growth regulator, methoprene, would inhibit the pupation of Manduca sexta caterpillars. Juvenile hormone is present in high levels in larvae caterpillars; when the hormone drops, the caterpillar’s body signals that it is time for pupation. Methoprene mimics juvenile hormone. Eight Manduca sexta caterpillars were observed and weighed over the course of eleven days. Four of the caterpillars, the controll group, were fed caterpillar diet while the other four, the experimental group, were fed caterpillar diet with five drops of methoprene mixed into every ten grams of diet. When using a two-sample t_test to compare the average difference in weight of the controll group and the weight of the experiment group, our p_value was significent, which indicates that methoprene does inhibit the pupation of Manduca sexta caterpillars. 
 
 Introduction:
 Insect growth regulators (IGR) affect insect development in a negative way by altering regulatory processes that are necessary for healthy development, but IGR are not directly toxic to the insect [Tunaz: 2004]. We will study methoprene, a chemical found in floss-flower leaves, on Manduca sexta caterpillars. Methoprene imitates the role juvenile hormones (JH). JH levels are high in Manduca sexta until the end of the fourth instar period, and JH levels dropping dramatically signal that the caterpillar is ready for pupation; this event is known as the commitment pulse [Johnson: 2018]. Similar studies have been done in relation to the investigation of JH. In 1974, Carroll and Williams found that JH was involved in the causation of metamorphosis. They found that pupation was prolonged when injecting caterpillars with juvenile hormone. They also determined that Manduca sexta stop producing JH when they weigh 5 grams, which provokes pupation [Nijhout: 1974]. Caterpillars will be fed leaves containing high levels of methoprene and study the effect of the methoprene on the rate of growth that our caterpillars will undergo. Our independent variable will be the methoprene given to the caterpillars, and the dependent variable will be the weight of the caterpillars. Weight was chosen to be measured because it has been shown that caterpillars pupate when their weight is about 5 grams. We hypothesize that when high levels of methoprene are ingested, caterpillar pupation will be inhibited, and the caterpillars will have weight change.
 
 
-Materials and Methods:
-Eight Manduca sexta caterpillars were divided into two groups of four (one control group and one experimental group).
-The individual compartments of two containers containing four compartments each were used. One held the experimental group and one held the control group. All of the eight compartments were labeled one of the following: C1, C2, C3, C4, E1, E2, E3, or E4. 
+Materials and Method:
+Eight Manduca sexta caterpillars were divided into two groups of four (one controll group and one experimental group).
+The individual compartments of two containers containing four compartments each were used. One held the experimental group and one held the controll group. All of the eight compartments were labeled one of the following: C1, C2, C3, C4, E1, E2, E3, or E4. 
 Each caterpillar was fed one of the two options:
-Caterpillars in the control group were fed 10 grams of caterpillar diet with 5 drops of water mixed into the diet
+Caterpillars in the controll group were fed 10 grams of caterpillar diet with 5 drops of water mixed into the diet
 Caterpillars in the experimental group were fed 10 grams of caterpillar diet with 5 drops of methoprene mixed into the diet 
 All caterpillars were kept in the same incubator and were weighed and observed daily for for eleven days: September 5th through September 18th, excluding September 14th, 15th, and 16th because of the hurricane.
 Observations were recorded when necessary based on the amount of caterpillar movement and color
-The two sample t-test was used to compare the average of the difference in caterpillar weight between the experimental group and the control group.
+The two sample t_test was used to compare the average of the difference in caterpillar weight between the experimental group and the controll group.
 
 
 Results:
-The average weight of the control group was 3.48 g with a standard deviation of 3.92 g, and the average weight of the experimental group was 9.42 g with a standard deviation of 1.84 g. The p-value of the  two-sample t-test was 0.0024. Some important observations to be noted were that after the caterpillars in the control group became pupas, the weight of the caterpillar did not increase by more than a maximum of 2 grams, and none of the experimental caterpillars pupated while three of the four control group did. 
+The average weight of the controll group was 3.48 g with a standard deviation of 3.92 g, and the average weight of the experimental group was 9.42 g with a standard deviation of 1.84 g. The p_value of the  two-sample t_test was 0.0024. Some important observations to be noted were that after the caterpillars in the controll group became pupas, the weight of the caterpillar did not increase by more than a maximum of 2 grams, and none of the experimental caterpillars pupated while three of the four controll group did. 
 
 
 Discussion:
-We can reject the null hypothesis and accept the alternative hypothesis, which states that when high levels of methoprene are ingested, caterpillar pupation is inhibited. Our results are significant, thus showing that the results of our experiment did not happen by chance. The ingestion of methoprene hindered caterpillar pupation.
+We can reject the null hypothesis and accept the alternative hypothesis, which states that when high levels of methoprene are ingested, caterpillar pupation is inhibited. Our results are significent, thus showing that the results of our experiment did not happen by chance. The ingestion of methoprene hindered caterpillar pupation.
 
-As shown by Figure 1, the average weight of the control group was significantly smaller than that of the experimental group. This is because none of the experimental group pupated; instead, they kept growing and gaining weight. 
+As shown by Figure 1, the average weight of the controll group was significently smaller than that of the experimental group. This is because none of the experimental group pupated; instead, they kept growing and gaining weight. 
 
 Our results support the findings of Nijhout and Williams, who found that pupation was prolonged when injecting caterpillars with juvenile hormone. We fed the experimental group of caterpillars a diet with methoprene, an IGR that mimics juvenile hormone, and the experimental group did not pupate during the time in which they were observed.
 
 This knowledge can help farmers. We deterred the pupation of caterpillars by feeding them 5 drops of methoprene for every 1 grams of food. Caterpillars need to pupate to reproduce, so by feeding them methoprene we hinder the expansion of the caterpillar which is harmful to a farmer’s harvest. In the future, studies should be done to test the effect of the methoprene on the farmer’s harvest to see how applicable the knowledge is that methoprene can be used to deter Manduca sexta caterpillars, as well as determining the smallest amount of methoprene necessary to prevent Manduca sexta from pupation, so that farmers do not waste money by applying an excess amount of chemicals to the caterpillars. 
 
 Literature Cited:
-1. Tunaz H, Uygun N. 2004. Insect growth regulators for pest control. Turkish Journal of Agriculture and Forestry. 28: 377-387.
+1. Tunaz H, Uygun N. 2004. Insect growth regulators for pest controll. Turkish Journal of Agriculture and Forestry. 28: 377-387.
 
 2. Johnson AD. Cell Structure. Biological Laboratory Manual. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 18.2 (updated August 2, 2018), pp 8-13. 
 
@@ -70,7 +70,7 @@ Figure 2: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. The average weight of the control group is compared to that of the experimental group. Each caterpillars’ weight on day one was subtracted from its weight on day 11, and the weights were averaged according to group.*************************************************************************
+Figure 1. The average weight of the controll group is compared to that of the experimental group. Each caterpillars’ weight on day one was subtracted from its weight on day 11, and the weights were averaged according to group.*************************************************************************
 
 
 

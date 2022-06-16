@@ -14,16 +14,16 @@ no abstract
 
 Introduction:
 Introduction
-	Manduca sexta, also known as the Tobacco Hornworm, lives a holometabolous life cycle consisting of four or five larval instars followed by pupation and the rearrangement of most of its internal organs called, metamorphosis. The timing and type of the molt that the insect undergoes is controlled by its endocrine system. Ecdysterone (20E) and Juvenile Hormone (JH) are the two hormones that control this process. Ecdysterone controls the timing of the molt, when it spikes it signals the beginning of a molt or of pupation into an adult [Hatem, 2015]. Juvenile Hormone controls what type of molt the insect undergoes. If JH is high, the insect undergoes a molt from one larvae to another, but, when JH drops, the insect undergoes its final metamorphosis into an adult. Therefore we hypothesized that if we varied the levels of juvenile hormones in the food of our experimental group, then the insects given supplements of juvenile hormone would take longer to pupate. 
+	Manduca sexta, also known as the Tobacco Hornworm, lives a holometabolous life cycle consisting of four or five larval instars followed by pupation and the rearrangement of most of its internal organs called, metamorphosis. The timing and type of the molt that the insect undergoes is controllled by its endocrine system. Ecdysterone (20E) and Juvenile Hormone (JH) are the two hormones that controll this process. Ecdysterone controlls the timing of the molt, when it spikes it signals the beginning of a molt or of pupation into an adult [Hatem, 2015]. Juvenile Hormone controlls what type of molt the insect undergoes. If JH is high, the insect undergoes a molt from one larvae to another, but, when JH drops, the insect undergoes its final metamorphosis into an adult. Therefore we hypothesized that if we varied the levels of juvenile hormones in the food of our experimental group, then the insects given supplements of juvenile hormone would take longer to pupate. 
 
 
-Materials and Methods:
-Materials and Methods
-	The Manduca sexta were provided by our TA and placed in two four-slot containers with one caterpillar in each container. Two airholes were punched in each of the slots, and 10 grams of food were placed in each slot. The control group’s food was treated with 5 drops of water, and the experimental group’s food was treated with 5 drops of Precor, a Juvenile Hormone analog, for the first week. The second week, the control group’s food was treated with 10 drops of water, and the experimental group’s food was treated with 10 drops of Precor. The mass of the insects was measured every day, and they were watched for signs of pupation. 
+Materials and Method:
+Materials and Method
+	The Manduca sexta were provided by our TA and placed in two four-slot containers with one caterpillar in each container. Two airholes were punched in each of the slots, and 10 grams of food were placed in each slot. The controll group’s food was treated with 5 drops of water, and the experimental group’s food was treated with 5 drops of Precor, a Juvenile Hormone analog, for the first week. The second week, the controll group’s food was treated with 10 drops of water, and the experimental group’s food was treated with 10 drops of Precor. The mass of the insects was measured every day, and they were watched for signs of pupation. 
 
 
 Results:
-The mass of the test caterpillars remained fairly equivalent to and even surpassed that of the control caterpillars during the experiment. We ran a one-tailed T-test that came out with a t-value of 0.3287, p-value of 0.3724, and 28 degrees of freedom, meaning that our results had no statistical significance. No signs of pupation were seen during this experiment. 
+The mass of the test caterpillars remained fairly equivalent to and even surpassed that of the controll caterpillars during the experiment. We ran a one-tailed T-test that came out with a t-value of 0.3287, p_value of 0.3724, and 28 degrees of freedom, meaning that our results had no statistical significance. No signs of pupation were seen during this experiment. 
 
 Discussion:
 Discussion

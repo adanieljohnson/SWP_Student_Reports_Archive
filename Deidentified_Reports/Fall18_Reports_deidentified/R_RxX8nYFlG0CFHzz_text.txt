@@ -10,7 +10,7 @@ TA: TA_zoTYZxuS
 Title: Disrelation of Protein Kinase A in Physarum’s Growth
 
 Abstract:
-Physarum polycephalum is a multi-nucleated, unicellular slime mold that shows different behaviors in response to external stimuli. It uses signal transduction pathways to respond to stimuli including food, light, and chemical substances. The most commonly used pathway is G-protein signaling pathway which uses G-protein coupled receptors and 2nd messengers to pass along the signal. The hypothesis is that if we activate protein kinase A which is an enzyme that is activated by cAMP, physarum will grow more, and if one deactivates protein kinase A, physarum will grow less. The result shows that the difference of growth among 3 groups – control, and 2 treatment groups that were treated by either activator or deactivator – was insignificant. In the future, an advance research may be done on what specific role protein kinase A plays in Physarum and how it is essential for the growth. 
+Physarum polycephalum is a multi-nucleated, unicellular slime mold that shows different behaviors in response to external stimuli. It uses signal transduction pathways to respond to stimuli including food, light, and chemical substances. The most commonly used pathway is G-protein signaling pathway which uses G-protein coupled receptors and 2nd messengers to pass along the signal. The hypothesis is that if we activate protein kinase A which is an enzyme that is activated by cAMP, physarum will grow more, and if one deactivates protein kinase A, physarum will grow less. The result shows that the difference of growth among 3 groups – controll, and 2 treatment groups that were treated by either activator or deactivator – was insignificent. In the future, an advance research may be done on what specific role protein kinase A plays in Physarum and how it is essential for the growth. 
 
 Introduction:
         Physarum polycephalum, also known as “many-headed slime”, is a slime mold which is multi-nucleated but unicellular protist. It shows intelligent, habituation learning which means that its behaviors change in response to external stimulus without any nervous system. This organism is also known for its ability to navigate mazes with the shortest route between food resources and to structure its connections to different nutrient sources as well as common behaviors including cytoplasmic streaming, phototaxis, chemotaxis, and gravitaxis [Alim: 2016]. Even though the organism does not have central nervous system, it uses signaling pathways to respond to external stimuli including nutrients, light and chemical substances. 
@@ -18,27 +18,27 @@ Introduction:
 	In this lab, one will focus on how protein kinase A which is an enzyme activated by cAMP and carry out cellular response, will affect physarum’s growth when it is either activated or inhibited by chemical substances. The hypothesis is activated protein kinase A will promote Physarum to grow more and deactivated protein kinase A will inhibit the growth of Physarum. 
 
 
-Materials and Methods:
-The experiment was performed with physarum polycephalum on nine PDA (potato dextrose agar) plates to control its nutrients. Each PDA plate was prepared by cutting 1cm2 of block with metal spatula and forceps. Metal spatula and forceps were sterilized with 95% ethanol and flame between cutting and removing each square to minimize possible contamination. We also prepared nine 1cm2 square of physarum from the stock culture plate, and placed them into each square in PDA plate. 1mL of 20mM Dibutryl-cAMP and Curcumin were diluted by adding 20mL of water to get the final concentration of 10mM. 
-Out of 9 PDA plates, 3 plates were treated with 10mM of dibutryl-cAMP, 3 plates were treated with 10mM of Curcumin, and 3 plates were treated with water to serve as control group. Each plate had one block for culture. All of nine plates were treated in the light-blocking plastic bag inside of the incubator and observed after 48 hours. 
+Materials and Method:
+The experiment was performed with physarum polycephalum on nine PDA (potato dextrose agar) plates to controll its nutrients. Each PDA plate was prepared by cutting 1cm2 of block with metal spatula and forceps. Metal spatula and forceps were sterilized with 95% ethanol and flame between cutting and removing each square to minimize possible contamination. We also prepared nine 1cm2 square of physarum from the stock culture plate, and placed them into each square in PDA plate. 1Ml of 20mM Dibutryl-cAMP and Curcumin were diluted by adding 20Ml of water to get the final concentration of 10mM. 
+Out of 9 PDA plates, 3 plates were treated with 10mM of dibutryl-cAMP, 3 plates were treated with 10mM of Curcumin, and 3 plates were treated with water to serve as controll group. Each plate had one block for culture. All of nine plates were treated in the light-blocking plastic bag inside of the incubator and observed after 48 hours. 
 	We used the software, called image J to measure the area of growth, and conducted one-way ANOVA with α=0.05 to determine if physarum’s growth differs among each treatment. 
 
 
 Results:
-As depicted in Figure 1, both treatment groups had smaller area of growth than the control group. Among three groups, the group that is treated with dibutryl-cAMP had the smallest area of growth while the control group had the largest area of growth. The standard deviation for d-cAMP was the biggest with the value of 0.032 [Figure 1]. According to the one-way ANOVA test run with  value of 0.05, there was insignificant difference (p=0.716) in the average area of Physarum of the three groups. 
+As depicted in Figure 1, both treatment groups had smaller area of growth than the controll group. Among three groups, the group that is treated with dibutryl-cAMP had the smallest area of growth while the controll group had the largest area of growth. The standard deviation for d-cAMP was the biggest with the value of 0.032 [Figure 1]. According to the one-way ANOVA test run with  value of 0.05, there was insignificent difference (p=0.716) in the average area of Physarum of the three groups. 
 
 Discussion:
-The result did not support the hypothesis that the group treated with d-cAMP, which activates protein kinase A, will yield better growth of Physarum. The difference in growth among three groups was highly insignificant, and the standard deviation of each group was large as well. One plate from d-cAMP group did not have any growth at all. 
+The result did not support the hypothesis that the group treated with d-cAMP, which activates protein kinase A, will yield better growth of Physarum. The difference in growth among three groups was highly insignificent, and the standard deviation of each group was large as well. One plate from d-cAMP group did not have any growth at all. 
 	Despite of the fact that d-cAMP excites activity of protein kinase A, and curcumin inhibits activity of protein kinase A, they did not have any effect on growth. The primary role of the protein kinase is “to modify the function of downstream effector proteins by phosphorylation of serine/threonine (S/T) or tyrosine (Y) residues” [Schaap: 2015]. Among those residues, it was found that tyrosine kinase provides structural similarity to receptor tyrosine kinase which detect growth factors. One may think that if the receptor detects growth factors and hormones which will allow the growth of organism, the activated protein kinase is supposed to stimulate growth; however, another study one by Schaap explains that “PKA activity is not required for growth” even though it might be necessary from the transition from growth to aggregation [Schaap:2014]. This is also supported by the study done by Trevithick which claims that dibutryl activates protein kinase A and accelerates reconstruction of the nucleus following mitosis which can contribute to accelerated rate of growth. 
 	Our result that did not support the hypothesis may have resulted because the growth was observed over not long enough time to give inhibitors and activators to have an effect on the growth. 
 
 
 Literature Cited:
-Alim, Karen, et al. “Mechanism of Signal Propagation in Physarum Polycephalum.” Proceedings of the National Academy of Sciences, vol. 114, no. 20, 2017, pp. 5136–5141., doi:10.1073/pnas.1618114114.
+Alim, Karen, et al. “Mechanism of Signal Propagation in Physarum Polycephalum.” Proceedings of the National Academy of Sciences, vol. 114, no. 20, 2017, pp. 5136–5141., doi: 10.1073/pnas.1618114114.
 Johnson AD. Cell Structure. Biological Principles Laboratory Manual. Dept. Biology, Wake Forest University, Winston–Salem, NC. Vers. 18.1 (updated May 1, 2018).
-Schaap, Pauline. “Evolution of Developmental Cyclic Adenosine Monophosphate Signaling in the Dictyostelia from an Amoebozoan Stress Response.” Development, Growth & Differentiation, vol. 53, no. 4, 2011, pp. 452–462., doi:10.1111/j.1440-169x.2011.01263.x.
-Schaap, Pauline, et al. “ThePhysarum PolycephalumGenome Reveals Extensive Use of Prokaryotic Two-Component and Metazoan-Type Tyrosine Kinase Signaling.” Genome Biology and Evolution, vol. 8, no. 1, 2015, pp. 109–125., doi:10.1093/gbe/evv237.
-Trevithick, J. R., and R. Braun. “Timing of Mitosis in Physarum Polycephalum: Effects of Agents Affecting Cyclic AMP Concentrations.” Experientia, vol. 33, no. 1, 1977, pp. 28–29., doi:10.1007/bf01936733.
+Schaap, Pauline. “Evolution of Developmental Cyclic Adenosine Monophosphate Signaling in the Dictyostelia from an Amoebozoan Stress Response.” Development, Growth & Differentiation, vol. 53, no. 4, 2011, pp. 452–462., doi: 10.1111/j.1440-169x.2011.01263.x.
+Schaap, Pauline, et al. “ThePhysarum PolycephalumGenome Reveals Extensive Use of Prokaryotic Two-Component and Metazoan-Type Tyrosine Kinase Signaling.” Genome Biology and Evolution, vol. 8, no. 1, 2015, pp. 109–125., doi: 10.1093/gbe/evv237.
+Trevithick, J. R., and R. Braun. “Timing of Mitosis in Physarum Polycephalum: Effects of Agents Affecting Cyclic AMP Concentrations.” Experientia, vol. 33, no. 1, 1977, pp. 28–29., doi: 10.1007/bf01936733.
 
 
 Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?Filename=Picture1.png&Size=22223&Type=image%2Fpng&F=F_3hiGajSPpXplVz4
@@ -63,8 +63,8 @@ Figure 1: https://wakeforest.qualtrics.com/WRQualtricsControlPanel/File.php?File
 
 
 Figure Legends: 
-Figure 1. Two treatment groups and one control group vs. the area of Physarum’s growth. 
-The red bar represents control group, the green bar represents d-cAMP, and the blue bar represents curcumin. The error bars represent +/- one standard deviation.  
+Figure 1. Two treatment groups and one controll group vs. the area of Physarum’s growth. 
+The red bar represents controll group, the green bar represents d-cAMP, and the blue bar represents curcumin. The error bars represent +/- one standard deviation.  
 *************************************************************************
 
 
