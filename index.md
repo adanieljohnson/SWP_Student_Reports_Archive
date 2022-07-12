@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the SWP Student Reports Archive
 
-You can use the [editor on GitHub](https://github.com/adanieljohnson/SWP_Student_Reports_Archive/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Biology Student Reports Archive is our published dataset for research in text mining and computational linguistics. It contains >4400 anonymized student reports plus metadata, licensed for non-commercial academic uses.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adanieljohnson/SWP_Student_Reports_Archive/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+***
 
-### Support or Contact
+The STEM Writing Project is funded in part by NSF IUSE Program Award #1712423: "Improving Scientific Writing In Undergraduate STEM Classrooms: A Training Program for Students and Teaching Assistants Aided By Information Extraction Technology". All contents are the opinion of the project team, and are not endorsed by NSF or other supporting agency.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Except where noted, all content is licensed for reuse under [Creative Commons CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) ![](https://github.com/adanieljohnson/stemwritingproject/blob/main/CC_logo.png)
