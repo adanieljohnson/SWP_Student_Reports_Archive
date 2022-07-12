@@ -1,3 +1,5 @@
+<p>&nbsp;</p>
+<br> 
 ## Welcome to the SWP Student Reports Archive
 
 The Biology Student Reports Archive is our published dataset for research in text mining and computational linguistics. It contains >4400 anonymized student reports written for introductory biology courses, plus detailed metadata for each report. A separate codebook describes how the metadata are organized.
