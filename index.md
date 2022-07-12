@@ -1,37 +1,26 @@
 ## Welcome to the SWP Student Reports Archive
 
-The Biology Student Reports Archive is our published dataset for research in text mining and computational linguistics. It contains >4400 anonymized student reports plus metadata, licensed for non-commercial academic uses.
+The Biology Student Reports Archive is our published dataset for research in text mining and computational linguistics. It contains >4400 anonymized student reports written for introductory biology courses, plus detailed metadata for each report. A separate codebook describes how the metadata are organized.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All reports were collected as part of a research study conducted at Wake Forest University under supervision of the Institutional Review Board (IRB Protocol #00022693, approved January 2017). Only reports from students who provided written informed consent (signatures on file) are available from the archive. 
 
-### Markdown
+Reports have been de-identified, and both author and grader names replaced with randomized IDs. All report files have been converted to plain text (.txt) format. Examples of BaSH scripts used to strip identifying names and extraneous information are provided in a separate folder.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Licensing and Terms of Use
 
-```markdown
-Syntax highlighted code block
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-# Header 1
-## Header 2
-### Header 3
+This archive is intended to be a research resource. The terms of the Creative Commons license allow reports to be used for research and assessment purposes, but __does not allow commercial use in any form__. 
 
-- Bulleted
-- List
+The license also __explicitly states that users must attribute the original source__ when using these documents. These terms mean students are not permitted to submit or use these reports (in whole or in part) in any way that suggests they are the original author of the text. Failing to identify the original source is a violation of the Terms of Use.
 
-1. Numbered
-2. List
+If an instructor suspects students have used one or more of these documents inappropriately, please contact us for assistance. The individual files have embedded errors and formatting that clearly identify our texts as the original source of any copied materials.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 <br>
 
 ***
 
-The STEM Writing Project is funded in part by NSF IUSE Program Award #1712423: "Improving Scientific Writing In Undergraduate STEM Classrooms: A Training Program for Students and Teaching Assistants Aided By Information Extraction Technology". All contents are the opinion of the project team, and are not endorsed by NSF or other supporting agency.
+This archive was created by the __STEM Writing Project__ at Wake Forest University. We are STEM teachers and education researchers who want to make scientific writing a bigger part of students' training. The STEM Writing Project is funded in part by NSF IUSE Program Award #1712423: "Improving Scientific Writing In Undergraduate STEM Classrooms: A Training Program for Students and Teaching Assistants Aided By Information Extraction Technology".
 
-Except where noted, all content is licensed for reuse under [Creative Commons CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) ![](https://github.com/adanieljohnson/stemwritingproject/blob/main/CC_logo.png)
+All contents are the opinion of the project team, and are not endorsed by NSF or other supporting agency.
